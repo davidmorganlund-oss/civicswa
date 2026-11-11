@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CivicsWA: who represents you</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#results">Skip to results</a>
+<div class="notice">A project of BarNone, a nonprofit. Not affiliated with any government agency.</div>
+
+<header class="top"><div class="wrap">
+  <a class="brand" href="index.html">Civics<span>WA</span></a>
+  <nav aria-label="Main">
+    <a href="index.html">Calendar</a>
+    <a href="playbook.html">Playbook</a>
+    <a href="reps.html" aria-current="page">My representatives</a>
+  </nav>
+</div></header>
+
+<section class="hero"><div class="wrap">
+  <h1>Find everyone who represents you.</h1>
+  <p class="lede">Enter a Washington street address to see your city, county, state and federal representatives and how to reach them.</p>
+  <form class="search" id="lookup">
+    <div class="field wide">
+      <label for="address">Street address</label>
+      <input id="address" name="address" type="text" autocomplete="street-address" placeholder="601 4th Ave E, Olympia">
+    </div>
+    <button class="btn" type="submit">Look up</button>
+  </form>
+  <p class="small">Your address is sent from your browser to the U.S. Census Bureau's address lookup to find your districts. CivicsWA never receives or stores it.</p>
+</div></section>
+
+<main class="wrap narrow" style="padding-block: 40px 64px">
+  <div class="list" id="results" aria-live="polite">
+    <p class="empty">Your representatives will show up here.</p>
+  </div>
+  <p class="muted" style="margin-top: 24px">Not sure what to say once you have a name? Read <a href="guides/contact-your-representatives.html">how to contact the people who represent you</a>.</p>
+</main>
+
+<footer><div class="wrap">
+  <p>State legislators come from the Washington State Legislature's public member list and members of Congress from a public roster, both refreshed nightly. City and county links are being added one area at a time, starting with Thurston County.</p>
+  <p>CivicsWA is run by BarNone, an independent nonprofit. It is not a government website and does not speak for any public office.</p>
+</div></footer>
+
+<script src="reps.js"></script>
+</body>
+</html>
