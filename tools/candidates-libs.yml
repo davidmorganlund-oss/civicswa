@@ -1,0 +1,241 @@
+sources:
+- id: lib-kcls
+  name: King County Library System
+  county: King
+  area: countywide
+  type: bibliocommons
+  library: kcls
+  searches:
+  - board of trustees
+  - trustees
+  include: trustee|library board|board meeting
+  category: library
+  homepage: https://kcls.bibliocommons.com/v2/events
+- id: lib-sno-isle
+  name: Sno-Isle Libraries
+  county: Snohomish
+  area: countywide
+  type: bibliocommons
+  library: sno-isle
+  searches:
+  - board of trustees
+  - trustees
+  include: trustee|library board|board meeting
+  category: library
+  homepage: https://sno-isle.bibliocommons.com/v2/events
+- id: lib-krl
+  name: Kitsap Regional Library
+  county: Kitsap
+  area: countywide
+  type: bibliocommons
+  library: krl
+  searches:
+  - board of trustees
+  - trustees
+  include: trustee|library board|board meeting
+  category: library
+  homepage: https://krl.bibliocommons.com/v2/events
+- id: lib-fvrl
+  name: Fort Vancouver Regional Library District
+  county: Clark
+  area: countywide
+  type: bibliocommons
+  library: fvrl
+  searches:
+  - board of trustees
+  - trustees
+  include: trustee|library board|board meeting
+  category: library
+  homepage: https://fvrl.bibliocommons.com/v2/events
+- id: lib-wcls
+  name: Whatcom County Library System
+  county: Whatcom
+  area: countywide
+  type: bibliocommons
+  library: wcls
+  searches:
+  - board of trustees
+  - trustees
+  include: trustee|library board|board meeting
+  category: library
+  homepage: https://wcls.bibliocommons.com/v2/events
+- id: lib-scld
+  name: Spokane County Library District
+  county: Spokane
+  area: countywide
+  type: bibliocommons
+  library: scld
+  searches:
+  - board of trustees
+  - trustees
+  include: trustee|library board|board meeting
+  category: library
+  homepage: https://scld.bibliocommons.com/v2/events
+- id: lib-ncwlibraries
+  name: NCW Libraries
+  county: Chelan
+  area: countywide
+  type: bibliocommons
+  library: ncwlibraries
+  searches:
+  - board of trustees
+  - trustees
+  include: trustee|library board|board meeting
+  category: library
+  homepage: https://ncwlibraries.bibliocommons.com/v2/events
+- id: lib-yvl
+  name: Yakima Valley Libraries
+  county: Yakima
+  area: countywide
+  type: bibliocommons
+  library: yvl
+  searches:
+  - board of trustees
+  - trustees
+  include: trustee|library board|board meeting
+  category: library
+  homepage: https://yvl.bibliocommons.com/v2/events
+- id: lib-midcolumbia
+  name: Mid-Columbia Libraries
+  county: Benton
+  area: countywide
+  type: bibliocommons
+  library: midcolumbia
+  searches:
+  - board of trustees
+  - trustees
+  include: trustee|library board|board meeting
+  category: library
+  homepage: https://midcolumbia.bibliocommons.com/v2/events
+- id: lib-spl
+  name: Seattle Public Library
+  county: King
+  area: countywide
+  type: bibliocommons
+  library: spl
+  searches:
+  - board of trustees
+  - trustees
+  include: trustee|library board|board meeting
+  category: library
+  homepage: https://spl.bibliocommons.com/v2/events
+- id: lib-tacomapubliclibrary
+  name: Tacoma Public Library
+  county: Pierce
+  area: countywide
+  type: bibliocommons
+  library: tacomapubliclibrary
+  searches:
+  - board of trustees
+  - trustees
+  include: trustee|library board|board meeting
+  category: library
+  homepage: https://tacomapubliclibrary.bibliocommons.com/v2/events
+- id: lib-tpl
+  name: Tacoma Public Library
+  county: Pierce
+  area: countywide
+  type: bibliocommons
+  library: tpl
+  searches:
+  - board of trustees
+  - trustees
+  include: trustee|library board|board meeting
+  category: library
+  homepage: https://tpl.bibliocommons.com/v2/events
+- id: lib-spokanelibrary
+  name: Spokane Public Library
+  county: Spokane
+  area: countywide
+  type: bibliocommons
+  library: spokanelibrary
+  searches:
+  - board of trustees
+  - trustees
+  include: trustee|library board|board meeting
+  category: library
+  homepage: https://spokanelibrary.bibliocommons.com/v2/events
+- id: lib-epls
+  name: Everett Public Library
+  county: Snohomish
+  area: countywide
+  type: bibliocommons
+  library: epls
+  searches:
+  - board of trustees
+  - trustees
+  include: trustee|library board|board meeting
+  category: library
+  homepage: https://epls.bibliocommons.com/v2/events
+- id: lib-nols
+  name: North Olympic Library System
+  county: Clallam
+  area: countywide
+  type: bibliocommons
+  library: nols
+  searches:
+  - board of trustees
+  - trustees
+  include: trustee|library board|board meeting
+  category: library
+  homepage: https://nols.bibliocommons.com/v2/events
+- id: lib-pcls
+  name: Pierce County Library System
+  county: Pierce
+  area: countywide
+  type: bibliocommons
+  library: pcls
+  searches:
+  - board of trustees
+  - trustees
+  include: trustee|library board|board meeting
+  category: library
+  homepage: https://pcls.bibliocommons.com/v2/events
+- id: lib-piercecountylibrary
+  name: Pierce County Library System
+  county: Pierce
+  area: countywide
+  type: bibliocommons
+  library: piercecountylibrary
+  searches:
+  - board of trustees
+  - trustees
+  include: trustee|library board|board meeting
+  category: library
+  homepage: https://piercecountylibrary.bibliocommons.com/v2/events
+- id: lib-jclibrary
+  name: Jefferson County Library
+  county: Jefferson
+  area: countywide
+  type: bibliocommons
+  library: jclibrary
+  searches:
+  - board of trustees
+  - trustees
+  include: trustee|library board|board meeting
+  category: library
+  homepage: https://jclibrary.bibliocommons.com/v2/events
+- id: lib-bellingham
+  name: Bellingham Public Library
+  county: Whatcom
+  area: countywide
+  type: bibliocommons
+  library: bellingham
+  searches:
+  - board of trustees
+  - trustees
+  include: trustee|library board|board meeting
+  category: library
+  homepage: https://bellingham.bibliocommons.com/v2/events
+- id: lib-wwcrld
+  name: Walla Walla County Rural Library District
+  county: Walla Walla
+  area: countywide
+  type: bibliocommons
+  library: wwcrld
+  searches:
+  - board of trustees
+  - trustees
+  include: trustee|library board|board meeting
+  category: library
+  homepage: https://wwcrld.bibliocommons.com/v2/events

@@ -405,7 +405,10 @@ def normalize_bibliocommons(src, xml_text, tz):
 def fetch_bibliocommons(src, start_day, end_day, tz):
     import time as clock
     base = f"https://gateway.bibliocommons.com/v2/libraries/{src['library']}/rss/events"
-    queries = [{"locations": ",".join(src["locations"])}] + [{"q": q} for q in src.get("searches", [])]
+    # Branch events for a county, and/or keyword searches (a library system's
+    # board of trustees, which meets across its region).
+    queries = ([{"locations": ",".join(src["locations"])}] if src.get("locations") else []) + \
+        [{"q": q} for q in src.get("searches", [])]
     found = {}
     for query in queries:
         for page in range(1, 31):  # 25 events a page, soonest first
