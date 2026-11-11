@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Pierce County
 BEGIN:VEVENT
 UID:ec67498554e0@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261112T003000Z
 DTEND:20261112T013000Z
 SUMMARY:Infrastructure\, Planning\, and Sustainability Committee (City of Tacoma)
@@ -13,7 +13,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10814&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:3553de814931@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261112T010000Z
 DTEND:20261112T030000Z
 SUMMARY:CANCELLED: Personnel Board Meeting - Canceled due to no new business (Pierce County)
@@ -22,7 +22,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=108
 END:VEVENT
 BEGIN:VEVENT
 UID:1fe575a640f9@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261112T030000Z
 DTEND:20261112T040000Z
 SUMMARY:Lake City Neighborhood Association meeting (City of Lakewood)
@@ -31,7 +31,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:4f6d241a817b@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261112T173000Z
 DTEND:20261112T213000Z
 SUMMARY:Board of Equalization Hearings (Pierce County)
@@ -40,7 +40,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=81
 END:VEVENT
 BEGIN:VEVENT
 UID:b3412955e2f9@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261113T003000Z
 DTEND:20261113T013000Z
 SUMMARY:Community Vitality and Safety Committee (City of Tacoma)
@@ -49,7 +49,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10786&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:1e81358d404b@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261117T020000Z
 DTEND:20261117T050000Z
 SUMMARY:City Council Meeting (regular meeting followed by study session) (City of Lakewood)
@@ -58,7 +58,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:d4055b8d604e@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261117T180000Z
 DTEND:20261117T200000Z
 SUMMARY:Aging and Disability Advisory Board Meeting (Pierce County)
@@ -67,7 +67,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=79
 END:VEVENT
 BEGIN:VEVENT
 UID:be5c7d11e992@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261118T020000Z
 DTEND:20261118T040000Z
 SUMMARY:Veterans Advisory Board (Pierce County)
@@ -76,7 +76,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=126
 END:VEVENT
 BEGIN:VEVENT
 UID:a3b462a12343@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261118T023000Z
 DTEND:20261118T033000Z
 SUMMARY:Fort Steilacoom Neighborhood Association meeting (City of Lakewood)
@@ -85,7 +85,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:687a9ca6a599@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261118T180000Z
 DTEND:20261118T190000Z
 SUMMARY:Examiner's Hearing: Examiner's Hearing: Beck Variance\, App. 1071728 (Pierce County)
@@ -94,7 +94,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:207a27e526ab@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261119T023000Z
 DTEND:20261119T043000Z
 SUMMARY:Tacoma Narrows Airport Advisory Commission Meeting (Pierce County)
@@ -103,7 +103,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=114
 END:VEVENT
 BEGIN:VEVENT
 UID:33df9b104f91@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261119T210000Z
 DTEND:20261119T230000Z
 SUMMARY:Examiner's Hearing: Puppy Dreams License Revocation Appeal\, App. 32069 (Pierce County)
@@ -112,7 +112,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:11c4493903dd@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261120T003000Z
 DTEND:20261120T013000Z
 SUMMARY:Springbrook Connections (City of Lakewood)
@@ -121,7 +121,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:6947a68bac8b@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261120T013000Z
 DTEND:20261120T023000Z
 SUMMARY:Community Services Advisory Board (City of Lakewood)
@@ -130,7 +130,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:ca55882f00f3@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261120T210000Z
 DTEND:20261120T230000Z
 SUMMARY:Pierce County Arts Commission Meeting (Pierce County)
@@ -139,7 +139,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=77
 END:VEVENT
 BEGIN:VEVENT
 UID:6046ec18798c@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261124T180000Z
 DTEND:20261124T190000Z
 SUMMARY:Economic Development Committee (City of Tacoma)
@@ -148,7 +148,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10764&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:bf514c8a6bb9@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261124T200000Z
 DTEND:20261124T210000Z
 SUMMARY:City Council Study Session (City of Tacoma)
@@ -157,7 +157,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10937&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:46581a1807da@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261125T010000Z
 DTEND:20261125T020000Z
 SUMMARY:City Council (City of Tacoma)
@@ -166,7 +166,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10885&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:c601a2dcbc9f@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261125T013000Z
 DTEND:20261125T023000Z
 SUMMARY:Parks & Recreation Advisory Board meeting (City of Lakewood)
@@ -175,7 +175,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:a8edd404000e@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261126T003000Z
 DTEND:20261126T013000Z
 SUMMARY:Infrastructure\, Planning\, and Sustainability Committee (City of Tacoma)
@@ -184,7 +184,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10815&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:d540ee009f07@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261127T003000Z
 DTEND:20261127T013000Z
 SUMMARY:Community Vitality and Safety Committee (City of Tacoma)
@@ -193,7 +193,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10787&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:c96d813dfba9@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261202T180000Z
 DTEND:20261202T190000Z
 SUMMARY:Examiner's Hearing: Logger's Trail Preliminary Plat\, App. 1032512 (Pierce County)
@@ -202,7 +202,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:3518620fd3ae@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261202T210000Z
 DTEND:20261202T220000Z
 SUMMARY:Examiner's Hearing: Davis Setback Variance\, App. 1074616 (Pierce County)
@@ -211,7 +211,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:7e8c96cc8fe5@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261203T011500Z
 DTEND:20261203T021500Z
 SUMMARY:Public Safety Advisory Committee meeting (City of Lakewood)
@@ -220,7 +220,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:c0d2e8517a06@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261203T020000Z
 DTEND:20261203T040000Z
 SUMMARY:Human Services Citizens Advisory Board Meeting (Pierce County)
@@ -229,7 +229,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=97
 END:VEVENT
 BEGIN:VEVENT
 UID:dbdfc45966e3@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261203T023000Z
 DTEND:20261203T033000Z
 SUMMARY:Planning Commission meeting (City of Lakewood)
@@ -238,7 +238,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:eaa022061f77@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261203T153000Z
 DTEND:20261203T163000Z
 SUMMARY:Lakewood's Promise Advisory Board (City of Lakewood)
@@ -247,7 +247,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:27bf8a04ef34@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261203T173000Z
 DTEND:20261203T183000Z
 SUMMARY:Civil Service Commission meeting (City of Lakewood)
@@ -256,7 +256,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:f263e383976c@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261203T210000Z
 DTEND:20261203T230000Z
 SUMMARY:Examiner's Hearing: Shaw Administrative Appeal\, App. 1076485 (Pierce County)
@@ -265,7 +265,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:a61a511c6fe9@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261204T163000Z
 DTEND:20261205T060000Z
 SUMMARY:South Sound Affordable Housing Partnership (SSHA3P) Executive Board Meeting (Pierce County)
@@ -274,7 +274,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=145
 END:VEVENT
 BEGIN:VEVENT
 UID:527820f62104@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261204T183000Z
 DTEND:20261204T200000Z
 SUMMARY:Accessible Communities Advisory Committee (Pierce County)
@@ -283,7 +283,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=78
 END:VEVENT
 BEGIN:VEVENT
 UID:085b54629aa7@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261208T004500Z
 DTEND:20261208T024500Z
 SUMMARY:Youth Council (City of Lakewood)
@@ -292,7 +292,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:47f713fb7282@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261208T010000Z
 DTEND:20261208T020000Z
 SUMMARY:Lakewood Arts Commission (City of Lakewood)
@@ -301,7 +301,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:bcb7c028ea9a@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261208T010000Z
 DTEND:20261208T023000Z
 SUMMARY:Commission on Refugee and Immigrant Affairs Meeting (Pierce County)
@@ -310,7 +310,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=143
 END:VEVENT
 BEGIN:VEVENT
 UID:50ef0f55d119@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261208T030000Z
 DTEND:20261208T060000Z
 SUMMARY:City Council Meeting (regular meeting) (City of Lakewood)
@@ -319,7 +319,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:5e16dcce2293@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261209T010000Z
 DTEND:20261209T020000Z
 SUMMARY:Civil Service Commission Regular Meeting (Pierce County)
@@ -328,7 +328,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=86
 END:VEVENT
 BEGIN:VEVENT
 UID:bb0ebcff2eed@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261209T023000Z
 DTEND:20261209T033000Z
 SUMMARY:Tillicum/Woodbrook Neighborhood Association (City of Lakewood)
@@ -337,7 +337,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:50c285f2e39f@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261210T003000Z
 DTEND:20261210T013000Z
 SUMMARY:Pierce County Ethics Commission Meeting (Pierce County)
@@ -346,7 +346,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
 END:VEVENT
 BEGIN:VEVENT
 UID:7a105aeb0db1@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261210T010000Z
 DTEND:20261210T030000Z
 SUMMARY:Personnel Board Meeting (Pierce County)
@@ -355,7 +355,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=108
 END:VEVENT
 BEGIN:VEVENT
 UID:0d5040bbee41@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261210T210000Z
 DTEND:20261210T230000Z
 SUMMARY:Examiner's Hearing: OSI Investment Group LLC Administrative Appeal\, App. 1076949 (Pierce County)
@@ -364,7 +364,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:a0949b44e590@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261211T030000Z
 DTEND:20261211T040000Z
 SUMMARY:Lake City Neighborhood Association meeting (City of Lakewood)
@@ -373,7 +373,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:333704ec684e@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261215T030000Z
 DTEND:20261215T060000Z
 SUMMARY:City Council Meeting (study session) (City of Lakewood)
@@ -382,7 +382,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:0eb41f2cbbac@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261216T023000Z
 DTEND:20261216T033000Z
 SUMMARY:Fort Steilacoom Neighborhood Association meeting (City of Lakewood)
@@ -391,7 +391,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:6c5dc8ae2b93@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261216T180000Z
 DTEND:20261216T200000Z
 SUMMARY:Examiner's Hearing: Coastal Creditor Services CUP\, App. 1071913 (Pierce County)
@@ -400,7 +400,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:1323d62de34f@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261216T210000Z
 DTEND:20261216T230000Z
 SUMMARY:Examiner's Hearing: Stryder LLC Administrative Appeal\, App. 1077697 (Pierce County)
@@ -409,7 +409,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:b52f569fa2f0@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261217T003000Z
 DTEND:20261217T020000Z
 SUMMARY:Pierce County Developmental Disabilities Advisory Board Meeting (Pierce County)
@@ -418,7 +418,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=89
 END:VEVENT
 BEGIN:VEVENT
 UID:e4a2a23b2b90@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261217T023000Z
 DTEND:20261217T033000Z
 SUMMARY:Planning Commission meeting (City of Lakewood)
@@ -427,7 +427,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:2fcf6554e7fb@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261217T210000Z
 DTEND:20261217T230000Z
 SUMMARY:Examiner's Hearing: My Haunted Forest Administrative Appeal\, App. 1076925 (Pierce County)
@@ -436,7 +436,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:4ceabaebfb9e@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261217T230000Z
 DTEND:20261218T010000Z
 SUMMARY:Examiner's Hearing: Crucerescu Administrative Appeal\, App. 1074825 (Continuance) (Pierce County)
@@ -445,7 +445,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:18265a9050b4@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261218T003000Z
 DTEND:20261218T013000Z
 SUMMARY:Springbrook Connections (City of Lakewood)
@@ -454,7 +454,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:74de39951323@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261218T013000Z
 DTEND:20261218T023000Z
 SUMMARY:Community Services Advisory Board (City of Lakewood)
@@ -463,7 +463,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:e3496a705f9d@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261221T230000Z
 DTEND:20261222T003000Z
 SUMMARY:Behavioral Health Advisory Board (Pierce County)
@@ -472,7 +472,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=137
 END:VEVENT
 BEGIN:VEVENT
 UID:e09c637ed686@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261222T020000Z
 DTEND:20261222T050000Z
 SUMMARY:City Council Meeting (regular meeting followed by study session) (City of Lakewood)
@@ -481,7 +481,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:490f52379f94@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261222T200000Z
 DTEND:20261222T210000Z
 SUMMARY:City Council Study Session (City of Tacoma)
@@ -490,7 +490,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10941&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:eb02faa71031@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261223T010000Z
 DTEND:20261223T020000Z
 SUMMARY:City Council (City of Tacoma)
@@ -499,7 +499,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10889&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:caa37054a60e@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261229T200000Z
 DTEND:20261229T210000Z
 SUMMARY:City Council Study Session (City of Tacoma)
@@ -508,7 +508,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10942&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:e88826e96811@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20261230T010000Z
 DTEND:20261230T020000Z
 SUMMARY:City Council (City of Tacoma)
@@ -517,7 +517,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10890&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:ef4ec583b224@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20270105T004500Z
 DTEND:20270105T024500Z
 SUMMARY:Youth Council (City of Lakewood)
@@ -526,7 +526,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:98b00b38b64a@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20270105T010000Z
 DTEND:20270105T020000Z
 SUMMARY:Lakewood Arts Commission (City of Lakewood)
@@ -535,7 +535,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:9696bd0857c7@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20270105T030000Z
 DTEND:20270105T060000Z
 SUMMARY:City Council Meeting (regular meeting) (City of Lakewood)
@@ -544,7 +544,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:d9ed58ea1abf@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20270107T011500Z
 DTEND:20270107T021500Z
 SUMMARY:Public Safety Advisory Committee meeting (City of Lakewood)
@@ -553,7 +553,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:41c62581839c@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20270107T023000Z
 DTEND:20270107T033000Z
 SUMMARY:Planning Commission meeting (City of Lakewood)
@@ -562,7 +562,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:debd05ecd8fa@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20270107T153000Z
 DTEND:20270107T163000Z
 SUMMARY:Lakewood's Promise Advisory Board (City of Lakewood)
@@ -571,7 +571,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:e524dfa5fe01@civicswa
-DTSTAMP:20261111T165414Z
+DTSTAMP:20261111T165912Z
 DTSTART:20270107T173000Z
 DTEND:20270107T183000Z
 SUMMARY:Civil Service Commission meeting (City of Lakewood)
