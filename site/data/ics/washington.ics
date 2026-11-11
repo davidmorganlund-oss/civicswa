@@ -1,0 +1,3325 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CivicsWA//Public meetings//EN
+X-WR-CALNAME:CivicsWA Washington
+BEGIN:VEVENT
+UID:4f1b81a92f98@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261111T160000Z
+DTEND:20261111T170000Z
+SUMMARY:Parking Advisory Committee (City of Vancouver)
+LOCATION:Aspen Room\, 415 W 6th Street\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1687/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:7c086af660ac@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261111T170000Z
+DTEND:20261111T180000Z
+SUMMARY:Adams County Board of Health (Adams County)
+LOCATION:Public Works Conference Room\, 210 W Alder\, Ritzville
+URL:https://adamscowa.portal.civicclerk.com/event/900/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:64bb33586e4b@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261111T170000Z
+DTEND:20261111T180000Z
+SUMMARY:Adams County Commissioners Workshop (Adams County)
+LOCATION:Adams County Courthouse\, 210 W. Broadway\, Room 202\, Ritzville
+URL:https://adamscowa.portal.civicclerk.com/event/864/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:0f4e65e78ade@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261111T173000Z
+DTEND:20261111T183000Z
+SUMMARY:CANCELLED: Budget and Fiscal Management Committee (King County)
+LOCATION:
+URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12834&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b644acf265@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261111T183000Z
+DTEND:20261111T193000Z
+SUMMARY:Housing Advisory Committee (San Juan County)
+LOCATION:55 Second Street\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/4378/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:27c333eda4e9@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261111T211500Z
+DTEND:20261111T221500Z
+SUMMARY:CANCELLED: Conservation Futures Program Advisory Board Meeting - CANCELLED (Clallam County)
+LOCATION:223 East 4th Street\, Room 160\, Port Angeles
+URL:https://clallamcowa.portal.civicclerk.com/event/366/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:3b5563513fa1@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261111T220000Z
+DTEND:20261111T230000Z
+SUMMARY:CANCELLED: Dungeness River Management Team Meeting - CANCELLED (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/3688/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:ec67498554e0@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261112T003000Z
+DTEND:20261112T013000Z
+SUMMARY:Infrastructure\, Planning\, and Sustainability Committee (City of Tacoma)
+LOCATION:
+URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10814&GID=343&G=13864D1C-3F21-43C1-8E51-A93D1669D0F4
+END:VEVENT
+BEGIN:VEVENT
+UID:17c7a7fdee17@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261112T020000Z
+DTEND:20261112T030000Z
+SUMMARY:CANCELLED: Arts Commission Meeting Canceled (City of Kennewick)
+LOCATION:City Hall Council Chambers - 210 W 6th Avenue\, Kennewick
+URL:https://kennewickwa.portal.civicclerk.com/event/2197/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:86c8fac0437a@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261112T020000Z
+DTEND:20261112T030000Z
+SUMMARY:Planning Commission Meeting (City of Lacey)
+LOCATION:
+URL:https://laceywa.portal.civicclerk.com/event/1485/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:bb5c9bdd0ef6@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261112T020000Z
+DTEND:20261112T030000Z
+SUMMARY:CANCELLED: Planning Commission Workshop Meeting - CANCELED (City of Richland)
+LOCATION:Richland City Hall ~ Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/6021/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:86c63383a841@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261112T023000Z
+DTEND:20261112T033000Z
+SUMMARY:CANCELLED: Planning Commission (City of Bellevue)
+LOCATION:Room 1E-113
+URL:https://bellevue.legistar.com/MeetingDetail.aspx?LEGID=3039&GID=437&G=AFBA31DB-76DD-4BCE-BED0-FAC159781D66
+END:VEVENT
+BEGIN:VEVENT
+UID:f4fc9563b183@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261112T170000Z
+DTEND:20261112T180000Z
+SUMMARY:Debt Management Commission (Clark County)
+LOCATION:
+URL:https://clark.legistar.com/MeetingDetail.aspx?LEGID=3025&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7
+END:VEVENT
+BEGIN:VEVENT
+UID:e547cbf68b31@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261112T173000Z
+DTEND:20261112T183000Z
+SUMMARY:City Council (City of Seattle)
+LOCATION:Council Chamber\, City Hall 600 4th Avenue Seattle\, WA 98104
+URL:https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6922&GID=393&G=FFE3B678-CEF6-4197-84AC-5204EA4CFC0C
+END:VEVENT
+BEGIN:VEVENT
+UID:5f94d8a0bfd5@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261112T190000Z
+DTEND:20261112T200000Z
+SUMMARY:11/12/26 Special Lodging Tax Advisory Committee Meeting (City of Auburn)
+LOCATION:
+URL:https://auburnwa.portal.civicclerk.com/event/2407/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:63f43b9cd933@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261112T190000Z
+DTEND:20261112T200000Z
+SUMMARY:CANCELLED: LEOFF 1 (City of Tumwater)
+LOCATION:
+URL:https://www.ci.tumwater.wa.us/Home/Components/Calendar/Event/9572/
+END:VEVENT
+BEGIN:VEVENT
+UID:413590c62ff8@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261112T210000Z
+DTEND:20261112T220000Z
+SUMMARY:Business Improvement Area Regular Meeting (City of Auburn)
+LOCATION:
+URL:https://auburnwa.portal.civicclerk.com/event/2406/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:7c0358659a31@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261112T210000Z
+DTEND:20261112T220000Z
+SUMMARY:Solid Waste Advisory Committee (San Juan County)
+LOCATION:1609 Beaverton Valley Rd.\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/4362/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:66a99bc080dc@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261112T220000Z
+DTEND:20261112T230000Z
+SUMMARY:Benton-Franklin Behavioral Health Advisory Committee (BHAC) (Benton County)
+LOCATION:7122 W. Okanogan Place\, Bldg E\, Room 303\, Kennewick
+URL:https://bentoncowa.portal.civicclerk.com/event/1286/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:14627e768c44@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261112T220000Z
+DTEND:20261112T230000Z
+SUMMARY:CANCELLED: Lodging Tax Advisory Committee Meeting - CANCELLED (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4973/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:b3412955e2f9@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261113T003000Z
+DTEND:20261113T013000Z
+SUMMARY:Community Vitality and Safety Committee (City of Tacoma)
+LOCATION:Webinar Link: www.zoom.us/j/85961604917 Passcode: 614650
+URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10786&GID=343&G=13864D1C-3F21-43C1-8E51-A93D1669D0F4
+END:VEVENT
+BEGIN:VEVENT
+UID:a55c716848b4@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261113T003000Z
+DTEND:20261113T013000Z
+SUMMARY:Culture\, Arts & Heritage Commission - November Regular Meeting (City of Vancouver)
+LOCATION:415 W 6th St\, Vancouver\, WA 98660\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1750/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:be51309a3931@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261113T003000Z
+DTEND:20261113T013000Z
+SUMMARY:TRL Board of Trustees Special Meeting - Budget Committee (Timberland Regional Library)
+LOCATION:Online
+URL:https://timberland.bibliocommons.com/events/694360296f926136000b80e6
+END:VEVENT
+BEGIN:VEVENT
+UID:d3c565054fb9@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261113T003000Z
+DTEND:20261113T013000Z
+SUMMARY:Special Event (Whatcom County)
+LOCATION:Stemma Brewing\, 2039 Moore St\, Bellingham\, WA 98229
+URL:https://whatcom.legistar.com/MeetingDetail.aspx?LEGID=3408&GID=694&G=EEA73D23-6E2E-458B-A953-3C147C8AA447
+END:VEVENT
+BEGIN:VEVENT
+UID:fac94ac1d0e3@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261113T013000Z
+DTEND:20261113T023000Z
+SUMMARY:Heritage Commission (City of Olympia)
+LOCATION:Room 207
+URL:https://olympia.legistar.com/MeetingDetail.aspx?LEGID=7304&GID=218&G=19510D34-31FB-48B8-9C02-4D026953451C
+END:VEVENT
+BEGIN:VEVENT
+UID:1e27eb528697@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261113T013000Z
+DTEND:20261113T023000Z
+SUMMARY:Civil Service Commission (City of Tumwater)
+LOCATION:
+URL:https://www.ci.tumwater.wa.us/Home/Components/Calendar/Event/9547/
+END:VEVENT
+BEGIN:VEVENT
+UID:bc13c9e46966@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261113T013000Z
+DTEND:20261113T023000Z
+SUMMARY:Clallam Bay / Sekiu Community Advisory Committee Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/3650/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:424a9f62300f@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261113T020000Z
+DTEND:20261113T030000Z
+SUMMARY:Arts Commission (City of Olympia)
+LOCATION:Room 112
+URL:https://olympia.legistar.com/MeetingDetail.aspx?LEGID=7305&GID=218&G=19510D34-31FB-48B8-9C02-4D026953451C
+END:VEVENT
+BEGIN:VEVENT
+UID:610159bc42fd@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261113T020000Z
+DTEND:20261113T030000Z
+SUMMARY:Parks and Recreation Commission Meeting (City of Richland)
+LOCATION:Richland City Hall ~ Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/5940/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:498d91d1168d@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261113T023000Z
+DTEND:20261113T033000Z
+SUMMARY:Transportation Commission (City of Bellevue)
+LOCATION:Room 1E-113
+URL:https://bellevue.legistar.com/MeetingDetail.aspx?LEGID=2968&GID=437&G=AFBA31DB-76DD-4BCE-BED0-FAC159781D66
+END:VEVENT
+BEGIN:VEVENT
+UID:ca691628e8a8@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261113T030000Z
+DTEND:20261113T040000Z
+SUMMARY:11-12-2026 Junior City Council Meeting (City of Auburn)
+LOCATION:25 West Main St\, Auburn
+URL:https://auburnwa.portal.civicclerk.com/event/2410/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:ec4a08392d39@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261113T170000Z
+DTEND:20261113T180000Z
+SUMMARY:City Council Meeting (City of Vancouver)
+LOCATION:Vancouver City Hall\, Council Chambers\, 415 West 6th Street\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1764/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:3c215c351bb4@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261113T170000Z
+DTEND:20261113T180000Z
+SUMMARY:Clallam County Finance Committee Meeting (Clallam County)
+LOCATION:223 East 4th Street\, Room 160\, Port Angeles
+URL:https://clallamcowa.portal.civicclerk.com/event/3747/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:19a0c2fdb3a2@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261113T170000Z
+DTEND:20261113T180000Z
+SUMMARY:Fair Board (San Juan County)
+LOCATION:849 Argyle Ave\, FRIDAY HARBOR
+URL:https://sanjuancowa.portal.civicclerk.com/event/3997/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:a6bdaa56364a@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261113T210000Z
+DTEND:20261113T220000Z
+SUMMARY:Special Meeting (Clark County)
+LOCATION:
+URL:https://clark.legistar.com/MeetingDetail.aspx?LEGID=2921&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7
+END:VEVENT
+BEGIN:VEVENT
+UID:cef01e529b97@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261116T170000Z
+DTEND:20261116T180000Z
+SUMMARY:Commissioner's Work Session and Action Item Section (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4818/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:448de7423ecd@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261116T170000Z
+DTEND:20261116T180000Z
+SUMMARY:Board of Commissioners - Regular Agenda (Columbia County)
+LOCATION:115 E Main St\, Dayton
+URL:https://columbiacowa.portal.civicclerk.com/event/688/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:f138d70f55fc@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261116T170000Z
+DTEND:20261116T180000Z
+SUMMARY:BoCC Strategic Planning Meeting - 3rd Monday (Spokane County)
+LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenue\, First Floor\, Room 101\, Spokane County Courthouse\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2299/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:d5430cb713bf@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261116T213000Z
+DTEND:20261116T223000Z
+SUMMARY:Budget and Fiscal Management Committee (King County)
+LOCATION:Hybrid Meeting
+URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12841&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59
+END:VEVENT
+BEGIN:VEVENT
+UID:8cc8ec0299e9@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261116T220000Z
+DTEND:20261116T230000Z
+SUMMARY:CANCELLED: Council Briefing (City of Seattle)
+LOCATION:Council Chamber\, City Hall 600 4th Avenue Seattle\, WA 98104
+URL:https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6901&GID=393&G=FFE3B678-CEF6-4197-84AC-5204EA4CFC0C
+END:VEVENT
+BEGIN:VEVENT
+UID:303a1eee9f72@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261117T000000Z
+DTEND:20261117T010000Z
+SUMMARY:CANCELLED: Economic Development Committee Meeting - CANCELED (City of Richland)
+LOCATION:Richland City Hall ~ Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/5914/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:081ce7bafb4b@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261117T000000Z
+DTEND:20261117T010000Z
+SUMMARY:City Council Meeting (City of Vancouver)
+LOCATION:Vancouver City Hall\, Council Chambers\, 415 West 6th Street\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1500/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:8f772ffa6519@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261117T000000Z
+DTEND:20261117T010000Z
+SUMMARY:Commission Work Session (Port of Olympia)
+LOCATION:Percival Plaza\, Olympics Room\, 626 Columbia St NW\, Suite 1-B\, Olympia
+URL:https://portolympia.com/events/november-16-2026-commission-work-session-400-pm/
+END:VEVENT
+BEGIN:VEVENT
+UID:a0bbb1c2bbb0@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261117T013000Z
+DTEND:20261117T023000Z
+SUMMARY:Marine Resources Committee Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4929/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:6e5862c80222@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261117T023000Z
+DTEND:20261117T033000Z
+SUMMARY:Planning Commission Meeting (City of Kennewick)
+LOCATION:Kennewick City Hall - Council Chambers - 210 W 6th Ave\, Kennewick WA 99336
+URL:https://kennewickwa.portal.civicclerk.com/event/2249/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:2cd81156f95e@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261117T023000Z
+DTEND:20261117T033000Z
+SUMMARY:Planning Commission (City of Olympia)
+LOCATION:Online Only
+URL:https://olympia.legistar.com/MeetingDetail.aspx?LEGID=7068&GID=218&G=19510D34-31FB-48B8-9C02-4D026953451C
+END:VEVENT
+BEGIN:VEVENT
+UID:efdba57e2c44@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261117T023000Z
+DTEND:20261117T033000Z
+SUMMARY:Transportation Benefit District Meeting (City of Vancouver)
+LOCATION:Vancouver City Hall\, Aspen Room\, 415 West 6th Street\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1532/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:34b36d02c8c6@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261117T161500Z
+DTEND:20261117T171500Z
+SUMMARY:Police Pension Board Meeting (City of Richland)
+LOCATION:Richland City Hall ~ Parkway Conference Room\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/6103/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:ecdabd2567ec@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261117T170000Z
+DTEND:20261117T180000Z
+SUMMARY:Adams County Commissioners Meeting (Adams County)
+LOCATION:Adams County Courthouse\, 210 W. Broadway\, Room 202\, Ritzville
+URL:https://adamscowa.portal.civicclerk.com/event/925/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:aa5fbd760a24@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261117T170000Z
+DTEND:20261117T180000Z
+SUMMARY:Board of Benton County Commissioners Meeting (Benton County)
+LOCATION:Prosser
+URL:https://bentoncowa.portal.civicclerk.com/event/1317/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:a06c395086d0@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261117T170000Z
+DTEND:20261117T180000Z
+SUMMARY:Firefighters' Pension Board Meeting (City of Richland)
+LOCATION:Richland City Hall ~ Parkway Conference Room\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/6116/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:c1aaea9ed7c2@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261117T170000Z
+DTEND:20261117T180000Z
+SUMMARY:Clark County Board of Commissioners (Clark County)
+LOCATION:
+URL:https://clark.legistar.com/MeetingDetail.aspx?LEGID=3022&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7
+END:VEVENT
+BEGIN:VEVENT
+UID:2807cdc23556@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261117T170000Z
+DTEND:20261117T180000Z
+SUMMARY:BoCC Board Briefing Meeting (Spokane County)
+LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenue\, First Floor\, Room 101\, Spokane County Courthouse\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2332/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:a342e5bd1bef@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261117T170000Z
+DTEND:20261117T190000Z
+SUMMARY:CANCELLED: Board Work Session (Thurston County)
+LOCATION:
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:afb95340e404@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261117T173000Z
+DTEND:20261117T183000Z
+SUMMARY:Transportation\, Economy\, and Environment Committee (King County)
+LOCATION:Hybrid Meeting
+URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12843&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59
+END:VEVENT
+BEGIN:VEVENT
+UID:c04a52d9aff0@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261117T180000Z
+DTEND:20261117T190000Z
+SUMMARY:CANCELLED: Commissioner's Board Meeting - CANCELLED (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4872/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:68cbec8383ca@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261117T200000Z
+DTEND:20261117T210000Z
+SUMMARY:Metropolitan King County Council (King County)
+LOCATION:Hybrid Meeting
+URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12840&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59
+END:VEVENT
+BEGIN:VEVENT
+UID:86c8e04eb458@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261117T213000Z
+DTEND:20261117T223000Z
+SUMMARY:CANCELLED: Board of Health Meeting - CANCELLED (Clallam County)
+LOCATION:223 East 4th Street\, Room 160\, Port Angeles
+URL:https://clallamcowa.portal.civicclerk.com/event/298/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:c36ed761624d@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261117T220000Z
+DTEND:20261117T230000Z
+SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
+LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commissioners' Hearing Room\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2178/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:71a6aa7a03d8@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T000000Z
+DTEND:20261118T010000Z
+SUMMARY:Port of Olympia Community Advisory Committee Meeting (Port of Olympia)
+LOCATION:Percival Plaza\, Olympics Room\, 626 Columbia St NW\, Suite 1-B\, Olympia
+URL:https://portolympia.com/events/november-17-2026-port-of-olympia-community-advisory-committee-meeting-400-pm/
+END:VEVENT
+BEGIN:VEVENT
+UID:3acad40a7318@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T003000Z
+DTEND:20261118T013000Z
+SUMMARY:Historic Preservation Commission Meeting (City of Kennewick)
+LOCATION:Kennewick City Hall - Cascade Conference Room - 210 W 6th Ave\, Kennewick WA 99336\, Kennewick
+URL:https://kennewickwa.portal.civicclerk.com/event/2350/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:3f4b134b9903@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T013000Z
+DTEND:20261118T023000Z
+SUMMARY:Civil Service Commission Meeting (City of Kennewick)
+LOCATION:Kennewick Police Station - KPD Training Room - 211 W 6th Ave\, Kennewick WA 99336
+URL:https://kennewickwa.portal.civicclerk.com/event/2079/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:06ed042b694e@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T013000Z
+DTEND:20261118T030000Z
+SUMMARY:Tumwater Metropolitan Park District (City of Tumwater)
+LOCATION:
+URL:https://www.ci.tumwater.wa.us/Home/Components/Calendar/Event/10507/
+END:VEVENT
+BEGIN:VEVENT
+UID:5506d33230d6@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T020000Z
+DTEND:20261118T030000Z
+SUMMARY:City Council Meeting (City of Lacey)
+LOCATION:Lacey City Hall Council Chambers
+URL:https://laceywa.portal.civicclerk.com/event/1394/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:2c5a286fa9b0@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T020000Z
+DTEND:20261118T030000Z
+SUMMARY:City Council Regular Meeting (City of Richland)
+LOCATION:Richland City Hall ~ Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/6095/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:8364fe95c66e@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T020000Z
+DTEND:20261118T030000Z
+SUMMARY:Clark County Planning Commission Briefing (Clark County)
+LOCATION:
+URL:https://clark.legistar.com/MeetingDetail.aspx?LEGID=3039&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7
+END:VEVENT
+BEGIN:VEVENT
+UID:d9367fd6b320@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T023000Z
+DTEND:20261118T033000Z
+SUMMARY:City Council Regular Meeting (City of Kennewick)
+LOCATION:Kennewick City Hall - Council Chambers & Broadcast Live at www.Go2Kennewick.com \, 210 W 6th Ave\, Kennewick
+URL:https://kennewickwa.portal.civicclerk.com/event/2043/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:6fb6f95023fc@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T030000Z
+DTEND:20261118T060000Z
+SUMMARY:City Council (City of Tumwater)
+LOCATION:
+URL:https://www.ci.tumwater.wa.us/Home/Components/Calendar/Event/9923/
+END:VEVENT
+BEGIN:VEVENT
+UID:5637fc6280d6@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T030000Z
+DTEND:20261118T040000Z
+SUMMARY:Clark County Planning Commission (Clark County)
+LOCATION:
+URL:https://clark.legistar.com/MeetingDetail.aspx?LEGID=3038&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7
+END:VEVENT
+BEGIN:VEVENT
+UID:23338914f770@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T160000Z
+DTEND:20261118T170000Z
+SUMMARY:Airport Advisory Board Meeting (City of Auburn)
+LOCATION:2143 E St NE \, Suite 200\, Auburn
+URL:https://auburnwa.portal.civicclerk.com/event/2275/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:06c7628c39e5@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T160000Z
+DTEND:20261118T170000Z
+SUMMARY:Civil Service Commission (City of Vancouver)
+LOCATION:Vancouver City Hall\, Council Chambers\, 415 West 6th Street\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1573/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:4f3306ccefa4@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T160000Z
+DTEND:20261118T170000Z
+SUMMARY:Civil Service Commission Special meeting (City of Vancouver)
+LOCATION:Vancouver City Hall\, Birch Conference room\, 415 West 6th Street\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1751/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:8e6b71477932@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T170000Z
+DTEND:20261118T180000Z
+SUMMARY:Adams County Commissioners Workshop (Adams County)
+LOCATION:Adams County Courthouse\, 210 W. Broadway\, Room 202\, Ritzville
+URL:https://adamscowa.portal.civicclerk.com/event/865/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:8a9a294a49bb@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T170000Z
+DTEND:20261118T180000Z
+SUMMARY:Clark County Zoning Commission (Clark County)
+LOCATION:
+URL:https://clark.legistar.com/MeetingDetail.aspx?LEGID=3037&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7
+END:VEVENT
+BEGIN:VEVENT
+UID:173d09d81a15@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T170000Z
+DTEND:20261118T180000Z
+SUMMARY:Ferry Advisory Committee (San Juan County)
+LOCATION:Small Legislative Conference Room\, 55 Second Street\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/4176/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:0775d0e29aed@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T170000Z
+DTEND:20261118T200000Z
+SUMMARY:CANCELLED: Board Work Session (Thurston County)
+LOCATION:
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:524d8e6f832f@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T173000Z
+DTEND:20261118T183000Z
+SUMMARY:Civil Service - Third Wednesday (City of Marysville)
+LOCATION:501 Delta Avenue\, Council Chambers 2nd Floor\, Marysville
+URL:https://marysvillewa.portal.civicclerk.com/event/205/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:46bc56581a9d@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T173000Z
+DTEND:20261118T183000Z
+SUMMARY:Local Services and Land Use Committee (King County)
+LOCATION:Hybrid Meeting
+URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12837&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59
+END:VEVENT
+BEGIN:VEVENT
+UID:ce0e4b547f61@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T193000Z
+DTEND:20261118T203000Z
+SUMMARY:Board of Health (San Juan County)
+LOCATION:Legislative Hearing Room\, 55 Second Street\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/3412/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:213759240552@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T200000Z
+DTEND:20261118T210000Z
+SUMMARY:City Council Special Meeting (City of Kennewick)
+LOCATION:Red Lion Hotel & Conference Center\, 2525 N 20th Avenue\, Pasco
+URL:https://kennewickwa.portal.civicclerk.com/event/2369/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:6512325d8fe9@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T200000Z
+DTEND:20261118T210000Z
+SUMMARY:Lodging Tax Advisory Committee - Special Meeting (City of Vancouver)
+LOCATION:415 W 6th Street\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1722/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:f03c12d318df@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T213000Z
+DTEND:20261118T223000Z
+SUMMARY:CANCELLED: Board Work Session (Placeholder) (Thurston County)
+LOCATION:
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:95e0adff448b@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T230000Z
+DTEND:20261119T000000Z
+SUMMARY:Regional Transit Committee (King County)
+LOCATION:Hybrid Meeting
+URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12830&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59
+END:VEVENT
+BEGIN:VEVENT
+UID:641d8d2ac0af@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261118T233000Z
+DTEND:20261119T003000Z
+SUMMARY:City/County Telecommunications Commission Meeting (City of Vancouver)
+LOCATION:415 W 6th ST\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1765/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:386c9f382901@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261119T000000Z
+DTEND:20261119T010000Z
+SUMMARY:LEOFF1 Disability Board Meeting (City of Marysville)
+LOCATION:501 Delta Avenue\, Marysville
+URL:https://marysvillewa.portal.civicclerk.com/event/213/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:6c3dfda4d901@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261119T003000Z
+DTEND:20261119T010000Z
+SUMMARY:Budget Hearing (Timberland Regional Library)
+LOCATION:Online
+URL:https://timberland.bibliocommons.com/events/694360176f926136000b80d9
+END:VEVENT
+BEGIN:VEVENT
+UID:c81774357f72@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261119T013000Z
+DTEND:20261119T033000Z
+SUMMARY:TRL Board of Trustees Meeting (Timberland Regional Library)
+LOCATION:Online
+URL:https://timberland.bibliocommons.com/events/6943602b6f926136000b80ee
+END:VEVENT
+BEGIN:VEVENT
+UID:2a176a325685@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261119T020000Z
+DTEND:20261119T030000Z
+SUMMARY:Historical Commission Meeting (City of Lacey)
+LOCATION:Lacey City Hall Executive Board Room
+URL:https://laceywa.portal.civicclerk.com/event/1459/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:248c8722e937@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261119T020000Z
+DTEND:20261119T030000Z
+SUMMARY:Planning Commission Special Meeting (City of Richland)
+LOCATION:Richland City Hall - Council Chambers\, 625 Swift Blvd
+URL:https://richlandwa.portal.civicclerk.com/event/6241/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:1e7a983e0abd@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261119T020000Z
+DTEND:20261119T030000Z
+SUMMARY:Urban Forestry Commission (City of Vancouver)
+LOCATION:4500 Columbia Way\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1710/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:e32c6db3d105@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261119T020000Z
+DTEND:20261119T030000Z
+SUMMARY:Planning Commission Meeting (Clallam County)
+LOCATION:223 East 4th Street\, Room 160\, Port Angeles
+URL:https://clallamcowa.portal.civicclerk.com/event/728/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:534ebb43ab82@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261119T170000Z
+DTEND:20261119T180000Z
+SUMMARY:Clean Water Advisory Committee | Surface Water Subcommittee Meeting | November 2026 (San Juan County)
+LOCATION:1609 Beaverton Valley Rd\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/4030/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:554a8e04ebf0@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261119T200000Z
+DTEND:20261119T210000Z
+SUMMARY:Building Advisory Council (San Juan County)
+LOCATION:
+URL:https://sanjuancowa.portal.civicclerk.com/event/4401/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:c3b092bca52e@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261119T203000Z
+DTEND:20261119T213000Z
+SUMMARY:City Center Redevelopment Authority (City of Vancouver)
+LOCATION:415 W 6th Street\, Council Chambers - Fl 2\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1766/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:d554940c4f37@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261119T210000Z
+DTEND:20261119T220000Z
+SUMMARY:CANCELLED: Hearing Examiner - CANCELLED (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4915/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:aba7f96b6e88@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261119T210000Z
+DTEND:20261119T220000Z
+SUMMARY:Board of Health (King County)
+LOCATION:Hybrid Meeting
+URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12836&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59
+END:VEVENT
+BEGIN:VEVENT
+UID:c79f1bb880e6@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261120T020000Z
+DTEND:20261120T030000Z
+SUMMARY:Board of Adjustment Meeting (City of Richland)
+LOCATION:Richland City Hall ~ Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/6034/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:07a5fe3ff7aa@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261120T020000Z
+DTEND:20261120T030000Z
+SUMMARY:Fair Advisory Board Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/5305/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:c45f43267cf4@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261120T163000Z
+DTEND:20261120T173000Z
+SUMMARY:Land Bank Commission (San Juan County)
+LOCATION:2262 Fisherman Bay Rd\, Lopez Island
+URL:https://sanjuancowa.portal.civicclerk.com/event/4339/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:5d9ea2e0994c@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261120T163000Z
+DTEND:20261120T173000Z
+SUMMARY:Planning Commission (San Juan County)
+LOCATION:
+URL:https://sanjuancowa.portal.civicclerk.com/event/3771/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:55d61f71f031@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261120T164500Z
+DTEND:20261120T174500Z
+SUMMARY:Land Bank Commission (San Juan County)
+LOCATION:589 Nash St\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/4340/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:bd3963fb8ea1@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261123T170000Z
+DTEND:20261123T180000Z
+SUMMARY:Commissioner's Work Session (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4819/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:3bc3f680134b@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261123T170000Z
+DTEND:20261123T180000Z
+SUMMARY:Board of Commissioners - Work Session (Columbia County)
+LOCATION:115 E Main St\, Dayton
+URL:https://columbiacowa.portal.civicclerk.com/event/676/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:ef607b504f2d@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261123T170000Z
+DTEND:20261123T180000Z
+SUMMARY:County Council Work Session Meeting (San Juan County)
+LOCATION:55 Second Street\, Legislative Hearing Room\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/3963/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:29ced78eb523@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261123T220000Z
+DTEND:20261123T230000Z
+SUMMARY:CANCELLED: Council Briefing (City of Seattle)
+LOCATION:Council Chamber\, City Hall 600 4th Avenue Seattle\, WA 98104
+URL:https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6902&GID=393&G=FFE3B678-CEF6-4197-84AC-5204EA4CFC0C
+END:VEVENT
+BEGIN:VEVENT
+UID:e11fab372030@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261124T000000Z
+DTEND:20261124T010000Z
+SUMMARY:City Council Meeting (City of Vancouver)
+LOCATION:Vancouver City Hall\, Council Chambers\, 415 West 6th Street\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1512/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:5ad24184b305@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261124T000000Z
+DTEND:20261124T010000Z
+SUMMARY:Commission Meeting (Port of Olympia)
+LOCATION:
+URL:https://portolympia.com/events/november-23-2026-commission-meeting-400-pm/
+END:VEVENT
+BEGIN:VEVENT
+UID:185288a89dea@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261124T013000Z
+DTEND:20261124T023000Z
+SUMMARY:Commission on Equity Meeting (City of Lacey)
+LOCATION:Lacey City Hall Executive Board Room
+URL:https://laceywa.portal.civicclerk.com/event/1420/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:e8811dffb67a@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261124T013000Z
+DTEND:20261124T023000Z
+SUMMARY:Hearing Examiner (City of Olympia)
+LOCATION:Hybrid - Virtual Via Zoom & Room 207
+URL:https://olympia.legistar.com/MeetingDetail.aspx?LEGID=6988&GID=218&G=19510D34-31FB-48B8-9C02-4D026953451C
+END:VEVENT
+BEGIN:VEVENT
+UID:c0255ee17c47@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261124T030000Z
+DTEND:20261124T040000Z
+SUMMARY:City Council Meeting (City of Marysville)
+LOCATION:501 Delta Avenue\, Council Chambers 2nd Floor\, Maryville
+URL:https://marysvillewa.portal.civicclerk.com/event/174/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:be97ef9b47c5@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261124T170000Z
+DTEND:20261124T180000Z
+SUMMARY:Adams County Commissioners Meeting (Adams County)
+LOCATION:Adams County Courthouse\, 210 W. Broadway\, Room 202\, Ritzville
+URL:https://adamscowa.portal.civicclerk.com/event/926/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:c52a60a14b72@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261124T170000Z
+DTEND:20261124T180000Z
+SUMMARY:Board of Benton County Commissioners Meeting (Benton County)
+LOCATION:Prosser
+URL:https://bentoncowa.portal.civicclerk.com/event/1318/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:ddfcd279fc9c@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261124T170000Z
+DTEND:20261124T180000Z
+SUMMARY:Board of Health Meeting (Pacific County)
+LOCATION:Commissioners Meeting Room/Zoom\, 1216 Robert Bush Drive W.\, South Bend
+URL:https://pacificcowa.portal.civicclerk.com/event/1019/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:ed9c8830ef29@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261124T170000Z
+DTEND:20261124T180000Z
+SUMMARY:County Council Regular Session Meeting (San Juan County)
+LOCATION:55 Second Street\, Legislative Hearing Room\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/3915/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:8f0098f3cab3@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261124T170000Z
+DTEND:20261124T180000Z
+SUMMARY:There will be no BoCC Board Briefing Meeting (Spokane County)
+LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenue\, First Floor\, Room 101\, Spokane County Courthouse\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2232/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:7af7bcfa2225@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261124T170000Z
+DTEND:20261124T190000Z
+SUMMARY:Board Work Session (Thurston County)
+LOCATION:ATR_Board_Rm_110
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:17c12e0dc32f@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261124T173000Z
+DTEND:20261124T183000Z
+SUMMARY:Board of County Commissioners (Klickitat County)
+LOCATION:115 West Court\, Room 201\, Goldendale
+URL:https://klickitatcowa.portal.civicclerk.com/event/1114/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:6046ec18798c@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261124T180000Z
+DTEND:20261124T190000Z
+SUMMARY:Economic Development Committee (City of Tacoma)
+LOCATION:Webinar Link: www.zoom.us/j/88227539908 Passcode: 614650
+URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10764&GID=343&G=13864D1C-3F21-43C1-8E51-A93D1669D0F4
+END:VEVENT
+BEGIN:VEVENT
+UID:e397894d19a3@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261124T180000Z
+DTEND:20261124T190000Z
+SUMMARY:Commissioner's Board Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4873/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:bf514c8a6bb9@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261124T200000Z
+DTEND:20261124T210000Z
+SUMMARY:City Council Study Session (City of Tacoma)
+LOCATION:
+URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10937&GID=343&G=13864D1C-3F21-43C1-8E51-A93D1669D0F4
+END:VEVENT
+BEGIN:VEVENT
+UID:ad862736c435@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261124T220000Z
+DTEND:20261124T230000Z
+SUMMARY:There will be no BoCC Regular Legislative Session Meeting (Spokane County)
+LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commissioners' Hearing Room\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2286/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:0f89ebf91aea@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261124T220000Z
+DTEND:20261125T010000Z
+SUMMARY:BoCC Business Meeting & Public Hearings (Thurston County)
+LOCATION:ATR_Board_Rm_110
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:89568e087c35@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261124T233000Z
+DTEND:20261125T003000Z
+SUMMARY:Lopez Village Planning Review Committee (San Juan County)
+LOCATION:2225 Fisherman Bay Rd\, Lopez Island
+URL:https://sanjuancowa.portal.civicclerk.com/event/3758/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:bea942c689e9@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261125T000000Z
+DTEND:20261125T010000Z
+SUMMARY:Transportation Benefit District Meeting (Thurston County)
+LOCATION:ATR_Board_Rm_110
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:3540f08cfbc3@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261125T003000Z
+DTEND:20261125T013000Z
+SUMMARY:CANCELLED: Committee of the Whole - Parks and Environmental Sustainability (City of Redmond)
+LOCATION:City Hall: 15670 NE 85th St\; Remote: Comcast Ch. 21/321\, Ziply Ch. 34\, Facebook (@CityofRedmond)\, Redmond.gov/rctvlive\, or 510-335-7371
+URL:https://redmond.legistar.com/MeetingDetail.aspx?LEGID=3286&GID=652&G=4D25B8F6-2EB3-4784-A3AB-F30F60990FBD
+END:VEVENT
+BEGIN:VEVENT
+UID:f02f3be341f6@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261125T003000Z
+DTEND:20261125T013000Z
+SUMMARY:Planning Commission (City of Vancouver)
+LOCATION:Vancouver City Hall\, Council Chambers\, 415 West 6th Street\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1527/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:46581a1807da@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261125T010000Z
+DTEND:20261125T020000Z
+SUMMARY:City Council (City of Tacoma)
+LOCATION:
+URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10885&GID=343&G=13864D1C-3F21-43C1-8E51-A93D1669D0F4
+END:VEVENT
+BEGIN:VEVENT
+UID:4ff4281e4908@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261125T020000Z
+DTEND:20261125T030000Z
+SUMMARY:City Council Regular Meeting (City of Bellevue)
+LOCATION:Council Chambers (1E-126)
+URL:https://bellevue.legistar.com/MeetingDetail.aspx?LEGID=2908&GID=437&G=AFBA31DB-76DD-4BCE-BED0-FAC159781D66
+END:VEVENT
+BEGIN:VEVENT
+UID:1d830e63245a@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261125T020000Z
+DTEND:20261125T030000Z
+SUMMARY:City Council Worksession (City of Lacey)
+LOCATION:Lacey City Hall Council Chambers
+URL:https://laceywa.portal.civicclerk.com/event/1407/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:3e20f88b3af6@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261125T020000Z
+DTEND:20261125T030000Z
+SUMMARY:CANCELLED: City Council Workshop Meeting - CANCELED (City of Richland)
+LOCATION:Richland City Hall ~ Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/6096/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:4de12837d21a@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261125T023000Z
+DTEND:20261125T033000Z
+SUMMARY:City Council Workshop Meeting (City of Kennewick)
+LOCATION:Kennewick City Hall - Council Chambers & Broadcast Live at www.Go2Kennewick.com \, 210 W 6th Ave\, Kennewick
+URL:https://kennewickwa.portal.civicclerk.com/event/2145/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:305127df22ee@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261125T023000Z
+DTEND:20261125T033000Z
+SUMMARY:Planning Commission (City of Marysville)
+LOCATION:501 Delta Avenue\, Council Chambers 2nd Floor\, Marysville
+URL:https://marysvillewa.portal.civicclerk.com/event/392/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:2d1d2a90bb50@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261125T030000Z
+DTEND:20261125T040000Z
+SUMMARY:CANCELLED: City Council (City of Redmond)
+LOCATION:City Hall: 15670 NE 85th St\; Remote: Comcast Ch. 21/321\, Ziply Ch. 34\, Facebook (@CityofRedmond)\, Redmond.gov/rctvlive\, or 510-335-7371
+URL:https://redmond.legistar.com/MeetingDetail.aspx?LEGID=3285&GID=652&G=4D25B8F6-2EB3-4784-A3AB-F30F60990FBD
+END:VEVENT
+BEGIN:VEVENT
+UID:57b9f812c6a8@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261125T170000Z
+DTEND:20261125T180000Z
+SUMMARY:Adams County Commissioners Workshop (Adams County)
+LOCATION:Adams County Courthouse\, 210 W. Broadway\, Room 202\, Ritzville
+URL:https://adamscowa.portal.civicclerk.com/event/866/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:089561d2dac6@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261125T170000Z
+DTEND:20261125T200000Z
+SUMMARY:Board Work Session (Thurston County)
+LOCATION:ATR_Board_Rm_110
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:d25d68e42aee@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261125T173000Z
+DTEND:20261125T183000Z
+SUMMARY:CANCELLED: Libraries\, Education\, and Neighborhoods Committee (City of Seattle)
+LOCATION:Council Chamber\, City Hall 600 4th Avenue Seattle\, WA 98104
+URL:https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6919&GID=393&G=FFE3B678-CEF6-4197-84AC-5204EA4CFC0C
+END:VEVENT
+BEGIN:VEVENT
+UID:41b91a82788b@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261125T180000Z
+DTEND:20261125T190000Z
+SUMMARY:Hearing Examiner (San Juan County)
+LOCATION:55 Second Street\, Legislative Hearing Room\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/3784/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:f1e2b4713a56@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261125T213000Z
+DTEND:20261125T223000Z
+SUMMARY:CANCELLED: Employment and Administration Committee (King County)
+LOCATION:Hybrid Meeting
+URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12818&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59
+END:VEVENT
+BEGIN:VEVENT
+UID:5839d7811aff@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261125T230000Z
+DTEND:20261126T000000Z
+SUMMARY:Solid Waste Advisory Committee Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4946/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:a8edd404000e@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261126T003000Z
+DTEND:20261126T013000Z
+SUMMARY:Infrastructure\, Planning\, and Sustainability Committee (City of Tacoma)
+LOCATION:
+URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10815&GID=343&G=13864D1C-3F21-43C1-8E51-A93D1669D0F4
+END:VEVENT
+BEGIN:VEVENT
+UID:07ff8dbd9155@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261126T020000Z
+DTEND:20261126T030000Z
+SUMMARY:Planning Commission Meeting (City of Lacey)
+LOCATION:Lacey City Hall Council Chambers
+URL:https://laceywa.portal.civicclerk.com/event/1498/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:0c0371b1fc1e@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261126T020000Z
+DTEND:20261126T030000Z
+SUMMARY:CANCELLED: Planning Commission Meeting - CANCELED (City of Richland)
+LOCATION:Richland City Hall ~ Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/5928/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:73d51bd0adc7@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261126T020000Z
+DTEND:20261126T030000Z
+SUMMARY:CANCELLED: Fair Advisory Board Meeting - CANCELLED (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/3666/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:bf6c0dfd6c4c@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261126T153000Z
+DTEND:20261126T163000Z
+SUMMARY:CANCELLED: Benton County Emergency Services Executive Board Meeting - CANCELED (City of Richland)
+LOCATION:Richland City Hall - Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/6056/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:d540ee009f07@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261127T003000Z
+DTEND:20261127T013000Z
+SUMMARY:Community Vitality and Safety Committee (City of Tacoma)
+LOCATION:Webinar Link: www.zoom.us/j/85961604917 Passcode: 614650
+URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10787&GID=343&G=13864D1C-3F21-43C1-8E51-A93D1669D0F4
+END:VEVENT
+BEGIN:VEVENT
+UID:d5960bcff35c@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261127T020000Z
+DTEND:20261127T030000Z
+SUMMARY:Parks and Recreation Commission Meeting (City of Kennewick)
+LOCATION:City Hall - Council Chambers - 210 W 6th Ave\, Kennewick
+URL:https://kennewickwa.portal.civicclerk.com/event/2214/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:e311ecb18663@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261130T170000Z
+DTEND:20261130T180000Z
+SUMMARY:Commissioner's Work Session (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4820/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:d01a19113c82@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261130T170000Z
+DTEND:20261130T180000Z
+SUMMARY:Board of Commissioners - Special Meeting (Columbia County)
+LOCATION:115 E Main Street\, Dayton
+URL:https://columbiacowa.portal.civicclerk.com/event/712/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:e6bfff398849@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261130T170000Z
+DTEND:20261130T180000Z
+SUMMARY:BoCC Working Session Meeting (Spokane County)
+LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenue\, First Floor\, Room 101\, Spokane County Courthouse\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2381/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:9e5e4d6adf75@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261130T190000Z
+DTEND:20261130T200000Z
+SUMMARY:Special Meeting - 2026 Legislative Send-Off (Benton County)
+LOCATION:Benton County Administration Building\, Commissioners' Hearing Room\, Kennewick
+URL:https://bentoncowa.portal.civicclerk.com/event/1393/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:aaddc0aca073@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261130T220000Z
+DTEND:20261130T230000Z
+SUMMARY:BOCC Executive Session (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/5306/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:e26e5e276b32@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261201T170000Z
+DTEND:20261201T180000Z
+SUMMARY:Adams County Commissioners Meeting (Adams County)
+LOCATION:Adams County Courthouse\, 210 W. Broadway\, Room 202\, Ritzville
+URL:https://adamscowa.portal.civicclerk.com/event/927/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:97952a18f210@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261201T170000Z
+DTEND:20261201T180000Z
+SUMMARY:Board of Benton County Commissioners Meeting (Benton County)
+LOCATION:Prosser
+URL:https://bentoncowa.portal.civicclerk.com/event/1319/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:73cbb62b83e1@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261201T170000Z
+DTEND:20261201T180000Z
+SUMMARY:BoCC Board Briefing Meeting (Spokane County)
+LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenue\, First Floor\, Room 101\, Spokane County Courthouse\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2334/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:ec8df6a7640c@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Board Work Session (Thurston County)
+LOCATION:ATR_Board_Rm_110
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:db43ff2ff64f@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261201T173000Z
+DTEND:20261201T183000Z
+SUMMARY:Board of County Commissioners (Klickitat County)
+LOCATION:115 West Court\, Room 201\, Goldendale
+URL:https://klickitatcowa.portal.civicclerk.com/event/1115/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:bf7cd72eb0ad@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261201T180000Z
+DTEND:20261201T190000Z
+SUMMARY:Commissioner's Board Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4874/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:e4597f1490a3@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261201T193000Z
+DTEND:20261201T203000Z
+SUMMARY:Disability Board Meeting (City of Kennewick)
+LOCATION:Kennewick City Hall 210 W 6th Avenue Cascade Conference Room Kennewick\, WA 99336
+URL:https://kennewickwa.portal.civicclerk.com/event/2159/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:9ea431594db7@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261201T220000Z
+DTEND:20261201T230000Z
+SUMMARY:Animal Solutions Advisory Committee Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/3639/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:ffcb3407800d@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261201T220000Z
+DTEND:20261201T230000Z
+SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
+LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commissioners' Hearing Room\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2180/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:6a34febc1308@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261201T220000Z
+DTEND:20261202T010000Z
+SUMMARY:BoCC Business Meeting & Public Hearings (Thurston County)
+LOCATION:ATR_Board_Rm_110
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:7b2b6f7dae77@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261201T223000Z
+DTEND:20261201T233000Z
+SUMMARY:Homelessness Task Force Meeting (Clallam County)
+LOCATION:223 East 4th Street\, Room 160\, Port Angeles
+URL:https://clallamcowa.portal.civicclerk.com/event/255/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:32c012f1ccd8@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261202T003000Z
+DTEND:20261202T013000Z
+SUMMARY:City Council Informational Dinner Meeting (City of Lacey)
+LOCATION:420 College Street SE\, Lacey
+URL:https://laceywa.portal.civicclerk.com/event/1318/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:ee4eb30253be@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261202T003000Z
+DTEND:20261202T013000Z
+SUMMARY:City Council Informational Dinner Meeting (City of Lacey)
+LOCATION:Lacey City Hall\, Community Room
+URL:https://laceywa.portal.civicclerk.com/event/1567/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:e8aace75328a@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261202T003000Z
+DTEND:20261202T013000Z
+SUMMARY:CANCELLED: Transportation and Mobility Commission - Cancelled (City of Vancouver)
+LOCATION:Vancouver City Hall\, Aspen Room\, 415 West 6th Street\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1558/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:d8e98015c4e9@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261202T020000Z
+DTEND:20261202T030000Z
+SUMMARY:CANCELLED: Planning Commission Meeting - Cancelled (Benton County)
+LOCATION:
+URL:https://bentoncowa.portal.civicclerk.com/event/1219/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:96560d92174a@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261202T020000Z
+DTEND:20261202T030000Z
+SUMMARY:City Council Meeting (City of Lacey)
+LOCATION:Lacey City Hall Council Chambers
+URL:https://laceywa.portal.civicclerk.com/event/1369/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:b7672580533f@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261202T020000Z
+DTEND:20261202T030000Z
+SUMMARY:City Council Meeting (City of Lacey)
+LOCATION:Lacey City Hall Council Chambers
+URL:https://laceywa.portal.civicclerk.com/event/1569/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:ce80f87decb5@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261202T020000Z
+DTEND:20261202T030000Z
+SUMMARY:City Council Regular Meeting (City of Richland)
+LOCATION:Richland City Hall - Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/5804/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:9100565c9c12@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261202T023000Z
+DTEND:20261202T033000Z
+SUMMARY:City Council Regular Meeting (City of Kennewick)
+LOCATION:Kennewick City Hall - Council Chambers & Broadcast Live at www.Go2Kennewick.com \, 210 W 6th Ave\, Kennewick
+URL:https://kennewickwa.portal.civicclerk.com/event/2032/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:e8d4b765d99a@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261202T170000Z
+DTEND:20261202T180000Z
+SUMMARY:Adams County Commissioners Workshop (Adams County)
+LOCATION:Adams County Courthouse\, 210 W. Broadway\, Room 202\, Ritzville
+URL:https://adamscowa.portal.civicclerk.com/event/867/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:618a4f15ed0d@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261202T170000Z
+DTEND:20261202T180000Z
+SUMMARY:BOE Hearing (Benton County)
+LOCATION:
+URL:https://bentoncowa.portal.civicclerk.com/event/1390/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:cb69079aca0b@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261202T173000Z
+DTEND:20261202T183000Z
+SUMMARY:CANCELLED: Law and Justice Committee (King County)
+LOCATION:
+URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12839&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59
+END:VEVENT
+BEGIN:VEVENT
+UID:771984a7afb6@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261202T180000Z
+DTEND:20261202T200000Z
+SUMMARY:Board Work Session (Thurston County)
+LOCATION:ATR_Board_Rm_110
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:5fe7df64fe8a@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261202T213000Z
+DTEND:20261202T223000Z
+SUMMARY:Trails Advisory Committee Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/5246/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:8d345806669d@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261202T213000Z
+DTEND:20261202T223000Z
+SUMMARY:Board Work Session (Placeholder) (Thurston County)
+LOCATION:ATR_Board_Rm_110
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:8d250990c3f3@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261202T220000Z
+DTEND:20261202T230000Z
+SUMMARY:Law Enforcement Officers' & Fire Fighters' Disability Board (LEOFF) Meeting (Benton County)
+LOCATION:620 Market Street\, Prosser
+URL:https://bentoncowa.portal.civicclerk.com/event/1157/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:53c8cc6809c9@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261203T013000Z
+DTEND:20261203T023000Z
+SUMMARY:Parks\, Culture and Recreation Board Meeting (City of Lacey)
+LOCATION:Lacey City Hall Council Chambers
+URL:https://laceywa.portal.civicclerk.com/event/1434/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:72b9bd002d99@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261203T020000Z
+DTEND:20261203T030000Z
+SUMMARY:Arts Commission Meeting (City of Richland)
+LOCATION:Richland City Hall ~ Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/5966/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:0d04b851e32f@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261203T020000Z
+DTEND:20261203T030000Z
+SUMMARY:Planning Commission Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/677/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:b1b84eaf92df@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261203T164500Z
+DTEND:20261203T174500Z
+SUMMARY:Climate and Sustainability Advisory Committee Annual Retreat (San Juan County)
+LOCATION:
+URL:https://sanjuancowa.portal.civicclerk.com/event/4397/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:f72159720d27@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261203T170000Z
+DTEND:20261203T180000Z
+SUMMARY:BOE Hearing (Benton County)
+LOCATION:
+URL:https://bentoncowa.portal.civicclerk.com/event/1389/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:552d61850dfe@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261203T170000Z
+DTEND:20261203T180000Z
+SUMMARY:Marine Resource Committee Annual Retreat (San Juan County)
+LOCATION:
+URL:https://sanjuancowa.portal.civicclerk.com/event/4417/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:bb56063a2c89@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261203T230000Z
+DTEND:20261204T000000Z
+SUMMARY:Eastsound Planning Review Committee (San Juan County)
+LOCATION:147 Schoen Ln\, Eastsound
+URL:https://sanjuancowa.portal.civicclerk.com/event/3745/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:b5d7a6d29aff@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261204T013000Z
+DTEND:20261204T023000Z
+SUMMARY:Human Services Commission (City of Lacey)
+LOCATION:Lacey City Hall Council Chambers
+URL:https://laceywa.portal.civicclerk.com/event/1357/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:475045f8b5ab@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261204T013000Z
+DTEND:20261204T023000Z
+SUMMARY:Parks and Recreation Advisory Board Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/5217/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:8bdcccc993a4@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261204T023000Z
+DTEND:20261204T033000Z
+SUMMARY:CANCELLED: Special Event (Whatcom County)
+LOCATION:Lynden Library\, 216 4th Street\, Lynden\, WA 98264
+URL:https://whatcom.legistar.com/MeetingDetail.aspx?LEGID=3409&GID=694&G=EEA73D23-6E2E-458B-A953-3C147C8AA447
+END:VEVENT
+BEGIN:VEVENT
+UID:d274c7ba633f@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261204T170000Z
+DTEND:20261204T180000Z
+SUMMARY:Housing Solutions Committee Meeting (Clallam County)
+LOCATION:223 East 4th Street\, Room 160\, Port Angeles
+URL:https://clallamcowa.portal.civicclerk.com/event/484/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:9fe9eb8eb700@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261204T170000Z
+DTEND:20261204T180000Z
+SUMMARY:SJC Noxious Weed Control Board Meeting (San Juan County)
+LOCATION:531 Fern St\, Eastsound
+URL:https://sanjuancowa.portal.civicclerk.com/event/4327/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:044f3024ffaf@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261207T170000Z
+DTEND:20261207T180000Z
+SUMMARY:Commissioner's Work Session (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4821/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:7169836cb929@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261207T170000Z
+DTEND:20261207T180000Z
+SUMMARY:Board of Commissioners - Regular Agenda (Columbia County)
+LOCATION:115 E Main St\, Dayton
+URL:https://columbiacowa.portal.civicclerk.com/event/714/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:ef4786cb09d7@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261207T170000Z
+DTEND:20261207T180000Z
+SUMMARY:County Council Work Session Meeting (San Juan County)
+LOCATION:55 Second Street\, Legislative Hearing Room\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/3965/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:cfa90ad6f17f@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261207T170000Z
+DTEND:20261207T180000Z
+SUMMARY:2027 Budget Hearing Agenda (Spokane County)
+LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenue\, First Floor\, Room 101\, Spokane County Courthouse\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2382/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:ae07f3f26b40@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261207T170000Z
+DTEND:20261207T180000Z
+SUMMARY:BoCC Strategic Planning Meeting - 1st Monday (Spokane County)
+LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenue\, First Floor\, Room 101\, Spokane County Courthouse\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2365/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:8e1ff40e3e54@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261207T180000Z
+DTEND:20261207T220000Z
+SUMMARY:Public Hearing: 2026-2027 Midterm: Revenue and Budget (Thurston County)
+LOCATION:ATR_Board_Rm_110
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:572e4f7afb2e@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261208T000000Z
+DTEND:20261208T010000Z
+SUMMARY:Economic Development Committee Special Meeting (City of Richland)
+LOCATION:Richland City Hall - Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/6242/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:7160af5aad07@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261208T000000Z
+DTEND:20261208T010000Z
+SUMMARY:City Council Meeting (City of Vancouver)
+LOCATION:Vancouver City Hall\, Council Chambers\, 415 West 6th Street\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1475/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:a1a327e9b2be@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261208T003000Z
+DTEND:20261208T013000Z
+SUMMARY:Heritage Advisory Board Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/5045/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:04917326ba5a@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261208T013000Z
+DTEND:20261208T023000Z
+SUMMARY:Economic Development Committee (City of Marysville)
+LOCATION:501 Delta Avenue\, Marysville
+URL:https://marysvillewa.portal.civicclerk.com/event/406/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:6cb9323b584d@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261208T023000Z
+DTEND:20261208T033000Z
+SUMMARY:Planning Commission Meeting (City of Kennewick)
+LOCATION:Kennewick City Hall - Council Chambers - 210 W 6th Ave\, Kennewick WA 99336
+URL:https://kennewickwa.portal.civicclerk.com/event/2171/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:78045369b008@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261208T030000Z
+DTEND:20261208T040000Z
+SUMMARY:City Council Work Session (City of Marysville)
+LOCATION:501 Delta Avenue\, Council Chambers 2nd Floor\, Marysville
+URL:https://marysvillewa.portal.civicclerk.com/event/149/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:f282a54916b2@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261208T170000Z
+DTEND:20261208T180000Z
+SUMMARY:Adams County Commissioners Meeting (Adams County)
+LOCATION:Adams County Courthouse\, 210 W. Broadway\, Room 202\, Ritzville
+URL:https://adamscowa.portal.civicclerk.com/event/928/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:ebc5be4ae534@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261208T170000Z
+DTEND:20261208T180000Z
+SUMMARY:Board of Benton County Commissioners Meeting (Benton County)
+LOCATION:Benton County Administration Building\, Commissioners' Hearing Room\, 7122 W. Okanogan Place\, Bldg. E\, Room 303\, Kennewick
+URL:https://bentoncowa.portal.civicclerk.com/event/1320/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:9a3219922a16@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261208T170000Z
+DTEND:20261208T180000Z
+SUMMARY:Board of Health Meeting (Pacific County)
+LOCATION:Commissioners Meeting Room/Zoom\, 1216 Robert Bush Drive W.\, South Bend
+URL:https://pacificcowa.portal.civicclerk.com/event/1007/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:6e2f0452ed74@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261208T170000Z
+DTEND:20261208T180000Z
+SUMMARY:County Council Regular Session Meeting (San Juan County)
+LOCATION:55 Second Street\, Legislative Hearing Room\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/3917/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:725acf10920b@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261208T170000Z
+DTEND:20261208T180000Z
+SUMMARY:BoCC Board Briefing Meeting (Spokane County)
+LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenue\, First Floor\, Room 101\, Spokane County Courthouse\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2234/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:abf405751547@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261208T170000Z
+DTEND:20261208T190000Z
+SUMMARY:Board Work Session (Thurston County)
+LOCATION:ATR_Board_Rm_110
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:74badfa1c0bf@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261208T173000Z
+DTEND:20261208T183000Z
+SUMMARY:Board of County Commissioners (Klickitat County)
+LOCATION:115 West Court\, Room 201\, Goldendale
+URL:https://klickitatcowa.portal.civicclerk.com/event/1116/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:428dd88c7843@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261208T180000Z
+DTEND:20261208T190000Z
+SUMMARY:Commissioner's Board Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4875/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:db4b1b88aebe@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261208T210000Z
+DTEND:20261208T230000Z
+SUMMARY:Friends of the Library Meeting (Timberland Regional Library)
+LOCATION:Olympia Timberland Library\, 313 8th Avenue SE\, Olympia
+URL:https://timberland.bibliocommons.com/events/69b1c23e4a9fd98b7f839a81
+END:VEVENT
+BEGIN:VEVENT
+UID:d3d87090ba59@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261208T220000Z
+DTEND:20261208T230000Z
+SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
+LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commissioners' Hearing Room\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2181/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:c762e904d10d@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261208T230000Z
+DTEND:20261209T000000Z
+SUMMARY:Developmental Disabilities Advisory Board Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/3659/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:99eea35c503a@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261208T234500Z
+DTEND:20261209T011500Z
+SUMMARY:BoH Meeting & Public Hearings (Thurston County)
+LOCATION:ATR_Board_Rm_110
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:b588d1c4c58e@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261209T000000Z
+DTEND:20261209T010000Z
+SUMMARY:Friends of the Yelm Library Meeting (Timberland Regional Library)
+LOCATION:Yelm Timberland Library\, 210 Prairie Park Street\, Yelm
+URL:https://timberland.bibliocommons.com/events/6966a8a376261f2800642ee4
+END:VEVENT
+BEGIN:VEVENT
+UID:4881f532fdfd@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261209T003000Z
+DTEND:20261209T013000Z
+SUMMARY:CANCELLED: Committee of the Whole - Finance\, Administration\, and Communications (City of Redmond)
+LOCATION:City Hall: 15670 NE 85th St\; Remote: Comcast Ch. 21/321\, Ziply Ch. 34\, Facebook (@CityofRedmond)\, Redmond.gov/rctvlive\, or 510-335-7371
+URL:https://redmond.legistar.com/MeetingDetail.aspx?LEGID=3290&GID=652&G=4D25B8F6-2EB3-4784-A3AB-F30F60990FBD
+END:VEVENT
+BEGIN:VEVENT
+UID:31cba601cb6d@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261209T003000Z
+DTEND:20261209T013000Z
+SUMMARY:Planning Commission - 2nd Tuesday (City of Vancouver)
+LOCATION:Vancouver City Hall\, Council Chambers\, 415 West 6th Street\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1543/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:b451490525a2@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261209T013000Z
+DTEND:20261209T023000Z
+SUMMARY:Library Board Meeting (City of Richland)
+LOCATION:Richland Public Library \, 955 Northgate Drive
+URL:https://richlandwa.portal.civicclerk.com/event/5900/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:e868d7913b35@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261209T020000Z
+DTEND:20261209T030000Z
+SUMMARY:City Council Worksession (City of Lacey)
+LOCATION:Lacey City Hall Council Chambers
+URL:https://laceywa.portal.civicclerk.com/event/1382/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:bddc8a532964@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261209T023000Z
+DTEND:20261209T033000Z
+SUMMARY:City Council Workshop Meeting (City of Kennewick)
+LOCATION:Kennewick City Hall - Council Chambers & Broadcast Live at www.Go2Kennewick.com \, 210 W 6th Ave\, Kennewick
+URL:https://kennewickwa.portal.civicclerk.com/event/2134/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:c18df402f1a2@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261209T023000Z
+DTEND:20261209T033000Z
+SUMMARY:Planning Commission (City of Marysville)
+LOCATION:501 Delta Avenue\, Council Chambers 2nd Floor\, Marysville
+URL:https://marysvillewa.portal.civicclerk.com/event/380/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:24d40c935597@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261209T030000Z
+DTEND:20261209T040000Z
+SUMMARY:CANCELLED: City Council (City of Redmond)
+LOCATION:City Hall: 15670 NE 85th St\; Remote: Comcast Ch. 21/321\, Ziply Ch. 34\, Facebook (@CityofRedmond)\, Redmond.gov/rctvlive\, or 510-335-7371
+URL:https://redmond.legistar.com/MeetingDetail.aspx?LEGID=3289&GID=652&G=4D25B8F6-2EB3-4784-A3AB-F30F60990FBD
+END:VEVENT
+BEGIN:VEVENT
+UID:bf84dbb3b24f@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261209T160000Z
+DTEND:20261209T170000Z
+SUMMARY:Parking Advisory Committee (City of Vancouver)
+LOCATION:Aspen Room\, 415 W 6th Street\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1688/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:22f3d1b53188@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261209T170000Z
+DTEND:20261209T180000Z
+SUMMARY:Adams County Board of Health (Adams County)
+LOCATION:Public Works Conference Room\, 210 W Alder\, Ritzville
+URL:https://adamscowa.portal.civicclerk.com/event/901/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:91e2b835f562@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261209T170000Z
+DTEND:20261209T180000Z
+SUMMARY:Adams County Commissioners Workshop (Adams County)
+LOCATION:Adams County Courthouse\, 210 W. Broadway\, Room 202\, Ritzville
+URL:https://adamscowa.portal.civicclerk.com/event/868/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:c2adf5b0ac2e@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261209T170000Z
+DTEND:20261209T180000Z
+SUMMARY:Ferry Advisory Committee (San Juan County)
+LOCATION:Small Legislative Conference Room\, 55 Second Street\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/4177/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:fbf9e8067e33@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261209T180000Z
+DTEND:20261209T200000Z
+SUMMARY:Board Work Session (Placeholder) (Thurston County)
+LOCATION:ATR_Board_Rm_110
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:3ed528fbe43f@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261209T183000Z
+DTEND:20261209T193000Z
+SUMMARY:Housing Advisory Committee (San Juan County)
+LOCATION:
+URL:https://sanjuancowa.portal.civicclerk.com/event/4272/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:233fe76a6ae2@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261209T183000Z
+DTEND:20261209T193000Z
+SUMMARY:Housing Advisory Committee (San Juan County)
+LOCATION:55 Second Street\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/4379/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:a46a1356740e@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261209T200000Z
+DTEND:20261209T210000Z
+SUMMARY:Lodging Tax Advisory Committee (City of Vancouver)
+LOCATION:
+URL:https://vancouverwa.portal.civicclerk.com/event/1603/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:de45fb108acf@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261209T211500Z
+DTEND:20261209T221500Z
+SUMMARY:CANCELLED: Conservation Futures Program Advisory Board Meeting - CANCELLED (Clallam County)
+LOCATION:223 East 4th Street\, Room 160\, Port Angeles
+URL:https://clallamcowa.portal.civicclerk.com/event/368/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:73cdceb4d077@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261209T213000Z
+DTEND:20261209T223000Z
+SUMMARY:Board Work Session (Thurston County)
+LOCATION:ATR_Board_Rm_110
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:dc308d46833f@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261209T220000Z
+DTEND:20261209T230000Z
+SUMMARY:Dungeness River Management Team Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/3689/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:89a2e163b4da@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261210T020000Z
+DTEND:20261210T030000Z
+SUMMARY:Arts Commission Meeting (City of Kennewick)
+LOCATION:City Hall Council Chambers - 210 W 6th Avenue\, Kennewick
+URL:https://kennewickwa.portal.civicclerk.com/event/2198/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:a26e0b5ed917@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261210T020000Z
+DTEND:20261210T030000Z
+SUMMARY:Planning Commission Meeting (City of Lacey)
+LOCATION:Lacey City Hall Council Chambers
+URL:https://laceywa.portal.civicclerk.com/event/1486/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:37bd5ef8b411@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261210T020000Z
+DTEND:20261210T030000Z
+SUMMARY:Planning Commission Workshop (City of Richland)
+LOCATION:Richland City Hall ~ Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/6022/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:ddb45dd2bdd6@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261210T153000Z
+DTEND:20261210T163000Z
+SUMMARY:Benton County Emergency Services Executive Board Special Meeting (City of Richland)
+LOCATION:Richland City Hall - Council Chambers\, 625 Swift Boulevard\, Richland
+URL:https://richlandwa.portal.civicclerk.com/event/6245/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:525c0ccaf1c0@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261210T170000Z
+DTEND:20261210T180000Z
+SUMMARY:Clean Water Advisory Committee | Regular Meeting | December 2026 (San Juan County)
+LOCATION:1609 Beaverton Valley Rd\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/4031/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:a65ecefa24ef@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261210T170000Z
+DTEND:20261210T180000Z
+SUMMARY:LTAC Review Session (San Juan County)
+LOCATION:55 Second Street\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/4396/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:ab91dffd4b36@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261210T220000Z
+DTEND:20261210T230000Z
+SUMMARY:Benton-Franklin Behavioral Health Advisory Committee (BHAC) (Benton County)
+LOCATION:7122 W. Okanogan Place\, Bldg E\, Room 303\, Kennewick
+URL:https://bentoncowa.portal.civicclerk.com/event/1287/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:291f4d849196@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261210T220000Z
+DTEND:20261210T230000Z
+SUMMARY:Lodging Tax Advisory Committee Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4974/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:cb805511aec5@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261211T003000Z
+DTEND:20261211T013000Z
+SUMMARY:TRL Board of Trustees Facilities Committee (Timberland Regional Library)
+LOCATION:Online
+URL:https://timberland.bibliocommons.com/events/694360276f926136000b80e2
+END:VEVENT
+BEGIN:VEVENT
+UID:e36c7c4ded91@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261211T013000Z
+DTEND:20261211T023000Z
+SUMMARY:Clallam Bay / Sekiu Community Advisory Committee Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/3651/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:0925f871bfda@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261211T020000Z
+DTEND:20261211T030000Z
+SUMMARY:Parks and Recreation Commission Meeting (City of Richland)
+LOCATION:Richland City Hall ~ Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/5941/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:27e4fa05fae5@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261211T164500Z
+DTEND:20261211T174500Z
+SUMMARY:Land Bank Commission (San Juan County)
+LOCATION:589 Nash St\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/4341/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:f6efe90eea7e@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261211T170000Z
+DTEND:20261211T180000Z
+SUMMARY:Fair Board (San Juan County)
+LOCATION:849 Argyle Ave\, FRIDAY HARBOR
+URL:https://sanjuancowa.portal.civicclerk.com/event/3998/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:2ddfab313c83@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261214T170000Z
+DTEND:20261214T180000Z
+SUMMARY:Commissioner's Work Session (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4822/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:efd6a0e2b4db@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261214T170000Z
+DTEND:20261214T180000Z
+SUMMARY:Board of Commissioners - Work Session (Columbia County)
+LOCATION:115 E Main St\, Dayton
+URL:https://columbiacowa.portal.civicclerk.com/event/701/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:7a3c4bf98feb@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261214T170000Z
+DTEND:20261214T180000Z
+SUMMARY:County Council Work Session Meeting (San Juan County)
+LOCATION:55 Second Street\, Legislative Hearing Room\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/3966/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:4f46b506a379@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261214T170000Z
+DTEND:20261214T180000Z
+SUMMARY:BoCC Working Session Meeting (Spokane County)
+LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenue\, First Floor\, Room 101\, Spokane County Courthouse\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2383/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:79430c311d60@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261214T213000Z
+DTEND:20261214T223000Z
+SUMMARY:Human Services Advisory Board (San Juan County)
+LOCATION:55 Second Street\, Legislative Conference Room\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/4012/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:76b51f2273dc@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261214T223000Z
+DTEND:20261214T233000Z
+SUMMARY:Revenue Advisory Committee Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/5002/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:e868d9d6575d@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261215T000000Z
+DTEND:20261215T010000Z
+SUMMARY:City Council Meeting (City of Vancouver)
+LOCATION:Vancouver City Hall\, Council Chambers\, 415 West 6th Street\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1488/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:55eb4d9b26bc@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261215T000000Z
+DTEND:20261215T010000Z
+SUMMARY:Commission Meeting (Port of Olympia)
+LOCATION:
+URL:https://portolympia.com/events/december-14-2026-commission-meeting-400-pm/
+END:VEVENT
+BEGIN:VEVENT
+UID:4c9235cd9fd1@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261215T013000Z
+DTEND:20261215T023000Z
+SUMMARY:Joint Animal Services Commission (City of Lacey)
+LOCATION:Lacey City Hall Council Chambers
+URL:https://laceywa.portal.civicclerk.com/event/1519/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:0c20076628b4@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261215T020000Z
+DTEND:20261215T030000Z
+SUMMARY:Hearing Examiner Meeting (City of Kennewick)
+LOCATION:• Kennewick City Hall 210 W 6th Avenue Council Chambers Kennewick\, WA 99336
+URL:https://kennewickwa.portal.civicclerk.com/event/2225/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:79ce551d27b2@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261215T020000Z
+DTEND:20261215T030000Z
+SUMMARY:Hearing Examiner Meeting (City of Richland)
+LOCATION:Richland City Hall - Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/6009/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:291bfb7b4056@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261215T030000Z
+DTEND:20261215T040000Z
+SUMMARY:City Council Meeting (City of Marysville)
+LOCATION:501 Delta Avenue\, Council Chambers 2nd Floor\, Marysville
+URL:https://marysvillewa.portal.civicclerk.com/event/162/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:b07373d009e6@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261215T161500Z
+DTEND:20261215T171500Z
+SUMMARY:Police Pension Board Meeting (City of Richland)
+LOCATION:Richland City Hall ~ Parkway Conference Room\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/6104/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:cea9448121bc@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261215T170000Z
+DTEND:20261215T180000Z
+SUMMARY:Adams County Commissioners Meeting (Adams County)
+LOCATION:Adams County Courthouse\, 210 W. Broadway\, Room 202\, Ritzville
+URL:https://adamscowa.portal.civicclerk.com/event/929/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:41bc03ad9d1a@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261215T170000Z
+DTEND:20261215T180000Z
+SUMMARY:Board of Benton County Commissioners Meeting (Benton County)
+LOCATION:Prosser
+URL:https://bentoncowa.portal.civicclerk.com/event/1321/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:89e098470266@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261215T170000Z
+DTEND:20261215T180000Z
+SUMMARY:Firefighters' Pension Board Meeting (City of Richland)
+LOCATION:Richland City Hall ~ Parkway Conference Room\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/6117/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:3ea9753fb0e0@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261215T170000Z
+DTEND:20261215T180000Z
+SUMMARY:County Council Regular Session Meeting (San Juan County)
+LOCATION:55 Second Street\, Legislative Hearing Room\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/3918/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:8e5364328ed3@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261215T170000Z
+DTEND:20261215T180000Z
+SUMMARY:BoCC Board Briefing Meeting (Spokane County)
+LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenue\, First Floor\, Room 101\, Spokane County Courthouse\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2235/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:33463ebc6a71@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261215T170000Z
+DTEND:20261215T190000Z
+SUMMARY:Board Work Session (Thurston County)
+LOCATION:ATR_Board_Rm_110
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:d3abcac29158@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261215T173000Z
+DTEND:20261215T183000Z
+SUMMARY:Board of County Commissioners (Klickitat County)
+LOCATION:115 West Court\, Room 201\, Goldendale
+URL:https://klickitatcowa.portal.civicclerk.com/event/1117/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:468a39c09b45@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261215T180000Z
+DTEND:20261215T190000Z
+SUMMARY:Commissioner's Board Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4876/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:31b5f2938f05@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261215T190000Z
+DTEND:20261215T200000Z
+SUMMARY:Public Facilities District Board (City of Vancouver)
+LOCATION:
+URL:https://vancouverwa.portal.civicclerk.com/event/1767/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:f942b77a6e09@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261215T213000Z
+DTEND:20261215T223000Z
+SUMMARY:Board of Health Meeting (Clallam County)
+LOCATION:223 East 4th Street\, Room 160\, Port Angeles
+URL:https://clallamcowa.portal.civicclerk.com/event/299/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:b3e4dbe4fa46@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261215T220000Z
+DTEND:20261215T230000Z
+SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
+LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commissioners' Hearing Room\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2289/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:2a2f12505c40@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261216T000000Z
+DTEND:20261216T010000Z
+SUMMARY:CANCELLED: Transportation Benefit District Meeting (Thurston County)
+LOCATION:
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:0944da16b241@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261216T003000Z
+DTEND:20261216T013000Z
+SUMMARY:Historic Preservation Commission Meeting (City of Kennewick)
+LOCATION:Kennewick City Hall - Cascade Conference Room - 210 W 6th Ave\, Kennewick WA 99336\, Kennewick
+URL:https://kennewickwa.portal.civicclerk.com/event/2351/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:0bf43e58b91d@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261216T003000Z
+DTEND:20261216T013000Z
+SUMMARY:CANCELLED: Committee of the Whole - Public Safety and Human Services (City of Redmond)
+LOCATION:City Hall: 15670 NE 85th St\; Remote: Comcast Ch. 21/321\, Ziply Ch. 34\, Facebook (@CityofRedmond)\, Redmond.gov/rctvlive\, or 510-335-7371
+URL:https://redmond.legistar.com/MeetingDetail.aspx?LEGID=3298&GID=652&G=4D25B8F6-2EB3-4784-A3AB-F30F60990FBD
+END:VEVENT
+BEGIN:VEVENT
+UID:3fc2bb9e9fb9@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261216T013000Z
+DTEND:20261216T023000Z
+SUMMARY:Civil Service Commission Meeting (City of Kennewick)
+LOCATION:Kennewick Police Station - KPD Training Room - 211 W 6th Ave\, Kennewick WA 99336
+URL:https://kennewickwa.portal.civicclerk.com/event/2080/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:0d444e41f74c@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261216T020000Z
+DTEND:20261216T030000Z
+SUMMARY:City Council Meeting (City of Lacey)
+LOCATION:Lacey City Hall Council Chambers
+URL:https://laceywa.portal.civicclerk.com/event/1395/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:955c3433e658@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261216T020000Z
+DTEND:20261216T030000Z
+SUMMARY:City Council Regular Meeting (City of Richland)
+LOCATION:Richland City Hall ~ Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/6097/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:c97e28b33bec@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261216T023000Z
+DTEND:20261216T033000Z
+SUMMARY:City Council Regular Meeting (City of Kennewick)
+LOCATION:Kennewick City Hall - Council Chambers & Broadcast Live at www.Go2Kennewick.com \, 210 W 6th Ave\, Kennewick
+URL:https://kennewickwa.portal.civicclerk.com/event/2122/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:ad0a7f38bc16@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261216T030000Z
+DTEND:20261216T040000Z
+SUMMARY:CANCELLED: City Council (City of Redmond)
+LOCATION:City Hall: 15670 NE 85th St\; Remote: Comcast Ch. 21/321\, Ziply Ch. 34\, Facebook (@CityofRedmond)\, Redmond.gov/rctvlive\, or 510-335-7371
+URL:https://redmond.legistar.com/MeetingDetail.aspx?LEGID=3297&GID=652&G=4D25B8F6-2EB3-4784-A3AB-F30F60990FBD
+END:VEVENT
+BEGIN:VEVENT
+UID:514f1e1cb02b@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261216T160000Z
+DTEND:20261216T170000Z
+SUMMARY:Civil Service Commission (City of Vancouver)
+LOCATION:Vancouver City Hall\, Council Chambers\, 415 West 6th Street\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1574/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:f90845fc9c82@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261216T160000Z
+DTEND:20261216T170000Z
+SUMMARY:Civil Service Commission Special meeting (City of Vancouver)
+LOCATION:Vancouver City Hall\, Birch Conference room\, 415 West 6th Street\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1752/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:00fbd7c3b2d8@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261216T170000Z
+DTEND:20261216T180000Z
+SUMMARY:Adams County Commissioners Workshop (Adams County)
+LOCATION:Adams County Courthouse\, 210 W. Broadway\, Room 202\, Ritzville
+URL:https://adamscowa.portal.civicclerk.com/event/869/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:f71c4732dbef@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261216T170000Z
+DTEND:20261216T200000Z
+SUMMARY:Board Work Session (Thurston County)
+LOCATION:ATR_Board_Rm_110
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:d1ee023391fa@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261216T173000Z
+DTEND:20261216T183000Z
+SUMMARY:Civil Service - Third Wednesday (City of Marysville)
+LOCATION:501 Delta Avenue\, Council Chambers 2nd Floor\, Marysville
+URL:https://marysvillewa.portal.civicclerk.com/event/206/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:523d199dd4f5@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261216T180000Z
+DTEND:20261216T190000Z
+SUMMARY:Hearing Examiner (San Juan County)
+LOCATION:55 Second Street\, Large Legislative Conference Room\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/3785/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:fee1f84f4c1a@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261216T193000Z
+DTEND:20261216T203000Z
+SUMMARY:Board of Health (San Juan County)
+LOCATION:Legislative Hearing Room\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/3969/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:f7204d5d4583@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261216T213000Z
+DTEND:20261216T223000Z
+SUMMARY:Board Work Session (Placeholder) (Thurston County)
+LOCATION:ATR_Board_Rm_110
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a8403b770f@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261217T010000Z
+DTEND:20261217T020000Z
+SUMMARY:Crescent Community Advisory Council Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/5290/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:e6abd9d1d5e1@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261217T013000Z
+DTEND:20261217T033000Z
+SUMMARY:TRL Board of Trustees Meeting (Timberland Regional Library)
+LOCATION:TRL Headquarters\, 415 Tumwater Boulevard SW\, Tumwater
+URL:https://timberland.bibliocommons.com/events/694360136f926136000b80d7
+END:VEVENT
+BEGIN:VEVENT
+UID:2140def20c22@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261217T020000Z
+DTEND:20261217T030000Z
+SUMMARY:Historical Commission Meeting (City of Lacey)
+LOCATION:Lacey City Hall Council Chambers
+URL:https://laceywa.portal.civicclerk.com/event/1460/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:b66ae3e75e11@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261217T020000Z
+DTEND:20261217T030000Z
+SUMMARY:Arts Commission Workshop Meeting (City of Richland)
+LOCATION:Richland Community Center\, 500 Amon Park Drive
+URL:https://richlandwa.portal.civicclerk.com/event/5980/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:128651e979b4@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261217T020000Z
+DTEND:20261217T030000Z
+SUMMARY:Planning Commission Meeting (Clallam County)
+LOCATION:223 East 4th Street\, Room 160\, Port Angeles
+URL:https://clallamcowa.portal.civicclerk.com/event/729/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:466345fc4c42@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART;VALUE=DATE:20261217
+SUMMARY:CANCELLED: Board Meetings (Thurston County)
+LOCATION:
+URL:https://www.thurstoncountywa.gov/meetings-and-agendas
+END:VEVENT
+BEGIN:VEVENT
+UID:454659acd83b@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261217T190000Z
+DTEND:20261217T200000Z
+SUMMARY:Downtown Redevelopment Authority (City of Vancouver)
+LOCATION:415 W 6th Street\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1576/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:f9a120794b1d@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261217T200000Z
+DTEND:20261217T210000Z
+SUMMARY:Building Advisory Council (San Juan County)
+LOCATION:
+URL:https://sanjuancowa.portal.civicclerk.com/event/4402/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:31d6783bfe4b@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261218T000000Z
+DTEND:20261218T010000Z
+SUMMARY:Parks and Recreation Commission (San Juan County)
+LOCATION:849A Argyle Ave.\, Friday Harbor
+URL:https://sanjuancowa.portal.civicclerk.com/event/3658/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:4e3adad99381@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261218T020000Z
+DTEND:20261218T030000Z
+SUMMARY:Board of Adjustment Meeting (City of Richland)
+LOCATION:Richland City Hall ~ Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/6035/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:c99b59971a4d@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261218T163000Z
+DTEND:20261218T173000Z
+SUMMARY:Planning Commission (San Juan County)
+LOCATION:
+URL:https://sanjuancowa.portal.civicclerk.com/event/3772/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:3530559363a2@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261221T170000Z
+DTEND:20261221T180000Z
+SUMMARY:CANCELLED: Commissioner's Work Session - CANCELLED (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4823/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:c39fe3d07d06@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261221T170000Z
+DTEND:20261221T180000Z
+SUMMARY:Board of Commissioners - Regular Agenda (Columbia County)
+LOCATION:115 E Main St\, Dayton
+URL:https://columbiacowa.portal.civicclerk.com/event/689/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:2e2cc4bf08d6@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261221T170000Z
+DTEND:20261221T180000Z
+SUMMARY:BoCC Strategic Planning Meeting - 3rd Monday (Spokane County)
+LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenue\, First Floor\, Room 101\, Spokane County Courthouse\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2300/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:954447eb2c9f@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261222T000000Z
+DTEND:20261222T010000Z
+SUMMARY:CANCELLED: Economic Development Committee Meeting - CANCELED (City of Richland)
+LOCATION:Richland City Hall - Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/5915/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:f23de1ea0901@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261222T013000Z
+DTEND:20261222T023000Z
+SUMMARY:Marine Resources Committee Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4930/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:0f6ecbc59361@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261222T023000Z
+DTEND:20261222T033000Z
+SUMMARY:Planning Commission Meeting (City of Kennewick)
+LOCATION:Kennewick City Hall - Council Chambers - 210 W 6th Ave\, Kennewick WA 99336
+URL:https://kennewickwa.portal.civicclerk.com/event/2250/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:79efb686f851@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261222T170000Z
+DTEND:20261222T180000Z
+SUMMARY:Adams County Commissioners Meeting (Adams County)
+LOCATION:Adams County Courthouse\, 210 W. Broadway\, Room 202\, Ritzville
+URL:https://adamscowa.portal.civicclerk.com/event/930/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:a8ec3e10d974@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261222T170000Z
+DTEND:20261222T180000Z
+SUMMARY:CANCELLED: Board of Benton County Commissioners Meeting - Canceled (Benton County)
+LOCATION:Prosser
+URL:https://bentoncowa.portal.civicclerk.com/event/1322/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:7c754a9b3d8e@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261222T170000Z
+DTEND:20261222T180000Z
+SUMMARY:Board of Health Meeting (Pacific County)
+LOCATION:Commissioners Meeting Room/Zoom\, 1216 Robert Bush Drive W.\, South Bend
+URL:https://pacificcowa.portal.civicclerk.com/event/1020/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:1647e4759816@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261222T170000Z
+DTEND:20261222T180000Z
+SUMMARY:BoCC Board Briefing Meeting (Spokane County)
+LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenue\, First Floor\, Room 101\, Spokane County Courthouse\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2337/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:10ff907353d7@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261222T173000Z
+DTEND:20261222T183000Z
+SUMMARY:Board of County Commissioners (Klickitat County)
+LOCATION:115 West Court\, Room 201\, Goldendale
+URL:https://klickitatcowa.portal.civicclerk.com/event/1118/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:84f32f271fb2@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261222T180000Z
+DTEND:20261222T190000Z
+SUMMARY:CANCELLED: Commissioner's Board Meeting - CANCELLED (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4877/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:490f52379f94@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261222T200000Z
+DTEND:20261222T210000Z
+SUMMARY:City Council Study Session (City of Tacoma)
+LOCATION:
+URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10941&GID=343&G=13864D1C-3F21-43C1-8E51-A93D1669D0F4
+END:VEVENT
+BEGIN:VEVENT
+UID:7c2414481f42@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261222T220000Z
+DTEND:20261222T230000Z
+SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
+LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commissioners' Hearing Room\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2290/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:ca69ad15f09d@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261222T233000Z
+DTEND:20261223T003000Z
+SUMMARY:Lopez Village Planning Review Committee (San Juan County)
+LOCATION:2225 Fisherman Bay Rd\, Lopez Island
+URL:https://sanjuancowa.portal.civicclerk.com/event/3759/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:4456f292bfc8@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261223T003000Z
+DTEND:20261223T013000Z
+SUMMARY:CANCELLED: Committee of the Whole - Parks and Environmental Sustainability (City of Redmond)
+LOCATION:City Hall: 15670 NE 85th St\; Remote: Comcast Ch. 21/321\, Ziply Ch. 34\, Facebook (@CityofRedmond)\, Redmond.gov/rctvlive\, or 510-335-7371
+URL:https://redmond.legistar.com/MeetingDetail.aspx?LEGID=3299&GID=652&G=4D25B8F6-2EB3-4784-A3AB-F30F60990FBD
+END:VEVENT
+BEGIN:VEVENT
+UID:2bf2fa4dadb8@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261223T003000Z
+DTEND:20261223T013000Z
+SUMMARY:Planning Commission (City of Vancouver)
+LOCATION:Vancouver City Hall\, Council Chambers\, 415 West 6th Street\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1528/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:eb02faa71031@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261223T010000Z
+DTEND:20261223T020000Z
+SUMMARY:City Council (City of Tacoma)
+LOCATION:
+URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10889&GID=343&G=13864D1C-3F21-43C1-8E51-A93D1669D0F4
+END:VEVENT
+BEGIN:VEVENT
+UID:26836bef345d@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261223T020000Z
+DTEND:20261223T030000Z
+SUMMARY:City Council Worksession (City of Lacey)
+LOCATION:Lacey City Hall Council Chambers
+URL:https://laceywa.portal.civicclerk.com/event/1408/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:1201e71ba93b@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261223T020000Z
+DTEND:20261223T030000Z
+SUMMARY:CANCELLED: City Council Workshop Meeting - CANCELED (City of Richland)
+LOCATION:Richland City Hall ~ Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/6098/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:d3b563bf599e@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261223T023000Z
+DTEND:20261223T033000Z
+SUMMARY:City Council Workshop Meeting (City of Kennewick)
+LOCATION:Kennewick City Hall - Council Chambers & Broadcast Live at www.Go2Kennewick.com \, 210 W 6th Ave\, Kennewick
+URL:https://kennewickwa.portal.civicclerk.com/event/2146/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:0a34ef62e927@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261223T023000Z
+DTEND:20261223T033000Z
+SUMMARY:Planning Commission (City of Marysville)
+LOCATION:501 Delta Avenue\, Council Chambers 2nd Floor\, Marysville
+URL:https://marysvillewa.portal.civicclerk.com/event/393/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:b29c26b88370@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261223T030000Z
+DTEND:20261223T040000Z
+SUMMARY:CANCELLED: City Council (City of Redmond)
+LOCATION:City Hall: 15670 NE 85th St\; Remote: Comcast Ch. 21/321\, Ziply Ch. 34\, Facebook (@CityofRedmond)\, Redmond.gov/rctvlive\, or 510-335-7371
+URL:https://redmond.legistar.com/MeetingDetail.aspx?LEGID=3300&GID=652&G=4D25B8F6-2EB3-4784-A3AB-F30F60990FBD
+END:VEVENT
+BEGIN:VEVENT
+UID:c1a6604d9a99@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261223T170000Z
+DTEND:20261223T180000Z
+SUMMARY:Adams County Commissioners Workshop (Adams County)
+LOCATION:Adams County Courthouse\, 210 W. Broadway\, Room 202\, Ritzville
+URL:https://adamscowa.portal.civicclerk.com/event/870/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:348ff39899ae@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261224T020000Z
+DTEND:20261224T030000Z
+SUMMARY:Planning Commission Meeting (City of Lacey)
+LOCATION:Lacey City Hall Council Chambers
+URL:https://laceywa.portal.civicclerk.com/event/1499/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:49cbf23fdfb6@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261224T020000Z
+DTEND:20261224T030000Z
+SUMMARY:Planning Commission Meeting (City of Richland)
+LOCATION:Richland City Hall ~ Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/5929/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:fbb36bd06fc5@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261224T020000Z
+DTEND:20261224T030000Z
+SUMMARY:Fair Advisory Board Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/3667/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:fc015f523752@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261224T153000Z
+DTEND:20261224T163000Z
+SUMMARY:CANCELLED: Benton County Emergency Services Executive Board Meeting - CANCELED (City of Richland)
+LOCATION:Richland City Hall - Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/6057/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:f73bb723d138@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261225T020000Z
+DTEND:20261225T030000Z
+SUMMARY:Parks and Recreation Commission Meeting (City of Kennewick)
+LOCATION:City Hall - Council Chambers - 210 W 6th Ave\, Kennewick
+URL:https://kennewickwa.portal.civicclerk.com/event/2215/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:e66fddb64244@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261228T170000Z
+DTEND:20261228T180000Z
+SUMMARY:Commissioner's Work Session (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4824/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:17e37b5663bd@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261228T170000Z
+DTEND:20261228T180000Z
+SUMMARY:Board of Commissioners - Work Session (Columbia County)
+LOCATION:115 E Main St\, Dayton
+URL:https://columbiacowa.portal.civicclerk.com/event/677/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:2c81ab2a021f@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261229T013000Z
+DTEND:20261229T023000Z
+SUMMARY:Commission on Equity Meeting (City of Lacey)
+LOCATION:Lacey City Hall Council Chambers
+URL:https://laceywa.portal.civicclerk.com/event/1421/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:4b8c5f2ea586@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261229T170000Z
+DTEND:20261229T180000Z
+SUMMARY:Adams County Commissioners Meeting (Adams County)
+LOCATION:Adams County Courthouse\, 210 W. Broadway\, Room 202\, Ritzville
+URL:https://adamscowa.portal.civicclerk.com/event/931/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:10c05cabb12e@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261229T170000Z
+DTEND:20261229T180000Z
+SUMMARY:Board of Benton County Commissioners Meeting (Benton County)
+LOCATION:Prosser
+URL:https://bentoncowa.portal.civicclerk.com/event/1323/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:27e5b7db210a@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261229T170000Z
+DTEND:20261229T180000Z
+SUMMARY:BoCC Board Briefing Meeting (Spokane County)
+LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenue\, First Floor\, Room 101\, Spokane County Courthouse\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2237/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:2746200bbc41@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261229T173000Z
+DTEND:20261229T183000Z
+SUMMARY:Board of County Commissioners (Klickitat County)
+LOCATION:115 West Court\, Room 201\, Goldendale
+URL:https://klickitatcowa.portal.civicclerk.com/event/1119/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:bfed4dd93e2e@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261229T180000Z
+DTEND:20261229T190000Z
+SUMMARY:Commissioner's Board Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4878/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:caa37054a60e@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261229T200000Z
+DTEND:20261229T210000Z
+SUMMARY:City Council Study Session (City of Tacoma)
+LOCATION:
+URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10942&GID=343&G=13864D1C-3F21-43C1-8E51-A93D1669D0F4
+END:VEVENT
+BEGIN:VEVENT
+UID:007ae33b71c6@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261229T220000Z
+DTEND:20261229T230000Z
+SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
+LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commissioners' Hearing Room\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2184/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:e88826e96811@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261230T010000Z
+DTEND:20261230T020000Z
+SUMMARY:City Council (City of Tacoma)
+LOCATION:
+URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10890&GID=343&G=13864D1C-3F21-43C1-8E51-A93D1669D0F4
+END:VEVENT
+BEGIN:VEVENT
+UID:e80aa088345a@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20261230T170000Z
+DTEND:20261230T180000Z
+SUMMARY:Adams County Commissioners Workshop (Adams County)
+LOCATION:Adams County Courthouse\, 210 W. Broadway\, Room 202\, Ritzville
+URL:https://adamscowa.portal.civicclerk.com/event/871/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:5d3b4152a805@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270101T170000Z
+DTEND:20270101T180000Z
+SUMMARY:Housing Solutions Committee Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4967/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:c5c39130b49e@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270101T170000Z
+DTEND:20270101T180000Z
+SUMMARY:SJC Noxious Weed Control Board Meeting (San Juan County)
+LOCATION:531 Fern St\, Eastsound
+URL:https://sanjuancowa.portal.civicclerk.com/event/4328/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:5d04edd3b5af@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270104T170000Z
+DTEND:20270104T180000Z
+SUMMARY:Commissioner's Work Session (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4825/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:923722d5e538@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270104T170000Z
+DTEND:20270104T180000Z
+SUMMARY:Board of Commissioners - Regular Agenda (Columbia County)
+LOCATION:115 E Main St\, Dayton
+URL:https://columbiacowa.portal.civicclerk.com/event/715/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:2b28a35187ff@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270104T170000Z
+DTEND:20270104T180000Z
+SUMMARY:BoCC Strategic Planning Meeting - 1st Monday (Spokane County)
+LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenue\, First Floor\, Room 101\, Spokane County Courthouse\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2366/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:45fe1f2bc704@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270105T003000Z
+DTEND:20270105T013000Z
+SUMMARY:Heritage Advisory Board Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/5046/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:44b145925278@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270105T013000Z
+DTEND:20270105T023000Z
+SUMMARY:Economic Development Committee (City of Marysville)
+LOCATION:501 Delta Avenue\, Marysville
+URL:https://marysvillewa.portal.civicclerk.com/event/407/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:522a17e3f034@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270105T030000Z
+DTEND:20270105T040000Z
+SUMMARY:City Council Meeting (City of Marysville)
+LOCATION:501 Delta Avenue\, Marysville
+URL:https://marysvillewa.portal.civicclerk.com/event/197/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:29dc5513363f@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270105T170000Z
+DTEND:20270105T180000Z
+SUMMARY:Adams County Commissioners Meeting (Adams County)
+LOCATION:Adams County Courthouse\, 210 W. Broadway\, Room 202\, Ritzville
+URL:https://adamscowa.portal.civicclerk.com/event/932/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:b89cacf86473@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270105T170000Z
+DTEND:20270105T180000Z
+SUMMARY:Board of Benton County Commissioners Meeting (Benton County)
+LOCATION:Prosser
+URL:https://bentoncowa.portal.civicclerk.com/event/1324/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:834391658580@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270105T170000Z
+DTEND:20270105T180000Z
+SUMMARY:BoCC Board Briefing Meeting (Spokane County)
+LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenue\, First Floor\, Room 101\, Spokane County Courthouse\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2238/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:bef15369fd88@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270105T173000Z
+DTEND:20270105T183000Z
+SUMMARY:Board of County Commissioners (Klickitat County)
+LOCATION:115 West Court\, Room 201\, Goldendale
+URL:https://klickitatcowa.portal.civicclerk.com/event/1120/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:2d0afb24967e@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270105T180000Z
+DTEND:20270105T190000Z
+SUMMARY:Commissioner's Board Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/4879/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:16be28d887fa@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270105T190000Z
+DTEND:20270105T200000Z
+SUMMARY:Fire Pension Board (City of Kennewick)
+LOCATION:Kennewick City Hall - Cascade Conference Room - 210 W 6th Ave\, Kennewick WA 99336
+URL:https://kennewickwa.portal.civicclerk.com/event/2363/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:45c43af57c7a@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270105T220000Z
+DTEND:20270105T230000Z
+SUMMARY:CANCELLED: City Council (City of Seattle)
+LOCATION:Council Chamber\, City Hall 600 4th Avenue Seattle\, WA 98104
+URL:https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6921&GID=393&G=FFE3B678-CEF6-4197-84AC-5204EA4CFC0C
+END:VEVENT
+BEGIN:VEVENT
+UID:f4f9ec9091a3@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270105T220000Z
+DTEND:20270105T230000Z
+SUMMARY:Animal Solutions Advisory Committee Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/3640/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:0300411d45eb@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270105T220000Z
+DTEND:20270105T230000Z
+SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
+LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commissioners' Hearing Room\, Spokane
+URL:https://spokanecowa.portal.civicclerk.com/event/2292/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:b63f84d3ee3c@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270106T003000Z
+DTEND:20270106T013000Z
+SUMMARY:Transportation and Mobility Commission (City of Vancouver)
+LOCATION:Vancouver City Hall\, Aspen Room\, 415 West 6th Street\, Vancouver
+URL:https://vancouverwa.portal.civicclerk.com/event/1559/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:f7adf8233245@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270106T013000Z
+DTEND:20270106T023000Z
+SUMMARY:City Council Special Meeting (City of Kennewick)
+LOCATION:210 W 6th Avenue\, Broadcast Live at www.Go2Kennewick.com\, Kennewick
+URL:https://kennewickwa.portal.civicclerk.com/event/2370/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:12604822e443@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270106T013000Z
+DTEND:20270106T023000Z
+SUMMARY:Parks and Recreation Advisory Board Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/5218/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:9b7cd8a94ff0@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270106T020000Z
+DTEND:20270106T030000Z
+SUMMARY:Planning Commission Meeting (Benton County)
+LOCATION:Benton County Administration Building\, Commissioners' Meeting Room\, 7122 W. Okanogan Place\, Building E\, Room 303\, Kennewick
+URL:https://bentoncowa.portal.civicclerk.com/event/1220/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:b5914f5d506d@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270106T020000Z
+DTEND:20270106T030000Z
+SUMMARY:City Council Meeting (City of Lacey)
+LOCATION:Lacey City Hall Council Chambers
+URL:https://laceywa.portal.civicclerk.com/event/1370/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:1393dc6e5935@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270106T020000Z
+DTEND:20270106T030000Z
+SUMMARY:City Council Meeting (City of Lacey)
+LOCATION:Lacey City Hall Council Chambers
+URL:https://laceywa.portal.civicclerk.com/event/1570/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:92cdf0a7c7c7@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270106T020000Z
+DTEND:20270106T030000Z
+SUMMARY:City Council Regular Meeting (City of Richland)
+LOCATION:Richland City Hall ~ Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/6135/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:5506b790c2b2@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270106T023000Z
+DTEND:20270106T033000Z
+SUMMARY:City Council Regular Meeting (City of Kennewick)
+LOCATION:Kennewick City Hall - Council Chambers & Broadcast Live at www.Go2Kennewick.com \, 210 W 6th Ave\, Kennewick
+URL:https://kennewickwa.portal.civicclerk.com/event/2274/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:09b73c12f500@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270106T170000Z
+DTEND:20270106T180000Z
+SUMMARY:Adams County Commissioners Workshop (Adams County)
+LOCATION:Adams County Courthouse\, 210 W. Broadway\, Room 202\, Ritzville
+URL:https://adamscowa.portal.civicclerk.com/event/872/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:0d8f44dc8c65@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270106T213000Z
+DTEND:20270106T223000Z
+SUMMARY:Trails Advisory Committee Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/5247/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:c8aecced96ed@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270107T013000Z
+DTEND:20270107T023000Z
+SUMMARY:Parks\, Culture and Recreation Board Meeting (City of Lacey)
+LOCATION:Lacey City Hall Council Chambers
+URL:https://laceywa.portal.civicclerk.com/event/1435/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:177e3f61f5c5@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270107T020000Z
+DTEND:20270107T030000Z
+SUMMARY:Planning Commission Meeting (Clallam County)
+LOCATION:
+URL:https://clallamcowa.portal.civicclerk.com/event/678/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:d52ae4b53cf3@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270107T230000Z
+DTEND:20270108T000000Z
+SUMMARY:Eastsound Planning Review Committee (San Juan County)
+LOCATION:147 Schoen Ln\, Eastsound
+URL:https://sanjuancowa.portal.civicclerk.com/event/3746/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:85553c58213d@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270108T013000Z
+DTEND:20270108T023000Z
+SUMMARY:Rescheduled: Human Services Commission (City of Lacey)
+LOCATION:
+URL:https://laceywa.portal.civicclerk.com/event/1531/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:fe1baa047dc3@civicswa
+DTSTAMP:20261111T100216Z
+DTSTART:20270108T170000Z
+DTEND:20270108T180000Z
+SUMMARY:Fair Board (San Juan County)
+LOCATION:849 Argyle Ave\, FRIDAY HARBOR
+URL:https://sanjuancowa.portal.civicclerk.com/event/3999/overview
+END:VEVENT
+END:VCALENDAR
