@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T08:59:12-08:00",
+ "generated": "2026-11-11T09:01:58-08:00",
  "events": [
   {
    "id": "4f1b81a92f98",
@@ -1120,7 +1120,7 @@
   },
   {
    "id": "ef0fa43cf00f",
-   "title": "Joint Joint Oregon-Washington Legislative Action Committee",
+   "title": "Joint Oregon-Washington Legislative Action Committee",
    "host": "Washington State Legislature",
    "source": "legislature",
    "area": "statewide",
@@ -1139,11 +1139,11 @@
     "Columbia River Bridge replacement project procurement",
     "Traffic management during bridge construction and tolling performance monitoring"
    ],
-   "highlights_more": 2
+   "highlights_more": 1
   },
   {
    "id": "85a4295d9450",
-   "title": "Other Statute Law Committee",
+   "title": "Statute Law Committee",
    "host": "Washington State Legislature",
    "source": "legislature",
    "area": "statewide",
@@ -1158,11 +1158,11 @@
    "note": "",
    "cancelled": false,
    "highlights": [
-    "Agenda: Call to Order/Introduction of Members",
-    "Agenda: Approval of Minutes of June 17, 2026, Meeting",
-    "Agenda: Publications Update"
+    "Publications Update",
+    "Agency Request Legislation",
+    "Financial Report"
    ],
-   "highlights_more": 3
+   "highlights_more": 0
   },
   {
    "id": "d5430cb713bf",
@@ -1645,7 +1645,7 @@
   },
   {
    "id": "056fa4e8afd2",
-   "title": "Joint Select Committee on Pension Policy",
+   "title": "Select Committee on Pension Policy",
    "host": "Washington State Legislature",
    "source": "legislature",
    "area": "statewide",
@@ -1660,11 +1660,11 @@
    "note": "This meeting includes a public hearing. You can sign in, send written testimony or sign up to testify remotely through the Legislature's Committee Sign-In page.",
    "cancelled": false,
    "highlights": [
-    "Agenda: Approval of October Minutes",
-    "Agenda: WSPRS Survivor Medical (Possible Executive Action)",
-    "Agenda: WSIB Update"
+    "WSPRS Survivor Medical (Possible Executive Action)",
+    "WSIB Update",
+    "DRS Update"
    ],
-   "highlights_more": 4
+   "highlights_more": 1
   },
   {
    "id": "dd6d591b8909",
@@ -1702,7 +1702,7 @@
   },
   {
    "id": "172ca9033aee",
-   "title": "Joint Select Committee on Pension Policy (Executive Committee)",
+   "title": "Select Committee on Pension Policy (Executive Committee)",
    "host": "Washington State Legislature",
    "source": "legislature",
    "area": "statewide",
@@ -1717,11 +1717,11 @@
    "note": "To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website: https://app.leg.wa.gov/committeeschedules See https://app.leg.wa.gov/CSI/Joint for how to register for remote public testimony.",
    "cancelled": false,
    "highlights": [
-    "Agenda: Approval of October Minutes",
-    "Agenda: AAG Update",
-    "Agenda: Actuarial Update"
+    "AAG Update",
+    "Actuarial Update",
+    "Interim Work Planning"
    ],
-   "highlights_more": 3
+   "highlights_more": 1
   },
   {
    "id": "f283796554da",
@@ -2852,7 +2852,7 @@
   },
   {
    "id": "095673fc38da",
-   "title": "Joint Joint Transportation Committee",
+   "title": "Joint Transportation Committee",
    "host": "Washington State Legislature",
    "source": "legislature",
    "area": "statewide",
@@ -2867,11 +2867,11 @@
    "note": "To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website: https://app.leg.wa.gov/committeeschedules See https://app.leg.wa.gov/CSI/Joint for how to register for remote public testimony.",
    "cancelled": false,
    "highlights": [
-    "Agenda: Introductions",
-    "Agenda: Independent review-Amtrak Cascades preliminary service development plan-project introduction and update",
-    "Agenda: Transportation challenges and successes in Washington's counties"
+    "Independent review-Amtrak Cascades preliminary service development plan-project introduction and update",
+    "Transportation challenges and successes in Washington's counties",
+    "JTC workplan update"
    ],
-   "highlights_more": 2
+   "highlights_more": 0
   },
   {
    "id": "554a8e04ebf0",
@@ -3323,7 +3323,7 @@
   },
   {
    "id": "a6b34dc5d71c",
-   "title": "Joint Joint Legislative-Executive Committee on Budget Transparency and Fiscal Sustainability",
+   "title": "Joint Legislative-Executive Committee on Budget Transparency and Fiscal Sustainability",
    "host": "Washington State Legislature",
    "source": "legislature",
    "area": "statewide",
@@ -3339,10 +3339,9 @@
    "cancelled": false,
    "highlights": [
     "Pew Charitable Trusts report recommendations",
-    "Co-chair recommendations",
-    "Committee discussion"
+    "Co-chair recommendations"
    ],
-   "highlights_more": 2
+   "highlights_more": 0
   },
   {
    "id": "a41962fdc948",
@@ -5106,7 +5105,7 @@
   },
   {
    "id": "e7fd70bad40f",
-   "title": "Joint JLARC - Joint Legislative Audit & Review Committee",
+   "title": "JLARC - Joint Legislative Audit & Review Committee",
    "host": "Washington State Legislature",
    "source": "legislature",
    "area": "statewide",
@@ -5157,7 +5156,7 @@
   },
   {
    "id": "7b8074cbe788",
-   "title": "Other Committee to Hear SAO Performance Audits",
+   "title": "Committee to Hear SAO Performance Audits",
    "host": "Washington State Legislature",
    "source": "legislature",
    "area": "statewide",
@@ -5684,7 +5683,7 @@
   },
   {
    "id": "545a8a058976",
-   "title": "Joint Joint Legislative Committee on Water Supply During Drought",
+   "title": "Joint Legislative Committee on Water Supply During Drought",
    "host": "Washington State Legislature",
    "source": "legislature",
    "area": "statewide",
@@ -5888,7 +5887,7 @@
   },
   {
    "id": "18ab57b5a618",
-   "title": "Joint Joint Legislative-Executive Committee on Budget Transparency and Fiscal Sustainability",
+   "title": "Joint Legislative-Executive Committee on Budget Transparency and Fiscal Sustainability",
    "host": "Washington State Legislature",
    "source": "legislature",
    "area": "statewide",
@@ -6959,7 +6958,7 @@
   },
   {
    "id": "737d0183af02",
-   "title": "Joint Joint Committee on Veterans' & Military Affairs",
+   "title": "Joint Committee on Veterans' & Military Affairs",
    "host": "Washington State Legislature",
    "source": "legislature",
    "area": "statewide",
@@ -6976,7 +6975,7 @@
   },
   {
    "id": "679b54ba2428",
-   "title": "Joint Joint Transportation Committee",
+   "title": "Joint Transportation Committee",
    "host": "Washington State Legislature",
    "source": "legislature",
    "area": "statewide",
@@ -8540,7 +8539,7 @@
   },
   {
    "id": "62d1d2e75e2c",
-   "title": "Joint Select Committee on Pension Policy",
+   "title": "Select Committee on Pension Policy",
    "host": "Washington State Legislature",
    "source": "legislature",
    "area": "statewide",
@@ -9407,7 +9406,7 @@
   },
   {
    "id": "838b079e381f",
-   "title": "Joint Joint Higher Education Committee",
+   "title": "Joint Higher Education Committee",
    "host": "Washington State Legislature",
    "source": "legislature",
    "area": "statewide",
@@ -9577,7 +9576,7 @@
   },
   {
    "id": "7bc6603e71f1",
-   "title": "Joint Joint Committee on Employment Relations",
+   "title": "Joint Committee on Employment Relations",
    "host": "Washington State Legislature",
    "source": "legislature",
    "area": "statewide",
