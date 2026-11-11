@@ -1,5 +1,5 @@
 :root {
-  /* BarNone brand: blue Pantone 286 C, orange Pantone 172 C, cool grays. */
+  /* CivicsWA palette: blue (Pantone 286 C), orange (Pantone 172 C), cool grays. Kept distinct from BarNone's red and navy. */
   --ground: #F6F7F9; --ink: #2A2E2E; --petrol: #0033A0; --muted: #53565A;
   --line: #D9D9D6; --chip-line: #C8C9C7; --tint: #EBEFF7; --card: #FFFFFF;
   --accent: #D64309; --accent-soft: #FBE3D8; --accent-ink: #9A2F05;
