@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T23:36:34-08:00",
+ "generated": "2026-11-10T23:37:41-08:00",
  "events": [
   {
    "id": "7854fb24b1a1",
@@ -19,7 +19,7 @@
   },
   {
    "id": "7231d6d1e1d8",
-   "title": "Cancelled: BoH Meeting & Public Hearings",
+   "title": "BoH Meeting & Public Hearings",
    "host": "Thurston County",
    "source": "thurston-county",
    "area": "countywide",
@@ -179,7 +179,7 @@
   },
   {
    "id": "a342e5bd1bef",
-   "title": "Canceled: Board Work Session",
+   "title": "Board Work Session",
    "host": "Thurston County",
    "source": "thurston-county",
    "area": "countywide",
@@ -211,7 +211,7 @@
   },
   {
    "id": "0775d0e29aed",
-   "title": "Canceled: Board Work Session",
+   "title": "Board Work Session",
    "host": "Thurston County",
    "source": "thurston-county",
    "area": "countywide",
@@ -227,7 +227,7 @@
   },
   {
    "id": "f03c12d318df",
-   "title": "Canceled: Board Work Session (Placeholder)",
+   "title": "Board Work Session (Placeholder)",
    "host": "Thurston County",
    "source": "thurston-county",
    "area": "countywide",
@@ -547,7 +547,7 @@
   },
   {
    "id": "e03809f398bb",
-   "title": "Cancelled - New Employee Orientation",
+   "title": "New Employee Orientation",
    "host": "Thurston County",
    "source": "thurston-county",
    "area": "countywide",
@@ -819,7 +819,7 @@
   },
   {
    "id": "2a2f12505c40",
-   "title": "Cancelled: Transportation Benefit District Meeting",
+   "title": "Transportation Benefit District Meeting",
    "host": "Thurston County",
    "source": "thurston-county",
    "area": "countywide",
@@ -899,7 +899,7 @@
   },
   {
    "id": "466345fc4c42",
-   "title": "Canceled: Board Meetings",
+   "title": "Board Meetings",
    "host": "Thurston County",
    "source": "thurston-county",
    "area": "countywide",
