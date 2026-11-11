@@ -688,11 +688,91 @@ def fetch_schedule(src, start_day, end_day, tz):
     return events
 
 
+# --- Washington State Legislature committee meetings (official web services) ---
+
+WSL = "https://wslwebservices.leg.wa.gov/CommitteeMeetingService.asmx"
+
+
+def wsl_text(node, name):
+    for child in node.iter():
+        if local(child.tag) == name:
+            return (child.text or "").strip()
+    return ""
+
+
+def normalize_wsl_meetings(src, xml_text, tz):
+    import xml.etree.ElementTree as ET
+    events = []
+    for m in ET.fromstring(xml_text).iter():
+        if local(m.tag) != "CommitteeMeeting":
+            continue
+        names = [(c.text or "").strip() for c in m.iter() if local(c.tag) == "LongName"]
+        raw = wsl_text(m, "Date")
+        if not raw:
+            continue
+        start = datetime.fromisoformat(raw[:19]).replace(tzinfo=tz)
+        agenda = wsl_text(m, "AgendaId")
+        place = ", ".join(p for p in [wsl_text(m, "Room"), wsl_text(m, "Building"), "Olympia"] if p)
+        title = " and ".join(n for n in names if n) or "Legislative committee meeting"
+        if wsl_text(m, "CommitteeType") and wsl_text(m, "CommitteeType") != "Full Committee":
+            title += f" ({wsl_text(m, 'CommitteeType')})"
+        e = make_event(
+            src, title=title, start=start, location=place,
+            url=f"https://app.leg.wa.gov/committeeschedules/Home/Agenda/{agenda}" if agenda else src["homepage"],
+            note=wsl_text(m, "Notes"), uid=agenda or title,
+            category="legislature", cancelled=wsl_text(m, "Cancelled").lower() == "true",
+        )
+        e["_agenda"] = agenda
+        events.append(e)
+    return events
+
+
+def wsl_items(xml_text):
+    """Agenda items as 'Public hearing: HB 1234 – Concerning ...' or plain work-session topics."""
+    import xml.etree.ElementTree as ET
+    out, hearing = [], False
+    for i in ET.fromstring(xml_text).iter():
+        if local(i.tag) != "CommitteeMeetingItem":
+            continue
+        desc = wsl_text(i, "ItemDescription").rstrip(".")
+        bill = wsl_text(i, "BillId")
+        kind = wsl_text(i, "HearingTypeDescription")
+        hearing = hearing or kind.lower().startswith("public hearing")
+        text = f"{bill} – {desc}" if bill else desc
+        if kind and kind.lower() not in ("work session",):
+            text = f"{kind}: {text}"
+        out.append(text)
+    return out, hearing
+
+
+def fetch_wsl_committees(src, start_day, end_day, tz):
+    xml_text = get(f"{WSL}/GetCommitteeMeetings",
+                   {"beginDate": start_day.isoformat(), "endDate": end_day.isoformat()}).text
+    events = normalize_wsl_meetings(src, xml_text, tz)
+    for e in events:
+        if e["cancelled"] or not soon(e, start_day) or not e.get("_agenda"):
+            continue
+        try:
+            items, hearing = wsl_items(get(f"{WSL}/GetCommitteeMeetingItems", {"agendaId": e["_agenda"]}).text)
+        except Exception as exc:
+            print(f"[info] legislature: no items for {e['_agenda']}: {exc}", file=sys.stderr)
+            continue
+        if items:
+            e["highlights"] = [clean_item(t) for t in items[:HIGHLIGHT_COUNT]]
+            e["highlights_more"] = max(0, len(items) - HIGHLIGHT_COUNT)
+        if hearing:
+            e["note"] = ("This meeting includes a public hearing. You can sign in, send written "
+                         "testimony or sign up to testify remotely through the Legislature's "
+                         "Committee Sign-In page.")
+    return events
+
+
 CONNECTORS = {"legistar": fetch_legistar, "civicclerk": fetch_civicclerk, "ics": fetch_ics,
               "bibliocommons": fetch_bibliocommons, "municode": fetch_municode, "mec_rss": fetch_mec_rss,
               "govaccess_rss": fetch_govaccess_rss, "civicplus": fetch_civicplus,
               "primegov": fetch_primegov, "civicweb": fetch_civicweb,
-              "spokane_council": fetch_spokane_council, "schedule": fetch_schedule}
+              "spokane_council": fetch_spokane_council, "schedule": fetch_schedule,
+              "wsl_committees": fetch_wsl_committees}
 
 
 # ---------- outputs ----------

@@ -259,3 +259,24 @@ def test_alerts_pick_long_failures():
         {"name": "B", "state": "failing", "failing_since": "2026-11-10"},
         {"name": "C", "state": "ok", "failing_since": ""}]}
     assert [s["name"] for s in alerts.stuck_sources(status, date(2026, 11, 11))] == ["A"]
+
+
+def test_legislature_committees():
+    src = {"id": "legislature", "name": "Washington State Legislature", "area": "statewide",
+           "county": "Statewide", "homepage": "https://app.leg.wa.gov/committeeschedules/"}
+    ns = 'xmlns="http://WSLWebServices.leg.wa.gov/"'
+    meetings = f"""<ArrayOfCommitteeMeeting {ns}><CommitteeMeeting><AgendaId>34269</AgendaId>
+      <Committees><Committee><LongName>House Appropriations</LongName></Committee></Committees>
+      <Room>House JPB 102 and Virtual</Room><Building>Joel Pritchard Building</Building>
+      <Date>2026-12-10T16:00:00</Date><Cancelled>false</Cancelled><CommitteeType>Full Committee</CommitteeType><Notes/>
+      </CommitteeMeeting></ArrayOfCommitteeMeeting>"""
+    (e,) = build.normalize_wsl_meetings(src, meetings, TZ)
+    assert e["title"] == "House Appropriations" and e["start"] == "2026-12-10T16:00:00-08:00"
+    assert e["category"] == "legislature" and e["url"].endswith("/Agenda/34269")
+    items = f"""<ArrayOfCommitteeMeetingItem {ns}>
+      <CommitteeMeetingItem><HearingTypeDescription>Public Hearing</HearingTypeDescription><BillId>HB 1001</BillId>
+      <ItemDescription>Concerning library hours.</ItemDescription></CommitteeMeetingItem>
+      <CommitteeMeetingItem><HearingTypeDescription>Work Session</HearingTypeDescription><BillId/>
+      <ItemDescription>2027 Session Budget Preview.</ItemDescription></CommitteeMeetingItem></ArrayOfCommitteeMeetingItem>"""
+    got, hearing = build.wsl_items(items)
+    assert got == ["Public Hearing: HB 1001 – Concerning library hours", "2027 Session Budget Preview"] and hearing

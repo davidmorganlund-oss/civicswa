@@ -8,6 +8,15 @@ window_days: 60
 timezone: America/Los_Angeles
 
 sources:
+  # Statewide: Washington State Legislature committee meetings, from the
+  # Legislature's own web services. Shown statewide, under "State Legislature".
+  - id: legislature
+    name: Washington State Legislature
+    type: wsl_committees
+    county: Statewide
+    area: statewide
+    homepage: https://app.leg.wa.gov/committeeschedules/
+
   - id: olympia
     name: City of Olympia
     type: legistar

@@ -9,7 +9,7 @@
   var GEOCODER = 'https://geocoding.geo.census.gov/geocoder/geographies/onelineaddress';
   var LEG_FINDER = 'https://app.leg.wa.gov/districtfinder/';
 
-  // Local governments in the pilot area with a page we have checked.
+  // Local governments with a council or commission page we have checked.
   var LOCAL = {
     places: {
       Olympia: { label: 'Olympia City Council', url: 'https://olympia.legistar.com/Calendar.aspx', note: 'Meetings, agendas and members' },

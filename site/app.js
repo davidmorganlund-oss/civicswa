@@ -7,11 +7,12 @@
     { id: 'all', label: 'All' },
     { id: 'council', label: 'Councils and commissions' },
     { id: 'hearing', label: 'Public hearings' },
+    { id: 'legislature', label: 'State Legislature' },
     { id: 'school', label: 'School boards' },
     { id: 'library', label: 'Library programs' },
     { id: 'other', label: 'Other' }
   ];
-  var LABELS = { council: 'Councils and commissions', hearing: 'Public hearings', school: 'School boards', library: 'Library programs', other: 'Other' };
+  var LABELS = { legislature: 'State Legislature', council: 'Councils and commissions', hearing: 'Public hearings', school: 'School boards', library: 'Library programs', other: 'Other' };
 
   // The visitor's county and city, shared with the Engage guides' "Near you"
   // boxes and the representatives lookup. Kept in this browser only.
@@ -60,6 +61,9 @@
       var key = e.start.slice(0, 10);
       if (key < from || key > to) return false;
       if (state.cat !== 'all' && e.category !== state.cat) return false;
+      // Legislature meetings belong to everyone: they show statewide, and in a
+      // county view when the "State Legislature" filter is on.
+      if (e.county === 'Statewide') return !state.county || state.cat === 'legislature';
       if (state.county && e.county !== state.county) return false;
       if (state.city && e.area !== 'countywide' && e.area !== state.city) return false;
       return true;
@@ -201,7 +205,7 @@
   // offer places that have meetings here.
   function fillCounties() {
     var counties = {};
-    state.sources.forEach(function (s) { counties[s.county || 'Thurston'] = true; });
+    state.sources.forEach(function (s) { if (s.county !== 'Statewide') counties[s.county || 'Thurston'] = true; });
     var all = Object.keys(state.local.counties || {});
     if (!all.length) all = Object.keys(counties);
     var sel = $('county');
@@ -261,6 +265,8 @@
   }
 
   var place = loadPlace();
+  var wanted = (location.search.match(/[?&]cat=([a-z]+)/) || [])[1];
+  if (wanted && CATEGORIES.some(function (c) { return c.id === wanted; })) state.cat = wanted;
   state.county = place.county || '';
   state.city = place.city || '';
   setup();

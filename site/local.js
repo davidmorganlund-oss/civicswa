@@ -56,7 +56,7 @@
         if (county) item(ul, county.site, place.county + ' County', 'Official website: commissioners or council, departments and services.');
       }
       if (kind === 'meetings') {
-        if (place.county === 'Thurston') item(ul, base() + 'index.html', 'Public meetings in Thurston County', 'The CivicsWA calendar, refreshed nightly.');
+        if (place.county) item(ul, base() + 'index.html', 'Public meetings in ' + place.county + ' County', 'The CivicsWA calendar, set to your county.');
         if (city) item(ul, city.site, 'City of ' + place.city + ' meetings', 'Council agendas are on the city’s website.');
         if (county) item(ul, county.site, place.county + ' County meetings', 'Commission or council agendas are on the county’s website.');
       }
