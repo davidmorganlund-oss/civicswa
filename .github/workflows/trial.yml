@@ -13,4 +13,4 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install -r requirements.txt
-      - run: python tools/trial.py "${{ inputs.file }}"
+      - run: python tools/trial.py "${{ inputs.file }}" ${{ contains(inputs.file, 'guess') && 16 || 4 }}
