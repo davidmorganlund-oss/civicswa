@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Kittitas County
 BEGIN:VEVENT
 UID:32326960a9ee@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261111T163000Z
 DTEND:20261111T173000Z
 SUMMARY:CANCELLED: Lodging Tax & Event Meeting (City of Cle Elum)
@@ -13,7 +13,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1032/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:c29e826842a6@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261112T011500Z
 DTEND:20261112T021500Z
 SUMMARY:Environmental Commission Meeting (City of Ellensburg)
@@ -22,7 +22,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1495/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:13eaf04f20e1@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261112T013000Z
 DTEND:20261112T023000Z
 SUMMARY:Parks & Recreation Commission Meeting (City of Ellensburg)
@@ -31,7 +31,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1667/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ecfa12ea377e@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261112T180000Z
 DTEND:20261112T190000Z
 SUMMARY:Public Safety & Health (City of Cle Elum)
@@ -40,7 +40,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1018/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:3667a484e4d1@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261113T000000Z
 DTEND:20261113T010000Z
 SUMMARY:Arts Commission Meeting (City of Ellensburg)
@@ -49,7 +49,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1639/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:57e36e4fb3bb@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261113T014500Z
 DTEND:20261113T024500Z
 SUMMARY:Planning Commission Meeting (City of Ellensburg)
@@ -58,7 +58,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1510/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:cf8c8c17d61e@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261113T020000Z
 DTEND:20261113T030000Z
 SUMMARY:Public Hearing Wildwood Ranch LLC (City of Cle Elum)
@@ -67,7 +67,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1184/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:146780663693@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261113T210000Z
 DTEND:20261113T220000Z
 SUMMARY:Fire Advisory Committee (City of Cle Elum)
@@ -76,7 +76,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1181/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:181ffdcdfefe@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261117T030000Z
 DTEND:20261117T040000Z
 SUMMARY:City Council Meeting (City of Ellensburg)
@@ -85,7 +85,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1580/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:deb7ed84a80a@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261117T180000Z
 DTEND:20261117T190000Z
 SUMMARY:CANCELLED: Board of County Commissioners Agenda Session (Kittitas County)
@@ -94,7 +94,7 @@ URL:https://www.co.kittitas.wa.us/boc/about.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:9ccdf8b87ff6@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261117T233000Z
 DTEND:20261118T003000Z
 SUMMARY:Ellensburg Transportation Advisory Committee Meeting (City of Ellensburg)
@@ -103,7 +103,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1707/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8ca72d2269c7@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261118T020000Z
 DTEND:20261118T030000Z
 SUMMARY:Planning Commission 3rd Tuesday (City of Cle Elum)
@@ -112,7 +112,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/929/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:5d772cc0a33a@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261118T163000Z
 DTEND:20261118T173000Z
 SUMMARY:General Government (City of Cle Elum)
@@ -121,7 +121,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1089/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ef5036db1ca1@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261119T011500Z
 DTEND:20261119T021500Z
 SUMMARY:CANCELLED: Civil Service Commission *CANCELED* (City of Cle Elum)
@@ -130,7 +130,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/957/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2a4b5eb9a696@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261119T163000Z
 DTEND:20261119T173000Z
 SUMMARY:Lodging Tax & Events Committee Special Meeting (City of Cle Elum)
@@ -139,7 +139,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1183/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:099a133f5a12@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261119T233000Z
 DTEND:20261120T003000Z
 SUMMARY:Utility Advisory Committee Meeting (City of Ellensburg)
@@ -148,7 +148,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1744/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:cda183af3ed7@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261125T020000Z
 DTEND:20261125T030000Z
 SUMMARY:City Council Meeting 4th Tuesday (City of Cle Elum)
@@ -156,8 +156,17 @@ LOCATION:119 West First Street \, City Council Chambers\, Cle Elum
 URL:https://cleelumwa.portal.civicclerk.com/event/1063/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:99fe71c696ab@civicswa
+DTSTAMP:20261111T225206Z
+DTSTART:20261125T020000Z
+DTEND:20261125T040000Z
+SUMMARY:SCHOOL BOARD MEETING (Thorp School District)
+LOCATION:
+URL:https://www.thorpschools.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:e03157aec7b2@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261125T160000Z
 DTEND:20261125T170000Z
 SUMMARY:LEOFF 1 Disability Board (City of Ellensburg)
@@ -166,7 +175,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1593/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7917e6b6a223@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261127T014500Z
 DTEND:20261127T024500Z
 SUMMARY:Planning Commission (City of Ellensburg)
@@ -175,7 +184,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1693/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:beaa638ffe34@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261201T180000Z
 DTEND:20261201T190000Z
 SUMMARY:CANCELLED: Board of County Commissioners Agenda Session (Kittitas County)
@@ -184,7 +193,7 @@ URL:https://www.co.kittitas.wa.us/boc/about.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:c8a004943ff0@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261201T210000Z
 DTEND:20261201T220000Z
 SUMMARY:Public Works & Community Development (City of Cle Elum)
@@ -193,7 +202,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1004/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:25f5ac23f7ab@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261202T000000Z
 DTEND:20261202T010000Z
 SUMMARY:Civil Service Commission Meeting (City of Ellensburg)
@@ -202,7 +211,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1733/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:18b9c9ed29d9@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261202T020000Z
 DTEND:20261202T030000Z
 SUMMARY:Planning Commission 1st Tuesday (City of Cle Elum)
@@ -211,7 +220,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1138/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:fbd5b4c89636@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261202T220000Z
 DTEND:20261202T230000Z
 SUMMARY:Lodging Tax Advisory Committee Meeting (City of Ellensburg)
@@ -220,7 +229,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1613/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:db806bf8ac5d@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261203T003000Z
 DTEND:20261203T013000Z
 SUMMARY:Affordable Housing Commission Meeting (City of Ellensburg)
@@ -229,7 +238,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1681/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:3259b7193821@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261203T010000Z
 DTEND:20261203T020000Z
 SUMMARY:Tree Board (City of Cle Elum)
@@ -238,7 +247,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1151/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:df5c6b5d516f@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261204T210000Z
 DTEND:20261204T220000Z
 SUMMARY:Fire Advisory Committee (City of Cle Elum)
@@ -247,7 +256,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1182/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:81c4f72d8906@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261208T000000Z
 DTEND:20261208T010000Z
 SUMMARY:Coal Mines Trail Commission Meeting (Roslyn City Hall) (City of Cle Elum)
@@ -256,7 +265,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1046/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:dfbce6634462@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261208T030000Z
 DTEND:20261208T040000Z
 SUMMARY:City Council Meeting (City of Ellensburg)
@@ -265,7 +274,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1569/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8371682bead7@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261208T230000Z
 DTEND:20261209T000000Z
 SUMMARY:Access\, Advocacy\, Equity\, and Engagement Commission Meeting (City of Ellensburg)
@@ -274,7 +283,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1721/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:6d9f42d5c5f2@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261209T003000Z
 DTEND:20261209T013000Z
 SUMMARY:Library Board Meeting (City of Ellensburg)
@@ -283,7 +292,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1627/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:16cfd04888b6@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:City Council Meeting 2nd Tuesday (City of Cle Elum)
@@ -292,7 +301,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/883/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:87840f1112d2@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261209T163000Z
 DTEND:20261209T173000Z
 SUMMARY:Lodging Tax & Event Meeting (City of Cle Elum)
@@ -301,7 +310,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1033/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:139bb4d70fb2@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261210T013000Z
 DTEND:20261210T023000Z
 SUMMARY:Parks & Recreation Commission Meeting (City of Ellensburg)
@@ -310,7 +319,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1668/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:0cef55fdb223@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261210T163000Z
 DTEND:20261210T173000Z
 SUMMARY:Public Safety & Health Special Meeting (City of Cle Elum)
@@ -319,7 +328,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1126/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:bafaf12b93b2@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261210T180000Z
 DTEND:20261210T190000Z
 SUMMARY:Public Safety & Health (City of Cle Elum)
@@ -328,7 +337,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1019/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:0280d5dc8e01@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261210T180000Z
 DTEND:20261210T190000Z
 SUMMARY:Special Meeting Public Safety & Health (City of Cle Elum)
@@ -337,7 +346,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1105/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:5bf1ab633f3c@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261210T190000Z
 DTEND:20261210T200000Z
 SUMMARY:Public Safety & Health Special Meeting (City of Cle Elum)
@@ -346,7 +355,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1117/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:296596c0e7d5@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261210T210000Z
 DTEND:20261210T220000Z
 SUMMARY:Special Meeting Public Safety & Health (City of Cle Elum)
@@ -355,7 +364,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1077/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:23be7be85cc5@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261211T000000Z
 DTEND:20261211T010000Z
 SUMMARY:Arts Commission Meeting (City of Ellensburg)
@@ -364,7 +373,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1640/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:5e9c50012c2d@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261211T014500Z
 DTEND:20261211T024500Z
 SUMMARY:Planning Commission Meeting (City of Ellensburg)
@@ -373,7 +382,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1654/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:dbde19ed842e@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261215T180000Z
 DTEND:20261215T190000Z
 SUMMARY:CANCELLED: Board of County Commissioners Agenda Session (Kittitas County)
@@ -382,7 +391,7 @@ URL:https://www.co.kittitas.wa.us/boc/about.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:6112156962a3@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261215T233000Z
 DTEND:20261216T003000Z
 SUMMARY:Ellensburg Transportation Advisory Committee Meeting (City of Ellensburg)
@@ -391,7 +400,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1708/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:15e853468ae5@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261217T011500Z
 DTEND:20261217T021500Z
 SUMMARY:Civil Service Commission (City of Cle Elum)
@@ -400,7 +409,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/958/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7f7f9734e8bd@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261217T011500Z
 DTEND:20261217T021500Z
 SUMMARY:Environmental Commission Meeting (City of Ellensburg)
@@ -409,7 +418,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1557/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7a3344a5ff28@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261217T233000Z
 DTEND:20261218T003000Z
 SUMMARY:Utility Advisory Committee Meeting (City of Ellensburg)
@@ -417,8 +426,17 @@ LOCATION:501 N Anderson Street\, Council Conference Room\, Ellensburg
 URL:https://ellensburgwa.portal.civicclerk.com/event/1745/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:87aff2bce4b4@civicswa
+DTSTAMP:20261111T225206Z
+DTSTART:20261218T020000Z
+DTEND:20261218T040000Z
+SUMMARY:SCHOOL BOARD MEETING (Thorp School District)
+LOCATION:
+URL:https://www.thorpschools.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:d63e4d2275c3@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261222T030000Z
 DTEND:20261222T040000Z
 SUMMARY:City Council Meeting (City of Ellensburg)
@@ -427,7 +445,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1581/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:fc230f6c07ec@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:CANCELLED: City Council Meeting 4th Tuesday (City of Cle Elum)
@@ -436,7 +454,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1064/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:6b70d5bcda3f@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261223T160000Z
 DTEND:20261223T170000Z
 SUMMARY:LEOFF 1 Disability Board (City of Ellensburg)
@@ -445,7 +463,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1594/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:0822f00a15d1@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261223T163000Z
 DTEND:20261223T173000Z
 SUMMARY:General Government (City of Cle Elum)
@@ -454,7 +472,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1090/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8428da945df6@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261225T014500Z
 DTEND:20261225T024500Z
 SUMMARY:Planning Commission (City of Ellensburg)
@@ -463,7 +481,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1694/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:448b0f90779d@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20270105T000000Z
 DTEND:20270105T010000Z
 SUMMARY:Coal Mines Trail Commission Meeting (Roslyn City Hall) (City of Cle Elum)
@@ -472,7 +490,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1047/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7e1910be53b9@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20270105T000000Z
 DTEND:20270105T010000Z
 SUMMARY:Coal Mines Trail Commission Special Meeting (Roslyn City Hall) (City of Cle Elum)
@@ -481,7 +499,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1170/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7c7b8511a1b3@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20270105T030000Z
 DTEND:20270105T040000Z
 SUMMARY:City Council Meeting (City of Ellensburg)
@@ -490,7 +508,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1570/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:0d6e17b22410@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20270105T180000Z
 DTEND:20270105T190000Z
 SUMMARY:CANCELLED: Board of County Commissioners Agenda Session (Kittitas County)
@@ -499,7 +517,7 @@ URL:https://www.co.kittitas.wa.us/boc/about.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:96f55285e554@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20270105T210000Z
 DTEND:20270105T220000Z
 SUMMARY:Public Works & Community Development (City of Cle Elum)
@@ -508,7 +526,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1005/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:459a406c114a@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20270106T000000Z
 DTEND:20270106T010000Z
 SUMMARY:Civil Service Commission Meeting (City of Ellensburg)
@@ -517,7 +535,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1734/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:0697c9203a1d@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20270106T020000Z
 DTEND:20270106T030000Z
 SUMMARY:Planning Commission 1st Tuesday (City of Cle Elum)
@@ -526,7 +544,7 @@ URL:https://cleelumwa.portal.civicclerk.com/event/1139/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:9d69f226b0fc@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20270106T220000Z
 DTEND:20270106T230000Z
 SUMMARY:Lodging Tax Advisory Committee Meeting (City of Ellensburg)
@@ -535,7 +553,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1614/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:3d842368d1d1@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20270107T003000Z
 DTEND:20270107T013000Z
 SUMMARY:Affordable Housing Commission Meeting (City of Ellensburg)
@@ -544,7 +562,7 @@ URL:https://ellensburgwa.portal.civicclerk.com/event/1682/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:666a24a253c7@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20270107T010000Z
 DTEND:20270107T020000Z
 SUMMARY:Tree Board (City of Cle Elum)

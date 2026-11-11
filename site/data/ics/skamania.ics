@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Skamania County
 BEGIN:VEVENT
 UID:d514f54abc60@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261120T020000Z
 DTEND:20261120T030000Z
 SUMMARY:Regular City Council Meeting (City of Stevenson)
@@ -13,7 +13,7 @@ URL:https://stevensonwa.portal.civicclerk.com/event/527/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:1da050bb099c@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261215T020000Z
 DTEND:20261215T030000Z
 SUMMARY:Regular Planning Commission Meeting (City of Stevenson)
@@ -22,7 +22,7 @@ URL:https://stevensonwa.portal.civicclerk.com/event/541/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:a0dd7553e69f@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261218T020000Z
 DTEND:20261218T030000Z
 SUMMARY:Regular City Council Meeting (City of Stevenson)

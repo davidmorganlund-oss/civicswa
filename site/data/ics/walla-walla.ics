@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Walla Walla County
 BEGIN:VEVENT
 UID:ecef6979697a@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261112T200000Z
 DTEND:20261112T210000Z
 SUMMARY:Civil Service Commission (City of College Place)
@@ -13,7 +13,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/102/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:4bc99204e5a8@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261118T020000Z
 DTEND:20261118T030000Z
 SUMMARY:Planning Commission (City of College Place)
@@ -22,7 +22,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/175/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ea05d4d50d89@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261118T190000Z
 DTEND:20261118T200000Z
 SUMMARY:Youth Advisory Commission (City of College Place)
@@ -31,7 +31,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/1385/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:fcd46209f5e2@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261118T224500Z
 DTEND:20261118T234500Z
 SUMMARY:Finance Committee Meeting (City of College Place)
@@ -40,7 +40,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/1399/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:cc98f5380ff2@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261125T020000Z
 DTEND:20261125T030000Z
 SUMMARY:City Council Meeting (City of College Place)
@@ -49,7 +49,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/148/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8df9fd8ed912@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261202T013000Z
 DTEND:20261202T023000Z
 SUMMARY:City Council Workshop Meeting (City of College Place)
@@ -58,7 +58,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/72/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:d35ea7b7b066@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:City Council Meeting (City of College Place)
@@ -67,7 +67,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/116/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:eaae6a914321@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261210T200000Z
 DTEND:20261210T210000Z
 SUMMARY:Civil Service Commission (City of College Place)
@@ -76,7 +76,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/103/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:6db88c827554@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:CANCELLED: Planning Commission (City of College Place)
@@ -85,7 +85,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/190/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e639ff4942e5@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:City Council Meeting (City of College Place)
@@ -94,7 +94,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/129/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:fac1308ceea2@civicswa
-DTSTAMP:20261111T224611Z
+DTSTAMP:20261111T225206Z
 DTSTART:20270106T013000Z
 DTEND:20270106T023000Z
 SUMMARY:City Council Workshop Meeting (City of College Place)
