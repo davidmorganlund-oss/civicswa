@@ -156,9 +156,14 @@
     var fmt = function (k) { return new Date(k + 'T12:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric' }); };
     $('range').textContent = fmt(from) + ' to ' + fmt(to) + ' · ' + rows.length + (rows.length === 1 ? ' event' : ' events');
     $('heading').textContent = 'Coming up ' + (state.city ? 'in and around ' + state.city : state.county ? 'in ' + state.county + ' County' : 'across Washington');
-    var sub = $('subscribe');
-    sub.href = 'data/ics/' + (state.county ? slug(state.county) : 'washington') + '.ics';
-    sub.textContent = 'Subscribe to ' + (state.county ? state.county + ' County' : 'the statewide calendar');
+    // One county is the useful subscription. With no county picked, offer the
+    // Legislature, which matters to everyone.
+    var sub = $('subscribe'), connected = state.county && (!state.connected || state.connected[state.county]);
+    sub.href = 'data/ics/' + (connected ? slug(state.county) : 'statewide') + '.ics';
+    sub.textContent = connected ? 'Subscribe to ' + state.county + ' County meetings' : 'Subscribe to State Legislature committee meetings';
+    $('subscribe-text').textContent = connected
+      ? 'Subscribe once and ' + state.county + ' County meetings show up in the calendar app you already use.'
+      : 'Pick your county above to subscribe to its meetings. Or follow the Legislature’s committee meetings in your own calendar app.';
     renderStatus();
 
     if (state.county && state.connected && !state.connected[state.county]) {
@@ -249,17 +254,6 @@
   function renderStatus() {
     var status = state.status;
     if (!status) return;
-    var ul = $('sources');
-    ul.textContent = '';
-    var words = { ok: 'Up to date', quiet: 'Nothing listed', failing: 'Not responding' };
-    status.sources.filter(function (s) { return !state.county || (s.county || 'Thurston') === state.county; }).forEach(function (s) {
-      var li = el('li');
-      var a = el('a', null, s.name);
-      if (safeUrl(s.homepage)) { a.href = s.homepage; a.rel = 'noopener'; }
-      li.appendChild(a);
-      li.appendChild(el('span', 'state-' + s.state, words[s.state] || s.state));
-      ul.appendChild(li);
-    });
     var when = new Date(status.generated);
     if (!isNaN(when)) $('updated').textContent = 'Last refreshed ' + when.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/Los_Angeles' }) + '.';
   }
@@ -285,6 +279,5 @@
   }).catch(function () {
     $('list').textContent = '';
     $('list').appendChild(el('p', 'empty', 'The calendar could not be loaded. Please try again later.'));
-    $('sources').textContent = '';
   });
 })();

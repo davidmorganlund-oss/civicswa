@@ -144,3 +144,5 @@ footer p { margin: 0; flex: 1 1 320px; }
 .guide ol.steps { counter-reset: step; list-style: none; padding-left: 0; }
 .guide ol.steps li { counter-increment: step; position: relative; padding: 10px 0 10px 48px; border-left: 2px solid var(--line); margin-left: 15px; }
 .guide ol.steps li::before { content: counter(step); position: absolute; left: -16px; top: 8px; width: 30px; height: 30px; border-radius: 50%; background: var(--brand-blue, #0033A0); color: #fff; font-weight: 700; display: grid; place-items: center; font-size: 14px; }
+
+.eyebrow.light { color: #FBD3C2; margin: 0; }
