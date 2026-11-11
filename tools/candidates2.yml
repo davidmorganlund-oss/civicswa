@@ -1,0 +1,275 @@
+sources:
+- id: bingen
+  name: Town of Bingen
+  county: Klickitat
+  area: Bingen
+  type: civicplus
+  site: https://www.bingenwashington.org
+  categories:
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.bingenwashington.org/Calendar.aspx
+- id: black-diamond
+  name: City of Black Diamond
+  county: King
+  area: Black Diamond
+  type: civicplus
+  site: https://www.blackdiamondwa.gov
+  categories:
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.blackdiamondwa.gov/Calendar.aspx
+- id: buckley
+  name: City of Buckley
+  county: Pierce
+  area: Buckley
+  type: civicplus
+  site: https://www.cityofbuckley.com
+  categories:
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.cityofbuckley.com/Calendar.aspx
+- id: chewelah
+  name: City of Chewelah
+  county: Stevens
+  area: Chewelah
+  type: civicplus
+  site: https://www.cityofchewelah.org
+  categories:
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.cityofchewelah.org/Calendar.aspx
+- id: dayton
+  name: City of Dayton
+  county: Columbia
+  area: Dayton
+  type: civicplus
+  site: https://www.daytonwa.com
+  categories:
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.daytonwa.com/Calendar.aspx
+- id: mukilteo
+  name: City of Mukilteo
+  county: Snohomish
+  area: Mukilteo
+  type: civicplus
+  site: https://mukilteowa.gov
+  categories:
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://mukilteowa.gov/Calendar.aspx
+- id: oak-harbor
+  name: City of Oak Harbor
+  county: Island
+  area: Oak Harbor
+  type: civicplus
+  site: https://oakharbor.gov
+  categories:
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://oakharbor.gov/Calendar.aspx
+- id: omak
+  name: City of Omak
+  county: Okanogan
+  area: Omak
+  type: civicplus
+  site: https://www.omakcity.com
+  categories:
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.omakcity.com/Calendar.aspx
+- id: wilbur
+  name: City of Wilbur
+  county: Lincoln
+  area: Wilbur
+  type: civicplus
+  site: https://www.wilburwa.gov
+  categories:
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.wilburwa.gov/Calendar.aspx
+- id: university-place
+  name: City of University Place
+  county: Pierce
+  area: University Place
+  type: civicplus
+  site: https://www.cityofup.com
+  categories:
+  - 23
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.cityofup.com/Calendar.aspx
+- id: steilacoom
+  name: Town of Steilacoom
+  county: Pierce
+  area: Steilacoom
+  type: civicplus
+  site: https://townofsteilacoom.org
+  categories:
+  - 23
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://townofsteilacoom.org/Calendar.aspx
+- id: bonney-lake
+  name: City of Bonney Lake
+  county: Pierce
+  area: Bonney Lake
+  type: civicplus
+  site: https://www.bonneylake.gov
+  categories:
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.bonneylake.gov/Calendar.aspx
+- id: clarkston
+  name: City of Clarkston
+  county: Asotin
+  area: Clarkston
+  type: ics
+  url: https://clarkston-wa.com/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://clarkston-wa.com/events/
+- id: darrington
+  name: Town of Darrington
+  county: Snohomish
+  area: Darrington
+  type: ics
+  url: https://townofdarrington.com/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://townofdarrington.com/events/
+- id: fircrest
+  name: City of Fircrest
+  county: Pierce
+  area: Fircrest
+  type: ics
+  url: https://www.cityoffircrest.net/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.cityoffircrest.net/events/
+- id: forks
+  name: City of Forks
+  county: Clallam
+  area: Forks
+  type: ics
+  url: https://forkswashington.org/meetings/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://forkswashington.org/meetings/
+- id: gold-bar
+  name: City of Gold Bar
+  county: Snohomish
+  area: Gold Bar
+  type: ics
+  url: https://cityofgoldbar.us/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://cityofgoldbar.us/events/
+- id: medical-lake
+  name: City of Medical Lake
+  county: Spokane
+  area: Medical Lake
+  type: ics
+  url: https://medical-lake.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://medical-lake.org/events/
+- id: naches
+  name: Town of Naches
+  county: Yakima
+  area: Naches
+  type: ics
+  url: https://townofnaches.com/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://townofnaches.com/events/
+- id: newcastle
+  name: City of Newcastle
+  county: King
+  area: Newcastle
+  type: ics
+  url: https://newcastlewa.gov/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://newcastlewa.gov/events/
+- id: newport
+  name: City of Newport
+  county: Pend Oreille
+  area: Newport
+  type: ics
+  url: https://newport-wa.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://newport-wa.org/events/
+- id: normandy-park
+  name: City of Normandy Park
+  county: King
+  area: Normandy Park
+  type: ics
+  url: https://normandyparkwa.gov/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://normandyparkwa.gov/events/
+- id: sumas
+  name: City of Sumas
+  county: Whatcom
+  area: Sumas
+  type: ics
+  url: https://www.cityofsumas.com/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.cityofsumas.com/events/
+- id: tukwila
+  name: City of Tukwila
+  county: King
+  area: Tukwila
+  type: ics
+  url: https://www.tukwilawa.gov/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.tukwilawa.gov/events/
+- id: union-gap
+  name: City of Union Gap
+  county: Yakima
+  area: Union Gap
+  type: ics
+  url: https://uniongapwa.gov/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://uniongapwa.gov/events/
+- id: uniontown
+  name: Town of Uniontown
+  county: Whitman
+  area: Uniontown
+  type: ics
+  url: https://uniontownwa.org/event-calendar/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://uniontownwa.org/event-calendar/
+- id: yakima
+  name: City of Yakima
+  county: Yakima
+  area: Yakima
+  type: ics
+  url: https://www.yakimawa.gov/media/calendar/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.yakimawa.gov/media/calendar/
+- id: cosmopolis
+  name: City of Cosmopolis
+  county: Grays Harbor
+  area: Cosmopolis
+  type: municode
+  homepage: https://cosmopolis-wa.municodemeetings.com/
+  url: https://cosmopolis-wa.municodemeetings.com/
+- id: longview
+  name: City of Longview
+  county: Cowlitz
+  area: Longview
+  type: civicplus
+  site: https://www.longviewlibrary.org
+  categories:
+  - 26
+  drop_uncategorized: true
+  homepage: https://www.mylongview.com/
+- id: othello-d
+  name: City of Othello
+  county: Adams
+  area: Othello
+  type: civicweb
+  base: https://othellowa.community.diligentoneplatform.com
+  homepage: https://othellowa.community.diligentoneplatform.com/Portal/
+- id: pend-oreille-county
+  name: Pend Oreille County
+  county: Pend Oreille
+  area: countywide
+  type: ics
+  url: https://www.pendoreille.gov/calendar/ical/calendar.ics
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.pendoreille.gov/

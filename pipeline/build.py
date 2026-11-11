@@ -48,6 +48,14 @@ def is_cancelled(*texts: str) -> bool:
     return any(re.search(r"cancel", t or "", re.I) for t in texts)
 
 
+_MON = r"(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)[a-z]*\.?"
+DATE_IN_TITLE = re.compile(
+    r"^\d{4}[./-]\d{1,2}[./-]\d{1,2}\s+"                                   # leading 2026.11.10
+    r"|\s*(?:[-–@]|\bof|\bon|\bfor)?\s*(?:\d{1,2}\s+" + _MON + r"\s+\d{4}|" + _MON + r"\s+\d{1,2},?\s+\d{4})"
+    r"(?:\s*@\s*(?:\d{1,2}(?::\d{2})?\s*[ap]\.?m\.?)?)?\s*$"                   # trailing dates, optional time
+    r"|\s+\d{1,2}/\d{1,2}/\d{2,4}\s*$", re.I)                              # trailing 11/12/26
+
+
 def make_event(src, *, title, start, end=None, all_day=False, location="", url="",
                agenda_url="", note="", uid="", category="", area="", cancelled=False):
     key = f"{src['id']}|{uid or title}|{start.isoformat()}"
@@ -56,6 +64,10 @@ def make_event(src, *, title, start, end=None, all_day=False, location="", url="
     # shows its own Cancelled tag, so drop the prefix.
     title = re.sub(r"^[\s*]*cancel+ed[\s*]*(?:[:\-–]\s*|\s+(?=\S))", "", title or "", flags=re.I)
     title = re.sub(r"\s*[-–:(]\s*cancel+ed\s*\)?\s*$", "", title, flags=re.I)
+    # The date and time are shown separately, so drop them from the title:
+    # "Council Meeting - 08 Dec 2026 @ 6:00PM", "Workshop of November 16, 2026",
+    # "2026.11.10 City Council Meeting", "Civil Service Commission 11/12/26".
+    title = DATE_IN_TITLE.sub("", title).strip(" -–,") or title
     # Some calendars put HTML or stray separators in the location field.
     location = re.sub(r"<[^>]+>", " ", location or "")
     location = re.sub(r"^[\s\-–,]+|[\s\-–,]+$", "", " ".join(location.split()))
