@@ -185,3 +185,25 @@ def test_source_rules():
     filed = build.apply_source_rules({"default_category": "council"}, [ev("other"), ev("hearing")])
     assert [e["category"] for e in filed] == ["council", "hearing"]
     assert len(build.apply_source_rules({}, [ev("other")])) == 1
+
+
+def test_govaccess_long_dates():
+    src = {"id": "shoreline", "name": "City of Shoreline", "area": "Shoreline", "county": "King"}
+    xml = """<rss><channel><title>Calendar RSS Feed</title>
+    <item><title>November 16, 2026 City Council Regular Meeting (November 16, 2026 7:00 pm - 10:00 pm)</title><link>https://example.org/1</link></item>
+    <item><title>Greenhouse Winter Market (November 14, 2026 - November 15, 2026)</title><link>https://example.org/2</link></item>
+    </channel></rss>"""
+    council, market = build.normalize_govaccess_rss(src, xml, TZ)
+    assert council["start"] == "2026-11-16T19:00:00-08:00" and council["county"] == "King"
+    assert market["all_day"] and market["start"].startswith("2026-11-14")
+
+
+def test_civicplus_closures_and_primegov():
+    assert build.CLOSURE_TITLE.search("Thanksgiving Day") and build.CLOSURE_TITLE.search("City Hall closed")
+    assert not build.CLOSURE_TITLE.search("Board of County Commissioners Meeting")
+    src = {"id": "renton", "name": "City of Renton", "area": "Renton", "county": "King", "tenant": "renton"}
+    rows = [{"id": 483, "dateTime": "2026-11-17T16:00:00", "title": "Special Civil Service Commission Meeting ",
+             "location": "", "documentList": [{"templateId": 2234, "templateName": "HTML Agenda"}]}]
+    (e,) = build.normalize_primegov(src, rows, TZ)
+    assert e["start"] == "2026-11-17T16:00:00-08:00" and e["title"].endswith("Meeting")
+    assert e["agenda_url"].endswith("meetingTemplateId=2234") and e["category"] == "council"

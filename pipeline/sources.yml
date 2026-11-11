@@ -233,6 +233,185 @@ sources:
     area: countywide
     homepage: https://spokanecowa.portal.civicclerk.com/
 
+  # Granicus govAccess city calendars (same feed type as Tumwater)
+  - id: kent
+    name: City of Kent
+    type: govaccess_rss
+    url: https://www.kentwa.gov/Home/Components/RssFeeds/RssFeed/View?ctID=6
+    county: King
+    area: Kent
+    default_category: council
+    homepage: https://www.kentwa.gov/
+
+  - id: shoreline
+    name: City of Shoreline
+    type: govaccess_rss
+    url: https://www.shorelinewa.gov/Home/Components/RssFeeds/RssFeed/View?ctID=6
+    county: King
+    area: Shoreline
+    drop_uncategorized: true   # the city calendar also lists walks, markets and closures
+    homepage: https://www.shorelinewa.gov/
+
+  - id: renton
+    name: City of Renton
+    type: primegov
+    tenant: renton
+    county: King
+    area: Renton
+    homepage: https://renton.primegov.com/public/portal
+
+  # CivicPlus sites: each category below was checked and holds public meetings.
+
+  - id: pierce-county
+    name: Pierce County
+    type: civicplus
+    site: https://www.piercecountywa.gov
+    categories: [78, 79, 77, 137, 81, 85, 86, 87, 89, 97, 103, 108, 143, 114, 115, 116, 126, 38, 37, 36, 145]
+    county: Pierce
+    area: countywide
+    drop_uncategorized: true
+    homepage: https://www.piercecountywa.gov/Calendar.aspx
+
+  - id: spokane-valley
+    name: City of Spokane Valley
+    type: civicplus
+    site: https://www.spokanevalleywa.gov
+    categories: [25]
+    county: Spokane
+    area: Spokane Valley
+    drop_uncategorized: true
+    homepage: https://www.spokanevalleywa.gov/Calendar.aspx
+
+  - id: pasco
+    name: City of Pasco
+    type: civicplus
+    site: https://www.pasco-wa.gov
+    categories: [23]
+    county: Franklin
+    area: Pasco
+    drop_uncategorized: true
+    homepage: https://www.pasco-wa.gov/Calendar.aspx
+
+  - id: everett
+    name: City of Everett
+    type: civicplus
+    site: https://www.everettwa.gov
+    categories: [29]
+    county: Snohomish
+    area: Everett
+    drop_uncategorized: true
+    homepage: https://www.everettwa.gov/Calendar.aspx
+
+  - id: asotin-county
+    name: Asotin County
+    type: civicplus
+    site: https://www.asotincountywa.gov
+    categories: [14]
+    county: Asotin
+    area: countywide
+    drop_uncategorized: true
+    homepage: https://www.asotincountywa.gov/Calendar.aspx
+
+  - id: cowlitz-county
+    name: Cowlitz County
+    type: civicplus
+    site: https://www.co.cowlitz.wa.us
+    categories: [49, 23, 31, 33]
+    county: Cowlitz
+    area: countywide
+    drop_uncategorized: true
+    homepage: https://www.co.cowlitz.wa.us/Calendar.aspx
+
+  - id: douglas-county
+    name: Douglas County
+    type: civicplus
+    site: https://www.douglascountywa.gov
+    categories: [14, 25]
+    county: Douglas
+    area: countywide
+    drop_uncategorized: true
+    homepage: https://www.douglascountywa.gov/Calendar.aspx
+
+  - id: franklin-county
+    name: Franklin County
+    type: civicplus
+    site: https://www.franklincountywa.gov
+    categories: [23]
+    county: Franklin
+    area: countywide
+    drop_uncategorized: true
+    homepage: https://www.franklincountywa.gov/Calendar.aspx
+
+  - id: grant-county
+    name: Grant County
+    type: civicplus
+    site: https://www.grantcountywa.gov
+    categories: [31, 51, 38, 14]
+    county: Grant
+    area: countywide
+    drop_uncategorized: true
+    homepage: https://www.grantcountywa.gov/Calendar.aspx
+
+  - id: island-county
+    name: Island County
+    type: civicplus
+    site: https://www.islandcountywa.gov
+    categories: [24, 34, 42, 33, 41, 46, 14]
+    county: Island
+    area: countywide
+    drop_uncategorized: true
+    homepage: https://www.islandcountywa.gov/Calendar.aspx
+
+  - id: jefferson-county
+    name: Jefferson County
+    type: civicplus
+    site: https://www.co.jefferson.wa.us
+    categories: [33, 39, 24, 51, 27, 14]
+    county: Jefferson
+    area: countywide
+    drop_uncategorized: true
+    homepage: https://www.co.jefferson.wa.us/Calendar.aspx
+
+  - id: lincoln-county
+    name: Lincoln County
+    type: civicplus
+    site: https://www.lincolncountywa.com
+    categories: [46, 41]
+    county: Lincoln
+    area: countywide
+    drop_uncategorized: true
+    homepage: https://www.lincolncountywa.com/Calendar.aspx
+
+  - id: okanogan-county
+    name: Okanogan County
+    type: civicplus
+    site: https://www.okanogancounty.gov
+    categories: [24]
+    county: Okanogan
+    area: countywide
+    drop_uncategorized: true
+    homepage: https://www.okanogancounty.gov/Calendar.aspx
+
+  - id: whitman-county
+    name: Whitman County
+    type: civicplus
+    site: https://www.whitmancounty.gov
+    categories: [24]
+    county: Whitman
+    area: countywide
+    drop_uncategorized: true
+    homepage: https://www.whitmancounty.gov/Calendar.aspx
+
+  - id: yakima-county
+    name: Yakima County
+    type: civicplus
+    site: https://www.yakimacounty.us
+    categories: [54]
+    county: Yakima
+    area: countywide
+    drop_uncategorized: true
+    homepage: https://www.yakimacounty.us/Calendar.aspx
+
 # Not connected yet:
 #   Tumwater's separate meetings portal (tumwater-wa.municodemeetings.com) has
 #   agendas, but its server refuses automated readers, so it is not used.

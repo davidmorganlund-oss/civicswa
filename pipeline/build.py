@@ -368,8 +368,18 @@ def fetch_mec_rss(src, start_day, end_day, tz):
 # e.g. "City Council (11/17/2026 7:00 p.m. - 10:00 p.m.)"
 
 GOVACCESS_TITLE = re.compile(
-    r"^(?P<name>.*?)\s*\((?P<day>\d{1,2}/\d{1,2}/\d{4})"
-    r"(?:\s+(?P<start>\d{1,2}:\d{2}\s*[ap]\.?m\.?)(?:\s*-\s*(?P<end>\d{1,2}:\d{2}\s*[ap]\.?m\.?))?)?\)\s*$", re.I)
+    r"^(?P<name>.*?)\s*\((?P<day>\d{1,2}/\d{1,2}/\d{4}|[A-Z][a-z]+ \d{1,2}, \d{4})"
+    r"(?:\s+(?P<start>\d{1,2}:\d{2}\s*[ap]\.?m\.?)(?:\s*-\s*(?P<end>\d{1,2}:\d{2}\s*[ap]\.?m\.?))?)?"
+    r"(?:\s*-\s*[A-Z][a-z]+ \d{1,2}, \d{4})?\)\s*$", re.I)
+
+
+def govaccess_day(text: str) -> date:
+    for fmt in ("%m/%d/%Y", "%B %d, %Y"):
+        try:
+            return datetime.strptime(text, fmt).date()
+        except ValueError:
+            pass
+    raise ValueError(text)
 
 
 def normalize_govaccess_rss(src, xml_text, tz):
@@ -380,7 +390,7 @@ def normalize_govaccess_rss(src, xml_text, tz):
         m = GOVACCESS_TITLE.match(htmllib.unescape(f.get("title", "")))
         if not m:
             continue
-        day = datetime.strptime(m.group("day"), "%m/%d/%Y").date()
+        day = govaccess_day(m.group("day"))
         start_clock = parse_clock(m.group("start")) if m.group("start") else None
         end_clock = parse_clock(m.group("end")) if m.group("end") else None
         name = m.group("name")
@@ -401,9 +411,61 @@ def fetch_govaccess_rss(src, start_day, end_day, tz):
     return normalize_govaccess_rss(src, get(src["url"]).text, tz)
 
 
+# --- CivicPlus (CivicEngage) county and city sites: one iCal feed per calendar category ---
+# Categories are picked by hand in sources.yml; holidays and office closures
+# that the sites copy into every category are dropped.
+
+CLOSURE_TITLE = re.compile(r"holiday|clos(ed|ure)|thanksgiving|christmas|new year|day observed|\bday$", re.I)
+
+
+def fetch_civicplus(src, start_day, end_day, tz):
+    site = src["site"].rstrip("/")
+    seen, events = set(), []
+    for cat in src["categories"]:
+        ics = get(f"{site}/common/modules/iCalendar/iCalendar.aspx", {"catID": cat, "feed": "calendar"}).content
+        for e in normalize_ics(src, ics, start_day, end_day, tz):
+            if e["id"] in seen or CLOSURE_TITLE.search(e["title"]):
+                continue
+            seen.add(e["id"])
+            if not e["url"] or e["url"] == src.get("homepage", ""):
+                e["url"] = src.get("homepage", "") or f"{site}/Calendar.aspx"
+            events.append(e)
+    return events
+
+
+# --- PrimeGov public portals (upcoming meetings list) ---
+
+def normalize_primegov(src, rows, tz):
+    tenant = src["tenant"]
+    events = []
+    for r in rows:
+        raw = (r.get("dateTime") or "")[:19]
+        if not raw:
+            continue
+        start = datetime.fromisoformat(raw).replace(tzinfo=tz)  # local wall-clock time
+        agenda = ""
+        for d in r.get("documentList") or []:
+            if d.get("templateName", "").lower().endswith("agenda") and d.get("templateId"):
+                agenda = f"https://{tenant}.primegov.com/Portal/Meeting?meetingTemplateId={d['templateId']}"
+                break
+        events.append(make_event(
+            src, title=(r.get("title") or "Public meeting").strip(), start=start,
+            location=r.get("location") or "",
+            url=f"https://{tenant}.primegov.com/public/portal",
+            agenda_url=agenda, uid=str(r.get("id", "")),
+        ))
+    return events
+
+
+def fetch_primegov(src, start_day, end_day, tz):
+    rows = get(f"https://{src['tenant']}.primegov.com/api/v2/PublicPortal/ListUpcomingMeetings").json()
+    return normalize_primegov(src, rows, tz)
+
+
 CONNECTORS = {"legistar": fetch_legistar, "civicclerk": fetch_civicclerk, "ics": fetch_ics,
               "bibliocommons": fetch_bibliocommons, "municode": fetch_municode, "mec_rss": fetch_mec_rss,
-              "govaccess_rss": fetch_govaccess_rss}
+              "govaccess_rss": fetch_govaccess_rss, "civicplus": fetch_civicplus,
+              "primegov": fetch_primegov}
 
 
 # ---------- outputs ----------
