@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Clallam County
 BEGIN:VEVENT
 UID:27c333eda4e9@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261111T211500Z
 DTEND:20261111T221500Z
 SUMMARY:CANCELLED: Conservation Futures Program Advisory Board Meeting (Clallam County)
@@ -13,7 +13,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/366/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:3b5563513fa1@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261111T220000Z
 DTEND:20261111T230000Z
 SUMMARY:CANCELLED: Dungeness River Management Team Meeting (Clallam County)
@@ -22,7 +22,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/3688/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:db412bbdaf68@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261112T180000Z
 DTEND:20261112T200000Z
 SUMMARY:Lodging Tax Advisory Committee Special Meeting (City of Port Angeles)
@@ -31,7 +31,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
 END:VEVENT
 BEGIN:VEVENT
 UID:2b76762a64c0@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261112T180000Z
 DTEND:20261112T200000Z
 SUMMARY:Lodging Tax Advisory Committee Special Meeting (City of Port Angeles)
@@ -40,7 +40,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
 END:VEVENT
 BEGIN:VEVENT
 UID:14627e768c44@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261112T220000Z
 DTEND:20261112T230000Z
 SUMMARY:CANCELLED: Lodging Tax Advisory Committee Meeting (Clallam County)
@@ -49,7 +49,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4973/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:bc13c9e46966@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261113T013000Z
 DTEND:20261113T023000Z
 SUMMARY:Clallam Bay / Sekiu Community Advisory Committee Meeting (Clallam County)
@@ -58,7 +58,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/3650/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:3c215c351bb4@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261113T170000Z
 DTEND:20261113T180000Z
 SUMMARY:Clallam County Finance Committee Meeting (Clallam County)
@@ -67,7 +67,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/3747/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:cef01e529b97@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261116T170000Z
 DTEND:20261116T180000Z
 SUMMARY:Commissioner's Work Session and Action Item Section (Clallam County)
@@ -76,7 +76,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4818/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e17b74458283@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261117T000000Z
 DTEND:20261117T010000Z
 SUMMARY:Parks\, Arbor & Recreation Board (City of Sequim)
@@ -85,7 +85,7 @@ URL:https://sequimwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=435
 END:VEVENT
 BEGIN:VEVENT
 UID:a0bbb1c2bbb0@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261117T013000Z
 DTEND:20261117T023000Z
 SUMMARY:Marine Resources Committee Meeting (Clallam County)
@@ -94,7 +94,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4929/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:c04a52d9aff0@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261117T180000Z
 DTEND:20261117T190000Z
 SUMMARY:CANCELLED: Commissioner's Board Meeting (Clallam County)
@@ -103,7 +103,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4872/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:86c8e04eb458@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261117T213000Z
 DTEND:20261117T223000Z
 SUMMARY:CANCELLED: Board of Health Meeting (Clallam County)
@@ -112,7 +112,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/298/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:255058dd2b60@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261118T013000Z
 DTEND:20261118T023000Z
 SUMMARY:Planning Commission (City of Sequim)
@@ -121,7 +121,7 @@ URL:https://sequimwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=305
 END:VEVENT
 BEGIN:VEVENT
 UID:03fe8a515b4c@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261118T020000Z
 DTEND:20261118T060000Z
 SUMMARY:City Council Meeting (City of Port Angeles)
@@ -130,7 +130,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
 END:VEVENT
 BEGIN:VEVENT
 UID:4f5a6bc2d4c9@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261119T020000Z
 DTEND:20261119T050000Z
 SUMMARY:School Board Meeting (Cape Flattery School District)
@@ -139,7 +139,7 @@ URL:https://www.cfsd401.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:e32c6db3d105@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261119T020000Z
 DTEND:20261119T030000Z
 SUMMARY:Planning Commission Meeting (Clallam County)
@@ -148,7 +148,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/728/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:d554940c4f37@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261119T210000Z
 DTEND:20261119T220000Z
 SUMMARY:CANCELLED: Hearing Examiner (Clallam County)
@@ -157,7 +157,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4915/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:07a5fe3ff7aa@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261120T020000Z
 DTEND:20261120T030000Z
 SUMMARY:Fair Advisory Board Meeting (Clallam County)
@@ -166,7 +166,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/5305/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:bd3963fb8ea1@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261123T170000Z
 DTEND:20261123T180000Z
 SUMMARY:Commissioner's Work Session (Clallam County)
@@ -175,7 +175,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4819/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2bd4969d8a31@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261124T020000Z
 DTEND:20261124T030000Z
 SUMMARY:City Council (City of Sequim)
@@ -184,7 +184,7 @@ URL:https://sequimwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=344
 END:VEVENT
 BEGIN:VEVENT
 UID:e397894d19a3@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261124T180000Z
 DTEND:20261124T190000Z
 SUMMARY:Commissioner's Board Meeting (Clallam County)
@@ -193,7 +193,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4873/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:5839d7811aff@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261125T230000Z
 DTEND:20261126T000000Z
 SUMMARY:Solid Waste Advisory Committee Meeting (Clallam County)
@@ -202,7 +202,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4946/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:73d51bd0adc7@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261126T020000Z
 DTEND:20261126T030000Z
 SUMMARY:CANCELLED: Fair Advisory Board Meeting (Clallam County)
@@ -211,7 +211,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/3666/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e311ecb18663@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261130T170000Z
 DTEND:20261130T180000Z
 SUMMARY:Commissioner's Work Session (Clallam County)
@@ -220,7 +220,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4820/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:aaddc0aca073@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261130T220000Z
 DTEND:20261130T230000Z
 SUMMARY:BOCC Executive Session (Clallam County)
@@ -229,7 +229,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/5306/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:3554b76e1056@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261201T163000Z
 DTEND:20261201T173000Z
 SUMMARY:Civil Service Commission (City of Sequim)
@@ -238,7 +238,7 @@ URL:https://sequimwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=443
 END:VEVENT
 BEGIN:VEVENT
 UID:bf7cd72eb0ad@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261201T180000Z
 DTEND:20261201T190000Z
 SUMMARY:Commissioner's Board Meeting (Clallam County)
@@ -247,7 +247,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4874/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:9ea431594db7@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261201T220000Z
 DTEND:20261201T230000Z
 SUMMARY:Animal Solutions Advisory Committee Meeting (Clallam County)
@@ -256,7 +256,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/3639/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7b2b6f7dae77@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261201T223000Z
 DTEND:20261201T233000Z
 SUMMARY:Homelessness Task Force Meeting (Clallam County)
@@ -265,7 +265,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/255/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8852e2eef978@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261202T013000Z
 DTEND:20261202T023000Z
 SUMMARY:Planning Commission (City of Sequim)
@@ -274,7 +274,7 @@ URL:https://sequimwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=306
 END:VEVENT
 BEGIN:VEVENT
 UID:5fe7df64fe8a@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261202T213000Z
 DTEND:20261202T223000Z
 SUMMARY:Trails Advisory Committee Meeting (Clallam County)
@@ -283,7 +283,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/5246/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:0d04b851e32f@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261203T020000Z
 DTEND:20261203T030000Z
 SUMMARY:Planning Commission Meeting (Clallam County)
@@ -292,7 +292,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/677/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:475045f8b5ab@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261204T013000Z
 DTEND:20261204T023000Z
 SUMMARY:Parks and Recreation Advisory Board Meeting (Clallam County)
@@ -301,7 +301,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/5217/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:d274c7ba633f@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261204T170000Z
 DTEND:20261204T180000Z
 SUMMARY:Housing Solutions Committee Meeting (Clallam County)
@@ -310,7 +310,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/484/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:42554ae21243@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261207T170000Z
 DTEND:20261207T180000Z
 SUMMARY:Lodging Tax Advisory Committee (LTAC) (City of Sequim)
@@ -319,7 +319,7 @@ URL:https://sequimwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=355
 END:VEVENT
 BEGIN:VEVENT
 UID:044f3024ffaf@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261207T170000Z
 DTEND:20261207T180000Z
 SUMMARY:Commissioner's Work Session (Clallam County)
@@ -328,7 +328,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4821/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:a1a327e9b2be@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261208T003000Z
 DTEND:20261208T013000Z
 SUMMARY:Heritage Advisory Board Meeting (Clallam County)
@@ -337,7 +337,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/5045/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:428dd88c7843@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261208T180000Z
 DTEND:20261208T190000Z
 SUMMARY:Commissioner's Board Meeting (Clallam County)
@@ -346,7 +346,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4875/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:cbd18caa5e81@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261208T230000Z
 DTEND:20261209T010000Z
 SUMMARY:Utility Advisory Committee (City of Port Angeles)
@@ -355,7 +355,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
 END:VEVENT
 BEGIN:VEVENT
 UID:c762e904d10d@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261208T230000Z
 DTEND:20261209T000000Z
 SUMMARY:Developmental Disabilities Advisory Board Meeting (Clallam County)
@@ -364,7 +364,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/3659/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:de45fb108acf@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261209T211500Z
 DTEND:20261209T221500Z
 SUMMARY:CANCELLED: Conservation Futures Program Advisory Board Meeting (Clallam County)
@@ -373,7 +373,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/368/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:dc308d46833f@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261209T220000Z
 DTEND:20261209T230000Z
 SUMMARY:Dungeness River Management Team Meeting (Clallam County)
@@ -382,7 +382,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/3689/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:291f4d849196@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261210T220000Z
 DTEND:20261210T230000Z
 SUMMARY:Lodging Tax Advisory Committee Meeting (Clallam County)
@@ -391,7 +391,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4974/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e36c7c4ded91@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261211T013000Z
 DTEND:20261211T023000Z
 SUMMARY:Clallam Bay / Sekiu Community Advisory Committee Meeting (Clallam County)
@@ -400,7 +400,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/3651/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2ddfab313c83@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261214T170000Z
 DTEND:20261214T180000Z
 SUMMARY:Commissioner's Work Session (Clallam County)
@@ -409,7 +409,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4822/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:76b51f2273dc@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261214T223000Z
 DTEND:20261214T233000Z
 SUMMARY:Revenue Advisory Committee Meeting (Clallam County)
@@ -418,7 +418,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/5002/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:826d09c6b6af@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261215T020000Z
 DTEND:20261215T030000Z
 SUMMARY:City Council (City of Sequim)
@@ -427,7 +427,7 @@ URL:https://sequimwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=345
 END:VEVENT
 BEGIN:VEVENT
 UID:468a39c09b45@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261215T180000Z
 DTEND:20261215T190000Z
 SUMMARY:Commissioner's Board Meeting (Clallam County)
@@ -436,7 +436,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4876/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f942b77a6e09@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261215T213000Z
 DTEND:20261215T223000Z
 SUMMARY:Board of Health Meeting (Clallam County)
@@ -445,7 +445,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/299/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:3880038ecf67@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261216T013000Z
 DTEND:20261216T023000Z
 SUMMARY:Planning Commission (City of Sequim)
@@ -454,7 +454,7 @@ URL:https://sequimwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=307
 END:VEVENT
 BEGIN:VEVENT
 UID:d3a8403b770f@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261217T010000Z
 DTEND:20261217T020000Z
 SUMMARY:Crescent Community Advisory Council Meeting (Clallam County)
@@ -463,7 +463,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/5290/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:128651e979b4@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261217T020000Z
 DTEND:20261217T030000Z
 SUMMARY:Planning Commission Meeting (Clallam County)
@@ -472,7 +472,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/729/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:3530559363a2@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261221T170000Z
 DTEND:20261221T180000Z
 SUMMARY:CANCELLED: Commissioner's Work Session (Clallam County)
@@ -481,7 +481,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4823/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f23de1ea0901@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261222T013000Z
 DTEND:20261222T023000Z
 SUMMARY:Marine Resources Committee Meeting (Clallam County)
@@ -490,7 +490,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4930/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:84f32f271fb2@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261222T180000Z
 DTEND:20261222T190000Z
 SUMMARY:CANCELLED: Commissioner's Board Meeting (Clallam County)
@@ -499,7 +499,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4877/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:fbb36bd06fc5@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261224T020000Z
 DTEND:20261224T030000Z
 SUMMARY:Fair Advisory Board Meeting (Clallam County)
@@ -508,7 +508,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/3667/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e66fddb64244@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261228T170000Z
 DTEND:20261228T180000Z
 SUMMARY:Commissioner's Work Session (Clallam County)
@@ -517,7 +517,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4824/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:bfed4dd93e2e@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20261229T180000Z
 DTEND:20261229T190000Z
 SUMMARY:Commissioner's Board Meeting (Clallam County)
@@ -526,7 +526,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4878/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:5d3b4152a805@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20270101T170000Z
 DTEND:20270101T180000Z
 SUMMARY:Housing Solutions Committee Meeting (Clallam County)
@@ -535,7 +535,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4967/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:5d04edd3b5af@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20270104T170000Z
 DTEND:20270104T180000Z
 SUMMARY:Commissioner's Work Session (Clallam County)
@@ -544,7 +544,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4825/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:45fe1f2bc704@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20270105T003000Z
 DTEND:20270105T013000Z
 SUMMARY:Heritage Advisory Board Meeting (Clallam County)
@@ -553,7 +553,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/5046/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e2d31f32e7c4@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20270105T163000Z
 DTEND:20270105T173000Z
 SUMMARY:Civil Service Commission (City of Sequim)
@@ -562,7 +562,7 @@ URL:https://sequimwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=444
 END:VEVENT
 BEGIN:VEVENT
 UID:2d0afb24967e@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20270105T180000Z
 DTEND:20270105T190000Z
 SUMMARY:Commissioner's Board Meeting (Clallam County)
@@ -571,7 +571,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/4879/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f4f9ec9091a3@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20270105T220000Z
 DTEND:20270105T230000Z
 SUMMARY:Animal Solutions Advisory Committee Meeting (Clallam County)
@@ -580,7 +580,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/3640/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:12604822e443@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20270106T013000Z
 DTEND:20270106T023000Z
 SUMMARY:Parks and Recreation Advisory Board Meeting (Clallam County)
@@ -589,7 +589,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/5218/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:0d8f44dc8c65@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20270106T213000Z
 DTEND:20270106T223000Z
 SUMMARY:Trails Advisory Committee Meeting (Clallam County)
@@ -598,7 +598,7 @@ URL:https://clallamcowa.portal.civicclerk.com/event/5247/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:177e3f61f5c5@civicswa
-DTSTAMP:20261111T225703Z
+DTSTAMP:20261111T230143Z
 DTSTART:20270107T020000Z
 DTEND:20270107T030000Z
 SUMMARY:Planning Commission Meeting (Clallam County)
