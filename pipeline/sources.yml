@@ -28,13 +28,6 @@ sources:
     area: countywide
     homepage: https://www.thurstoncountywa.gov/meetings-and-agendas
 
-  - id: tumwater
-    name: City of Tumwater
-    type: municode
-    url: https://tumwater-wa.municodemeetings.com/
-    area: Tumwater
-    homepage: https://tumwater-wa.municodemeetings.com/
-
   - id: port-of-olympia
     name: Port of Olympia
     type: mec_rss
