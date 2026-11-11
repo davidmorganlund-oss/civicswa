@@ -249,3 +249,13 @@ def test_highlights_skip_procedure():
     e = {}
     build.add_highlights(e, ["One item here", "Two item here", "Three item here", "Four item here"])
     assert len(e["highlights"]) == 3 and e["highlights_more"] == 1
+
+
+def test_alerts_pick_long_failures():
+    sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "pipeline"))
+    import alerts
+    status = {"sources": [
+        {"name": "A", "state": "failing", "failing_since": "2026-11-08"},
+        {"name": "B", "state": "failing", "failing_since": "2026-11-10"},
+        {"name": "C", "state": "ok", "failing_since": ""}]}
+    assert [s["name"] for s in alerts.stuck_sources(status, date(2026, 11, 11))] == ["A"]

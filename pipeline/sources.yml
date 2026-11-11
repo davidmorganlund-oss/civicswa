@@ -401,6 +401,51 @@ sources:
         location: "Spokane International Airport (Felts Field in April and September)"
         url: https://my.spokanecity.org/bcc/boards/spokane-airport-board/
 
+  # County commissions with no feed, entered from the schedule each county
+  # publishes on its commissioners page (checked November 2026).
+  - id: kittitas-county
+    name: Kittitas County
+    type: schedule
+    county: Kittitas
+    area: countywide
+    default_category: council
+    homepage: https://www.co.kittitas.wa.us/boc/about.aspx
+    meetings:
+      - title: Board of County Commissioners Agenda Session
+        when: 1st, 3rd Tuesday
+        time: "10:00"
+        location: "Commissioners' Auditorium, Room 109, Kittitas County Courthouse, Ellensburg"
+        url: https://www.co.kittitas.wa.us/boc/about.aspx
+
+  - id: mason-county
+    name: Mason County
+    type: schedule
+    county: Mason
+    area: countywide
+    default_category: council
+    homepage: https://www.masoncountywa.gov/government/county_commissioners/index.php
+    meetings:
+      - title: Board of County Commissioners Briefing
+        when: 1st, 2nd, 3rd, 4th, 5th Monday
+        time: "09:00"
+        location: "See the county's commissioners page"
+        url: https://www.masoncountywa.gov/government/county_commissioners/index.php
+        note: "Regular commission meetings are every other Tuesday at 9 a.m.; see the county's page for dates."
+
+  - id: wahkiakum-county
+    name: Wahkiakum County
+    type: schedule
+    county: Wahkiakum
+    area: countywide
+    default_category: council
+    homepage: https://www.co.wahkiakum.wa.us/257/Board-of-County-Commissioners
+    meetings:
+      - title: Board of County Commissioners
+        when: 1st, 2nd, 3rd, 4th Tuesday
+        time: "09:30"
+        location: "Commissioners Meeting Room, 3rd floor, County Courthouse, 64 Main St., Cathlamet"
+        url: https://www.co.wahkiakum.wa.us/257/Board-of-County-Commissioners
+
   # CivicPlus sites: each category below was checked and holds public meetings.
 
   - id: pierce-county

@@ -1,73 +1,319 @@
 {
-  "_note": "Official websites and boards/commissions pages for Washington counties and the largest cities. Each link was opened and checked in November 2026. 'appoints' marks a county with no boards page, where we link the commissioners who make appointments instead.",
+  "_note": "Official websites and boards/commissions pages for Washington counties and the largest cities. Each link was opened and checked in November 2026. 'appoints' marks a county with no boards page, where we link the commissioners who make appointments instead. 'meetings' is the county's own meetings or commissioners page, for counties whose calendar CivicsWA can't read yet.",
   "counties": {
-    "Adams": {"site": "https://www.co.adams.wa.gov/", "boards": "https://www.co.adams.wa.gov/264/Board-of-Commissioners", "appoints": true},
-    "Asotin": {"site": "https://www.asotincountywa.gov/", "boards": "https://www.asotincountywa.gov/249/Boards-Commissions"},
-    "Benton": {"site": "https://www.bentoncountywa.gov/", "boards": "https://www.bentoncountywa.gov/government/boards_and_commissions/index.php"},
-    "Chelan": {"site": "https://co.chelan.wa.us/", "boards": "https://co.chelan.wa.us/board-of-commissioners", "appoints": true},
-    "Clallam": {"site": "https://clallamcountywa.gov/", "boards": "https://clallamcountywa.gov/DocumentCenter/View/8333/Boards-Committees-and-Commissions-Vacancy-List"},
-    "Clark": {"site": "https://clark.wa.gov/", "boards": "https://clark.wa.gov/councilors/advisory-boards-and-commissions"},
-    "Columbia": {"site": "https://www.columbiaco.com/", "boards": "https://www.columbiaco.com/19/Boards-Commissions"},
-    "Cowlitz": {"site": "https://www.co.cowlitz.wa.us/", "boards": "https://www.co.cowlitz.wa.us/553/Volunteer-Boards-Committees"},
-    "Douglas": {"site": "https://www.douglascountywa.gov/", "boards": "https://www.douglascountywa.gov/281/Boards-Commissions"},
-    "Ferry": {"site": "https://ferry-county.com/", "boards": "https://ferry-county.com/government/board_of_commissioners/index.php", "appoints": true},
-    "Franklin": {"site": "https://franklincountywa.gov/", "boards": "https://franklincountywa.gov/261/Boards-Commissions"},
-    "Garfield": {"site": "https://www.garfieldcountywa.gov/", "boards": "https://www.garfieldcountywa.gov/bc"},
-    "Grant": {"site": "https://www.grantcountywa.gov/", "boards": "https://www.grantcountywa.gov/27/Boards-Commissions-Districts"},
-    "Grays Harbor": {"site": "https://www.graysharbor.gov/", "boards": "https://www.graysharbor.gov/departments/boards-committees/"},
-    "Island": {"site": "https://www.islandcountywa.gov/", "boards": "https://www.islandcountywa.gov/567/Boards-and-Commissions"},
-    "Jefferson": {"site": "https://www.co.jefferson.wa.us/", "boards": "https://www.co.jefferson.wa.us/1908/Boards-and-Commissions"},
-    "King": {"site": "https://kingcounty.gov/", "boards": "https://kingcounty.gov/en/independents/governance-and-leadership/boards-commissions"},
-    "Kitsap": {"site": "https://www.kitsap.gov/", "boards": "https://www.kitsap.gov/BOC_p/Pages/Advisory-Boards-.aspx"},
-    "Kittitas": {"site": "https://www.co.kittitas.wa.us/", "boards": "https://www.co.kittitas.wa.us/boards/boards-committees.aspx"},
-    "Klickitat": {"site": "https://www.klickitatcounty.gov/", "boards": "https://www.klickitatcounty.gov/155/Boards-Commissions"},
-    "Lewis": {"site": "https://lewiscountywa.gov/", "boards": "https://lewiscountywa.gov/offices/commissioners/advisory-boards-and-commissions/list-of-boards-and-commissions/"},
-    "Lincoln": {"site": "https://www.lincolncountywa.com/", "boards": "https://www.lincolncountywa.com/435/Boards-Commissions"},
-    "Mason": {"site": "https://www.masoncountywa.gov/", "boards": "https://www.masoncountywa.gov/government/advisory_boards/index.php"},
-    "Okanogan": {"site": "https://www.okanogancounty.gov/", "boards": "https://www.okanogancounty.gov/165/Boards-Committees"},
-    "Pacific": {"site": "https://www.co.pacific.wa.us/", "boards": "https://www.co.pacific.wa.us/boards%20and%20commissions/index.htm"},
-    "Pend Oreille": {"site": "https://www.pendoreille.gov/", "boards": "https://www.pendoreille.gov/board-county-commissioners", "appoints": true},
-    "Pierce": {"site": "https://www.piercecountywa.gov/", "boards": "https://www.piercecountywa.gov/89/Boards-Commissions"},
-    "San Juan": {"site": "https://www.sanjuancountywa.gov/", "boards": "https://www.sanjuancountywa.gov/641/Board-Committee-Vacancies"},
-    "Skagit": {"site": "https://www.skagitcountywa.gov/", "boards": "https://www.skagitcountywa.gov/government/boards-and-committees/"},
-    "Skamania": {"site": "https://www.skamaniacounty.gov/", "boards": "https://www.skamaniacounty.gov/departments-offices/commissioners", "appoints": true},
-    "Snohomish": {"site": "https://snohomishcountywa.gov/", "boards": "https://snohomishcountywa.gov/128/Boards-Commissions"},
-    "Spokane": {"site": "https://www.spokanecounty.gov/", "boards": "https://www.spokanecounty.gov/921/Boards-Commissions"},
-    "Stevens": {"site": "https://www.stevenscountywa.gov/", "boards": "https://www.stevenscountywa.gov/21087/Board-of-Commissioners", "appoints": true},
-    "Thurston": {"site": "https://www.thurstoncountywa.gov/", "boards": "https://www.thurstoncountywa.gov/departments/board-county-commissioners/advisory-boards-commissions-and-committees"},
-    "Wahkiakum": {"site": "https://www.co.wahkiakum.wa.us/", "boards": "https://www.co.wahkiakum.wa.us/274/Boards-Committees"},
-    "Walla Walla": {"site": "https://www.wwcowa.gov/", "boards": "https://www.wwcowa.gov/boards_and_committees/index.php"},
-    "Whatcom": {"site": "https://www.whatcomcounty.us/", "boards": "https://www.whatcomcounty.us/210/Boards-Commissions"},
-    "Whitman": {"site": "https://www.whitmancounty.gov/", "boards": "https://www.whitmancounty.gov/366/Boards-Commissions"},
-    "Yakima": {"site": "https://www.yakimacounty.us/", "boards": "https://www.yakimacounty.us/804/Boards-Committees"}
+    "Adams": {
+      "site": "https://www.co.adams.wa.gov/",
+      "boards": "https://www.co.adams.wa.gov/264/Board-of-Commissioners",
+      "appoints": true
+    },
+    "Asotin": {
+      "site": "https://www.asotincountywa.gov/",
+      "boards": "https://www.asotincountywa.gov/249/Boards-Commissions"
+    },
+    "Benton": {
+      "site": "https://www.bentoncountywa.gov/",
+      "boards": "https://www.bentoncountywa.gov/government/boards_and_commissions/index.php"
+    },
+    "Chelan": {
+      "site": "https://co.chelan.wa.us/",
+      "boards": "https://co.chelan.wa.us/board-of-commissioners",
+      "appoints": true,
+      "meetings": "https://co.chelan.wa.us/board-of-commissioners"
+    },
+    "Clallam": {
+      "site": "https://clallamcountywa.gov/",
+      "boards": "https://clallamcountywa.gov/DocumentCenter/View/8333/Boards-Committees-and-Commissions-Vacancy-List"
+    },
+    "Clark": {
+      "site": "https://clark.wa.gov/",
+      "boards": "https://clark.wa.gov/councilors/advisory-boards-and-commissions",
+      "meetings": "https://clark.wa.gov/councilors"
+    },
+    "Columbia": {
+      "site": "https://www.columbiaco.com/",
+      "boards": "https://www.columbiaco.com/19/Boards-Commissions"
+    },
+    "Cowlitz": {
+      "site": "https://www.co.cowlitz.wa.us/",
+      "boards": "https://www.co.cowlitz.wa.us/553/Volunteer-Boards-Committees"
+    },
+    "Douglas": {
+      "site": "https://www.douglascountywa.gov/",
+      "boards": "https://www.douglascountywa.gov/281/Boards-Commissions"
+    },
+    "Ferry": {
+      "site": "https://ferry-county.com/",
+      "boards": "https://ferry-county.com/government/board_of_commissioners/index.php",
+      "appoints": true,
+      "meetings": "https://ferry-county.com/government/board_of_commissioners/index.php"
+    },
+    "Franklin": {
+      "site": "https://franklincountywa.gov/",
+      "boards": "https://franklincountywa.gov/261/Boards-Commissions"
+    },
+    "Garfield": {
+      "site": "https://www.garfieldcountywa.gov/",
+      "boards": "https://www.garfieldcountywa.gov/bc",
+      "meetings": "https://www.garfieldcountywa.gov/bocc/page/board-county-commissioners"
+    },
+    "Grant": {
+      "site": "https://www.grantcountywa.gov/",
+      "boards": "https://www.grantcountywa.gov/27/Boards-Commissions-Districts"
+    },
+    "Grays Harbor": {
+      "site": "https://www.graysharbor.gov/",
+      "boards": "https://www.graysharbor.gov/departments/boards-committees/",
+      "meetings": "https://www.graysharbor.gov/government/commissioners/meetings-agendas/"
+    },
+    "Island": {
+      "site": "https://www.islandcountywa.gov/",
+      "boards": "https://www.islandcountywa.gov/567/Boards-and-Commissions"
+    },
+    "Jefferson": {
+      "site": "https://www.co.jefferson.wa.us/",
+      "boards": "https://www.co.jefferson.wa.us/1908/Boards-and-Commissions"
+    },
+    "King": {
+      "site": "https://kingcounty.gov/",
+      "boards": "https://kingcounty.gov/en/independents/governance-and-leadership/boards-commissions"
+    },
+    "Kitsap": {
+      "site": "https://www.kitsap.gov/",
+      "boards": "https://www.kitsap.gov/BOC_p/Pages/Advisory-Boards-.aspx",
+      "meetings": "https://www.kitsap.gov/BOC_p/Pages/default.aspx"
+    },
+    "Kittitas": {
+      "site": "https://www.co.kittitas.wa.us/",
+      "boards": "https://www.co.kittitas.wa.us/boards/boards-committees.aspx",
+      "meetings": "https://www.co.kittitas.wa.us/boc/about.aspx"
+    },
+    "Klickitat": {
+      "site": "https://www.klickitatcounty.gov/",
+      "boards": "https://www.klickitatcounty.gov/155/Boards-Commissions"
+    },
+    "Lewis": {
+      "site": "https://lewiscountywa.gov/",
+      "boards": "https://lewiscountywa.gov/offices/commissioners/advisory-boards-and-commissions/list-of-boards-and-commissions/",
+      "meetings": "https://lewiscountywa.gov/offices/commissioners/"
+    },
+    "Lincoln": {
+      "site": "https://www.lincolncountywa.com/",
+      "boards": "https://www.lincolncountywa.com/435/Boards-Commissions"
+    },
+    "Mason": {
+      "site": "https://www.masoncountywa.gov/",
+      "boards": "https://www.masoncountywa.gov/government/advisory_boards/index.php",
+      "meetings": "https://www.masoncountywa.gov/government/county_commissioners/index.php"
+    },
+    "Okanogan": {
+      "site": "https://www.okanogancounty.gov/",
+      "boards": "https://www.okanogancounty.gov/165/Boards-Committees"
+    },
+    "Pacific": {
+      "site": "https://www.co.pacific.wa.us/",
+      "boards": "https://www.co.pacific.wa.us/boards%20and%20commissions/index.htm"
+    },
+    "Pend Oreille": {
+      "site": "https://www.pendoreille.gov/",
+      "boards": "https://www.pendoreille.gov/board-county-commissioners",
+      "appoints": true,
+      "meetings": "https://www.pendoreille.gov/board-county-commissioners"
+    },
+    "Pierce": {
+      "site": "https://www.piercecountywa.gov/",
+      "boards": "https://www.piercecountywa.gov/89/Boards-Commissions"
+    },
+    "San Juan": {
+      "site": "https://www.sanjuancountywa.gov/",
+      "boards": "https://www.sanjuancountywa.gov/641/Board-Committee-Vacancies"
+    },
+    "Skagit": {
+      "site": "https://www.skagitcountywa.gov/",
+      "boards": "https://www.skagitcountywa.gov/government/boards-and-committees/",
+      "meetings": "https://www.skagitcountywa.gov/government/board-of-county-commissioners/"
+    },
+    "Skamania": {
+      "site": "https://www.skamaniacounty.gov/",
+      "boards": "https://www.skamaniacounty.gov/departments-offices/commissioners",
+      "appoints": true,
+      "meetings": "https://www.skamaniacounty.gov/departments-offices/commissioners"
+    },
+    "Snohomish": {
+      "site": "https://snohomishcountywa.gov/",
+      "boards": "https://snohomishcountywa.gov/128/Boards-Commissions"
+    },
+    "Spokane": {
+      "site": "https://www.spokanecounty.gov/",
+      "boards": "https://www.spokanecounty.gov/921/Boards-Commissions"
+    },
+    "Stevens": {
+      "site": "https://www.stevenscountywa.gov/",
+      "boards": "https://www.stevenscountywa.gov/21087/Board-of-Commissioners",
+      "appoints": true,
+      "meetings": "https://www.stevenscountywa.gov/20842/commissioners"
+    },
+    "Thurston": {
+      "site": "https://www.thurstoncountywa.gov/",
+      "boards": "https://www.thurstoncountywa.gov/departments/board-county-commissioners/advisory-boards-commissions-and-committees"
+    },
+    "Wahkiakum": {
+      "site": "https://www.co.wahkiakum.wa.us/",
+      "boards": "https://www.co.wahkiakum.wa.us/274/Boards-Committees",
+      "meetings": "https://www.co.wahkiakum.wa.us/257/Board-of-County-Commissioners"
+    },
+    "Walla Walla": {
+      "site": "https://www.wwcowa.gov/",
+      "boards": "https://www.wwcowa.gov/boards_and_committees/index.php",
+      "meetings": "https://www.wwcowa.gov/government/commissioners/index.php"
+    },
+    "Whatcom": {
+      "site": "https://www.whatcomcounty.us/",
+      "boards": "https://www.whatcomcounty.us/210/Boards-Commissions"
+    },
+    "Whitman": {
+      "site": "https://www.whitmancounty.gov/",
+      "boards": "https://www.whitmancounty.gov/366/Boards-Commissions"
+    },
+    "Yakima": {
+      "site": "https://www.yakimacounty.us/",
+      "boards": "https://www.yakimacounty.us/804/Boards-Committees"
+    }
   },
   "cities": {
-    "Auburn": {"county": "King", "site": "https://www.auburnwa.gov/", "boards": "https://www.auburnwa.gov/city_hall/boards_commissions"},
-    "Bellevue": {"county": "King", "site": "https://bellevuewa.gov/", "boards": "https://bellevuewa.gov/city-government/boards-commissions-and-committees"},
-    "Bellingham": {"county": "Whatcom", "site": "https://cob.org/", "boards": "https://cob.org/gov/public/bc"},
-    "Burien": {"county": "King", "site": "https://www.burienwa.gov/", "boards": "https://www.burienwa.gov/city_hall/boards_and_commissions"},
-    "Everett": {"county": "Snohomish", "site": "https://www.everettwa.gov/", "boards": "https://www.everettwa.gov/1537/Boards-and-Commissions"},
-    "Federal Way": {"county": "King", "site": "https://www.federalwaywa.gov/", "boards": "https://www.federalwaywa.gov/boards-commissions"},
-    "Kennewick": {"county": "Benton", "site": "https://www.go2kennewick.com/", "boards": "https://www.go2kennewick.com/580/Boards-Commissions"},
-    "Kent": {"county": "King", "site": "https://www.kentwa.gov/", "boards": "https://www.kentwa.gov/government/boards-commissions"},
-    "Kirkland": {"county": "King", "site": "https://www.kirklandwa.gov/", "boards": "https://www.kirklandwa.gov/Government/Boards-and-Commissions"},
-    "Lacey": {"county": "Thurston", "site": "https://cityoflacey.org/", "boards": "https://cityoflacey.org/government/lacey-city-council/boards-commissions/"},
-    "Lakewood": {"county": "Pierce", "site": "https://cityoflakewood.us/", "boards": "https://cityoflakewood.us/commissions/"},
-    "Marysville": {"county": "Snohomish", "site": "https://marysvillewa.gov/", "boards": "https://marysvillewa.gov/195/Boards-Commissions"},
-    "Olympia": {"county": "Thurston", "site": "https://www.olympiawa.gov/", "boards": "https://www.olympiawa.gov/government/advisory_committees/index.php"},
-    "Pasco": {"county": "Franklin", "site": "https://www.pasco-wa.gov/", "boards": "https://www.pasco-wa.gov/135/Boards-Commissions"},
-    "Redmond": {"county": "King", "site": "https://www.redmond.gov/", "boards": "https://www.redmond.gov/285/Boards-Commissions"},
-    "Renton": {"county": "King", "site": "https://www.rentonwa.gov/", "boards": "https://www.rentonwa.gov/Government/Boards-Committees-Commissions"},
-    "Richland": {"county": "Benton", "site": "https://www.richlandwa.gov/", "boards": "https://www.richlandwa.gov/government/advisory-boards-commissions-and-committees"},
-    "Sammamish": {"county": "King", "site": "https://www.sammamish.us/", "boards": "https://www.sammamish.us/government/commissions/"},
-    "Seattle": {"county": "King", "site": "https://www.seattle.gov/", "boards": "https://www.seattle.gov/boards-and-commissions"},
-    "Shoreline": {"county": "King", "site": "https://www.shorelinewa.gov/", "boards": "https://www.shorelinewa.gov/government/boards-and-commissions"},
-    "Spokane": {"county": "Spokane", "site": "https://my.spokanecity.org/", "boards": "https://my.spokanecity.org/bcc/"},
-    "Spokane Valley": {"county": "Spokane", "site": "https://spokanevalleywa.gov/", "boards": "https://spokanevalleywa.gov/198/Commissions-Committees-Boards"},
-    "Tacoma": {"county": "Pierce", "site": "https://tacoma.gov/", "boards": "https://tacoma.gov/government/committees-boards-and-commissions/"},
-    "Tumwater": {"county": "Thurston", "site": "https://www.ci.tumwater.wa.us/", "boards": "https://www.ci.tumwater.wa.us/government/commissions-advisory-boards"},
-    "Vancouver": {"county": "Clark", "site": "https://www.cityofvancouver.us/", "boards": "https://www.cityofvancouver.us/government/boards-commissions/"},
-    "Yakima": {"county": "Yakima", "site": "https://www.yakimawa.gov/", "boards": "https://www.yakimawa.gov/council/board/"},
-    "Yelm": {"county": "Thurston", "site": "https://yelmwa.gov/", "boards": "https://yelmwa.gov/government/boards_commissions/index.php"}
+    "Auburn": {
+      "county": "King",
+      "site": "https://www.auburnwa.gov/",
+      "boards": "https://www.auburnwa.gov/city_hall/boards_commissions"
+    },
+    "Bellevue": {
+      "county": "King",
+      "site": "https://bellevuewa.gov/",
+      "boards": "https://bellevuewa.gov/city-government/boards-commissions-and-committees"
+    },
+    "Bellingham": {
+      "county": "Whatcom",
+      "site": "https://cob.org/",
+      "boards": "https://cob.org/gov/public/bc"
+    },
+    "Burien": {
+      "county": "King",
+      "site": "https://www.burienwa.gov/",
+      "boards": "https://www.burienwa.gov/city_hall/boards_and_commissions"
+    },
+    "Everett": {
+      "county": "Snohomish",
+      "site": "https://www.everettwa.gov/",
+      "boards": "https://www.everettwa.gov/1537/Boards-and-Commissions"
+    },
+    "Federal Way": {
+      "county": "King",
+      "site": "https://www.federalwaywa.gov/",
+      "boards": "https://www.federalwaywa.gov/boards-commissions"
+    },
+    "Kennewick": {
+      "county": "Benton",
+      "site": "https://www.go2kennewick.com/",
+      "boards": "https://www.go2kennewick.com/580/Boards-Commissions"
+    },
+    "Kent": {
+      "county": "King",
+      "site": "https://www.kentwa.gov/",
+      "boards": "https://www.kentwa.gov/government/boards-commissions"
+    },
+    "Kirkland": {
+      "county": "King",
+      "site": "https://www.kirklandwa.gov/",
+      "boards": "https://www.kirklandwa.gov/Government/Boards-and-Commissions"
+    },
+    "Lacey": {
+      "county": "Thurston",
+      "site": "https://cityoflacey.org/",
+      "boards": "https://cityoflacey.org/government/lacey-city-council/boards-commissions/"
+    },
+    "Lakewood": {
+      "county": "Pierce",
+      "site": "https://cityoflakewood.us/",
+      "boards": "https://cityoflakewood.us/commissions/"
+    },
+    "Marysville": {
+      "county": "Snohomish",
+      "site": "https://marysvillewa.gov/",
+      "boards": "https://marysvillewa.gov/195/Boards-Commissions"
+    },
+    "Olympia": {
+      "county": "Thurston",
+      "site": "https://www.olympiawa.gov/",
+      "boards": "https://www.olympiawa.gov/government/advisory_committees/index.php"
+    },
+    "Pasco": {
+      "county": "Franklin",
+      "site": "https://www.pasco-wa.gov/",
+      "boards": "https://www.pasco-wa.gov/135/Boards-Commissions"
+    },
+    "Redmond": {
+      "county": "King",
+      "site": "https://www.redmond.gov/",
+      "boards": "https://www.redmond.gov/285/Boards-Commissions"
+    },
+    "Renton": {
+      "county": "King",
+      "site": "https://www.rentonwa.gov/",
+      "boards": "https://www.rentonwa.gov/Government/Boards-Committees-Commissions"
+    },
+    "Richland": {
+      "county": "Benton",
+      "site": "https://www.richlandwa.gov/",
+      "boards": "https://www.richlandwa.gov/government/advisory-boards-commissions-and-committees"
+    },
+    "Sammamish": {
+      "county": "King",
+      "site": "https://www.sammamish.us/",
+      "boards": "https://www.sammamish.us/government/commissions/"
+    },
+    "Seattle": {
+      "county": "King",
+      "site": "https://www.seattle.gov/",
+      "boards": "https://www.seattle.gov/boards-and-commissions"
+    },
+    "Shoreline": {
+      "county": "King",
+      "site": "https://www.shorelinewa.gov/",
+      "boards": "https://www.shorelinewa.gov/government/boards-and-commissions"
+    },
+    "Spokane": {
+      "county": "Spokane",
+      "site": "https://my.spokanecity.org/",
+      "boards": "https://my.spokanecity.org/bcc/"
+    },
+    "Spokane Valley": {
+      "county": "Spokane",
+      "site": "https://spokanevalleywa.gov/",
+      "boards": "https://spokanevalleywa.gov/198/Commissions-Committees-Boards"
+    },
+    "Tacoma": {
+      "county": "Pierce",
+      "site": "https://tacoma.gov/",
+      "boards": "https://tacoma.gov/government/committees-boards-and-commissions/"
+    },
+    "Tumwater": {
+      "county": "Thurston",
+      "site": "https://www.ci.tumwater.wa.us/",
+      "boards": "https://www.ci.tumwater.wa.us/government/commissions-advisory-boards"
+    },
+    "Vancouver": {
+      "county": "Clark",
+      "site": "https://www.cityofvancouver.us/",
+      "boards": "https://www.cityofvancouver.us/government/boards-commissions/"
+    },
+    "Yakima": {
+      "county": "Yakima",
+      "site": "https://www.yakimawa.gov/",
+      "boards": "https://www.yakimawa.gov/council/board/"
+    },
+    "Yelm": {
+      "county": "Thurston",
+      "site": "https://yelmwa.gov/",
+      "boards": "https://yelmwa.gov/government/boards_commissions/index.php"
+    }
   }
 }

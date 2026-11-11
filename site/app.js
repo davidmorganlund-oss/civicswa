@@ -20,7 +20,7 @@
   function savePlace(p) { try { localStorage.setItem(KEY, JSON.stringify(p)); } catch (e) { /* private mode */ } }
   function slug(c) { return c.toLowerCase().replace(/[^a-z]+/g, '-').replace(/^-|-$/g, ''); }
 
-  var state = { events: [], sources: [], cat: 'all', county: '', city: '', days: 14 };
+  var state = { events: [], sources: [], local: {}, connected: null, cat: 'all', county: '', city: '', days: 14 };
   var $ = function (id) { return document.getElementById(id); };
 
   function el(tag, cls, text) {
@@ -157,7 +157,9 @@
     sub.textContent = 'Subscribe to ' + (state.county ? state.county + ' County' : 'the statewide calendar');
     renderStatus();
 
-    if (!rows.length) {
+    if (state.county && state.connected && !state.connected[state.county]) {
+      list.appendChild(notConnected());
+    } else if (!rows.length) {
       list.appendChild(el('p', 'empty', state.events.length
         ? 'Nothing of this type is listed for these dates. Try another filter or show more weeks.'
         : 'No events are loaded yet. The calendar fills in after its first nightly run.'));
@@ -200,13 +202,33 @@
   function fillCounties() {
     var counties = {};
     state.sources.forEach(function (s) { counties[s.county || 'Thurston'] = true; });
+    var all = Object.keys(state.local.counties || {});
+    if (!all.length) all = Object.keys(counties);
     var sel = $('county');
     sel.textContent = '';
     sel.appendChild(new Option('All of Washington', ''));
-    Object.keys(counties).sort().forEach(function (c) { sel.appendChild(new Option(c + ' County', c, false, c === state.county)); });
-    if (!counties[state.county]) state.county = '';
+    all.sort().forEach(function (c) {
+      sel.appendChild(new Option(c + ' County' + (counties[c] ? '' : ' (links only)'), c, false, c === state.county));
+    });
+    if (all.indexOf(state.county) === -1) state.county = '';
     sel.value = state.county;
-    $('coverage').textContent = 'Now covering ' + Object.keys(counties).length + ' of Washington’s 39 counties, with more on the way.';
+    state.connected = counties;
+    $('coverage').textContent = 'Meetings from ' + Object.keys(counties).length + ' of Washington’s 39 counties so far, and links for the rest.';
+  }
+
+  // For a county whose calendar we can't read yet, point to its own page.
+  function notConnected() {
+    var c = state.county, info = (state.local.counties || {})[c] || {};
+    var box = el('div', 'card notice-card');
+    box.appendChild(el('h3', null, 'We can’t read ' + c + ' County’s meeting calendar yet'));
+    box.appendChild(el('p', null, 'The county posts its meetings and agendas on its own website. Until we can add them here, that’s the place to check.'));
+    var href = info.meetings || info.site;
+    if (href) {
+      var a = el('a', 'link', c + ' County meetings and agendas');
+      a.href = href; a.rel = 'noopener';
+      box.appendChild(a);
+    }
+    return box;
   }
   function fillCities() {
     var cities = {};
@@ -244,8 +266,10 @@
   setup();
   Promise.all([
     fetch('data/events.json').then(function (r) { return r.json(); }),
-    fetch('data/status.json').then(function (r) { return r.json(); }).catch(function () { return { sources: [] }; })
+    fetch('data/status.json').then(function (r) { return r.json(); }).catch(function () { return { sources: [] }; }),
+    fetch('data/local.json').then(function (r) { return r.json(); }).catch(function () { return {}; })
   ]).then(function (res) {
+    state.local = res[2] || {};
     state.events = (res[0].events || []).map(function (e) { e.county = e.county || 'Thurston'; return e; });
     state.status = res[1];
     state.sources = res[1].sources || [];

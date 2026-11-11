@@ -135,3 +135,7 @@ footer p { margin: 0; flex: 1 1 320px; }
 .agenda ul { margin: 0; padding-left: 18px; }
 .agenda li { margin: 2px 0; overflow-wrap: anywhere; }
 .agenda li.more-items { list-style: none; margin-left: -18px; color: var(--muted); font-size: 14px; }
+
+.notice-card { margin-top: 12px; }
+.notice-card h3 { margin: 0 0 8px; font-family: var(--display); font-size: 1.15rem; }
+.notice-card p { margin: 0 0 12px; }

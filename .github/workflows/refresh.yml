@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
   pages: write
   id-token: write
 
@@ -33,6 +34,12 @@ jobs:
         run: python pipeline/build.py | tee "$GITHUB_STEP_SUMMARY"
       - name: Build the representatives roster
         run: python pipeline/officials.py | tee -a "$GITHUB_STEP_SUMMARY"
+      - name: Flag calendars that keep failing
+        if: always()
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python pipeline/alerts.py
       - name: Save the refreshed data
         if: always()
         run: |

@@ -770,7 +770,7 @@ def main() -> int:
             found = CONNECTORS[src["type"]](src, start_day, end_day, tz)
             found = [e for e in found if start_day <= datetime.fromisoformat(e["start"]).date() <= end_day]
             found = apply_source_rules(src, found)
-            status.update(ok=True, count=len(found), last_success=status["checked"], error="")
+            status.update(ok=True, count=len(found), last_success=status["checked"], error="", failing_since="")
             # A source that answers but lists nothing is suspicious, not fine.
             status["state"] = "ok" if found else "quiet"
         except Exception as exc:  # one bad source must not sink the rest
@@ -778,6 +778,7 @@ def main() -> int:
             found = [e for e in old_events if e["source"] == src["id"]
                      and datetime.fromisoformat(e["start"]).date() >= start_day]
             status.update(ok=False, count=len(found), state="failing",
+                          failing_since=previous.get(src["id"], {}).get("failing_since") or now.date().isoformat(),
                           last_success=previous.get(src["id"], {}).get("last_success", ""),
                           error=f"{type(exc).__name__}: {exc}"[:300])
             print(f"[warn] {src['id']}: {status['error']}", file=sys.stderr)
