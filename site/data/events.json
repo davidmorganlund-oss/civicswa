@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T09:01:58-08:00",
+ "generated": "2026-11-11T09:05:17-08:00",
  "events": [
   {
    "id": "4f1b81a92f98",
@@ -977,6 +977,29 @@
    "cancelled": false
   },
   {
+   "id": "a8cff234ea76",
+   "title": "Select Budget Committee",
+   "host": "City of Seattle",
+   "source": "seattle",
+   "area": "Seattle",
+   "county": "King",
+   "category": "council",
+   "start": "2026-11-13T09:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Chamber, City Hall 600 4th Avenue Seattle, WA 98104",
+   "url": "https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6773&GID=393&G=FFE3B678-CEF6-4197-84AC-5204EA4CFC0C",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false,
+   "highlights": [
+    "An ordinance adopting a budget, including a capital improvement program and position modifications, for The City of Seattle for 2027; and\u2026",
+    "A resolution endorsing a budget and position modifications for The City of Seattle for 2028",
+    "City Council Changes to the 2027 - 2028 Proposed Budget and the 2027 - 2032 Proposed Capital Improvement Program"
+   ],
+   "highlights_more": 36
+  },
+  {
    "id": "55ca436bae11",
    "title": "Board of County Commissioners' Weekly Meetings",
    "host": "Grant County",
@@ -1117,6 +1140,29 @@
    "agenda_url": "",
    "note": "Meets 1st & 3rd Mondays at 9:00 AM",
    "cancelled": false
+  },
+  {
+   "id": "6e8b05d3e107",
+   "title": "Select Budget Committee",
+   "host": "City of Seattle",
+   "source": "seattle",
+   "area": "Seattle",
+   "county": "King",
+   "category": "council",
+   "start": "2026-11-16T09:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Chamber, City Hall 600 4th Avenue Seattle, WA 98104",
+   "url": "https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6774&GID=393&G=FFE3B678-CEF6-4197-84AC-5204EA4CFC0C",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false,
+   "highlights": [
+    "An ordinance adopting a budget, including a capital improvement program and position modifications, for The City of Seattle for 2027; and\u2026",
+    "A resolution endorsing a budget and position modifications for The City of Seattle for 2028",
+    "City Council Changes to the 2027 - 2028 Proposed Budget and the 2027 - 2032 Proposed Capital Improvement Program"
+   ],
+   "highlights_more": 36
   },
   {
    "id": "ef0fa43cf00f",

@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Whitman County
 BEGIN:VEVENT
 UID:db324dc1c4f6@civicswa
-DTSTAMP:20261111T170158Z
+DTSTAMP:20261111T170517Z
 DTSTART:20261208T223000Z
 DTEND:20261209T003000Z
 SUMMARY:Solid Waste Advisory Committee Regular Meeting (Whitman County)
@@ -13,7 +13,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:718ee0613c74@civicswa
-DTSTAMP:20261111T170158Z
+DTSTAMP:20261111T170517Z
 DTSTART:20261211T030000Z
 DTEND:20261211T050000Z
 SUMMARY:Board of Adjustment Hearing for December 10\, 2026 (Whitman County)
