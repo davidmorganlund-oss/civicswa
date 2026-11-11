@@ -1,0 +1,45 @@
+# CivicsWA pilot sources: Thurston County, WA.
+# Each source names a connector type and the public feed it reads.
+# "area" is what the site matches a visitor's city or ZIP against;
+# "countywide" sources show for everyone in the county.
+
+window_days: 60
+timezone: America/Los_Angeles
+
+sources:
+  - id: olympia
+    name: City of Olympia
+    type: legistar
+    client: olympia
+    area: Olympia
+    homepage: https://olympia.legistar.com/Calendar.aspx
+
+  - id: lacey
+    name: City of Lacey
+    type: civicclerk
+    tenant: laceywa
+    area: Lacey
+    homepage: https://laceywa.portal.civicclerk.com/
+
+  - id: thurston-county
+    name: Thurston County
+    type: ics
+    url: https://outlook.office365.com/owa/calendar/37be4328991e4674ac13e314c7275ee2@co.thurston.wa.us/9dc269f43ccb4c5cb935e2a5c4456c2c17500354631400643582/calendar.ics
+    area: countywide
+    homepage: https://www.thurstoncountywa.gov/meetings-and-agendas
+
+  # Unverified: the Port's site runs a WordPress events calendar. This tries its
+  # standard iCal export. If the first run reports it as failing, switch
+  # connector or ask the Port for a feed.
+  - id: port-of-olympia
+    name: Port of Olympia
+    type: ics
+    url: https://portolympia.com/events/?ical=1
+    area: countywide
+    homepage: https://portolympia.com/commission/
+
+# Not connected yet, on purpose:
+#   City of Tumwater (tumwater-wa.municodemeetings.com) and Timberland Regional
+#   Library (timberland.bibliocommons.com) both tell automated crawlers to stay
+#   out in robots.txt. Ask each for a feed or permission before adding them.
+#   School boards (Olympia, North Thurston, Tumwater) are not inventoried yet.

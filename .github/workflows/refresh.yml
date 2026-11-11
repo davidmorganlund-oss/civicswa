@@ -1,0 +1,39 @@
+name: Refresh calendar
+
+on:
+  schedule:
+    - cron: "17 11 * * *"   # nightly, about 3:17 or 4:17 a.m. Pacific
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["pipeline/**", ".github/workflows/refresh.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m pytest -q tests
+      - name: Build the calendar data
+        run: python pipeline/build.py | tee "$GITHUB_STEP_SUMMARY"
+      - name: Save the refreshed data
+        if: always()
+        run: |
+          git config user.name "civicswa-bot"
+          git config user.email "civicswa-bot@users.noreply.github.com"
+          git add site/data
+          git diff --cached --quiet || git commit -m "Refresh calendar data"
+          git push
