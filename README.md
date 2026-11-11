@@ -4,7 +4,7 @@ A pilot civic calendar and playbook for Thurston County, Washington.
 A project of BarNone, an independent nonprofit. Not affiliated with the
 Washington Secretary of State or any government agency.
 
-**Status: private pilot. Not launched.**
+**Status: public pilot for Thurston County at civicswa.org.**
 
 ## How it works
 

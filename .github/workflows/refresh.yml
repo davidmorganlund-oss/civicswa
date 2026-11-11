@@ -1,4 +1,4 @@
-name: Refresh calendar
+name: Refresh and publish
 
 on:
   schedule:
@@ -6,10 +6,12 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["pipeline/**", ".github/workflows/refresh.yml"]
+    paths-ignore: ["site/data/**", "README.md"]
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: refresh
@@ -37,3 +39,16 @@ jobs:
           git add site/data
           git diff --cached --quiet || git commit -m "Refresh calendar data"
           git push
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  publish:
+    needs: refresh
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4
