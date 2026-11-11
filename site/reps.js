@@ -21,6 +21,7 @@
   };
 
   var officials = null;
+  var localData = null;
   var $ = function (id) { return document.getElementById(id); };
 
   function el(tag, cls, text) {
@@ -88,8 +89,20 @@
     }
   }
 
-  function localCard(title, name, entry, fallback) {
+  // Official website and boards page for counties and the larger cities,
+  // from data/local.json (the same list the playbook's "Near you" boxes use).
+  function extraLinks(card, place) {
+    if (!place) return;
+    var p = el('p');
+    p.appendChild(link(place.site, 'Official website'));
+    p.appendChild(document.createTextNode(' · '));
+    p.appendChild(link(place.boards, place.appoints ? 'Commissioners (they appoint board members)' : 'Boards and commissions'));
+    card.appendChild(p);
+  }
+
+  function localCard(title, name, entry, fallback, place) {
     var card = section(title, name);
+    if (!entry && place) { extraLinks(card, place); return card; }
     if (entry) {
       var p = el('p');
       p.appendChild(link(entry.url, entry.label));
@@ -98,6 +111,7 @@
     } else {
       card.appendChild(el('p', 'muted', fallback));
     }
+    extraLinks(card, place);
     return card;
   }
 
@@ -118,13 +132,17 @@
     var cd = layer(g, /Congressional Districts/);
 
     out.appendChild(el('p', 'muted', 'Showing results for ' + match.matchedAddress + '.'));
+    if (window.CivicsWALocal && county) {
+      // Remember only the county and city, so the playbook can show local links.
+      window.CivicsWALocal.save({ county: county, city: localData && localData.cities[city] ? city : '' });
+    }
 
     out.appendChild(city
-      ? localCard('City', 'City of ' + city, LOCAL.places[city], 'Your mayor and council members are listed on the city’s website. We have not added a direct link for this city yet.')
+      ? localCard('City', 'City of ' + city, LOCAL.places[city], 'Your mayor and council members are listed on the city’s website. We have not added a direct link for this city yet.', localData && localData.cities[city])
       : localCard('City', 'Outside city limits', null, 'This address is in an unincorporated area, so the county is your local government.'));
 
     if (county) {
-      out.appendChild(localCard('County', county + ' County', LOCAL.counties[county], 'Your county commissioners or council members are listed on the county’s website. We have not added a direct link for this county yet.'));
+      out.appendChild(localCard('County', county + ' County', LOCAL.counties[county], 'Your county commissioners or council members are listed on the county’s website. We have not added a direct link for this county yet.', localData && localData.counties[county]));
     }
 
     var seats = (officials && officials.legislators && officials.legislators[ld]) || null;
@@ -184,5 +202,6 @@
     });
   });
 
+  fetch('data/local.json').then(function (r) { return r.json(); }).then(function (d) { localData = d; }).catch(function () {});
   fetch('data/officials.json').then(function (r) { return r.json(); }).then(function (d) { officials = d; }).catch(function () {});
 })();
