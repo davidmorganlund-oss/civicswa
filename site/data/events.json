@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T10:08:50-08:00",
+ "generated": "2026-11-11T10:14:22-08:00",
  "events": [
   {
    "id": "4f1b81a92f98",
@@ -135,23 +135,6 @@
    "url": "https://clallamcowa.portal.civicclerk.com/event/366/overview",
    "agenda_url": "",
    "note": "",
-   "cancelled": true
-  },
-  {
-   "id": "d3ea03a8aa4d",
-   "title": "Plan Commission",
-   "host": "City of Spokane boards and commissions",
-   "source": "spokane-boards",
-   "area": "Spokane",
-   "county": "Spokane",
-   "category": "council",
-   "start": "2026-11-11T14:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "Council Briefing Center, City Hall, 808 W. Spokane Falls Blvd., Spokane",
-   "url": "https://my.spokanecity.org/bcc/commissions/plan-commission/",
-   "agenda_url": "",
-   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": true
   },
   {
@@ -565,6 +548,23 @@
    "url": "https://my.spokanecity.org/bcc/boards/climate-resilience-and-sustainability-board/",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
+   "id": "7a890c1a88cc",
+   "title": "Plan Commission",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-11-12T14:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Briefing Center, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/commissions/plan-commission/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go. The regular date falls on a holiday, so state law moves the meeting to the next business day. The host may set a different date.",
    "cancelled": true
   },
   {
@@ -3067,23 +3067,6 @@
    "cancelled": false
   },
   {
-   "id": "4c016e585012",
-   "title": "Notice of Quorum",
-   "host": "Bellevue School District",
-   "source": "bellevue-schools",
-   "area": "Bellevue",
-   "county": "King",
-   "category": "school",
-   "start": "2026-11-19T09:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "The Davenport Grand 333 W. Spokane Falls Blvd. Spokane, WA 99201",
-   "url": "https://bsd405.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=753",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
    "id": "534ebb43ab82",
    "title": "Clean Water Advisory Committee | Surface Water Subcommittee Meeting | November 2026",
    "host": "San Juan County",
@@ -3453,23 +3436,6 @@
    "cancelled": false
   },
   {
-   "id": "6f257d5f25e1",
-   "title": "Notice of Quorum",
-   "host": "Bellevue School District",
-   "source": "bellevue-schools",
-   "area": "Bellevue",
-   "county": "King",
-   "category": "school",
-   "start": "2026-11-20T09:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "The Davenport Grand 333 W. Spokane Falls Blvd. Spokane, WA 99201",
-   "url": "https://bsd405.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=754",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
    "id": "ca55882f00f3",
    "title": "Pierce County Arts Commission Meeting",
    "host": "Pierce County",
@@ -3482,23 +3448,6 @@
    "all_day": false,
    "location": "Pierce County Annex 2401 S 35th St&nbsp; Pantages Conference Room Tacoma, WA &nbsp;98409 Zoom Meeting Info: https://piercecountywa.zoom.us/j/99783899558?pwd=3bLGnwz28WJVbKufs00SXATu6jeLIY.1 Meeting ID: 997 8389 9558 Passcode: 413162 Dial by your location: 1 253 215 8782 US (Tacoma) - Tacoma WA 98405",
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=77",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
-   "id": "214629d899f0",
-   "title": "Notice of Quorum",
-   "host": "Bellevue School District",
-   "source": "bellevue-schools",
-   "area": "Bellevue",
-   "county": "King",
-   "category": "school",
-   "start": "2026-11-21T09:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "Davenport Grand 333 W. Spokane Falls Blvd. Spokane, WA 99201",
-   "url": "https://bsd405.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=755",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -4652,23 +4601,6 @@
    "cancelled": false
   },
   {
-   "id": "c2aa6780a8ec",
-   "title": "School Board Meeting",
-   "host": "Tacoma Public Schools",
-   "source": "tacoma-schools",
-   "area": "Tacoma",
-   "county": "Pierce",
-   "category": "school",
-   "start": "2026-11-26T18:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "Professional Development Center, 6501 N. 23rd St., Tacoma",
-   "url": "https://www.tacomaschools.org/about/school-board/attend",
-   "agenda_url": "",
-   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go. In July, August and December the board meets once a month; check the district's page for that date.",
-   "cancelled": true
-  },
-  {
    "id": "3804ce27a567",
    "title": "Board of County Commissioners' Weekly Meetings",
    "host": "Grant County",
@@ -4854,6 +4786,23 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
+  },
+  {
+   "id": "388cfec0f3ec",
+   "title": "School Board Meeting",
+   "host": "Tacoma Public Schools",
+   "source": "tacoma-schools",
+   "area": "Tacoma",
+   "county": "Pierce",
+   "category": "school",
+   "start": "2026-11-30T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Professional Development Center, 6501 N. 23rd St., Tacoma",
+   "url": "https://www.tacomaschools.org/about/school-board/attend",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go. The regular date falls on a holiday, so state law moves the meeting to the next business day. The host may set a different date. In July, August and December the board meets once a month; check the district's page for that date.",
+   "cancelled": true
   },
   {
    "id": "8d4b0aed859c",
