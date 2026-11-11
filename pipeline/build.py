@@ -363,8 +363,46 @@ def fetch_mec_rss(src, start_day, end_day, tz):
     return normalize_mec_rss(src, get(src["url"]).text, tz)
 
 
+# --- Granicus govAccess city sites: calendar RSS, with the date and time in the title ---
+# e.g. "City Council (11/17/2026 7:00 p.m. - 10:00 p.m.)"
+
+GOVACCESS_TITLE = re.compile(
+    r"^(?P<name>.*?)\s*\((?P<day>\d{1,2}/\d{1,2}/\d{4})"
+    r"(?:\s+(?P<start>\d{1,2}:\d{2}\s*[ap]\.?m\.?)(?:\s*-\s*(?P<end>\d{1,2}:\d{2}\s*[ap]\.?m\.?))?)?\)\s*$", re.I)
+
+
+def normalize_govaccess_rss(src, xml_text, tz):
+    import html as htmllib
+    events = []
+    for item in rss_items(xml_text):
+        f = fields(item)
+        m = GOVACCESS_TITLE.match(htmllib.unescape(f.get("title", "")))
+        if not m:
+            continue
+        day = datetime.strptime(m.group("day"), "%m/%d/%Y").date()
+        start_clock = parse_clock(m.group("start")) if m.group("start") else None
+        end_clock = parse_clock(m.group("end")) if m.group("end") else None
+        name = m.group("name")
+        cancelled = bool(re.search(r"cancel", name, re.I))
+        name = re.sub(r"\s*[-–]\s*cancel+ed\s*$", "", name, flags=re.I)
+        events.append(make_event(
+            src, title=name,
+            start=datetime.combine(day, start_clock or time(0, 0), tz),
+            end=datetime.combine(day, end_clock, tz) if end_clock else None,
+            all_day=start_clock is None,
+            url=f.get("link", ""), uid=f.get("link", "") or name,
+            cancelled=cancelled,
+        ))
+    return events
+
+
+def fetch_govaccess_rss(src, start_day, end_day, tz):
+    return normalize_govaccess_rss(src, get(src["url"]).text, tz)
+
+
 CONNECTORS = {"legistar": fetch_legistar, "civicclerk": fetch_civicclerk, "ics": fetch_ics,
-              "bibliocommons": fetch_bibliocommons, "municode": fetch_municode, "mec_rss": fetch_mec_rss}
+              "bibliocommons": fetch_bibliocommons, "municode": fetch_municode, "mec_rss": fetch_mec_rss,
+              "govaccess_rss": fetch_govaccess_rss}
 
 
 # ---------- outputs ----------

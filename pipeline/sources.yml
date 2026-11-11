@@ -28,6 +28,15 @@ sources:
     area: countywide
     homepage: https://www.thurstoncountywa.gov/meetings-and-agendas
 
+  # The city's own calendar feed, "City Meetings" category. It only lists
+  # about a week ahead, so Tumwater meetings appear closer to the date.
+  - id: tumwater
+    name: City of Tumwater
+    type: govaccess_rss
+    url: https://www.ci.tumwater.wa.us/Home/Components/RssFeeds/RssFeed/View?ctID=6&cateIDs=2
+    area: Tumwater
+    homepage: https://www.ci.tumwater.wa.us/government/city-calendar
+
   - id: port-of-olympia
     name: Port of Olympia
     type: mec_rss
@@ -51,10 +60,8 @@ sources:
     homepage: https://timberland.bibliocommons.com/v2/events
 
 # Not connected yet:
-#   City of Tumwater (tumwater-wa.municodemeetings.com). It offers no working
-#   feed (its RSS is empty) and its server drops connections from automated
-#   clients, so the "municode" connector in build.py is ready but unused.
-#   Ask the city for a feed or for the nightly reader to be allowed.
+#   Tumwater's separate meetings portal (tumwater-wa.municodemeetings.com) has
+#   agendas, but its server refuses automated readers, so it is not used.
 #   School boards. Olympia School District posts agendas on BoardDocs, which
 #   tells all automated clients to stay out, and lists its meeting dates as
 #   plain text on osd.wednet.edu/board-meeting-schedule without times.

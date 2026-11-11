@@ -138,3 +138,19 @@ def test_port_feed_titles():
     assert c["location"] == ""
     assert d["title"] == "Commission Meeting – meeting held in City of Bucoda" and d["start"].startswith("2026-09-28T16:00")
     assert e["title"] == "Commission Notice of Potential Quorum" and e["all_day"]
+
+
+def test_city_calendar_feed_titles():
+    src = {"id": "tumwater", "name": "City of Tumwater", "area": "Tumwater"}
+    def item(title, n):
+        return f"<item><title>{title}</title><link>https://example.org/Event/{n}/</link></item>"
+    xml = ('<rss version="2.0"><channel><title>Calendar RSS Feed</title>'
+           + item("City Council (11/17/2026 7:00 p.m. - 10:00 p.m.)", 1)
+           + item("LEOFF 1 - CANCELLED (11/12/2026 11:00 a.m. - 12:00 p.m.)", 2)
+           + item("Veterans' Day - city offices closed (11/11/2026)", 3)
+           + item("Something with no date", 4) + "</channel></rss>")
+    council, leoff, holiday = build.normalize_govaccess_rss(src, xml, TZ)
+    assert council["title"] == "City Council" and council["start"] == "2026-11-17T19:00:00-08:00"
+    assert council["end"] == "2026-11-17T22:00:00-08:00" and council["category"] == "council"
+    assert leoff["title"] == "LEOFF 1" and leoff["cancelled"] and leoff["start"].startswith("2026-11-12T11:00")
+    assert holiday["all_day"] and holiday["title"] == "Veterans' Day - city offices closed"

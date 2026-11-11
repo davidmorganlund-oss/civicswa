@@ -22,7 +22,7 @@ Washington Secretary of State or any government agency.
 | City of Lacey | CivicClerk | `civicclerk` | Live |
 | Thurston County | Published Outlook calendar | `ics` | Live |
 | Port of Olympia | WordPress events feed | `mec_rss` | Live |
-| City of Tumwater | Municode Meetings | none | Server refuses automated readers; ask the city |
+| City of Tumwater | City website calendar feed | `govaccess_rss` | Live, about a week ahead |
 | Timberland Regional Library | BiblioCommons events feed | `bibliocommons` | Live, civic programs only |
 | School boards | BoardDocs (Olympia) | none | BoardDocs blocks automated readers; needs another route |
 
