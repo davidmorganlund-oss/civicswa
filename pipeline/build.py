@@ -255,7 +255,9 @@ def normalize_bibliocommons(src, xml_text, tz):
         loc = fields(loc_el) if loc_el is not None else {}
         virtual = f.get("is_virtual") == "true"
         place = ", ".join(p for p in [
-            (loc.get("name", "") + " Timberland Library") if len(loc.get("id", "")) == 2 else loc.get("name", ""),
+            (loc.get("name", "") + " Timberland Library")
+            if len(loc.get("id", "")) == 2 and not re.search(r"library|headquarters|TRL", loc.get("name", ""), re.I)
+            else loc.get("name", ""),
             " ".join(p for p in [loc.get("number", ""), loc.get("street", "")] if p),
             loc.get("city", "")] if p)
         board = "Board Meetings" in cats or re.search(r"trustees|budget hearing", title, re.I)

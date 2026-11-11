@@ -28,13 +28,6 @@ sources:
     area: countywide
     homepage: https://www.thurstoncountywa.gov/meetings-and-agendas
 
-  - id: tumwater
-    name: City of Tumwater
-    type: municode
-    url: https://tumwater-wa.municodemeetings.com/
-    area: Tumwater
-    homepage: https://tumwater-wa.municodemeetings.com/
-
   - id: port-of-olympia
     name: Port of Olympia
     type: mec_rss
@@ -58,4 +51,11 @@ sources:
     homepage: https://timberland.bibliocommons.com/v2/events
 
 # Not connected yet:
-#   School boards (Olympia, North Thurston, Tumwater).
+#   City of Tumwater (tumwater-wa.municodemeetings.com). It offers no working
+#   feed (its RSS is empty) and its server drops connections from automated
+#   clients, so the "municode" connector in build.py is ready but unused.
+#   Ask the city for a feed or for the nightly reader to be allowed.
+#   School boards. Olympia School District posts agendas on BoardDocs, which
+#   tells all automated clients to stay out, and lists its meeting dates as
+#   plain text on osd.wednet.edu/board-meeting-schedule without times.
+#   North Thurston and Tumwater school districts are not inventoried yet.
