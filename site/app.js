@@ -55,15 +55,16 @@
     return d.toISOString().slice(0, 10);
   }
 
-  function visible() {
+  function visible(cat) {
     var from = todayKey(), to = addDays(from, state.days);
+    cat = cat || state.cat;
     return state.events.filter(function (e) {
       var key = e.start.slice(0, 10);
       if (key < from || key > to) return false;
-      if (state.cat !== 'all' && e.category !== state.cat) return false;
+      if (cat !== 'all' && e.category !== cat) return false;
       // Legislature meetings belong to everyone: they show statewide, and in a
       // county view when the "State Legislature" filter is on.
-      if (e.county === 'Statewide') return !state.county || state.cat === 'legislature';
+      if (e.county === 'Statewide') return !state.county || cat === 'legislature';
       if (state.county && e.county !== state.county) return false;
       if (state.city && e.area !== 'countywide' && e.area !== state.city) return false;
       return true;
@@ -182,8 +183,11 @@
 
     var lastKey = state.events.length ? state.events[state.events.length - 1].start.slice(0, 10) : from;
     $('more').hidden = to >= lastKey;
+    // Only offer filters that have meetings for this place right now.
     Array.prototype.forEach.call($('chips').children, function (b) {
-      b.setAttribute('aria-pressed', String(b.dataset.cat === state.cat));
+      var c = b.dataset.cat;
+      b.hidden = c !== 'all' && c !== state.cat && !visible(c).length;
+      b.setAttribute('aria-pressed', String(c === state.cat));
     });
   }
 
