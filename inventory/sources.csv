@@ -1,65 +1,65 @@
 Type,Jurisdiction,"Population (OFM April 1, 2025)",Meeting platform,Where we found it,Can CivicsWA read it?,Notes
-City,Seattle,816600,Legistar,seattle.legistar.com,Yes - existing connector,
+City,Seattle,816600,Legistar,seattle.legistar.com,Live on CivicsWA,
 City,Spokane,234700,Own website,my.spokanecity.org/citycouncil/meetings,Hand entry or custom reader,"City's own meeting pages, no feed found"
-City,Tacoma,228400,Legistar,cityoftacoma.legistar.com,Yes - existing connector,
-City,Vancouver,205100,CivicClerk,vancouverwa.portal.civicclerk.com,Yes - existing connector,
-City,Bellevue,158000,Legistar,bellevue.legistar.com,Yes - existing connector,
-City,Kent,140100,Granicus govAccess site calendar,kentwa.gov city calendar,"Probably - existing connector, needs a check",Same city-calendar feed type as Tumwater; a PrimeGov account (kentwa) exists but lists nothing
-City,Everett,114700,CivicPlus,everettwa.gov Agenda Center and calendar,New connector needed,CivicPlus connector would also cover several counties
-City,Spokane Valley,110200,"CivicPlus calendar, Granicus video",spokanevalleywa.gov; agendas on spokanevalleywa.qscend.com,New connector needed,
-City,Renton,109700,PrimeGov,renton.primegov.com,New connector needed,PrimeGov's public meeting list answered when tested
+City,Tacoma,228400,Legistar,cityoftacoma.legistar.com,Live on CivicsWA,
+City,Vancouver,205100,CivicClerk,vancouverwa.portal.civicclerk.com,Live on CivicsWA,
+City,Bellevue,158000,Legistar,bellevue.legistar.com,Live on CivicsWA,
+City,Kent,140100,Granicus govAccess site calendar,kentwa.gov city calendar,Live on CivicsWA,Same city-calendar feed type as Tumwater; a PrimeGov account (kentwa) exists but lists nothing
+City,Everett,114700,CivicPlus,everettwa.gov Agenda Center and calendar,Blocked,Site refuses GitHub's servers (HTTP 403); left out
+City,Spokane Valley,110200,"CivicPlus calendar, Granicus video",spokanevalleywa.gov; agendas on spokanevalleywa.qscend.com,Live on CivicsWA,
+City,Renton,109700,PrimeGov,renton.primegov.com,Live on CivicsWA,PrimeGov's public meeting list answered when tested
 City,Federal Way,102900,Own website,federalwaywa.gov/page/meetings-and-agendas,Hand entry or custom reader,Documents in Laserfiche
 City,Yakima,100000,Granicus,yakimawa.granicus.com,New connector needed,
 City,Bellingham,98340,Own agenda portal,meetings.cob.org,New connector needed,Platform not confirmed
 City,Kirkland,97850,Own website,kirklandwa.gov council agendas page,Hand entry or custom reader,Granicus for video only
-City,Auburn,90320,CivicClerk,auburnwa.portal.civicclerk.com,Yes - existing connector,
-City,Kennewick,87790,CivicClerk,kennewickwa.portal.civicclerk.com,Yes - existing connector,
-City,Pasco,82990,CivicWeb (iCompass),pasco.civicweb.net,New connector needed,Also has a CivicPlus calendar feed
-City,Redmond,82380,Legistar,redmond.legistar.com,Yes - existing connector,
-City,Marysville,75640,CivicClerk,marysvillewa.portal.civicclerk.com,Yes - existing connector,
-City,Sammamish,68480,CivicWeb (iCompass),sammamishwa.civicweb.net,New connector needed,
-City,Richland,64930,CivicClerk,richlandwa.portal.civicclerk.com,Yes - existing connector,
-City,Lakewood,64670,"WordPress PDFs, public Google Calendar",cityoflakewood.us,"Probably - existing connector, needs a check",Google Calendar may offer a public iCal address
-City,Shoreline,63740,"Granicus, govAccess site calendar",shoreline.granicus.com; shorelinewa.gov calendar,"Probably - existing connector, needs a check",Same city-calendar feed type as Tumwater
+City,Auburn,90320,CivicClerk,auburnwa.portal.civicclerk.com,Live on CivicsWA,
+City,Kennewick,87790,CivicClerk,kennewickwa.portal.civicclerk.com,Live on CivicsWA,
+City,Pasco,82990,CivicWeb (iCompass),pasco.civicweb.net,Live on CivicsWA,Also has a CivicPlus calendar feed
+City,Redmond,82380,Legistar,redmond.legistar.com,Live on CivicsWA,
+City,Marysville,75640,CivicClerk,marysvillewa.portal.civicclerk.com,Live on CivicsWA,
+City,Sammamish,68480,CivicWeb (iCompass),sammamishwa.civicweb.net,Live on CivicsWA,
+City,Richland,64930,CivicClerk,richlandwa.portal.civicclerk.com,Live on CivicsWA,
+City,Lakewood,64670,"WordPress PDFs, public Google Calendar",cityoflakewood.us,Live on CivicsWA,Google Calendar may offer a public iCal address
+City,Shoreline,63740,"Granicus, govAccess site calendar",shoreline.granicus.com; shorelinewa.gov calendar,Blocked,Site refuses GitHub's servers (HTTP 403); left out
 City,Lacey,60835,CivicClerk,laceywa.portal.civicclerk.com,Live on CivicsWA,
 City,Olympia,57970,Legistar,olympia.legistar.com,Live on CivicsWA,
-City,Burien,53320,CivicWeb (iCompass),burienwa.civicweb.net,New connector needed,
-County,Adams County,,CivicClerk,adamscowa.portal.civicclerk.com,Yes - existing connector,
-County,Asotin County,,CivicPlus,asotincountywa.gov Agenda Center,New connector needed,
-County,Benton County,,CivicClerk,bentoncowa.portal.civicclerk.com,Yes - existing connector,
+City,Burien,53320,CivicWeb (iCompass),burienwa.civicweb.net,Live on CivicsWA,
+County,Adams County,,CivicClerk,adamscowa.portal.civicclerk.com,Live on CivicsWA,
+County,Asotin County,,CivicPlus,asotincountywa.gov Agenda Center,Live on CivicsWA,
+County,Benton County,,CivicClerk,bentoncowa.portal.civicclerk.com,Live on CivicsWA,
 County,Chelan County,,PDFs on county website,co.chelan.wa.us,Hand entry or custom reader,
-County,Clallam County,,CivicClerk,clallamcowa.portal.civicclerk.com,Yes - existing connector,
-County,Clark County,,Legistar,clark.legistar.com,Yes - existing connector,
-County,Columbia County,,CivicClerk,columbiacowa.portal.civicclerk.com,Yes - existing connector,
-County,Cowlitz County,,PDFs on county website and Issuu,cowlitzwa.gov,Hand entry or custom reader,
-County,Douglas County,,Not found,,Not confirmed,"A 'douglascounty' Legistar account exists but appears to be Douglas County, Colorado"
+County,Clallam County,,CivicClerk,clallamcowa.portal.civicclerk.com,Live on CivicsWA,
+County,Clark County,,Legistar,clark.legistar.com,Live on CivicsWA,
+County,Columbia County,,CivicClerk,columbiacowa.portal.civicclerk.com,Live on CivicsWA,
+County,Cowlitz County,,PDFs on county website and Issuu,cowlitzwa.gov,Live on CivicsWA,
+County,Douglas County,,Not found,,Live on CivicsWA,"A 'douglascounty' Legistar account exists but appears to be Douglas County, Colorado"
 County,Ferry County,,PDFs in county document center,ferry-county.com,Hand entry or custom reader,
-County,Franklin County,,PDFs on county website,franklincountywa.gov,Hand entry or custom reader,Agenda files follow a dated pattern
+County,Franklin County,,PDFs on county website,franklincountywa.gov,Live on CivicsWA,Agenda files follow a dated pattern
 County,Garfield County,,County website (Municode-built),garfieldcountywa.gov/bocc,Not confirmed,
-County,Grant County,,Not found,grantcountywa.gov,Not confirmed,
+County,Grant County,,Not found,grantcountywa.gov,Live on CivicsWA,
 County,Grays Harbor County,,County website (Revize),graysharbor.gov meetings and agendas,Hand entry or custom reader,
-County,Island County,,CivicPlus,islandcountywa.gov Agenda Center and calendar,New connector needed,CivicPlus calendar feed confirmed working
-County,Jefferson County,,Not found,co.jefferson.wa.us,Not confirmed,
-County,King County,,Legistar,kingcounty.legistar.com,Yes - existing connector,
+County,Island County,,CivicPlus,islandcountywa.gov Agenda Center and calendar,Live on CivicsWA,CivicPlus calendar feed confirmed working
+County,Jefferson County,,Not found,co.jefferson.wa.us,Live on CivicsWA,
+County,King County,,Legistar,kingcounty.legistar.com,Live on CivicsWA,
 County,Kitsap County,,Own SharePoint site,kitsap.gov eAgenda,Hand entry or custom reader,
 County,Kittitas County,,PDFs on county website,co.kittitas.wa.us,Hand entry or custom reader,Agenda files follow a dated pattern
-County,Klickitat County,,CivicClerk,klickitatcowa.portal.civicclerk.com,Yes - existing connector,
+County,Klickitat County,,CivicClerk,klickitatcowa.portal.civicclerk.com,Live on CivicsWA,
 County,Lewis County,,Own website agendas and calendar,lewiscountywa.gov commissioners agendas-calendar,Hand entry or custom reader,Check for a calendar feed
-County,Lincoln County,,Not found,,Not confirmed,
+County,Lincoln County,,Not found,,Live on CivicsWA,
 County,Mason County,,PDFs on county website,masoncountywa.gov,Hand entry or custom reader,
-County,Okanogan County,,PDFs (Revize),okanogancounty.org,Hand entry or custom reader,
-County,Pacific County,,CivicClerk,pacificcowa.portal.civicclerk.com,Yes - existing connector,Only Board of Health meetings listed so far
+County,Okanogan County,,PDFs (Revize),okanogancounty.org,Live on CivicsWA,
+County,Pacific County,,CivicClerk,pacificcowa.portal.civicclerk.com,Live on CivicsWA,Only Board of Health meetings listed so far
 County,Pend Oreille County,,County website (Municode-built),pendoreille.gov,Not confirmed,
-County,Pierce County,,CivicPlus,piercecountywa.gov Agenda Center and calendar,New connector needed,
-County,San Juan County,,CivicClerk,sanjuancowa.portal.civicclerk.com,Yes - existing connector,
+County,Pierce County,,CivicPlus,piercecountywa.gov Agenda Center and calendar,Live on CivicsWA,
+County,San Juan County,,CivicClerk,sanjuancowa.portal.civicclerk.com,Live on CivicsWA,
 County,Skagit County,,PDFs on county website,skagitcounty.net,Hand entry or custom reader,
 County,Skamania County,,Granicus govAccess site calendar,skamaniacounty.org agendas and calendar,"Probably - existing connector, needs a check",Same city-calendar feed type as Tumwater
-County,Snohomish County,,Legistar,snohomish.legistar.com,Yes - existing connector,
-County,Spokane County,,CivicClerk,spokanecowa.portal.civicclerk.com,Yes - existing connector,Also CivicPlus Agenda Center
+County,Snohomish County,,Legistar,snohomish.legistar.com,Live on CivicsWA,
+County,Spokane County,,CivicClerk,spokanecowa.portal.civicclerk.com,Live on CivicsWA,Also CivicPlus Agenda Center
 County,Stevens County,,PDFs (MunicipalOne),stevenscountywa.gov,Hand entry or custom reader,
 County,Thurston County,,Published Outlook calendar,thurstoncountywa.gov,Live on CivicsWA,
 County,Wahkiakum County,,Not found,,Not confirmed,
 County,Walla Walla County,,PDFs (Revize),co.walla-walla.wa.us,Hand entry or custom reader,
-County,Whatcom County,,Legistar,whatcom.legistar.com,Yes - existing connector,
-County,Whitman County,,CivicPlus,whitmancounty.gov Agenda Center,New connector needed,
-County,Yakima County,,CivicPlus,yakimacounty.us Agenda Center,New connector needed,A CivicClerk account exists but has no upcoming meetings
+County,Whatcom County,,Legistar,whatcom.legistar.com,Live on CivicsWA,
+County,Whitman County,,CivicPlus,whitmancounty.gov Agenda Center,Live on CivicsWA,
+County,Yakima County,,CivicPlus,yakimacounty.us Agenda Center,Live on CivicsWA,A CivicClerk account exists but has no upcoming meetings
