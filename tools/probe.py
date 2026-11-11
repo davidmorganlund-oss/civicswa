@@ -68,6 +68,14 @@ def probe(row):
     res["ics"] = sorted(set(re.findall(r'(?:href|src)="([^"]+(?:\.ics|ical=1|/ical/|webcal:[^"]+))"', blob, re.I)))[:6]
     res["wordpress"] = "wp-content" in blob
     res["finalsite"] = "fsElement" in blob or "finalsite" in blob.lower()
+    if res["finalsite"]:
+        root = f"{urlparse(final).scheme}://{host}"
+        ids = set(re.findall(r'data-calendar-ids="([\d,]+)"', blob))
+        if not ids:
+            s, _, cal = get(root + "/calendar")
+            if s and s < 400:
+                ids = set(re.findall(r'data-calendar-ids="([\d,]+)"', cal))
+        res["fs_calendars"] = {"root": root, "ids": sorted(ids)[:4]}
     if re.search(r"/AgendaCenter|CivicPlus|/Calendar\.aspx|/DocumentCenter", blob, re.I):
         root = f"{urlparse(final).scheme}://{host}"
         s, _, cal = get(root + "/iCalendar.aspx")
