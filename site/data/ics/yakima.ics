@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CivicsWA//Public meetings//EN
+X-WR-CALNAME:CivicsWA Yakima County
+BEGIN:VEVENT
+UID:49673d1ea97b@civicswa
+DTSTAMP:20261111T161333Z
+DTSTART;VALUE=DATE:20261123
+SUMMARY:Canvassing Board Meeting (Yakima County)
+LOCATION:<p>Election Processing Center\, Room B-16</p> - Yakima County Courthouse 128 N 2nd St Yakima WA 98901
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=54
+END:VEVENT
+END:VCALENDAR

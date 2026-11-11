@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CivicsWA//Public meetings//EN
+X-WR-CALNAME:CivicsWA Asotin County
+BEGIN:VEVENT
+UID:3d7602248631@civicswa
+DTSTAMP:20261111T161333Z
+DTSTART:20261116T170000Z
+DTEND:20261116T183000Z
+SUMMARY:County Commissioner Meeting (Asotin County)
+LOCATION:<p>Asotin County Annex Chambers</p> - 95 2nd Street Asotin WA 99402
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:73845ddf0d58@civicswa
+DTSTAMP:20261111T161333Z
+DTSTART:20261123T170000Z
+DTEND:20261123T183000Z
+SUMMARY:County Commissioner Meeting (Asotin County)
+LOCATION:<p>Asotin County Annex Chambers</p> - 95 2nd Street Asotin WA 99402
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:5c9023e05b5f@civicswa
+DTSTAMP:20261111T161333Z
+DTSTART:20261130T170000Z
+DTEND:20261130T183000Z
+SUMMARY:County Commissioner Meeting (Asotin County)
+LOCATION:<p>Asotin County Annex Chambers</p> - 95 2nd Street Asotin WA 99402
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:2e5481101f70@civicswa
+DTSTAMP:20261111T161333Z
+DTSTART:20261207T170000Z
+DTEND:20261207T183000Z
+SUMMARY:County Commissioner Meeting (Asotin County)
+LOCATION:<p>Asotin County Annex Chambers</p> - 95 2nd Street Asotin WA 99402
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:e178110b9b68@civicswa
+DTSTAMP:20261111T161333Z
+DTSTART:20261214T170000Z
+DTEND:20261214T183000Z
+SUMMARY:County Commissioner Meeting (Asotin County)
+LOCATION:<p>Asotin County Annex Chambers</p> - 95 2nd Street Asotin WA 99402
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:e5cf61a62b6c@civicswa
+DTSTAMP:20261111T161333Z
+DTSTART:20261222T023000Z
+DTEND:20261222T040000Z
+SUMMARY:County Commissioner Meeting (Asotin County)
+LOCATION:<p>Asotin County Annex Chambers</p> - 95 2nd Street Asotin WA 99402
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:dc93320ff308@civicswa
+DTSTAMP:20261111T161333Z
+DTSTART:20270104T170000Z
+DTEND:20270104T183000Z
+SUMMARY:County Commissioner Meeting (Asotin County)
+LOCATION:<p>Asotin County Annex Chambers</p> - 95 2nd Street Asotin WA 99402
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+END:VCALENDAR
