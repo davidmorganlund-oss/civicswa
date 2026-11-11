@@ -1,0 +1,393 @@
+sources:
+- id: anacortes
+  name: City of Anacortes
+  county: Skagit
+  area: Anacortes
+  type: civicclerk
+  tenant: anacorteswa
+  homepage: https://anacorteswa.portal.civicclerk.com/
+- id: bainbridge-island
+  name: City of Bainbridge Island
+  county: Kitsap
+  area: Bainbridge Island
+  type: civicclerk
+  tenant: bainbridgeislandwa
+  homepage: https://bainbridgeislandwa.portal.civicclerk.com/
+- id: benton-city
+  name: City of Benton City
+  county: Benton
+  area: Benton City
+  type: civicplus
+  site: https://www.ci.benton-city.wa.us
+  categories:
+  - 13102
+  - 13161
+  drop_uncategorized: true
+  homepage: https://www.ci.benton-city.wa.us/Calendar.aspx
+- id: castle-rock
+  name: City of Castle Rock
+  county: Cowlitz
+  area: Castle Rock
+  type: civicclerk
+  tenant: castlerockwa
+  homepage: https://castlerockwa.portal.civicclerk.com/
+- id: chelan
+  name: City of Chelan
+  county: Chelan
+  area: Chelan
+  type: civicclerk
+  tenant: chelanwa
+  homepage: https://chelanwa.portal.civicclerk.com/
+- id: cle-elum
+  name: City of Cle Elum
+  county: Kittitas
+  area: Cle Elum
+  type: civicclerk
+  tenant: cleelumwa
+  homepage: https://cleelumwa.portal.civicclerk.com/
+- id: clyde-hill
+  name: City of Clyde Hill
+  county: King
+  area: Clyde Hill
+  type: civicweb
+  tenant: clydehill
+  homepage: https://clydehill.civicweb.net/Portal/MeetingSchedule.aspx
+- id: college-place
+  name: City of College Place
+  county: Walla Walla
+  area: College Place
+  type: civicclerk
+  tenant: collegeplacewa
+  homepage: https://collegeplacewa.portal.civicclerk.com/
+- id: colville
+  name: City of Colville
+  county: Stevens
+  area: Colville
+  type: civicplus
+  site: https://www.colville.wa.us
+  categories:
+  - 13573
+  - 13563
+  - 13572
+  - 13570
+  - 13571
+  - 13569
+  - 13566
+  - 13568
+  - 13564
+  - 13565
+  drop_uncategorized: true
+  homepage: https://www.colville.wa.us/Calendar.aspx
+- id: concrete
+  name: City of Concrete
+  county: Skagit
+  area: Concrete
+  type: ics
+  url: https://calendar.google.com/calendar/ical/townofconcrete@gmail.com/public/basic.ics
+  homepage: https://www.townofconcrete.com/
+  drop_uncategorized: true
+- id: covington
+  name: City of Covington
+  county: King
+  area: Covington
+  type: primegov
+  tenant: covingtonwa
+  homepage: https://covingtonwa.primegov.com/public/portal
+- id: des-moines
+  name: City of Des Moines
+  county: King
+  area: Des Moines
+  type: civicclerk
+  tenant: desmoineswa
+  homepage: https://desmoineswa.portal.civicclerk.com/
+- id: dupont
+  name: City of DuPont
+  county: Pierce
+  area: DuPont
+  type: civicweb
+  tenant: dupont
+  homepage: https://dupont.civicweb.net/Portal/MeetingSchedule.aspx
+- id: edgewood
+  name: City of Edgewood
+  county: Pierce
+  area: Edgewood
+  type: civicclerk
+  tenant: edgewoodwa
+  homepage: https://edgewoodwa.portal.civicclerk.com/
+- id: edmonds
+  name: City of Edmonds
+  county: Snohomish
+  area: Edmonds
+  type: primegov
+  tenant: edmondswa
+  homepage: https://edmondswa.primegov.com/public/portal
+- id: ellensburg
+  name: City of Ellensburg
+  county: Kittitas
+  area: Ellensburg
+  type: civicclerk
+  tenant: ellensburgwa
+  homepage: https://ellensburgwa.portal.civicclerk.com/
+- id: everson
+  name: City of Everson
+  county: Whatcom
+  area: Everson
+  type: civicweb
+  tenant: cieversonwa
+  homepage: https://cieversonwa.civicweb.net/Portal/MeetingSchedule.aspx
+- id: ferndale
+  name: City of Ferndale
+  county: Whatcom
+  area: Ferndale
+  type: civicweb
+  tenant: ferndale
+  homepage: https://ferndale.civicweb.net/Portal/MeetingSchedule.aspx
+- id: friday-harbor
+  name: City of Friday Harbor
+  county: San Juan
+  area: Friday Harbor
+  type: civicclerk
+  tenant: fridayharborwa
+  homepage: https://fridayharborwa.portal.civicclerk.com/
+- id: gig-harbor
+  name: City of Gig Harbor
+  county: Pierce
+  area: Gig Harbor
+  type: civicclerk
+  tenant: gigharborwa
+  homepage: https://gigharborwa.portal.civicclerk.com/
+- id: kelso
+  name: City of Kelso
+  county: Cowlitz
+  area: Kelso
+  type: civicclerk
+  tenant: kelsowa
+  homepage: https://kelsowa.portal.civicclerk.com/
+- id: la-center
+  name: City of La Center
+  county: Clark
+  area: La Center
+  type: civicweb
+  tenant: lacenter
+  homepage: https://lacenter.civicweb.net/Portal/MeetingSchedule.aspx
+- id: lake-stevens
+  name: City of Lake Stevens
+  county: Snohomish
+  area: Lake Stevens
+  type: civicclerk
+  tenant: lakestevenswa
+  homepage: https://lakestevenswa.portal.civicclerk.com/
+- id: liberty-lake
+  name: City of Liberty Lake
+  county: Spokane
+  area: Liberty Lake
+  type: civicclerk
+  tenant: libertylakewa
+  homepage: https://libertylakewa.portal.civicclerk.com/
+- id: longview
+  name: City of Longview
+  county: Cowlitz
+  area: Longview
+  type: legistar
+  client: longview
+  homepage: https://longview.legistar.com/Calendar.aspx
+- id: lynden
+  name: City of Lynden
+  county: Whatcom
+  area: Lynden
+  type: civicclerk
+  tenant: lyndenwa
+  homepage: https://lyndenwa.portal.civicclerk.com/
+- id: mill-creek
+  name: City of Mill Creek
+  county: Snohomish
+  area: Mill Creek
+  type: civicweb
+  tenant: millcreek
+  homepage: https://millcreek.civicweb.net/Portal/MeetingSchedule.aspx
+- id: monroe
+  name: City of Monroe
+  county: Snohomish
+  area: Monroe
+  type: civicweb
+  tenant: monroewa
+  homepage: https://monroewa.civicweb.net/Portal/MeetingSchedule.aspx
+- id: mountlake-terrace
+  name: City of Mountlake Terrace
+  county: Snohomish
+  area: Mountlake Terrace
+  type: civicclerk
+  tenant: mountlaketerracewa
+  homepage: https://mountlaketerracewa.portal.civicclerk.com/
+- id: newcastle
+  name: City of Newcastle
+  county: King
+  area: Newcastle
+  type: civicweb
+  tenant: newcastle
+  homepage: https://newcastle.civicweb.net/Portal/MeetingSchedule.aspx
+- id: normandy-park
+  name: City of Normandy Park
+  county: King
+  area: Normandy Park
+  type: civicweb
+  tenant: normandypark
+  homepage: https://normandypark.civicweb.net/Portal/MeetingSchedule.aspx
+- id: north-bend
+  name: City of North Bend
+  county: King
+  area: North Bend
+  type: civicclerk
+  tenant: northbendwa
+  homepage: https://northbendwa.portal.civicclerk.com/
+- id: ocean-shores
+  name: City of Ocean Shores
+  county: Grays Harbor
+  area: Ocean Shores
+  type: civicweb
+  tenant: oceanshores
+  homepage: https://oceanshores.civicweb.net/Portal/MeetingSchedule.aspx
+- id: othello
+  name: City of Othello
+  county: Adams
+  area: Othello
+  type: civicweb
+  base: https://othellowa.community.diligentoneplatform.com
+  homepage: https://othellowa.community.diligentoneplatform.com/Portal/
+- id: port-orchard
+  name: City of Port Orchard
+  county: Kitsap
+  area: Port Orchard
+  type: civicclerk
+  tenant: portorchardwa
+  homepage: https://portorchardwa.portal.civicclerk.com/
+- id: prosser
+  name: City of Prosser
+  county: Benton
+  area: Prosser
+  type: civicclerk
+  tenant: prosserwa
+  homepage: https://prosserwa.portal.civicclerk.com/
+- id: pullman
+  name: City of Pullman
+  county: Whitman
+  area: Pullman
+  type: civicweb
+  base: https://pullman-wa.community.diligentoneplatform.com
+  homepage: https://pullman-wa.community.diligentoneplatform.com/Portal/
+- id: quincy
+  name: City of Quincy
+  county: Grant
+  area: Quincy
+  type: civicweb
+  tenant: quincy
+  homepage: https://quincy.civicweb.net/Portal/MeetingSchedule.aspx
+- id: ridgefield
+  name: City of Ridgefield
+  county: Clark
+  area: Ridgefield
+  type: civicclerk
+  tenant: ridgefieldwa
+  homepage: https://ridgefieldwa.portal.civicclerk.com/
+- id: sedro-woolley
+  name: City of Sedro-Woolley
+  county: Skagit
+  area: Sedro-Woolley
+  type: civicclerk
+  tenant: sedrowoolleywa
+  homepage: https://sedrowoolleywa.portal.civicclerk.com/
+- id: sequim
+  name: City of Sequim
+  county: Clallam
+  area: Sequim
+  type: civicweb
+  tenant: sequimwa
+  homepage: https://sequimwa.civicweb.net/Portal/MeetingSchedule.aspx
+- id: snoqualmie
+  name: City of Snoqualmie
+  county: King
+  area: Snoqualmie
+  type: civicclerk
+  tenant: snoqualmiewa
+  homepage: https://snoqualmiewa.portal.civicclerk.com/
+- id: south-bend
+  name: City of South Bend
+  county: Pacific
+  area: South Bend
+  type: ics
+  url: https://calendar.google.com/calendar/ical/Y2l0eW9mc291dGhiZW5kMTg5MEBnbWFpbC5jb20/public/basic.ics
+  homepage: https://southbend-wa.gov/
+  drop_uncategorized: true
+- id: stanwood
+  name: City of Stanwood
+  county: Snohomish
+  area: Stanwood
+  type: civicclerk
+  tenant: stanwoodwa
+  homepage: https://stanwoodwa.portal.civicclerk.com/
+- id: stevenson
+  name: City of Stevenson
+  county: Skamania
+  area: Stevenson
+  type: civicclerk
+  tenant: stevensonwa
+  homepage: https://stevensonwa.portal.civicclerk.com/
+- id: sultan
+  name: City of Sultan
+  county: Snohomish
+  area: Sultan
+  type: civicweb
+  base: https://sultan.community.diligentoneplatform.com
+  homepage: https://sultan.community.diligentoneplatform.com/Portal/
+- id: sumner
+  name: City of Sumner
+  county: Pierce
+  area: Sumner
+  type: civicclerk
+  tenant: sumnerwa
+  homepage: https://sumnerwa.portal.civicclerk.com/
+- id: sunnyside
+  name: City of Sunnyside
+  county: Yakima
+  area: Sunnyside
+  type: primegov
+  tenant: sunnyside
+  homepage: https://sunnyside.primegov.com/public/portal
+- id: washougal
+  name: City of Washougal
+  county: Clark
+  area: Washougal
+  type: civicclerk
+  tenant: washougalwa
+  homepage: https://washougalwa.portal.civicclerk.com/
+- id: wilson-creek
+  name: City of Wilson Creek
+  county: Grant
+  area: Wilson Creek
+  type: ics
+  url: https://calendar.google.com/calendar/ical/MDJlOTFmNTJkY2E0MThkMWVkOWVhNDllNzZmNjlmNTk0MTFkMjBiZTVkNjBhNTE0OWY0OGEwZDdhNDhiOGVhN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t/public/basic.ics
+  homepage: https://www.wilsoncreekwa.com/
+  drop_uncategorized: true
+- id: kittitas-county-public-library
+  name: Kittitas County Public Library
+  county: Kittitas
+  area: countywide
+  category: library
+  type: civicplus
+  site: https://www.ellensburglibrary.org
+  categories:
+  - 62
+  - 39
+  drop_uncategorized: true
+  homepage: https://www.ellensburglibrary.org/Calendar.aspx
+- id: longview-public-library
+  name: Longview Public Library
+  county: Cowlitz
+  area: countywide
+  category: library
+  type: civicplus
+  site: https://www.longviewlibrary.org
+  categories:
+  - 26
+  drop_uncategorized: true
+  homepage: https://www.longviewlibrary.org/Calendar.aspx
