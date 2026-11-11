@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths-ignore: ["site/data/**", "README.md"]
+    paths-ignore: ["site/data/**", "README.md", "tools/**", ".github/workflows/probe.yml", ".github/workflows/trial.yml"]
 
 permissions:
   contents: write
@@ -47,6 +47,8 @@ jobs:
           git config user.email "civicswa-bot@users.noreply.github.com"
           git add site/data
           git diff --cached --quiet || git commit -m "Refresh calendar data"
+          # Someone may have pushed while this ran; data files are ours, so rebase onto theirs.
+          git pull --rebase -X theirs origin main || git pull --rebase origin main
           git push
       - uses: actions/upload-pages-artifact@v3
         with:
