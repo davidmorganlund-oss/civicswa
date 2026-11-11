@@ -280,3 +280,33 @@ def test_legislature_committees():
       <ItemDescription>2027 Session Budget Preview.</ItemDescription></CommitteeMeetingItem></ArrayOfCommitteeMeetingItem>"""
     got, hearing = build.wsl_items(items)
     assert got == ["Public Hearing: HB 1001 – Concerning library hours", "2027 Session Budget Preview"] and hearing
+
+
+def test_diligent_school_board_portal():
+    src = {"id": "lwsd", "name": "Lake Washington School District", "area": "Redmond", "county": "King",
+           "type": "civicweb", "base": "https://lwsd.community.highbond.com", "category": "school",
+           "exclude": "potential quorum"}
+    rows = [{"Id": 1008, "Name": "Board Meeting - January 25, 2027", "MeetingDateTime": "2027-01-25 19:00",
+             "MeetingLocation": "L. E. Scarr Resource Center; Board Room"},
+            {"Id": 9, "Name": "Notice of Potential Quorum  - Nov 05 2026", "MeetingDateTime": "2026-11-05 16:30"},
+            {"Id": 10, "Name": "Regular Board of Directors' Meeting - Jan 26, 2027",
+             "MeetingDateTime": "2027-01-26 17:30"}]
+    events = build.apply_source_rules(src, build.normalize_civicweb(src, rows, TZ))
+    assert [e["title"] for e in events] == ["Board Meeting", "Regular Board of Directors' Meeting"]
+    assert events[0]["url"] == "https://lwsd.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&Id=1008"
+    assert {e["category"] for e in events} == {"school"}
+
+
+def test_schedule_date_list():
+    src = {"id": "osd", "name": "Olympia School District", "area": "Olympia",
+           "meetings": [{"title": "School Board Regular Meeting", "time": "18:30",
+                         "dates": ["2026-11-12", "2026-12-10", "2027-01-14"]}]}
+    events = build.fetch_schedule(src, date(2026, 11, 11), date(2026, 12, 31), TZ)
+    assert [e["start"][:16] for e in events] == ["2026-11-12T18:30", "2026-12-10T18:30"]
+
+
+def test_include_keeps_board_meetings_only():
+    src = {"id": "everett-sd", "name": "Everett Public Schools", "area": "Everett", "include": r"\bboard\b"}
+    rows = [build.make_event(src, title=t, start=build.datetime(2026, 12, 1, 18, 0, tzinfo=TZ))
+            for t in ["School board meeting", "Winter break"]]
+    assert [e["title"] for e in build.apply_source_rules(src, rows)] == ["School board meeting"]

@@ -580,8 +580,19 @@ def fetch_primegov(src, start_day, end_day, tz):
 
 # --- CivicWeb (iCompass) portals: the meeting schedule's JSON service ---
 
+# Names end with the date in one of several forms: "- Dec 17 2026",
+# "- 17 Dec 2026", "- Jan 26, 2027", "- November 16, 2026".
+CIVICWEB_DATE = re.compile(r"\s*-\s*(?:\d{1,2} [A-Z][a-z]{2} \d{4}|[A-Z][a-z]+\.? \d{1,2},? \d{4})\s*$")
+
+
+def civicweb_base(src):
+    # Diligent Community portals (school boards) run the same software as
+    # CivicWeb under their own host names.
+    return (src.get("base") or f"https://{src['tenant']}.civicweb.net").rstrip("/")
+
+
 def normalize_civicweb(src, rows, tz):
-    tenant = src["tenant"]
+    base = civicweb_base(src)
     events = []
     for r in rows:
         raw = r.get("MeetingDateTime") or ""
@@ -589,18 +600,18 @@ def normalize_civicweb(src, rows, tz):
             continue
         start = datetime.strptime(raw[:16], "%Y-%m-%d %H:%M").replace(tzinfo=tz)
         # Names end with the date ("Planning Commission - Dec 17 2026"); the site shows its own.
-        name = re.sub(r"\s*-\s*\d{1,2} [A-Z][a-z]{2} \d{4}$|\s*-\s*[A-Z][a-z]{2} \d{1,2} \d{4}$", "", r.get("Name") or "")
+        name = CIVICWEB_DATE.sub("", r.get("Name") or "").strip()
         events.append(make_event(
             src, title=name or "Public meeting", start=start,
             location=r.get("MeetingLocation") or "",
-            url=f"https://{tenant}.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id={r.get('Id')}",
+            url=f"{base}/Portal/MeetingInformation.aspx?Org=Cal&Id={r.get('Id')}",
             uid=str(r.get("Id", "")),
         ))
     return events
 
 
 def fetch_civicweb(src, start_day, end_day, tz):
-    rows = get(f"https://{src['tenant']}.civicweb.net/Services/MeetingsService.svc/meetings",
+    rows = get(f"{civicweb_base(src)}/Services/MeetingsService.svc/meetings",
                {"from": start_day.isoformat(), "to": end_day.isoformat(), "loadmore": "false"}).json()
     return normalize_civicweb(src, rows, tz)
 
@@ -637,7 +648,8 @@ def fetch_spokane_council(src, start_day, end_day, tz):
 
 
 # --- Regular schedules entered by hand ("2nd and 4th Wednesday, 2 p.m.") ---
-# For public bodies that publish a standing schedule but no feed. Each event
+# For public bodies that publish a standing schedule but no feed: either a
+# rule ("when") or the adopted list of dates ("dates"). Each event
 # says it comes from the regular schedule, so people check before they go.
 
 WEEKDAYS = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
@@ -673,7 +685,14 @@ def fetch_schedule(src, start_day, end_day, tz):
         end = None
         if mtg.get("end"):
             eh, em = (int(x) for x in mtg["end"].split(":"))
-        for day in schedule_dates(mtg["when"], start_day, end_day):
+        if mtg.get("dates"):
+            # An adopted list of meeting dates, for bodies whose schedule
+            # doesn't follow one rule.
+            days = [d if isinstance(d, date) else date.fromisoformat(str(d)) for d in mtg["dates"]]
+            days = [d for d in days if start_day <= d <= end_day]
+        else:
+            days = schedule_dates(mtg["when"], start_day, end_day)
+        for day in days:
             if day.month in mtg.get("skip_months", []):
                 continue
             start = datetime.combine(day, time(hh, mm), tz)
@@ -808,11 +827,25 @@ def write_ics(events, path: Path, stamp: datetime, name: str = "Washington"):
 def apply_source_rules(src, events):
     """Per-source tidying set in sources.yml.
 
+    include / exclude: keep only, or drop, events whose titles match a pattern
+      (a district calendar that also carries school holidays and concerts).
+    category: file everything from this source under one category (a school
+      board's "Regular Meeting" doesn't say "school"); hearings stay hearings.
     drop_uncategorized: leave out anything that doesn't read as a meeting or
       hearing (office closures, conferences, staff events on a shared calendar).
     default_category: for feeds that only carry meetings, file the ones whose
       names don't say so (e.g. "LEOFF 1") under this category.
     """
+    if src.get("include"):
+        keep = re.compile(src["include"], re.I)
+        events = [e for e in events if keep.search(e["title"])]
+    if src.get("exclude"):
+        drop = re.compile(src["exclude"], re.I)
+        events = [e for e in events if not drop.search(e["title"])]
+    if src.get("category"):
+        for e in events:
+            if e["category"] != "hearing":
+                e["category"] = src["category"]
     if src.get("default_category"):
         for e in events:
             if e["category"] == "other":

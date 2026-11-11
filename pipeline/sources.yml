@@ -598,6 +598,129 @@ sources:
     drop_uncategorized: true
     homepage: https://www.yakimacounty.us/Calendar.aspx
 
+  # ---------- School boards ----------
+  # Many Washington districts publish board meetings on Diligent Community
+  # portals, which run the same software as CivicWeb, so they use that
+  # connector with the portal's own address. Districts that publish only
+  # on BoardDocs are left out (see the note at the end of this file).
+
+  - id: seattle-schools
+    name: Seattle Public Schools
+    type: civicweb
+    base: https://seattlepublicschools.community.diligentoneplatform.com
+    county: King
+    area: Seattle
+    category: school
+    homepage: https://www.seattleschools.org/about/school-board/meetings/
+
+  - id: bellevue-schools
+    name: Bellevue School District
+    type: civicweb
+    base: https://bsd405.community.diligentoneplatform.com
+    county: King
+    area: Bellevue
+    category: school
+    exclude: potential quorum   # notices that several directors may attend an event
+    homepage: https://www.bsd405.org/about-us/school-board
+
+  - id: lake-washington-schools
+    name: Lake Washington School District
+    type: civicweb
+    base: https://lwsd.community.highbond.com
+    county: King
+    area: Redmond   # serves Redmond, Kirkland and part of Sammamish; board meets in Redmond
+    category: school
+    homepage: https://www.lwsd.org/about/school-board
+
+  - id: highline-schools
+    name: Highline Public Schools
+    type: ics
+    url: https://www.highlineschools.org/fs/calendar-manager/events.ics?calendar_ids[]=53&calendar_ids[]=54&calendar_ids[]=46&calendar_ids[]=48&calendar_ids[]=43&calendar_ids[]=42
+    county: King
+    area: Burien   # serves Burien, SeaTac, Normandy Park and White Center
+    include: school board
+    category: school
+    homepage: https://www.highlineschools.org/about/school-board
+
+  - id: tacoma-schools
+    name: Tacoma Public Schools
+    type: schedule
+    county: Pierce
+    area: Tacoma
+    category: school
+    homepage: https://www.tacomaschools.org/about/school-board/attend
+    meetings:
+      - title: School Board Meeting
+        when: 2nd, 4th Thursday
+        time: "18:00"
+        skip_months: [7, 8, 12]
+        location: "Professional Development Center, 6501 N. 23rd St., Tacoma"
+        url: https://www.tacomaschools.org/about/school-board/attend
+        note: "In July, August and December the board meets once a month; check the district's page for that date."
+
+  - id: bethel-schools
+    name: Bethel School District
+    type: civicweb
+    base: https://bethelsd.community.diligentoneplatform.com
+    county: Pierce
+    area: Spanaway
+    category: school
+    homepage: https://www.bethelsd.org/
+
+  - id: evergreen-schools
+    name: Evergreen Public Schools
+    type: civicweb
+    base: https://evergreenps.community.diligentoneplatform.com
+    county: Clark
+    area: Vancouver
+    category: school
+    homepage: https://www.evergreenps.org/
+
+  - id: everett-schools
+    name: Everett Public Schools
+    type: ics
+    url: https://www.everettsd.org/fs/calendar-manager/events.ics?calendar_ids[]=65
+    county: Snohomish
+    area: Everett
+    include: \bboard\b
+    category: school
+    homepage: https://www.everettsd.org/about-us/school-board
+
+  - id: olympia-schools
+    name: Olympia School District
+    type: schedule
+    county: Thurston
+    area: Olympia
+    category: school
+    homepage: https://www.osd.wednet.edu/board-meeting-schedule
+    meetings:
+      - title: School Board Regular Meeting
+        time: "18:30"
+        location: "Knox 111 Administrative Center Boardroom, 111 Bethel St. NE, Olympia"
+        url: https://www.osd.wednet.edu/board-meeting-schedule
+        note: "Dates are the board's adopted 2026-27 list. Public comment is taken at regular meetings."
+        dates: [2026-11-12, 2026-12-10, 2027-01-14, 2027-01-28, 2027-02-11, 2027-02-25,
+                2027-03-11, 2027-03-25, 2027-04-22, 2027-05-13, 2027-05-27, 2027-06-10,
+                2027-06-24, 2027-07-15, 2027-08-12, 2027-08-26]
+
+  - id: north-thurston-schools
+    name: North Thurston Public Schools
+    type: ics
+    url: https://www.ntps.org/fs/calendar-manager/events.ics?calendar_ids[]=3
+    county: Thurston
+    area: Lacey
+    category: school
+    homepage: https://www.ntps.org/about/school-board/calendar
+
+  - id: tumwater-schools
+    name: Tumwater School District
+    type: civicweb
+    base: https://tumwaterk12.community.diligentoneplatform.com
+    county: Thurston
+    area: Tumwater
+    category: school
+    homepage: https://www.tumwater.k12.wa.us/leadership/board-of-directors/school-board-meetings
+
 # Not connected yet:
 #   Clark County, WA. The Legistar account named "clark" turned out to be
 #   Clark County, Nevada, so it was removed. Clark County, WA posts meetings
@@ -607,7 +730,7 @@ sources:
 #   rather than worked around.
 #   Tumwater's separate meetings portal (tumwater-wa.municodemeetings.com) has
 #   agendas, but its server refuses automated readers, so it is not used.
-#   School boards. Olympia School District posts agendas on BoardDocs, which
-#   tells all automated clients to stay out, and lists its meeting dates as
-#   plain text on osd.wednet.edu/board-meeting-schedule without times.
-#   North Thurston and Tumwater school districts are not inventoried yet.
+#   School boards on BoardDocs only: BoardDocs tells all automated clients to
+#   stay out, so these districts are not read there. Olympia and Everett are
+#   covered from their own district sites instead. Still without a source:
+#   Northshore, Puyallup, Federal Way, Edmonds and Kent.
