@@ -154,3 +154,24 @@ def test_city_calendar_feed_titles():
     assert council["end"] == "2026-11-17T22:00:00-08:00" and council["category"] == "council"
     assert leoff["title"] == "LEOFF 1" and leoff["cancelled"] and leoff["start"].startswith("2026-11-12T11:00")
     assert holiday["all_day"] and holiday["title"] == "Veterans' Day - city offices closed"
+
+
+def test_officials_parsers():
+    import officials
+    from datetime import date as d
+    assert officials.biennium_for(d(2026, 11, 11)) == "2025-26"
+    assert officials.biennium_for(d(2027, 1, 12)) == "2027-28"
+    xml = """<ArrayOfMember xmlns="http://WSLWebServices.leg.wa.gov/">
+      <Member><Id>1</Id><Name>Pat Example</Name><Agency>House</Agency><Party>R</Party><District>20</District>
+        <Phone>(360) 555-0100</Phone><Email>pat@example.org</Email></Member>
+      <Member><Id>2</Id><Name>Sam Sample</Name><Agency>Senate</Agency><Party>D</Party><District>20</District></Member>
+    </ArrayOfMember>"""
+    leg = officials.parse_legislators(xml)
+    assert leg["20"]["house"][0] == {"name": "Pat Example", "party": "Republican",
+                                     "phone": "(360) 555-0100", "email": "pat@example.org"}
+    assert leg["20"]["senate"][0]["party"] == "Democrat"
+    rows = [{"name": {"official_full": "A Senator"}, "terms": [{"type": "sen", "state": "WA", "party": "Democrat"}]},
+            {"name": {"first": "B", "last": "Rep"}, "terms": [{"type": "rep", "state": "WA", "district": 10}]},
+            {"name": {"official_full": "Other"}, "terms": [{"type": "rep", "state": "OR", "district": 1}]}]
+    c = officials.parse_congress(rows)
+    assert c["senators"][0]["name"] == "A Senator" and c["house"]["10"]["name"] == "B Rep" and len(c["house"]) == 1

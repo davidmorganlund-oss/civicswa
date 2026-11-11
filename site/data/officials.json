@@ -1,0 +1,1296 @@
+{
+ "generated": "2026-11-11T00:23:15-08:00",
+ "biennium": "2025-26",
+ "legislators": {
+  "20": {
+   "senate": [
+    {
+     "name": "John Braun",
+     "party": "Republican",
+     "phone": "(360) 786-7638",
+     "email": "John.Braun@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Ed Orcutt",
+     "party": "Republican",
+     "phone": "(360) 786-7990",
+     "email": "ed.orcutt@leg.wa.gov"
+    },
+    {
+     "name": "Peter Abbarno",
+     "party": "Republican",
+     "phone": "(360) 786-7896",
+     "email": "Peter.Abbarno@leg.wa.gov"
+    }
+   ]
+  },
+  "7": {
+   "senate": [
+    {
+     "name": "Shelly Short",
+     "party": "Republican",
+     "phone": "(360) 786-7612",
+     "email": "shelly.short@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Andrew Engell",
+     "party": "Republican",
+     "phone": "(360) 786-7908",
+     "email": "Andrew.Engell@leg.wa.gov"
+    },
+    {
+     "name": "Hunter Abell",
+     "party": "Republican",
+     "phone": "(360) 786-7988",
+     "email": "Hunter.Abell@leg.wa.gov"
+    }
+   ]
+  },
+  "34": {
+   "senate": [
+    {
+     "name": "Emily Alvarado",
+     "party": "Democrat",
+     "phone": "(360) 786-7667",
+     "email": "Emily.Alvarado@leg.wa.gov"
+    },
+    {
+     "name": "Joe Nguyen",
+     "party": "Democrat",
+     "phone": "(360) 786-7667",
+     "email": "joe.nguyen@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Brianna Thomas",
+     "party": "Democrat",
+     "phone": "(360) 786-7978",
+     "email": "THOMAS_BR@leg.wa.gov"
+    },
+    {
+     "name": "Emily Alvarado",
+     "party": "Democrat",
+     "phone": "(360) 786-7978",
+     "email": "Emily.Alvarado@leg.wa.gov"
+    },
+    {
+     "name": "Joe Fitzgibbon",
+     "party": "Democrat",
+     "phone": "(360) 786-7952",
+     "email": "joe.fitzgibbon@leg.wa.gov"
+    }
+   ]
+  },
+  "2": {
+   "senate": [
+    {
+     "name": "Jim McCune",
+     "party": "Republican",
+     "phone": "(360) 786-7602",
+     "email": "jim.mccune@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Andrew Barkis",
+     "party": "Republican",
+     "phone": "(360) 786-7824",
+     "email": "andrew.barkis@leg.wa.gov"
+    },
+    {
+     "name": "Matt Marshall",
+     "party": "Republican",
+     "phone": "(360) 786-7912",
+     "email": "Matt.Marshall@leg.wa.gov"
+    }
+   ]
+  },
+  "8": {
+   "senate": [
+    {
+     "name": "Matt Boehnke",
+     "party": "Republican",
+     "phone": "(360) 786-7614",
+     "email": "matt.boehnke@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "April Connors",
+     "party": "Republican",
+     "phone": "(360) 786-7882",
+     "email": "April.Connors@leg.wa.gov"
+    },
+    {
+     "name": "Stephanie Barnard",
+     "party": "Republican",
+     "phone": "(360) 786-7986",
+     "email": "Stephanie.Barnard@leg.wa.gov"
+    }
+   ]
+  },
+  "44": {
+   "senate": [
+    {
+     "name": "John Lovick",
+     "party": "Democrat",
+     "phone": "(360) 786-7686",
+     "email": "john.lovick@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "April Berg",
+     "party": "Democrat",
+     "phone": "(360) 786-7892",
+     "email": "April.Berg@leg.wa.gov"
+    },
+    {
+     "name": "Brandy Donaghy",
+     "party": "Democrat",
+     "phone": "(360) 786-7804",
+     "email": "Brandy.Donaghy@leg.wa.gov"
+    }
+   ]
+  },
+  "11": {
+   "senate": [
+    {
+     "name": "Bob Hasegawa",
+     "party": "Democrat",
+     "phone": "(360) 786-7616",
+     "email": "bob.hasegawa@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "David Hackney",
+     "party": "Democrat",
+     "phone": "(360) 786-7956",
+     "email": "David.Hackney@leg.wa.gov"
+    },
+    {
+     "name": "Steve Bergquist",
+     "party": "Democrat",
+     "phone": "(360) 786-7862",
+     "email": "steve.bergquist@leg.wa.gov"
+    }
+   ]
+  },
+  "24": {
+   "senate": [
+    {
+     "name": "Mike Chapman",
+     "party": "Democrat",
+     "phone": "(360) 786-7646",
+     "email": "mike.chapman@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Adam Bernbaum",
+     "party": "Democrat",
+     "phone": "(360) 786-7916",
+     "email": "BERNBAUM_AD@leg.wa.gov"
+    },
+    {
+     "name": "Steve Tharinger",
+     "party": "Democrat",
+     "phone": "(360) 786-7904",
+     "email": "steve.tharinger@leg.wa.gov"
+    }
+   ]
+  },
+  "36": {
+   "senate": [
+    {
+     "name": "Noel Frame",
+     "party": "Democrat",
+     "phone": "(360) 786-7670",
+     "email": "noel.frame@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Julia Reed",
+     "party": "Democrat",
+     "phone": "(360) 786-7814",
+     "email": "Julia.Reed@leg.wa.gov"
+    },
+    {
+     "name": "Liz Berry",
+     "party": "Democrat",
+     "phone": "(360) 786-7860",
+     "email": "Liz.Berry@leg.wa.gov"
+    }
+   ]
+  },
+  "28": {
+   "senate": [
+    {
+     "name": "T'wina Nobles",
+     "party": "Democrat",
+     "phone": "(360) 786-7654",
+     "email": "T'wina.Nobles@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Chris Kilduff",
+     "party": "Democrat",
+     "phone": "(360) 786-7174",
+     "email": "KILDUFF_CH@leg.wa.gov"
+    },
+    {
+     "name": "Dan Bronoske",
+     "party": "Democrat",
+     "phone": "(360) 786-7958",
+     "email": "Dan.Bronoske@leg.wa.gov"
+    },
+    {
+     "name": "Mari Leavitt",
+     "party": "Democrat",
+     "phone": "(360) 786-7890",
+     "email": "mari.leavitt@leg.wa.gov"
+    }
+   ]
+  },
+  "12": {
+   "senate": [
+    {
+     "name": "Keith Goehner",
+     "party": "Republican",
+     "phone": "(360) 786-7622",
+     "email": "keith.goehner@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Brian Burnett",
+     "party": "Republican",
+     "phone": "(360) 786-7954",
+     "email": "Brian.Burnett@leg.wa.gov"
+    },
+    {
+     "name": "Mike Steele",
+     "party": "Republican",
+     "phone": "(360) 786-7832",
+     "email": "mike.steele@leg.wa.gov"
+    }
+   ]
+  },
+  "5": {
+   "senate": [
+    {
+     "name": "Bill Ramos",
+     "party": "Democrat",
+     "phone": "(360) 786-7608",
+     "email": "bill.ramos@leg.wa.gov"
+    },
+    {
+     "name": "Victoria Hunt",
+     "party": "Democrat",
+     "phone": "(360) 786-7608",
+     "email": "Victoria.Hunt@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Lisa Callan",
+     "party": "Democrat",
+     "phone": "(360) 786-7876",
+     "email": "Lisa.Callan@leg.wa.gov"
+    },
+    {
+     "name": "Victoria Hunt",
+     "party": "Democrat",
+     "phone": "(360) 786-7852",
+     "email": "Victoria.Hunt@leg.wa.gov"
+    },
+    {
+     "name": "Zach Hall",
+     "party": "Democrat",
+     "phone": "(360) 786-7852",
+     "email": "HALL_ZA@leg.wa.gov"
+    }
+   ]
+  },
+  "4": {
+   "senate": [
+    {
+     "name": "Leonard Christian",
+     "party": "Republican",
+     "phone": "(360) 786-7606",
+     "email": "leonard.christian@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Rob Chase",
+     "party": "Republican",
+     "phone": "(360) 786-7984",
+     "email": "Rob.Chase@leg.wa.gov"
+    },
+    {
+     "name": "Suzanne Schmidt",
+     "party": "Republican",
+     "phone": "(360) 786-7820",
+     "email": "Suzanne.Schmidt@leg.wa.gov"
+    }
+   ]
+  },
+  "15": {
+   "senate": [
+    {
+     "name": "Nikki Torres",
+     "party": "Republican",
+     "phone": "(360) 786-7684",
+     "email": "Nikki.Torres@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Chris Corry",
+     "party": "Republican",
+     "phone": "(360) 786-7810",
+     "email": "chris.corry@leg.wa.gov"
+    },
+    {
+     "name": "Jeremie Dufault",
+     "party": "Republican",
+     "phone": "(360) 786-7874",
+     "email": "DUFAULT_JE@leg.wa.gov"
+    }
+   ]
+  },
+  "38": {
+   "senate": [
+    {
+     "name": "June Robinson",
+     "party": "Democrat",
+     "phone": "(360) 786-7674",
+     "email": "june.robinson@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Julio Cortes",
+     "party": "Democrat",
+     "phone": "(360) 786-7840",
+     "email": "Julio.Cortes@leg.wa.gov"
+    },
+    {
+     "name": "Mary Fosse",
+     "party": "Democrat",
+     "phone": "(360) 786-7864",
+     "email": "Mary.Fosse@leg.wa.gov"
+    }
+   ]
+  },
+  "35": {
+   "senate": [
+    {
+     "name": "Drew MacEwen",
+     "party": "Republican",
+     "phone": "(360) 786-7668",
+     "email": "drew.macewen@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Dan Griffey",
+     "party": "Republican",
+     "phone": "(360) 786-7966",
+     "email": "dan.griffey@leg.wa.gov"
+    },
+    {
+     "name": "Travis Couture",
+     "party": "Republican",
+     "phone": "(360) 786-7902",
+     "email": "Travis.Couture@leg.wa.gov"
+    }
+   ]
+  },
+  "32": {
+   "senate": [
+    {
+     "name": "Jesse Salomon",
+     "party": "Democrat",
+     "phone": "(360) 786-7662",
+     "email": "jesse.salomon@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Cindy Ryu",
+     "party": "Democrat",
+     "phone": "(360) 786-7880",
+     "email": "cindy.ryu@leg.wa.gov"
+    },
+    {
+     "name": "Lauren Davis",
+     "party": "Democrat",
+     "phone": "(360) 786-7910",
+     "email": "lauren.davis@leg.wa.gov"
+    }
+   ]
+  },
+  "13": {
+   "senate": [
+    {
+     "name": "Judy Warnick",
+     "party": "Republican",
+     "phone": "(360) 786-7624",
+     "email": "judith.warnick@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Alex Ybarra",
+     "party": "Republican",
+     "phone": "(360) 786-7808",
+     "email": "alex.ybarra@leg.wa.gov"
+    },
+    {
+     "name": "Tom Dent",
+     "party": "Republican",
+     "phone": "(360) 786-7932",
+     "email": "tom.dent@leg.wa.gov"
+    }
+   ]
+  },
+  "22": {
+   "senate": [
+    {
+     "name": "Jessica Bateman",
+     "party": "Democrat",
+     "phone": "(360) 786-7642",
+     "email": "jessica.bateman@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Beth Doglio",
+     "party": "Democrat",
+     "phone": "(360) 786-7940",
+     "email": "beth.doglio@leg.wa.gov"
+    },
+    {
+     "name": "Lisa Parshley",
+     "party": "Democrat",
+     "phone": "(360) 786-7992",
+     "email": "Lisa.Parshley@leg.wa.gov"
+    }
+   ]
+  },
+  "1": {
+   "senate": [
+    {
+     "name": "Derek Stanford",
+     "party": "Democrat",
+     "phone": "(360) 786-7600",
+     "email": "derek.stanford@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Davina Duerr",
+     "party": "Democrat",
+     "phone": "(360) 786-7928",
+     "email": "davina.duerr@leg.wa.gov"
+    },
+    {
+     "name": "Shelley Kloba",
+     "party": "Democrat",
+     "phone": "(360) 786-7900",
+     "email": "shelley.kloba@leg.wa.gov"
+    }
+   ]
+  },
+  "9": {
+   "senate": [
+    {
+     "name": "Mark Schoesler",
+     "party": "Republican",
+     "phone": "(360) 786-7620",
+     "email": "mark.schoesler@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Joe Schmick",
+     "party": "Republican",
+     "phone": "(360) 786-7844",
+     "email": "joe.schmick@leg.wa.gov"
+    },
+    {
+     "name": "Mary Dye",
+     "party": "Republican",
+     "phone": "(360) 786-7942",
+     "email": "mary.dye@leg.wa.gov"
+    }
+   ]
+  },
+  "47": {
+   "senate": [
+    {
+     "name": "Claudia Kauffman",
+     "party": "Democrat",
+     "phone": "(360) 786-7692",
+     "email": "claudia.kauffman@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Chris Stearns",
+     "party": "Democrat",
+     "phone": "(360) 786-7858",
+     "email": "Chris.Stearns@leg.wa.gov"
+    },
+    {
+     "name": "Debra Entenman",
+     "party": "Democrat",
+     "phone": "(360) 786-7918",
+     "email": "Debra.Entenman@leg.wa.gov"
+    }
+   ]
+  },
+  "39": {
+   "senate": [
+    {
+     "name": "Keith Wagoner",
+     "party": "Republican",
+     "phone": "(360) 786-7676",
+     "email": "keith.wagoner@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Carolyn Eslick",
+     "party": "Republican",
+     "phone": "(360) 786-7816",
+     "email": "carolyn.eslick@leg.wa.gov"
+    },
+    {
+     "name": "Sam Low",
+     "party": "Republican",
+     "phone": "(360) 786-7967",
+     "email": "Sam.Low@leg.wa.gov"
+    }
+   ]
+  },
+  "46": {
+   "senate": [
+    {
+     "name": "Javier Valdez",
+     "party": "Democrat",
+     "phone": "(360) 786-7690",
+     "email": "javier.valdez@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Darya Farivar",
+     "party": "Democrat",
+     "phone": "(360) 786-7818",
+     "email": "Darya.Farivar@leg.wa.gov"
+    },
+    {
+     "name": "Gerry Pollet",
+     "party": "Democrat",
+     "phone": "(360) 786-7886",
+     "email": "gerry.pollet@leg.wa.gov"
+    }
+   ]
+  },
+  "27": {
+   "senate": [
+    {
+     "name": "Yasmin Trudeau",
+     "party": "Democrat",
+     "phone": "(360) 786-7652",
+     "email": "yasmin.trudeau@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Jake Fey",
+     "party": "Democrat",
+     "phone": "(360) 786-7974",
+     "email": "jake.fey@leg.wa.gov"
+    },
+    {
+     "name": "Laurie Jinkins",
+     "party": "Democrat",
+     "phone": "(360) 786-7930",
+     "email": "laurie.jinkins@leg.wa.gov"
+    }
+   ]
+  },
+  "45": {
+   "senate": [
+    {
+     "name": "Manka Dhingra",
+     "party": "Democrat",
+     "phone": "(360) 786-7672",
+     "email": "manka.dhingra@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Larry Springer",
+     "party": "Democrat",
+     "phone": "(360) 786-7822",
+     "email": "larry.springer@leg.wa.gov"
+    },
+    {
+     "name": "Roger Goodman",
+     "party": "Democrat",
+     "phone": "(360) 786-7878",
+     "email": "roger.goodman@leg.wa.gov"
+    }
+   ]
+  },
+  "6": {
+   "senate": [
+    {
+     "name": "Jeff Holy",
+     "party": "Republican",
+     "phone": "(360) 786-7610",
+     "email": "jeff.holy@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Jenny Graham",
+     "party": "Republican",
+     "phone": "(360) 786-7962",
+     "email": "jenny.graham@leg.wa.gov"
+    },
+    {
+     "name": "Mike Volz",
+     "party": "Republican",
+     "phone": "(360) 786-7922",
+     "email": "mike.volz@leg.wa.gov"
+    }
+   ]
+  },
+  "33": {
+   "senate": [
+    {
+     "name": "Tina Orwall",
+     "party": "Democrat",
+     "phone": "(360) 786-7664",
+     "email": "tina.orwall@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Edwin Obras",
+     "party": "Democrat",
+     "phone": "(360) 786-7834",
+     "email": "Edwin.Obras@leg.wa.gov"
+    },
+    {
+     "name": "Mia Gregerson",
+     "party": "Democrat",
+     "phone": "(360) 786-7868",
+     "email": "mia.gregerson@leg.wa.gov"
+    }
+   ]
+  },
+  "3": {
+   "senate": [
+    {
+     "name": "Marcus Riccelli",
+     "party": "Democrat",
+     "phone": "(360) 786-7604",
+     "email": "marcus.riccelli@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Natasha Hill",
+     "party": "Democrat",
+     "phone": "(360) 786-7888",
+     "email": "Natasha.Hill@leg.wa.gov"
+    },
+    {
+     "name": "Timm Ormsby",
+     "party": "Democrat",
+     "phone": "(360) 786-7946",
+     "email": "timm.ormsby@leg.wa.gov"
+    }
+   ]
+  },
+  "25": {
+   "senate": [
+    {
+     "name": "Chris Gildon",
+     "party": "Republican",
+     "phone": "(360) 786-7648",
+     "email": "chris.gildon@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Cyndy Jacobsen",
+     "party": "Republican",
+     "phone": "(360) 786-7968",
+     "email": "Cyndy.Jacobsen@leg.wa.gov"
+    },
+    {
+     "name": "Michael Keaton",
+     "party": "Republican",
+     "phone": "(360) 786-7948",
+     "email": "Michael.Keaton@leg.wa.gov"
+    }
+   ]
+  },
+  "16": {
+   "senate": [
+    {
+     "name": "Perry Dozier",
+     "party": "Republican",
+     "phone": "(360) 786-7630",
+     "email": "Perry.Dozier@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Mark Klicker",
+     "party": "Republican",
+     "phone": "(360) 786-7836",
+     "email": "Mark.Klicker@leg.wa.gov"
+    },
+    {
+     "name": "Skyler Rude",
+     "party": "Republican",
+     "phone": "(360) 786-7828",
+     "email": "skyler.rude@leg.wa.gov"
+    }
+   ]
+  },
+  "40": {
+   "senate": [
+    {
+     "name": "Liz Lovelett",
+     "party": "Democrat",
+     "phone": "(360) 786-7678",
+     "email": "liz.lovelett@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Alex Ramel",
+     "party": "Democrat",
+     "phone": "(360) 786-7970",
+     "email": "alex.ramel@leg.wa.gov"
+    },
+    {
+     "name": "Debra Lekanoff",
+     "party": "Democrat",
+     "phone": "(360) 786-7800",
+     "email": "debra.lekanoff@leg.wa.gov"
+    }
+   ]
+  },
+  "18": {
+   "senate": [
+    {
+     "name": "Adrian Cortes",
+     "party": "Democrat",
+     "phone": "(360) 786-7634",
+     "email": "Adrian.Cortes@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "John Ley",
+     "party": "Republican",
+     "phone": "(360) 786-7812",
+     "email": "John.Ley@leg.wa.gov"
+    },
+    {
+     "name": "Stephanie McClintock",
+     "party": "Republican",
+     "phone": "(360) 786-7850",
+     "email": "Stephanie.McClintock@leg.wa.gov"
+    }
+   ]
+  },
+  "43": {
+   "senate": [
+    {
+     "name": "Jamie Pedersen",
+     "party": "Democrat",
+     "phone": "(360) 786-7628",
+     "email": "jamie.pedersen@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Nicole Macri",
+     "party": "Democrat",
+     "phone": "(360) 786-7826",
+     "email": "nicole.macri@leg.wa.gov"
+    },
+    {
+     "name": "Shaun Scott",
+     "party": "Democrat",
+     "phone": "(360) 786-7920",
+     "email": "Shaun.Scott@leg.wa.gov"
+    }
+   ]
+  },
+  "14": {
+   "senate": [
+    {
+     "name": "Curtis King",
+     "party": "Republican",
+     "phone": "(360) 786-7626",
+     "email": "curtis.king@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Deb Manjarrez",
+     "party": "Republican",
+     "phone": "(360) 786-7856",
+     "email": "Deb.Manjarrez@leg.wa.gov"
+    },
+    {
+     "name": "Gloria Mendoza",
+     "party": "Republican",
+     "phone": "(360) 786-7960",
+     "email": "Gloria.Mendoza@leg.wa.gov"
+    }
+   ]
+  },
+  "19": {
+   "senate": [
+    {
+     "name": "Jeff Wilson",
+     "party": "Republican",
+     "phone": "(360) 786-7636",
+     "email": "Jeff.Wilson@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Jim Walsh",
+     "party": "Republican",
+     "phone": "(360) 786-7806",
+     "email": "jim.walsh@leg.wa.gov"
+    },
+    {
+     "name": "Joel McEntire",
+     "party": "Republican",
+     "phone": "(360) 786-7870",
+     "email": "Joel.McEntire@leg.wa.gov"
+    }
+   ]
+  },
+  "29": {
+   "senate": [
+    {
+     "name": "Steve Conway",
+     "party": "Democrat",
+     "phone": "(360) 786-7656",
+     "email": "steve.conway@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Melanie Morgan",
+     "party": "Democrat",
+     "phone": "(360) 786-7906",
+     "email": "melanie.morgan@leg.wa.gov"
+    },
+    {
+     "name": "Sharlett Mena",
+     "party": "Democrat",
+     "phone": "(360) 786-7996",
+     "email": "sharlett.mena@leg.wa.gov"
+    }
+   ]
+  },
+  "23": {
+   "senate": [
+    {
+     "name": "Drew Hansen",
+     "party": "Democrat",
+     "phone": "(360) 786-7644",
+     "email": "drew.hansen@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Greg Nance",
+     "party": "Democrat",
+     "phone": "(360) 786-7842",
+     "email": "Greg.Nance@leg.wa.gov"
+    },
+    {
+     "name": "Tarra Simmons",
+     "party": "Democrat",
+     "phone": "(360) 786-7934",
+     "email": "Tarra.Simmons@leg.wa.gov"
+    }
+   ]
+  },
+  "21": {
+   "senate": [
+    {
+     "name": "Marko Liias",
+     "party": "Democrat",
+     "phone": "(360) 786-7640",
+     "email": "marko.liias@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Lillian Ortiz-Self",
+     "party": "Democrat",
+     "phone": "(360) 786-7972",
+     "email": "lillian.ortiz-self@leg.wa.gov"
+    },
+    {
+     "name": "Strom Peterson",
+     "party": "Democrat",
+     "phone": "(360) 786-7950",
+     "email": "strom.peterson@leg.wa.gov"
+    }
+   ]
+  },
+  "10": {
+   "senate": [
+    {
+     "name": "Ron Muzzall",
+     "party": "Republican",
+     "phone": "(360) 786-7618",
+     "email": "ron.muzzall@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Clyde Shavers",
+     "party": "Democrat",
+     "phone": "(360) 786-7884",
+     "email": "Clyde.Shavers@leg.wa.gov"
+    },
+    {
+     "name": "Dave Paul",
+     "party": "Democrat",
+     "phone": "(360) 786-7914",
+     "email": "dave.paul@leg.wa.gov"
+    }
+   ]
+  },
+  "31": {
+   "senate": [
+    {
+     "name": "Phil Fortunato",
+     "party": "Republican",
+     "phone": "(360) 786-7660",
+     "email": "phil.fortunato@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Drew Stokesbary",
+     "party": "Republican",
+     "phone": "(360) 786-7846",
+     "email": "drew.stokesbary@leg.wa.gov"
+    },
+    {
+     "name": "Joshua Penner",
+     "party": "Republican",
+     "phone": "(360) 786-7866",
+     "email": "Joshua.Penner@leg.wa.gov"
+    }
+   ]
+  },
+  "30": {
+   "senate": [
+    {
+     "name": "Claire Wilson",
+     "party": "Democrat",
+     "phone": "(360) 786-7658",
+     "email": "claire.wilson@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Jamila Taylor",
+     "party": "Democrat",
+     "phone": "(360) 786-7898",
+     "email": "Jamila.Taylor@leg.wa.gov"
+    },
+    {
+     "name": "Kristine Reeves",
+     "party": "Democrat",
+     "phone": "(360) 786-7830",
+     "email": "kristine.reeves@leg.wa.gov"
+    }
+   ]
+  },
+  "26": {
+   "senate": [
+    {
+     "name": "Deborah Krishnadasan",
+     "party": "Democrat",
+     "phone": "(360) 786-7650",
+     "email": "Deborah.Krishnadasan@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Adison Richards",
+     "party": "Democrat",
+     "phone": "(360) 786-7964",
+     "email": "RICHARDS_AD@leg.wa.gov"
+    },
+    {
+     "name": "Michelle Valdez",
+     "party": "Republican",
+     "phone": "(360) 786-7802",
+     "email": "Michelle.Valdez@leg.wa.gov"
+    }
+   ]
+  },
+  "42": {
+   "senate": [
+    {
+     "name": "Sharon Shewmake",
+     "party": "Democrat",
+     "phone": "(360) 786-7682",
+     "email": "sharon.shewmake@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Alicia Rule",
+     "party": "Democrat",
+     "phone": "(360) 786-7980",
+     "email": "Alicia.Rule@leg.wa.gov"
+    },
+    {
+     "name": "Joe Timmons",
+     "party": "Democrat",
+     "phone": "(360) 786-7854",
+     "email": "Joe.Timmons@leg.wa.gov"
+    }
+   ]
+  },
+  "48": {
+   "senate": [
+    {
+     "name": "Vandana Slatter",
+     "party": "Democrat",
+     "phone": "(360) 786-7694",
+     "email": "vandana.slatter@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Amy Walen",
+     "party": "Democrat",
+     "phone": "(360) 786-7848",
+     "email": "amy.walen@leg.wa.gov"
+    },
+    {
+     "name": "Osman Salahuddin",
+     "party": "Democrat",
+     "phone": "(360) 786-7936",
+     "email": "Osman.Salahuddin@leg.wa.gov"
+    }
+   ]
+  },
+  "37": {
+   "senate": [
+    {
+     "name": "Rebecca Salda\u00f1a",
+     "party": "Democrat",
+     "phone": "(360) 786-7688",
+     "email": "rebecca.saldana@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Chipalo Street",
+     "party": "Democrat",
+     "phone": "(360) 786-7838",
+     "email": "Chipalo.Street@leg.wa.gov"
+    },
+    {
+     "name": "Sharon Tomiko Santos",
+     "party": "Democrat",
+     "phone": "(360) 786-7944",
+     "email": "sharontomiko.santos@leg.wa.gov"
+    }
+   ]
+  },
+  "41": {
+   "senate": [
+    {
+     "name": "Lisa Wellman",
+     "party": "Democrat",
+     "phone": "(360) 786-7641",
+     "email": "lisa.wellman@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Janice Zahn",
+     "party": "Democrat",
+     "phone": "(360) 786-7894",
+     "email": "Janice.Zahn@leg.wa.gov"
+    },
+    {
+     "name": "My-Linh Thai",
+     "party": "Democrat",
+     "phone": "(360) 786-7926",
+     "email": "my-linh.thai@leg.wa.gov"
+    },
+    {
+     "name": "Tana Senn",
+     "party": "Democrat",
+     "phone": "(360) 786-7894",
+     "email": "tana.senn@leg.wa.gov"
+    }
+   ]
+  },
+  "49": {
+   "senate": [
+    {
+     "name": "Annette Cleveland",
+     "party": "Democrat",
+     "phone": "(360) 786-7696",
+     "email": "Annette.Cleveland@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Monica Jurado Stonier",
+     "party": "Democrat",
+     "phone": "(360) 786-7872",
+     "email": "monica.stonier@leg.wa.gov"
+    },
+    {
+     "name": "Sharon Wylie",
+     "party": "Democrat",
+     "phone": "(360) 786-7924",
+     "email": "sharon.wylie@leg.wa.gov"
+    }
+   ]
+  },
+  "17": {
+   "senate": [
+    {
+     "name": "Paul Harris",
+     "party": "Republican",
+     "phone": "(360) 786-7632",
+     "email": "paul.harris@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "David Stuebe",
+     "party": "Republican",
+     "phone": "(360) 786-7976",
+     "email": "David.Stuebe@leg.wa.gov"
+    },
+    {
+     "name": "Kevin Waters",
+     "party": "Republican",
+     "phone": "(360) 786-7994",
+     "email": "Kevin.Waters@leg.wa.gov"
+    }
+   ]
+  }
+ },
+ "congress": {
+  "senators": [
+   {
+    "name": "Maria Cantwell",
+    "party": "Democrat",
+    "phone": "202-224-3441",
+    "url": "https://www.cantwell.senate.gov"
+   },
+   {
+    "name": "Patty Murray",
+    "party": "Democrat",
+    "phone": "202-224-2621",
+    "url": "https://www.murray.senate.gov"
+   }
+  ],
+  "house": {
+   "2": {
+    "name": "Rick Larsen",
+    "party": "Democrat",
+    "phone": "202-225-2605",
+    "url": "https://larsen.house.gov"
+   },
+   "9": {
+    "name": "Adam Smith",
+    "party": "Democrat",
+    "phone": "202-225-8901",
+    "url": "https://adamsmith.house.gov"
+   },
+   "1": {
+    "name": "Suzan K. DelBene",
+    "party": "Democrat",
+    "phone": "202-225-6311",
+    "url": "https://delbene.house.gov"
+   },
+   "4": {
+    "name": "Dan Newhouse",
+    "party": "Republican",
+    "phone": "202-225-5816",
+    "url": "https://newhouse.house.gov"
+   },
+   "7": {
+    "name": "Pramila Jayapal",
+    "party": "Democrat",
+    "phone": "202-225-3106",
+    "url": "https://jayapal.house.gov"
+   },
+   "8": {
+    "name": "Kim Schrier",
+    "party": "Democrat",
+    "phone": "202-225-7761",
+    "url": "https://schrier.house.gov"
+   },
+   "10": {
+    "name": "Marilyn Strickland",
+    "party": "Democrat",
+    "phone": "202-225-9740",
+    "url": "https://strickland.house.gov"
+   },
+   "3": {
+    "name": "Marie Gluesenkamp Perez",
+    "party": "Democrat",
+    "phone": "202-225-3536",
+    "url": "https://gluesenkampperez.house.gov"
+   },
+   "5": {
+    "name": "Michael Baumgartner",
+    "party": "Republican",
+    "phone": "202-225-2006",
+    "url": "https://baumgartner.house.gov"
+   },
+   "6": {
+    "name": "Emily Randall",
+    "party": "Democrat",
+    "phone": "202-225-5916",
+    "url": "https://randall.house.gov"
+   }
+  }
+ }
+}
