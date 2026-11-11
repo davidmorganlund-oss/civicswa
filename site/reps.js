@@ -90,7 +90,7 @@
   }
 
   // Official website and boards page for counties and the larger cities,
-  // from data/local.json (the same list the playbook's "Near you" boxes use).
+  // from data/local.json (the same list the Engage guides' "Near you" boxes use).
   function extraLinks(card, place) {
     if (!place) return;
     var p = el('p');
@@ -133,7 +133,7 @@
 
     out.appendChild(el('p', 'muted', 'Showing results for ' + match.matchedAddress + '.'));
     if (window.CivicsWALocal && county) {
-      // Remember only the county and city, so the playbook can show local links.
+      // Remember only the county and city, so the Engage guides can show local links.
       window.CivicsWALocal.save({ county: county, city: localData && localData.cities[city] ? city : '' });
     }
 
