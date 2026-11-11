@@ -52,7 +52,7 @@ def is_cancelled(*texts: str) -> bool:
 _MON = r"(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)[a-z]*\.?"
 DATE_IN_TITLE = re.compile(
     r"^\d{4}[./-]\d{1,2}[./-]\d{1,2}\s+"                                   # leading 2026.11.10
-    r"|\s*(?:[-–@]|\bof|\bon|\bfor)?\s*(?:\d{1,2}\s+" + _MON + r"\s+\d{4}|" + _MON + r"\s+\d{1,2},?\s+\d{4})"
+    r"|\s*(?:[-–@]|\bof|\bon|\bfor)?\s*(?:(?:Mon|Tues|Wednes|Thurs|Fri|Satur|Sun)day,?\s+)?(?:\d{1,2}\s+" + _MON + r"\s+\d{4}|" + _MON + r"\s+\d{1,2},?\s+\d{4})"
     r"(?:\s*@\s*(?:\d{1,2}(?::\d{2})?\s*[ap]\.?m\.?)?)?\s*$"                   # trailing dates, optional time
     r"|\s+\d{1,2}/\d{1,2}/\d{2,4}\s*$", re.I)                              # trailing 11/12/26
 
@@ -598,7 +598,7 @@ def fetch_primegov(src, start_day, end_day, tz):
 
 # Names end with the date in one of several forms: "- Dec 17 2026",
 # "- 17 Dec 2026", "- Jan 26, 2027", "- November 16, 2026".
-CIVICWEB_DATE = re.compile(r"\s*-\s*(?:\d{1,2} [A-Z][a-z]{2} \d{4}|[A-Z][a-z]+\.? \d{1,2},? \d{4})\s*$")
+CIVICWEB_DATE = re.compile(r"\s*-\s*(?:\d{1,2} [A-Z][a-z]{2} \d{4}|[A-Z][a-z]+\.? \d{1,2},? \d{4})(?=\s*(?:-|$))")
 
 
 def civicweb_base(src):

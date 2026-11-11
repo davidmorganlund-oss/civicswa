@@ -1076,6 +1076,120 @@ sources:
 
   - {id: naches, name: Town of Naches, county: Yakima, area: Naches, type: ics, url: 'https://townofnaches.com/events/?ical=1', include: council|commission|board|committee|hearing|meeting|session|workshop, homepage: 'https://townofnaches.com/events/'}
 
+  # ---------- Found by trying the usual meeting platforms (tools/candidates-guess.yml) ----------
+
+  - id: issaquah
+    name: City of Issaquah
+    type: civicweb
+    tenant: issaquah
+    county: King
+    area: Issaquah
+    homepage: https://issaquah.civicweb.net/Portal/MeetingSchedule.aspx
+
+  - id: kenmore
+    name: City of Kenmore
+    type: civicclerk
+    tenant: kenmorewa
+    county: King
+    area: Kenmore
+    homepage: https://kenmorewa.portal.civicclerk.com/
+
+  - id: mercer-island
+    name: City of Mercer Island
+    type: civicclerk
+    tenant: mercerislandwa
+    county: King
+    area: Mercer Island
+    homepage: https://mercerislandwa.portal.civicclerk.com/
+
+  - id: kirkland
+    name: City of Kirkland
+    type: primegov
+    tenant: kirklandwa
+    county: King
+    area: Kirkland
+    homepage: https://kirklandwa.primegov.com/public/portal
+
+  - id: granite-falls
+    name: City of Granite Falls
+    type: civicclerk
+    tenant: granitefallswa
+    county: Snohomish
+    area: Granite Falls
+    homepage: https://granitefallswa.portal.civicclerk.com/
+
+  # Library systems whose boards post meetings as library events.
+  - id: kcls-board
+    name: King County Library System
+    type: bibliocommons
+    library: kcls
+    searches: [board of trustees]
+    include: trustee
+    category: library
+    county: King
+    area: countywide
+    homepage: https://kcls.org/about-kcls/board-of-trustees/
+
+  - id: sno-isle-board
+    name: Sno-Isle Libraries
+    type: bibliocommons
+    library: sno-isle
+    searches: [board of trustees]
+    include: trustee
+    category: library
+    county: Snohomish
+    area: countywide
+    homepage: https://www.sno-isle.org/leadership/
+
+  # County commissions with a published standing schedule and agendas only as PDFs.
+  - id: kitsap-county
+    name: Kitsap County Board of Commissioners
+    type: schedule
+    county: Kitsap
+    area: countywide
+    homepage: https://www.kitsap.gov/BOC_p
+    meetings:
+      - title: Board of Commissioners Regular Meeting
+        when: 2nd Monday
+        time: "17:30"
+        skip_months: [12]
+        location: "Commissioners Chambers, 619 Division St., Port Orchard, and on Zoom"
+        url: https://www.kitsap.gov/BOC_p
+      - title: Board of Commissioners Regular Meeting
+        when: 4th Monday
+        time: "10:00"
+        skip_months: [12]
+        location: "Commissioners Chambers, 619 Division St., Port Orchard, and on Zoom"
+        url: https://www.kitsap.gov/BOC_p
+
+  - id: grays-harbor-county
+    name: Grays Harbor County Board of Commissioners
+    type: schedule
+    county: Grays Harbor
+    area: countywide
+    homepage: https://www.graysharbor.gov/government/commissioners/meetings-agendas/
+    meetings:
+      - title: Board of Commissioners Meeting
+        when: 1st, 2nd, 3rd, 4th Tuesday
+        time: "10:00"
+        location: "100 W. Broadway, Montesano, and online"
+        url: https://www.graysharbor.gov/government/commissioners/meetings-agendas/
+        note: "Votes are taken at the 2nd and 4th Tuesday meetings."
+
+  - id: lewis-county
+    name: Lewis County Board of County Commissioners
+    type: schedule
+    county: Lewis
+    area: countywide
+    homepage: https://lewiscountywa.gov/
+    meetings:
+      - title: Board of County Commissioners Business Meeting
+        when: 1st, 2nd, 3rd, 4th Tuesday
+        time: "10:00"
+        location: "Lewis County Courthouse, 351 NW North St., Chehalis"
+        url: https://lewiscountywa.gov/
+
+
   # ---------- School boards ----------
   # Many Washington districts publish board meetings on Diligent Community
   # portals, which run the same software as CivicWeb, so they use that
