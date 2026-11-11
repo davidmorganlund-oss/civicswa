@@ -14,5 +14,4 @@ jobs:
         with: { python-version: "3.12" }
       - run: pip install requests
       - run: python tools/probe.py "${{ inputs.list }}" probe.json
-      - uses: actions/upload-artifact@v4
-        with: { name: probe, path: probe.json }
+      - run: python -c "import json;[print('PROBE', json.dumps(r)) for r in json.load(open('probe.json'))]"
