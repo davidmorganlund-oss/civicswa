@@ -124,3 +124,7 @@ footer p { margin: 0; flex: 1 1 320px; }
   .near-pick { grid-template-columns: 1fr; }
   .near-pick label, .near-pick select { grid-row: auto; }
 }
+
+.by-barnone a { display: flex; width: fit-content; align-items: center; gap: 8px; color: var(--ink); text-decoration: none; margin-bottom: 6px; font-size: 15px; }
+.by-barnone a:hover span { text-decoration: underline; }
+.by-barnone img { flex: none; vertical-align: middle; }
