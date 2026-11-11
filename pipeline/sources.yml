@@ -598,6 +598,484 @@ sources:
     drop_uncategorized: true
     homepage: https://www.yakimacounty.us/Calendar.aspx
 
+  # ---------- Cities and towns statewide (found by tools/probe.py, tried by tools/trial.py) ----------
+
+  - {id: othello, name: City of Othello, county: Adams, area: Othello, type: civicweb, base: 'https://othellowa.community.diligentoneplatform.com', homepage: 'https://othellowa.community.diligentoneplatform.com/Portal/'}
+
+  - {id: prosser, name: City of Prosser, county: Benton, area: Prosser, type: civicclerk, tenant: prosserwa, homepage: 'https://prosserwa.portal.civicclerk.com/'}
+
+  - id: west-richland
+    name: City of West Richland
+    county: Benton
+    area: West Richland
+    type: civicplus
+    site: https://www.westrichland.org
+    categories: [24, 29, 28, 25, 26]
+    drop_uncategorized: true
+    homepage: https://www.westrichland.org/Calendar.aspx
+
+  - {id: chelan, name: City of Chelan, county: Chelan, area: Chelan, type: civicclerk, tenant: chelanwa, homepage: 'https://chelanwa.portal.civicclerk.com/'}
+
+  - id: port-angeles
+    name: City of Port Angeles
+    county: Clallam
+    area: Port Angeles
+    type: civicplus
+    site: https://www.cityofpa.us
+    categories: [32]
+    drop_uncategorized: true
+    homepage: https://www.cityofpa.us/Calendar.aspx
+
+  - {id: sequim, name: City of Sequim, county: Clallam, area: Sequim, type: civicweb, tenant: sequimwa, homepage: 'https://sequimwa.civicweb.net/Portal/MeetingSchedule.aspx'}
+
+  - id: battle-ground
+    name: City of Battle Ground
+    county: Clark
+    area: Battle Ground
+    type: civicplus
+    site: https://www.cityofbg.org
+    categories: [14]
+    drop_uncategorized: true
+    homepage: https://www.cityofbg.org/Calendar.aspx
+
+  - {id: la-center, name: City of La Center, county: Clark, area: La Center, type: civicweb, tenant: lacenter, homepage: 'https://lacenter.civicweb.net/Portal/MeetingSchedule.aspx'}
+
+  - {id: ridgefield, name: City of Ridgefield, county: Clark, area: Ridgefield, type: civicclerk, tenant: ridgefieldwa, homepage: 'https://ridgefieldwa.portal.civicclerk.com/'}
+
+  - {id: washougal, name: City of Washougal, county: Clark, area: Washougal, type: civicclerk, tenant: washougalwa, homepage: 'https://washougalwa.portal.civicclerk.com/'}
+
+  - {id: castle-rock, name: City of Castle Rock, county: Cowlitz, area: Castle Rock, type: civicclerk, tenant: castlerockwa, homepage: 'https://castlerockwa.portal.civicclerk.com/'}
+
+  - {id: kelso, name: City of Kelso, county: Cowlitz, area: Kelso, type: civicclerk, tenant: kelsowa, homepage: 'https://kelsowa.portal.civicclerk.com/'}
+
+  - id: longview
+    name: City of Longview
+    county: Cowlitz
+    area: Longview
+    type: civicplus
+    site: https://www.longviewlibrary.org
+    categories: [26]
+    drop_uncategorized: true
+    homepage: https://www.mylongview.com/
+
+  - id: east-wenatchee
+    name: City of East Wenatchee
+    county: Douglas
+    area: East Wenatchee
+    type: civicplus
+    site: https://www.eastwenatcheewa.gov
+    categories: [25, 29]
+    drop_uncategorized: true
+    homepage: https://www.eastwenatcheewa.gov/Calendar.aspx
+
+  - id: ephrata
+    name: City of Ephrata
+    county: Grant
+    area: Ephrata
+    type: civicplus
+    site: https://www.ephrata.org
+    categories: [23]
+    drop_uncategorized: true
+    homepage: https://www.ephrata.org/Calendar.aspx
+
+  - id: moses-lake
+    name: City of Moses Lake
+    county: Grant
+    area: Moses Lake
+    type: civicplus
+    site: https://www.cityofml.com
+    categories: [32, 48, 46, 45, 47, 28]
+    drop_uncategorized: true
+    homepage: https://www.cityofml.com/Calendar.aspx
+
+  - {id: wilson-creek, name: Town of Wilson Creek, county: Grant, area: Wilson Creek, type: ics, url: 'https://calendar.google.com/calendar/ical/02e91f52dca418d1ed9ea49e76f69f59411d20be5d60a5149f48a0d7a48b8ea7%40group.calendar.google.com/public/basic.ics', homepage: 'https://www.wilsoncreekwa.com/', drop_uncategorized: true}
+
+  - id: aberdeen
+    name: City of Aberdeen
+    county: Grays Harbor
+    area: Aberdeen
+    type: civicplus
+    site: https://www.aberdeenwa.gov
+    categories: [25, 27]
+    drop_uncategorized: true
+    homepage: https://www.aberdeenwa.gov/Calendar.aspx
+
+  - {id: ocean-shores, name: City of Ocean Shores, county: Grays Harbor, area: Ocean Shores, type: civicweb, tenant: oceanshores, homepage: 'https://oceanshores.civicweb.net/Portal/MeetingSchedule.aspx'}
+
+  - id: oak-harbor
+    name: City of Oak Harbor
+    county: Island
+    area: Oak Harbor
+    type: civicplus
+    site: https://oakharbor.gov
+    categories: [14]
+    include: council|commission|board|committee|hearing|meeting|session|workshop
+    homepage: https://oakharbor.gov/Calendar.aspx
+
+  - id: black-diamond
+    name: City of Black Diamond
+    county: King
+    area: Black Diamond
+    type: civicplus
+    site: https://www.blackdiamondwa.gov
+    categories: [14]
+    include: council|commission|board|committee|hearing|meeting|session|workshop
+    homepage: https://www.blackdiamondwa.gov/Calendar.aspx
+
+  - id: bothell
+    name: City of Bothell
+    county: King
+    area: Bothell
+    type: civicplus
+    site: https://www.bothellwa.gov
+    categories: [64, 38]
+    drop_uncategorized: true
+    homepage: https://www.bothellwa.gov/Calendar.aspx
+
+  - {id: clyde-hill, name: City of Clyde Hill, county: King, area: Clyde Hill, type: civicweb, tenant: clydehill, homepage: 'https://clydehill.civicweb.net/Portal/MeetingSchedule.aspx'}
+
+  - {id: des-moines, name: City of Des Moines, county: King, area: Des Moines, type: civicclerk, tenant: desmoineswa, homepage: 'https://desmoineswa.portal.civicclerk.com/'}
+
+  - id: duvall
+    name: City of Duvall
+    county: King
+    area: Duvall
+    type: civicplus
+    site: https://duvallwa.gov
+    categories: [31, 32, 30, 25, 23]
+    drop_uncategorized: true
+    homepage: https://duvallwa.gov/Calendar.aspx
+
+  - id: enumclaw
+    name: City of Enumclaw
+    county: King
+    area: Enumclaw
+    type: civicplus
+    site: https://cityofenumclaw.net
+    categories: [26, 53, 31, 14, 32, 46, 44, 50, 27, 30, 35, 41, 48, 42, 38, 43, 28, 49, 45, 29]
+    drop_uncategorized: true
+    homepage: https://cityofenumclaw.net/Calendar.aspx
+
+  - id: lake-forest-park
+    name: City of Lake Forest Park
+    county: King
+    area: Lake Forest Park
+    type: civicplus
+    site: https://www.cityoflfp.gov
+    categories: [14]
+    drop_uncategorized: true
+    homepage: https://www.cityoflfp.gov/Calendar.aspx
+
+  - {id: newcastle, name: City of Newcastle, county: King, area: Newcastle, type: ics, url: 'https://newcastlewa.gov/events/?ical=1', include: council|commission|board|committee|hearing|meeting|session|workshop, homepage: 'https://newcastlewa.gov/events/'}
+
+  - {id: normandy-park, name: City of Normandy Park, county: King, area: Normandy Park, type: ics, url: 'https://normandyparkwa.gov/events/?ical=1', include: council|commission|board|committee|hearing|meeting|session|workshop, homepage: 'https://normandyparkwa.gov/events/'}
+
+  - {id: north-bend, name: City of North Bend, county: King, area: North Bend, type: civicclerk, tenant: northbendwa, homepage: 'https://northbendwa.portal.civicclerk.com/'}
+
+  - {id: snoqualmie, name: City of Snoqualmie, county: King, area: Snoqualmie, type: civicclerk, tenant: snoqualmiewa, homepage: 'https://snoqualmiewa.portal.civicclerk.com/'}
+
+  - {id: tukwila, name: City of Tukwila, county: King, area: Tukwila, type: ics, url: 'https://www.tukwilawa.gov/events/?ical=1', include: council|commission|board|committee|hearing|meeting|session|workshop, homepage: 'https://www.tukwilawa.gov/events/'}
+
+  - {id: bainbridge-island, name: City of Bainbridge Island, county: Kitsap, area: Bainbridge Island, type: civicclerk, tenant: bainbridgeislandwa, homepage: 'https://bainbridgeislandwa.portal.civicclerk.com/'}
+
+  - id: bremerton
+    name: City of Bremerton
+    county: Kitsap
+    area: Bremerton
+    type: civicplus
+    site: http://www.bremertonwa.gov
+    categories: [46, 53, 37, 42, 52, 43, 14, 40, 51, 24, 41, 25, 44, 39, 29, 49, 27, 26]
+    drop_uncategorized: true
+    homepage: http://www.bremertonwa.gov/Calendar.aspx
+
+  - {id: port-orchard, name: City of Port Orchard, county: Kitsap, area: Port Orchard, type: civicclerk, tenant: portorchardwa, homepage: 'https://portorchardwa.portal.civicclerk.com/'}
+
+  - {id: cle-elum, name: City of Cle Elum, county: Kittitas, area: Cle Elum, type: civicclerk, tenant: cleelumwa, homepage: 'https://cleelumwa.portal.civicclerk.com/'}
+
+  - {id: ellensburg, name: City of Ellensburg, county: Kittitas, area: Ellensburg, type: civicclerk, tenant: ellensburgwa, homepage: 'https://ellensburgwa.portal.civicclerk.com/'}
+
+  - id: white-salmon
+    name: City of White Salmon
+    county: Klickitat
+    area: White Salmon
+    type: civicplus
+    site: https://www.whitesalmonwa.gov
+    categories: [23]
+    drop_uncategorized: true
+    homepage: https://www.whitesalmonwa.gov/Calendar.aspx
+
+  - id: bingen
+    name: Town of Bingen
+    county: Klickitat
+    area: Bingen
+    type: civicplus
+    site: https://www.bingenwashington.org
+    categories: [14]
+    include: council|commission|board|committee|hearing|meeting|session|workshop
+    homepage: https://www.bingenwashington.org/Calendar.aspx
+
+  - id: napavine
+    name: City of Napavine
+    county: Lewis
+    area: Napavine
+    type: civicplus
+    site: https://www.cityofnapavine.com
+    categories: [25, 22, 23]
+    drop_uncategorized: true
+    homepage: https://www.cityofnapavine.com/Calendar.aspx
+
+  - id: toledo
+    name: City of Toledo
+    county: Lewis
+    area: Toledo
+    type: civicplus
+    site: https://www.toledowa.us
+    categories: [22, 23, 24]
+    drop_uncategorized: true
+    homepage: https://www.toledowa.us/Calendar.aspx
+
+  - id: winlock
+    name: City of Winlock
+    county: Lewis
+    area: Winlock
+    type: civicplus
+    site: https://www.cityofwinlock.com
+    categories: [23, 24]
+    drop_uncategorized: true
+    homepage: https://www.cityofwinlock.com/Calendar.aspx
+
+  - id: wilbur
+    name: City of Wilbur
+    county: Lincoln
+    area: Wilbur
+    type: civicplus
+    site: https://www.wilburwa.gov
+    categories: [14]
+    include: council|commission|board|committee|hearing|meeting|session|workshop
+    homepage: https://www.wilburwa.gov/Calendar.aspx
+
+  - id: omak
+    name: City of Omak
+    county: Okanogan
+    area: Omak
+    type: civicplus
+    site: https://www.omakcity.com
+    categories: [14]
+    include: council|commission|board|committee|hearing|meeting|session|workshop
+    homepage: https://www.omakcity.com/Calendar.aspx
+
+  - {id: south-bend, name: City of South Bend, county: Pacific, area: South Bend, type: ics, url: 'https://calendar.google.com/calendar/ical/cityofsouthbend1890%40gmail.com/public/basic.ics', homepage: 'https://southbend-wa.gov/', drop_uncategorized: true}
+
+  - {id: pend-oreille-county, name: Pend Oreille County, county: Pend Oreille, area: countywide, type: ics, url: 'https://www.pendoreille.gov/calendar/ical/calendar.ics', include: council|commission|board|committee|hearing|meeting|session|workshop, homepage: 'https://www.pendoreille.gov/'}
+
+  - id: buckley
+    name: City of Buckley
+    county: Pierce
+    area: Buckley
+    type: civicplus
+    site: https://www.cityofbuckley.com
+    categories: [14]
+    include: council|commission|board|committee|hearing|meeting|session|workshop
+    homepage: https://www.cityofbuckley.com/Calendar.aspx
+
+  - {id: edgewood, name: City of Edgewood, county: Pierce, area: Edgewood, type: civicclerk, tenant: edgewoodwa, homepage: 'https://edgewoodwa.portal.civicclerk.com/'}
+
+  - id: fife
+    name: City of Fife
+    county: Pierce
+    area: Fife
+    type: civicplus
+    site: https://www.fifewa.gov
+    categories: [35, 22, 36]
+    drop_uncategorized: true
+    homepage: https://www.fifewa.gov/Calendar.aspx
+
+  - {id: fircrest, name: City of Fircrest, county: Pierce, area: Fircrest, type: ics, url: 'https://www.cityoffircrest.net/events/?ical=1', include: council|commission|board|committee|hearing|meeting|session|workshop, homepage: 'https://www.cityoffircrest.net/events/'}
+
+  - {id: gig-harbor, name: City of Gig Harbor, county: Pierce, area: Gig Harbor, type: civicclerk, tenant: gigharborwa, homepage: 'https://gigharborwa.portal.civicclerk.com/'}
+
+  - id: milton
+    name: City of Milton
+    county: Pierce
+    area: Milton
+    type: civicplus
+    site: https://www.miltonwa.gov
+    categories: [32, 22, 24, 25, 35]
+    drop_uncategorized: true
+    homepage: https://www.miltonwa.gov/Calendar.aspx
+
+  - id: puyallup
+    name: City of Puyallup
+    county: Pierce
+    area: Puyallup
+    type: civicplus
+    site: https://www.puyallupwa.gov
+    categories: [36, 38, 37]
+    drop_uncategorized: true
+    homepage: https://www.puyallupwa.gov/Calendar.aspx
+
+  - {id: sumner, name: City of Sumner, county: Pierce, area: Sumner, type: civicclerk, tenant: sumnerwa, homepage: 'https://sumnerwa.portal.civicclerk.com/'}
+
+  - id: university-place
+    name: City of University Place
+    county: Pierce
+    area: University Place
+    type: civicplus
+    site: https://www.cityofup.com
+    categories: [23, 14]
+    include: council|commission|board|committee|hearing|meeting|session|workshop
+    homepage: https://www.cityofup.com/Calendar.aspx
+
+  - id: steilacoom
+    name: Town of Steilacoom
+    county: Pierce
+    area: Steilacoom
+    type: civicplus
+    site: https://townofsteilacoom.org
+    categories: [23, 14]
+    include: council|commission|board|committee|hearing|meeting|session|workshop
+    homepage: https://townofsteilacoom.org/Calendar.aspx
+
+  - {id: friday-harbor, name: Town of Friday Harbor, county: San Juan, area: Friday Harbor, type: civicclerk, tenant: fridayharborwa, homepage: 'https://fridayharborwa.portal.civicclerk.com/'}
+
+  - {id: anacortes, name: City of Anacortes, county: Skagit, area: Anacortes, type: civicclerk, tenant: anacorteswa, homepage: 'https://anacorteswa.portal.civicclerk.com/'}
+
+  - id: burlington
+    name: City of Burlington
+    county: Skagit
+    area: Burlington
+    type: civicplus
+    site: https://www.burlingtonwa.gov
+    categories: [14]
+    drop_uncategorized: true
+    homepage: https://www.burlingtonwa.gov/Calendar.aspx
+
+  - id: mount-vernon
+    name: City of Mount Vernon
+    county: Skagit
+    area: Mount Vernon
+    type: civicplus
+    site: https://mountvernonwa.gov
+    categories: [37, 38, 31, 39, 14]
+    drop_uncategorized: true
+    homepage: https://mountvernonwa.gov/Calendar.aspx
+
+  - {id: sedro-woolley, name: City of Sedro-Woolley, county: Skagit, area: Sedro-Woolley, type: civicclerk, tenant: sedrowoolleywa, homepage: 'https://sedrowoolleywa.portal.civicclerk.com/'}
+
+  - {id: concrete, name: Town of Concrete, county: Skagit, area: Concrete, type: ics, url: 'https://calendar.google.com/calendar/ical/townofconcrete%40gmail.com/public/basic.ics', homepage: 'https://www.townofconcrete.com/', drop_uncategorized: true}
+
+  - {id: stevenson, name: City of Stevenson, county: Skamania, area: Stevenson, type: civicclerk, tenant: stevensonwa, homepage: 'https://stevensonwa.portal.civicclerk.com/'}
+
+  - id: arlington
+    name: City of Arlington
+    county: Snohomish
+    area: Arlington
+    type: civicplus
+    site: https://www.arlingtonwa.gov
+    categories: [22]
+    drop_uncategorized: true
+    homepage: https://www.arlingtonwa.gov/Calendar.aspx
+
+  - {id: edmonds, name: City of Edmonds, county: Snohomish, area: Edmonds, type: primegov, tenant: edmondswa, homepage: 'https://edmondswa.primegov.com/public/portal'}
+
+  - {id: lake-stevens, name: City of Lake Stevens, county: Snohomish, area: Lake Stevens, type: civicclerk, tenant: lakestevenswa, homepage: 'https://lakestevenswa.portal.civicclerk.com/'}
+
+  - {id: mill-creek, name: City of Mill Creek, county: Snohomish, area: Mill Creek, type: civicweb, tenant: millcreek, homepage: 'https://millcreek.civicweb.net/Portal/MeetingSchedule.aspx'}
+
+  - {id: monroe, name: City of Monroe, county: Snohomish, area: Monroe, type: civicweb, tenant: monroewa, homepage: 'https://monroewa.civicweb.net/Portal/MeetingSchedule.aspx'}
+
+  - {id: mountlake-terrace, name: City of Mountlake Terrace, county: Snohomish, area: Mountlake Terrace, type: civicclerk, tenant: mountlaketerracewa, homepage: 'https://mountlaketerracewa.portal.civicclerk.com/'}
+
+  - id: mukilteo
+    name: City of Mukilteo
+    county: Snohomish
+    area: Mukilteo
+    type: civicplus
+    site: https://mukilteowa.gov
+    categories: [14]
+    include: council|commission|board|committee|hearing|meeting|session|workshop
+    homepage: https://mukilteowa.gov/Calendar.aspx
+
+  - id: snohomish
+    name: City of Snohomish
+    county: Snohomish
+    area: Snohomish
+    type: civicplus
+    site: https://www.snohomishwa.gov
+    categories: [24, 22]
+    drop_uncategorized: true
+    homepage: https://www.snohomishwa.gov/Calendar.aspx
+
+  - {id: stanwood, name: City of Stanwood, county: Snohomish, area: Stanwood, type: civicclerk, tenant: stanwoodwa, homepage: 'https://stanwoodwa.portal.civicclerk.com/'}
+
+  - {id: sultan, name: City of Sultan, county: Snohomish, area: Sultan, type: civicweb, base: 'https://sultan.community.diligentoneplatform.com', homepage: 'https://sultan.community.diligentoneplatform.com/Portal/'}
+
+  - {id: darrington, name: Town of Darrington, county: Snohomish, area: Darrington, type: ics, url: 'https://townofdarrington.com/events/?ical=1', include: council|commission|board|committee|hearing|meeting|session|workshop, homepage: 'https://townofdarrington.com/events/'}
+
+  - id: cheney
+    name: City of Cheney
+    county: Spokane
+    area: Cheney
+    type: civicplus
+    site: https://www.cityofcheney.org
+    categories: [22]
+    drop_uncategorized: true
+    homepage: https://www.cityofcheney.org/Calendar.aspx
+
+  - id: chewelah
+    name: City of Chewelah
+    county: Stevens
+    area: Chewelah
+    type: civicplus
+    site: https://www.cityofchewelah.org
+    categories: [14]
+    include: council|commission|board|committee|hearing|meeting|session|workshop
+    homepage: https://www.cityofchewelah.org/Calendar.aspx
+
+  - id: rainier
+    name: City of Rainier
+    county: Thurston
+    area: Rainier
+    type: civicplus
+    site: https://www.cityofrainierwa.org
+    categories: [22, 24]
+    drop_uncategorized: true
+    homepage: https://www.cityofrainierwa.org/Calendar.aspx
+
+  - {id: college-place, name: City of College Place, county: Walla Walla, area: College Place, type: civicclerk, tenant: collegeplacewa, homepage: 'https://collegeplacewa.portal.civicclerk.com/'}
+
+  - id: blaine
+    name: City of Blaine
+    county: Whatcom
+    area: Blaine
+    type: civicplus
+    site: https://www.ci.blaine.wa.us
+    categories: [80, 78, 19, 76, 77, 69, 79, 23, 71, 24]
+    drop_uncategorized: true
+    homepage: https://www.ci.blaine.wa.us/Calendar.aspx
+
+  - {id: everson, name: City of Everson, county: Whatcom, area: Everson, type: civicweb, tenant: cieversonwa, homepage: 'https://cieversonwa.civicweb.net/Portal/MeetingSchedule.aspx'}
+
+  - {id: lynden, name: City of Lynden, county: Whatcom, area: Lynden, type: civicclerk, tenant: lyndenwa, homepage: 'https://lyndenwa.portal.civicclerk.com/'}
+
+  - {id: pullman, name: City of Pullman, county: Whitman, area: Pullman, type: civicweb, base: 'https://pullman-wa.community.diligentoneplatform.com', homepage: 'https://pullman-wa.community.diligentoneplatform.com/Portal/'}
+
+  - id: selah
+    name: City of Selah
+    county: Yakima
+    area: Selah
+    type: civicplus
+    site: https://selahwa.gov
+    categories: [25, 23]
+    drop_uncategorized: true
+    homepage: https://selahwa.gov/Calendar.aspx
+
+  - {id: sunnyside, name: City of Sunnyside, county: Yakima, area: Sunnyside, type: primegov, tenant: sunnyside, homepage: 'https://sunnyside.primegov.com/public/portal'}
+
+  - {id: yakima, name: City of Yakima, county: Yakima, area: Yakima, type: ics, url: 'https://www.yakimawa.gov/media/calendar/?ical=1', include: council|commission|board|committee|hearing|meeting|session|workshop, homepage: 'https://www.yakimawa.gov/media/calendar/'}
+
+  - {id: naches, name: Town of Naches, county: Yakima, area: Naches, type: ics, url: 'https://townofnaches.com/events/?ical=1', include: council|commission|board|committee|hearing|meeting|session|workshop, homepage: 'https://townofnaches.com/events/'}
+
   # ---------- School boards ----------
   # Many Washington districts publish board meetings on Diligent Community
   # portals, which run the same software as CivicWeb, so they use that
