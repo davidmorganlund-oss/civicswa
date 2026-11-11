@@ -1,0 +1,343 @@
+sources:
+- id: asotin-anatone-schools
+  name: Asotin-Anatone School District
+  county: Asotin
+  area: Asotin
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/c_501fc66e1af55497728dbbaa839307bae0616b7bdca2cb5f182955ab433bef4b%40group.calendar.google.com/public/basic.ics
+  include: \bboard\b
+  homepage: https://www.aasd.wednet.edu/
+- id: bickleton-schools
+  name: Bickleton School District
+  county: Klickitat
+  area: Bickleton
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/bhs%40bickletonschools.org/public/basic.ics
+  include: \bboard\b
+  homepage: https://www.bickletonschools.org/
+- id: blaine-schools
+  name: Blaine School District
+  county: Whatcom
+  area: Blaine
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/o1c2lc7konukbfrcgt4t4526vvcd1b8a%40import.calendar.google.com/public/basic.ics
+  include: \bboard\b
+  homepage: https://www.blainesd.org/o/blaine-school-district
+- id: bremerton-schools
+  name: Bremerton School District
+  county: Kitsap
+  area: Bremerton
+  category: school
+  type: civicweb
+  base: https://bremertonschools.community.diligentoneplatform.com
+  homepage: https://bremertonschools.community.diligentoneplatform.com/Portal/
+  exclude: quorum
+- id: brinnon-schools
+  name: Brinnon School District
+  county: Jefferson
+  area: Brinnon
+  category: school
+  type: ics
+  url: https://www.bsd46.org/fs/calendar-manager/events.ics?calendar_ids[]=1
+  include: \bboard\b
+  homepage: https://www.bsd46.org/
+- id: camas-schools
+  name: Camas School District
+  county: Clark
+  area: Camas
+  category: school
+  type: civicweb
+  base: https://camas-wednet.community.diligentoneplatform.com
+  homepage: https://camas-wednet.community.diligentoneplatform.com/Portal/
+  exclude: quorum
+- id: cape-flattery-schools
+  name: Cape Flattery School District
+  county: Clallam
+  area: Neah Bay
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/c_e38ed909c3d8ec8fbf6989a7996a0be20683a1913ab6cf3983f7cfeec900c47a%40group.calendar.google.com/public/basic.ics
+  include: \bboard\b
+  homepage: https://www.cfsd401.org/
+- id: castle-rock-schools
+  name: Castle Rock School District
+  county: Cowlitz
+  area: Castle Rock
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/c_028e8d27004843cf29a55db454a67ac9ebaa75a0ffbeea7ebfb8a8b7d6762291%40group.calendar.google.com/public/basic.ics
+  include: \bboard\b
+  homepage: https://www.crschools.org/
+- id: cheney-schools
+  name: Cheney School District
+  county: Spokane
+  area: Cheney
+  category: school
+  type: civicweb
+  base: https://cheneysd.community.diligentoneplatform.com
+  homepage: https://cheneysd.community.diligentoneplatform.com/Portal/
+  exclude: quorum
+- id: conway-schools
+  name: Conway School District
+  county: Skagit
+  area: Conway
+  category: school
+  type: civicweb
+  base: https://conwayk12.community.diligentoneplatform.com
+  homepage: https://conwayk12.community.diligentoneplatform.com/Portal/
+  exclude: quorum
+- id: cosmopolis-schools
+  name: Cosmopolis School District
+  county: Grays Harbor
+  area: Cosmopolis
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/cosmopolisschool.com_01b19seneq200n7uqh0e4stifg%40group.calendar.google.com/public/basic.ics
+  include: \bboard\b
+  homepage: https://www.cosmopolisschool.com/
+- id: coupeville-schools
+  name: Coupeville School District
+  county: Island
+  area: Coupeville
+  category: school
+  type: ics
+  url: https://www.coupeville.k12.wa.us/fs/calendar-manager/events.ics?calendar_ids[]=352&calendar_ids[]=354&calendar_ids[]=357&calendar_ids[]=359&calendar_ids[]=360
+  include: \bboard\b
+  homepage: https://www.coupeville.k12.wa.us/
+- id: cusick-schools
+  name: Cusick School District
+  county: Pend Oreille
+  area: Cusick
+  category: school
+  type: ics
+  url: https://www.cusick.wednet.edu/fs/calendar-manager/events.ics?calendar_ids[]=1
+  include: \bboard\b
+  homepage: https://www.cusick.wednet.edu/
+- id: endicott-schools
+  name: Endicott School District
+  county: Whitman
+  area: Endicott
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/sjeschools.org_e62okl3g4t88lfmk8osme35am4%40group.calendar.google.com/public/basic.ics
+  include: \bboard\b
+  homepage: https://www.sje.wednet.edu/
+- id: green-mountain-schools
+  name: Green Mountain School District
+  county: Cowlitz
+  area: Woodland
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/gms103events%40gmail.com/public/basic.ics
+  include: \bboard\b
+  homepage: https://greenmountainschool.us/
+- id: issaquah-schools
+  name: Issaquah School District
+  county: King
+  area: Issaquah
+  category: school
+  type: ics
+  url: https://www.isd411.org/fs/calendar-manager/events.ics?calendar_ids[]=22&calendar_ids[]=24&calendar_ids[]=25&calendar_ids[]=26&calendar_ids[]=27&calendar_ids[]=28&calendar_ids[]=29&calendar_ids[]=30
+  include: \bboard\b
+  homepage: https://www.isd411.org/
+- id: kelso-schools
+  name: Kelso School District
+  county: Cowlitz
+  area: Kelso
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/c_e2803e3c2a220db584f4d0e14cd6f3963ce5af287caf098f80107d3c70d01cfb%40group.calendar.google.com/public/basic.ics
+  include: \bboard\b
+  homepage: https://www.kelso.wednet.edu/
+- id: lamont-schools
+  name: Lamont School District
+  county: Whitman
+  area: Lamont
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/c_e97fd80bff1214a994fa783e4f781937505fbbafe58665cada05807aae1701e7%40group.calendar.google.com/public/basic.ics
+  include: \bboard\b
+  homepage: https://www.spraguelamont.org/
+- id: liberty-schools
+  name: Liberty School District
+  county: Spokane
+  area: Spangle
+  category: school
+  type: ics
+  url: https://www.libertysd.us/fs/calendar-manager/events.ics?calendar_ids[]=2&calendar_ids[]=3&calendar_ids[]=4&calendar_ids[]=5&calendar_ids[]=6&calendar_ids[]=7&calendar_ids[]=8&calendar_ids[]=9&calendar_ids[]=11
+  include: \bboard\b
+  homepage: https://www.libertysd.us/
+- id: mercer-island-schools
+  name: Mercer Island School District
+  county: King
+  area: Mercer Island
+  category: school
+  type: ics
+  url: https://www.mercerislandschools.org/fs/calendar-manager/events.ics?calendar_ids[]=10&calendar_ids[]=14&calendar_ids[]=15&calendar_ids[]=25&calendar_ids[]=26&calendar_ids[]=27&calendar_ids[]=28&calendar_ids[]=30&calendar_ids[]=31&calendar_ids[]=32&calendar_ids[]=33
+  include: \bboard\b
+  homepage: https://www.mercerislandschools.org/
+- id: naches-valley-schools
+  name: Naches Valley School District
+  county: Yakima
+  area: Naches
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/nvsd.org_ggok1lqvrd5s29rofu2vd8s0k8%40group.calendar.google.com/public/basic.ics
+  include: \bboard\b
+  homepage: https://nachesvalley.org
+- id: north-kitsap-schools
+  name: North Kitsap School District
+  county: Kitsap
+  area: Poulsbo
+  category: school
+  type: civicweb
+  base: https://nkschools.community.diligentoneplatform.com
+  homepage: https://nkschools.community.diligentoneplatform.com/Portal/
+  exclude: quorum
+- id: orcas-island-schools
+  name: Orcas Island School District
+  county: San Juan
+  area: Eastsound
+  category: school
+  type: civicweb
+  base: https://orcasislandschools.community.diligentoneplatform.com
+  homepage: https://orcasislandschools.community.diligentoneplatform.com/Portal/
+  exclude: quorum
+- id: orient-no-65-schools
+  name: Orient No 65 School District
+  county: Stevens
+  area: Orient
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/orientsd.calendar%40gmail.com/public/basic.ics
+  include: \bboard\b
+  homepage: https://orientsd.org/
+- id: peninsula-schools
+  name: Peninsula School District
+  county: Pierce
+  area: Gig Harbor
+  category: school
+  type: civicweb
+  base: https://psd401.community.diligentoneplatform.com
+  homepage: https://psd401.community.diligentoneplatform.com/Portal/
+  exclude: quorum
+- id: pioneer-schools
+  name: Pioneer School District
+  county: Mason
+  area: Shelton
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/c_4e25712626803e29e3bceb3b043ec24eb032ed25181e58bb9c77a202b57c51fb%40group.calendar.google.com/public/basic.ics
+  include: \bboard\b
+  homepage: https://www.psd402.org/
+- id: pomeroy-schools
+  name: Pomeroy School District
+  county: Garfield
+  area: Pomeroy
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/c_0c7f8457bbc0fe4d38c0cbb2d42ebb09d6cbc902be005e842886073dfc7fc3bd%40group.calendar.google.com/public/basic.ics
+  include: \bboard\b
+  homepage: https://psd.wednet.edu/
+- id: quincy-schools
+  name: Quincy School District
+  county: Grant
+  area: Quincy
+  category: school
+  type: civicweb
+  base: https://hqsd-wednet.community.diligentoneplatform.com
+  homepage: https://hqsd-wednet.community.diligentoneplatform.com/Portal/
+  exclude: quorum
+- id: rainier-schools
+  name: Rainier School District
+  county: Thurston
+  area: Rainier
+  category: school
+  type: ics
+  url: https://www.rainier.education/fs/calendar-manager/events.ics?calendar_ids[]=5&calendar_ids[]=6&calendar_ids[]=366
+  include: \bboard\b
+  homepage: https://www.rainier.education/
+- id: reardan-edwall-schools
+  name: Reardan-Edwall School District
+  county: Lincoln
+  area: Reardan
+  category: school
+  type: ics
+  url: https://www.reardan.net/fs/calendar-manager/events.ics?calendar_ids[]=6&calendar_ids[]=7&calendar_ids[]=8&calendar_ids[]=9&calendar_ids[]=11
+  include: \bboard\b
+  homepage: https://www.reardan.net/
+- id: riverview-schools
+  name: Riverview School District
+  county: King
+  area: Carnation
+  category: school
+  type: civicweb
+  base: https://rsd407.community.diligentoneplatform.com
+  homepage: https://rsd407.community.diligentoneplatform.com/Portal/
+  exclude: quorum
+- id: shoreline-schools
+  name: Shoreline School District
+  county: King
+  area: Shoreline
+  category: school
+  type: ics
+  url: https://www.ssd412.org/fs/calendar-manager/events.ics?calendar_ids[]=1&calendar_ids[]=2&calendar_ids[]=3&calendar_ids[]=4&calendar_ids[]=5&calendar_ids[]=6&calendar_ids[]=7&calendar_ids[]=8&calendar_ids[]=9&calendar_ids[]=10&calendar_ids[]=11&calendar_ids[]=12&calendar_ids[]=13&calendar_ids[]=14&calendar_ids[]=15&calendar_ids[]=16&calendar_ids[]=17&calendar_ids[]=19&calendar_ids[]=26
+  include: \bboard\b
+  homepage: https://www.ssd412.org/
+- id: southside-schools
+  name: Southside School District
+  county: Mason
+  area: Shelton
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/southsideschool.org_069eoldv4caltgtjqjh2e86eh8%40group.calendar.google.com/public/basic.ics
+  include: \bboard\b
+  homepage: https://southsideschool.org/
+- id: steilacoom-hist-schools
+  name: Steilacoom Hist. School District
+  county: Pierce
+  area: Steilacoom
+  category: school
+  type: civicweb
+  base: https://steilacoom.community.diligentoneplatform.com
+  homepage: https://steilacoom.community.diligentoneplatform.com/Portal/
+  exclude: quorum
+- id: thorp-schools
+  name: Thorp School District
+  county: Kittitas
+  area: Thorp
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/c_2f5c66c33f12be9b7abafc57d03b70c0d163afc40e9fb4cfef86f424b2353640%40group.calendar.google.com/public/basic.ics
+  include: \bboard\b
+  homepage: https://www.thorpschools.org/
+- id: touchet-schools
+  name: Touchet School District
+  county: Walla Walla
+  area: Touchet
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/touchet.k12.wa.us_eqn37466jqo11ojmqkuumf8vfg%40group.calendar.google.com/public/basic.ics
+  include: \bboard\b
+  homepage: https://www.touchet.k12.wa.us/
+- id: west-valley-yakima-schools
+  name: West Valley (Yakima) School District
+  county: Yakima
+  area: Yakima
+  category: school
+  type: civicweb
+  base: https://wvsd208.community.diligentoneplatform.com
+  homepage: https://wvsd208.community.diligentoneplatform.com/Portal/
+  exclude: quorum
+- id: willapa-valley-schools
+  name: Willapa Valley School District
+  county: Pacific
+  area: Menlo
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/willapavalley.org_uk4iouc110kr1aksa9lb8lf1ho%40group.calendar.google.com/public/basic.ics
+  include: \bboard\b
+  homepage: https://www.willapavalley.org/
