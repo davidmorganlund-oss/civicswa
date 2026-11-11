@@ -70,10 +70,10 @@ def probe(row):
     res["finalsite"] = "fsElement" in blob or "finalsite" in blob.lower()
     if re.search(r"/AgendaCenter|CivicPlus|/Calendar\.aspx|/DocumentCenter", blob, re.I):
         root = f"{urlparse(final).scheme}://{host}"
-        s, _, cal = get(root + "/Calendar.aspx")
+        s, _, cal = get(root + "/iCalendar.aspx")
         cats = []
         if s and s < 400:
-            cats = re.findall(r'<option[^>]*value="(\d+)"[^>]*>\s*([^<]{2,80}?)\s*</option>', cal)
+            cats = re.findall(r'catID=(\d+)&(?:amp;)?feed=calendar"[^>]*>\s*([^<]{2,80}?)\s*</a>', cal)
         res["civicplus"] = {"root": root, "cats": cats[:80]}
         res["agendacenter"] = bool(re.search(r"/AgendaCenter", blob, re.I))
     return res
