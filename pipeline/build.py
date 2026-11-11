@@ -94,7 +94,13 @@ PROCEDURAL = re.compile(
     r"(agenda|minutes|.*minutes$)|approve the (agenda|minutes)|adopt(ion of)? (the )?(agenda|minutes)|"
     r"public comment|citizen comment|adjourn|recess|good of the order|executive session|vote requested|"
     r"hybrid meeting|connecting to|webinar|see attached|this meeting (has been|will be)|properly noticed|"
-    r"item no|agenda review|adoption of (the )?(introduction|consent|agenda)|join (the )?(meeting|zoom))", re.I)
+    r"item no|agenda review|adoption of (the )?(introduction|consent|agenda)|join (the )?(meeting|zoom)|"
+    r"the .{0,80}meeting scheduled for|the public can (participate|attend|watch)|excused absences|"
+    r"confirm(ation of)? (the )?agenda|minutes of|calendar ?/ ?correspondence|page break|reminder|"
+    r"record of hearing|approval of (the )?.*(agenda|minutes)$|(city )?council action updates?|"
+    r"(intergovernmental|outside|committee|staff|board|member|commissioner)s?(/[a-z ]+)? (committee )?updates?$|"
+    r"administrative items|public access time|issue briefing$)", re.I)
+TIME_PREFIX = re.compile(r"^\d{1,2}(:\d{2})?\s*[ap]\.?m\.?(\s*[–-]\s*\d{1,2}(:\d{2})?\s*[ap]\.?m\.?)?\s*[–:-]?\s*", re.I)
 # Section headings that only count as procedure when they are the whole item.
 HEADING = re.compile(
     r"^((regular |special )?minutes|public (comment|testimony)|announcements?|(staff )?reports?|"
@@ -111,6 +117,7 @@ def clean_item(text: str) -> str:
     text = re.split(r"<br\s*/?>|\r|\n", text or "", maxsplit=1)[0]
     text = htmllib.unescape(re.sub(r"<[^>]+>", " ", text))
     text = " ".join(text.replace("*", " ").split()).strip(" :.-")
+    text = TIME_PREFIX.sub("", text)
     if len(text) > 140:
         text = text[:140].rsplit(" ", 1)[0].rstrip(",;:") + "…"
     return text
@@ -120,7 +127,8 @@ def pick_highlights(titles):
     picked = []
     for t in titles:
         t = clean_item(t)
-        if len(t) < 6 or PROCEDURAL.match(t) or HEADING.match(t) or t in picked:
+        shouting = t.isupper() and len(t.split()) <= 4 and not re.search(r"\d", t)  # an all-caps heading
+        if len(t) < 6 or shouting or PROCEDURAL.match(t) or HEADING.match(t) or t in picked:
             continue
         picked.append(t)
     return picked
