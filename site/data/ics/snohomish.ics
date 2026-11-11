@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Snohomish County
 BEGIN:VEVENT
 UID:524d8e6f832f@civicswa
-DTSTAMP:20261111T160854Z
+DTSTAMP:20261111T161122Z
 DTSTART:20261118T173000Z
 DTEND:20261118T183000Z
 SUMMARY:Civil Service - Third Wednesday (City of Marysville)
@@ -13,7 +13,7 @@ URL:https://marysvillewa.portal.civicclerk.com/event/205/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:386c9f382901@civicswa
-DTSTAMP:20261111T160854Z
+DTSTAMP:20261111T161122Z
 DTSTART:20261119T000000Z
 DTEND:20261119T010000Z
 SUMMARY:LEOFF1 Disability Board Meeting (City of Marysville)
@@ -22,7 +22,7 @@ URL:https://marysvillewa.portal.civicclerk.com/event/213/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:c0255ee17c47@civicswa
-DTSTAMP:20261111T160854Z
+DTSTAMP:20261111T161122Z
 DTSTART:20261124T030000Z
 DTEND:20261124T040000Z
 SUMMARY:City Council Meeting (City of Marysville)
@@ -31,7 +31,7 @@ URL:https://marysvillewa.portal.civicclerk.com/event/174/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:305127df22ee@civicswa
-DTSTAMP:20261111T160854Z
+DTSTAMP:20261111T161122Z
 DTSTART:20261125T023000Z
 DTEND:20261125T033000Z
 SUMMARY:Planning Commission (City of Marysville)
@@ -40,7 +40,7 @@ URL:https://marysvillewa.portal.civicclerk.com/event/392/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:04917326ba5a@civicswa
-DTSTAMP:20261111T160854Z
+DTSTAMP:20261111T161122Z
 DTSTART:20261208T013000Z
 DTEND:20261208T023000Z
 SUMMARY:Economic Development Committee (City of Marysville)
@@ -49,7 +49,7 @@ URL:https://marysvillewa.portal.civicclerk.com/event/406/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:78045369b008@civicswa
-DTSTAMP:20261111T160854Z
+DTSTAMP:20261111T161122Z
 DTSTART:20261208T030000Z
 DTEND:20261208T040000Z
 SUMMARY:City Council Work Session (City of Marysville)
@@ -58,7 +58,7 @@ URL:https://marysvillewa.portal.civicclerk.com/event/149/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:c18df402f1a2@civicswa
-DTSTAMP:20261111T160854Z
+DTSTAMP:20261111T161122Z
 DTSTART:20261209T023000Z
 DTEND:20261209T033000Z
 SUMMARY:Planning Commission (City of Marysville)
@@ -67,7 +67,7 @@ URL:https://marysvillewa.portal.civicclerk.com/event/380/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:291bfb7b4056@civicswa
-DTSTAMP:20261111T160854Z
+DTSTAMP:20261111T161122Z
 DTSTART:20261215T030000Z
 DTEND:20261215T040000Z
 SUMMARY:City Council Meeting (City of Marysville)
@@ -76,7 +76,7 @@ URL:https://marysvillewa.portal.civicclerk.com/event/162/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:d1ee023391fa@civicswa
-DTSTAMP:20261111T160854Z
+DTSTAMP:20261111T161122Z
 DTSTART:20261216T173000Z
 DTEND:20261216T183000Z
 SUMMARY:Civil Service - Third Wednesday (City of Marysville)
@@ -85,7 +85,7 @@ URL:https://marysvillewa.portal.civicclerk.com/event/206/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:0a34ef62e927@civicswa
-DTSTAMP:20261111T160854Z
+DTSTAMP:20261111T161122Z
 DTSTART:20261223T023000Z
 DTEND:20261223T033000Z
 SUMMARY:Planning Commission (City of Marysville)
@@ -94,7 +94,7 @@ URL:https://marysvillewa.portal.civicclerk.com/event/393/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:44b145925278@civicswa
-DTSTAMP:20261111T160854Z
+DTSTAMP:20261111T161122Z
 DTSTART:20270105T013000Z
 DTEND:20270105T023000Z
 SUMMARY:Economic Development Committee (City of Marysville)
@@ -103,7 +103,7 @@ URL:https://marysvillewa.portal.civicclerk.com/event/407/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:522a17e3f034@civicswa
-DTSTAMP:20261111T160854Z
+DTSTAMP:20261111T161122Z
 DTSTART:20270105T030000Z
 DTEND:20270105T040000Z
 SUMMARY:City Council Meeting (City of Marysville)
