@@ -678,6 +678,38 @@ def schedule_dates(rule: str, start_day: date, end_day: date):
         day += timedelta(days=1)
 
 
+def nth_weekday(year, month, weekday, n):
+    """n-th weekday of a month (n = -1 for the last one)."""
+    if n > 0:
+        first = date(year, month, 1)
+        return first + timedelta(days=(weekday - first.weekday()) % 7 + 7 * (n - 1))
+    last = (date(year + month // 12, month % 12 + 1, 1) - timedelta(days=1))
+    return last - timedelta(days=(last.weekday() - weekday) % 7)
+
+
+def wa_holidays(year):
+    """Washington legal holidays (RCW 1.16.050), with weekend dates observed."""
+    fixed = [date(year, 1, 1), date(year, 6, 19), date(year, 7, 4), date(year, 11, 11), date(year, 12, 25)]
+    days = set()
+    for d in fixed:
+        days.add(d - timedelta(days=1) if d.weekday() == 5 else d + timedelta(days=1) if d.weekday() == 6 else d)
+    thanksgiving = nth_weekday(year, 11, 3, 4)
+    days |= {nth_weekday(year, 1, 0, 3), nth_weekday(year, 2, 0, 3), nth_weekday(year, 5, 0, -1),
+             nth_weekday(year, 9, 0, 1), thanksgiving, thanksgiving + timedelta(days=1)}
+    return days
+
+
+def next_business_day(day):
+    """RCW 42.30.070: a regular meeting that falls on a holiday is held on the next business day."""
+    while day.weekday() >= 5 or day in wa_holidays(day.year):
+        day += timedelta(days=1)
+    return day
+
+
+HOLIDAY_NOTE = ("The regular date falls on a holiday, so state law moves the meeting to the next "
+                "business day. The host may set a different date.")
+
+
 def fetch_schedule(src, start_day, end_day, tz):
     events = []
     for mtg in src["meetings"]:
@@ -695,13 +727,16 @@ def fetch_schedule(src, start_day, end_day, tz):
         for day in days:
             if day.month in mtg.get("skip_months", []) or str(day) in [str(d) for d in mtg.get("skip_dates", [])]:
                 continue
+            moved = False
+            if not mtg.get("dates") and day in wa_holidays(day.year):
+                day, moved = next_business_day(day), True
             start = datetime.combine(day, time(hh, mm), tz)
             if mtg.get("end"):
                 end = datetime.combine(day, time(eh, em), tz)
             events.append(make_event(
                 src, title=mtg["title"], start=start, end=end,
                 location=mtg.get("location", ""), url=mtg.get("url", ""),
-                note=SCHEDULE_NOTE + (" " + mtg["note"] if mtg.get("note") else ""),
+                note=SCHEDULE_NOTE + (" " + HOLIDAY_NOTE if moved else "") + (" " + mtg["note"] if mtg.get("note") else ""),
                 uid=f"{mtg['title']}|{day.isoformat()}", category=mtg.get("category", ""),
             ))
     return events

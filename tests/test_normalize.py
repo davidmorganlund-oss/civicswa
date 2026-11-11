@@ -310,3 +310,13 @@ def test_include_keeps_board_meetings_only():
     rows = [build.make_event(src, title=t, start=build.datetime(2026, 12, 1, 18, 0, tzinfo=TZ))
             for t in ["School board meeting", "Winter break"]]
     assert [e["title"] for e in build.apply_source_rules(src, rows)] == ["School board meeting"]
+
+
+def test_schedule_moves_holiday_meetings():
+    assert build.date(2026, 11, 26) in build.wa_holidays(2026)       # Thanksgiving
+    assert build.date(2026, 11, 27) in build.wa_holidays(2026)       # day after
+    assert build.date(2027, 1, 18) in build.wa_holidays(2027)        # MLK Day
+    src = {"id": "t", "name": "Tacoma Public Schools", "area": "Tacoma",
+           "meetings": [{"title": "School Board Meeting", "when": "4th Thursday", "time": "18:00"}]}
+    (e,) = build.fetch_schedule(src, date(2026, 11, 1), date(2026, 11, 30), TZ)
+    assert e["start"].startswith("2026-11-30T18:00") and "holiday" in e["note"]
