@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Clark County
 BEGIN:VEVENT
 UID:4f1b81a92f98@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261111T160000Z
 DTEND:20261111T170000Z
 SUMMARY:Parking Advisory Committee (City of Vancouver)
@@ -13,7 +13,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1687/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f4fc9563b183@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261112T170000Z
 DTEND:20261112T180000Z
 SUMMARY:Debt Management Commission (Clark County)
@@ -22,7 +22,7 @@ URL:https://clark.legistar.com/MeetingDetail.aspx?LEGID=3025&GID=758&G=7F62DBDE-
 END:VEVENT
 BEGIN:VEVENT
 UID:a55c716848b4@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261113T003000Z
 DTEND:20261113T013000Z
 SUMMARY:Culture\, Arts & Heritage Commission - November Regular Meeting (City of Vancouver)
@@ -31,7 +31,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1750/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ec4a08392d39@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261113T170000Z
 DTEND:20261113T180000Z
 SUMMARY:City Council Meeting (City of Vancouver)
@@ -40,7 +40,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1764/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:a6bdaa56364a@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261113T210000Z
 DTEND:20261113T220000Z
 SUMMARY:Special Meeting (Clark County)
@@ -49,7 +49,7 @@ URL:https://clark.legistar.com/MeetingDetail.aspx?LEGID=2921&GID=758&G=7F62DBDE-
 END:VEVENT
 BEGIN:VEVENT
 UID:081ce7bafb4b@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261117T000000Z
 DTEND:20261117T010000Z
 SUMMARY:City Council Meeting (City of Vancouver)
@@ -58,7 +58,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1500/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:efdba57e2c44@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261117T023000Z
 DTEND:20261117T033000Z
 SUMMARY:Transportation Benefit District Meeting (City of Vancouver)
@@ -67,7 +67,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1532/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:c1aaea9ed7c2@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261117T170000Z
 DTEND:20261117T180000Z
 SUMMARY:Clark County Board of Commissioners (Clark County)
@@ -76,7 +76,7 @@ URL:https://clark.legistar.com/MeetingDetail.aspx?LEGID=3022&GID=758&G=7F62DBDE-
 END:VEVENT
 BEGIN:VEVENT
 UID:8364fe95c66e@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261118T020000Z
 DTEND:20261118T030000Z
 SUMMARY:Clark County Planning Commission Briefing (Clark County)
@@ -85,7 +85,7 @@ URL:https://clark.legistar.com/MeetingDetail.aspx?LEGID=3039&GID=758&G=7F62DBDE-
 END:VEVENT
 BEGIN:VEVENT
 UID:5637fc6280d6@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261118T030000Z
 DTEND:20261118T040000Z
 SUMMARY:Clark County Planning Commission (Clark County)
@@ -94,7 +94,7 @@ URL:https://clark.legistar.com/MeetingDetail.aspx?LEGID=3038&GID=758&G=7F62DBDE-
 END:VEVENT
 BEGIN:VEVENT
 UID:06c7628c39e5@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261118T160000Z
 DTEND:20261118T170000Z
 SUMMARY:Civil Service Commission (City of Vancouver)
@@ -103,7 +103,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1573/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:4f3306ccefa4@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261118T160000Z
 DTEND:20261118T170000Z
 SUMMARY:Civil Service Commission Special meeting (City of Vancouver)
@@ -112,7 +112,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1751/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8a9a294a49bb@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261118T170000Z
 DTEND:20261118T180000Z
 SUMMARY:Clark County Zoning Commission (Clark County)
@@ -121,7 +121,7 @@ URL:https://clark.legistar.com/MeetingDetail.aspx?LEGID=3037&GID=758&G=7F62DBDE-
 END:VEVENT
 BEGIN:VEVENT
 UID:6512325d8fe9@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261118T200000Z
 DTEND:20261118T210000Z
 SUMMARY:Lodging Tax Advisory Committee - Special Meeting (City of Vancouver)
@@ -130,7 +130,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1722/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:641d8d2ac0af@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261118T233000Z
 DTEND:20261119T003000Z
 SUMMARY:City/County Telecommunications Commission Meeting (City of Vancouver)
@@ -139,7 +139,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1765/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:1e7a983e0abd@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261119T020000Z
 DTEND:20261119T030000Z
 SUMMARY:Urban Forestry Commission (City of Vancouver)
@@ -148,7 +148,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1710/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:c3b092bca52e@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261119T203000Z
 DTEND:20261119T213000Z
 SUMMARY:City Center Redevelopment Authority (City of Vancouver)
@@ -157,7 +157,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1766/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e11fab372030@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261124T000000Z
 DTEND:20261124T010000Z
 SUMMARY:City Council Meeting (City of Vancouver)
@@ -166,7 +166,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1512/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f02f3be341f6@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261125T003000Z
 DTEND:20261125T013000Z
 SUMMARY:Planning Commission (City of Vancouver)
@@ -175,7 +175,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1527/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e8aace75328a@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261202T003000Z
 DTEND:20261202T013000Z
 SUMMARY:CANCELLED: Transportation and Mobility Commission - Cancelled (City of Vancouver)
@@ -184,7 +184,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1558/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7160af5aad07@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261208T000000Z
 DTEND:20261208T010000Z
 SUMMARY:City Council Meeting (City of Vancouver)
@@ -193,7 +193,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1475/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:31cba601cb6d@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261209T003000Z
 DTEND:20261209T013000Z
 SUMMARY:Planning Commission - 2nd Tuesday (City of Vancouver)
@@ -202,7 +202,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1543/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:bf84dbb3b24f@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261209T160000Z
 DTEND:20261209T170000Z
 SUMMARY:Parking Advisory Committee (City of Vancouver)
@@ -211,7 +211,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1688/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:a46a1356740e@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261209T200000Z
 DTEND:20261209T210000Z
 SUMMARY:Lodging Tax Advisory Committee (City of Vancouver)
@@ -220,7 +220,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1603/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e868d9d6575d@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261215T000000Z
 DTEND:20261215T010000Z
 SUMMARY:City Council Meeting (City of Vancouver)
@@ -229,7 +229,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1488/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:31b5f2938f05@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261215T190000Z
 DTEND:20261215T200000Z
 SUMMARY:Public Facilities District Board (City of Vancouver)
@@ -238,7 +238,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1767/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:514f1e1cb02b@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261216T160000Z
 DTEND:20261216T170000Z
 SUMMARY:Civil Service Commission (City of Vancouver)
@@ -247,7 +247,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1574/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f90845fc9c82@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261216T160000Z
 DTEND:20261216T170000Z
 SUMMARY:Civil Service Commission Special meeting (City of Vancouver)
@@ -256,7 +256,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1752/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:454659acd83b@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261217T190000Z
 DTEND:20261217T200000Z
 SUMMARY:Downtown Redevelopment Authority (City of Vancouver)
@@ -265,7 +265,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1576/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2bf2fa4dadb8@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20261223T003000Z
 DTEND:20261223T013000Z
 SUMMARY:Planning Commission (City of Vancouver)
@@ -274,7 +274,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1528/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:b63f84d3ee3c@civicswa
-DTSTAMP:20261111T120038Z
+DTSTAMP:20261111T160854Z
 DTSTART:20270106T003000Z
 DTEND:20270106T013000Z
 SUMMARY:Transportation and Mobility Commission (City of Vancouver)
