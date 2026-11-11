@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T00:38:57-08:00",
+ "generated": "2026-11-11T00:48:57-08:00",
  "events": [
   {
    "id": "1285867c136d",
@@ -34,6 +34,22 @@
    "cancelled": false
   },
   {
+   "id": "63f43b9cd933",
+   "title": "LEOFF 1",
+   "host": "City of Tumwater",
+   "source": "tumwater",
+   "area": "Tumwater",
+   "category": "other",
+   "start": "2026-11-12T11:00:00-08:00",
+   "end": "2026-11-12T12:00:00-08:00",
+   "all_day": false,
+   "location": "",
+   "url": "https://www.ci.tumwater.wa.us/Home/Components/Calendar/Event/9572/",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": true
+  },
+  {
    "id": "be51309a3931",
    "title": "TRL Board of Trustees Special Meeting - Budget Committee",
    "host": "Timberland Regional Library",
@@ -63,6 +79,22 @@
    "url": "https://olympia.legistar.com/MeetingDetail.aspx?LEGID=7304&GID=218&G=19510D34-31FB-48B8-9C02-4D026953451C",
    "agenda_url": "https://legistar.granicus.com/olympia/meetings/2026/11/7304_A_Heritage_Commission_26-11-12_Meeting_Agenda.pdf",
    "note": "Special Meeting. Register to attend: https://us02web.zoom.us/webinar/register/WN_3gDLn6v_SayYAJ4YpuGvnQ",
+   "cancelled": false
+  },
+  {
+   "id": "1e27eb528697",
+   "title": "Civil Service Commission",
+   "host": "City of Tumwater",
+   "source": "tumwater",
+   "area": "Tumwater",
+   "category": "council",
+   "start": "2026-11-12T17:30:00-08:00",
+   "end": "2026-11-12T18:30:00-08:00",
+   "all_day": false,
+   "location": "",
+   "url": "https://www.ci.tumwater.wa.us/Home/Components/Calendar/Event/9547/",
+   "agenda_url": "",
+   "note": "",
    "cancelled": false
   },
   {
@@ -178,6 +210,22 @@
    "cancelled": false
   },
   {
+   "id": "06ed042b694e",
+   "title": "Tumwater Metropolitan Park District",
+   "host": "City of Tumwater",
+   "source": "tumwater",
+   "area": "Tumwater",
+   "category": "council",
+   "start": "2026-11-17T17:30:00-08:00",
+   "end": "2026-11-17T19:00:00-08:00",
+   "all_day": false,
+   "location": "",
+   "url": "https://www.ci.tumwater.wa.us/Home/Components/Calendar/Event/10507/",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "5506d33230d6",
    "title": "City Council Meeting",
    "host": "City of Lacey",
@@ -189,6 +237,22 @@
    "all_day": false,
    "location": "Lacey City Hall Council Chambers",
    "url": "https://laceywa.portal.civicclerk.com/event/1394/overview",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "6fb6f95023fc",
+   "title": "City Council",
+   "host": "City of Tumwater",
+   "source": "tumwater",
+   "area": "Tumwater",
+   "category": "council",
+   "start": "2026-11-17T19:00:00-08:00",
+   "end": "2026-11-17T22:00:00-08:00",
+   "all_day": false,
+   "location": "",
+   "url": "https://www.ci.tumwater.wa.us/Home/Components/Calendar/Event/9923/",
    "agenda_url": "",
    "note": "",
    "cancelled": false
