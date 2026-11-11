@@ -107,7 +107,7 @@ HEADING = re.compile(
     r"(chair|director|commissioners?|council ?members?|mayor|manager|staff|council)('?s)?( (report|comments|update)s?)?|"
     r"other (topics|business|items)|upcoming|consent (agenda|calendar)|introduction and referral( calendar)?|"
     r"items of interest|correspondence|(unfinished|old|new) business|business items|action items|"
-    r"discussion items|public hearings?|work session|study session)$", re.I)
+    r"discussion items|public hearings?|work session|study session|introductions?( of members)?|committee discussion|wrap[- ]up|next steps|closing remarks|welcome( and introductions)?)$", re.I)
 HIGHLIGHT_WINDOW_DAYS = 21
 HIGHLIGHT_COUNT = 3
 
@@ -706,7 +706,12 @@ def normalize_wsl_meetings(src, xml_text, tz):
     for m in ET.fromstring(xml_text).iter():
         if local(m.tag) != "CommitteeMeeting":
             continue
-        names = [(c.text or "").strip() for c in m.iter() if local(c.tag) == "LongName"]
+        names = []
+        for c in m.iter():
+            if local(c.tag) != "Committee":
+                continue
+            name, agency = wsl_text(c, "Name"), wsl_text(c, "Agency")
+            names.append(f"{agency} {name}" if agency in ("House", "Senate") and not name.startswith(agency) else name)
         raw = wsl_text(m, "Date")
         if not raw:
             continue
@@ -739,7 +744,7 @@ def wsl_items(xml_text):
         kind = wsl_text(i, "HearingTypeDescription")
         hearing = hearing or kind.lower().startswith("public hearing")
         text = f"{bill} – {desc}" if bill else desc
-        if kind and kind.lower() not in ("work session",):
+        if kind and kind.lower() not in ("work session", "agenda", "other"):
             text = f"{kind}: {text}"
         out.append(text)
     return out, hearing
@@ -757,9 +762,7 @@ def fetch_wsl_committees(src, start_day, end_day, tz):
         except Exception as exc:
             print(f"[info] legislature: no items for {e['_agenda']}: {exc}", file=sys.stderr)
             continue
-        if items:
-            e["highlights"] = [clean_item(t) for t in items[:HIGHLIGHT_COUNT]]
-            e["highlights_more"] = max(0, len(items) - HIGHLIGHT_COUNT)
+        add_highlights(e, items)
         if hearing:
             e["note"] = ("This meeting includes a public hearing. You can sign in, send written "
                          "testimony or sign up to testify remotely through the Legislature's "

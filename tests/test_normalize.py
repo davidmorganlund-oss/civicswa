@@ -266,7 +266,7 @@ def test_legislature_committees():
            "county": "Statewide", "homepage": "https://app.leg.wa.gov/committeeschedules/"}
     ns = 'xmlns="http://WSLWebServices.leg.wa.gov/"'
     meetings = f"""<ArrayOfCommitteeMeeting {ns}><CommitteeMeeting><AgendaId>34269</AgendaId>
-      <Committees><Committee><LongName>House Appropriations</LongName></Committee></Committees>
+      <Committees><Committee><Name>Appropriations</Name><LongName>House Appropriations</LongName><Agency>House</Agency></Committee></Committees>
       <Room>House JPB 102 and Virtual</Room><Building>Joel Pritchard Building</Building>
       <Date>2026-12-10T16:00:00</Date><Cancelled>false</Cancelled><CommitteeType>Full Committee</CommitteeType><Notes/>
       </CommitteeMeeting></ArrayOfCommitteeMeeting>"""
