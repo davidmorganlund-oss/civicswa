@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T08:35:57-08:00",
+ "generated": "2026-11-11T08:37:27-08:00",
  "events": [
   {
    "id": "4f1b81a92f98",
@@ -373,7 +373,13 @@
    "url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3025&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
    "agenda_url": "https://clark.legistar1.com/clark/meetings/2026/11/3025_A_Debt_Management_Commission_26-11-12_General_Agenda.pdf",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Approve, adopt, and authorize the Chair to sign a resolution concerning a proposal to issue Clark County, Nevada, General Obligation\u2026",
+    "This meeting has been properly noticed and posted online at https://clarkcountynv.gov/agendas and Nevada Public Notice at\u2026",
+    "Clark County Government Center (Principal Office)"
+   ],
+   "highlights_more": 4
   },
   {
    "id": "e547cbf68b31",
@@ -390,7 +396,13 @@
    "url": "https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6922&GID=393&G=FFE3B678-CEF6-4197-84AC-5204EA4CFC0C",
    "agenda_url": "https://legistar2.granicus.com/seattle/meetings/2026/11/6922_A_City_Council_26-11-12_Full_Council_Meeting_Agenda.pdf",
    "note": "Special Meeting",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "An ordinance relating to the Traffic Code; creating a new permitting program for owners of motor homes and travel trailers to support a\u2026",
+    "ADOPTION OF INTRODUCTION AND REFERRAL CALENDAR",
+    "RECONSIDERATION OF COUNCIL BILL VETOED BY MAYOR"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "4f6d241a817b",
@@ -696,7 +708,11 @@
    "url": "https://whatcom.legistar.com/MeetingDetail.aspx?LEGID=3408&GID=694&G=EEA73D23-6E2E-458B-A953-3C147C8AA447",
    "agenda_url": "",
    "note": "COMMUNITY CONVERSATIONS EVENT -- 4:30-6:30PM -- IN-PERSON ONLY; NO REMOTE PARTICIPATION AVAILABLE -- LEARN MORE AT www.whatcomcounty.us/4668",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "SEE ATTACHED"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "1eff198c7f2d",
@@ -730,7 +746,13 @@
    "url": "https://olympia.legistar.com/MeetingDetail.aspx?LEGID=7304&GID=218&G=19510D34-31FB-48B8-9C02-4D026953451C",
    "agenda_url": "https://legistar.granicus.com/olympia/meetings/2026/11/7304_A_Heritage_Commission_26-11-12_Meeting_Agenda.pdf",
    "note": "Special Meeting. Register to attend: https://us02web.zoom.us/webinar/register/WN_3gDLn6v_SayYAJ4YpuGvnQ",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Recommend Approval for Evergreen Inn Special Tax Valuation",
+    "Public Hearing and Decision- Evergreen Inn Heritage Register Listing",
+    "Accommodations"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "1e27eb528697",
@@ -781,7 +803,13 @@
    "url": "https://olympia.legistar.com/MeetingDetail.aspx?LEGID=7305&GID=218&G=19510D34-31FB-48B8-9C02-4D026953451C",
    "agenda_url": "https://legistar.granicus.com/olympia/meetings/2026/11/7305_A_Arts_Commission_26-11-12_Meeting_Agenda.pdf",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Review of Gift of Art: Friends Forever Bench",
+    "Approval of the Arts Commission Work Plan Update for City Council",
+    "Review of Recommended Designs for 10 Traffic Box Wraps"
+   ],
+   "highlights_more": 2
   },
   {
    "id": "610159bc42fd",
@@ -849,7 +877,13 @@
    "url": "https://bellevue.legistar.com/MeetingDetail.aspx?LEGID=2968&GID=437&G=AFBA31DB-76DD-4BCE-BED0-FAC159781D66",
    "agenda_url": "https://legistar2.granicus.com/bellevue/meetings/2026/11/2968_A_Transportation_Commission_26-11-12_Meeting_Agenda.pdf",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Report on Micromobility",
+    "Great Neighborhoods Introduction: Lake Hills and West Lake Sammamish",
+    "2026 Mobility Implementation Plan Update"
+   ],
+   "highlights_more": 8
   },
   {
    "id": "ca691628e8a8",
@@ -951,7 +985,13 @@
    "url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2921&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
    "agenda_url": "https://clark.legistar1.com/clark/meetings/2026/11/2921_A_Special_Meeting_26-11-13_BCC_Agenda.pdf",
    "note": "Special Meeting",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Receive a report from the Registrar of Voters; canvass the returns of the 2026 General Election held on November 3, 2026; and direct the\u2026",
+    "This meeting has been properly noticed and posted online at https://clarkcountynv.gov/agendas and Nevada Public Notice at\u2026",
+    "CC Government Center 500 S. Grand Central Pkwy. Las Vegas, NV (Principal Office)"
+   ],
+   "highlights_more": 8
   },
   {
    "id": "55ca436bae11",
@@ -1087,7 +1127,13 @@
    "url": "https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12841&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59",
    "agenda_url": "https://kingcounty.legistar1.com/kingcounty/meetings/2026/11/12841_A_Budget_and_Fiscal_Management_Committee_26-11-16_Meeting_Agenda.pdf",
    "note": "SPECIAL MEETING",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "AN ORDINANCE to adopt the King County department of local services, annual Road Services Division 2027-2032 Capital Improvement Program in\u2026",
+    "AN ORDINANCE related to plumbing permit fees; and amending Ordinance 6746, Section 10, as amended, and K.C.C. 16.32.080 and establishing an\u2026",
+    "AN ORDINANCE authorizing the execution of amendments of two existing leases to support the operation of department of community and human\u2026"
+   ],
+   "highlights_more": 16
   },
   {
    "id": "8cc8ec0299e9",
@@ -1223,7 +1269,13 @@
    "url": "https://olympia.legistar.com/MeetingDetail.aspx?LEGID=7068&GID=218&G=19510D34-31FB-48B8-9C02-4D026953451C",
    "agenda_url": "https://legistar.granicus.com/olympia/meetings/2026/11/7068_A_Planning_Commission_26-11-16_Meeting_Agenda.pdf",
    "note": "Register to Attend: https://us02web.zoom.us/webinar/register/WN_o9J9bGvHR2a4WkonihPXJQ",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "2027-2028 Planning Commission Work Plan - Discussion",
+    "Approval of the Olympia Planning Commission Q4 Work Plan Update for City Council",
+    "STAFF ANNOUNCEMENTS"
+   ],
+   "highlights_more": 2
   },
   {
    "id": "efdba57e2c44",
@@ -1376,7 +1428,13 @@
    "url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3022&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
    "agenda_url": "https://clark.legistar1.com/clark/meetings/2026/11/3022_A_Clark_County_Board_of_Commissioners_26-11-17_BCC_Agenda.pdf",
    "note": "Wednesday, November 18, 2026, 9:00 a.m.",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Present a proclamation to Softron Media Services, an internationally recognized broadcast technology company, for their outstanding\u2026",
+    "Present proclamations to former Community Development Advisory Committee (CDAC) members for their service to the community",
+    "Recognize Clark County employees who have been selected as Clark County Value Champions"
+   ],
+   "highlights_more": 65
   },
   {
    "id": "2807cdc23556",
@@ -1444,7 +1502,13 @@
    "url": "https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12843&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59",
    "agenda_url": "https://kingcounty.legistar1.com/kingcounty/meetings/2026/11/12843_A_Transportation%2C_Economy%2C_and_Environment_Committee_26-11-17_Meeting_Agenda.pdf",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "A MOTION confirming the executive's appointment of Jamie Stroble, who resides in council district one, to the King County conservation\u2026",
+    "A MOTION confirming the executive's appointment of Pierre Blosse, who resides in council district five, to the King County conservation\u2026",
+    "A MOTION authorizing the chair of the King County council to sign a letter of concurrence to the Washington state Department of Natural\u2026"
+   ],
+   "highlights_more": 7
   },
   {
    "id": "c04a52d9aff0",
@@ -1529,7 +1593,13 @@
    "url": "https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12840&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59",
    "agenda_url": "https://kingcounty.legistar1.com/kingcounty/meetings/2026/11/12840_A_Metropolitan_King_County_Council_26-11-17_Meeting_Agenda.pdf",
    "note": "SPECIAL MEETING - WORK SESSION",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Hybrid Meetings: Attend this King County Council meeting in person in the Southwest Conference Room, 516 3rd Avenue, 12th Floor, in\u2026",
+    "CONNECTING TO THE WEBINAR",
+    "Issue Briefing"
+   ],
+   "highlights_more": 2
   },
   {
    "id": "f283796554da",
@@ -1886,7 +1956,13 @@
    "url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3039&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
    "agenda_url": "https://clark.legistar1.com/clark/meetings/2026/11/3039_A_Clark_County_Planning_Commission_Briefing_26-11-17_PC_Agenda.pdf",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "This meeting has been properly noticed and posted online at https://clarkcountynv.gov/agendas and Nevada Public Notice at\u2026",
+    "ITEM NO./TOPIC",
+    "Receive staff presentation and discuss items on the TUESDAY, NOVEMBER 17, 2026 Planning Commission agenda"
+   ],
+   "highlights_more": 3
   },
   {
    "id": "be5c7d11e992",
@@ -2005,7 +2081,13 @@
    "url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3038&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
    "agenda_url": "https://clark.legistar1.com/clark/meetings/2026/11/3038_A_Clark_County_Planning_Commission_26-11-17_PC_Agenda.pdf",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "ET-26-400097 (WS-24-0377)-GALLERIA SUNSET, LLC",
+    "ET-26-400101 (WS-23-0881)-CHARTAN HOUSE ESTATE, LLC",
+    "ET-26-400102 (DR-24-0374)-5080 JUDSON AVE, LLC"
+   ],
+   "highlights_more": 31
   },
   {
    "id": "23338914f770",
@@ -2090,7 +2172,13 @@
    "url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3037&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
    "agenda_url": "https://clark.legistar1.com/clark/meetings/2026/11/3037_A_Clark_County_Zoning_Commission__26-11-18_Zoning_Agenda.pdf",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "AR-26-400104 (UC-23-0592)-UNIVERSITY BOARD OF REGENTS",
+    "AR-26-400107 (UC-23-0599)-PARADISE 12, LLC",
+    "AR-26-400106 (UC-25-0092)-PINECREST ACADEMY NEVADA"
+   ],
+   "highlights_more": 62
   },
   {
    "id": "7346e8c618d4",
@@ -2175,7 +2263,13 @@
    "url": "https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12837&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59",
    "agenda_url": "https://kingcounty.legistar1.com/kingcounty/meetings/2026/11/12837_A_Local_Services_and_Land_Use_Committee_26-11-18_Meeting_Agenda.pdf",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "A MOTION confirming the executive's appointment of Steven Ellis, who resides in council district nine, to the King County rural forest\u2026",
+    "A MOTION confirming the executive's appointment of Donelle Mahan to the King County rural forest commission, representing the Washington\u2026",
+    "A MOTION confirming the executive's appointment of Aaron Garcia, who resides in council district eight, to the Washington state boundary\u2026"
+   ],
+   "highlights_more": 13
   },
   {
    "id": "687a9ca6a599",
@@ -2311,7 +2405,13 @@
    "url": "https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12830&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59",
    "agenda_url": "https://kingcounty.legistar1.com/kingcounty/meetings/2026/11/12830_A_Regional_Transit_Committee_26-11-18_Meeting_Agenda.pdf",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "A MOTION relating to the King County Metro Transit Strategic Plan for Public Transportation 2021-2031 and King County Metro Transit Service\u2026",
+    "Metro\u2019s Performance Measures Dashboard",
+    "Hybrid Meetings: Attend King County Council committee meetings in person in Council Chambers (Room 1001), 516 3rd Avenue in Seattle, or\u2026"
+   ],
+   "highlights_more": 5
   },
   {
    "id": "641d8d2ac0af",
@@ -2753,7 +2853,13 @@
    "url": "https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12836&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59",
    "agenda_url": "https://kingcounty.legistar1.com/kingcounty/meetings/2026/11/12836_A_Board_of_Health_26-11-19_Meeting_Agenda.pdf",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "A RULE AND REGULATION relating to fees for pet businesses; amending R&R 09-07, Section 44, as amended, and BOH 2.13.020, R&R 09-07, Section\u2026",
+    "Transportation Safety",
+    "King County and Public Health - Seattle & King County 2027 Legislative Priorities"
+   ],
+   "highlights_more": 8
   },
   {
    "id": "33df9b104f91",
@@ -3212,7 +3318,12 @@
    "url": "https://olympia.legistar.com/MeetingDetail.aspx?LEGID=6988&GID=218&G=19510D34-31FB-48B8-9C02-4D026953451C",
    "agenda_url": "",
    "note": "25-2037 Sterling Grove Meeting Link: https://us02web.zoom.us/webinar/register/WN_45mlnscCQ1ylP3kVyNDQIw",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "PUBLIC HEARING - Case: 25-2037, Sterling Grove",
+    "AGENDA REVIEW"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "c0255ee17c47",
