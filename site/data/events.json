@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T08:18:39-08:00",
+ "generated": "2026-11-11T08:28:14-08:00",
  "events": [
   {
    "id": "4f1b81a92f98",
@@ -138,6 +138,23 @@
    "cancelled": true
   },
   {
+   "id": "d3ea03a8aa4d",
+   "title": "Plan Commission",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-11-11T14:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Briefing Center, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/commissions/plan-commission/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "3b5563513fa1",
    "title": "Dungeness River Management Team Meeting - CANCELLED",
    "host": "Clallam County",
@@ -272,6 +289,23 @@
    "agenda_url": "",
    "note": "2nd Wednesday of the Month",
    "cancelled": true
+  },
+  {
+   "id": "0c2b2645f73b",
+   "title": "City Council Legislative Meeting",
+   "host": "City of Spokane",
+   "source": "spokane",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-11-11T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Chambers Lower Level of City Hall",
+   "url": "https://my.spokanecity.org/citycouncil/meetings/2026/11/11/legislative-meeting/",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
   },
   {
    "id": "86c63383a841",
@@ -478,6 +512,23 @@
    "cancelled": false
   },
   {
+   "id": "f17acfa3d596",
+   "title": "Spokane Regional Transportation Council Board",
+   "host": "Spokane regional boards",
+   "source": "spokane-regional-boards",
+   "area": "countywide",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-11-12T13:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "421 W. Riverside Ave., Suite 500, Spokane",
+   "url": "https://my.spokanecity.org/bcc/councils/spokane-regional-transportation-council/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "66a99bc080dc",
    "title": "Benton-Franklin Behavioral Health Advisory Committee (BHAC)",
    "host": "Benton County",
@@ -493,6 +544,23 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
+  },
+  {
+   "id": "5dce285d4f43",
+   "title": "Climate Resilience and Sustainability Board",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-11-12T14:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Briefing Center, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/boards/climate-resilience-and-sustainability-board/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
   },
   {
    "id": "14627e768c44",
@@ -544,6 +612,23 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
+  },
+  {
+   "id": "c5b2019c28d6",
+   "title": "Park Board",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-11-12T15:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Chambers, lower level, City Hall, 808 W. Spokane Falls Blvd., Spokane (also online)",
+   "url": "https://my.spokanecity.org/bcc/boards/spokane-park-board/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
   },
   {
    "id": "b3412955e2f9",
@@ -1328,6 +1413,23 @@
    "cancelled": true
   },
   {
+   "id": "341de7d482f1",
+   "title": "Civil Service Commission",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-11-17T09:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "City Council Chamber, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/commissions/civil-service-commission/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "afb95340e404",
    "title": "Transportation, Economy, and Environment Committee",
    "host": "King County",
@@ -1391,6 +1493,23 @@
    "all_day": false,
    "location": "Soundview - 3602 Pacific Ave Tacoma WA 98418",
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=79",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "dd6d591b8909",
+   "title": "City Council Agenda Review Meeting",
+   "host": "City of Spokane",
+   "source": "spokane",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-11-17T11:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Chambers Lower Level of City Hall - No Public Testimony Taken",
+   "url": "https://my.spokanecity.org/citycouncil/meetings/2026/11/17/agenda-review-meeting/",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -1549,6 +1668,23 @@
    "cancelled": false
   },
   {
+   "id": "decfa097c81d",
+   "title": "Public Library Board of Trustees",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "library",
+   "start": "2026-11-17T16:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Location changes; see the board's page",
+   "url": "https://my.spokanecity.org/bcc/boards/spokane-public-library-board-of-trustees/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "da57c498b291",
    "title": "City Council Workshop",
    "host": "City of Kent",
@@ -1598,6 +1734,23 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
+  },
+  {
+   "id": "8408139488b3",
+   "title": "Ombuds Commission",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-11-17T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "City Council Chamber, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/commissions/ombuds-commission/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
   },
   {
    "id": "06ed042b694e",
@@ -1683,6 +1836,40 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
+  },
+  {
+   "id": "5915c7396a2b",
+   "title": "Bicycle Advisory Board",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-11-17T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Briefing Center, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/boards/bicycle-advisory-board/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
+   "id": "f98bde7553d1",
+   "title": "Chase Youth Commission",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-11-17T18:00:00-08:00",
+   "end": "2026-11-17T19:30:00-08:00",
+   "all_day": false,
+   "location": "Conference Room 3B, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/commissions/chase-youth-commission/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
   },
   {
    "id": "8364fe95c66e",
@@ -2042,6 +2229,23 @@
    "cancelled": false
   },
   {
+   "id": "0c8c058698e7",
+   "title": "East Sprague Business Improvement District Board",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-11-18T12:00:00-08:00",
+   "end": "2026-11-18T13:30:00-08:00",
+   "all_day": false,
+   "location": "Sprague Union Terrace, Community Room, 1420 E. Sprague Ave.",
+   "url": "https://my.spokanecity.org/bcc/boards/east-sprague-business-improvement-district-board/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "6512325d8fe9",
    "title": "Lodging Tax Advisory Committee - Special Meeting",
    "host": "City of Vancouver",
@@ -2297,6 +2501,23 @@
    "cancelled": false
   },
   {
+   "id": "77faab5d912b",
+   "title": "City Council Legislative Meeting",
+   "host": "City of Spokane",
+   "source": "spokane",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-11-18T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Chambers Lower Level of City Hall",
+   "url": "https://my.spokanecity.org/citycouncil/meetings/2026/11/18/legislative-meeting/",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "1e7a983e0abd",
    "title": "Urban Forestry Commission",
    "host": "City of Vancouver",
@@ -2433,6 +2654,23 @@
    "cancelled": false
   },
   {
+   "id": "c5dfb55de65a",
+   "title": "Spokane Airport Board",
+   "host": "Spokane regional boards",
+   "source": "spokane-regional-boards",
+   "area": "countywide",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-11-19T09:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Spokane International Airport (Felts Field in April and September)",
+   "url": "https://my.spokanecity.org/bcc/boards/spokane-airport-board/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "e251eeb657ab",
    "title": "Tourism Promotion Area (TPA) Commission Meeting",
    "host": "City of Spokane Valley",
@@ -2535,6 +2773,23 @@
    "cancelled": false
   },
   {
+   "id": "917c63fb9e24",
+   "title": "Spokane Transit Authority Board",
+   "host": "Spokane regional boards",
+   "source": "spokane-regional-boards",
+   "area": "countywide",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-11-19T13:30:00-08:00",
+   "end": "2026-11-19T15:30:00-08:00",
+   "all_day": false,
+   "location": "STA Boardroom, 1230 W. Boone Ave., Spokane",
+   "url": "https://my.spokanecity.org/bcc/boards/spokane-transit-authority/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "cc4705f36a42",
    "title": "Jefferson County Board of Health Monthly Meeting",
    "host": "Jefferson County",
@@ -2550,6 +2805,23 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
+  },
+  {
+   "id": "e8ffd0a7883a",
+   "title": "Transportation Commission",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-11-19T16:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Chambers, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/commissions/transportation-commission/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
   },
   {
    "id": "11c4493903dd",
@@ -2838,6 +3110,23 @@
    "url": "https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6902&GID=393&G=FFE3B678-CEF6-4197-84AC-5204EA4CFC0C",
    "agenda_url": "https://legistar2.granicus.com/seattle/meetings/2026/11/6902_A_Council_Briefing_26-11-23_Council_Briefing.pdf",
    "note": "Cancellation Notice",
+   "cancelled": true
+  },
+  {
+   "id": "a41962fdc948",
+   "title": "Spokane Housing Authority Board",
+   "host": "Spokane regional boards",
+   "source": "spokane-regional-boards",
+   "area": "countywide",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-11-23T15:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "SHA offices, 25 W. Nora Ave., Spokane",
+   "url": "https://my.spokanecity.org/bcc/boards/spokane-housing-authority-board/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": true
   },
   {
@@ -3283,6 +3572,23 @@
    "cancelled": true
   },
   {
+   "id": "a2c3b258a408",
+   "title": "Arts Commission",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-11-24T16:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Central Library, 906 W. Main Ave., Events Room A",
+   "url": "https://my.spokanecity.org/bcc/commissions/arts-commission/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "f02f3be341f6",
    "title": "Planning Commission",
    "host": "City of Vancouver",
@@ -3569,6 +3875,23 @@
    "url": "https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12818&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59",
    "agenda_url": "https://kingcounty.legistar1.com/kingcounty/meetings/2026/11/12818_A_Employment_and_Administration_Committee_26-11-25_Meeting_Agenda.pdf",
    "note": "CANCELLATION NOTICE",
+   "cancelled": true
+  },
+  {
+   "id": "1adbd933839a",
+   "title": "Plan Commission",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-11-25T14:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Briefing Center, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/commissions/plan-commission/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": true
   },
   {
@@ -4286,6 +4609,23 @@
    "cancelled": false
   },
   {
+   "id": "58e3df0bbd5f",
+   "title": "Chase Youth Commission",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-12-01T18:00:00-08:00",
+   "end": "2026-12-01T19:30:00-08:00",
+   "all_day": false,
+   "location": "Conference Room 3B, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/commissions/chase-youth-commission/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "9100565c9c12",
    "title": "City Council Regular Meeting",
    "host": "City of Kennewick",
@@ -4456,6 +4796,23 @@
    "cancelled": false
   },
   {
+   "id": "ca26347d7667",
+   "title": "City Employees' Retirement Board",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-12-02T13:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Briefing Chamber, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/boards/city-employees-retirement-board/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "3518620fd3ae",
    "title": "Examiner's Hearing: Davis Setback Variance, App. 1074616",
    "host": "Pierce County",
@@ -4522,6 +4879,23 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
+  },
+  {
+   "id": "77e2bd691067",
+   "title": "Community, Housing and Human Services Board",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-12-02T16:00:00-08:00",
+   "end": "2026-12-02T18:00:00-08:00",
+   "all_day": false,
+   "location": "Council Briefing Center, City Hall, 808 W. Spokane Falls Blvd., Spokane (also online)",
+   "url": "https://my.spokanecity.org/bcc/boards/community-housing-and-human-services-board/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
   },
   {
    "id": "7e8c96cc8fe5",
@@ -4779,6 +5153,23 @@
    "cancelled": false
   },
   {
+   "id": "962a9793aa53",
+   "title": "Urban Native Advisory Council",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-12-03T10:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Tribal Conference Room, lobby, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/councils/spokane-urban-native-advisory-council/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "f263e383976c",
    "title": "Examiner's Hearing: Shaw Administrative Appeal, App. 1076485",
    "host": "Pierce County",
@@ -4828,6 +5219,23 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
+  },
+  {
+   "id": "f18fad3e9481",
+   "title": "Human Rights Commission",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-12-03T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Location is listed on each meeting's agenda",
+   "url": "https://my.spokanecity.org/bcc/commissions/spokane-human-rights-commission/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
   },
   {
    "id": "475045f8b5ab",
@@ -6020,6 +6428,23 @@
    "cancelled": false
   },
   {
+   "id": "94d48aa7e874",
+   "title": "Plan Commission",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-12-09T14:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Briefing Center, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/commissions/plan-commission/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "dc308d46833f",
    "title": "Dungeness River Management Team Meeting",
    "host": "Clallam County",
@@ -6309,6 +6734,23 @@
    "cancelled": false
   },
   {
+   "id": "50dc8dca4ca6",
+   "title": "Spokane Regional Transportation Council Board",
+   "host": "Spokane regional boards",
+   "source": "spokane-regional-boards",
+   "area": "countywide",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-12-10T13:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "421 W. Riverside Ave., Suite 500, Spokane",
+   "url": "https://my.spokanecity.org/bcc/councils/spokane-regional-transportation-council/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "ab91dffd4b36",
    "title": "Benton-Franklin Behavioral Health Advisory Committee (BHAC)",
    "host": "Benton County",
@@ -6326,6 +6768,23 @@
    "cancelled": false
   },
   {
+   "id": "871b75410a0b",
+   "title": "Climate Resilience and Sustainability Board",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-12-10T14:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Briefing Center, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/boards/climate-resilience-and-sustainability-board/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "291f4d849196",
    "title": "Lodging Tax Advisory Committee Meeting",
    "host": "Clallam County",
@@ -6341,6 +6800,23 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
+  },
+  {
+   "id": "f5d494f28244",
+   "title": "Park Board",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-12-10T15:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Chambers, lower level, City Hall, 808 W. Spokane Falls Blvd., Spokane (also online)",
+   "url": "https://my.spokanecity.org/bcc/boards/spokane-park-board/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
   },
   {
    "id": "cb805511aec5",
@@ -6955,6 +7431,23 @@
    "cancelled": false
   },
   {
+   "id": "0ae2d557bebd",
+   "title": "Civil Service Commission",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-12-15T09:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "City Council Chamber, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/commissions/civil-service-commission/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "d3abcac29158",
    "title": "Board of County Commissioners",
    "host": "Klickitat County",
@@ -7125,6 +7618,23 @@
    "cancelled": true
   },
   {
+   "id": "70ebe4e3a500",
+   "title": "Public Library Board of Trustees",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "library",
+   "start": "2026-12-15T16:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Location changes; see the board's page",
+   "url": "https://my.spokanecity.org/bcc/boards/spokane-public-library-board-of-trustees/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "3fc2bb9e9fb9",
    "title": "Civil Service Commission Meeting",
    "host": "City of Kennewick",
@@ -7157,6 +7667,23 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
+  },
+  {
+   "id": "bc0509fc3a7a",
+   "title": "Ombuds Commission",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-12-15T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "City Council Chamber, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/commissions/ombuds-commission/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
   },
   {
    "id": "7443a4ec0516",
@@ -7225,6 +7752,40 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
+  },
+  {
+   "id": "a8c6c2ee6f5e",
+   "title": "Bicycle Advisory Board",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-12-15T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Briefing Center, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/boards/bicycle-advisory-board/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
+   "id": "8223fd545a7c",
+   "title": "Chase Youth Commission",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-12-15T18:00:00-08:00",
+   "end": "2026-12-15T19:30:00-08:00",
+   "all_day": false,
+   "location": "Conference Room 3B, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/commissions/chase-youth-commission/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
   },
   {
    "id": "c97e28b33bec",
@@ -7465,6 +8026,23 @@
    "cancelled": false
   },
   {
+   "id": "80f08bf13e04",
+   "title": "East Sprague Business Improvement District Board",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-12-16T12:00:00-08:00",
+   "end": "2026-12-16T13:30:00-08:00",
+   "all_day": false,
+   "location": "Sprague Union Terrace, Community Room, 1420 E. Sprague Ave.",
+   "url": "https://my.spokanecity.org/bcc/boards/east-sprague-business-improvement-district-board/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "1323d62de34f",
    "title": "Examiner's Hearing: Stryder LLC Administrative Appeal, App. 1077697",
    "host": "Pierce County",
@@ -7669,6 +8247,23 @@
    "cancelled": true
   },
   {
+   "id": "dced61366cb7",
+   "title": "Spokane Airport Board",
+   "host": "Spokane regional boards",
+   "source": "spokane-regional-boards",
+   "area": "countywide",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-12-17T09:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Spokane International Airport (Felts Field in April and September)",
+   "url": "https://my.spokanecity.org/bcc/boards/spokane-airport-board/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "f4e4a5c0753a",
    "title": "Tourism Promotion Area (TPA) Commission Meeting",
    "host": "City of Spokane Valley",
@@ -7737,6 +8332,23 @@
    "cancelled": false
   },
   {
+   "id": "7533246406ca",
+   "title": "Spokane Transit Authority Board",
+   "host": "Spokane regional boards",
+   "source": "spokane-regional-boards",
+   "area": "countywide",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-12-17T13:30:00-08:00",
+   "end": "2026-12-17T15:30:00-08:00",
+   "all_day": false,
+   "location": "STA Boardroom, 1230 W. Boone Ave., Spokane",
+   "url": "https://my.spokanecity.org/bcc/boards/spokane-transit-authority/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "4de22d3c5ac7",
    "title": "Jefferson County Board of Health Monthly Meeting",
    "host": "Jefferson County",
@@ -7769,6 +8381,23 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
+  },
+  {
+   "id": "691cff197e2c",
+   "title": "Transportation Commission",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-12-17T16:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Chambers, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/commissions/transportation-commission/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
   },
   {
    "id": "31d6783bfe4b",
@@ -8519,6 +9148,23 @@
    "cancelled": false
   },
   {
+   "id": "50972bbbab7d",
+   "title": "Plan Commission",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-12-23T14:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Briefing Center, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/commissions/plan-commission/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "fc8c346bb682",
    "title": "Housing Fund Board",
    "host": "Jefferson County",
@@ -8721,6 +9367,23 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
+  },
+  {
+   "id": "c331cb613312",
+   "title": "Spokane Housing Authority Board",
+   "host": "Spokane regional boards",
+   "source": "spokane-regional-boards",
+   "area": "countywide",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-12-28T15:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "SHA offices, 25 W. Nora Ave., Spokane",
+   "url": "https://my.spokanecity.org/bcc/boards/spokane-housing-authority-board/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
   },
   {
    "id": "2c81ab2a021f",
@@ -9505,6 +10168,23 @@
    "cancelled": false
   },
   {
+   "id": "86e96ada4cae",
+   "title": "Chase Youth Commission",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2027-01-05T18:00:00-08:00",
+   "end": "2027-01-05T19:30:00-08:00",
+   "all_day": false,
+   "location": "Conference Room 3B, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/commissions/chase-youth-commission/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "5506b790c2b2",
    "title": "City Council Regular Meeting",
    "host": "City of Kennewick",
@@ -9573,6 +10253,23 @@
    "cancelled": false
   },
   {
+   "id": "05935d6e3503",
+   "title": "City Employees' Retirement Board",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2027-01-06T13:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Briefing Chamber, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/boards/city-employees-retirement-board/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "0d8f44dc8c65",
    "title": "Trails Advisory Committee Meeting",
    "host": "Clallam County",
@@ -9588,6 +10285,23 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
+  },
+  {
+   "id": "a872d7060042",
+   "title": "Community, Housing and Human Services Board",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2027-01-06T16:00:00-08:00",
+   "end": "2027-01-06T18:00:00-08:00",
+   "all_day": false,
+   "location": "Council Briefing Center, City Hall, 808 W. Spokane Falls Blvd., Spokane (also online)",
+   "url": "https://my.spokanecity.org/bcc/boards/community-housing-and-human-services-board/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
   },
   {
    "id": "d9ed58ea1abf",
@@ -9709,6 +10423,23 @@
    "cancelled": false
   },
   {
+   "id": "a01efa2f41e7",
+   "title": "Urban Native Advisory Council",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2027-01-07T10:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Tribal Conference Room, lobby, City Hall, 808 W. Spokane Falls Blvd., Spokane",
+   "url": "https://my.spokanecity.org/bcc/councils/spokane-urban-native-advisory-council/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
+  },
+  {
    "id": "d52ae4b53cf3",
    "title": "Eastsound Planning Review Committee",
    "host": "San Juan County",
@@ -9741,6 +10472,23 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
+  },
+  {
+   "id": "49dc0a3818f0",
+   "title": "Human Rights Commission",
+   "host": "City of Spokane boards and commissions",
+   "source": "spokane-boards",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2027-01-07T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Location is listed on each meeting's agenda",
+   "url": "https://my.spokanecity.org/bcc/commissions/spokane-human-rights-commission/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": true
   },
   {
    "id": "1be11582cd7c",
