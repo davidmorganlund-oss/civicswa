@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Grant County
 BEGIN:VEVENT
 UID:d65ea2d62717@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20261112T000000Z
 DTEND:20261112T010000Z
 SUMMARY:Veteran's Advisory Board (VAB) Meeting (Grant County)
@@ -13,7 +13,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=51
 END:VEVENT
 BEGIN:VEVENT
 UID:55ca436bae11@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20261116T160000Z
 DTEND:20261117T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -22,7 +22,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:3e1f832504f1@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20261117T160000Z
 DTEND:20261118T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -31,7 +31,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:033035f15090@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20261123T160000Z
 DTEND:20261124T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -40,7 +40,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:d15849f33357@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20261124T160000Z
 DTEND:20261125T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -49,7 +49,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:3804ce27a567@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20261130T160000Z
 DTEND:20261201T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -58,7 +58,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:8d4b0aed859c@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20261201T160000Z
 DTEND:20261202T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -67,7 +67,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:f2b5be976cd4@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20261202T173000Z
 DTEND:20261202T190000Z
 SUMMARY:Tourism Advisory Committee Meeting (Grant County)
@@ -76,7 +76,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
 END:VEVENT
 BEGIN:VEVENT
 UID:6fe8564edad8@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20261207T160000Z
 DTEND:20261208T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -85,7 +85,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:c398b5287ea5@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20261208T160000Z
 DTEND:20261209T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -94,7 +94,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:eca8fd603343@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20261209T180000Z
 DTEND:20261209T190000Z
 SUMMARY:LEOFF-1 Disability Board Meeting (Grant County)
@@ -103,7 +103,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=51
 END:VEVENT
 BEGIN:VEVENT
 UID:c6d1727fc66a@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20261210T000000Z
 DTEND:20261210T010000Z
 SUMMARY:Veteran's Advisory Board (VAB) Meeting (Grant County)
@@ -112,7 +112,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=51
 END:VEVENT
 BEGIN:VEVENT
 UID:159fbf67393f@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20261214T160000Z
 DTEND:20261215T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -121,7 +121,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:6f3ba92473a7@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20261215T160000Z
 DTEND:20261216T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -130,7 +130,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:e03b9be48d9e@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20261221T160000Z
 DTEND:20261222T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -139,7 +139,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:e8111e5ffcf7@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20261222T160000Z
 DTEND:20261223T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -148,7 +148,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:d04456355765@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20261228T160000Z
 DTEND:20261229T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -157,7 +157,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:f8e218241b28@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20261229T160000Z
 DTEND:20261230T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -166,7 +166,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:023791b0c74a@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20270104T160000Z
 DTEND:20270105T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -175,7 +175,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:6f437c91dc65@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20270105T160000Z
 DTEND:20270106T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -184,7 +184,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:1c070d4ef696@civicswa
-DTSTAMP:20261111T221324Z
+DTSTAMP:20261111T221549Z
 DTSTART:20270106T173000Z
 DTEND:20270106T190000Z
 SUMMARY:Tourism Advisory Committee Meeting (Grant County)
