@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T08:37:27-08:00",
+ "generated": "2026-11-11T08:41:32-08:00",
  "events": [
   {
    "id": "4f1b81a92f98",
@@ -359,29 +359,6 @@
    "cancelled": false
   },
   {
-   "id": "f4fc9563b183",
-   "title": "Debt Management Commission",
-   "host": "Clark County",
-   "source": "clark-county",
-   "area": "countywide",
-   "county": "Clark",
-   "category": "council",
-   "start": "2026-11-12T09:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "",
-   "url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3025&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
-   "agenda_url": "https://clark.legistar1.com/clark/meetings/2026/11/3025_A_Debt_Management_Commission_26-11-12_General_Agenda.pdf",
-   "note": "",
-   "cancelled": false,
-   "highlights": [
-    "Approve, adopt, and authorize the Chair to sign a resolution concerning a proposal to issue Clark County, Nevada, General Obligation\u2026",
-    "This meeting has been properly noticed and posted online at https://clarkcountynv.gov/agendas and Nevada Public Notice at\u2026",
-    "Clark County Government Center (Principal Office)"
-   ],
-   "highlights_more": 4
-  },
-  {
    "id": "e547cbf68b31",
    "title": "City Council",
    "host": "City of Seattle",
@@ -398,9 +375,7 @@
    "note": "Special Meeting",
    "cancelled": false,
    "highlights": [
-    "An ordinance relating to the Traffic Code; creating a new permitting program for owners of motor homes and travel trailers to support a\u2026",
-    "ADOPTION OF INTRODUCTION AND REFERRAL CALENDAR",
-    "RECONSIDERATION OF COUNCIL BILL VETOED BY MAYOR"
+    "An ordinance relating to the Traffic Code; creating a new permitting program for owners of motor homes and travel trailers to support a\u2026"
    ],
    "highlights_more": 0
   },
@@ -453,7 +428,13 @@
    "url": "https://auburnwa.portal.civicclerk.com/event/2407/overview",
    "agenda_url": "",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "The Special Lodging Tax Advisory Committee Meeting scheduled for Thursday, November 12, 2026, at 11:00 a.m. will be held in person and\u2026",
+    "The public can participate in-person or submit written comments in advance",
+    "Change to Lodging Tax Funding \u2013 Jason Krum"
+   ],
+   "highlights_more": 12
   },
   {
    "id": "63f43b9cd933",
@@ -487,7 +468,13 @@
    "url": "https://auburnwa.portal.civicclerk.com/event/2406/overview",
    "agenda_url": "",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "The Business Improvement Area Committee Meeting scheduled for Thursday, November 12, 2026, at 1:00 p.m. will be held in person and virtually",
+    "The public can participate in-person or submit written comments in advance. Participants can submit written comments via mail or email. All\u2026",
+    "Review of BIA Finance Report \u2013 Emerson Folker"
+   ],
+   "highlights_more": 4
   },
   {
    "id": "377ac003e769",
@@ -521,7 +508,12 @@
    "url": "https://sanjuancowa.portal.civicclerk.com/event/4362/overview",
    "agenda_url": "",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "EXCUSED ABSENCES (if any)",
+    "COMMITTEE UPDATES"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "f17acfa3d596",
@@ -555,7 +547,13 @@
    "url": "https://bentoncowa.portal.civicclerk.com/event/1286/overview",
    "agenda_url": "",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Phase I (CVCR)",
+    "Columbia Valley Center for Recovery Updates - T. Jackson",
+    "Comprehensive Healthcare - Comprehensive Rep"
+   ],
+   "highlights_more": 10
   },
   {
    "id": "5dce285d4f43",
@@ -674,7 +672,13 @@
    "url": "https://vancouverwa.portal.civicclerk.com/event/1750/overview",
    "agenda_url": "",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "4:35pm - VDA: Rotating Art Display Program Update",
+    "4:45pm - Monthly Fiscal Report for Inspire Vancouver Program",
+    "4:55pm - Overview of Inspire Vancouver Cycle 1"
+   ],
+   "highlights_more": 7
   },
   {
    "id": "be51309a3931",
@@ -708,11 +712,7 @@
    "url": "https://whatcom.legistar.com/MeetingDetail.aspx?LEGID=3408&GID=694&G=EEA73D23-6E2E-458B-A953-3C147C8AA447",
    "agenda_url": "",
    "note": "COMMUNITY CONVERSATIONS EVENT -- 4:30-6:30PM -- IN-PERSON ONLY; NO REMOTE PARTICIPATION AVAILABLE -- LEARN MORE AT www.whatcomcounty.us/4668",
-   "cancelled": false,
-   "highlights": [
-    "SEE ATTACHED"
-   ],
-   "highlights_more": 0
+   "cancelled": false
   },
   {
    "id": "1eff198c7f2d",
@@ -749,8 +749,7 @@
    "cancelled": false,
    "highlights": [
     "Recommend Approval for Evergreen Inn Special Tax Valuation",
-    "Public Hearing and Decision- Evergreen Inn Heritage Register Listing",
-    "Accommodations"
+    "Public Hearing and Decision- Evergreen Inn Heritage Register Listing"
    ],
    "highlights_more": 0
   },
@@ -809,7 +808,7 @@
     "Approval of the Arts Commission Work Plan Update for City Council",
     "Review of Recommended Designs for 10 Traffic Box Wraps"
    ],
-   "highlights_more": 2
+   "highlights_more": 1
   },
   {
    "id": "610159bc42fd",
@@ -826,7 +825,13 @@
    "url": "https://richlandwa.portal.civicclerk.com/event/5940/overview",
    "agenda_url": "",
    "note": "2nd Thursday of the Month",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Approval of the November 12, 2026 Parks and Recreation Commission Meeting Agenda",
+    "Tumbleweed Music Festival Event Presentation",
+    "2026 IRONMAN 70.3 Washington Tri\u2011Cities"
+   ],
+   "highlights_more": 1
   },
   {
    "id": "6ae7ba0aeeb8",
@@ -883,7 +888,7 @@
     "Great Neighborhoods Introduction: Lake Hills and West Lake Sammamish",
     "2026 Mobility Implementation Plan Update"
    ],
-   "highlights_more": 8
+   "highlights_more": 1
   },
   {
    "id": "ca691628e8a8",
@@ -900,7 +905,13 @@
    "url": "https://auburnwa.portal.civicclerk.com/event/2410/overview",
    "agenda_url": "",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "The Junior City Council Meeting scheduled for Thursday, November 12th, 2026 at 7:00 p.m. will be held in person and virtually",
+    "The public can participate in-person or submit written comments in advance",
+    "City Council Presentation"
+   ],
+   "highlights_more": 13
   },
   {
    "id": "123280999879",
@@ -968,30 +979,12 @@
    "url": "https://sanjuancowa.portal.civicclerk.com/event/3997/overview",
    "agenda_url": "",
    "note": "",
-   "cancelled": false
-  },
-  {
-   "id": "a6bdaa56364a",
-   "title": "Special Meeting",
-   "host": "Clark County",
-   "source": "clark-county",
-   "area": "countywide",
-   "county": "Clark",
-   "category": "other",
-   "start": "2026-11-13T13:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "",
-   "url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=2921&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
-   "agenda_url": "https://clark.legistar1.com/clark/meetings/2026/11/2921_A_Special_Meeting_26-11-13_BCC_Agenda.pdf",
-   "note": "Special Meeting",
    "cancelled": false,
    "highlights": [
-    "Receive a report from the Registrar of Voters; canvass the returns of the 2026 General Election held on November 3, 2026; and direct the\u2026",
-    "This meeting has been properly noticed and posted online at https://clarkcountynv.gov/agendas and Nevada Public Notice at\u2026",
-    "CC Government Center 500 S. Grand Central Pkwy. Las Vegas, NV (Principal Office)"
+    "ADMINISTRATIVE ITEMS",
+    "PUBLIC ACCESS TIME"
    ],
-   "highlights_more": 8
+   "highlights_more": 0
   },
   {
    "id": "55ca436bae11",
@@ -1059,7 +1052,13 @@
    "url": "https://clallamcowa.portal.civicclerk.com/event/4818/overview",
    "agenda_url": "",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Calendar/Correspondence",
+    "Resolution authorizing the Auditor to void outstanding claims and warrants dated July 1, 2024, through June 30, 2025",
+    "Easement agreement with Dry Creek Water for an easement along Edgewood Drive"
+   ],
+   "highlights_more": 4
   },
   {
    "id": "448de7423ecd",
@@ -1133,7 +1132,7 @@
     "AN ORDINANCE related to plumbing permit fees; and amending Ordinance 6746, Section 10, as amended, and K.C.C. 16.32.080 and establishing an\u2026",
     "AN ORDINANCE authorizing the execution of amendments of two existing leases to support the operation of department of community and human\u2026"
    ],
-   "highlights_more": 16
+   "highlights_more": 11
   },
   {
    "id": "8cc8ec0299e9",
@@ -1184,7 +1183,13 @@
    "url": "https://vancouverwa.portal.civicclerk.com/event/1500/overview",
    "agenda_url": "",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Vancouver Municipal Code 10.05.040 Pearson Airfield Revision",
+    "Second Supplemental Budget",
+    "Small Business Saturday"
+   ],
+   "highlights_more": 14
   },
   {
    "id": "8f772ffa6519",
@@ -1252,7 +1257,12 @@
    "url": "https://kennewickwa.portal.civicclerk.com/event/2249/overview",
    "agenda_url": "",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "DCA-2026-0005 Essential Public Facilities",
+    "City Council Action Updates"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "2cd81156f95e",
@@ -1272,10 +1282,9 @@
    "cancelled": false,
    "highlights": [
     "2027-2028 Planning Commission Work Plan - Discussion",
-    "Approval of the Olympia Planning Commission Q4 Work Plan Update for City Council",
-    "STAFF ANNOUNCEMENTS"
+    "Approval of the Olympia Planning Commission Q4 Work Plan Update for City Council"
    ],
-   "highlights_more": 2
+   "highlights_more": 0
   },
   {
    "id": "efdba57e2c44",
@@ -1292,7 +1301,11 @@
    "url": "https://vancouverwa.portal.civicclerk.com/event/1532/overview",
    "agenda_url": "",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Transportation Benefit District 2027/2028 Biennial Budget and Work Plan"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "0bca46e6ba38",
@@ -1343,7 +1356,13 @@
    "url": "https://richlandwa.portal.civicclerk.com/event/6103/overview",
    "agenda_url": "",
    "note": "3rd Tuesday of the Month",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "2027 Police Pension Board Budget",
+    "November 2026 Claims",
+    "P31- Assisted Living Expenses"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "7cced6484d5a",
@@ -1412,29 +1431,6 @@
    "agenda_url": "",
    "note": "3rd Tuesday of Every Month",
    "cancelled": false
-  },
-  {
-   "id": "c1aaea9ed7c2",
-   "title": "Clark County Board of Commissioners",
-   "host": "Clark County",
-   "source": "clark-county",
-   "area": "countywide",
-   "county": "Clark",
-   "category": "council",
-   "start": "2026-11-17T09:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "",
-   "url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3022&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
-   "agenda_url": "https://clark.legistar1.com/clark/meetings/2026/11/3022_A_Clark_County_Board_of_Commissioners_26-11-17_BCC_Agenda.pdf",
-   "note": "Wednesday, November 18, 2026, 9:00 a.m.",
-   "cancelled": false,
-   "highlights": [
-    "Present a proclamation to Softron Media Services, an internationally recognized broadcast technology company, for their outstanding\u2026",
-    "Present proclamations to former Community Development Advisory Committee (CDAC) members for their service to the community",
-    "Recognize Clark County employees who have been selected as Clark County Value Champions"
-   ],
-   "highlights_more": 65
   },
   {
    "id": "2807cdc23556",
@@ -1508,7 +1504,7 @@
     "A MOTION confirming the executive's appointment of Pierre Blosse, who resides in council district five, to the King County conservation\u2026",
     "A MOTION authorizing the chair of the King County council to sign a letter of concurrence to the Washington state Department of Natural\u2026"
    ],
-   "highlights_more": 7
+   "highlights_more": 2
   },
   {
    "id": "c04a52d9aff0",
@@ -1595,11 +1591,11 @@
    "note": "SPECIAL MEETING - WORK SESSION",
    "cancelled": false,
    "highlights": [
-    "Hybrid Meetings: Attend this King County Council meeting in person in the Southwest Conference Room, 516 3rd Avenue, 12th Floor, in\u2026",
-    "CONNECTING TO THE WEBINAR",
-    "Issue Briefing"
+    "Issue Briefing",
+    "page break",
+    "Intergovernmental/Outside Committee Updates"
    ],
-   "highlights_more": 2
+   "highlights_more": 0
   },
   {
    "id": "f283796554da",
@@ -1735,7 +1731,13 @@
    "url": "https://kennewickwa.portal.civicclerk.com/event/2350/overview",
    "agenda_url": "",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Reminder - Public Records Act Training (https://wacities.org/data-resources/public-records-act-elearning)",
+    "Review of Meeting with Marketing Team - Chair Harper",
+    "2027 Work Plan"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "decfa097c81d",
@@ -1942,29 +1944,6 @@
    "cancelled": true
   },
   {
-   "id": "8364fe95c66e",
-   "title": "Clark County Planning Commission Briefing",
-   "host": "Clark County",
-   "source": "clark-county",
-   "area": "countywide",
-   "county": "Clark",
-   "category": "council",
-   "start": "2026-11-17T18:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "",
-   "url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3039&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
-   "agenda_url": "https://clark.legistar1.com/clark/meetings/2026/11/3039_A_Clark_County_Planning_Commission_Briefing_26-11-17_PC_Agenda.pdf",
-   "note": "",
-   "cancelled": false,
-   "highlights": [
-    "This meeting has been properly noticed and posted online at https://clarkcountynv.gov/agendas and Nevada Public Notice at\u2026",
-    "ITEM NO./TOPIC",
-    "Receive staff presentation and discuss items on the TUESDAY, NOVEMBER 17, 2026 Planning Commission agenda"
-   ],
-   "highlights_more": 3
-  },
-  {
    "id": "be5c7d11e992",
    "title": "Veterans Advisory Board",
    "host": "Pierce County",
@@ -2067,29 +2046,6 @@
    "cancelled": false
   },
   {
-   "id": "5637fc6280d6",
-   "title": "Clark County Planning Commission",
-   "host": "Clark County",
-   "source": "clark-county",
-   "area": "countywide",
-   "county": "Clark",
-   "category": "council",
-   "start": "2026-11-17T19:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "",
-   "url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3038&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
-   "agenda_url": "https://clark.legistar1.com/clark/meetings/2026/11/3038_A_Clark_County_Planning_Commission_26-11-17_PC_Agenda.pdf",
-   "note": "",
-   "cancelled": false,
-   "highlights": [
-    "ET-26-400097 (WS-24-0377)-GALLERIA SUNSET, LLC",
-    "ET-26-400101 (WS-23-0881)-CHARTAN HOUSE ESTATE, LLC",
-    "ET-26-400102 (DR-24-0374)-5080 JUDSON AVE, LLC"
-   ],
-   "highlights_more": 31
-  },
-  {
    "id": "23338914f770",
    "title": "Airport Advisory Board Meeting",
    "host": "City of Auburn",
@@ -2156,29 +2112,6 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
-  },
-  {
-   "id": "8a9a294a49bb",
-   "title": "Clark County Zoning Commission",
-   "host": "Clark County",
-   "source": "clark-county",
-   "area": "countywide",
-   "county": "Clark",
-   "category": "council",
-   "start": "2026-11-18T09:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "",
-   "url": "https://clark.legistar.com/MeetingDetail.aspx?LEGID=3037&GID=758&G=7F62DBDE-FA05-4B1F-A47E-705D1A1B69D7",
-   "agenda_url": "https://clark.legistar1.com/clark/meetings/2026/11/3037_A_Clark_County_Zoning_Commission__26-11-18_Zoning_Agenda.pdf",
-   "note": "",
-   "cancelled": false,
-   "highlights": [
-    "AR-26-400104 (UC-23-0592)-UNIVERSITY BOARD OF REGENTS",
-    "AR-26-400107 (UC-23-0599)-PARADISE 12, LLC",
-    "AR-26-400106 (UC-25-0092)-PINECREST ACADEMY NEVADA"
-   ],
-   "highlights_more": 62
   },
   {
    "id": "7346e8c618d4",
@@ -2269,7 +2202,7 @@
     "A MOTION confirming the executive's appointment of Donelle Mahan to the King County rural forest commission, representing the Washington\u2026",
     "A MOTION confirming the executive's appointment of Aaron Garcia, who resides in council district eight, to the Washington state boundary\u2026"
    ],
-   "highlights_more": 13
+   "highlights_more": 7
   },
   {
    "id": "687a9ca6a599",
@@ -2408,10 +2341,9 @@
    "cancelled": false,
    "highlights": [
     "A MOTION relating to the King County Metro Transit Strategic Plan for Public Transportation 2021-2031 and King County Metro Transit Service\u2026",
-    "Metro\u2019s Performance Measures Dashboard",
-    "Hybrid Meetings: Attend King County Council committee meetings in person in Council Chambers (Room 1001), 516 3rd Avenue in Seattle, or\u2026"
+    "Metro\u2019s Performance Measures Dashboard"
    ],
-   "highlights_more": 5
+   "highlights_more": 0
   },
   {
    "id": "641d8d2ac0af",
@@ -2547,7 +2479,13 @@
    "url": "https://laceywa.portal.civicclerk.com/event/1459/overview",
    "agenda_url": "",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Transportation Benefit District Presentation",
+    "Recent Acquisitions",
+    "Historic Marker Map Update"
+   ],
+   "highlights_more": 2
   },
   {
    "id": "d330409a5f50",
@@ -2802,7 +2740,12 @@
    "url": "https://sanjuancowa.portal.civicclerk.com/event/4401/overview",
    "agenda_url": "",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "EXCUSED ABSENCES (if any)",
+    "COMMITTEE UPDATES"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "c3b092bca52e",
@@ -2859,7 +2802,7 @@
     "Transportation Safety",
     "King County and Public Health - Seattle & King County 2027 Legislative Priorities"
    ],
-   "highlights_more": 8
+   "highlights_more": 0
   },
   {
    "id": "33df9b104f91",
@@ -3029,7 +2972,12 @@
    "url": "https://sanjuancowa.portal.civicclerk.com/event/4339/overview",
    "agenda_url": "",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "ADMINISTRATIVE ITEMS",
+    "PUBLIC ACCESS TIME"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "5d9ea2e0994c",
@@ -3046,7 +2994,13 @@
    "url": "https://sanjuancowa.portal.civicclerk.com/event/3771/overview",
    "agenda_url": "",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "ADMINISTRATIVE ITEMS",
+    "Confirm Agenda",
+    "Minutes of MONTH DD, YYYY Meeting"
+   ],
+   "highlights_more": 1
   },
   {
    "id": "55d61f71f031",
@@ -3320,8 +3274,7 @@
    "note": "25-2037 Sterling Grove Meeting Link: https://us02web.zoom.us/webinar/register/WN_45mlnscCQ1ylP3kVyNDQIw",
    "cancelled": false,
    "highlights": [
-    "PUBLIC HEARING - Case: 25-2037, Sterling Grove",
-    "AGENDA REVIEW"
+    "PUBLIC HEARING - Case: 25-2037, Sterling Grove"
    ],
    "highlights_more": 0
   },
@@ -4802,7 +4755,13 @@
    "url": "https://bentoncowa.portal.civicclerk.com/event/1390/overview",
    "agenda_url": "",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "9:00 am \u2013 10:00 am E-029-26 Commercial Appeal (STIPULATED)",
+    "10:00 am \u2013 11:00 am E-026-26 Commercial Appeal",
+    "Record of Hearing"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "cd3358b5782f",
