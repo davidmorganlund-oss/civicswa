@@ -105,13 +105,6 @@ sources:
     area: countywide
     homepage: https://kingcounty.legistar.com/Calendar.aspx
 
-  - id: clark-county
-    name: Clark County
-    type: legistar
-    client: clark
-    county: Clark
-    area: countywide
-    homepage: https://clark.legistar.com/Calendar.aspx
 
   - id: snohomish-county
     name: Snohomish County
@@ -552,6 +545,9 @@ sources:
     homepage: https://www.yakimacounty.us/Calendar.aspx
 
 # Not connected yet:
+#   Clark County, WA. The Legistar account named "clark" turned out to be
+#   Clark County, Nevada, so it was removed. Clark County, WA posts meetings
+#   on clark.wa.gov without a feed.
 #   Shoreline (govAccess calendar feed) and Everett (CivicPlus calendar) both
 #   refuse requests from GitHub's servers (HTTP 403), so they are left out
 #   rather than worked around.

@@ -92,7 +92,9 @@ def get(url, params=None):
 PROCEDURAL = re.compile(
     r"^(call(ed)? to order|roll call|pledge|flag salute|land acknowledg|we, the city|approval of (the )?"
     r"(agenda|minutes|.*minutes$)|approve the (agenda|minutes)|adopt(ion of)? (the )?(agenda|minutes)|"
-    r"public comment|citizen comment|adjourn|recess|good of the order|executive session|vote requested)", re.I)
+    r"public comment|citizen comment|adjourn|recess|good of the order|executive session|vote requested|"
+    r"hybrid meeting|connecting to|webinar|see attached|this meeting (has been|will be)|properly noticed|"
+    r"item no|agenda review|adoption of (the )?(introduction|consent|agenda)|join (the )?(meeting|zoom))", re.I)
 # Section headings that only count as procedure when they are the whole item.
 HEADING = re.compile(
     r"^((regular |special )?minutes|public (comment|testimony)|announcements?|(staff )?reports?|"
@@ -145,8 +147,10 @@ def legistar_highlights(src, events, start_day):
         except Exception as exc:
             print(f"[info] {src['id']}: no agenda items for {e['_eid']}: {exc}", file=sys.stderr)
             continue
-        # Items tied to a legislative file (bills, resolutions, hearings) come first.
-        items = sorted(items, key=lambda i: (not i.get("EventItemMatterFile"), i.get("EventItemAgendaSequence") or 0))
+        # When an agenda has items tied to legislative files (bills, resolutions,
+        # hearings), those are the decisions; the rest are headings and notices.
+        filed = [i for i in items if i.get("EventItemMatterFile")]
+        items = sorted(filed or items, key=lambda i: i.get("EventItemAgendaSequence") or 0)
         add_highlights(e, [i.get("EventItemTitle") or "" for i in items
                            if (i.get("EventItemMatterType") or "").lower() != "minutes"])
 
@@ -160,12 +164,12 @@ def civicclerk_highlights(src, events, start_day):
         except Exception as exc:
             print(f"[info] {src['id']}: no agenda for {e['_agenda']}: {exc}", file=sys.stderr)
             continue
+        if not meeting.get("agendaIsPublish"):
+            continue  # draft agendas are not public yet
         titles = []
 
         def walk(items, section=""):
             for i in items or []:
-                if i.get("showOnPublishAgenda") is False:
-                    continue
                 name = i.get("agendaObjectItemName") or ""
                 if i.get("isSection"):
                     walk(i.get("childItems"), name)
