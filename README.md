@@ -18,10 +18,10 @@ Washington Secretary of State or any government agency.
 
 | Source | Platform | Connector | State |
 |---|---|---|---|
-| City of Olympia | Legistar | `legistar` | Feed confirmed |
-| City of Lacey | CivicClerk | `civicclerk` | Feed confirmed |
-| Thurston County | Published Outlook calendar | `ics` | Feed confirmed |
-| Port of Olympia | WordPress events | `ics` | Feed unconfirmed |
+| City of Olympia | Legistar | `legistar` | Live |
+| City of Lacey | CivicClerk | `civicclerk` | Live |
+| Thurston County | Published Outlook calendar | `ics` | Live |
+| Port of Olympia | WordPress events | none | No feed found; needs its own connector |
 | City of Tumwater | Municode Meetings | none | Blocked to crawlers; ask for a feed |
 | Timberland Regional Library | BiblioCommons | none | Blocked to crawlers; ask for a feed |
 | School boards | not inventoried | none | To do |

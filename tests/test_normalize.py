@@ -64,3 +64,10 @@ END:VCALENDAR
     assert "Busy" not in titles
     hearing = next(e for e in events if "Hearing" in e["title"])
     assert hearing["category"] == "hearing" and hearing["start"] == "2026-11-18T18:00:00-08:00"
+
+
+def test_cancelled_prefix_is_dropped():
+    src = {"id": "tc", "name": "Thurston County", "area": "countywide"}
+    from datetime import datetime
+    e = build.make_event(src, title="Canceled: Board Work Session", start=datetime(2026, 11, 17, 9, 0, tzinfo=TZ))
+    assert e["cancelled"] and e["title"] == "Board Work Session"

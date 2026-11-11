@@ -51,6 +51,10 @@ def is_cancelled(*texts: str) -> bool:
 def make_event(src, *, title, start, end=None, all_day=False, location="", url="",
                agenda_url="", note="", uid=""):
     key = f"{src['id']}|{uid or title}|{start.isoformat()}"
+    cancelled = is_cancelled(title, note)
+    # Hosts often prefix the title ("Canceled: Board Work Session"); the site
+    # shows its own Cancelled tag, so drop the prefix.
+    title = re.sub(r"^\s*cancel+ed\s*[:\-]\s*", "", title or "", flags=re.I)
     return {
         "id": hashlib.sha1(key.encode()).hexdigest()[:12],
         "title": " ".join((title or "").split()),
@@ -65,7 +69,7 @@ def make_event(src, *, title, start, end=None, all_day=False, location="", url="
         "url": url or src.get("homepage", ""),
         "agenda_url": agenda_url or "",
         "note": " ".join((note or "").split()),
-        "cancelled": is_cancelled(title, note),
+        "cancelled": cancelled,
     }
 
 

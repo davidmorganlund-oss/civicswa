@@ -28,18 +28,11 @@ sources:
     area: countywide
     homepage: https://www.thurstoncountywa.gov/meetings-and-agendas
 
-  # Unverified: the Port's site runs a WordPress events calendar. This tries its
-  # standard iCal export. If the first run reports it as failing, switch
-  # connector or ask the Port for a feed.
-  - id: port-of-olympia
-    name: Port of Olympia
-    type: ics
-    url: https://portolympia.com/events/?ical=1
-    area: countywide
-    homepage: https://portolympia.com/commission/
-
 # Not connected yet, on purpose:
 #   City of Tumwater (tumwater-wa.municodemeetings.com) and Timberland Regional
 #   Library (timberland.bibliocommons.com) both tell automated crawlers to stay
 #   out in robots.txt. Ask each for a feed or permission before adding them.
+#   Port of Olympia (portolympia.com/commission/) lists meetings on its own
+#   WordPress pages with no feed found yet; its standard iCal address returns
+#   a web page. Needs its own connector or a feed from the Port.
 #   School boards (Olympia, North Thurston, Tumwater) are not inventoried yet.
