@@ -693,7 +693,7 @@ def fetch_schedule(src, start_day, end_day, tz):
         else:
             days = schedule_dates(mtg["when"], start_day, end_day)
         for day in days:
-            if day.month in mtg.get("skip_months", []):
+            if day.month in mtg.get("skip_months", []) or str(day) in [str(d) for d in mtg.get("skip_dates", [])]:
                 continue
             start = datetime.combine(day, time(hh, mm), tz)
             if mtg.get("end"):

@@ -285,7 +285,7 @@ def test_legislature_committees():
 def test_diligent_school_board_portal():
     src = {"id": "lwsd", "name": "Lake Washington School District", "area": "Redmond", "county": "King",
            "type": "civicweb", "base": "https://lwsd.community.highbond.com", "category": "school",
-           "exclude": "potential quorum"}
+           "exclude": "quorum"}
     rows = [{"Id": 1008, "Name": "Board Meeting - January 25, 2027", "MeetingDateTime": "2027-01-25 19:00",
              "MeetingLocation": "L. E. Scarr Resource Center; Board Room"},
             {"Id": 9, "Name": "Notice of Potential Quorum  - Nov 05 2026", "MeetingDateTime": "2026-11-05 16:30"},

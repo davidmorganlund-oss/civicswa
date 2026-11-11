@@ -620,7 +620,7 @@ sources:
     county: King
     area: Bellevue
     category: school
-    exclude: potential quorum   # notices that several directors may attend an event
+    exclude: quorum   # notices that several directors may attend an event
     homepage: https://www.bsd405.org/about-us/school-board
 
   - id: lake-washington-schools
@@ -654,6 +654,7 @@ sources:
         when: 2nd, 4th Thursday
         time: "18:00"
         skip_months: [7, 8, 12]
+        skip_dates: [2026-11-26]   # Thanksgiving
         location: "Professional Development Center, 6501 N. 23rd St., Tacoma"
         url: https://www.tacomaschools.org/about/school-board/attend
         note: "In July, August and December the board meets once a month; check the district's page for that date."
