@@ -432,6 +432,23 @@ def write_ics(events, path: Path, stamp: datetime):
     path.write_text("\r\n".join(lines) + "\r\n", encoding="utf-8")
 
 
+def apply_source_rules(src, events):
+    """Per-source tidying set in sources.yml.
+
+    drop_uncategorized: leave out anything that doesn't read as a meeting or
+      hearing (office closures, conferences, staff events on a shared calendar).
+    default_category: for feeds that only carry meetings, file the ones whose
+      names don't say so (e.g. "LEOFF 1") under this category.
+    """
+    if src.get("default_category"):
+        for e in events:
+            if e["category"] == "other":
+                e["category"] = src["default_category"]
+    if src.get("drop_uncategorized"):
+        events = [e for e in events if e["category"] != "other"]
+    return events
+
+
 def load_previous_status() -> dict:
     try:
         return {s["id"]: s for s in json.loads((OUT / "status.json").read_text())["sources"]}
@@ -457,6 +474,7 @@ def main() -> int:
         try:
             found = CONNECTORS[src["type"]](src, start_day, end_day, tz)
             found = [e for e in found if start_day <= datetime.fromisoformat(e["start"]).date() <= end_day]
+            found = apply_source_rules(src, found)
             status.update(ok=True, count=len(found), last_success=status["checked"], error="")
             # A source that answers but lists nothing is suspicious, not fine.
             status["state"] = "ok" if found else "quiet"

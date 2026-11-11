@@ -175,3 +175,13 @@ def test_officials_parsers():
             {"name": {"official_full": "Other"}, "terms": [{"type": "rep", "state": "OR", "district": 1}]}]
     c = officials.parse_congress(rows)
     assert c["senators"][0]["name"] == "A Senator" and c["house"]["10"]["name"] == "B Rep" and len(c["house"]) == 1
+
+
+def test_source_rules():
+    def ev(cat):
+        return {"category": cat, "title": cat}
+    kept = build.apply_source_rules({"drop_uncategorized": True}, [ev("council"), ev("other"), ev("hearing")])
+    assert [e["category"] for e in kept] == ["council", "hearing"]
+    filed = build.apply_source_rules({"default_category": "council"}, [ev("other"), ev("hearing")])
+    assert [e["category"] for e in filed] == ["council", "hearing"]
+    assert len(build.apply_source_rules({}, [ev("other")])) == 1
