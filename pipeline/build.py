@@ -61,6 +61,7 @@ def make_event(src, *, title, start, end=None, all_day=False, location="", url="
         "host": src["name"],
         "source": src["id"],
         "area": area or src["area"],
+        "county": src.get("county", "Thurston"),
         "category": category or categorize(title),
         "start": start.isoformat(),
         "end": end.isoformat() if end else None,
@@ -411,11 +412,11 @@ def ics_escape(text: str) -> str:
     return (text or "").replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,").replace("\n", "\\n")
 
 
-def write_ics(events, path: Path, stamp: datetime):
+def write_ics(events, path: Path, stamp: datetime, name: str = "Washington"):
     utc = ZoneInfo("UTC")
     fmt = "%Y%m%dT%H%M%SZ"
-    lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//CivicsWA//Thurston pilot//EN",
-             "X-WR-CALNAME:CivicsWA Thurston County"]
+    lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//CivicsWA//Public meetings//EN",
+             f"X-WR-CALNAME:CivicsWA {name}"]
     for e in events:
         start = datetime.fromisoformat(e["start"])
         lines += ["BEGIN:VEVENT", f"UID:{e['id']}@civicswa", f"DTSTAMP:{stamp.astimezone(utc).strftime(fmt)}"]
@@ -449,6 +450,10 @@ def apply_source_rules(src, events):
     return events
 
 
+def county_slug(county: str) -> str:
+    return re.sub(r"[^a-z]+", "-", county.lower()).strip("-")
+
+
 def load_previous_status() -> dict:
     try:
         return {s["id"]: s for s in json.loads((OUT / "status.json").read_text())["sources"]}
@@ -470,6 +475,7 @@ def main() -> int:
     all_events, statuses = [], []
     for src in cfg["sources"]:
         status = {"id": src["id"], "name": src["name"], "homepage": src.get("homepage", ""),
+                  "county": src.get("county", "Thurston"),
                   "checked": now.isoformat(timespec="seconds")}
         try:
             found = CONNECTORS[src["type"]](src, start_day, end_day, tz)
@@ -496,7 +502,14 @@ def main() -> int:
     stamp = now.isoformat(timespec="seconds")
     (OUT / "events.json").write_text(json.dumps({"generated": stamp, "events": events}, indent=1))
     (OUT / "status.json").write_text(json.dumps({"generated": stamp, "sources": statuses}, indent=1))
-    write_ics(events, OUT / "thurston.ics", now)
+    # One subscribable calendar per county, plus a statewide one. The original
+    # data/thurston.ics address stays so existing subscriptions keep working.
+    (OUT / "ics").mkdir(exist_ok=True)
+    write_ics(events, OUT / "ics" / "washington.ics", now, "Washington")
+    for county in sorted({e["county"] for e in events} | {s["county"] for s in statuses}):
+        mine = [e for e in events if e["county"] == county]
+        write_ics(mine, OUT / "ics" / f"{county_slug(county)}.ics", now, f"{county} County")
+    write_ics([e for e in events if e["county"] == "Thurston"], OUT / "thurston.ics", now, "Thurston County")
 
     for s in statuses:
         print(f"{s['state']:8} {s['count']:4}  {s['name']}")

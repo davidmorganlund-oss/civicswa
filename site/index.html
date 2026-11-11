@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>CivicsWA: public meetings near you in Thurston County</title>
+<title>CivicsWA: public meetings near you in Washington</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
@@ -23,21 +23,24 @@
 
 <section class="hero"><div class="wrap">
   <h1>Find out what your community is deciding this week.</h1>
-  <p class="lede">Council meetings, commissions and public hearings in Thurston County, in one calendar. Tell us where you live and we'll show you what's near you.</p>
-  <form class="search" id="search">
+  <p class="lede">Council meetings, commissions and public hearings across Washington, in one calendar. Pick where you live and we'll show you what's near you.</p>
+  <form class="search" id="search" onsubmit="return false">
     <div class="field">
-      <label for="place">City or ZIP code</label>
-      <input id="place" name="place" type="text" autocomplete="postal-code" placeholder="Olympia or 98501">
+      <label for="county">County</label>
+      <select id="county"><option value="">All of Washington</option></select>
     </div>
-    <button class="btn" type="submit">Show what's near me</button>
+    <div class="field">
+      <label for="city">City</label>
+      <select id="city" disabled><option value="">Choose a county first</option></select>
+    </div>
   </form>
-  <p class="small">Pilot: Thurston County only. No account needed, and nothing you type leaves your browser.</p>
+  <p class="small"><span id="coverage">Covering more of Washington every month.</span> No account needed, and your choice stays in your browser.</p>
 </div></section>
 
 <div class="wrap layout">
   <main class="main" id="events">
     <div class="heading">
-      <h2 id="heading">Coming up in Thurston County</h2>
+      <h2 id="heading">Coming up across Washington</h2>
       <span id="range"></span>
     </div>
     <p class="muted" id="place-msg" role="status" hidden></p>
@@ -50,7 +53,7 @@
     <div class="card">
       <h2>Get it on your phone</h2>
       <p>Subscribe once and these meetings show up in the calendar app you already use.</p>
-      <a class="link" href="data/thurston.ics">Subscribe to this calendar</a>
+      <a class="link" id="subscribe" href="data/ics/washington.ics">Subscribe to the statewide calendar</a>
     </div>
     <div class="card warm">
       <span class="eyebrow">Engage</span>

@@ -42,7 +42,7 @@ h1 { margin: 0; font-family: var(--display); font-weight: 700; font-size: clamp(
 .search { display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-end; margin-top: 8px; }
 .field { display: flex; flex-direction: column; gap: 6px; flex: 1 1 260px; max-width: 420px; }
 .field label { font-size: 14px; font-weight: 600; }
-.field input { height: 52px; padding: 0 16px; border-radius: 10px; border: 2px solid #fff; font: inherit; font-size: 17px; color: #0F2A33; background: #fff; }
+.field input, .field select { height: 52px; padding: 0 16px; border-radius: 10px; border: 2px solid #fff; font: inherit; font-size: 17px; color: #0F2A33; background: #fff; }
 .btn { height: 52px; padding: 0 26px; border: 0; border-radius: 10px; background: var(--accent); color: #0F2A33; font: inherit; font-weight: 600; font-size: 17px; cursor: pointer; }
 .hero.plain { background: transparent; color: var(--ink); } .hero.plain p { color: var(--muted); } .hero.plain .wrap { padding-block: 56px 8px; }
 

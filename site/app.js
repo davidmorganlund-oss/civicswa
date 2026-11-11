@@ -13,16 +13,14 @@
   ];
   var LABELS = { council: 'Councils and commissions', hearing: 'Public hearings', school: 'School boards', library: 'Library programs', other: 'Other' };
 
-  // ZIP codes are approximate and overlap city lines; a ZIP can map to two cities.
-  var ZIPS = {
-    '98501': ['Olympia', 'Tumwater'], '98502': ['Olympia'], '98505': ['Olympia'], '98506': ['Olympia'],
-    '98507': ['Olympia'], '98512': ['Olympia', 'Tumwater'], '98511': ['Tumwater'],
-    '98503': ['Lacey'], '98509': ['Lacey'], '98513': ['Lacey'], '98516': ['Lacey'],
-    '98530': [], '98540': [], '98556': [], '98576': [], '98579': [], '98589': [], '98597': []
-  };
-  var CITIES = ['Olympia', 'Lacey', 'Tumwater'];
+  // The visitor's county and city, shared with the Engage guides' "Near you"
+  // boxes and the representatives lookup. Kept in this browser only.
+  var KEY = 'civicswa.place';
+  function loadPlace() { try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) { return {}; } }
+  function savePlace(p) { try { localStorage.setItem(KEY, JSON.stringify(p)); } catch (e) { /* private mode */ } }
+  function slug(c) { return c.toLowerCase().replace(/[^a-z]+/g, '-').replace(/^-|-$/g, ''); }
 
-  var state = { events: [], cat: 'all', areas: null, placeLabel: '', days: 14 };
+  var state = { events: [], sources: [], cat: 'all', county: '', city: '', days: 14 };
   var $ = function (id) { return document.getElementById(id); };
 
   function el(tag, cls, text) {
@@ -56,25 +54,14 @@
     return d.toISOString().slice(0, 10);
   }
 
-  function resolvePlace(text) {
-    var t = text.trim();
-    if (!t) return { areas: null, label: '' };
-    var zip = /\b(\d{5})\b/.exec(t);
-    if (zip) {
-      if (ZIPS[zip[1]]) return { areas: ZIPS[zip[1]], label: zip[1] };
-      return { unknown: true };
-    }
-    var hit = CITIES.filter(function (c) { return t.toLowerCase().indexOf(c.toLowerCase()) !== -1; });
-    return hit.length ? { areas: hit, label: hit[0] } : { unknown: true };
-  }
-
   function visible() {
     var from = todayKey(), to = addDays(from, state.days);
     return state.events.filter(function (e) {
       var key = e.start.slice(0, 10);
       if (key < from || key > to) return false;
       if (state.cat !== 'all' && e.category !== state.cat) return false;
-      if (state.areas && e.area !== 'countywide' && state.areas.indexOf(e.area) === -1) return false;
+      if (state.county && e.county !== state.county) return false;
+      if (state.city && e.area !== 'countywide' && e.area !== state.city) return false;
       return true;
     });
   }
@@ -155,7 +142,11 @@
     var from = todayKey(), to = addDays(from, state.days);
     var fmt = function (k) { return new Date(k + 'T12:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric' }); };
     $('range').textContent = fmt(from) + ' to ' + fmt(to) + ' · ' + rows.length + (rows.length === 1 ? ' event' : ' events');
-    $('heading').textContent = 'Coming up ' + (state.placeLabel ? 'near ' + state.placeLabel : 'in Thurston County');
+    $('heading').textContent = 'Coming up ' + (state.city ? 'in and around ' + state.city : state.county ? 'in ' + state.county + ' County' : 'across Washington');
+    var sub = $('subscribe');
+    sub.href = 'data/ics/' + (state.county ? slug(state.county) : 'washington') + '.ics';
+    sub.textContent = 'Subscribe to ' + (state.county ? state.county + ' County' : 'the statewide calendar');
+    renderStatus();
 
     if (!rows.length) {
       list.appendChild(el('p', 'empty', state.events.length
@@ -185,28 +176,48 @@
       $('chips').appendChild(b);
     });
     $('more').addEventListener('click', function () { state.days += 14; render(); });
-    $('search').addEventListener('submit', function (ev) {
-      ev.preventDefault();
-      var r = resolvePlace($('place').value), msg = $('place-msg');
-      if (r.unknown) {
-        state.areas = null; state.placeLabel = '';
-        msg.textContent = 'We only cover Thurston County so far, so here is everything we have.';
-        msg.hidden = false;
-      } else {
-        state.areas = r.areas; state.placeLabel = r.label;
-        msg.hidden = !(r.areas && !r.areas.length);
-        msg.textContent = 'We don’t have your town’s own calendar yet. These are the countywide meetings.';
-      }
-      render();
-      $('events').scrollIntoView({ behavior: 'smooth' });
+    $('county').addEventListener('change', function () {
+      state.county = $('county').value; state.city = '';
+      savePlace({ county: state.county }); fillCities(); render();
+    });
+    $('city').addEventListener('change', function () {
+      state.city = $('city').value;
+      savePlace({ county: state.county, city: state.city }); render();
     });
   }
 
-  function renderStatus(status) {
+  // Counties and cities come from the sources we read, so the lists only
+  // offer places that have meetings here.
+  function fillCounties() {
+    var counties = {};
+    state.sources.forEach(function (s) { counties[s.county || 'Thurston'] = true; });
+    var sel = $('county');
+    sel.textContent = '';
+    sel.appendChild(new Option('All of Washington', ''));
+    Object.keys(counties).sort().forEach(function (c) { sel.appendChild(new Option(c + ' County', c, false, c === state.county)); });
+    if (!counties[state.county]) state.county = '';
+    sel.value = state.county;
+    $('coverage').textContent = 'Now covering ' + Object.keys(counties).length + ' of Washington’s 39 counties, with more on the way.';
+  }
+  function fillCities() {
+    var cities = {};
+    state.events.forEach(function (e) { if (e.county === state.county && e.area !== 'countywide') cities[e.area] = true; });
+    var sel = $('city');
+    sel.textContent = '';
+    sel.appendChild(new Option(state.county ? 'Anywhere in ' + state.county + ' County' : 'Choose a county first', ''));
+    Object.keys(cities).sort().forEach(function (c) { sel.appendChild(new Option(c, c, false, c === state.city)); });
+    if (!cities[state.city]) state.city = '';
+    sel.value = state.city;
+    sel.disabled = !state.county;
+  }
+
+  function renderStatus() {
+    var status = state.status;
+    if (!status) return;
     var ul = $('sources');
     ul.textContent = '';
     var words = { ok: 'Up to date', quiet: 'Nothing listed', failing: 'Not responding' };
-    status.sources.forEach(function (s) {
+    status.sources.filter(function (s) { return !state.county || (s.county || 'Thurston') === state.county; }).forEach(function (s) {
       var li = el('li');
       var a = el('a', null, s.name);
       if (safeUrl(s.homepage)) { a.href = s.homepage; a.rel = 'noopener'; }
@@ -218,15 +229,23 @@
     if (!isNaN(when)) $('updated').textContent = 'Last refreshed ' + when.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/Los_Angeles' }) + '.';
   }
 
+  var place = loadPlace();
+  state.county = place.county || '';
+  state.city = place.city || '';
   setup();
-  fetch('data/events.json').then(function (r) { return r.json(); }).then(function (d) {
-    state.events = d.events || [];
+  Promise.all([
+    fetch('data/events.json').then(function (r) { return r.json(); }),
+    fetch('data/status.json').then(function (r) { return r.json(); }).catch(function () { return { sources: [] }; })
+  ]).then(function (res) {
+    state.events = (res[0].events || []).map(function (e) { e.county = e.county || 'Thurston'; return e; });
+    state.status = res[1];
+    state.sources = res[1].sources || [];
+    fillCounties();
+    fillCities();
     render();
   }).catch(function () {
     $('list').textContent = '';
     $('list').appendChild(el('p', 'empty', 'The calendar could not be loaded. Please try again later.'));
-  });
-  fetch('data/status.json').then(function (r) { return r.json(); }).then(renderStatus).catch(function () {
     $('sources').textContent = '';
   });
 })();

@@ -1,7 +1,8 @@
-# CivicsWA pilot sources: Thurston County, WA.
+# CivicsWA sources, Washington State. Thurston County was the pilot.
 # Each source names a connector type and the public feed it reads.
 # "area" is what the site matches a visitor's city or ZIP against;
 # "countywide" sources show for everyone in the county.
+# "county" groups sources by county (it defaults to Thurston).
 
 window_days: 60
 timezone: America/Los_Angeles
@@ -60,6 +61,177 @@ sources:
     city_areas: {Olympia: Olympia, Lacey: Lacey, Tumwater: Tumwater}
     area: countywide
     homepage: https://timberland.bibliocommons.com/v2/events
+
+  # ---------- Statewide expansion (November 2026) ----------
+  # Every feed below was checked by hand before it was added.
+
+  - id: seattle
+    name: City of Seattle
+    type: legistar
+    client: seattle
+    county: King
+    area: Seattle
+    homepage: https://seattle.legistar.com/Calendar.aspx
+
+  - id: tacoma
+    name: City of Tacoma
+    type: legistar
+    client: cityoftacoma
+    county: Pierce
+    area: Tacoma
+    homepage: https://cityoftacoma.legistar.com/Calendar.aspx
+
+  - id: bellevue
+    name: City of Bellevue
+    type: legistar
+    client: bellevue
+    county: King
+    area: Bellevue
+    homepage: https://bellevue.legistar.com/Calendar.aspx
+
+  - id: redmond
+    name: City of Redmond
+    type: legistar
+    client: redmond
+    county: King
+    area: Redmond
+    homepage: https://redmond.legistar.com/Calendar.aspx
+
+  - id: king-county
+    name: King County
+    type: legistar
+    client: kingcounty
+    county: King
+    area: countywide
+    homepage: https://kingcounty.legistar.com/Calendar.aspx
+
+  - id: clark-county
+    name: Clark County
+    type: legistar
+    client: clark
+    county: Clark
+    area: countywide
+    homepage: https://clark.legistar.com/Calendar.aspx
+
+  - id: snohomish-county
+    name: Snohomish County
+    type: legistar
+    client: snohomish
+    county: Snohomish
+    area: countywide
+    homepage: https://snohomish.legistar.com/Calendar.aspx
+
+  - id: whatcom-county
+    name: Whatcom County
+    type: legistar
+    client: whatcom
+    county: Whatcom
+    area: countywide
+    homepage: https://whatcom.legistar.com/Calendar.aspx
+
+  - id: vancouver
+    name: City of Vancouver
+    type: civicclerk
+    tenant: vancouverwa
+    county: Clark
+    area: Vancouver
+    homepage: https://vancouverwa.portal.civicclerk.com/
+
+  - id: auburn
+    name: City of Auburn
+    type: civicclerk
+    tenant: auburnwa
+    county: King
+    area: Auburn
+    homepage: https://auburnwa.portal.civicclerk.com/
+
+  - id: kennewick
+    name: City of Kennewick
+    type: civicclerk
+    tenant: kennewickwa
+    county: Benton
+    area: Kennewick
+    homepage: https://kennewickwa.portal.civicclerk.com/
+
+  - id: richland
+    name: City of Richland
+    type: civicclerk
+    tenant: richlandwa
+    county: Benton
+    area: Richland
+    homepage: https://richlandwa.portal.civicclerk.com/
+
+  - id: marysville
+    name: City of Marysville
+    type: civicclerk
+    tenant: marysvillewa
+    county: Snohomish
+    area: Marysville
+    homepage: https://marysvillewa.portal.civicclerk.com/
+
+  - id: adams-county
+    name: Adams County
+    type: civicclerk
+    tenant: adamscowa
+    county: Adams
+    area: countywide
+    homepage: https://adamscowa.portal.civicclerk.com/
+
+  - id: benton-county
+    name: Benton County
+    type: civicclerk
+    tenant: bentoncowa
+    county: Benton
+    area: countywide
+    homepage: https://bentoncowa.portal.civicclerk.com/
+
+  - id: clallam-county
+    name: Clallam County
+    type: civicclerk
+    tenant: clallamcowa
+    county: Clallam
+    area: countywide
+    homepage: https://clallamcowa.portal.civicclerk.com/
+
+  - id: columbia-county
+    name: Columbia County
+    type: civicclerk
+    tenant: columbiacowa
+    county: Columbia
+    area: countywide
+    homepage: https://columbiacowa.portal.civicclerk.com/
+
+  - id: klickitat-county
+    name: Klickitat County
+    type: civicclerk
+    tenant: klickitatcowa
+    county: Klickitat
+    area: countywide
+    homepage: https://klickitatcowa.portal.civicclerk.com/
+
+  - id: pacific-county
+    name: Pacific County
+    type: civicclerk
+    tenant: pacificcowa
+    county: Pacific
+    area: countywide
+    homepage: https://pacificcowa.portal.civicclerk.com/
+
+  - id: san-juan-county
+    name: San Juan County
+    type: civicclerk
+    tenant: sanjuancowa
+    county: San Juan
+    area: countywide
+    homepage: https://sanjuancowa.portal.civicclerk.com/
+
+  - id: spokane-county
+    name: Spokane County
+    type: civicclerk
+    tenant: spokanecowa
+    county: Spokane
+    area: countywide
+    homepage: https://spokanecowa.portal.civicclerk.com/
 
 # Not connected yet:
 #   Tumwater's separate meetings portal (tumwater-wa.municodemeetings.com) has
