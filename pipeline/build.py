@@ -54,7 +54,7 @@ def make_event(src, *, title, start, end=None, all_day=False, location="", url="
     cancelled = cancelled or is_cancelled(title, note)
     # Hosts often prefix the title ("Canceled: Board Work Session"); the site
     # shows its own Cancelled tag, so drop the prefix.
-    title = re.sub(r"^\s*cancel+ed\s*[:\-]\s*", "", title or "", flags=re.I)
+    title = re.sub(r"^[\s*]*cancel+ed[\s*]*(?:[:\-–]\s*|\s+(?=\S))", "", title or "", flags=re.I)
     return {
         "id": hashlib.sha1(key.encode()).hexdigest()[:12],
         "title": " ".join((title or "").split()),
@@ -462,10 +462,37 @@ def fetch_primegov(src, start_day, end_day, tz):
     return normalize_primegov(src, rows, tz)
 
 
+# --- CivicWeb (iCompass) portals: the meeting schedule's JSON service ---
+
+def normalize_civicweb(src, rows, tz):
+    tenant = src["tenant"]
+    events = []
+    for r in rows:
+        raw = r.get("MeetingDateTime") or ""
+        if not raw:
+            continue
+        start = datetime.strptime(raw[:16], "%Y-%m-%d %H:%M").replace(tzinfo=tz)
+        # Names end with the date ("Planning Commission - Dec 17 2026"); the site shows its own.
+        name = re.sub(r"\s*-\s*\d{1,2} [A-Z][a-z]{2} \d{4}$|\s*-\s*[A-Z][a-z]{2} \d{1,2} \d{4}$", "", r.get("Name") or "")
+        events.append(make_event(
+            src, title=name or "Public meeting", start=start,
+            location=r.get("MeetingLocation") or "",
+            url=f"https://{tenant}.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id={r.get('Id')}",
+            uid=str(r.get("Id", "")),
+        ))
+    return events
+
+
+def fetch_civicweb(src, start_day, end_day, tz):
+    rows = get(f"https://{src['tenant']}.civicweb.net/Services/MeetingsService.svc/meetings",
+               {"from": start_day.isoformat(), "to": end_day.isoformat(), "loadmore": "false"}).json()
+    return normalize_civicweb(src, rows, tz)
+
+
 CONNECTORS = {"legistar": fetch_legistar, "civicclerk": fetch_civicclerk, "ics": fetch_ics,
               "bibliocommons": fetch_bibliocommons, "municode": fetch_municode, "mec_rss": fetch_mec_rss,
               "govaccess_rss": fetch_govaccess_rss, "civicplus": fetch_civicplus,
-              "primegov": fetch_primegov}
+              "primegov": fetch_primegov, "civicweb": fetch_civicweb}
 
 
 # ---------- outputs ----------

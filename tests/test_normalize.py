@@ -207,3 +207,14 @@ def test_civicplus_closures_and_primegov():
     (e,) = build.normalize_primegov(src, rows, TZ)
     assert e["start"] == "2026-11-17T16:00:00-08:00" and e["title"].endswith("Meeting")
     assert e["agenda_url"].endswith("meetingTemplateId=2234") and e["category"] == "council"
+
+
+def test_civicweb():
+    src = {"id": "sammamish", "name": "City of Sammamish", "area": "Sammamish", "county": "King", "tenant": "sammamishwa"}
+    rows = [{"Id": 4840, "MeetingDateTime": "2026-12-17 18:30", "MeetingLocation": "City Hall",
+             "Name": "Planning Commission - Dec 17 2026"},
+            {"Id": 1, "MeetingDateTime": "2026-12-21 17:30", "MeetingLocation": "",
+             "Name": "CANCELLED- City Council Regular Meeting - 21 Dec 2026"}]
+    a, b = build.normalize_civicweb(src, rows, TZ)
+    assert a["title"] == "Planning Commission" and a["start"] == "2026-12-17T18:30:00-08:00"
+    assert b["cancelled"] and b["title"] == "City Council Regular Meeting"

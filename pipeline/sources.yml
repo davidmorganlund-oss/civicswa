@@ -243,14 +243,6 @@ sources:
     default_category: council
     homepage: https://www.kentwa.gov/
 
-  - id: shoreline
-    name: City of Shoreline
-    type: govaccess_rss
-    url: https://www.shorelinewa.gov/Home/Components/RssFeeds/RssFeed/View?ctID=6
-    county: King
-    area: Shoreline
-    drop_uncategorized: true   # the city calendar also lists walks, markets and closures
-    homepage: https://www.shorelinewa.gov/
 
   - id: renton
     name: City of Renton
@@ -259,6 +251,31 @@ sources:
     county: King
     area: Renton
     homepage: https://renton.primegov.com/public/portal
+
+  - id: sammamish
+    name: City of Sammamish
+    type: civicweb
+    tenant: sammamishwa
+    county: King
+    area: Sammamish
+    homepage: https://sammamishwa.civicweb.net/Portal/MeetingSchedule.aspx
+
+  - id: burien
+    name: City of Burien
+    type: civicweb
+    tenant: burienwa
+    county: King
+    area: Burien
+    homepage: https://burienwa.civicweb.net/Portal/MeetingSchedule.aspx
+
+  - id: lakewood
+    name: City of Lakewood
+    type: ics
+    url: https://calendar.google.com/calendar/ical/6qct9l3e92uv913okg3m7n7e3g%40group.calendar.google.com/public/basic.ics
+    county: Pierce
+    area: Lakewood
+    default_category: council   # the public Google Calendar on the council agendas page
+    homepage: https://cityoflakewood.us/city-council/city-council-agendas/
 
   # CivicPlus sites: each category below was checked and holds public meetings.
 
@@ -276,7 +293,7 @@ sources:
     name: City of Spokane Valley
     type: civicplus
     site: https://www.spokanevalleywa.gov
-    categories: [25]
+    categories: [25, 14]
     county: Spokane
     area: Spokane Valley
     drop_uncategorized: true
@@ -292,15 +309,6 @@ sources:
     drop_uncategorized: true
     homepage: https://www.pasco-wa.gov/Calendar.aspx
 
-  - id: everett
-    name: City of Everett
-    type: civicplus
-    site: https://www.everettwa.gov
-    categories: [29]
-    county: Snohomish
-    area: Everett
-    drop_uncategorized: true
-    homepage: https://www.everettwa.gov/Calendar.aspx
 
   - id: asotin-county
     name: Asotin County
@@ -413,6 +421,9 @@ sources:
     homepage: https://www.yakimacounty.us/Calendar.aspx
 
 # Not connected yet:
+#   Shoreline (govAccess calendar feed) and Everett (CivicPlus calendar) both
+#   refuse requests from GitHub's servers (HTTP 403), so they are left out
+#   rather than worked around.
 #   Tumwater's separate meetings portal (tumwater-wa.municodemeetings.com) has
 #   agendas, but its server refuses automated readers, so it is not used.
 #   School boards. Olympia School District posts agendas on BoardDocs, which
