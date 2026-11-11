@@ -277,6 +277,137 @@ sources:
     default_category: council   # the public Google Calendar on the council agendas page
     homepage: https://cityoflakewood.us/city-council/city-council-agendas/
 
+  # City of Spokane. The council's meetings page lists the next meetings; the
+  # city's boards publish standing schedules but no feed, so those are entered
+  # from each board's page (checked November 2026) and labeled as such.
+  - id: spokane
+    name: City of Spokane
+    type: spokane_council
+    url: https://my.spokanecity.org/citycouncil/meetings/
+    county: Spokane
+    area: Spokane
+    default_category: council
+    homepage: https://my.spokanecity.org/citycouncil/meetings/
+
+  - id: spokane-boards
+    name: City of Spokane boards and commissions
+    type: schedule
+    county: Spokane
+    area: Spokane
+    default_category: council
+    homepage: https://my.spokanecity.org/bcc/
+    meetings:
+      - title: Plan Commission
+        when: 2nd, 4th Wednesday
+        time: "14:00"
+        location: "Council Briefing Center, City Hall, 808 W. Spokane Falls Blvd., Spokane"
+        url: https://my.spokanecity.org/bcc/commissions/plan-commission/
+      - title: Arts Commission
+        when: 4th Tuesday
+        time: "16:30"
+        location: "Central Library, 906 W. Main Ave., Events Room A"
+        url: https://my.spokanecity.org/bcc/commissions/arts-commission/
+        skip_months: [12]
+      - title: Bicycle Advisory Board
+        when: 3rd Tuesday
+        time: "18:00"
+        location: "Council Briefing Center, City Hall, 808 W. Spokane Falls Blvd., Spokane"
+        url: https://my.spokanecity.org/bcc/boards/bicycle-advisory-board/
+      - title: Chase Youth Commission
+        when: 1st, 3rd Tuesday
+        time: "18:00"
+        end: "19:30"
+        location: "Conference Room 3B, City Hall, 808 W. Spokane Falls Blvd., Spokane"
+        url: https://my.spokanecity.org/bcc/commissions/chase-youth-commission/
+      - title: Civil Service Commission
+        when: 3rd Tuesday
+        time: "09:30"
+        location: "City Council Chamber, City Hall, 808 W. Spokane Falls Blvd., Spokane"
+        url: https://my.spokanecity.org/bcc/commissions/civil-service-commission/
+      - title: Climate Resilience and Sustainability Board
+        when: 2nd Thursday
+        time: "14:00"
+        location: "Council Briefing Center, City Hall, 808 W. Spokane Falls Blvd., Spokane"
+        url: https://my.spokanecity.org/bcc/boards/climate-resilience-and-sustainability-board/
+      - title: Community, Housing and Human Services Board
+        when: 1st Wednesday
+        time: "16:00"
+        end: "18:00"
+        location: "Council Briefing Center, City Hall, 808 W. Spokane Falls Blvd., Spokane (also online)"
+        url: https://my.spokanecity.org/bcc/boards/community-housing-and-human-services-board/
+      - title: East Sprague Business Improvement District Board
+        when: 3rd Wednesday
+        time: "12:00"
+        end: "13:30"
+        location: "Sprague Union Terrace, Community Room, 1420 E. Sprague Ave."
+        url: https://my.spokanecity.org/bcc/boards/east-sprague-business-improvement-district-board/
+      - title: Ombuds Commission
+        when: 3rd Tuesday
+        time: "17:30"
+        location: "City Council Chamber, City Hall, 808 W. Spokane Falls Blvd., Spokane"
+        url: https://my.spokanecity.org/bcc/commissions/ombuds-commission/
+      - title: Human Rights Commission
+        when: 1st Thursday
+        time: "17:30"
+        location: "Location is listed on each meeting's agenda"
+        url: https://my.spokanecity.org/bcc/commissions/spokane-human-rights-commission/
+      - title: Park Board
+        when: 2nd Thursday
+        time: "15:30"
+        location: "Council Chambers, lower level, City Hall, 808 W. Spokane Falls Blvd., Spokane (also online)"
+        url: https://my.spokanecity.org/bcc/boards/spokane-park-board/
+      - title: Public Library Board of Trustees
+        when: 3rd Tuesday
+        time: "16:30"
+        location: "Location changes; see the board's page"
+        url: https://my.spokanecity.org/bcc/boards/spokane-public-library-board-of-trustees/
+      - title: Transportation Commission
+        when: 3rd Thursday
+        time: "16:00"
+        location: "Council Chambers, City Hall, 808 W. Spokane Falls Blvd., Spokane"
+        url: https://my.spokanecity.org/bcc/commissions/transportation-commission/
+      - title: Urban Native Advisory Council
+        when: 1st Thursday
+        time: "10:30"
+        location: "Tribal Conference Room, lobby, City Hall, 808 W. Spokane Falls Blvd., Spokane"
+        url: https://my.spokanecity.org/bcc/councils/spokane-urban-native-advisory-council/
+      - title: City Employees' Retirement Board
+        when: 1st Wednesday
+        time: "13:00"
+        location: "Council Briefing Chamber, City Hall, 808 W. Spokane Falls Blvd., Spokane"
+        url: https://my.spokanecity.org/bcc/boards/city-employees-retirement-board/
+
+  - id: spokane-regional-boards
+    name: Spokane regional boards
+    type: schedule
+    county: Spokane
+    area: countywide
+    default_category: council
+    homepage: https://my.spokanecity.org/bcc/
+    meetings:
+      - title: Spokane Transit Authority Board
+        when: 3rd Thursday
+        time: "13:30"
+        end: "15:30"
+        location: "STA Boardroom, 1230 W. Boone Ave., Spokane"
+        url: https://my.spokanecity.org/bcc/boards/spokane-transit-authority/
+        skip_months: [8]
+      - title: Spokane Regional Transportation Council Board
+        when: 2nd Thursday
+        time: "13:00"
+        location: "421 W. Riverside Ave., Suite 500, Spokane"
+        url: https://my.spokanecity.org/bcc/councils/spokane-regional-transportation-council/
+      - title: Spokane Housing Authority Board
+        when: 4th Monday
+        time: "15:30"
+        location: "SHA offices, 25 W. Nora Ave., Spokane"
+        url: https://my.spokanecity.org/bcc/boards/spokane-housing-authority-board/
+      - title: Spokane Airport Board
+        when: 3rd Thursday
+        time: "09:00"
+        location: "Spokane International Airport (Felts Field in April and September)"
+        url: https://my.spokanecity.org/bcc/boards/spokane-airport-board/
+
   # CivicPlus sites: each category below was checked and holds public meetings.
 
   - id: pierce-county

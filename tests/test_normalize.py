@@ -218,3 +218,19 @@ def test_civicweb():
     a, b = build.normalize_civicweb(src, rows, TZ)
     assert a["title"] == "Planning Commission" and a["start"] == "2026-12-17T18:30:00-08:00"
     assert b["cancelled"] and b["title"] == "City Council Regular Meeting"
+
+
+def test_spokane_council_and_schedule():
+    src = {"id": "spokane", "name": "City of Spokane", "area": "Spokane", "county": "Spokane"}
+    page = ('<h5><a href="/citycouncil/meetings/2026/11/18/legislative-meeting/"><span class="">City Council Legislative Meeting</span></a></h5>\n'
+            '<p>6 p.m. - Council Chambers Lower Level of City Hall.</p>'
+            '<h5><a href="/citycouncil/meetings/2026/11/10/agenda-review-meeting/"><span class="">City Council Agenda Review Meeting</span></a></h5>\n'
+            '<p>11 a.m. - Watch 10:11 - Council Chambers Lower Level of City Hall - No Public Testimony Taken.</p>')
+    leg, review = build.normalize_spokane_council(src, page, TZ)
+    assert leg["start"] == "2026-11-18T18:00:00-08:00" and leg["location"] == "Council Chambers Lower Level of City Hall"
+    assert review["start"] == "2026-11-10T11:00:00-08:00" and review["url"].endswith("agenda-review-meeting/")
+    sched = {"id": "b", "name": "Boards", "area": "Spokane",
+             "meetings": [{"title": "Arts Commission", "when": "4th Tuesday", "time": "16:30", "skip_months": [12]}]}
+    got = build.fetch_schedule(sched, date(2026, 11, 1), date(2027, 1, 31), TZ)
+    assert [e["start"][:10] for e in got] == ["2026-11-24", "2027-01-26"]
+    assert "regular meeting schedule" in got[0]["note"]

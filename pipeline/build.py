@@ -489,10 +489,94 @@ def fetch_civicweb(src, start_day, end_day, tz):
     return normalize_civicweb(src, rows, tz)
 
 
+# --- City of Spokane council meetings (the council's own meetings page) ---
+# The page lists the next couple of meetings, each as an <h5> link whose
+# address carries the date, followed by "6 p.m. - Council Chambers ...".
+
+SPOKANE_ROW = re.compile(
+    r'<h5><a href="(?P<href>/citycouncil/meetings/(?P<y>\d{4})/(?P<m>\d{2})/(?P<d>\d{2})/[^"]+)">'
+    r'<span[^>]*>(?P<title>[^<]+)</span></a></h5>\s*<p>(?P<info>[^<]*)</p>')
+
+
+def normalize_spokane_council(src, page, tz):
+    import html as htmllib
+    base = "https://my.spokanecity.org"
+    events = []
+    for m in SPOKANE_ROW.finditer(page):
+        info = htmllib.unescape(m.group("info")).strip()
+        clock = parse_clock(info.replace("noon", "12 p.m."))
+        place = info.split(" - ", 1)[1] if " - " in info else ""
+        place = re.sub(r"^Watch [\d:]+ - ", "", place).strip().rstrip(".")
+        day = date(int(m.group("y")), int(m.group("m")), int(m.group("d")))
+        events.append(make_event(
+            src, title=htmllib.unescape(m.group("title")).strip(),
+            start=datetime.combine(day, clock or time(0, 0), tz), all_day=clock is None,
+            location=place, url=base + m.group("href"), uid=m.group("href"),
+        ))
+    return events
+
+
+def fetch_spokane_council(src, start_day, end_day, tz):
+    return normalize_spokane_council(src, get(src["url"]).text, tz)
+
+
+# --- Regular schedules entered by hand ("2nd and 4th Wednesday, 2 p.m.") ---
+# For public bodies that publish a standing schedule but no feed. Each event
+# says it comes from the regular schedule, so people check before they go.
+
+WEEKDAYS = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
+SCHEDULE_NOTE = ("From the regular meeting schedule the host publishes. Meetings can be cancelled "
+                 "or moved, so check the host's page before you go.")
+
+
+def schedule_dates(rule: str, start_day: date, end_day: date):
+    """'2nd, 4th Wednesday' or 'last Monday' -> matching dates in the window."""
+    m = re.match(r"\s*(?P<nths>[\w ,and]+?)\s+(?P<wd>monday|tuesday|wednesday|thursday|friday|saturday|sunday)\s*$",
+                 rule, re.I)
+    if not m:
+        raise ValueError(f"bad schedule rule: {rule}")
+    weekday = WEEKDAYS.index(m.group("wd").lower())
+    wanted = set()
+    for word in re.findall(r"1st|2nd|3rd|4th|5th|first|second|third|fourth|fifth|last", m.group("nths").lower()):
+        wanted.add({"1st": 1, "first": 1, "2nd": 2, "second": 2, "3rd": 3, "third": 3,
+                    "4th": 4, "fourth": 4, "5th": 5, "fifth": 5, "last": -1}[word])
+    day = start_day
+    while day <= end_day:
+        if day.weekday() == weekday:
+            nth = (day.day - 1) // 7 + 1
+            last = (day + timedelta(days=7)).month != day.month
+            if nth in wanted or (-1 in wanted and last):
+                yield day
+        day += timedelta(days=1)
+
+
+def fetch_schedule(src, start_day, end_day, tz):
+    events = []
+    for mtg in src["meetings"]:
+        hh, mm = (int(x) for x in mtg["time"].split(":"))
+        end = None
+        if mtg.get("end"):
+            eh, em = (int(x) for x in mtg["end"].split(":"))
+        for day in schedule_dates(mtg["when"], start_day, end_day):
+            if day.month in mtg.get("skip_months", []):
+                continue
+            start = datetime.combine(day, time(hh, mm), tz)
+            if mtg.get("end"):
+                end = datetime.combine(day, time(eh, em), tz)
+            events.append(make_event(
+                src, title=mtg["title"], start=start, end=end,
+                location=mtg.get("location", ""), url=mtg.get("url", ""),
+                note=SCHEDULE_NOTE + (" " + mtg["note"] if mtg.get("note") else ""),
+                uid=f"{mtg['title']}|{day.isoformat()}", category=mtg.get("category", ""),
+            ))
+    return events
+
+
 CONNECTORS = {"legistar": fetch_legistar, "civicclerk": fetch_civicclerk, "ics": fetch_ics,
               "bibliocommons": fetch_bibliocommons, "municode": fetch_municode, "mec_rss": fetch_mec_rss,
               "govaccess_rss": fetch_govaccess_rss, "civicplus": fetch_civicplus,
-              "primegov": fetch_primegov, "civicweb": fetch_civicweb}
+              "primegov": fetch_primegov, "civicweb": fetch_civicweb,
+              "spokane_council": fetch_spokane_council, "schedule": fetch_schedule}
 
 
 # ---------- outputs ----------
