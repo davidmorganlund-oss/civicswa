@@ -234,3 +234,18 @@ def test_spokane_council_and_schedule():
     got = build.fetch_schedule(sched, date(2026, 11, 1), date(2027, 1, 31), TZ)
     assert [e["start"][:10] for e in got] == ["2026-11-24", "2027-01-26"]
     assert "regular meeting schedule" in got[0]["note"]
+
+
+def test_highlights_skip_procedure():
+    olympia = ["CALL TO ORDER", "ROLL CALL", "APPROVAL OF AGENDA", "APPROVAL OF MINUTES",
+               "Approval of the October 28, 2026 Heritage Commission Meeting Minutes", "PUBLIC COMMENT",
+               "ANNOUNCEMENTS", "BUSINESS ITEMS", "Recommend Approval for Evergreen Inn Special Tax Valuation",
+               "Public Hearing and Decision- Evergreen Inn Heritage Register Listing", "REPORTS", "ADJOURNMENT", "Upcoming"]
+    assert build.pick_highlights(olympia) == ["Recommend Approval for Evergreen Inn Special Tax Valuation",
+                                              "Public Hearing and Decision- Evergreen Inn Heritage Register Listing"]
+    lacey = ["<strong>Transportation Benefit District Presentation</strong><br>Shannon Kelley-Fong",
+             "<strong>Recent Acquisitions*</strong><br>Erin Quinn Valcho, Museum Curator", "Approval of the Agenda*"]
+    assert build.pick_highlights(lacey) == ["Transportation Benefit District Presentation", "Recent Acquisitions"]
+    e = {}
+    build.add_highlights(e, ["One item here", "Two item here", "Three item here", "Four item here"])
+    assert len(e["highlights"]) == 3 and e["highlights_more"] == 1

@@ -85,6 +85,100 @@ def get(url, params=None):
     return resp
 
 
+# ---------- agenda highlights ----------
+# For systems that publish agenda items, show the few substantive ones so a
+# listing says what is being decided, not just that a meeting exists.
+
+PROCEDURAL = re.compile(
+    r"^(call(ed)? to order|roll call|pledge|flag salute|land acknowledg|we, the city|approval of (the )?"
+    r"(agenda|minutes|.*minutes$)|approve the (agenda|minutes)|adopt(ion of)? (the )?(agenda|minutes)|"
+    r"public comment|citizen comment|adjourn|recess|good of the order|executive session|vote requested)", re.I)
+# Section headings that only count as procedure when they are the whole item.
+HEADING = re.compile(
+    r"^((regular |special )?minutes|public (comment|testimony)|announcements?|(staff )?reports?|"
+    r"(chair|director|commissioners?|council ?members?|mayor|manager|staff|council)('?s)?( (report|comments|update)s?)?|"
+    r"other (topics|business|items)|upcoming|consent (agenda|calendar)|introduction and referral( calendar)?|"
+    r"items of interest|correspondence|(unfinished|old|new) business|business items|action items|"
+    r"discussion items|public hearings?|work session|study session)$", re.I)
+HIGHLIGHT_WINDOW_DAYS = 21
+HIGHLIGHT_COUNT = 3
+
+
+def clean_item(text: str) -> str:
+    import html as htmllib
+    text = re.split(r"<br\s*/?>|\r|\n", text or "", maxsplit=1)[0]
+    text = htmllib.unescape(re.sub(r"<[^>]+>", " ", text))
+    text = " ".join(text.replace("*", " ").split()).strip(" :.-")
+    if len(text) > 140:
+        text = text[:140].rsplit(" ", 1)[0].rstrip(",;:") + "…"
+    return text
+
+
+def pick_highlights(titles):
+    picked = []
+    for t in titles:
+        t = clean_item(t)
+        if len(t) < 6 or PROCEDURAL.match(t) or HEADING.match(t) or t in picked:
+            continue
+        picked.append(t)
+    return picked
+
+
+def add_highlights(event, titles):
+    items = pick_highlights(titles)
+    if items:
+        event["highlights"] = items[:HIGHLIGHT_COUNT]
+        event["highlights_more"] = max(0, len(items) - HIGHLIGHT_COUNT)
+
+
+def soon(event, start_day):
+    return datetime.fromisoformat(event["start"]).date() <= start_day + timedelta(days=HIGHLIGHT_WINDOW_DAYS)
+
+
+def legistar_highlights(src, events, start_day):
+    for e in events:
+        if e["cancelled"] or not soon(e, start_day) or not e.get("_eid"):
+            continue
+        try:
+            items = get(f"https://webapi.legistar.com/v1/{src['client']}/events/{e['_eid']}/eventitems",
+                        {"AgendaNote": 1, "MinutesNote": 0, "Attachments": 0}).json()
+        except Exception as exc:
+            print(f"[info] {src['id']}: no agenda items for {e['_eid']}: {exc}", file=sys.stderr)
+            continue
+        # Items tied to a legislative file (bills, resolutions, hearings) come first.
+        items = sorted(items, key=lambda i: (not i.get("EventItemMatterFile"), i.get("EventItemAgendaSequence") or 0))
+        add_highlights(e, [i.get("EventItemTitle") or "" for i in items
+                           if (i.get("EventItemMatterType") or "").lower() != "minutes"])
+
+
+def civicclerk_highlights(src, events, start_day):
+    for e in events:
+        if e["cancelled"] or not soon(e, start_day) or not e.get("_agenda"):
+            continue
+        try:
+            meeting = get(f"https://{src['tenant']}.api.civicclerk.com/v1/Meetings/{e['_agenda']}").json()
+        except Exception as exc:
+            print(f"[info] {src['id']}: no agenda for {e['_agenda']}: {exc}", file=sys.stderr)
+            continue
+        titles = []
+
+        def walk(items, section=""):
+            for i in items or []:
+                if i.get("showOnPublishAgenda") is False:
+                    continue
+                name = i.get("agendaObjectItemName") or ""
+                if i.get("isSection"):
+                    walk(i.get("childItems"), name)
+                    continue
+                if re.search(r"report|minutes|consent", section, re.I):
+                    continue
+                titles.append(name)
+                walk(i.get("childItems"), section)
+
+        walk(meeting.get("items"))
+        add_highlights(e, titles)
+
+
 # ---------- connectors ----------
 
 def parse_clock(text: str):
@@ -113,6 +207,7 @@ def normalize_legistar(src, rows, tz):
             note=r.get("EventComment") or "",
             uid=str(r.get("EventId", "")),
         ))
+        events[-1]["_eid"] = r.get("EventId")
     return events
 
 
@@ -121,7 +216,9 @@ def fetch_legistar(src, start_day, end_day, tz):
            f"EventDate le datetime'{end_day.isoformat()}'")
     rows = get(f"https://webapi.legistar.com/v1/{src['client']}/events",
                {"$filter": flt, "$orderby": "EventDate"}).json()
-    return normalize_legistar(src, rows, tz)
+    events = normalize_legistar(src, rows, tz)
+    legistar_highlights(src, events, start_day)
+    return events
 
 
 def normalize_civicclerk(src, rows, tz):
@@ -148,6 +245,7 @@ def normalize_civicclerk(src, rows, tz):
             note=r.get("eventDescription") or "",
             uid=str(r["id"]),
         ))
+        events[-1]["_agenda"] = r.get("agendaId")
     return events
 
 
@@ -163,7 +261,9 @@ def fetch_civicclerk(src, start_day, end_day, tz):
         url, params = data.get("@odata.nextLink"), None
         if not url:
             break
-    return normalize_civicclerk(src, rows, tz)
+    events = normalize_civicclerk(src, rows, tz)
+    civicclerk_highlights(src, events, start_day)
+    return events
 
 
 def normalize_ics(src, ics_text, start_day, end_day, tz):
@@ -672,6 +772,9 @@ def main() -> int:
         all_events.extend(found)
         statuses.append(status)
 
+    for e in all_events:
+        for k in [k for k in e if k.startswith("_")]:
+            del e[k]
     unique = {e["id"]: e for e in all_events}
     events = sorted(unique.values(), key=lambda e: (e["start"], e["host"], e["title"]))
 

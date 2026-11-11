@@ -117,6 +117,15 @@
     what.appendChild(el('span', 'tag' + (e.cancelled ? ' cancelled' : ''), e.cancelled ? 'Cancelled' : (LABELS[e.category] || 'Other')));
     what.appendChild(el('h3', null, e.title));
     what.appendChild(el('p', 'meta', e.host + (e.location ? ' · ' + e.location : '')));
+    if (e.highlights && e.highlights.length) {
+      var box = el('div', 'agenda');
+      box.appendChild(el('p', 'agenda-label', 'On the agenda'));
+      var ul = el('ul');
+      e.highlights.forEach(function (h) { ul.appendChild(el('li', null, h)); });
+      if (e.highlights_more) ul.appendChild(el('li', 'more-items', 'and ' + e.highlights_more + ' more ' + (e.highlights_more === 1 ? 'item' : 'items')));
+      box.appendChild(ul);
+      what.appendChild(box);
+    }
     if (e.note) what.appendChild(noteNode(e.note));
     art.appendChild(what);
 

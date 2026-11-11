@@ -128,3 +128,10 @@ footer p { margin: 0; flex: 1 1 320px; }
 .by-barnone a { display: flex; width: fit-content; align-items: center; gap: 8px; color: var(--ink); text-decoration: none; margin-bottom: 6px; font-size: 15px; }
 .by-barnone a:hover span { text-decoration: underline; }
 .by-barnone img { flex: none; vertical-align: middle; }
+
+/* Agenda highlights on event cards */
+.agenda { margin: 10px 0 2px; padding: 10px 12px; border-left: 3px solid var(--accent); background: var(--tint); border-radius: 0 8px 8px 0; }
+.agenda-label { margin: 0 0 4px; font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.agenda ul { margin: 0; padding-left: 18px; }
+.agenda li { margin: 2px 0; overflow-wrap: anywhere; }
+.agenda li.more-items { list-style: none; margin-left: -18px; color: var(--muted); font-size: 14px; }
