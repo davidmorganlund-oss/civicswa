@@ -4,11 +4,11 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Okanogan County
 BEGIN:VEVENT
 UID:1f9e032e94b1@civicswa
-DTSTAMP:20261111T162814Z
+DTSTAMP:20261111T163557Z
 DTSTART:20261208T213000Z
 DTEND:20261208T223000Z
 SUMMARY:Board of Health meeting (Okanogan County)
-LOCATION:- 1234 S 2nd Ave Okanogan\, WA 98840 Okanogan WA 988
+LOCATION:1234 S 2nd Ave Okanogan\, WA 98840 Okanogan WA 988
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 END:VCALENDAR
