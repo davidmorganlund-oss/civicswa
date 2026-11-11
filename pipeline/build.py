@@ -55,6 +55,10 @@ def make_event(src, *, title, start, end=None, all_day=False, location="", url="
     # Hosts often prefix the title ("Canceled: Board Work Session"); the site
     # shows its own Cancelled tag, so drop the prefix.
     title = re.sub(r"^[\s*]*cancel+ed[\s*]*(?:[:\-–]\s*|\s+(?=\S))", "", title or "", flags=re.I)
+    title = re.sub(r"\s*[-–:(]\s*cancel+ed\s*\)?\s*$", "", title, flags=re.I)
+    # Some calendars put HTML or stray separators in the location field.
+    location = re.sub(r"<[^>]+>", " ", location or "")
+    location = re.sub(r"^[\s\-–,]+|[\s\-–,]+$", "", " ".join(location.split()))
     return {
         "id": hashlib.sha1(key.encode()).hexdigest()[:12],
         "title": " ".join((title or "").split()),
