@@ -95,6 +95,32 @@
     return 'data:text/calendar;charset=utf-8,' + encodeURIComponent(lines.join('\r\n'));
   }
 
+  // Hosts often paste a raw web address into the note ("Register to Attend:
+  // https://us02web.zoom.us/..."). Show it as a short link so it can't spill
+  // across the card, and keep long notes to a couple of lines.
+  function noteNode(note) {
+    var p = el('p', 'note');
+    var budget = 220;
+    note.split(/(https?:\/\/[^\s<>"']+)/).forEach(function (part) {
+      if (!part) return;
+      if (/^https?:\/\//.test(part)) {
+        var url = part.replace(/[.,;:)\]]+$/, '');
+        var host = '';
+        try { host = new URL(url).hostname.replace(/^www\./, ''); } catch (err) { return; }
+        var a = el('a', null, 'Open link (' + host + ')');
+        a.href = url;
+        a.rel = 'noopener';
+        p.appendChild(a);
+        return;
+      }
+      if (budget <= 0) return;
+      var text = part.length > budget ? part.slice(0, budget - 1) + '…' : part;
+      budget -= text.length;
+      p.appendChild(document.createTextNode(text));
+    });
+    return p;
+  }
+
   function card(e) {
     var p = parts(e.start);
     var art = el('article', 'event' + (e.cancelled ? ' is-cancelled' : ''));
@@ -104,7 +130,7 @@
     what.appendChild(el('span', 'tag' + (e.cancelled ? ' cancelled' : ''), e.cancelled ? 'Cancelled' : (LABELS[e.category] || 'Other')));
     what.appendChild(el('h3', null, e.title));
     what.appendChild(el('p', 'meta', e.host + (e.location ? ' · ' + e.location : '')));
-    if (e.note) what.appendChild(el('p', null, e.note.length > 220 ? e.note.slice(0, 217) + '…' : e.note));
+    if (e.note) what.appendChild(noteNode(e.note));
     art.appendChild(what);
 
     var actions = el('div', 'actions');
