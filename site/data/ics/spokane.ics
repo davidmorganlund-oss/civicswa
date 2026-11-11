@@ -3,8 +3,17 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Spokane County
 BEGIN:VEVENT
+UID:8dcfae5e4097@civicswa
+DTSTAMP:20261111T161630Z
+DTSTART:20261113T020000Z
+DTEND:20261113T075900Z
+SUMMARY:CANCELLED: Planning Commission Meeting - CANCELLED (City of Spokane Valley)
+LOCATION:City Hall - 10210 E. Sprague Ave Spokane Valley WA 99206
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 UID:f138d70f55fc@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261116T170000Z
 DTEND:20261116T180000Z
 SUMMARY:BoCC Strategic Planning Meeting - 3rd Monday (Spokane County)
@@ -13,7 +22,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2299/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2807cdc23556@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261117T170000Z
 DTEND:20261117T180000Z
 SUMMARY:BoCC Board Briefing Meeting (Spokane County)
@@ -22,7 +31,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2332/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:c36ed761624d@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261117T220000Z
 DTEND:20261117T230000Z
 SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
@@ -30,8 +39,17 @@ LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commi
 URL:https://spokanecowa.portal.civicclerk.com/event/2178/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:0280c5e91073@civicswa
+DTSTAMP:20261111T161630Z
+DTSTART:20261118T020000Z
+DTEND:20261118T075900Z
+SUMMARY:City Council Meeting (City of Spokane Valley)
+LOCATION:- City Hall 10210 E Sprague Ave Spokane Valley WA 99206
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 UID:e251eeb657ab@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261119T180000Z
 DTEND:20261120T075900Z
 SUMMARY:Tourism Promotion Area (TPA) Commission Meeting (City of Spokane Valley)
@@ -40,7 +58,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
 UID:8f0098f3cab3@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261124T170000Z
 DTEND:20261124T180000Z
 SUMMARY:There will be no BoCC Board Briefing Meeting (Spokane County)
@@ -49,7 +67,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2232/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ad862736c435@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261124T220000Z
 DTEND:20261124T230000Z
 SUMMARY:There will be no BoCC Regular Legislative Session Meeting (Spokane County)
@@ -57,8 +75,17 @@ LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commi
 URL:https://spokanecowa.portal.civicclerk.com/event/2286/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:b597c6f400cd@civicswa
+DTSTAMP:20261111T161630Z
+DTSTART:20261125T020000Z
+DTEND:20261125T075900Z
+SUMMARY:City Council Meeting (City of Spokane Valley)
+LOCATION:- City Hall 10210 E Sprague Ave Spokane Valley WA 99206
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 UID:e6bfff398849@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261130T170000Z
 DTEND:20261130T180000Z
 SUMMARY:BoCC Working Session Meeting (Spokane County)
@@ -67,7 +94,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2381/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:73cbb62b83e1@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261201T170000Z
 DTEND:20261201T180000Z
 SUMMARY:BoCC Board Briefing Meeting (Spokane County)
@@ -76,7 +103,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2334/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ffcb3407800d@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261201T220000Z
 DTEND:20261201T230000Z
 SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
@@ -84,8 +111,17 @@ LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commi
 URL:https://spokanecowa.portal.civicclerk.com/event/2180/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:fa8789b79a41@civicswa
+DTSTAMP:20261111T161630Z
+DTSTART:20261202T020000Z
+DTEND:20261202T075900Z
+SUMMARY:City Council Meeting (City of Spokane Valley)
+LOCATION:- City Hall 10210 E Sprague Ave Spokane Valley WA 99206
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 UID:cfa90ad6f17f@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261207T170000Z
 DTEND:20261207T180000Z
 SUMMARY:2027 Budget Hearing Agenda (Spokane County)
@@ -94,7 +130,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2382/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ae07f3f26b40@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261207T170000Z
 DTEND:20261207T180000Z
 SUMMARY:BoCC Strategic Planning Meeting - 1st Monday (Spokane County)
@@ -103,7 +139,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2365/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:725acf10920b@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261208T170000Z
 DTEND:20261208T180000Z
 SUMMARY:BoCC Board Briefing Meeting (Spokane County)
@@ -112,7 +148,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2234/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:d3d87090ba59@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261208T220000Z
 DTEND:20261208T230000Z
 SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
@@ -120,8 +156,17 @@ LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commi
 URL:https://spokanecowa.portal.civicclerk.com/event/2181/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:ecc53b842df2@civicswa
+DTSTAMP:20261111T161630Z
+DTSTART:20261209T020000Z
+DTEND:20261209T075900Z
+SUMMARY:City Council Meeting (City of Spokane Valley)
+LOCATION:- City Hall 10210 E Sprague Ave Spokane Valley WA 99206
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 UID:7509e52402b3@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261211T020000Z
 DTEND:20261211T075900Z
 SUMMARY:Planning Commission Meeting (City of Spokane Valley)
@@ -130,7 +175,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
 UID:4f46b506a379@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261214T170000Z
 DTEND:20261214T180000Z
 SUMMARY:BoCC Working Session Meeting (Spokane County)
@@ -139,7 +184,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2383/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8e5364328ed3@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261215T170000Z
 DTEND:20261215T180000Z
 SUMMARY:BoCC Board Briefing Meeting (Spokane County)
@@ -148,7 +193,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2235/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:b3e4dbe4fa46@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261215T220000Z
 DTEND:20261215T230000Z
 SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
@@ -156,8 +201,17 @@ LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commi
 URL:https://spokanecowa.portal.civicclerk.com/event/2289/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:b07d12b9981e@civicswa
+DTSTAMP:20261111T161630Z
+DTSTART:20261216T020000Z
+DTEND:20261216T075900Z
+SUMMARY:City Council Meeting (City of Spokane Valley)
+LOCATION:- City Hall 10210 E Sprague Ave Spokane Valley WA 99206
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 UID:f4e4a5c0753a@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261217T180000Z
 DTEND:20261218T075900Z
 SUMMARY:Tourism Promotion Area (TPA) Commission Meeting (City of Spokane Valley)
@@ -166,7 +220,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
 UID:2e2cc4bf08d6@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261221T170000Z
 DTEND:20261221T180000Z
 SUMMARY:BoCC Strategic Planning Meeting - 3rd Monday (Spokane County)
@@ -175,7 +229,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2300/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:1647e4759816@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261222T170000Z
 DTEND:20261222T180000Z
 SUMMARY:BoCC Board Briefing Meeting (Spokane County)
@@ -184,7 +238,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2337/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7c2414481f42@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261222T220000Z
 DTEND:20261222T230000Z
 SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
@@ -192,8 +246,17 @@ LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commi
 URL:https://spokanecowa.portal.civicclerk.com/event/2290/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:fae6f19af860@civicswa
+DTSTAMP:20261111T161630Z
+DTSTART:20261223T020000Z
+DTEND:20261223T075900Z
+SUMMARY:City Council Meeting (City of Spokane Valley)
+LOCATION:- City Hall 10210 E Sprague Ave Spokane Valley WA 99206
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 UID:66674187360b@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261225T020000Z
 DTEND:20261225T075900Z
 SUMMARY:Planning Commission Meeting (City of Spokane Valley)
@@ -202,7 +265,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
 UID:27e5b7db210a@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261229T170000Z
 DTEND:20261229T180000Z
 SUMMARY:BoCC Board Briefing Meeting (Spokane County)
@@ -211,7 +274,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2237/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:007ae33b71c6@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20261229T220000Z
 DTEND:20261229T230000Z
 SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
@@ -219,8 +282,17 @@ LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commi
 URL:https://spokanecowa.portal.civicclerk.com/event/2184/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:fa0fa31aaf23@civicswa
+DTSTAMP:20261111T161630Z
+DTSTART:20261230T020000Z
+DTEND:20261230T075900Z
+SUMMARY:City Council Meeting (City of Spokane Valley)
+LOCATION:- City Hall 10210 E Sprague Ave Spokane Valley WA 99206
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 UID:2b28a35187ff@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20270104T170000Z
 DTEND:20270104T180000Z
 SUMMARY:BoCC Strategic Planning Meeting - 1st Monday (Spokane County)
@@ -229,7 +301,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2366/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:834391658580@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20270105T170000Z
 DTEND:20270105T180000Z
 SUMMARY:BoCC Board Briefing Meeting (Spokane County)
@@ -238,7 +310,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2238/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:0300411d45eb@civicswa
-DTSTAMP:20261111T161333Z
+DTSTAMP:20261111T161630Z
 DTSTART:20270105T220000Z
 DTEND:20270105T230000Z
 SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
