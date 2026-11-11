@@ -3,8 +3,17 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Pierce County
 BEGIN:VEVENT
+UID:6ac708d9e2fc@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261111T233000Z
+DTEND:20261112T003000Z
+SUMMARY:Finance & Personnel Committee (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/1956/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:ec67498554e0@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261112T003000Z
 DTEND:20261112T013000Z
 SUMMARY:Infrastructure\, Planning\, and Sustainability Committee (City of Tacoma)
@@ -13,7 +22,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10814&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:3553de814931@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261112T010000Z
 DTEND:20261112T030000Z
 SUMMARY:CANCELLED: Personnel Board Meeting - Canceled due to no new business (Pierce County)
@@ -21,8 +30,35 @@ LOCATION:NOTICE OF MEETING CANCELLATION The November 12\, 2026\, meeting of the 
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=108
 END:VEVENT
 BEGIN:VEVENT
+UID:6c183b80d556@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261112T020000Z
+DTEND:20261112T030000Z
+SUMMARY:CANCELLED: CANCELED_Parks and Recreation Advisory Board Meeting (City of Edgewood)
+LOCATION:10440 Dom Calata Way E\, Edgewood
+URL:https://edgewoodwa.portal.civicclerk.com/event/1199/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:e02b65accb98@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261112T020000Z
+DTEND:20261112T075900Z
+SUMMARY:CANCELLED: Planning Commission Meeting Canceled (City of Milton)
+LOCATION:1000 Laurel Street Milton WA 98354
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
+END:VEVENT
+BEGIN:VEVENT
+UID:fde475afc1ec@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261112T020000Z
+DTEND:20261112T030000Z
+SUMMARY:Design Commission (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/2049/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:1fe575a640f9@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261112T030000Z
 DTEND:20261112T040000Z
 SUMMARY:Lake City Neighborhood Association meeting (City of Lakewood)
@@ -31,7 +67,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:4f6d241a817b@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261112T173000Z
 DTEND:20261112T213000Z
 SUMMARY:Board of Equalization Hearings (Pierce County)
@@ -39,8 +75,17 @@ LOCATION:Board of Equalization Board Room (Annex) - 2401 South 35th Street Rm 17
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=81
 END:VEVENT
 BEGIN:VEVENT
+UID:6521a570bb06@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261112T230000Z
+DTEND:20261113T000000Z
+SUMMARY:City Council Study Session (City of Gig Harbor)
+LOCATION:
+URL:https://gigharborwa.portal.civicclerk.com/event/878/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:b3412955e2f9@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261113T003000Z
 DTEND:20261113T013000Z
 SUMMARY:Community Vitality and Safety Committee (City of Tacoma)
@@ -49,7 +94,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10786&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:6900f0976ff6@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261113T020000Z
 DTEND:20261113T030000Z
 SUMMARY:CANCELLED: School Board Meeting (Tacoma Public Schools)
@@ -57,8 +102,35 @@ LOCATION:Professional Development Center\, 6501 N. 23rd St.\, Tacoma
 URL:https://www.tacomaschools.org/about/school-board/attend
 END:VEVENT
 BEGIN:VEVENT
+UID:05e3dbc10998@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261116T170000Z
+DTEND:20261117T060000Z
+SUMMARY:Civil Service Commission (City of Puyallup)
+LOCATION:333 S Meridian Council Chambers\, 5th Floor Puyallup WA 98371
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
+END:VEVENT
+BEGIN:VEVENT
+UID:4e655520f096@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261117T013000Z
+DTEND:20261117T033000Z
+SUMMARY:Citizens Advisory Commission (City Hall) (City of Buckley)
+LOCATION:933 Main Street Buckley WA 98321
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:95b4b76cbb2d@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261117T020000Z
+DTEND:20261117T040000Z
+SUMMARY:City Council Study Session (City of Fircrest)
+LOCATION:
+URL:https://www.cityoffircrest.net/event/city-council-study-session-14/
+END:VEVENT
+BEGIN:VEVENT
 UID:1e81358d404b@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261117T020000Z
 DTEND:20261117T050000Z
 SUMMARY:City Council Meeting (regular meeting followed by study session) (City of Lakewood)
@@ -66,8 +138,62 @@ LOCATION:Lakewood City Hall\, 6000 Main St SW\, Lakewood\, WA 98499\, USA
 URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
+UID:08c82e014072@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261117T020000Z
+DTEND:20261117T030000Z
+SUMMARY:CANCELLED: Library Advisory Board Meeting (City of Puyallup)
+LOCATION:324 S Meridian Library Board Room Puyallup WA 98371
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
+END:VEVENT
+BEGIN:VEVENT
+UID:25e201f59d42@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261117T020000Z
+DTEND:20261117T030000Z
+SUMMARY:City Council Meeting (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/2010/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:7fd8fbdfb302@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261117T023000Z
+DTEND:20261117T075900Z
+SUMMARY:Public Hearing: 2027 Property Tax Levy (City of University Place)
+LOCATION:3609 Market Place West City Council Chambers\, Third Floor University Place WA 98466
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:2f79110b07cd@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261117T023000Z
+DTEND:20261117T075900Z
+SUMMARY:Public Hearing: 2027-2028 Biennial Budget Adoption (City of University Place)
+LOCATION:3609 Market Place West City Council Chambers\, Third Floor University Place WA 98466
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:1bef2a086b39@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261117T030000Z
+DTEND:20261117T050000Z
+SUMMARY:Planning Commission Meeting (City of Buckley)
+LOCATION:811 Main Street Buckley WA 98321
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:ba380475bd95@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261117T030000Z
+DTEND:20261117T075900Z
+SUMMARY:Regular City Council Meeting (City of Milton)
+LOCATION:City Hall-Council Chambers - 1000 Laurel Street Building E Milton WA 98354
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
+END:VEVENT
+BEGIN:VEVENT
 UID:d4055b8d604e@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261117T180000Z
 DTEND:20261117T200000Z
 SUMMARY:Aging and Disability Advisory Board Meeting (Pierce County)
@@ -75,8 +201,44 @@ LOCATION:Soundview - 3602 Pacific Ave Tacoma WA 98418
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=79
 END:VEVENT
 BEGIN:VEVENT
+UID:1a986e8a8117@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261117T190000Z
+DTEND:20261117T200000Z
+SUMMARY:Arts Commission Meeting (City of Gig Harbor)
+LOCATION:
+URL:https://gigharborwa.portal.civicclerk.com/event/890/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:20028306a519@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261118T000000Z
+DTEND:20261118T010000Z
+SUMMARY:Public Works Committee (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/1966/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:d0cba0dc90c7@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261118T020000Z
+DTEND:20261118T040000Z
+SUMMARY:Special City Council Study Session (City of Buckley)
+LOCATION:811 Main Street Buckley WA 98321
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:868af77c3dc2@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261118T020000Z
+DTEND:20261118T050000Z
+SUMMARY:City Council Study Session (City of Fife)
+LOCATION:Fife City Hall - 5411 23rd Street E FIFE WA 98424
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
+END:VEVENT
+BEGIN:VEVENT
 UID:be5c7d11e992@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261118T020000Z
 DTEND:20261118T040000Z
 SUMMARY:Veterans Advisory Board (Pierce County)
@@ -84,8 +246,17 @@ LOCATION:1501 Market Street Salish Sea Conference Room - 1501 MARKET ST STE 100 
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=126
 END:VEVENT
 BEGIN:VEVENT
+UID:a65309860262@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261118T020000Z
+DTEND:20261118T050000Z
+SUMMARY:Town Council (Town of Steilacoom)
+LOCATION:Town Hall - 1717 Lafayette Steilacoom WA 98388
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
+END:VEVENT
+BEGIN:VEVENT
 UID:a3b462a12343@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261118T023000Z
 DTEND:20261118T033000Z
 SUMMARY:Fort Steilacoom Neighborhood Association meeting (City of Lakewood)
@@ -94,7 +265,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:adfd8e69caba@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261118T030000Z
 DTEND:20261118T040000Z
 SUMMARY:Regular Meeting of the Bethel School District Board of Directors (Bethel School District)
@@ -102,8 +273,17 @@ LOCATION:In person and Zoom
 URL:https://bethelsd.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=596
 END:VEVENT
 BEGIN:VEVENT
+UID:a7fd018ac621@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261118T030000Z
+DTEND:20261118T040000Z
+SUMMARY:Council Study Session (City of Edgewood)
+LOCATION:10440 Dom Calata Way E\, Edgewood
+URL:https://edgewoodwa.portal.civicclerk.com/event/1147/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:687a9ca6a599@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261118T180000Z
 DTEND:20261118T190000Z
 SUMMARY:Examiner's Hearing: Examiner's Hearing: Beck Variance\, App. 1071728 (Pierce County)
@@ -111,8 +291,35 @@ LOCATION:Tacoma WA 98405
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
+UID:ce9c725c8120@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261118T190000Z
+DTEND:20261118T200000Z
+SUMMARY:Public Safety Committee (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/2118/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:9dfd0f4643c9@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261119T020000Z
+DTEND:20261119T075900Z
+SUMMARY:CANCELLED: Park Board Meeting Canceled (City of Milton)
+LOCATION:City Hall-Council Chambers - 1000 Laurel Street Building E Milton WA 98354
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
+END:VEVENT
+BEGIN:VEVENT
+UID:7f86dfdb88c1@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261119T023000Z
+DTEND:20261119T033000Z
+SUMMARY:Planning Commission Meeting (City of Puyallup)
+LOCATION:333 S Meridian Council Chambers\, 5th Floor Puyallup WA 98371
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
+END:VEVENT
+BEGIN:VEVENT
 UID:207a27e526ab@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261119T023000Z
 DTEND:20261119T043000Z
 SUMMARY:Tacoma Narrows Airport Advisory Commission Meeting (Pierce County)
@@ -121,7 +328,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=114
 END:VEVENT
 BEGIN:VEVENT
 UID:33df9b104f91@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261119T210000Z
 DTEND:20261119T230000Z
 SUMMARY:Examiner's Hearing: Puppy Dreams License Revocation Appeal\, App. 32069 (Pierce County)
@@ -129,8 +336,17 @@ LOCATION:Tacoma WA 98405
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
+UID:543e697a3bcc@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+SUMMARY:Design Review & Historic Preservation Board Meeting (City of Puyallup)
+LOCATION:333 S Meridian Council Chambers\, 5th Floor Puyallup WA 98371
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
+END:VEVENT
+BEGIN:VEVENT
 UID:11c4493903dd@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261120T003000Z
 DTEND:20261120T013000Z
 SUMMARY:Springbrook Connections (City of Lakewood)
@@ -139,7 +355,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:6947a68bac8b@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261120T013000Z
 DTEND:20261120T023000Z
 SUMMARY:Community Services Advisory Board (City of Lakewood)
@@ -148,7 +364,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:ca55882f00f3@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261120T210000Z
 DTEND:20261120T230000Z
 SUMMARY:Pierce County Arts Commission Meeting (Pierce County)
@@ -156,8 +372,26 @@ LOCATION:Pierce County Annex 2401 S 35th St&nbsp\; Pantages Conference Room Taco
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=77
 END:VEVENT
 BEGIN:VEVENT
+UID:02fcad655bd3@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261124T013000Z
+DTEND:20261124T023000Z
+SUMMARY:City Council Meeting (City of Gig Harbor)
+LOCATION:
+URL:https://gigharborwa.portal.civicclerk.com/event/879/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:410a221d12d7@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261124T020000Z
+DTEND:20261124T030000Z
+SUMMARY:Study Session (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/2132/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:6046ec18798c@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261124T180000Z
 DTEND:20261124T190000Z
 SUMMARY:Economic Development Committee (City of Tacoma)
@@ -165,8 +399,17 @@ LOCATION:Webinar Link: www.zoom.us/j/88227539908 Passcode: 614650
 URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10764&GID=343&G=13864D1C-3F21-43C1-8E51-A93D1669D0F4
 END:VEVENT
 BEGIN:VEVENT
+UID:51b4af8581f0@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261124T190000Z
+DTEND:20261124T223000Z
+SUMMARY:City Council Regular Meeting (City of Fircrest)
+LOCATION:Fircrest City Hall\, 115 Ramsdell Street\, Fircrest\, WA\, 98466\, United States
+URL:https://www.cityoffircrest.net/event/city-council-regular-meeting-3/2026-11-24/
+END:VEVENT
+BEGIN:VEVENT
 UID:bf514c8a6bb9@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261124T200000Z
 DTEND:20261124T210000Z
 SUMMARY:City Council Study Session (City of Tacoma)
@@ -175,7 +418,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10937&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:46581a1807da@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261125T010000Z
 DTEND:20261125T020000Z
 SUMMARY:City Council (City of Tacoma)
@@ -184,7 +427,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10885&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:c601a2dcbc9f@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261125T013000Z
 DTEND:20261125T023000Z
 SUMMARY:Parks & Recreation Advisory Board meeting (City of Lakewood)
@@ -192,8 +435,44 @@ LOCATION:Lakewood City Hall\, 6000 Main St SW\, Lakewood\, WA 98499\, USA\, Amer
 URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
+UID:fac62fe6f63c@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261125T020000Z
+DTEND:20261125T040000Z
+SUMMARY:City Council Meeting (City of Buckley)
+LOCATION:811 Main Street Buckley WA 98321
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:c1088bdc8445@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261125T020000Z
+DTEND:20261125T050000Z
+SUMMARY:City Council Meeting (City of Fife)
+LOCATION:Fife City Hall - 5411 23rd Street E FIFE WA 98424
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
+END:VEVENT
+BEGIN:VEVENT
+UID:c2dc33353e02@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261125T030000Z
+DTEND:20261125T040000Z
+SUMMARY:2nd - Regular Council Meeting (City of Edgewood)
+LOCATION:10440 Dom Calata Way E\, Edgewood
+URL:https://edgewoodwa.portal.civicclerk.com/event/1159/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:9d191a8b0d72@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261126T000000Z
+DTEND:20261126T010000Z
+SUMMARY:Community Development Committee (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/2087/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:a8edd404000e@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261126T003000Z
 DTEND:20261126T013000Z
 SUMMARY:Infrastructure\, Planning\, and Sustainability Committee (City of Tacoma)
@@ -202,7 +481,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10815&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:d540ee009f07@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261127T003000Z
 DTEND:20261127T013000Z
 SUMMARY:Community Vitality and Safety Committee (City of Tacoma)
@@ -210,8 +489,17 @@ LOCATION:Webinar Link: www.zoom.us/j/85961604917 Passcode: 614650
 URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10787&GID=343&G=13864D1C-3F21-43C1-8E51-A93D1669D0F4
 END:VEVENT
 BEGIN:VEVENT
+UID:439a0000dffb@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261201T020000Z
+DTEND:20261201T030000Z
+SUMMARY:Special City Council Meeting (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/2133/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:388cfec0f3ec@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261201T020000Z
 DTEND:20261201T030000Z
 SUMMARY:CANCELLED: School Board Meeting (Tacoma Public Schools)
@@ -219,8 +507,44 @@ LOCATION:Professional Development Center\, 6501 N. 23rd St.\, Tacoma
 URL:https://www.tacomaschools.org/about/school-board/attend
 END:VEVENT
 BEGIN:VEVENT
+UID:c10b12ec1fda@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261201T213000Z
+DTEND:20261201T223000Z
+SUMMARY:Hearing Examiner (City of Gig Harbor)
+LOCATION:3510 Grandview St\, Gig Harbor
+URL:https://gigharborwa.portal.civicclerk.com/event/885/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:b98074646a40@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261202T020000Z
+DTEND:20261202T040000Z
+SUMMARY:City Council Study Session (City of Buckley)
+LOCATION:811 Main Street Buckley WA 98321
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:22508f8234fb@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261202T020000Z
+DTEND:20261202T050000Z
+SUMMARY:Town Council (Town of Steilacoom)
+LOCATION:Town Hall - 1717 Lafayette Steilacoom WA 98388
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
+END:VEVENT
+BEGIN:VEVENT
+UID:f0d56d52d304@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261202T030000Z
+DTEND:20261202T040000Z
+SUMMARY:Council Study Session (City of Edgewood)
+LOCATION:10440 Dom Calata Way E\, Edgewood
+URL:https://edgewoodwa.portal.civicclerk.com/event/1136/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:c96d813dfba9@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261202T180000Z
 DTEND:20261202T190000Z
 SUMMARY:Examiner's Hearing: Logger's Trail Preliminary Plat\, App. 1032512 (Pierce County)
@@ -229,7 +553,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:3518620fd3ae@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261202T210000Z
 DTEND:20261202T220000Z
 SUMMARY:Examiner's Hearing: Davis Setback Variance\, App. 1074616 (Pierce County)
@@ -238,7 +562,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:7e8c96cc8fe5@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261203T011500Z
 DTEND:20261203T021500Z
 SUMMARY:Public Safety Advisory Committee meeting (City of Lakewood)
@@ -247,7 +571,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:c0d2e8517a06@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261203T020000Z
 DTEND:20261203T040000Z
 SUMMARY:Human Services Citizens Advisory Board Meeting (Pierce County)
@@ -255,8 +579,17 @@ LOCATION:This is a hybrid meeting\, held both via Zoom\, and in person at Pierce
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=97
 END:VEVENT
 BEGIN:VEVENT
+UID:1c065ddf5f8f@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261203T023000Z
+DTEND:20261203T043000Z
+SUMMARY:CANCELLED: Parks Advisory Board (City of Fife)
+LOCATION:Fife City Hall - 5411 23rd Street E FIFE WA 98424
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
+END:VEVENT
+BEGIN:VEVENT
 UID:dbdfc45966e3@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261203T023000Z
 DTEND:20261203T033000Z
 SUMMARY:Planning Commission meeting (City of Lakewood)
@@ -265,7 +598,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:eaa022061f77@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261203T153000Z
 DTEND:20261203T163000Z
 SUMMARY:Lakewood's Promise Advisory Board (City of Lakewood)
@@ -274,7 +607,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:27bf8a04ef34@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261203T173000Z
 DTEND:20261203T183000Z
 SUMMARY:Civil Service Commission meeting (City of Lakewood)
@@ -283,7 +616,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:f263e383976c@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261203T210000Z
 DTEND:20261203T230000Z
 SUMMARY:Examiner's Hearing: Shaw Administrative Appeal\, App. 1076485 (Pierce County)
@@ -291,8 +624,26 @@ LOCATION:Tacoma WA 98405
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
+UID:281cda6267fc@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261203T230000Z
+DTEND:20261204T000000Z
+SUMMARY:City Council Study Session (City of Gig Harbor)
+LOCATION:
+URL:https://gigharborwa.portal.civicclerk.com/event/880/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:75a713663ed3@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261204T020000Z
+DTEND:20261204T030000Z
+SUMMARY:Planning Commission (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/2106/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:a61a511c6fe9@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261204T163000Z
 DTEND:20261205T060000Z
 SUMMARY:South Sound Affordable Housing Partnership (SSHA3P) Executive Board Meeting (Pierce County)
@@ -301,7 +652,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=145
 END:VEVENT
 BEGIN:VEVENT
 UID:527820f62104@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261204T183000Z
 DTEND:20261204T200000Z
 SUMMARY:Accessible Communities Advisory Committee (Pierce County)
@@ -310,7 +661,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=78
 END:VEVENT
 BEGIN:VEVENT
 UID:085b54629aa7@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261208T004500Z
 DTEND:20261208T024500Z
 SUMMARY:Youth Council (City of Lakewood)
@@ -319,7 +670,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:47f713fb7282@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261208T010000Z
 DTEND:20261208T020000Z
 SUMMARY:Lakewood Arts Commission (City of Lakewood)
@@ -328,7 +679,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:bcb7c028ea9a@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261208T010000Z
 DTEND:20261208T023000Z
 SUMMARY:Commission on Refugee and Immigrant Affairs Meeting (Pierce County)
@@ -336,8 +687,53 @@ LOCATION:This is a hybrid meeting\, held both via Zoom\, and in person at Pierce
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=143
 END:VEVENT
 BEGIN:VEVENT
+UID:0f912c760034@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261208T011500Z
+DTEND:20261208T075900Z
+SUMMARY:CANCELLED: Civil Service Commission Meeting Canceled (City of Milton)
+LOCATION:City Hall-Milton Police Department&nbsp\; - 1000 Laurel Street Building B Milton WA 98354
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
+END:VEVENT
+BEGIN:VEVENT
+UID:16db96514ad7@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261208T020000Z
+DTEND:20261208T030000Z
+SUMMARY:Economic Development Advisory Board Meeting (City of Edgewood)
+LOCATION:10440 Dom Calata Way E\, Edgewood
+URL:https://edgewoodwa.portal.civicclerk.com/event/1212/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:be2ea38d4baa@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261208T020000Z
+DTEND:20261208T030000Z
+SUMMARY:City Council Meeting (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/1985/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:45c2d30bc58d@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261208T030000Z
+DTEND:20261208T050000Z
+SUMMARY:Planning Commission Meeting (City of Buckley)
+LOCATION:811 Main Street Buckley WA 98321
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:cffa5d95eaff@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261208T030000Z
+DTEND:20261208T050000Z
+SUMMARY:Planning Commission (City of Fife)
+LOCATION:Fife City Hall - 5411 23rd Street E FIFE WA 98424
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
+END:VEVENT
+BEGIN:VEVENT
 UID:50ef0f55d119@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261208T030000Z
 DTEND:20261208T060000Z
 SUMMARY:City Council Meeting (regular meeting) (City of Lakewood)
@@ -345,8 +741,17 @@ LOCATION:Lakewood City Hall\, 6000 Main St SW\, Lakewood\, WA 98499\, USA
 URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
+UID:e6ccd248d449@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261208T030000Z
+DTEND:20261208T075900Z
+SUMMARY:Regular City Council Meeting (City of Milton)
+LOCATION:City Hall-Council Chambers - 1000 Laurel Street Building E Milton WA 98354
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
+END:VEVENT
+BEGIN:VEVENT
 UID:5e16dcce2293@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261209T010000Z
 DTEND:20261209T020000Z
 SUMMARY:Civil Service Commission Regular Meeting (Pierce County)
@@ -354,8 +759,26 @@ LOCATION:Via Zoom or 1501 Market St. 1st floor Puget Sound Conference Room
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=86
 END:VEVENT
 BEGIN:VEVENT
+UID:149772072224@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261209T020000Z
+DTEND:20261209T040000Z
+SUMMARY:City Council Meeting (City of Buckley)
+LOCATION:811 Main Street Buckley WA 98321
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:352b605e4b31@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261209T020000Z
+DTEND:20261209T050000Z
+SUMMARY:City Council Meeting (City of Fife)
+LOCATION:Fife City Hall - 5411 23rd Street E FIFE WA 98424
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
+END:VEVENT
+BEGIN:VEVENT
 UID:bb0ebcff2eed@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261209T023000Z
 DTEND:20261209T033000Z
 SUMMARY:Tillicum/Woodbrook Neighborhood Association (City of Lakewood)
@@ -363,8 +786,35 @@ LOCATION:
 URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
+UID:a1084c82d8b2@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261209T030000Z
+DTEND:20261209T040000Z
+SUMMARY:1st - Regular Council Meeting (City of Edgewood)
+LOCATION:10440 Dom Calata Way E\, Edgewood
+URL:https://edgewoodwa.portal.civicclerk.com/event/1124/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:906170e1c559@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261209T233000Z
+DTEND:20261210T003000Z
+SUMMARY:Finance & Personnel Committee (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/1957/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:acbbccc18e99@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261210T000000Z
+DTEND:20261210T010000Z
+SUMMARY:Community Development Committee (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/2088/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:50c285f2e39f@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261210T003000Z
 DTEND:20261210T013000Z
 SUMMARY:Pierce County Ethics Commission Meeting (Pierce County)
@@ -373,7 +823,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
 END:VEVENT
 BEGIN:VEVENT
 UID:7a105aeb0db1@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261210T010000Z
 DTEND:20261210T030000Z
 SUMMARY:Personnel Board Meeting (Pierce County)
@@ -381,8 +831,44 @@ LOCATION:
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=108
 END:VEVENT
 BEGIN:VEVENT
+UID:ccfa50205da1@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261210T020000Z
+DTEND:20261210T030000Z
+SUMMARY:Parks and Recreation Advisory Board Meeting (City of Edgewood)
+LOCATION:10440 Dom Calata Way E\, Edgewood
+URL:https://edgewoodwa.portal.civicclerk.com/event/1200/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:ae6f6b2e0d39@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261210T020000Z
+DTEND:20261210T075900Z
+SUMMARY:Planning Commission Meeting (City of Milton)
+LOCATION:1000 Laurel Street Milton WA 98354
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
+END:VEVENT
+BEGIN:VEVENT
+UID:b11402c89d66@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261210T020000Z
+DTEND:20261210T030000Z
+SUMMARY:Design Commission (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/2050/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:25250bf65f09@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261210T023000Z
+DTEND:20261210T033000Z
+SUMMARY:Planning Commission Meeting (City of Puyallup)
+LOCATION:333 S Meridian Council Chambers\, 5th Floor Puyallup WA 98371
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
+END:VEVENT
+BEGIN:VEVENT
 UID:0d5040bbee41@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261210T210000Z
 DTEND:20261210T230000Z
 SUMMARY:Examiner's Hearing: OSI Investment Group LLC Administrative Appeal\, App. 1076949 (Pierce County)
@@ -390,8 +876,26 @@ LOCATION:Tacoma WA 98405
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
+UID:63eac8056762@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:Design Review & Historic Preservation Board Meeting (City of Puyallup)
+LOCATION:333 S Meridian Council Chambers\, 5th Floor Puyallup WA 98371
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
+END:VEVENT
+BEGIN:VEVENT
+UID:fb534f8b5679@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261211T003000Z
+DTEND:20261211T013000Z
+SUMMARY:Forestry\, Arts and Parks Commission (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/2070/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:a0949b44e590@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261211T030000Z
 DTEND:20261211T040000Z
 SUMMARY:Lake City Neighborhood Association meeting (City of Lakewood)
@@ -399,8 +903,62 @@ LOCATION:8517 Washington Blvd SW\, Tacoma\, WA 98498\, USA
 URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
+UID:4a8ee44bd001@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261214T230000Z
+DTEND:20261215T000000Z
+SUMMARY:Senior Advisory Board (City of Puyallup)
+LOCATION:333 S Meridian Council Chambers\, 5th Floor Puyallup WA 98371
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
+END:VEVENT
+BEGIN:VEVENT
+UID:3baae5b626c0@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261215T000000Z
+DTEND:20261215T010000Z
+SUMMARY:Admin/Finance/Public Safety Committee (City Hall) (City of Buckley)
+LOCATION:933 Main Street Buckley WA 98321
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:6fb8e7457adf@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261215T013000Z
+DTEND:20261215T023000Z
+SUMMARY:City Council Meeting (City of Gig Harbor)
+LOCATION:
+URL:https://gigharborwa.portal.civicclerk.com/event/881/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:56a67ae02f77@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261215T020000Z
+DTEND:20261215T030000Z
+SUMMARY:Planning Commission Meeting (City of Edgewood)
+LOCATION:10440 Dom Calata Way E\, Edgewood
+URL:https://edgewoodwa.portal.civicclerk.com/event/1188/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:ee71c37078c2@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261215T020000Z
+DTEND:20261215T075900Z
+SUMMARY:City Council Study Session (City of Milton)
+LOCATION:City Hall-Council Chambers - 1000 Laurel Street Building E Milton WA 98354
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
+END:VEVENT
+BEGIN:VEVENT
+UID:c0328e80cb2d@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261215T020000Z
+DTEND:20261215T030000Z
+SUMMARY:City Council Study Session (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/1998/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:333704ec684e@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261215T030000Z
 DTEND:20261215T060000Z
 SUMMARY:City Council Meeting (study session) (City of Lakewood)
@@ -408,8 +966,35 @@ LOCATION:Lakewood City Hall\, 6000 Main St SW\, Lakewood\, WA 98499\, USA
 URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
+UID:f4d2c65fddee@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261216T000000Z
+DTEND:20261216T010000Z
+SUMMARY:Public Works Committee (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/1967/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:8ec8fcb06418@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261216T020000Z
+DTEND:20261216T050000Z
+SUMMARY:City Council Study Session (City of Fife)
+LOCATION:Fife City Hall - 5411 23rd Street E FIFE WA 98424
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
+END:VEVENT
+BEGIN:VEVENT
+UID:0d5a31dfacca@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261216T020000Z
+DTEND:20261216T050000Z
+SUMMARY:Town Council (Town of Steilacoom)
+LOCATION:Town Hall - 1717 Lafayette Steilacoom WA 98388
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
+END:VEVENT
+BEGIN:VEVENT
 UID:0eb41f2cbbac@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261216T023000Z
 DTEND:20261216T033000Z
 SUMMARY:Fort Steilacoom Neighborhood Association meeting (City of Lakewood)
@@ -418,7 +1003,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:f21fbcaed079@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261216T030000Z
 DTEND:20261216T040000Z
 SUMMARY:Regular Meeting of the Bethel School District Board of Directors (Bethel School District)
@@ -426,8 +1011,17 @@ LOCATION:In person and Zoom
 URL:https://bethelsd.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=597
 END:VEVENT
 BEGIN:VEVENT
+UID:ebb8d02674a7@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261216T030000Z
+DTEND:20261216T040000Z
+SUMMARY:Council Study Session (City of Edgewood)
+LOCATION:10440 Dom Calata Way E\, Edgewood
+URL:https://edgewoodwa.portal.civicclerk.com/event/1148/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:6c5dc8ae2b93@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261216T180000Z
 DTEND:20261216T200000Z
 SUMMARY:Examiner's Hearing: Coastal Creditor Services CUP\, App. 1071913 (Pierce County)
@@ -435,8 +1029,17 @@ LOCATION:Tacoma WA 98405
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
+UID:5efd13ee7e54@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261216T190000Z
+DTEND:20261216T200000Z
+SUMMARY:Public Safety Committee (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/2119/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:1323d62de34f@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261216T210000Z
 DTEND:20261216T230000Z
 SUMMARY:Examiner's Hearing: Stryder LLC Administrative Appeal\, App. 1077697 (Pierce County)
@@ -445,7 +1048,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:b52f569fa2f0@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261217T003000Z
 DTEND:20261217T020000Z
 SUMMARY:Pierce County Developmental Disabilities Advisory Board Meeting (Pierce County)
@@ -453,8 +1056,17 @@ LOCATION:1501 Market - 1501 MARKET ST STE 100 Tacoma WA 98402
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=89
 END:VEVENT
 BEGIN:VEVENT
+UID:7d4351f73049@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261217T020000Z
+DTEND:20261217T075900Z
+SUMMARY:Park Board Meeting (City of Milton)
+LOCATION:City Hall-Council Chambers - 1000 Laurel Street Building E Milton WA 98354
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
+END:VEVENT
+BEGIN:VEVENT
 UID:e4a2a23b2b90@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261217T023000Z
 DTEND:20261217T033000Z
 SUMMARY:Planning Commission meeting (City of Lakewood)
@@ -463,7 +1075,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:2fcf6554e7fb@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261217T210000Z
 DTEND:20261217T230000Z
 SUMMARY:Examiner's Hearing: My Haunted Forest Administrative Appeal\, App. 1076925 (Pierce County)
@@ -472,7 +1084,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:4ceabaebfb9e@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261217T230000Z
 DTEND:20261218T010000Z
 SUMMARY:Examiner's Hearing: Crucerescu Administrative Appeal\, App. 1074825 (Continuance) (Pierce County)
@@ -481,7 +1093,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:18265a9050b4@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261218T003000Z
 DTEND:20261218T013000Z
 SUMMARY:Springbrook Connections (City of Lakewood)
@@ -490,7 +1102,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:74de39951323@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261218T013000Z
 DTEND:20261218T023000Z
 SUMMARY:Community Services Advisory Board (City of Lakewood)
@@ -498,8 +1110,17 @@ LOCATION:Lakewood City Hall\, 6000 Main St SW\, Lakewood\, WA 98499\, USA
 URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
+UID:3b1458bf3624@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261221T170000Z
+DTEND:20261222T060000Z
+SUMMARY:Civil Service Commission (City of Puyallup)
+LOCATION:333 S Meridian Council Chambers\, 5th Floor Puyallup WA 98371
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
+END:VEVENT
+BEGIN:VEVENT
 UID:e3496a705f9d@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261221T230000Z
 DTEND:20261222T003000Z
 SUMMARY:Behavioral Health Advisory Board (Pierce County)
@@ -508,7 +1129,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=137
 END:VEVENT
 BEGIN:VEVENT
 UID:e09c637ed686@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261222T020000Z
 DTEND:20261222T050000Z
 SUMMARY:City Council Meeting (regular meeting followed by study session) (City of Lakewood)
@@ -516,8 +1137,35 @@ LOCATION:Lakewood City Hall\, 6000 Main St SW\, Lakewood\, WA 98499\, USA
 URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
+UID:ba205c30f3cf@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261222T020000Z
+DTEND:20261222T030000Z
+SUMMARY:City Council Meeting (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/2011/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:54202a1cb056@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261222T030000Z
+DTEND:20261222T050000Z
+SUMMARY:Planning Commission Meeting (City of Buckley)
+LOCATION:811 Main Street Buckley WA 98321
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:9d90110905a6@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261222T030000Z
+DTEND:20261222T075900Z
+SUMMARY:Regular City Council Meeting (City of Milton)
+LOCATION:City Hall-Council Chambers - 1000 Laurel Street Building E Milton WA 98354
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
+END:VEVENT
+BEGIN:VEVENT
 UID:490f52379f94@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261222T200000Z
 DTEND:20261222T210000Z
 SUMMARY:City Council Study Session (City of Tacoma)
@@ -526,7 +1174,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10941&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:eb02faa71031@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261223T010000Z
 DTEND:20261223T020000Z
 SUMMARY:City Council (City of Tacoma)
@@ -534,8 +1182,53 @@ LOCATION:
 URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10889&GID=343&G=13864D1C-3F21-43C1-8E51-A93D1669D0F4
 END:VEVENT
 BEGIN:VEVENT
+UID:516ff8e308eb@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261223T020000Z
+DTEND:20261223T040000Z
+SUMMARY:City Council Meeting (City of Buckley)
+LOCATION:811 Main Street Buckley WA 98321
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:c1d495352079@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261223T020000Z
+DTEND:20261223T050000Z
+SUMMARY:City Council Meeting (City of Fife)
+LOCATION:Fife City Hall - 5411 23rd Street E FIFE WA 98424
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
+END:VEVENT
+BEGIN:VEVENT
+UID:3072ddc22cc1@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261223T030000Z
+DTEND:20261223T040000Z
+SUMMARY:2nd - Regular Council Meeting (City of Edgewood)
+LOCATION:10440 Dom Calata Way E\, Edgewood
+URL:https://edgewoodwa.portal.civicclerk.com/event/1160/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:70174a38e84d@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261229T000000Z
+DTEND:20261229T010000Z
+SUMMARY:Arts and Culture Commission (City of Puyallup)
+LOCATION:333 S Meridian Council Chambers\, 5th Floor Puyallup WA 98371
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
+END:VEVENT
+BEGIN:VEVENT
+UID:8322d3bbb3b3@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261229T020000Z
+DTEND:20261229T030000Z
+SUMMARY:City Council Study Session (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/2134/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:caa37054a60e@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261229T200000Z
 DTEND:20261229T210000Z
 SUMMARY:City Council Study Session (City of Tacoma)
@@ -544,7 +1237,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10942&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:e88826e96811@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261230T010000Z
 DTEND:20261230T020000Z
 SUMMARY:City Council (City of Tacoma)
@@ -552,8 +1245,17 @@ LOCATION:
 URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10890&GID=343&G=13864D1C-3F21-43C1-8E51-A93D1669D0F4
 END:VEVENT
 BEGIN:VEVENT
+UID:4fd922e5a1ca@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261230T030000Z
+DTEND:20261230T040000Z
+SUMMARY:Council Study Session (City of Edgewood)
+LOCATION:10440 Dom Calata Way E\, Edgewood
+URL:https://edgewoodwa.portal.civicclerk.com/event/1164/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:ef4ec583b224@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20270105T004500Z
 DTEND:20270105T024500Z
 SUMMARY:Youth Council (City of Lakewood)
@@ -562,7 +1264,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:98b00b38b64a@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20270105T010000Z
 DTEND:20270105T020000Z
 SUMMARY:Lakewood Arts Commission (City of Lakewood)
@@ -570,8 +1272,35 @@ LOCATION:Lakewood City Hall\, 6000 Main St SW\, Lakewood\, WA 98499\, USA
 URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
+UID:d829bdd8f864@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20270105T011500Z
+DTEND:20270105T075900Z
+SUMMARY:Civil Service Commission Meeting (City of Milton)
+LOCATION:City Hall-Milton Police Department&nbsp\; - 1000 Laurel Street Building B Milton WA 98354
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
+END:VEVENT
+BEGIN:VEVENT
+UID:1618c3cad377@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20270105T020000Z
+DTEND:20270105T030000Z
+SUMMARY:City Council Meeting (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/1986/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:303c83bc9add@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20270105T030000Z
+DTEND:20270105T050000Z
+SUMMARY:Planning Commission (City of Fife)
+LOCATION:Fife City Hall - 5411 23rd Street E FIFE WA 98424
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
+END:VEVENT
+BEGIN:VEVENT
 UID:9696bd0857c7@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20270105T030000Z
 DTEND:20270105T060000Z
 SUMMARY:City Council Meeting (regular meeting) (City of Lakewood)
@@ -579,8 +1308,35 @@ LOCATION:Lakewood City Hall\, 6000 Main St SW\, Lakewood\, WA 98499\, USA
 URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
+UID:58b4ab41cf8a@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20270105T030000Z
+DTEND:20270105T075900Z
+SUMMARY:Regular City Council Meeting (City of Milton)
+LOCATION:City Hall-Council Chambers - 1000 Laurel Street Building E Milton WA 98354
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
+END:VEVENT
+BEGIN:VEVENT
+UID:91153e91543d@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20270106T000000Z
+DTEND:20270106T010000Z
+SUMMARY:Public Works Committee (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/1968/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:136b7ede7fe5@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20270106T020000Z
+DTEND:20270106T050000Z
+SUMMARY:Town Council (Town of Steilacoom)
+LOCATION:Town Hall - 1717 Lafayette Steilacoom WA 98388
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
+END:VEVENT
+BEGIN:VEVENT
 UID:d9ed58ea1abf@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20270107T011500Z
 DTEND:20270107T021500Z
 SUMMARY:Public Safety Advisory Committee meeting (City of Lakewood)
@@ -588,8 +1344,17 @@ LOCATION:Lakewood Police Department\, 9401 Lakewood Dr SW\, Lakewood\, WA 98499\
 URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
+UID:af859449f08e@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20270107T023000Z
+DTEND:20270107T043000Z
+SUMMARY:Parks Advisory Board (City of Fife)
+LOCATION:Fife City Hall - 5411 23rd Street E FIFE WA 98424
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
+END:VEVENT
+BEGIN:VEVENT
 UID:41c62581839c@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20270107T023000Z
 DTEND:20270107T033000Z
 SUMMARY:Planning Commission meeting (City of Lakewood)
@@ -598,7 +1363,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:debd05ecd8fa@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20270107T153000Z
 DTEND:20270107T163000Z
 SUMMARY:Lakewood's Promise Advisory Board (City of Lakewood)
@@ -607,11 +1372,20 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:e524dfa5fe01@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20270107T173000Z
 DTEND:20270107T183000Z
 SUMMARY:Civil Service Commission meeting (City of Lakewood)
 LOCATION:
 URL:https://cityoflakewood.us/city-council/city-council-agendas/
+END:VEVENT
+BEGIN:VEVENT
+UID:68d1ee966e10@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20270108T020000Z
+DTEND:20270108T030000Z
+SUMMARY:Planning Commission (City of Sumner)
+LOCATION:
+URL:https://sumnerwa.portal.civicclerk.com/event/2107/overview
 END:VEVENT
 END:VCALENDAR

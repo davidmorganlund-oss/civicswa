@@ -3,8 +3,53 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Cowlitz County
 BEGIN:VEVENT
+UID:03a9d4cdcc8f@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261112T000000Z
+DTEND:20261112T010000Z
+SUMMARY:Cowlitz Transit Authority (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
+UID:e4ab539b333d@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261113T020000Z
+DTEND:20261113T030000Z
+SUMMARY:City Council (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
+UID:70c6ac8c5476@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261113T020000Z
+DTEND:20261113T030000Z
+SUMMARY:City Council Regular Meeting - Thursday (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
+UID:27f7e8bc3527@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261117T000000Z
+DTEND:20261117T010000Z
+SUMMARY:Accessibility Advisory Committee (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
+UID:282dccdf5794@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261117T180000Z
+DTEND:20261117T190000Z
+SUMMARY:Downtown Advisory Committee (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
 UID:10b565689557@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261117T230000Z
 DTEND:20261118T000000Z
 SUMMARY:Veteran's Advisory Board (VAB) (Cowlitz County)
@@ -12,8 +57,35 @@ LOCATION:Meetings are held on the third Tuesday of every other month at 3:00 pm 
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
+UID:f0814facf594@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261118T020000Z
+DTEND:20261118T030000Z
+SUMMARY:City Council Meeting (City of Kelso)
+LOCATION:203 S. Pacific Ave\, Kelso
+URL:https://kelsowa.portal.civicclerk.com/event/307/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:96fff1a03dfe@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261118T230000Z
+DTEND:20261119T000000Z
+SUMMARY:Public Works SubCommittee (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
+UID:81aef67882ff@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261119T000000Z
+DTEND:20261119T010000Z
+SUMMARY:Budget Committee \, as needed (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
 UID:4d915cb4be33@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261119T013000Z
 DTEND:20261119T033000Z
 SUMMARY:Planning Commission Meeting (Cowlitz County)
@@ -21,8 +93,71 @@ LOCATION:Commissioners Hearing Room (3rd Floor) &amp\; via Zoom - 207 N. 4th Ave
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
+UID:630dcadb632f@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261120T000000Z
+DTEND:20261120T010000Z
+SUMMARY:Economic Development Committee (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
+UID:f0efdf3c9a70@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261120T020000Z
+DTEND:20261120T030000Z
+SUMMARY:City Council Special Meeting - Thursday (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
+UID:a553f8c5c81c@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261124T013000Z
+DTEND:20261124T023000Z
+SUMMARY:Historic Preservation Commission (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
+UID:16f7cce6c3d9@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261124T033000Z
+DTEND:20261124T043000Z
+SUMMARY:City Council (City of Castle Rock)
+LOCATION:
+URL:https://castlerockwa.portal.civicclerk.com/event/408/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:81e89d11c0b8@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261125T010000Z
+DTEND:20261125T020000Z
+SUMMARY:Complete Streets Advisory Committee (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
+UID:575d695f211d@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261202T020000Z
+DTEND:20261202T030000Z
+SUMMARY:City Council Meeting (City of Kelso)
+LOCATION:203 S. Pacific Ave\, Kelso
+URL:https://kelsowa.portal.civicclerk.com/event/340/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:57f0cc7c2585@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261209T003000Z
+DTEND:20261209T013000Z
+SUMMARY:Appeal Board of Adjustment (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
 UID:54eb2b184d78@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261209T230000Z
 DTEND:20261210T000000Z
 SUMMARY:Cowlitz County Boundary Review Board Meeting (Cowlitz County)
@@ -30,8 +165,17 @@ LOCATION:Cowlitz County Administration Building &nbsp\; 3rd Floor\, GENERAL MEET
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=49
 END:VEVENT
 BEGIN:VEVENT
+UID:3cf680781fb3@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261210T000000Z
+DTEND:20261210T010000Z
+SUMMARY:Cowlitz Transit Authority (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
 UID:18785686829e@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261210T020000Z
 DTEND:20261210T030000Z
 SUMMARY:Cowlitz County Noxious Weed Control Board Meetings (Cowlitz County)
@@ -39,12 +183,138 @@ LOCATION:The Cowlitz County Noxious Weed Control Board will meet on the 2nd Wedn
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
 END:VEVENT
 BEGIN:VEVENT
+UID:970b1cf9a62a@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261211T020000Z
+DTEND:20261211T030000Z
+SUMMARY:City Council Regular Meeting - Thursday (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
+UID:797a41cf1d02@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261214T230000Z
+DTEND:20261215T000000Z
+SUMMARY:Revenue Committee\, as needed (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
+UID:52d1ef158997@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261215T000000Z
+DTEND:20261215T010000Z
+SUMMARY:Library Board of Trustees (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
+UID:9c6df09f05af@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261215T033000Z
+DTEND:20261215T043000Z
+SUMMARY:City Council (City of Castle Rock)
+LOCATION:
+URL:https://castlerockwa.portal.civicclerk.com/event/396/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:e8cf43595952@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261215T180000Z
+DTEND:20261215T190000Z
+SUMMARY:Downtown Advisory Committee (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
+UID:38febbc5be8d@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261216T020000Z
+DTEND:20261216T030000Z
+SUMMARY:City Council Meeting (City of Kelso)
+LOCATION:203 S. Pacific Ave\, Kelso
+URL:https://kelsowa.portal.civicclerk.com/event/308/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:3a7a008428c7@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261216T230000Z
+DTEND:20261217T000000Z
+SUMMARY:Public Works SubCommittee (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
+UID:c33fefab743b@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261217T000000Z
+DTEND:20261217T010000Z
+SUMMARY:Budget Committee \, as needed (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
 UID:881287f4c053@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261217T013000Z
 DTEND:20261217T033000Z
 SUMMARY:Planning Commission Meeting (Cowlitz County)
 LOCATION:Commissioners Hearing Room (3rd Floor) &amp\; via Zoom - 207 N. 4th Ave Kelso WA 98626
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
+END:VEVENT
+BEGIN:VEVENT
+UID:d5335ff03937@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261218T000000Z
+DTEND:20261218T010000Z
+SUMMARY:Economic Development Committee (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
+UID:0b46062b381e@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261218T020000Z
+DTEND:20261218T030000Z
+SUMMARY:City Council Special Meeting - Thursday (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
+UID:eb332ccead65@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261223T010000Z
+DTEND:20261223T020000Z
+SUMMARY:Complete Streets Advisory Committee - as needed (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
+UID:04a8b2d625fa@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261229T013000Z
+DTEND:20261229T023000Z
+SUMMARY:Historic Preservation Commission (City of Longview)
+LOCATION:
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=26
+END:VEVENT
+BEGIN:VEVENT
+UID:7d4bf5419eef@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261229T033000Z
+DTEND:20261229T043000Z
+SUMMARY:City Council (City of Castle Rock)
+LOCATION:
+URL:https://castlerockwa.portal.civicclerk.com/event/409/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:d0af70725250@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20270106T020000Z
+DTEND:20270106T030000Z
+SUMMARY:City Council Meeting (City of Kelso)
+LOCATION:203 S. Pacific Ave\, Kelso
+URL:https://kelsowa.portal.civicclerk.com/event/296/overview
 END:VEVENT
 END:VCALENDAR

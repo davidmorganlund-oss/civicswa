@@ -3,12 +3,75 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Okanogan County
 BEGIN:VEVENT
+UID:560fbb1e2d82@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261117T030000Z
+DTEND:20261117T040000Z
+SUMMARY:City Council Meeting (City of Omak)
+LOCATION:2 N Ash Street Omak\, WA 98841 Omak WA 98841
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:5b1daf70b50d@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261202T013000Z
+DTEND:20261202T023000Z
+SUMMARY:Planning Commission Meeting (City of Omak)
+LOCATION:2 N Ash Street Omak\, WA 98841 Omak WA 98841
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:b08bc4a1e821@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261208T030000Z
+DTEND:20261208T040000Z
+SUMMARY:City Council Meeting-Public Hearing (City of Omak)
+LOCATION:2 N Ash Street Omak\, WA 98841 Omak WA 98841
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 UID:1f9e032e94b1@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261208T213000Z
 DTEND:20261208T223000Z
 SUMMARY:Board of Health meeting (Okanogan County)
 LOCATION:1234 S 2nd Ave Okanogan\, WA 98840 Okanogan WA 988
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
+END:VEVENT
+BEGIN:VEVENT
+UID:00c5dbf2b887@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261209T010000Z
+DTEND:20261209T020000Z
+SUMMARY:Park Board Meeting (City of Omak)
+LOCATION:Omak WA 98841
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:0d856cb49066@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261222T030000Z
+DTEND:20261222T040000Z
+SUMMARY:City Council Meeting (City of Omak)
+LOCATION:2 N Ash Street Omak\, WA 98841 Omak WA 98841
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:6da3f9515188@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20270105T030000Z
+DTEND:20270105T040000Z
+SUMMARY:City Council Meeting (City of Omak)
+LOCATION:2 N Ash Street Omak\, WA 98841 Omak WA 98841
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:8a55bd861a1c@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20270106T013000Z
+DTEND:20270106T023000Z
+SUMMARY:Planning Commission Meeting (City of Omak)
+LOCATION:2 N Ash Street Omak\, WA 98841 Omak WA 98841
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 END:VCALENDAR

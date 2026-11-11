@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Clark County
 BEGIN:VEVENT
 UID:4f1b81a92f98@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261111T160000Z
 DTEND:20261111T170000Z
 SUMMARY:Parking Advisory Committee (City of Vancouver)
@@ -12,8 +12,17 @@ LOCATION:Aspen Room\, 415 W 6th Street\, Vancouver
 URL:https://vancouverwa.portal.civicclerk.com/event/1687/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:d57315a5df96@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261112T023000Z
+DTEND:20261112T033000Z
+SUMMARY:CANCELLED: Parks Board Meeting (City of Ridgefield)
+LOCATION:
+URL:https://ridgefieldwa.portal.civicclerk.com/event/1006/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:a55c716848b4@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261113T003000Z
 DTEND:20261113T013000Z
 SUMMARY:Culture\, Arts & Heritage Commission - November Regular Meeting (City of Vancouver)
@@ -21,8 +30,17 @@ LOCATION:415 W 6th St\, Vancouver\, WA 98660\, Vancouver
 URL:https://vancouverwa.portal.civicclerk.com/event/1750/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:c27da88971e4@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261113T020000Z
+DTEND:20261113T030000Z
+SUMMARY:City Council Study Session Meeting (City of Ridgefield)
+LOCATION:RACC - Columbia Assembly Room \, 510 Pioneer Street
+URL:https://ridgefieldwa.portal.civicclerk.com/event/1005/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:ec4a08392d39@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261113T170000Z
 DTEND:20261113T180000Z
 SUMMARY:City Council Meeting (City of Vancouver)
@@ -31,7 +49,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1764/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:081ce7bafb4b@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261117T000000Z
 DTEND:20261117T010000Z
 SUMMARY:City Council Meeting (City of Vancouver)
@@ -39,8 +57,17 @@ LOCATION:Vancouver City Hall\, Council Chambers\, 415 West 6th Street\, Vancouve
 URL:https://vancouverwa.portal.civicclerk.com/event/1500/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:da17873ba805@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261117T010000Z
+DTEND:20261117T020000Z
+SUMMARY:City Council Workshop (City of Washougal)
+LOCATION:City Council Chambers
+URL:https://washougalwa.portal.civicclerk.com/event/498/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:efdba57e2c44@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261117T023000Z
 DTEND:20261117T033000Z
 SUMMARY:Transportation Benefit District Meeting (City of Vancouver)
@@ -48,8 +75,17 @@ LOCATION:Vancouver City Hall\, Aspen Room\, 415 West 6th Street\, Vancouver
 URL:https://vancouverwa.portal.civicclerk.com/event/1532/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:f7fe0c875cc0@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261117T030000Z
+DTEND:20261117T040000Z
+SUMMARY:City Council Meeting (City of Washougal)
+LOCATION:City Council Chambers
+URL:https://washougalwa.portal.civicclerk.com/event/499/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:3c573f343d59@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261118T013000Z
 DTEND:20261118T023000Z
 SUMMARY:Regular Board of Directors' Meeting (Evergreen Public Schools)
@@ -58,7 +94,7 @@ URL:https://evergreenps.community.diligentoneplatform.com/Portal/MeetingInformat
 END:VEVENT
 BEGIN:VEVENT
 UID:06c7628c39e5@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261118T160000Z
 DTEND:20261118T170000Z
 SUMMARY:Civil Service Commission (City of Vancouver)
@@ -67,7 +103,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1573/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:4f3306ccefa4@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261118T160000Z
 DTEND:20261118T170000Z
 SUMMARY:Civil Service Commission Special meeting (City of Vancouver)
@@ -76,7 +112,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1751/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:6512325d8fe9@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261118T200000Z
 DTEND:20261118T210000Z
 SUMMARY:Lodging Tax Advisory Committee - Special Meeting (City of Vancouver)
@@ -85,7 +121,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1722/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:641d8d2ac0af@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261118T233000Z
 DTEND:20261119T003000Z
 SUMMARY:City/County Telecommunications Commission Meeting (City of Vancouver)
@@ -94,7 +130,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1765/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:1e7a983e0abd@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261119T020000Z
 DTEND:20261119T030000Z
 SUMMARY:Urban Forestry Commission (City of Vancouver)
@@ -102,8 +138,17 @@ LOCATION:4500 Columbia Way\, Vancouver
 URL:https://vancouverwa.portal.civicclerk.com/event/1710/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:0e1c56cefadc@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261119T023000Z
+DTEND:20261119T033000Z
+SUMMARY:Regular City Council (City of La Center)
+LOCATION:City Hall\, 210 E. 4th St.
+URL:https://lacenter.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=1632
+END:VEVENT
+BEGIN:VEVENT
 UID:c3b092bca52e@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261119T203000Z
 DTEND:20261119T213000Z
 SUMMARY:City Center Redevelopment Authority (City of Vancouver)
@@ -112,7 +157,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1766/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:92f42d798666@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261119T223000Z
 DTEND:20261119T233000Z
 SUMMARY:Board of Directors' Workshop (2026 WSSDA Annual Conference) (Evergreen Public Schools)
@@ -120,8 +165,17 @@ LOCATION:Spokane Convention Center\, Spokane\, WA
 URL:https://evergreenps.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=653
 END:VEVENT
 BEGIN:VEVENT
+UID:d748515862ef@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261120T023000Z
+DTEND:20261120T033000Z
+SUMMARY:City Council Meeting (City of Ridgefield)
+LOCATION:RACC - Columbia Assembly Room - 510 Pioneer Street\, Ridgefield\, WA 98642
+URL:https://ridgefieldwa.portal.civicclerk.com/event/921/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:e11fab372030@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261124T000000Z
 DTEND:20261124T010000Z
 SUMMARY:City Council Meeting (City of Vancouver)
@@ -130,7 +184,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1512/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f02f3be341f6@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261125T003000Z
 DTEND:20261125T013000Z
 SUMMARY:Planning Commission (City of Vancouver)
@@ -139,7 +193,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1527/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e8aace75328a@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261202T003000Z
 DTEND:20261202T013000Z
 SUMMARY:CANCELLED: Transportation and Mobility Commission (City of Vancouver)
@@ -148,7 +202,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1558/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:11fe870ab41f@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261202T013000Z
 DTEND:20261202T023000Z
 SUMMARY:Board of Directors' Workshop (Evergreen Public Schools)
@@ -156,8 +210,26 @@ LOCATION:Evergreen Room - Administrative Service Center 13413 NE LeRoy Haagen Me
 URL:https://evergreenps.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=654
 END:VEVENT
 BEGIN:VEVENT
+UID:d88a9230c910@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261203T023000Z
+DTEND:20261203T033000Z
+SUMMARY:Planning Commission Meeting (City of Ridgefield)
+LOCATION:RACC - Columbia Assembly Room - 510 Pioneer Street\, Ridgefield\, WA 98642
+URL:https://ridgefieldwa.portal.civicclerk.com/event/950/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:4935c0e4691e@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261204T023000Z
+DTEND:20261204T033000Z
+SUMMARY:City Council Meeting (City of Ridgefield)
+LOCATION:RACC - Columbia Assembly Room - 510 Pioneer Street\, Ridgefield\, WA 98642
+URL:https://ridgefieldwa.portal.civicclerk.com/event/922/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:7160af5aad07@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261208T000000Z
 DTEND:20261208T010000Z
 SUMMARY:City Council Meeting (City of Vancouver)
@@ -166,7 +238,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1475/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:31cba601cb6d@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261209T003000Z
 DTEND:20261209T013000Z
 SUMMARY:Planning Commission - 2nd Tuesday (City of Vancouver)
@@ -174,8 +246,17 @@ LOCATION:Vancouver City Hall\, Council Chambers\, 415 West 6th Street\, Vancouve
 URL:https://vancouverwa.portal.civicclerk.com/event/1543/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:c2e60f0ab6e6@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261209T013000Z
+DTEND:20261209T023000Z
+SUMMARY:Planning Commission (City of La Center)
+LOCATION:City Hall\, 210 E. 4th St.
+URL:https://lacenter.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=1607
+END:VEVENT
+BEGIN:VEVENT
 UID:6fb1e0367fd4@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261209T013000Z
 DTEND:20261209T023000Z
 SUMMARY:Regular Board of Directors' Meeting (Evergreen Public Schools)
@@ -184,7 +265,7 @@ URL:https://evergreenps.community.diligentoneplatform.com/Portal/MeetingInformat
 END:VEVENT
 BEGIN:VEVENT
 UID:bf84dbb3b24f@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261209T160000Z
 DTEND:20261209T170000Z
 SUMMARY:Parking Advisory Committee (City of Vancouver)
@@ -193,7 +274,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1688/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:a46a1356740e@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261209T200000Z
 DTEND:20261209T210000Z
 SUMMARY:Lodging Tax Advisory Committee (City of Vancouver)
@@ -201,8 +282,26 @@ LOCATION:
 URL:https://vancouverwa.portal.civicclerk.com/event/1603/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:b54bd8199a4c@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261210T023000Z
+DTEND:20261210T033000Z
+SUMMARY:Regular City Council (City of La Center)
+LOCATION:City Hall\, 210 E. 4th St.
+URL:https://lacenter.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=1631
+END:VEVENT
+BEGIN:VEVENT
+UID:da097ce07ef7@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261210T023000Z
+DTEND:20261210T033000Z
+SUMMARY:Parks Board Meeting (City of Ridgefield)
+LOCATION:RACC - Columbia Assembly Room - 510 Pioneer Street\, Ridgefield\, WA 98642
+URL:https://ridgefieldwa.portal.civicclerk.com/event/978/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:e868d9d6575d@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261215T000000Z
 DTEND:20261215T010000Z
 SUMMARY:City Council Meeting (City of Vancouver)
@@ -210,8 +309,17 @@ LOCATION:Vancouver City Hall\, Council Chambers\, 415 West 6th Street\, Vancouve
 URL:https://vancouverwa.portal.civicclerk.com/event/1488/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:521b804e5d67@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261215T023000Z
+DTEND:20261215T033000Z
+SUMMARY:CANCELLED: Roundabout Committee (City of Ridgefield)
+LOCATION:510 Pioneer Street\, Ridgefield\, WA 98642
+URL:https://ridgefieldwa.portal.civicclerk.com/event/937/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:31b5f2938f05@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261215T190000Z
 DTEND:20261215T200000Z
 SUMMARY:Public Facilities District Board (City of Vancouver)
@@ -220,7 +328,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1767/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:514f1e1cb02b@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261216T160000Z
 DTEND:20261216T170000Z
 SUMMARY:Civil Service Commission (City of Vancouver)
@@ -229,7 +337,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1574/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f90845fc9c82@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261216T160000Z
 DTEND:20261216T170000Z
 SUMMARY:Civil Service Commission Special meeting (City of Vancouver)
@@ -237,8 +345,17 @@ LOCATION:Vancouver City Hall\, Birch Conference room\, 415 West 6th Street\, Van
 URL:https://vancouverwa.portal.civicclerk.com/event/1752/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:003d17ad0fe2@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261217T023000Z
+DTEND:20261217T033000Z
+SUMMARY:Regular City Council (City of La Center)
+LOCATION:City Hall\, 210 E. 4th St.
+URL:https://lacenter.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=1633
+END:VEVENT
+BEGIN:VEVENT
 UID:454659acd83b@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261217T190000Z
 DTEND:20261217T200000Z
 SUMMARY:Downtown Redevelopment Authority (City of Vancouver)
@@ -246,8 +363,17 @@ LOCATION:415 W 6th Street\, Vancouver
 URL:https://vancouverwa.portal.civicclerk.com/event/1576/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:436cb3e27ef7@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261218T023000Z
+DTEND:20261218T033000Z
+SUMMARY:City Council Meeting (City of Ridgefield)
+LOCATION:RACC - Columbia Assembly Room - 510 Pioneer Street\, Ridgefield\, WA 98642
+URL:https://ridgefieldwa.portal.civicclerk.com/event/923/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:2bf2fa4dadb8@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261223T003000Z
 DTEND:20261223T013000Z
 SUMMARY:Planning Commission (City of Vancouver)
@@ -256,7 +382,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1528/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:b63f84d3ee3c@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20270106T003000Z
 DTEND:20270106T013000Z
 SUMMARY:Transportation and Mobility Commission (City of Vancouver)

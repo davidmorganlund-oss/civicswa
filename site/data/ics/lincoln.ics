@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Lincoln County
 BEGIN:VEVENT
 UID:441b86b75fd1@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261116T160000Z
 DTEND:20261116T200000Z
 SUMMARY:Board of Lincoln County Commissioners Meeting (Lincoln County)
@@ -12,8 +12,26 @@ LOCATION:450 Logan Street Lower Level\, County Courthouse Davenport WA 99122
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=41
 END:VEVENT
 BEGIN:VEVENT
+UID:9202b79f67d2@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261118T020000Z
+DTEND:20261118T033000Z
+SUMMARY:Regular Session Council Meeting (City of Wilbur)
+LOCATION:Town Hall - 14 NW Division St Wilbur WA 99185
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:acc0e13f6501@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261202T020000Z
+DTEND:20261202T033000Z
+SUMMARY:Regular Session Council Meeting (City of Wilbur)
+LOCATION:14 NW Division St Wilbur WA 99185
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 UID:6f7bd4d51fd1@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261207T160000Z
 DTEND:20261207T200000Z
 SUMMARY:Board of Lincoln County Commissioners Meeting (Lincoln County)
@@ -22,7 +40,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=41
 END:VEVENT
 BEGIN:VEVENT
 UID:2c233e7f5d91@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261214T180000Z
 DTEND:20261214T200000Z
 SUMMARY:Planning Commission Meeting (Lincoln County)
@@ -30,12 +48,30 @@ LOCATION:27234 SR 25 N Davenport WA 99122
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=46
 END:VEVENT
 BEGIN:VEVENT
+UID:e53a4555deb5@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20261216T020000Z
+DTEND:20261216T033000Z
+SUMMARY:Regular Session Council Meeting (City of Wilbur)
+LOCATION:Town Hall - 14 NW Division St Wilbur WA 99185
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
 UID:ed1b927d1d60@civicswa
-DTSTAMP:20261111T223605Z
+DTSTAMP:20261111T224611Z
 DTSTART:20261221T160000Z
 DTEND:20261221T200000Z
 SUMMARY:Board of Lincoln County Commissioners Meeting (Lincoln County)
 LOCATION:450 Logan Street Lower Level\, County Courthouse Davenport WA 99122
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=41
+END:VEVENT
+BEGIN:VEVENT
+UID:dbff3c188775@civicswa
+DTSTAMP:20261111T224611Z
+DTSTART:20270106T020000Z
+DTEND:20270106T033000Z
+SUMMARY:Regular Session Council Meeting (City of Wilbur)
+LOCATION:14 NW Division St Wilbur WA 99185
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 END:VCALENDAR
