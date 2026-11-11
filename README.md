@@ -21,9 +21,9 @@ Washington Secretary of State or any government agency.
 | City of Olympia | Legistar | `legistar` | Live |
 | City of Lacey | CivicClerk | `civicclerk` | Live |
 | Thurston County | Published Outlook calendar | `ics` | Live |
-| Port of Olympia | WordPress events | none | No feed found; needs its own connector |
-| City of Tumwater | Municode Meetings | none | Blocked to crawlers; ask for a feed |
-| Timberland Regional Library | BiblioCommons | none | Blocked to crawlers; ask for a feed |
+| Port of Olympia | WordPress events feed | `mec_rss` | Live |
+| City of Tumwater | Municode Meetings | `municode` | Live (reads the public meetings table; no feed offered) |
+| Timberland Regional Library | BiblioCommons events feed | `bibliocommons` | Live, civic programs only |
 | School boards | not inventoried | none | To do |
 
 ## Run it yourself

@@ -49,9 +49,9 @@ def is_cancelled(*texts: str) -> bool:
 
 
 def make_event(src, *, title, start, end=None, all_day=False, location="", url="",
-               agenda_url="", note="", uid=""):
+               agenda_url="", note="", uid="", category="", area="", cancelled=False):
     key = f"{src['id']}|{uid or title}|{start.isoformat()}"
-    cancelled = is_cancelled(title, note)
+    cancelled = cancelled or is_cancelled(title, note)
     # Hosts often prefix the title ("Canceled: Board Work Session"); the site
     # shows its own Cancelled tag, so drop the prefix.
     title = re.sub(r"^\s*cancel+ed\s*[:\-]\s*", "", title or "", flags=re.I)
@@ -60,8 +60,8 @@ def make_event(src, *, title, start, end=None, all_day=False, location="", url="
         "title": " ".join((title or "").split()),
         "host": src["name"],
         "source": src["id"],
-        "area": src["area"],
-        "category": categorize(title),
+        "area": area or src["area"],
+        "category": category or categorize(title),
         "start": start.isoformat(),
         "end": end.isoformat() if end else None,
         "all_day": all_day,
@@ -201,7 +201,168 @@ def fetch_ics(src, start_day, end_day, tz):
     return normalize_ics(src, get(src["url"]).content, start_day, end_day, tz)
 
 
-CONNECTORS = {"legistar": fetch_legistar, "civicclerk": fetch_civicclerk, "ics": fetch_ics}
+def local(tag: str) -> str:
+    return tag.rsplit("}", 1)[-1]
+
+
+def fields(element) -> dict:
+    """Child elements of an XML node as {name: text}; repeated names become lists."""
+    out: dict = {}
+    for child in element:
+        name, text = local(child.tag), (child.text or "").strip()
+        if name in out:
+            out[name] = (out[name] if isinstance(out[name], list) else [out[name]]) + [text]
+        else:
+            out[name] = text
+    return out
+
+
+def rss_items(xml_text):
+    import xml.etree.ElementTree as ET
+    return [el for el in ET.fromstring(xml_text).iter() if local(el.tag) == "item"]
+
+
+# --- BiblioCommons library events (RSS) ---
+
+CIVIC_TITLE = re.compile(
+    r"civic|\bvot(e|er|ers|ing)\b|election|ballot|legislat|city council|town hall|candidate|"
+    r"citizenship|naturalization|government|public comment|public hearing|budget hearing|"
+    r"board of trustees|community forum|listening session|advocacy", re.I)
+
+
+def library_event_is_civic(title: str, categories: list) -> bool:
+    if "Board Meetings" in categories or CIVIC_TITLE.search(title or ""):
+        return True
+    return "Friends of the Library" in categories and "meeting" in (title or "").lower()
+
+
+def normalize_bibliocommons(src, xml_text, tz):
+    events = []
+    areas = src.get("city_areas", {})
+    for item in rss_items(xml_text):
+        f = fields(item)
+        cats = f.get("category", [])
+        cats = cats if isinstance(cats, list) else [cats]
+        title = f.get("title", "")
+        raw = f.get("start_date_local", "")
+        if not raw or not library_event_is_civic(title, cats):
+            continue
+        all_day = "T" not in raw
+        start = datetime.fromisoformat(raw if not all_day else raw + "T00:00").replace(tzinfo=tz)
+        end_raw = f.get("end_date_local", "")
+        end = datetime.fromisoformat(end_raw).replace(tzinfo=tz) if "T" in end_raw else None
+        loc_el = next((c for c in item if local(c.tag) == "location"), None)
+        loc = fields(loc_el) if loc_el is not None else {}
+        virtual = f.get("is_virtual") == "true"
+        place = ", ".join(p for p in [
+            (loc.get("name", "") + " Timberland Library") if len(loc.get("id", "")) == 2 else loc.get("name", ""),
+            " ".join(p for p in [loc.get("number", ""), loc.get("street", "")] if p),
+            loc.get("city", "")] if p)
+        board = "Board Meetings" in cats or re.search(r"trustees|budget hearing", title, re.I)
+        events.append(make_event(
+            src, title=title, start=start, end=end, all_day=all_day,
+            location=("Online" + (" and " + place if place else "")) if virtual else place,
+            url=f.get("link", ""), uid=f.get("guid", "") or f.get("link", ""),
+            category=("hearing" if re.search(r"hearing", title, re.I) else "council") if board else "library",
+            area="countywide" if board else areas.get(loc.get("city", ""), loc.get("city", "") or "countywide"),
+            cancelled=f.get("is_cancelled") == "true",
+        ))
+    return events
+
+
+def fetch_bibliocommons(src, start_day, end_day, tz):
+    import time as clock
+    base = f"https://gateway.bibliocommons.com/v2/libraries/{src['library']}/rss/events"
+    queries = [{"locations": ",".join(src["locations"])}] + [{"q": q} for q in src.get("searches", [])]
+    found = {}
+    for query in queries:
+        for page in range(1, 31):  # 25 events a page, soonest first
+            xml_text = get(base, {**query, "page": page}).text
+            items = rss_items(xml_text)
+            for e in normalize_bibliocommons(src, xml_text, tz):
+                found[e["id"]] = e
+            starts = [fields(i).get("start_date_local", "")[:10] for i in items]
+            if len(items) < 25 or (starts and min(s for s in starts[-5:] if s) > end_day.isoformat()):
+                break
+            clock.sleep(1)  # be gentle with the library's server
+    return list(found.values())
+
+
+# --- Municode Meetings portal (HTML table of meetings) ---
+
+def normalize_municode(src, html_text, tz):
+    import html as htmllib
+    events = []
+    for row in re.findall(r"<tr\b.*?</tr>", html_text, re.S):
+        when = re.search(r'class="date-display-single"[^>]*content="([^"]+)"', row)
+        title = re.search(r'views-field-title"[^>]*>(.*?)</td>', row, re.S)
+        if not when or not title:
+            continue
+        start = datetime.fromisoformat(when.group(1)).astimezone(tz)
+        agenda = re.search(r'views-field-field-agendas".*?href="([^"]+\.pdf)"', row, re.S)
+        detail = re.search(r'views-field-view-node".*?href="([^"]+)"', row, re.S)
+        name = htmllib.unescape(re.sub(r"<[^>]+>", " ", title.group(1)))
+        url = htmllib.unescape(detail.group(1)) if detail else ""
+        events.append(make_event(
+            src, title=name, start=start,
+            url=(src["url"].rstrip("/") + url) if url.startswith("/") else url,
+            agenda_url=htmllib.unescape(agenda.group(1)) if agenda else "",
+            uid=url or name,
+        ))
+    return events
+
+
+def fetch_municode(src, start_day, end_day, tz):
+    return normalize_municode(src, get(src["url"]).text, tz)
+
+
+# --- WordPress "Modern Events Calendar" RSS (dates in mec:startDate, time in the title) ---
+
+TIME_IN_TITLE = re.compile(r"\b\d{1,2}(?::\d{2})?\s*[ap]\.?m\.?", re.I)
+TIME_RANGE = re.compile(r"\b(\d{1,2}(?::\d{2})?)\s*([ap]\.?m\.?)?\s*[–-]\s*\d{1,2}(?::\d{2})?\s*([ap]\.?m\.?)", re.I)
+LEADING_DATE = re.compile(r"^[A-Z][a-z]+ \d{1,2}(?:\s*[–-]\s*[A-Z][a-z]+ \d{1,2})?, \d{4}\s*[–-]?\s*")
+
+
+def normalize_mec_rss(src, xml_text, tz):
+    import html as htmllib
+    events = []
+    for item in rss_items(xml_text):
+        f = fields(item)
+        day = f.get("startDate", "")
+        if not day:
+            continue
+        raw_title = htmllib.unescape(f.get("title", ""))
+        cancelled = bool(re.search(r"cancel", raw_title, re.I))
+        title = re.sub(r"^\s*(cancel+ed|updated)\s*:\s*", "", raw_title, flags=re.I)
+        title = LEADING_DATE.sub("", title)
+        span = TIME_RANGE.search(title)  # "5:00 – 7:00 PM": the start borrows the end's am/pm
+        if span:
+            clock = parse_clock(f"{span.group(1)} {span.group(2) or span.group(3)}")
+        else:
+            clock_match = TIME_IN_TITLE.search(title)
+            clock = parse_clock(clock_match.group(0)) if clock_match else None
+        # drop ": 4:00 PM" or ": 5:00 – 7:00 PM" but keep any trailing note about where it is held
+        title = re.sub(r":?\s*\d{1,2}(?::\d{2})?\s*(?:[ap]\.?m\.?)?\s*(?:[–-]\s*\d{1,2}(?::\d{2})?\s*)?[ap]\.?m\.?",
+                       "", title, count=1, flags=re.I).strip(" :–-")
+        description = htmllib.unescape(f.get("description", ""))
+        default_place = src.get("default_location", "")
+        events.append(make_event(
+            src, title=title or raw_title,
+            start=datetime.combine(date.fromisoformat(day), clock or time(0, 0), tz),
+            all_day=clock is None,
+            location=default_place if default_place and src.get("default_location_marker", "") in description else "",
+            url=f.get("link", ""), uid=f.get("guid", "") or f.get("link", ""),
+            cancelled=cancelled,
+        ))
+    return events
+
+
+def fetch_mec_rss(src, start_day, end_day, tz):
+    return normalize_mec_rss(src, get(src["url"]).text, tz)
+
+
+CONNECTORS = {"legistar": fetch_legistar, "civicclerk": fetch_civicclerk, "ics": fetch_ics,
+              "bibliocommons": fetch_bibliocommons, "municode": fetch_municode, "mec_rss": fetch_mec_rss}
 
 
 # ---------- outputs ----------

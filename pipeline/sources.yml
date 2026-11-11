@@ -28,11 +28,34 @@ sources:
     area: countywide
     homepage: https://www.thurstoncountywa.gov/meetings-and-agendas
 
-# Not connected yet, on purpose:
-#   City of Tumwater (tumwater-wa.municodemeetings.com) and Timberland Regional
-#   Library (timberland.bibliocommons.com) both tell automated crawlers to stay
-#   out in robots.txt. Ask each for a feed or permission before adding them.
-#   Port of Olympia (portolympia.com/commission/) lists meetings on its own
-#   WordPress pages with no feed found yet; its standard iCal address returns
-#   a web page. Needs its own connector or a feed from the Port.
-#   School boards (Olympia, North Thurston, Tumwater) are not inventoried yet.
+  - id: tumwater
+    name: City of Tumwater
+    type: municode
+    url: https://tumwater-wa.municodemeetings.com/
+    area: Tumwater
+    homepage: https://tumwater-wa.municodemeetings.com/
+
+  - id: port-of-olympia
+    name: Port of Olympia
+    type: mec_rss
+    url: https://portolympia.com/events/feed/
+    area: countywide
+    default_location: Percival Plaza, Olympics Room, 626 Columbia St NW, Suite 1-B, Olympia
+    default_location_marker: Olympics Room
+    homepage: https://portolympia.com/commission/
+
+  # Library programs are filtered to civic ones (board meetings, hearings,
+  # Friends of the Library meetings, and titles about voting, government and
+  # the like). Storytimes and classes are left out.
+  - id: timberland-library
+    name: Timberland Regional Library
+    type: bibliocommons
+    library: timberland
+    locations: [OL, WO, LA, HA, TU, TE, YE]   # the Thurston County branches
+    searches: [trustees]                       # the library board meets across the region
+    city_areas: {Olympia: Olympia, Lacey: Lacey, Tumwater: Tumwater}
+    area: countywide
+    homepage: https://timberland.bibliocommons.com/v2/events
+
+# Not connected yet:
+#   School boards (Olympia, North Thurston, Tumwater).
