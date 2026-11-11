@@ -1,0 +1,110 @@
+sources:
+- id: bingen
+  name: Town of Bingen
+  county: Klickitat
+  area: Bingen
+  type: civicplus
+  site: https://www.bingenwashington.org
+  categories:
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.bingenwashington.org/Calendar.aspx
+- id: black-diamond
+  name: City of Black Diamond
+  county: King
+  area: Black Diamond
+  type: civicplus
+  site: https://www.blackdiamondwa.gov
+  categories:
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.blackdiamondwa.gov/Calendar.aspx
+- id: buckley
+  name: City of Buckley
+  county: Pierce
+  area: Buckley
+  type: civicplus
+  site: https://www.cityofbuckley.com
+  categories:
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.cityofbuckley.com/Calendar.aspx
+- id: chewelah
+  name: City of Chewelah
+  county: Stevens
+  area: Chewelah
+  type: civicplus
+  site: https://www.cityofchewelah.org
+  categories:
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.cityofchewelah.org/Calendar.aspx
+- id: mukilteo
+  name: City of Mukilteo
+  county: Snohomish
+  area: Mukilteo
+  type: civicplus
+  site: https://mukilteowa.gov
+  categories:
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://mukilteowa.gov/Calendar.aspx
+- id: oak-harbor
+  name: City of Oak Harbor
+  county: Island
+  area: Oak Harbor
+  type: civicplus
+  site: https://oakharbor.gov
+  categories:
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://oakharbor.gov/Calendar.aspx
+- id: omak
+  name: City of Omak
+  county: Okanogan
+  area: Omak
+  type: civicplus
+  site: https://www.omakcity.com
+  categories:
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.omakcity.com/Calendar.aspx
+- id: university-place
+  name: City of University Place
+  county: Pierce
+  area: University Place
+  type: civicplus
+  site: https://www.cityofup.com
+  categories:
+  - 23
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.cityofup.com/Calendar.aspx
+- id: steilacoom
+  name: Town of Steilacoom
+  county: Pierce
+  area: Steilacoom
+  type: civicplus
+  site: https://townofsteilacoom.org
+  categories:
+  - 23
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://townofsteilacoom.org/Calendar.aspx
+- id: cosmopolis
+  name: City of Cosmopolis
+  county: Grays Harbor
+  area: Cosmopolis
+  type: municode
+  homepage: https://cosmopolis-wa.municodemeetings.com/
+  url: https://cosmopolis-wa.municodemeetings.com/
+- id: longview
+  name: City of Longview
+  county: Cowlitz
+  area: Longview
+  type: civicplus
+  site: https://www.longviewlibrary.org
+  categories:
+  - 26
+  drop_uncategorized: true
+  homepage: https://www.mylongview.com/

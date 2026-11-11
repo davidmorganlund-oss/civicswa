@@ -13,6 +13,7 @@ from __future__ import annotations
 import hashlib
 import json
 import re
+from html import unescape as html_unescape
 import sys
 from datetime import date, datetime, time, timedelta
 from pathlib import Path
@@ -73,7 +74,7 @@ def make_event(src, *, title, start, end=None, all_day=False, location="", url="
     location = re.sub(r"^[\s\-–,]+|[\s\-–,]+$", "", " ".join(location.split()))
     return {
         "id": hashlib.sha1(key.encode()).hexdigest()[:12],
-        "title": " ".join((title or "").split()),
+        "title": " ".join(html_unescape(title or "").split()),
         "host": src["name"],
         "source": src["id"],
         "area": area or src["area"],

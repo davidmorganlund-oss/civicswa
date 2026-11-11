@@ -31,6 +31,6 @@ def trial(src):
 
 if __name__ == "__main__":
     srcs = yaml.safe_load(open(sys.argv[1]))["sources"]
-    with ThreadPoolExecutor(10) as ex:
+    with ThreadPoolExecutor(4) as ex:
         for r in ex.map(trial, srcs):
             print("TRIAL", json.dumps(r))
