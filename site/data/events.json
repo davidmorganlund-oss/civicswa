@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T14:52:06-08:00",
+ "generated": "2026-11-11T14:57:03-08:00",
  "events": [
   {
    "id": "4f1b81a92f98",
@@ -8595,7 +8595,7 @@
    "cancelled": false
   },
   {
-   "id": "afcc882036e3",
+   "id": "38ba460b13b1",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -8612,7 +8612,7 @@
    "cancelled": false
   },
   {
-   "id": "38ba460b13b1",
+   "id": "afcc882036e3",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -24393,7 +24393,7 @@
    "cancelled": false
   },
   {
-   "id": "13e6504958fd",
+   "id": "3d751c3809dc",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -24410,7 +24410,7 @@
    "cancelled": false
   },
   {
-   "id": "3d751c3809dc",
+   "id": "13e6504958fd",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
