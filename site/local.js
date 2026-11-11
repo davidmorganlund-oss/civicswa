@@ -7,6 +7,7 @@
 
   var KEY = 'civicswa.place';
   var STATE_BOARDS = 'https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve';
+  var OSPI_DIRECTORY = 'https://eds.ospi.k12.wa.us/DirectoryEDS.aspx';
 
   function base() {
     var s = document.querySelector('script[src$="local.js"]');
@@ -54,6 +55,11 @@
       if (kind === 'site') {
         if (city) item(ul, city.site, 'City of ' + place.city, 'Official website: council, departments and service requests.');
         if (county) item(ul, county.site, place.county + ' County', 'Official website: commissioners or council, departments and services.');
+      }
+      if (kind === 'schools') {
+        if (place.county) item(ul, base() + 'index.html?cat=school', 'School board meetings in ' + place.county + ' County',
+          'The CivicsWA calendar, filtered to school boards. If your district isn’t there yet, use its website.');
+        item(ul, OSPI_DIRECTORY, 'Find your school district', 'OSPI’s directory of every district, with its address and superintendent’s contact.');
       }
       if (kind === 'meetings') {
         if (place.county) item(ul, base() + 'index.html', 'Public meetings in ' + place.county + ' County', 'The CivicsWA calendar, set to your county.');
