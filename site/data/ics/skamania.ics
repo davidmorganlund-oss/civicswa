@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Skamania County
 BEGIN:VEVENT
 UID:0abe320482c3@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261120T020000Z
 DTEND:20261120T030000Z
 SUMMARY:Regular City Council Meeting (City of Stevenson)
@@ -13,7 +13,7 @@ URL:https://stevensonwa.portal.civicclerk.com/event/527/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:4ad0f80febd0@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261215T020000Z
 DTEND:20261215T030000Z
 SUMMARY:Regular Planning Commission Meeting (City of Stevenson)
@@ -22,11 +22,20 @@ URL:https://stevensonwa.portal.civicclerk.com/event/541/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:d724f132cba0@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261218T020000Z
 DTEND:20261218T030000Z
 SUMMARY:Regular City Council Meeting (City of Stevenson)
 LOCATION:7121 E Loop Road\, Stevenson
 URL:https://stevensonwa.portal.civicclerk.com/event/553/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:071dd0a079c8@civicswa
+DTSTAMP:20261112T120511Z
+DTSTART:20270112T020000Z
+DTEND:20270112T030000Z
+SUMMARY:Regular Planning Commission Meeting (City of Stevenson)
+LOCATION:7121 E Loop Road\, Stevenson
+URL:https://stevensonwa.portal.civicclerk.com/event/542/overview
 END:VEVENT
 END:VCALENDAR

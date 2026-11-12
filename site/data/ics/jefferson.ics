@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Jefferson County
 BEGIN:VEVENT
 UID:671598896f01@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261112T180000Z
 DTEND:20261112T190000Z
 SUMMARY:CANCELLED: Ferry Advisory Committee (Jefferson County)
@@ -13,7 +13,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:d391d21e3192@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261112T230000Z
 DTEND:20261113T002500Z
 SUMMARY:Clean Water District Advisory Council (Jefferson County)
@@ -22,7 +22,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
 END:VEVENT
 BEGIN:VEVENT
 UID:3a49e51db566@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261113T010000Z
 DTEND:20261113T030000Z
 SUMMARY:SPECIAL MEETING of the Chimacum Drainage District (Jefferson County)
@@ -31,7 +31,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:ac97108b78d0@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261116T170000Z
 DTEND:20261117T003000Z
 SUMMARY:Jefferson County Board of County Commissioners Meeting (Jefferson County)
@@ -40,7 +40,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
 END:VEVENT
 BEGIN:VEVENT
 UID:9909528cc5f1@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261118T020000Z
 DTEND:20261118T030000Z
 SUMMARY:School Board Meeting (Brinnon School District)
@@ -49,7 +49,7 @@ URL:https://www.bsd46.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:0dbdfdc42ca5@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261119T013000Z
 DTEND:20261119T033000Z
 SUMMARY:SPECIAL MEETING - Jefferson County Planning Commission (Jefferson County)
@@ -58,7 +58,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
 END:VEVENT
 BEGIN:VEVENT
 UID:2270cbef9a05@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261119T223000Z
 DTEND:20261120T003000Z
 SUMMARY:Jefferson County Board of Health Monthly Meeting (Jefferson County)
@@ -67,7 +67,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:c3518ee611ed@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261123T170000Z
 DTEND:20261124T003000Z
 SUMMARY:Jefferson County Board of County Commissioners Meeting (Jefferson County)
@@ -76,7 +76,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
 END:VEVENT
 BEGIN:VEVENT
 UID:260f3f6040df@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261124T220000Z
 DTEND:20261125T000000Z
 SUMMARY:Civil Service Commission Meeting (Jefferson County)
@@ -85,7 +85,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
 END:VEVENT
 BEGIN:VEVENT
 UID:94392b324122@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261124T224500Z
 DTEND:20261125T003000Z
 SUMMARY:Intellectual and Developmental Disabilities Advisory Board Meeting (Jefferson County)
@@ -94,7 +94,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:353974afd914@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261125T220000Z
 DTEND:20261126T003000Z
 SUMMARY:Housing Fund Board (Jefferson County)
@@ -103,7 +103,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
 END:VEVENT
 BEGIN:VEVENT
 UID:b5be3e6c2c57@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261126T013000Z
 DTEND:20261126T033000Z
 SUMMARY:CANCELLED: Jefferson County Planning Commission (Jefferson County)
@@ -112,7 +112,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
 END:VEVENT
 BEGIN:VEVENT
 UID:10f7f3611f91@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261130T170000Z
 DTEND:20261201T003000Z
 SUMMARY:Jefferson County Board of County Commissioners Meeting (Jefferson County)
@@ -121,7 +121,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
 END:VEVENT
 BEGIN:VEVENT
 UID:3b179d621aac@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261201T220000Z
 DTEND:20261201T230000Z
 SUMMARY:SPECIAL MEETING: Solid Waste Advisory Committee (Jefferson County)
@@ -130,7 +130,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
 END:VEVENT
 BEGIN:VEVENT
 UID:7b874d0050e9@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261207T170000Z
 DTEND:20261208T003000Z
 SUMMARY:Jefferson County Board of County Commissioners Meeting (Jefferson County)
@@ -139,7 +139,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
 END:VEVENT
 BEGIN:VEVENT
 UID:87d82f9f0759@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261208T223000Z
 DTEND:20261209T003000Z
 SUMMARY:Behavioral Health Advisory Committee (BHAC) (Jefferson County)
@@ -148,7 +148,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:a979966a6fc8@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261210T013000Z
 DTEND:20261210T033000Z
 SUMMARY:Jefferson County Planning Commission - Regular Meeting (Jefferson County)
@@ -157,7 +157,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
 END:VEVENT
 BEGIN:VEVENT
 UID:792d9ba60fcd@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261214T170000Z
 DTEND:20261215T003000Z
 SUMMARY:Jefferson County Board of County Commissioners Meeting (Jefferson County)
@@ -166,7 +166,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
 END:VEVENT
 BEGIN:VEVENT
 UID:85fd5e73bbd7@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:School Board Meeting (Brinnon School District)
@@ -175,7 +175,7 @@ URL:https://www.bsd46.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:383c45db119c@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261217T223000Z
 DTEND:20261218T003000Z
 SUMMARY:Jefferson County Board of Health Monthly Meeting (Jefferson County)
@@ -184,7 +184,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:34ce1d5aa1c7@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261221T170000Z
 DTEND:20261222T003000Z
 SUMMARY:Jefferson County Board of County Commissioners Meeting (Jefferson County)
@@ -193,7 +193,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
 END:VEVENT
 BEGIN:VEVENT
 UID:8ce190f13949@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261222T220000Z
 DTEND:20261223T000000Z
 SUMMARY:Civil Service Commission Meeting (Jefferson County)
@@ -202,7 +202,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
 END:VEVENT
 BEGIN:VEVENT
 UID:f57696ab96b3@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261223T220000Z
 DTEND:20261224T003000Z
 SUMMARY:Housing Fund Board (Jefferson County)
@@ -211,7 +211,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
 END:VEVENT
 BEGIN:VEVENT
 UID:bc58df61ee8d@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261224T013000Z
 DTEND:20261224T033000Z
 SUMMARY:CANCELLED: Jefferson County Planning Commission (Jefferson County)
@@ -220,7 +220,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=39
 END:VEVENT
 BEGIN:VEVENT
 UID:d16dcc16cbd6@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261228T170000Z
 DTEND:20261229T003000Z
 SUMMARY:Jefferson County Board of County Commissioners Meeting (Jefferson County)
@@ -229,9 +229,18 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
 END:VEVENT
 BEGIN:VEVENT
 UID:ef1a7ce6ede2@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20270104T170000Z
 DTEND:20270105T003000Z
+SUMMARY:Jefferson County Board of County Commissioners Meeting (Jefferson County)
+LOCATION:HYBRID 1820 Jefferson St\, BoCC Port Townsend WA 98368
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
+END:VEVENT
+BEGIN:VEVENT
+UID:08234d564eb8@civicswa
+DTSTAMP:20261112T120511Z
+DTSTART:20270111T170000Z
+DTEND:20270112T003000Z
 SUMMARY:Jefferson County Board of County Commissioners Meeting (Jefferson County)
 LOCATION:HYBRID 1820 Jefferson St\, BoCC Port Townsend WA 98368
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33

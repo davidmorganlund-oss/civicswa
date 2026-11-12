@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Grays Harbor County
 BEGIN:VEVENT
 UID:151d6f4f0431@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261117T180000Z
 DTEND:20261117T190000Z
 SUMMARY:CANCELLED: Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
@@ -13,7 +13,7 @@ URL:https://www.graysharbor.gov/government/commissioners/meetings-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:e4aec1377ffb@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261124T180000Z
 DTEND:20261124T190000Z
 SUMMARY:CANCELLED: Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
@@ -22,7 +22,7 @@ URL:https://www.graysharbor.gov/government/commissioners/meetings-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:65364aece286@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261124T183000Z
 DTEND:20261124T193000Z
 SUMMARY:Radio Board Meeting (City of Ocean Shores)
@@ -31,7 +31,7 @@ URL:https://oceanshores.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=1
 END:VEVENT
 BEGIN:VEVENT
 UID:12edb9ecdc2d@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261125T020000Z
 DTEND:20261125T030000Z
 SUMMARY:Regular City Council Meeting (City of Ocean Shores)
@@ -40,7 +40,7 @@ URL:https://oceanshores.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=1
 END:VEVENT
 BEGIN:VEVENT
 UID:dd6b6b5ea8a1@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261125T020000Z
 DTEND:20261125T030000Z
 SUMMARY:Board meeting (Cosmopolis School District)
@@ -49,7 +49,7 @@ URL:https://www.cosmopolisschool.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:7df4084acefa@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261126T023000Z
 DTEND:20261126T043000Z
 SUMMARY:Aberdeen City Council Meeting (City of Aberdeen)
@@ -58,7 +58,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
 UID:f586bcb7fac3@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261201T180000Z
 DTEND:20261201T190000Z
 SUMMARY:CANCELLED: Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
@@ -67,7 +67,7 @@ URL:https://www.graysharbor.gov/government/commissioners/meetings-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:9a654d054f8f@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261208T180000Z
 DTEND:20261208T190000Z
 SUMMARY:CANCELLED: Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
@@ -76,7 +76,7 @@ URL:https://www.graysharbor.gov/government/commissioners/meetings-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:d51f52fd1f01@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:Regular City Council Meeting (City of Ocean Shores)
@@ -85,7 +85,7 @@ URL:https://oceanshores.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=1
 END:VEVENT
 BEGIN:VEVENT
 UID:da51a99d734a@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261210T023000Z
 DTEND:20261210T043000Z
 SUMMARY:Aberdeen City Council Meeting (City of Aberdeen)
@@ -94,7 +94,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
 UID:7d43ee1b3dbd@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261215T180000Z
 DTEND:20261215T190000Z
 SUMMARY:CANCELLED: Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
@@ -103,7 +103,7 @@ URL:https://www.graysharbor.gov/government/commissioners/meetings-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:4195fe8f7d7b@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261222T180000Z
 DTEND:20261222T190000Z
 SUMMARY:CANCELLED: Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
@@ -112,7 +112,7 @@ URL:https://www.graysharbor.gov/government/commissioners/meetings-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:bf43f94362a0@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261222T183000Z
 DTEND:20261222T193000Z
 SUMMARY:Radio Board Meeting (City of Ocean Shores)
@@ -121,7 +121,7 @@ URL:https://oceanshores.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=1
 END:VEVENT
 BEGIN:VEVENT
 UID:37b84a84349f@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:CANCELLED: Regular City Council Meeting (City of Ocean Shores)
@@ -130,7 +130,7 @@ URL:https://oceanshores.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=1
 END:VEVENT
 BEGIN:VEVENT
 UID:eeb64adbbae8@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:Board meeting (Cosmopolis School District)
@@ -139,7 +139,7 @@ URL:https://www.cosmopolisschool.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:d7438939a8da@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261224T023000Z
 DTEND:20261224T043000Z
 SUMMARY:Aberdeen City Council Meeting (City of Aberdeen)
@@ -148,7 +148,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
 UID:dd2f22919670@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20261231T023000Z
 DTEND:20261231T043000Z
 SUMMARY:Aberdeen City Council Meeting (City of Aberdeen)
@@ -157,7 +157,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
 UID:8f9b85f1f624@civicswa
-DTSTAMP:20261112T010015Z
+DTSTAMP:20261112T120511Z
 DTSTART:20270105T180000Z
 DTEND:20270105T190000Z
 SUMMARY:CANCELLED: Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
