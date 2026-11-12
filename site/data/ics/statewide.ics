@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Statewide County
 BEGIN:VEVENT
 UID:ef0fa43cf00f@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261116T180000Z
 DTEND:20261116T190000Z
 SUMMARY:Joint Oregon-Washington Legislative Action Committee (Washington State Legislature)
@@ -13,7 +13,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34326
 END:VEVENT
 BEGIN:VEVENT
 UID:85a4295d9450@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261116T180000Z
 DTEND:20261116T190000Z
 SUMMARY:Statute Law Committee (Washington State Legislature)
@@ -22,7 +22,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34290
 END:VEVENT
 BEGIN:VEVENT
 UID:056fa4e8afd2@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261117T180000Z
 DTEND:20261117T190000Z
 SUMMARY:Select Committee on Pension Policy (Washington State Legislature)
@@ -31,7 +31,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34143
 END:VEVENT
 BEGIN:VEVENT
 UID:172ca9033aee@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261117T204500Z
 DTEND:20261117T214500Z
 SUMMARY:Select Committee on Pension Policy (Executive Committee) (Washington State Legislature)
@@ -40,7 +40,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34144
 END:VEVENT
 BEGIN:VEVENT
 UID:095673fc38da@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261119T180000Z
 DTEND:20261119T190000Z
 SUMMARY:Joint Transportation Committee (Washington State Legislature)
@@ -49,7 +49,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/33821
 END:VEVENT
 BEGIN:VEVENT
 UID:a6b34dc5d71c@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261123T220000Z
 DTEND:20261123T230000Z
 SUMMARY:Joint Legislative-Executive Committee on Budget Transparency and Fiscal Sustainability (Washington State Legislature)
@@ -58,7 +58,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34306
 END:VEVENT
 BEGIN:VEVENT
 UID:e7fd70bad40f@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261202T180000Z
 DTEND:20261202T190000Z
 SUMMARY:JLARC - Joint Legislative Audit & Review Committee (Washington State Legislature)
@@ -67,7 +67,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/33489
 END:VEVENT
 BEGIN:VEVENT
 UID:7b8074cbe788@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261202T210000Z
 DTEND:20261202T220000Z
 SUMMARY:Committee to Hear SAO Performance Audits (Washington State Legislature)
@@ -76,7 +76,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/33501
 END:VEVENT
 BEGIN:VEVENT
 UID:545a8a058976@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261204T180000Z
 DTEND:20261204T190000Z
 SUMMARY:Joint Legislative Committee on Water Supply During Drought (Washington State Legislature)
@@ -85,7 +85,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34311
 END:VEVENT
 BEGIN:VEVENT
 UID:18ab57b5a618@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261207T173000Z
 DTEND:20261207T183000Z
 SUMMARY:Joint Legislative-Executive Committee on Budget Transparency and Fiscal Sustainability (Washington State Legislature)
@@ -94,7 +94,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34327
 END:VEVENT
 BEGIN:VEVENT
 UID:8e7bda61e949@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261207T183000Z
 DTEND:20261207T193000Z
 SUMMARY:Senate Higher Education & Workforce Development (Washington State Legislature)
@@ -103,7 +103,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34277
 END:VEVENT
 BEGIN:VEVENT
 UID:5e26f4576885@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261207T183000Z
 DTEND:20261207T193000Z
 SUMMARY:Senate Labor & Commerce (Washington State Legislature)
@@ -112,7 +112,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34279
 END:VEVENT
 BEGIN:VEVENT
 UID:3e9f01cfa65a@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261207T183000Z
 DTEND:20261207T193000Z
 SUMMARY:Senate Law & Justice (Washington State Legislature)
@@ -121,7 +121,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34275
 END:VEVENT
 BEGIN:VEVENT
 UID:ed53fe13a1b2@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261207T213000Z
 DTEND:20261207T223000Z
 SUMMARY:Senate Agriculture & Natural Resources (Washington State Legislature)
@@ -130,7 +130,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34318
 END:VEVENT
 BEGIN:VEVENT
 UID:013d3724a85c@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261207T213000Z
 DTEND:20261207T223000Z
 SUMMARY:Senate Human Services (Washington State Legislature)
@@ -139,7 +139,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34300
 END:VEVENT
 BEGIN:VEVENT
 UID:87f45a00c2a3@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261207T213000Z
 DTEND:20261207T223000Z
 SUMMARY:Senate Local Government (Washington State Legislature)
@@ -148,7 +148,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34315
 END:VEVENT
 BEGIN:VEVENT
 UID:0cee93206a69@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261208T000000Z
 DTEND:20261208T010000Z
 SUMMARY:Senate Transportation (Washington State Legislature)
@@ -157,7 +157,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34282
 END:VEVENT
 BEGIN:VEVENT
 UID:9fc5b1424a28@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261208T000000Z
 DTEND:20261208T010000Z
 SUMMARY:Senate Ways & Means (Washington State Legislature)
@@ -166,7 +166,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34305
 END:VEVENT
 BEGIN:VEVENT
 UID:fbbb43eea845@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261208T160000Z
 DTEND:20261208T170000Z
 SUMMARY:Senate Early Learning & K-12 Education (Washington State Legislature)
@@ -175,7 +175,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34301
 END:VEVENT
 BEGIN:VEVENT
 UID:c053b4c0f387@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261208T160000Z
 DTEND:20261208T170000Z
 SUMMARY:Senate Housing (Washington State Legislature)
@@ -184,7 +184,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34294
 END:VEVENT
 BEGIN:VEVENT
 UID:dfb67f88aea1@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261208T183000Z
 DTEND:20261208T193000Z
 SUMMARY:Senate Business\, Trade & Economic Development (Washington State Legislature)
@@ -193,7 +193,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34272
 END:VEVENT
 BEGIN:VEVENT
 UID:9d39a3fbb995@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261208T183000Z
 DTEND:20261208T193000Z
 SUMMARY:Senate Health & Long-Term Care (Washington State Legislature)
@@ -202,7 +202,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34316
 END:VEVENT
 BEGIN:VEVENT
 UID:93d5c112a912@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261208T213000Z
 DTEND:20261208T223000Z
 SUMMARY:Senate Environment\, Energy & Technology (Washington State Legislature)
@@ -211,7 +211,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34314
 END:VEVENT
 BEGIN:VEVENT
 UID:375f3b2b1eb7@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261208T213000Z
 DTEND:20261208T223000Z
 SUMMARY:Senate State Government\, Tribal Affairs & Elections (Washington State Legislature)
@@ -220,7 +220,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34274
 END:VEVENT
 BEGIN:VEVENT
 UID:737d0183af02@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261209T170000Z
 DTEND:20261209T180000Z
 SUMMARY:Joint Committee on Veterans' & Military Affairs (Washington State Legislature)
@@ -229,7 +229,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34313
 END:VEVENT
 BEGIN:VEVENT
 UID:679b54ba2428@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261209T170000Z
 DTEND:20261209T180000Z
 SUMMARY:CANCELLED: Joint Transportation Committee (Washington State Legislature)
@@ -238,7 +238,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34187
 END:VEVENT
 BEGIN:VEVENT
 UID:b49f1800ba7d@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261210T160000Z
 DTEND:20261210T170000Z
 SUMMARY:House Community Safety (Washington State Legislature)
@@ -247,7 +247,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34283
 END:VEVENT
 BEGIN:VEVENT
 UID:f436e96ed8ba@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261210T160000Z
 DTEND:20261210T170000Z
 SUMMARY:House Education (Washington State Legislature)
@@ -256,7 +256,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34268
 END:VEVENT
 BEGIN:VEVENT
 UID:13302a365db4@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261210T160000Z
 DTEND:20261210T170000Z
 SUMMARY:House Environment & Energy (Washington State Legislature)
@@ -265,7 +265,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34280
 END:VEVENT
 BEGIN:VEVENT
 UID:23266e036afb@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261210T160000Z
 DTEND:20261210T170000Z
 SUMMARY:House Housing (Washington State Legislature)
@@ -274,7 +274,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34286
 END:VEVENT
 BEGIN:VEVENT
 UID:6b076fbf2f41@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261210T213000Z
 DTEND:20261210T223000Z
 SUMMARY:House Capital Budget (Washington State Legislature)
@@ -283,7 +283,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34297
 END:VEVENT
 BEGIN:VEVENT
 UID:4bc3ca193178@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261210T213000Z
 DTEND:20261210T223000Z
 SUMMARY:House Finance (Washington State Legislature)
@@ -292,7 +292,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34270
 END:VEVENT
 BEGIN:VEVENT
 UID:4dcb608583a7@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261211T000000Z
 DTEND:20261211T010000Z
 SUMMARY:House Appropriations (Washington State Legislature)
@@ -301,7 +301,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34269
 END:VEVENT
 BEGIN:VEVENT
 UID:44c9a7456eb4@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261211T000000Z
 DTEND:20261211T010000Z
 SUMMARY:House Transportation (Washington State Legislature)
@@ -310,7 +310,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34295
 END:VEVENT
 BEGIN:VEVENT
 UID:3b620211f2df@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261211T160000Z
 DTEND:20261211T170000Z
 SUMMARY:House Consumer Protection & Business (Washington State Legislature)
@@ -319,7 +319,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34302
 END:VEVENT
 BEGIN:VEVENT
 UID:1d0d041dda92@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261211T160000Z
 DTEND:20261211T170000Z
 SUMMARY:House Early Learning & Human Services (Washington State Legislature)
@@ -328,7 +328,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34299
 END:VEVENT
 BEGIN:VEVENT
 UID:8b6175ebddf2@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261211T160000Z
 DTEND:20261211T170000Z
 SUMMARY:House Health Care & Wellness (Washington State Legislature)
@@ -337,7 +337,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34285
 END:VEVENT
 BEGIN:VEVENT
 UID:85823b131738@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261211T160000Z
 DTEND:20261211T170000Z
 SUMMARY:House Postsecondary Education & Workforce (Washington State Legislature)
@@ -346,7 +346,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34304
 END:VEVENT
 BEGIN:VEVENT
 UID:406d168ac646@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261211T160000Z
 DTEND:20261211T170000Z
 SUMMARY:House State Government & Tribal Relations (Washington State Legislature)
@@ -355,7 +355,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34321
 END:VEVENT
 BEGIN:VEVENT
 UID:b2baa26863d1@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261211T183000Z
 DTEND:20261211T193000Z
 SUMMARY:House Agriculture & Natural Resources (Washington State Legislature)
@@ -364,7 +364,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34281
 END:VEVENT
 BEGIN:VEVENT
 UID:cd82918a46bc@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261211T183000Z
 DTEND:20261211T193000Z
 SUMMARY:House Civil Rights & Judiciary (Washington State Legislature)
@@ -373,7 +373,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34292
 END:VEVENT
 BEGIN:VEVENT
 UID:2a565a27152d@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261211T183000Z
 DTEND:20261211T193000Z
 SUMMARY:House Labor & Workplace Standards (Washington State Legislature)
@@ -382,7 +382,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34278
 END:VEVENT
 BEGIN:VEVENT
 UID:6c3d893f7c00@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261211T183000Z
 DTEND:20261211T193000Z
 SUMMARY:House Local Government (Washington State Legislature)
@@ -391,7 +391,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34289
 END:VEVENT
 BEGIN:VEVENT
 UID:607126a3442c@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261211T183000Z
 DTEND:20261211T193000Z
 SUMMARY:House Technology\, Economic Development\, & Veterans (Washington State Legislature)
@@ -400,7 +400,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34273
 END:VEVENT
 BEGIN:VEVENT
 UID:62d1d2e75e2c@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261215T180000Z
 DTEND:20261215T190000Z
 SUMMARY:Select Committee on Pension Policy (Washington State Legislature)
@@ -409,7 +409,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34145
 END:VEVENT
 BEGIN:VEVENT
 UID:838b079e381f@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261217T220000Z
 DTEND:20261217T230000Z
 SUMMARY:Joint Higher Education Committee (Washington State Legislature)
@@ -418,7 +418,7 @@ URL:https://app.leg.wa.gov/committeeschedules/Home/Agenda/34325
 END:VEVENT
 BEGIN:VEVENT
 UID:7bc6603e71f1@civicswa
-DTSTAMP:20261111T230143Z
+DTSTAMP:20261112T005412Z
 DTSTART:20261218T210000Z
 DTEND:20261218T220000Z
 SUMMARY:Joint Committee on Employment Relations (Washington State Legislature)

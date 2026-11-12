@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T15:01:43-08:00",
+ "generated": "2026-11-11T16:54:12-08:00",
  "events": [
   {
    "id": "4f1b81a92f98",
@@ -917,23 +917,6 @@
    "agenda_url": "",
    "note": "",
    "cancelled": true
-  },
-  {
-   "id": "e62297a60872",
-   "title": "Darrington Town Council Meeting",
-   "host": "Town of Darrington",
-   "source": "darrington",
-   "area": "Darrington",
-   "county": "Snohomish",
-   "category": "council",
-   "start": "2026-11-12T11:00:00-08:00",
-   "end": "2026-11-12T11:00:00-08:00",
-   "all_day": false,
-   "location": "Town Hall, 1005 Cascade St., Darrington, WA, 98241",
-   "url": "https://townofdarrington.com/event/darrington-town-council-meeting-5/",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
   },
   {
    "id": "ecef6979697a",
@@ -8990,7 +8973,7 @@
    "cancelled": false
   },
   {
-   "id": "38ba460b13b1",
+   "id": "61529aae6727",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -9007,7 +8990,7 @@
    "cancelled": false
   },
   {
-   "id": "61529aae6727",
+   "id": "afcc882036e3",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -25383,7 +25366,7 @@
    "cancelled": false
   },
   {
-   "id": "3d751c3809dc",
+   "id": "38f5ac6725c0",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -25400,7 +25383,7 @@
    "cancelled": false
   },
   {
-   "id": "38f5ac6725c0",
+   "id": "13e6504958fd",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
