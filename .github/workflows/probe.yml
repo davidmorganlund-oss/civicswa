@@ -5,6 +5,9 @@ on:
       list:
         description: TSV of name, county, homepage
         default: tools/cities.tsv
+permissions:
+  contents: read
+
 jobs:
   probe:
     runs-on: ubuntu-latest

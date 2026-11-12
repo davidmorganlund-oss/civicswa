@@ -5,6 +5,9 @@ on:
       file:
         description: YAML with a sources list
         default: tools/candidates.yml
+permissions:
+  contents: read
+
 jobs:
   trial:
     runs-on: ubuntu-latest

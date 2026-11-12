@@ -59,7 +59,8 @@ DATE_IN_TITLE = re.compile(
 
 def make_event(src, *, title, start, end=None, all_day=False, location="", url="",
                agenda_url="", note="", uid="", category="", area="", cancelled=False):
-    key = f"{src['id']}|{uid or title}|{start.isoformat()}"
+    # A stable ID for the event (not a security use; the same inputs must give the same ID).
+    fingerprint = f"{src['id']}|{uid or title}|{start.isoformat()}"
     cancelled = cancelled or is_cancelled(title, note)
     # Hosts often prefix the title ("Canceled: Board Work Session"); the site
     # shows its own Cancelled tag, so drop the prefix.
@@ -73,7 +74,7 @@ def make_event(src, *, title, start, end=None, all_day=False, location="", url="
     location = re.sub(r"<[^>]+>", " ", location or "")
     location = re.sub(r"^[\s\-–,]+|[\s\-–,]+$", "", " ".join(location.split()))
     return {
-        "id": hashlib.sha1(key.encode()).hexdigest()[:12],
+        "id": hashlib.sha1(fingerprint.encode(), usedforsecurity=False).hexdigest()[:12],
         "title": " ".join(html_unescape(title or "").split()),
         "host": src["name"],
         "source": src["id"],
