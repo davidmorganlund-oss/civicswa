@@ -73,7 +73,7 @@ def make_event(src, *, title, start, end=None, all_day=False, location="", url="
     location = re.sub(r"<[^>]+>", " ", location or "")
     location = re.sub(r"^[\s\-–,]+|[\s\-–,]+$", "", " ".join(location.split()))
     return {
-        "id": hashlib.sha1(key.encode()).hexdigest()[:12],
+        "id": hashlib.sha256(key.encode()).hexdigest()[:12],
         "title": " ".join(html_unescape(title or "").split()),
         "host": src["name"],
         "source": src["id"],
