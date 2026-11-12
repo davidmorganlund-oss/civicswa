@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Thurston County
 BEGIN:VEVENT
-UID:86c8fac0437a@civicswa
-DTSTAMP:20261112T005412Z
+UID:241e6dfd6b8f@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261112T020000Z
 DTEND:20261112T030000Z
 SUMMARY:Planning Commission Meeting (City of Lacey)
@@ -12,8 +12,8 @@ LOCATION:
 URL:https://laceywa.portal.civicclerk.com/event/1485/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:63f43b9cd933@civicswa
-DTSTAMP:20261112T005412Z
+UID:d694748e75b4@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261112T190000Z
 DTEND:20261112T200000Z
 SUMMARY:CANCELLED: LEOFF 1 (City of Tumwater)
@@ -21,8 +21,8 @@ LOCATION:
 URL:https://www.ci.tumwater.wa.us/Home/Components/Calendar/Event/9572/
 END:VEVENT
 BEGIN:VEVENT
-UID:be51309a3931@civicswa
-DTSTAMP:20261112T005412Z
+UID:a81dd8bfa548@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261113T003000Z
 DTEND:20261113T013000Z
 SUMMARY:TRL Board of Trustees Special Meeting - Budget Committee (Timberland Regional Library)
@@ -30,8 +30,8 @@ LOCATION:Online
 URL:https://timberland.bibliocommons.com/events/694360296f926136000b80e6
 END:VEVENT
 BEGIN:VEVENT
-UID:f4fa7c12f313@civicswa
-DTSTAMP:20261112T005412Z
+UID:6396568e19a6@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261113T010000Z
 DTEND:20261113T020000Z
 SUMMARY:School Board Executive Session & Regular Meeting (Tumwater School District)
@@ -39,8 +39,8 @@ LOCATION:District Office and YouTube
 URL:https://tumwaterk12.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=126
 END:VEVENT
 BEGIN:VEVENT
-UID:fac94ac1d0e3@civicswa
-DTSTAMP:20261112T005412Z
+UID:97885599e1c5@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261113T013000Z
 DTEND:20261113T023000Z
 SUMMARY:Heritage Commission (City of Olympia)
@@ -48,8 +48,8 @@ LOCATION:Room 207
 URL:https://olympia.legistar.com/MeetingDetail.aspx?LEGID=7304&GID=218&G=19510D34-31FB-48B8-9C02-4D026953451C
 END:VEVENT
 BEGIN:VEVENT
-UID:1e27eb528697@civicswa
-DTSTAMP:20261112T005412Z
+UID:6e1438968d53@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261113T013000Z
 DTEND:20261113T023000Z
 SUMMARY:Civil Service Commission (City of Tumwater)
@@ -57,8 +57,8 @@ LOCATION:
 URL:https://www.ci.tumwater.wa.us/Home/Components/Calendar/Event/9547/
 END:VEVENT
 BEGIN:VEVENT
-UID:424a9f62300f@civicswa
-DTSTAMP:20261112T005412Z
+UID:a559a11bbded@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261113T020000Z
 DTEND:20261113T030000Z
 SUMMARY:Arts Commission (City of Olympia)
@@ -66,8 +66,8 @@ LOCATION:Room 112
 URL:https://olympia.legistar.com/MeetingDetail.aspx?LEGID=7305&GID=218&G=19510D34-31FB-48B8-9C02-4D026953451C
 END:VEVENT
 BEGIN:VEVENT
-UID:801e76a00488@civicswa
-DTSTAMP:20261112T005412Z
+UID:9937f0b35c48@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261113T023000Z
 DTEND:20261113T033000Z
 SUMMARY:CANCELLED: School Board Regular Meeting (Olympia School District)
@@ -75,8 +75,8 @@ LOCATION:Knox 111 Administrative Center Boardroom\, 111 Bethel St. NE\, Olympia
 URL:https://www.osd.wednet.edu/board-meeting-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:8f772ffa6519@civicswa
-DTSTAMP:20261112T005412Z
+UID:f8ec91231c3a@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261117T000000Z
 DTEND:20261117T010000Z
 SUMMARY:Commission Work Session (Port of Olympia)
@@ -84,8 +84,8 @@ LOCATION:Percival Plaza\, Olympics Room\, 626 Columbia St NW\, Suite 1-B\, Olymp
 URL:https://portolympia.com/events/november-16-2026-commission-work-session-400-pm/
 END:VEVENT
 BEGIN:VEVENT
-UID:2cd81156f95e@civicswa
-DTSTAMP:20261112T005412Z
+UID:9ce8674028ee@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261117T023000Z
 DTEND:20261117T033000Z
 SUMMARY:Planning Commission (City of Olympia)
@@ -93,8 +93,8 @@ LOCATION:Online Only
 URL:https://olympia.legistar.com/MeetingDetail.aspx?LEGID=7068&GID=218&G=19510D34-31FB-48B8-9C02-4D026953451C
 END:VEVENT
 BEGIN:VEVENT
-UID:a342e5bd1bef@civicswa
-DTSTAMP:20261112T005412Z
+UID:7d69665d2af2@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261117T170000Z
 DTEND:20261117T190000Z
 SUMMARY:CANCELLED: Board Work Session (Thurston County)
@@ -102,8 +102,8 @@ LOCATION:
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:71a6aa7a03d8@civicswa
-DTSTAMP:20261112T005412Z
+UID:9722c1707b2e@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261118T000000Z
 DTEND:20261118T010000Z
 SUMMARY:Port of Olympia Community Advisory Committee Meeting (Port of Olympia)
@@ -111,8 +111,8 @@ LOCATION:Percival Plaza\, Olympics Room\, 626 Columbia St NW\, Suite 1-B\, Olymp
 URL:https://portolympia.com/events/november-17-2026-port-of-olympia-community-advisory-committee-meeting-400-pm/
 END:VEVENT
 BEGIN:VEVENT
-UID:0834dd03b458@civicswa
-DTSTAMP:20261112T005412Z
+UID:c65e6a7b117b@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261118T010000Z
 DTEND:20261118T075900Z
 SUMMARY:Planning Commission Meeting (City of Rainier)
@@ -120,8 +120,8 @@ LOCATION:Rainier City Hall - 102 Rochester Street Rainier WA 98576
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
-UID:06ed042b694e@civicswa
-DTSTAMP:20261112T005412Z
+UID:aa3102504d0f@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261118T013000Z
 DTEND:20261118T030000Z
 SUMMARY:Tumwater Metropolitan Park District (City of Tumwater)
@@ -129,8 +129,8 @@ LOCATION:
 URL:https://www.ci.tumwater.wa.us/Home/Components/Calendar/Event/10507/
 END:VEVENT
 BEGIN:VEVENT
-UID:5506d33230d6@civicswa
-DTSTAMP:20261112T005412Z
+UID:8ee4be1e3c59@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261118T020000Z
 DTEND:20261118T030000Z
 SUMMARY:City Council Meeting (City of Lacey)
@@ -138,8 +138,8 @@ LOCATION:Lacey City Hall Council Chambers
 URL:https://laceywa.portal.civicclerk.com/event/1394/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:937aa47a5d3e@civicswa
-DTSTAMP:20261112T005412Z
+UID:b6c93e7ca9ed@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261118T020000Z
 DTEND:20261118T040000Z
 SUMMARY:Board Meeting @ Nisqually Middle School (North Thurston Public Schools)
@@ -147,8 +147,8 @@ LOCATION:Nisqually Middle School\, 8100 Steilacoom Rd SE
 URL:https://www.ntps.org/about/school-board/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:6fb6f95023fc@civicswa
-DTSTAMP:20261112T005412Z
+UID:7fb5a13e0331@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261118T030000Z
 DTEND:20261118T060000Z
 SUMMARY:City Council (City of Tumwater)
@@ -156,8 +156,8 @@ LOCATION:
 URL:https://www.ci.tumwater.wa.us/Home/Components/Calendar/Event/9923/
 END:VEVENT
 BEGIN:VEVENT
-UID:0775d0e29aed@civicswa
-DTSTAMP:20261112T005412Z
+UID:3082ce356bf2@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261118T170000Z
 DTEND:20261118T200000Z
 SUMMARY:CANCELLED: Board Work Session (Thurston County)
@@ -165,8 +165,8 @@ LOCATION:
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:25978dd6f9cb@civicswa
-DTSTAMP:20261112T005412Z
+UID:9a1010fa61aa@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261118T190000Z
 DTEND:20261118T203000Z
 SUMMARY:General Government Committee (City of Tumwater)
@@ -174,8 +174,8 @@ LOCATION:
 URL:https://www.ci.tumwater.wa.us/Home/Components/Calendar/Event/10331/
 END:VEVENT
 BEGIN:VEVENT
-UID:f03c12d318df@civicswa
-DTSTAMP:20261112T005412Z
+UID:cbfad5c105d3@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261118T213000Z
 DTEND:20261118T223000Z
 SUMMARY:CANCELLED: Board Work Session (Placeholder) (Thurston County)
@@ -183,8 +183,8 @@ LOCATION:
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:6c3dfda4d901@civicswa
-DTSTAMP:20261112T005412Z
+UID:3c02487dada5@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261119T003000Z
 DTEND:20261119T010000Z
 SUMMARY:Budget Hearing (Timberland Regional Library)
@@ -192,8 +192,8 @@ LOCATION:Online
 URL:https://timberland.bibliocommons.com/events/694360176f926136000b80d9
 END:VEVENT
 BEGIN:VEVENT
-UID:c81774357f72@civicswa
-DTSTAMP:20261112T005412Z
+UID:fd6651f50e0f@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261119T013000Z
 DTEND:20261119T033000Z
 SUMMARY:TRL Board of Trustees Meeting (Timberland Regional Library)
@@ -201,8 +201,8 @@ LOCATION:Online
 URL:https://timberland.bibliocommons.com/events/6943602b6f926136000b80ee
 END:VEVENT
 BEGIN:VEVENT
-UID:2a176a325685@civicswa
-DTSTAMP:20261112T005412Z
+UID:81f04862edb3@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261119T020000Z
 DTEND:20261119T030000Z
 SUMMARY:Historical Commission Meeting (City of Lacey)
@@ -210,8 +210,8 @@ LOCATION:Lacey City Hall Executive Board Room
 URL:https://laceywa.portal.civicclerk.com/event/1459/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:2561be40f88a@civicswa
-DTSTAMP:20261112T005412Z
+UID:e8df4803908a@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261119T020000Z
 DTEND:20261119T030000Z
 SUMMARY:RSD Board Meeting (Rainier School District)
@@ -219,8 +219,8 @@ LOCATION:Rainier School District Administration\, 207 Centre St S\, Rainier\, WA
 URL:https://www.rainier.education/
 END:VEVENT
 BEGIN:VEVENT
-UID:5ad24184b305@civicswa
-DTSTAMP:20261112T005412Z
+UID:8b43206d30b6@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261124T000000Z
 DTEND:20261124T010000Z
 SUMMARY:Commission Meeting (Port of Olympia)
@@ -228,8 +228,8 @@ LOCATION:
 URL:https://portolympia.com/events/november-23-2026-commission-meeting-400-pm/
 END:VEVENT
 BEGIN:VEVENT
-UID:185288a89dea@civicswa
-DTSTAMP:20261112T005412Z
+UID:56824b33e73c@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261124T013000Z
 DTEND:20261124T023000Z
 SUMMARY:Commission on Equity Meeting (City of Lacey)
@@ -237,8 +237,8 @@ LOCATION:Lacey City Hall Executive Board Room
 URL:https://laceywa.portal.civicclerk.com/event/1420/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:e8811dffb67a@civicswa
-DTSTAMP:20261112T005412Z
+UID:8051ab985e9e@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261124T013000Z
 DTEND:20261124T023000Z
 SUMMARY:Hearing Examiner (City of Olympia)
@@ -246,8 +246,8 @@ LOCATION:Hybrid - Virtual Via Zoom & Room 207
 URL:https://olympia.legistar.com/MeetingDetail.aspx?LEGID=6988&GID=218&G=19510D34-31FB-48B8-9C02-4D026953451C
 END:VEVENT
 BEGIN:VEVENT
-UID:7af7bcfa2225@civicswa
-DTSTAMP:20261112T005412Z
+UID:760b432d5611@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261124T170000Z
 DTEND:20261124T190000Z
 SUMMARY:Board Work Session (Thurston County)
@@ -255,8 +255,8 @@ LOCATION:ATR_Board_Rm_110
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:0f89ebf91aea@civicswa
-DTSTAMP:20261112T005412Z
+UID:ed3b4e531582@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261124T220000Z
 DTEND:20261125T010000Z
 SUMMARY:BoCC Business Meeting & Public Hearings (Thurston County)
@@ -264,8 +264,8 @@ LOCATION:ATR_Board_Rm_110
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:bea942c689e9@civicswa
-DTSTAMP:20261112T005412Z
+UID:371a037dd3bc@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261125T000000Z
 DTEND:20261125T010000Z
 SUMMARY:Transportation Benefit District Meeting (Thurston County)
@@ -273,8 +273,8 @@ LOCATION:ATR_Board_Rm_110
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:733ccc921af8@civicswa
-DTSTAMP:20261112T005412Z
+UID:a31618e02456@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261125T010000Z
 DTEND:20261125T075900Z
 SUMMARY:City Council Public Hearing on 2027 Preliminary Budget (City of Rainier)
@@ -282,8 +282,8 @@ LOCATION:Rainier City Hall - Rainier WA 98576
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
 END:VEVENT
 BEGIN:VEVENT
-UID:1d830e63245a@civicswa
-DTSTAMP:20261112T005412Z
+UID:126afa57aa70@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261125T020000Z
 DTEND:20261125T030000Z
 SUMMARY:City Council Worksession (City of Lacey)
@@ -291,8 +291,8 @@ LOCATION:Lacey City Hall Council Chambers
 URL:https://laceywa.portal.civicclerk.com/event/1407/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:089561d2dac6@civicswa
-DTSTAMP:20261112T005412Z
+UID:844c9ec3fdf3@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261125T170000Z
 DTEND:20261125T200000Z
 SUMMARY:Board Work Session (Thurston County)
@@ -300,8 +300,8 @@ LOCATION:ATR_Board_Rm_110
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:07ff8dbd9155@civicswa
-DTSTAMP:20261112T005412Z
+UID:85d750e879c4@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261126T020000Z
 DTEND:20261126T030000Z
 SUMMARY:Planning Commission Meeting (City of Lacey)
@@ -309,8 +309,8 @@ LOCATION:Lacey City Hall Council Chambers
 URL:https://laceywa.portal.civicclerk.com/event/1498/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:ec8df6a7640c@civicswa
-DTSTAMP:20261112T005412Z
+UID:6e2b5d273bce@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261201T170000Z
 DTEND:20261201T190000Z
 SUMMARY:Board Work Session (Thurston County)
@@ -318,8 +318,8 @@ LOCATION:ATR_Board_Rm_110
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:6a34febc1308@civicswa
-DTSTAMP:20261112T005412Z
+UID:4d1d5d1678df@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261201T220000Z
 DTEND:20261202T010000Z
 SUMMARY:BoCC Business Meeting & Public Hearings (Thurston County)
@@ -327,8 +327,8 @@ LOCATION:ATR_Board_Rm_110
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:32c012f1ccd8@civicswa
-DTSTAMP:20261112T005412Z
+UID:1ec50da7c075@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261202T003000Z
 DTEND:20261202T013000Z
 SUMMARY:City Council Informational Dinner Meeting (City of Lacey)
@@ -336,8 +336,8 @@ LOCATION:420 College Street SE\, Lacey
 URL:https://laceywa.portal.civicclerk.com/event/1318/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:ee4eb30253be@civicswa
-DTSTAMP:20261112T005412Z
+UID:5ab8f90b9348@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261202T003000Z
 DTEND:20261202T013000Z
 SUMMARY:City Council Informational Dinner Meeting (City of Lacey)
@@ -345,8 +345,8 @@ LOCATION:Lacey City Hall\, Community Room
 URL:https://laceywa.portal.civicclerk.com/event/1567/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:96560d92174a@civicswa
-DTSTAMP:20261112T005412Z
+UID:ecd7f41e2d0b@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261202T020000Z
 DTEND:20261202T030000Z
 SUMMARY:City Council Meeting (City of Lacey)
@@ -354,8 +354,8 @@ LOCATION:Lacey City Hall Council Chambers
 URL:https://laceywa.portal.civicclerk.com/event/1369/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:b7672580533f@civicswa
-DTSTAMP:20261112T005412Z
+UID:96749588b714@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261202T020000Z
 DTEND:20261202T030000Z
 SUMMARY:City Council Meeting (City of Lacey)
@@ -363,8 +363,8 @@ LOCATION:Lacey City Hall Council Chambers
 URL:https://laceywa.portal.civicclerk.com/event/1569/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:771984a7afb6@civicswa
-DTSTAMP:20261112T005412Z
+UID:882ac2c68fa8@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261202T180000Z
 DTEND:20261202T200000Z
 SUMMARY:Board Work Session (Thurston County)
@@ -372,8 +372,8 @@ LOCATION:ATR_Board_Rm_110
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:8d345806669d@civicswa
-DTSTAMP:20261112T005412Z
+UID:41351af1d2fb@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261202T213000Z
 DTEND:20261202T223000Z
 SUMMARY:Board Work Session (Placeholder) (Thurston County)
@@ -381,8 +381,8 @@ LOCATION:ATR_Board_Rm_110
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:53c8cc6809c9@civicswa
-DTSTAMP:20261112T005412Z
+UID:8c17796d3cfe@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261203T013000Z
 DTEND:20261203T023000Z
 SUMMARY:Parks\, Culture and Recreation Board Meeting (City of Lacey)
@@ -390,8 +390,8 @@ LOCATION:Lacey City Hall Council Chambers
 URL:https://laceywa.portal.civicclerk.com/event/1434/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:b5d7a6d29aff@civicswa
-DTSTAMP:20261112T005412Z
+UID:d051aa1d85e9@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261204T013000Z
 DTEND:20261204T023000Z
 SUMMARY:Human Services Commission (City of Lacey)
@@ -399,8 +399,8 @@ LOCATION:Lacey City Hall Council Chambers
 URL:https://laceywa.portal.civicclerk.com/event/1357/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:8e1ff40e3e54@civicswa
-DTSTAMP:20261112T005412Z
+UID:63588256c7f5@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261207T180000Z
 DTEND:20261207T220000Z
 SUMMARY:Public Hearing: 2026-2027 Midterm: Revenue and Budget (Thurston County)
@@ -408,8 +408,8 @@ LOCATION:ATR_Board_Rm_110
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:abf405751547@civicswa
-DTSTAMP:20261112T005412Z
+UID:d6146c198c58@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261208T170000Z
 DTEND:20261208T190000Z
 SUMMARY:Board Work Session (Thurston County)
@@ -417,8 +417,8 @@ LOCATION:ATR_Board_Rm_110
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:db4b1b88aebe@civicswa
-DTSTAMP:20261112T005412Z
+UID:11301674c739@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261208T210000Z
 DTEND:20261208T230000Z
 SUMMARY:Friends of the Library Meeting (Timberland Regional Library)
@@ -426,8 +426,8 @@ LOCATION:Olympia Timberland Library\, 313 8th Avenue SE\, Olympia
 URL:https://timberland.bibliocommons.com/events/69b1c23e4a9fd98b7f839a81
 END:VEVENT
 BEGIN:VEVENT
-UID:99eea35c503a@civicswa
-DTSTAMP:20261112T005412Z
+UID:695726223976@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261208T234500Z
 DTEND:20261209T011500Z
 SUMMARY:BoH Meeting & Public Hearings (Thurston County)
@@ -435,8 +435,8 @@ LOCATION:ATR_Board_Rm_110
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:b588d1c4c58e@civicswa
-DTSTAMP:20261112T005412Z
+UID:a88965fea092@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261209T000000Z
 DTEND:20261209T010000Z
 SUMMARY:Friends of the Yelm Library Meeting (Timberland Regional Library)
@@ -444,8 +444,8 @@ LOCATION:Yelm Timberland Library\, 210 Prairie Park Street\, Yelm
 URL:https://timberland.bibliocommons.com/events/6966a8a376261f2800642ee4
 END:VEVENT
 BEGIN:VEVENT
-UID:04c4e5ddd708@civicswa
-DTSTAMP:20261112T005412Z
+UID:6840b442d3e1@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261209T010000Z
 DTEND:20261209T075900Z
 SUMMARY:City Council Meeting (City of Rainier)
@@ -453,8 +453,8 @@ LOCATION:Rainier WA 98576
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
 END:VEVENT
 BEGIN:VEVENT
-UID:e868d7913b35@civicswa
-DTSTAMP:20261112T005412Z
+UID:fa081fe7fb10@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:City Council Worksession (City of Lacey)
@@ -462,8 +462,8 @@ LOCATION:Lacey City Hall Council Chambers
 URL:https://laceywa.portal.civicclerk.com/event/1382/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:5e3517f1a243@civicswa
-DTSTAMP:20261112T005412Z
+UID:be6234316850@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261209T020000Z
 DTEND:20261209T040000Z
 SUMMARY:Board Meeting @ Seven Oaks Elementary (North Thurston Public Schools)
@@ -471,8 +471,8 @@ LOCATION:Seven Oaks Elementary\, 1800 Seven Oaks St SE
 URL:https://www.ntps.org/about/school-board/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:fbf9e8067e33@civicswa
-DTSTAMP:20261112T005412Z
+UID:7c9a92d52e42@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261209T180000Z
 DTEND:20261209T200000Z
 SUMMARY:Board Work Session (Placeholder) (Thurston County)
@@ -480,8 +480,8 @@ LOCATION:ATR_Board_Rm_110
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:73cdceb4d077@civicswa
-DTSTAMP:20261112T005412Z
+UID:9cd019eacace@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261209T213000Z
 DTEND:20261209T223000Z
 SUMMARY:Board Work Session (Thurston County)
@@ -489,8 +489,8 @@ LOCATION:ATR_Board_Rm_110
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:a26e0b5ed917@civicswa
-DTSTAMP:20261112T005412Z
+UID:91a3e29dc374@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261210T020000Z
 DTEND:20261210T030000Z
 SUMMARY:Planning Commission Meeting (City of Lacey)
@@ -498,8 +498,8 @@ LOCATION:Lacey City Hall Council Chambers
 URL:https://laceywa.portal.civicclerk.com/event/1486/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:cb805511aec5@civicswa
-DTSTAMP:20261112T005412Z
+UID:c83f3aabe47d@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261211T003000Z
 DTEND:20261211T013000Z
 SUMMARY:TRL Board of Trustees Facilities Committee (Timberland Regional Library)
@@ -507,8 +507,8 @@ LOCATION:Online
 URL:https://timberland.bibliocommons.com/events/694360276f926136000b80e2
 END:VEVENT
 BEGIN:VEVENT
-UID:1fbf475dd05b@civicswa
-DTSTAMP:20261112T005412Z
+UID:9d3e3d7f3630@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261211T023000Z
 DTEND:20261211T033000Z
 SUMMARY:CANCELLED: School Board Regular Meeting (Olympia School District)
@@ -516,8 +516,8 @@ LOCATION:Knox 111 Administrative Center Boardroom\, 111 Bethel St. NE\, Olympia
 URL:https://www.osd.wednet.edu/board-meeting-schedule
 END:VEVENT
 BEGIN:VEVENT
-UID:55eb4d9b26bc@civicswa
-DTSTAMP:20261112T005412Z
+UID:bbbb6fcffe1d@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261215T000000Z
 DTEND:20261215T010000Z
 SUMMARY:Commission Meeting (Port of Olympia)
@@ -525,8 +525,8 @@ LOCATION:
 URL:https://portolympia.com/events/december-14-2026-commission-meeting-400-pm/
 END:VEVENT
 BEGIN:VEVENT
-UID:4c9235cd9fd1@civicswa
-DTSTAMP:20261112T005412Z
+UID:52ba1234de43@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261215T013000Z
 DTEND:20261215T023000Z
 SUMMARY:Joint Animal Services Commission (City of Lacey)
@@ -534,8 +534,8 @@ LOCATION:Lacey City Hall Council Chambers
 URL:https://laceywa.portal.civicclerk.com/event/1519/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:33463ebc6a71@civicswa
-DTSTAMP:20261112T005412Z
+UID:8f033a76e029@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261215T170000Z
 DTEND:20261215T190000Z
 SUMMARY:Board Work Session (Thurston County)
@@ -543,8 +543,8 @@ LOCATION:ATR_Board_Rm_110
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:2a2f12505c40@civicswa
-DTSTAMP:20261112T005412Z
+UID:6fbaab0f664c@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261216T000000Z
 DTEND:20261216T010000Z
 SUMMARY:CANCELLED: Transportation Benefit District Meeting (Thurston County)
@@ -552,8 +552,8 @@ LOCATION:
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:969255bae985@civicswa
-DTSTAMP:20261112T005412Z
+UID:82c0919021c5@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261216T010000Z
 DTEND:20261216T075900Z
 SUMMARY:Planning Commission Meeting (City of Rainier)
@@ -561,8 +561,8 @@ LOCATION:Rainier City Hall - 102 Rochester Street Rainier WA 98576
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
-UID:0d444e41f74c@civicswa
-DTSTAMP:20261112T005412Z
+UID:7d291550567c@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:City Council Meeting (City of Lacey)
@@ -570,8 +570,8 @@ LOCATION:Lacey City Hall Council Chambers
 URL:https://laceywa.portal.civicclerk.com/event/1395/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:f71c4732dbef@civicswa
-DTSTAMP:20261112T005412Z
+UID:69a696a27676@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261216T170000Z
 DTEND:20261216T200000Z
 SUMMARY:Board Work Session (Thurston County)
@@ -579,8 +579,8 @@ LOCATION:ATR_Board_Rm_110
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:f7204d5d4583@civicswa
-DTSTAMP:20261112T005412Z
+UID:0bbd6ab7bfbf@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261216T213000Z
 DTEND:20261216T223000Z
 SUMMARY:Board Work Session (Placeholder) (Thurston County)
@@ -588,8 +588,8 @@ LOCATION:ATR_Board_Rm_110
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:e6abd9d1d5e1@civicswa
-DTSTAMP:20261112T005412Z
+UID:b30ed7f19ac4@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261217T013000Z
 DTEND:20261217T033000Z
 SUMMARY:TRL Board of Trustees Meeting (Timberland Regional Library)
@@ -597,8 +597,8 @@ LOCATION:TRL Headquarters\, 415 Tumwater Boulevard SW\, Tumwater
 URL:https://timberland.bibliocommons.com/events/694360136f926136000b80d7
 END:VEVENT
 BEGIN:VEVENT
-UID:2140def20c22@civicswa
-DTSTAMP:20261112T005412Z
+UID:50103a5406b6@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261217T020000Z
 DTEND:20261217T030000Z
 SUMMARY:Historical Commission Meeting (City of Lacey)
@@ -606,8 +606,8 @@ LOCATION:Lacey City Hall Council Chambers
 URL:https://laceywa.portal.civicclerk.com/event/1460/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:ed359ea12d08@civicswa
-DTSTAMP:20261112T005412Z
+UID:4ea16eae5823@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261217T020000Z
 DTEND:20261217T030000Z
 SUMMARY:RSD Board Meeting (Rainier School District)
@@ -615,16 +615,16 @@ LOCATION:Rainier School District Administration\, 207 Centre St S\, Rainier\, WA
 URL:https://www.rainier.education/
 END:VEVENT
 BEGIN:VEVENT
-UID:466345fc4c42@civicswa
-DTSTAMP:20261112T005412Z
+UID:73a0b6337923@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART;VALUE=DATE:20261217
 SUMMARY:CANCELLED: Board Meetings (Thurston County)
 LOCATION:
 URL:https://www.thurstoncountywa.gov/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:26836bef345d@civicswa
-DTSTAMP:20261112T005412Z
+UID:703958b46d2b@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:City Council Worksession (City of Lacey)
@@ -632,8 +632,8 @@ LOCATION:Lacey City Hall Council Chambers
 URL:https://laceywa.portal.civicclerk.com/event/1408/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:348ff39899ae@civicswa
-DTSTAMP:20261112T005412Z
+UID:3a17fea25fc8@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261224T020000Z
 DTEND:20261224T030000Z
 SUMMARY:Planning Commission Meeting (City of Lacey)
@@ -641,8 +641,8 @@ LOCATION:Lacey City Hall Council Chambers
 URL:https://laceywa.portal.civicclerk.com/event/1499/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:2c81ab2a021f@civicswa
-DTSTAMP:20261112T005412Z
+UID:fb903f0ee313@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261229T013000Z
 DTEND:20261229T023000Z
 SUMMARY:Commission on Equity Meeting (City of Lacey)
@@ -650,8 +650,8 @@ LOCATION:Lacey City Hall Council Chambers
 URL:https://laceywa.portal.civicclerk.com/event/1421/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:b5914f5d506d@civicswa
-DTSTAMP:20261112T005412Z
+UID:8e533684db8a@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270106T020000Z
 DTEND:20270106T030000Z
 SUMMARY:City Council Meeting (City of Lacey)
@@ -659,8 +659,8 @@ LOCATION:Lacey City Hall Council Chambers
 URL:https://laceywa.portal.civicclerk.com/event/1370/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:1393dc6e5935@civicswa
-DTSTAMP:20261112T005412Z
+UID:414794392dae@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270106T020000Z
 DTEND:20270106T030000Z
 SUMMARY:City Council Meeting (City of Lacey)
@@ -668,8 +668,8 @@ LOCATION:Lacey City Hall Council Chambers
 URL:https://laceywa.portal.civicclerk.com/event/1570/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:c8aecced96ed@civicswa
-DTSTAMP:20261112T005412Z
+UID:4247b74ce61f@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270107T013000Z
 DTEND:20270107T023000Z
 SUMMARY:Parks\, Culture and Recreation Board Meeting (City of Lacey)
@@ -677,8 +677,8 @@ LOCATION:Lacey City Hall Council Chambers
 URL:https://laceywa.portal.civicclerk.com/event/1435/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:85553c58213d@civicswa
-DTSTAMP:20261112T005412Z
+UID:5ad94b53d540@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270108T013000Z
 DTEND:20270108T023000Z
 SUMMARY:Rescheduled: Human Services Commission (City of Lacey)

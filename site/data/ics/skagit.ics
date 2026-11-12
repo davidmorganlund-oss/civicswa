@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Skagit County
 BEGIN:VEVENT
-UID:0a830512fd78@civicswa
-DTSTAMP:20261112T005412Z
+UID:5e61bea359b8@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261112T230000Z
 DTEND:20261113T000000Z
 SUMMARY:Public Works and Library Committee (City of Mount Vernon)
@@ -12,8 +12,8 @@ LOCATION:Mount Vernon WA 98273
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:26d6753d54fe@civicswa
-DTSTAMP:20261112T005412Z
+UID:f19002de5992@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261113T000000Z
 DTEND:20261113T010000Z
 SUMMARY:Anacortes Arts Commission (City of Anacortes)
@@ -21,8 +21,8 @@ LOCATION:904 6th Street\, WA
 URL:https://anacorteswa.portal.civicclerk.com/event/1638/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:50b7e19fb2e2@civicswa
-DTSTAMP:20261112T005412Z
+UID:70d2347a2a12@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261113T000000Z
 DTEND:20261113T045900Z
 SUMMARY:City Council Meeting (City of Mount Vernon)
@@ -30,8 +30,8 @@ LOCATION:Mount Vernon WA 98273
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:b6828529756f@civicswa
-DTSTAMP:20261112T005412Z
+UID:a091b7073013@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261113T023000Z
 DTEND:20261113T033000Z
 SUMMARY:Special Meeting Planning Commission (City of Sedro-Woolley)
@@ -39,8 +39,8 @@ LOCATION:325 Metcalf Street\, 325 Metcalf Street\, Sedro-Woolley
 URL:https://sedrowoolleywa.portal.civicclerk.com/event/735/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:e056da1b8ca5@civicswa
-DTSTAMP:20261112T005412Z
+UID:cf7163918878@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261113T030000Z
 DTEND:20261113T075900Z
 SUMMARY:City Council Meeting (City of Burlington)
@@ -48,8 +48,8 @@ LOCATION:Burlington City Hall\, Council Chambers 833 S Spruce St\, Burlington WA
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-UID:77c12e7f556f@civicswa
-DTSTAMP:20261112T005412Z
+UID:8f267c3ae52d@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261114T170000Z
 DTEND:20261114T193000Z
 SUMMARY:Town Council Budget Workshop (Town of Concrete)
@@ -57,8 +57,8 @@ LOCATION:
 URL:https://www.townofconcrete.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:df2266599d27@civicswa
-DTSTAMP:20261112T005412Z
+UID:b9754d50a16a@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261117T020000Z
 DTEND:20261117T030000Z
 SUMMARY:City Council Meeting (City of Anacortes)
@@ -66,8 +66,8 @@ LOCATION:904 6th Street\, Anacortes
 URL:https://anacorteswa.portal.civicclerk.com/event/1462/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:0fabe835ccb1@civicswa
-DTSTAMP:20261112T005412Z
+UID:9b50f2d66493@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261118T020000Z
 DTEND:20261118T030000Z
 SUMMARY:Planning Commission (Town of Concrete)
@@ -75,8 +75,8 @@ LOCATION:
 URL:https://www.townofconcrete.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:500a588a7ff7@civicswa
-DTSTAMP:20261112T005412Z
+UID:19abb35a53bc@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261118T023000Z
 DTEND:20261118T033000Z
 SUMMARY:Planning Commission Meeting (City of Sedro-Woolley)
@@ -84,8 +84,8 @@ LOCATION:Sedro-Woolley Municipal Building Council Chambers 325 Metcalf Street\, 
 URL:https://sedrowoolleywa.portal.civicclerk.com/event/626/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:2f41339cf45e@civicswa
-DTSTAMP:20261112T005412Z
+UID:8ebd7b88733c@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261118T230000Z
 DTEND:20261119T045900Z
 SUMMARY:Development Services Committee (City of Mount Vernon)
@@ -93,8 +93,8 @@ LOCATION:Mount Vernon WA 98273
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:3253249111ba@civicswa
-DTSTAMP:20261112T005412Z
+UID:1259d19dbcc6@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261124T020000Z
 DTEND:20261124T030000Z
 SUMMARY:City Council Meeting (City of Anacortes)
@@ -102,8 +102,8 @@ LOCATION:904 6th Street\, Anacortes
 URL:https://anacorteswa.portal.civicclerk.com/event/1463/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:f24b04566b78@civicswa
-DTSTAMP:20261112T005412Z
+UID:68d0d44731f0@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261124T020000Z
 DTEND:20261124T043000Z
 SUMMARY:Town Council Meeting (Town of Concrete)
@@ -111,8 +111,8 @@ LOCATION:45672 Main St\, Concrete\, WA 98237\, USA
 URL:https://www.townofconcrete.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:f17c3bfe8abc@civicswa
-DTSTAMP:20261112T005412Z
+UID:4f18761907b6@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261124T030000Z
 DTEND:20261124T040000Z
 SUMMARY:Regular Board Meeting (Conway School District)
@@ -120,8 +120,8 @@ LOCATION:Middle School Commons (District Office)
 URL:https://conwayk12.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=113
 END:VEVENT
 BEGIN:VEVENT
-UID:54521a3f5572@civicswa
-DTSTAMP:20261112T005412Z
+UID:5e860fe4d964@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261124T230000Z
 DTEND:20261125T000000Z
 SUMMARY:Finance & Parks and Recreation Committee (City of Mount Vernon)
@@ -129,8 +129,8 @@ LOCATION:Mount Vernon WA 98273
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:e935bb30c786@civicswa
-DTSTAMP:20261112T005412Z
+UID:ef747f2ff2f3@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261125T020000Z
 DTEND:20261125T030000Z
 SUMMARY:City Council Meeting (City of Sedro-Woolley)
@@ -138,8 +138,8 @@ LOCATION:325 Metcalf Street\, Sedro-Woolley
 URL:https://sedrowoolleywa.portal.civicclerk.com/event/709/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:fa77d2cbde51@civicswa
-DTSTAMP:20261112T005412Z
+UID:adaaf5607ae9@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261125T030000Z
 DTEND:20261125T075900Z
 SUMMARY:City Council Meeting (City of Burlington)
@@ -147,8 +147,8 @@ LOCATION:Burlington City Hall\, Council Chambers 833 S Spruce St\, Burlington WA
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-UID:62c10d295a92@civicswa
-DTSTAMP:20261112T005412Z
+UID:8163435bd9c0@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261126T000000Z
 DTEND:20261126T045900Z
 SUMMARY:City Council Meeting (City of Mount Vernon)
@@ -156,8 +156,8 @@ LOCATION:Mount Vernon WA 98273
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:e89260b00d45@civicswa
-DTSTAMP:20261112T005412Z
+UID:91b904f309ee@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261126T020000Z
 DTEND:20261126T030000Z
 SUMMARY:Historic Preservation and Landmarks Commission (Town of Concrete)
@@ -165,8 +165,8 @@ LOCATION:
 URL:https://www.townofconcrete.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:d85de60683b3@civicswa
-DTSTAMP:20261112T005412Z
+UID:0ee4cb138e05@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261202T230000Z
 DTEND:20261203T045900Z
 SUMMARY:Public Safety Committee (City of Mount Vernon)
@@ -174,8 +174,8 @@ LOCATION:Mount Vernon WA 98273
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:a37c64865d3d@civicswa
-DTSTAMP:20261112T005412Z
+UID:33fd9e3b3738@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261203T013000Z
 DTEND:20261203T075900Z
 SUMMARY:Planning Commission (City of Burlington)
@@ -183,8 +183,8 @@ LOCATION:Burlington City Council Chambers - 833 S Spruce Street Burlington WA 98
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-UID:9814b4baeaff@civicswa
-DTSTAMP:20261112T005412Z
+UID:31903a461c9f@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261203T020000Z
 DTEND:20261203T030000Z
 SUMMARY:City Council Study Session (City of Sedro-Woolley)
@@ -192,8 +192,8 @@ LOCATION:City Council Chambers\, Sedro-Woolley
 URL:https://sedrowoolleywa.portal.civicclerk.com/event/580/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:c63382e88bec@civicswa
-DTSTAMP:20261112T005412Z
+UID:6ae7f74c946e@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261204T020000Z
 DTEND:20261204T030000Z
 SUMMARY:Forest Advisory Board (City of Anacortes)
@@ -201,8 +201,8 @@ LOCATION:City Hall - 904 6th Street\, Main Floor Conference Room\, Anacortes
 URL:https://anacorteswa.portal.civicclerk.com/event/1588/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:55b56a5900ce@civicswa
-DTSTAMP:20261112T005412Z
+UID:72620f4f1dea@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261208T020000Z
 DTEND:20261208T030000Z
 SUMMARY:City Council Meeting (City of Anacortes)
@@ -210,8 +210,8 @@ LOCATION:904 6th Street\, Anacortes
 URL:https://anacorteswa.portal.civicclerk.com/event/1465/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:4e835796e46c@civicswa
-DTSTAMP:20261112T005412Z
+UID:69ee2327130f@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:Planning Commission - occurs 2nd Tuesday of each month (City of Anacortes)
@@ -219,8 +219,8 @@ LOCATION:
 URL:https://anacorteswa.portal.civicclerk.com/event/1567/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:352a97ce96e1@civicswa
-DTSTAMP:20261112T005412Z
+UID:b9aaa16e1f14@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261209T230000Z
 DTEND:20261210T000000Z
 SUMMARY:Public Works and Library Committee (City of Mount Vernon)
@@ -228,8 +228,8 @@ LOCATION:Mount Vernon WA 98273
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:f2055585568e@civicswa
-DTSTAMP:20261112T005412Z
+UID:3d11fc2bb00b@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261210T000000Z
 DTEND:20261210T045900Z
 SUMMARY:City Council Meeting (City of Mount Vernon)
@@ -237,8 +237,8 @@ LOCATION:Mount Vernon WA 98273
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:c3330b024408@civicswa
-DTSTAMP:20261112T005412Z
+UID:af10a01ff3b6@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261210T020000Z
 DTEND:20261210T030000Z
 SUMMARY:City Council Meeting (City of Sedro-Woolley)
@@ -246,8 +246,8 @@ LOCATION:Sedro-Woolley Municipal Building Council Chambers 325 Metcalf Street\, 
 URL:https://sedrowoolleywa.portal.civicclerk.com/event/646/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:4e41dc19b18b@civicswa
-DTSTAMP:20261112T005412Z
+UID:88be472facf9@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261210T020000Z
 DTEND:20261210T030000Z
 SUMMARY:City Council Meeting (City of Sedro-Woolley)
@@ -255,8 +255,8 @@ LOCATION:Sedro-Woolley Municipal Building Council Chambers 325 Metcalf Street\, 
 URL:https://sedrowoolleywa.portal.civicclerk.com/event/717/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:011989e7e07f@civicswa
-DTSTAMP:20261112T005412Z
+UID:b4e2ac2f3549@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261210T020000Z
 DTEND:20261210T040000Z
 SUMMARY:Economic Development Commission (Town of Concrete)
@@ -264,8 +264,8 @@ LOCATION:45672 Main St\, Concrete\, WA 98237\, USA
 URL:https://www.townofconcrete.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:d269c0d78d1c@civicswa
-DTSTAMP:20261112T005412Z
+UID:a2d539f1388a@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261211T030000Z
 DTEND:20261211T075900Z
 SUMMARY:City Council Meeting (City of Burlington)
@@ -273,8 +273,8 @@ LOCATION:Burlington City Hall\, Council Chambers 833 S Spruce St\, Burlington WA
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-UID:e27c782fd781@civicswa
-DTSTAMP:20261112T005412Z
+UID:0c652d6484f3@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261214T170000Z
 DTEND:20261214T180000Z
 SUMMARY:Library Board of Trustees (City of Anacortes)
@@ -282,8 +282,8 @@ LOCATION:Anacortes Public Library\, 1220 10th Street\, Anacortes
 URL:https://anacorteswa.portal.civicclerk.com/event/1619/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:411d84832778@civicswa
-DTSTAMP:20261112T005412Z
+UID:00b728bdc940@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261215T020000Z
 DTEND:20261215T030000Z
 SUMMARY:City Council Meeting (City of Anacortes)
@@ -291,8 +291,8 @@ LOCATION:904 6th Street\, Anacortes
 URL:https://anacorteswa.portal.civicclerk.com/event/1466/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:b5058a6e8cf9@civicswa
-DTSTAMP:20261112T005412Z
+UID:50a86fc72828@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261215T020000Z
 DTEND:20261215T043000Z
 SUMMARY:Town Council Meeting (Town of Concrete)
@@ -300,8 +300,8 @@ LOCATION:45672 Main St\, Concrete\, WA 98237\, USA
 URL:https://www.townofconcrete.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:2358880db550@civicswa
-DTSTAMP:20261112T005412Z
+UID:c9f9de691944@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:Planning Commission (Town of Concrete)
@@ -309,8 +309,8 @@ LOCATION:
 URL:https://www.townofconcrete.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:7bc8e2356f96@civicswa
-DTSTAMP:20261112T005412Z
+UID:eb2ec233424c@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261216T023000Z
 DTEND:20261216T033000Z
 SUMMARY:Planning Commission Meeting (City of Sedro-Woolley)
@@ -318,8 +318,8 @@ LOCATION:Sedro-Woolley Municipal Building Council Chambers 325 Metcalf Street\, 
 URL:https://sedrowoolleywa.portal.civicclerk.com/event/627/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:8ef35a850b66@civicswa
-DTSTAMP:20261112T005412Z
+UID:84d289345735@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261216T230000Z
 DTEND:20261217T045900Z
 SUMMARY:Development Services Committee (City of Mount Vernon)
@@ -327,8 +327,8 @@ LOCATION:Mount Vernon WA 98273
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:ec2793af9f04@civicswa
-DTSTAMP:20261112T005412Z
+UID:5171d44a932f@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261222T020000Z
 DTEND:20261222T030000Z
 SUMMARY:City Council Meeting (City of Anacortes)
@@ -336,8 +336,8 @@ LOCATION:904 6th Street\, Anacortes
 URL:https://anacorteswa.portal.civicclerk.com/event/1467/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:8bd5d4fac5d0@civicswa
-DTSTAMP:20261112T005412Z
+UID:46e94f24c428@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261223T230000Z
 DTEND:20261224T000000Z
 SUMMARY:Finance & Parks and Recreation Committee (City of Mount Vernon)
@@ -345,8 +345,8 @@ LOCATION:Mount Vernon WA 98273
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:c8b7b69e0314@civicswa
-DTSTAMP:20261112T005412Z
+UID:19c4a0e6e89d@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261224T000000Z
 DTEND:20261224T045900Z
 SUMMARY:City Council Meeting (City of Mount Vernon)
@@ -354,8 +354,8 @@ LOCATION:Mount Vernon WA 98273
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:194bd2c872ba@civicswa
-DTSTAMP:20261112T005412Z
+UID:4c9d944f4cf3@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261224T020000Z
 DTEND:20261224T030000Z
 SUMMARY:Historic Preservation and Landmarks Commission (Town of Concrete)
@@ -363,8 +363,8 @@ LOCATION:
 URL:https://www.townofconcrete.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:ac2609fbbca4@civicswa
-DTSTAMP:20261112T005412Z
+UID:1f8b03db81cb@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261225T030000Z
 DTEND:20261225T075900Z
 SUMMARY:City Council Meeting (City of Burlington)
@@ -372,8 +372,8 @@ LOCATION:Burlington City Hall\, Council Chambers 833 S Spruce St\, Burlington WA
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-UID:537654c13bb9@civicswa
-DTSTAMP:20261112T005412Z
+UID:04390ac31ee8@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261229T020000Z
 DTEND:20261229T030000Z
 SUMMARY:City Council Meeting (City of Anacortes)
@@ -381,8 +381,8 @@ LOCATION:904 6th Street\, Anacortes
 URL:https://anacorteswa.portal.civicclerk.com/event/1468/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:2ab53623a9f7@civicswa
-DTSTAMP:20261112T005412Z
+UID:49af72f6cbc3@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261229T020000Z
 DTEND:20261229T043000Z
 SUMMARY:Town Council Meeting (Town of Concrete)
@@ -390,8 +390,8 @@ LOCATION:45672 Main St\, Concrete\, WA 98237\, USA
 URL:https://www.townofconcrete.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:42c23a31a6a8@civicswa
-DTSTAMP:20261112T005412Z
+UID:f662783d350c@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261230T230000Z
 DTEND:20261231T045900Z
 SUMMARY:Committee of the Whole (City of Mount Vernon)
@@ -399,8 +399,8 @@ LOCATION:Mount Vernon WA 98273
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:e88f345fc517@civicswa
-DTSTAMP:20261112T005412Z
+UID:41dbda0e5299@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270105T020000Z
 DTEND:20270105T030000Z
 SUMMARY:City Council Meeting (City of Anacortes)
@@ -408,8 +408,8 @@ LOCATION:904 6th Street\, Anacortes
 URL:https://anacorteswa.portal.civicclerk.com/event/1469/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:9155dc29b18d@civicswa
-DTSTAMP:20261112T005412Z
+UID:c23f53dd87a5@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270106T230000Z
 DTEND:20270107T045900Z
 SUMMARY:Public Safety Committee (City of Mount Vernon)
@@ -417,8 +417,8 @@ LOCATION:Mount Vernon WA 98273
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:0187423a062e@civicswa
-DTSTAMP:20261112T005412Z
+UID:38c879950bd4@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270107T013000Z
 DTEND:20270107T075900Z
 SUMMARY:Planning Commission (City of Burlington)
@@ -426,8 +426,8 @@ LOCATION:Burlington City Council Chambers - 833 S Spruce Street Burlington WA 98
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-UID:4aa057985b63@civicswa
-DTSTAMP:20261112T005412Z
+UID:9c4d4094a3a5@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270107T020000Z
 DTEND:20270107T030000Z
 SUMMARY:City Council Study Session (City of Sedro-Woolley)
@@ -435,8 +435,8 @@ LOCATION:City Council Chambers\, Sedro-Woolley
 URL:https://sedrowoolleywa.portal.civicclerk.com/event/581/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:275113c9d6e1@civicswa
-DTSTAMP:20261112T005412Z
+UID:5b3a529bfa1b@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270108T020000Z
 DTEND:20270108T030000Z
 SUMMARY:Forest Advisory Board (City of Anacortes)
@@ -444,8 +444,8 @@ LOCATION:City Hall - 904 6th Street\, Main Floor Conference Room\, Anacortes
 URL:https://anacorteswa.portal.civicclerk.com/event/1589/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:7a35d3a1510b@civicswa
-DTSTAMP:20261112T005412Z
+UID:bdae0614a64e@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270108T020000Z
 DTEND:20270108T043000Z
 SUMMARY:Airport Commission (Town of Concrete)

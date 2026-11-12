@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Columbia County
 BEGIN:VEVENT
-UID:448de7423ecd@civicswa
-DTSTAMP:20261112T005412Z
+UID:da615b0af045@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261116T170000Z
 DTEND:20261116T180000Z
 SUMMARY:Board of Commissioners - Regular Agenda (Columbia County)
@@ -12,8 +12,8 @@ LOCATION:115 E Main St\, Dayton
 URL:https://columbiacowa.portal.civicclerk.com/event/688/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:3bc3f680134b@civicswa
-DTSTAMP:20261112T005412Z
+UID:60c438a815fc@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261123T170000Z
 DTEND:20261123T180000Z
 SUMMARY:Board of Commissioners - Work Session (Columbia County)
@@ -21,8 +21,8 @@ LOCATION:115 E Main St\, Dayton
 URL:https://columbiacowa.portal.civicclerk.com/event/676/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:d01a19113c82@civicswa
-DTSTAMP:20261112T005412Z
+UID:6719e7c02450@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261130T170000Z
 DTEND:20261130T180000Z
 SUMMARY:Board of Commissioners - Special Meeting (Columbia County)
@@ -30,8 +30,8 @@ LOCATION:115 E Main Street\, Dayton
 URL:https://columbiacowa.portal.civicclerk.com/event/712/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:7169836cb929@civicswa
-DTSTAMP:20261112T005412Z
+UID:9d9660a19161@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261207T170000Z
 DTEND:20261207T180000Z
 SUMMARY:Board of Commissioners - Regular Agenda (Columbia County)
@@ -39,8 +39,8 @@ LOCATION:115 E Main St\, Dayton
 URL:https://columbiacowa.portal.civicclerk.com/event/714/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:efd6a0e2b4db@civicswa
-DTSTAMP:20261112T005412Z
+UID:4c25a83339ee@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261214T170000Z
 DTEND:20261214T180000Z
 SUMMARY:Board of Commissioners - Work Session (Columbia County)
@@ -48,8 +48,8 @@ LOCATION:115 E Main St\, Dayton
 URL:https://columbiacowa.portal.civicclerk.com/event/701/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:c39fe3d07d06@civicswa
-DTSTAMP:20261112T005412Z
+UID:d49bbdae65a4@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261221T170000Z
 DTEND:20261221T180000Z
 SUMMARY:Board of Commissioners - Regular Agenda (Columbia County)
@@ -57,8 +57,8 @@ LOCATION:115 E Main St\, Dayton
 URL:https://columbiacowa.portal.civicclerk.com/event/689/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:17e37b5663bd@civicswa
-DTSTAMP:20261112T005412Z
+UID:02a5df637a3d@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261228T170000Z
 DTEND:20261228T180000Z
 SUMMARY:Board of Commissioners - Work Session (Columbia County)
@@ -66,8 +66,8 @@ LOCATION:115 E Main St\, Dayton
 URL:https://columbiacowa.portal.civicclerk.com/event/677/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:923722d5e538@civicswa
-DTSTAMP:20261112T005412Z
+UID:d5c493a37323@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270104T170000Z
 DTEND:20270104T180000Z
 SUMMARY:Board of Commissioners - Regular Agenda (Columbia County)

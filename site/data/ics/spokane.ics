@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Spokane County
 BEGIN:VEVENT
-UID:0c2b2645f73b@civicswa
-DTSTAMP:20261112T005412Z
+UID:efcd94df7f42@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261112T020000Z
 DTEND:20261112T030000Z
 SUMMARY:City Council Legislative Meeting (City of Spokane)
@@ -12,8 +12,8 @@ LOCATION:Council Chambers Lower Level of City Hall
 URL:https://my.spokanecity.org/citycouncil/meetings/2026/11/11/legislative-meeting/
 END:VEVENT
 BEGIN:VEVENT
-UID:f17acfa3d596@civicswa
-DTSTAMP:20261112T005412Z
+UID:30c630a17090@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261112T210000Z
 DTEND:20261112T220000Z
 SUMMARY:CANCELLED: Spokane Regional Transportation Council Board (Spokane regional boards)
@@ -21,8 +21,8 @@ LOCATION:421 W. Riverside Ave.\, Suite 500\, Spokane
 URL:https://my.spokanecity.org/bcc/councils/spokane-regional-transportation-council/
 END:VEVENT
 BEGIN:VEVENT
-UID:5dce285d4f43@civicswa
-DTSTAMP:20261112T005412Z
+UID:e8e982adbe1a@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261112T220000Z
 DTEND:20261112T230000Z
 SUMMARY:CANCELLED: Climate Resilience and Sustainability Board (City of Spokane boards and commissions)
@@ -30,8 +30,8 @@ LOCATION:Council Briefing Center\, City Hall\, 808 W. Spokane Falls Blvd.\, Spok
 URL:https://my.spokanecity.org/bcc/boards/climate-resilience-and-sustainability-board/
 END:VEVENT
 BEGIN:VEVENT
-UID:7a890c1a88cc@civicswa
-DTSTAMP:20261112T005412Z
+UID:75515295aae0@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261112T220000Z
 DTEND:20261112T230000Z
 SUMMARY:CANCELLED: Plan Commission (City of Spokane boards and commissions)
@@ -39,8 +39,8 @@ LOCATION:Council Briefing Center\, City Hall\, 808 W. Spokane Falls Blvd.\, Spok
 URL:https://my.spokanecity.org/bcc/commissions/plan-commission/
 END:VEVENT
 BEGIN:VEVENT
-UID:c5b2019c28d6@civicswa
-DTSTAMP:20261112T005412Z
+UID:5382bf1ff706@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261112T233000Z
 DTEND:20261113T003000Z
 SUMMARY:CANCELLED: Park Board (City of Spokane boards and commissions)
@@ -48,8 +48,8 @@ LOCATION:Council Chambers\, lower level\, City Hall\, 808 W. Spokane Falls Blvd.
 URL:https://my.spokanecity.org/bcc/boards/spokane-park-board/
 END:VEVENT
 BEGIN:VEVENT
-UID:8dcfae5e4097@civicswa
-DTSTAMP:20261112T005412Z
+UID:f7afac360490@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261113T020000Z
 DTEND:20261113T075900Z
 SUMMARY:CANCELLED: Planning Commission Meeting (City of Spokane Valley)
@@ -57,8 +57,8 @@ LOCATION:City Hall - 10210 E. Sprague Ave Spokane Valley WA 99206
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-UID:f138d70f55fc@civicswa
-DTSTAMP:20261112T005412Z
+UID:3bd912c284fa@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261116T170000Z
 DTEND:20261116T180000Z
 SUMMARY:BoCC Strategic Planning Meeting - 3rd Monday (Spokane County)
@@ -66,8 +66,8 @@ LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenu
 URL:https://spokanecowa.portal.civicclerk.com/event/2299/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:2807cdc23556@civicswa
-DTSTAMP:20261112T005412Z
+UID:395b7042c636@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261117T170000Z
 DTEND:20261117T180000Z
 SUMMARY:BoCC Board Briefing Meeting (Spokane County)
@@ -75,8 +75,8 @@ LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenu
 URL:https://spokanecowa.portal.civicclerk.com/event/2332/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:341de7d482f1@civicswa
-DTSTAMP:20261112T005412Z
+UID:04080b686282@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261117T173000Z
 DTEND:20261117T183000Z
 SUMMARY:CANCELLED: Civil Service Commission (City of Spokane boards and commissions)
@@ -84,8 +84,8 @@ LOCATION:City Council Chamber\, City Hall\, 808 W. Spokane Falls Blvd.\, Spokane
 URL:https://my.spokanecity.org/bcc/commissions/civil-service-commission/
 END:VEVENT
 BEGIN:VEVENT
-UID:dd6d591b8909@civicswa
-DTSTAMP:20261112T005412Z
+UID:4e63e184e2d5@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261117T190000Z
 DTEND:20261117T200000Z
 SUMMARY:City Council Agenda Review Meeting (City of Spokane)
@@ -93,8 +93,8 @@ LOCATION:Council Chambers Lower Level of City Hall - No Public Testimony Taken
 URL:https://my.spokanecity.org/citycouncil/meetings/2026/11/17/agenda-review-meeting/
 END:VEVENT
 BEGIN:VEVENT
-UID:c36ed761624d@civicswa
-DTSTAMP:20261112T005412Z
+UID:18ee840a1640@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261117T220000Z
 DTEND:20261117T230000Z
 SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
@@ -102,8 +102,8 @@ LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commi
 URL:https://spokanecowa.portal.civicclerk.com/event/2178/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:decfa097c81d@civicswa
-DTSTAMP:20261112T005412Z
+UID:cebb775c1ed3@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261118T003000Z
 DTEND:20261118T013000Z
 SUMMARY:CANCELLED: Public Library Board of Trustees (City of Spokane boards and commissions)
@@ -111,8 +111,8 @@ LOCATION:Location changes\; see the board's page
 URL:https://my.spokanecity.org/bcc/boards/spokane-public-library-board-of-trustees/
 END:VEVENT
 BEGIN:VEVENT
-UID:8408139488b3@civicswa
-DTSTAMP:20261112T005412Z
+UID:46cefcc57b98@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261118T013000Z
 DTEND:20261118T023000Z
 SUMMARY:CANCELLED: Ombuds Commission (City of Spokane boards and commissions)
@@ -120,8 +120,8 @@ LOCATION:City Council Chamber\, City Hall\, 808 W. Spokane Falls Blvd.\, Spokane
 URL:https://my.spokanecity.org/bcc/commissions/ombuds-commission/
 END:VEVENT
 BEGIN:VEVENT
-UID:0280c5e91073@civicswa
-DTSTAMP:20261112T005412Z
+UID:044e490c6518@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261118T020000Z
 DTEND:20261118T075900Z
 SUMMARY:City Council Meeting (City of Spokane Valley)
@@ -129,8 +129,8 @@ LOCATION:City Hall 10210 E Sprague Ave Spokane Valley WA 99206
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-UID:5915c7396a2b@civicswa
-DTSTAMP:20261112T005412Z
+UID:30ea95863cbf@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261118T020000Z
 DTEND:20261118T030000Z
 SUMMARY:CANCELLED: Bicycle Advisory Board (City of Spokane boards and commissions)
@@ -138,8 +138,8 @@ LOCATION:Council Briefing Center\, City Hall\, 808 W. Spokane Falls Blvd.\, Spok
 URL:https://my.spokanecity.org/bcc/boards/bicycle-advisory-board/
 END:VEVENT
 BEGIN:VEVENT
-UID:f98bde7553d1@civicswa
-DTSTAMP:20261112T005412Z
+UID:4fb707fc9281@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261118T020000Z
 DTEND:20261118T033000Z
 SUMMARY:CANCELLED: Chase Youth Commission (City of Spokane boards and commissions)
@@ -147,8 +147,8 @@ LOCATION:Conference Room 3B\, City Hall\, 808 W. Spokane Falls Blvd.\, Spokane
 URL:https://my.spokanecity.org/bcc/commissions/chase-youth-commission/
 END:VEVENT
 BEGIN:VEVENT
-UID:0c8c058698e7@civicswa
-DTSTAMP:20261112T005412Z
+UID:b2b7d1456bae@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261118T200000Z
 DTEND:20261118T213000Z
 SUMMARY:CANCELLED: East Sprague Business Improvement District Board (City of Spokane boards and commissions)
@@ -156,8 +156,8 @@ LOCATION:Sprague Union Terrace\, Community Room\, 1420 E. Sprague Ave.
 URL:https://my.spokanecity.org/bcc/boards/east-sprague-business-improvement-district-board/
 END:VEVENT
 BEGIN:VEVENT
-UID:c566a3a71c54@civicswa
-DTSTAMP:20261112T005412Z
+UID:99fe41abe24b@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261119T010000Z
 DTEND:20261119T020000Z
 SUMMARY:School Improvement Plan (Cheney School District)
@@ -165,8 +165,8 @@ LOCATION:WIN Academy
 URL:https://cheneysd.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=161
 END:VEVENT
 BEGIN:VEVENT
-UID:547912cb1146@civicswa
-DTSTAMP:20261112T005412Z
+UID:c17f726c3afc@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261119T020000Z
 DTEND:20261119T030000Z
 SUMMARY:Regular Meeting (Cheney School District)
@@ -174,8 +174,8 @@ LOCATION:Cheney Middle School
 URL:https://cheneysd.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=160
 END:VEVENT
 BEGIN:VEVENT
-UID:77faab5d912b@civicswa
-DTSTAMP:20261112T005412Z
+UID:6f10c63860a5@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261119T020000Z
 DTEND:20261119T030000Z
 SUMMARY:City Council Legislative Meeting (City of Spokane)
@@ -183,8 +183,8 @@ LOCATION:Council Chambers Lower Level of City Hall
 URL:https://my.spokanecity.org/citycouncil/meetings/2026/11/18/legislative-meeting/
 END:VEVENT
 BEGIN:VEVENT
-UID:c5dfb55de65a@civicswa
-DTSTAMP:20261112T005412Z
+UID:2ec7c4766e67@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261119T170000Z
 DTEND:20261119T180000Z
 SUMMARY:CANCELLED: Spokane Airport Board (Spokane regional boards)
@@ -192,8 +192,8 @@ LOCATION:Spokane International Airport (Felts Field in April and September)
 URL:https://my.spokanecity.org/bcc/boards/spokane-airport-board/
 END:VEVENT
 BEGIN:VEVENT
-UID:e251eeb657ab@civicswa
-DTSTAMP:20261112T005412Z
+UID:922874e76c06@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261119T180000Z
 DTEND:20261120T075900Z
 SUMMARY:Tourism Promotion Area (TPA) Commission Meeting (City of Spokane Valley)
@@ -201,8 +201,8 @@ LOCATION:Spokane Valley City Hall - 10210 E. Sprague Ave Spokane Valley WA 99206
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
-UID:917c63fb9e24@civicswa
-DTSTAMP:20261112T005412Z
+UID:2bf040289ea6@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261119T213000Z
 DTEND:20261119T233000Z
 SUMMARY:CANCELLED: Spokane Transit Authority Board (Spokane regional boards)
@@ -210,8 +210,8 @@ LOCATION:STA Boardroom\, 1230 W. Boone Ave.\, Spokane
 URL:https://my.spokanecity.org/bcc/boards/spokane-transit-authority/
 END:VEVENT
 BEGIN:VEVENT
-UID:e8ffd0a7883a@civicswa
-DTSTAMP:20261112T005412Z
+UID:2de6278d5dd7@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261120T000000Z
 DTEND:20261120T010000Z
 SUMMARY:CANCELLED: Transportation Commission (City of Spokane boards and commissions)
@@ -219,8 +219,8 @@ LOCATION:Council Chambers\, City Hall\, 808 W. Spokane Falls Blvd.\, Spokane
 URL:https://my.spokanecity.org/bcc/commissions/transportation-commission/
 END:VEVENT
 BEGIN:VEVENT
-UID:a41962fdc948@civicswa
-DTSTAMP:20261112T005412Z
+UID:46d642989c4e@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261123T233000Z
 DTEND:20261124T003000Z
 SUMMARY:CANCELLED: Spokane Housing Authority Board (Spokane regional boards)
@@ -228,8 +228,8 @@ LOCATION:SHA offices\, 25 W. Nora Ave.\, Spokane
 URL:https://my.spokanecity.org/bcc/boards/spokane-housing-authority-board/
 END:VEVENT
 BEGIN:VEVENT
-UID:8f0098f3cab3@civicswa
-DTSTAMP:20261112T005412Z
+UID:fac7062dcbce@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261124T170000Z
 DTEND:20261124T180000Z
 SUMMARY:There will be no BoCC Board Briefing Meeting (Spokane County)
@@ -237,8 +237,8 @@ LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenu
 URL:https://spokanecowa.portal.civicclerk.com/event/2232/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:ad862736c435@civicswa
-DTSTAMP:20261112T005412Z
+UID:30c083f4fbd6@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261124T220000Z
 DTEND:20261124T230000Z
 SUMMARY:There will be no BoCC Regular Legislative Session Meeting (Spokane County)
@@ -246,8 +246,8 @@ LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commi
 URL:https://spokanecowa.portal.civicclerk.com/event/2286/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:a2c3b258a408@civicswa
-DTSTAMP:20261112T005412Z
+UID:cdbe4cef143d@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261125T003000Z
 DTEND:20261125T013000Z
 SUMMARY:CANCELLED: Arts Commission (City of Spokane boards and commissions)
@@ -255,8 +255,8 @@ LOCATION:Central Library\, 906 W. Main Ave.\, Events Room A
 URL:https://my.spokanecity.org/bcc/commissions/arts-commission/
 END:VEVENT
 BEGIN:VEVENT
-UID:af9bfcdf5fac@civicswa
-DTSTAMP:20261112T005412Z
+UID:d967b528af95@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261125T020000Z
 DTEND:20261125T033000Z
 SUMMARY:City Council Meeting (City of Cheney)
@@ -264,8 +264,8 @@ LOCATION:Council Chambers\, City Hall - 609 2nd Street Cheney WA 99004
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
 END:VEVENT
 BEGIN:VEVENT
-UID:b597c6f400cd@civicswa
-DTSTAMP:20261112T005412Z
+UID:75200134d8d1@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261125T020000Z
 DTEND:20261125T075900Z
 SUMMARY:City Council Meeting (City of Spokane Valley)
@@ -273,8 +273,8 @@ LOCATION:City Hall 10210 E Sprague Ave Spokane Valley WA 99206
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-UID:1adbd933839a@civicswa
-DTSTAMP:20261112T005412Z
+UID:5548f234eb74@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261125T220000Z
 DTEND:20261125T230000Z
 SUMMARY:CANCELLED: Plan Commission (City of Spokane boards and commissions)
@@ -282,8 +282,8 @@ LOCATION:Council Briefing Center\, City Hall\, 808 W. Spokane Falls Blvd.\, Spok
 URL:https://my.spokanecity.org/bcc/commissions/plan-commission/
 END:VEVENT
 BEGIN:VEVENT
-UID:e6bfff398849@civicswa
-DTSTAMP:20261112T005412Z
+UID:aa9ce257da80@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261130T170000Z
 DTEND:20261130T180000Z
 SUMMARY:BoCC Working Session Meeting (Spokane County)
@@ -291,8 +291,8 @@ LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenu
 URL:https://spokanecowa.portal.civicclerk.com/event/2381/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:73cbb62b83e1@civicswa
-DTSTAMP:20261112T005412Z
+UID:537b18fcf30f@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261201T170000Z
 DTEND:20261201T180000Z
 SUMMARY:BoCC Board Briefing Meeting (Spokane County)
@@ -300,8 +300,8 @@ LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenu
 URL:https://spokanecowa.portal.civicclerk.com/event/2334/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:ffcb3407800d@civicswa
-DTSTAMP:20261112T005412Z
+UID:06bcec84e93c@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261201T220000Z
 DTEND:20261201T230000Z
 SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
@@ -309,8 +309,8 @@ LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commi
 URL:https://spokanecowa.portal.civicclerk.com/event/2180/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:fa8789b79a41@civicswa
-DTSTAMP:20261112T005412Z
+UID:ce84b3707ae2@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261202T020000Z
 DTEND:20261202T075900Z
 SUMMARY:City Council Meeting (City of Spokane Valley)
@@ -318,8 +318,8 @@ LOCATION:City Hall 10210 E Sprague Ave Spokane Valley WA 99206
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-UID:58e3df0bbd5f@civicswa
-DTSTAMP:20261112T005412Z
+UID:eff33ad7d8c7@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261202T020000Z
 DTEND:20261202T033000Z
 SUMMARY:CANCELLED: Chase Youth Commission (City of Spokane boards and commissions)
@@ -327,8 +327,8 @@ LOCATION:Conference Room 3B\, City Hall\, 808 W. Spokane Falls Blvd.\, Spokane
 URL:https://my.spokanecity.org/bcc/commissions/chase-youth-commission/
 END:VEVENT
 BEGIN:VEVENT
-UID:ca26347d7667@civicswa
-DTSTAMP:20261112T005412Z
+UID:60cef5920873@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261202T210000Z
 DTEND:20261202T220000Z
 SUMMARY:CANCELLED: City Employees' Retirement Board (City of Spokane boards and commissions)
@@ -336,8 +336,8 @@ LOCATION:Council Briefing Chamber\, City Hall\, 808 W. Spokane Falls Blvd.\, Spo
 URL:https://my.spokanecity.org/bcc/boards/city-employees-retirement-board/
 END:VEVENT
 BEGIN:VEVENT
-UID:77e2bd691067@civicswa
-DTSTAMP:20261112T005412Z
+UID:ee347ac9827a@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261203T000000Z
 DTEND:20261203T020000Z
 SUMMARY:CANCELLED: Community\, Housing and Human Services Board (City of Spokane boards and commissions)
@@ -345,8 +345,8 @@ LOCATION:Council Briefing Center\, City Hall\, 808 W. Spokane Falls Blvd.\, Spok
 URL:https://my.spokanecity.org/bcc/boards/community-housing-and-human-services-board/
 END:VEVENT
 BEGIN:VEVENT
-UID:962a9793aa53@civicswa
-DTSTAMP:20261112T005412Z
+UID:712dec92c072@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261203T183000Z
 DTEND:20261203T193000Z
 SUMMARY:CANCELLED: Urban Native Advisory Council (City of Spokane boards and commissions)
@@ -354,8 +354,8 @@ LOCATION:Tribal Conference Room\, lobby\, City Hall\, 808 W. Spokane Falls Blvd.
 URL:https://my.spokanecity.org/bcc/councils/spokane-urban-native-advisory-council/
 END:VEVENT
 BEGIN:VEVENT
-UID:54a5f6ca1dc4@civicswa
-DTSTAMP:20261112T005412Z
+UID:72e2688c44b9@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261204T013000Z
 DTEND:20261204T023000Z
 SUMMARY:Historic Preservation Commission Meeting (City of Cheney)
@@ -363,8 +363,8 @@ LOCATION:This meeting will be held in a HYBRID FORMAT\, with both in-person atte
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
 END:VEVENT
 BEGIN:VEVENT
-UID:f18fad3e9481@civicswa
-DTSTAMP:20261112T005412Z
+UID:8f05d58c1158@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261204T013000Z
 DTEND:20261204T023000Z
 SUMMARY:CANCELLED: Human Rights Commission (City of Spokane boards and commissions)
@@ -372,8 +372,8 @@ LOCATION:Location is listed on each meeting's agenda
 URL:https://my.spokanecity.org/bcc/commissions/spokane-human-rights-commission/
 END:VEVENT
 BEGIN:VEVENT
-UID:cfa90ad6f17f@civicswa
-DTSTAMP:20261112T005412Z
+UID:f44ed3f0a3a8@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261207T170000Z
 DTEND:20261207T180000Z
 SUMMARY:2027 Budget Hearing Agenda (Spokane County)
@@ -381,8 +381,8 @@ LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenu
 URL:https://spokanecowa.portal.civicclerk.com/event/2382/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:ae07f3f26b40@civicswa
-DTSTAMP:20261112T005412Z
+UID:cf03e5b53e2e@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261207T170000Z
 DTEND:20261207T180000Z
 SUMMARY:BoCC Strategic Planning Meeting - 1st Monday (Spokane County)
@@ -390,8 +390,8 @@ LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenu
 URL:https://spokanecowa.portal.civicclerk.com/event/2365/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:725acf10920b@civicswa
-DTSTAMP:20261112T005412Z
+UID:feb0e490e470@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261208T170000Z
 DTEND:20261208T180000Z
 SUMMARY:BoCC Board Briefing Meeting (Spokane County)
@@ -399,8 +399,8 @@ LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenu
 URL:https://spokanecowa.portal.civicclerk.com/event/2234/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:d3d87090ba59@civicswa
-DTSTAMP:20261112T005412Z
+UID:2dd1a47e0b2e@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261208T220000Z
 DTEND:20261208T230000Z
 SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
@@ -408,8 +408,8 @@ LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commi
 URL:https://spokanecowa.portal.civicclerk.com/event/2181/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:ecd16f40a1eb@civicswa
-DTSTAMP:20261112T005412Z
+UID:99e7d0281764@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261209T020000Z
 DTEND:20261209T033000Z
 SUMMARY:City Council Meeting (City of Cheney)
@@ -417,8 +417,8 @@ LOCATION:Council Chambers\, City Hall - 609 2nd Street Cheney WA 99004
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
 END:VEVENT
 BEGIN:VEVENT
-UID:ecc53b842df2@civicswa
-DTSTAMP:20261112T005412Z
+UID:c86ac1fa65cb@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261209T020000Z
 DTEND:20261209T075900Z
 SUMMARY:City Council Meeting (City of Spokane Valley)
@@ -426,8 +426,8 @@ LOCATION:City Hall 10210 E Sprague Ave Spokane Valley WA 99206
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-UID:94d48aa7e874@civicswa
-DTSTAMP:20261112T005412Z
+UID:1674b83506a1@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261209T220000Z
 DTEND:20261209T230000Z
 SUMMARY:CANCELLED: Plan Commission (City of Spokane boards and commissions)
@@ -435,8 +435,8 @@ LOCATION:Council Briefing Center\, City Hall\, 808 W. Spokane Falls Blvd.\, Spok
 URL:https://my.spokanecity.org/bcc/commissions/plan-commission/
 END:VEVENT
 BEGIN:VEVENT
-UID:c6fc79d52d5d@civicswa
-DTSTAMP:20261112T005412Z
+UID:ea9b0e240f48@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261210T010000Z
 DTEND:20261210T020000Z
 SUMMARY:School Improvement Plan (Cheney School District)
@@ -444,8 +444,8 @@ LOCATION:Westwood Middle School
 URL:https://cheneysd.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=162
 END:VEVENT
 BEGIN:VEVENT
-UID:eeba4600b5e0@civicswa
-DTSTAMP:20261112T005412Z
+UID:7c1dc5d6ff0a@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261210T020000Z
 DTEND:20261210T030000Z
 SUMMARY:Regular Meeting (Cheney School District)
@@ -453,8 +453,8 @@ LOCATION:Westwood Middle School
 URL:https://cheneysd.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=163
 END:VEVENT
 BEGIN:VEVENT
-UID:50dc8dca4ca6@civicswa
-DTSTAMP:20261112T005412Z
+UID:564856b82daa@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261210T210000Z
 DTEND:20261210T220000Z
 SUMMARY:CANCELLED: Spokane Regional Transportation Council Board (Spokane regional boards)
@@ -462,8 +462,8 @@ LOCATION:421 W. Riverside Ave.\, Suite 500\, Spokane
 URL:https://my.spokanecity.org/bcc/councils/spokane-regional-transportation-council/
 END:VEVENT
 BEGIN:VEVENT
-UID:871b75410a0b@civicswa
-DTSTAMP:20261112T005412Z
+UID:26830ade0be9@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261210T220000Z
 DTEND:20261210T230000Z
 SUMMARY:CANCELLED: Climate Resilience and Sustainability Board (City of Spokane boards and commissions)
@@ -471,8 +471,8 @@ LOCATION:Council Briefing Center\, City Hall\, 808 W. Spokane Falls Blvd.\, Spok
 URL:https://my.spokanecity.org/bcc/boards/climate-resilience-and-sustainability-board/
 END:VEVENT
 BEGIN:VEVENT
-UID:f5d494f28244@civicswa
-DTSTAMP:20261112T005412Z
+UID:0d6afd1c8e5d@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261210T233000Z
 DTEND:20261211T003000Z
 SUMMARY:CANCELLED: Park Board (City of Spokane boards and commissions)
@@ -480,8 +480,8 @@ LOCATION:Council Chambers\, lower level\, City Hall\, 808 W. Spokane Falls Blvd.
 URL:https://my.spokanecity.org/bcc/boards/spokane-park-board/
 END:VEVENT
 BEGIN:VEVENT
-UID:7509e52402b3@civicswa
-DTSTAMP:20261112T005412Z
+UID:5d8726c18873@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261211T020000Z
 DTEND:20261211T075900Z
 SUMMARY:Planning Commission Meeting (City of Spokane Valley)
@@ -489,8 +489,8 @@ LOCATION:City Hall - 10210 E. Sprague Ave Spokane Valley WA 99206
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
-UID:4f46b506a379@civicswa
-DTSTAMP:20261112T005412Z
+UID:4fcfd8d95363@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261214T170000Z
 DTEND:20261214T180000Z
 SUMMARY:BoCC Working Session Meeting (Spokane County)
@@ -498,8 +498,8 @@ LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenu
 URL:https://spokanecowa.portal.civicclerk.com/event/2383/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:c6edb532a242@civicswa
-DTSTAMP:20261112T005412Z
+UID:8dc31058fefb@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261214T180000Z
 DTEND:20261214T190000Z
 SUMMARY:Civil Service Commission Meeting (City of Cheney)
@@ -507,8 +507,8 @@ LOCATION:This meeting will be held in a HYBRID FORMAT\, with both in-person atte
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
 END:VEVENT
 BEGIN:VEVENT
-UID:6deef6413707@civicswa
-DTSTAMP:20261112T005412Z
+UID:b568b3aa7da7@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261215T020000Z
 DTEND:20261215T033000Z
 SUMMARY:Planning Commission Meeting (City of Cheney)
@@ -516,8 +516,8 @@ LOCATION:This meeting will be held in a HYBRID FORMAT\, with both in-person atte
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
 END:VEVENT
 BEGIN:VEVENT
-UID:8e5364328ed3@civicswa
-DTSTAMP:20261112T005412Z
+UID:d8e070376aa3@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261215T170000Z
 DTEND:20261215T180000Z
 SUMMARY:BoCC Board Briefing Meeting (Spokane County)
@@ -525,8 +525,8 @@ LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenu
 URL:https://spokanecowa.portal.civicclerk.com/event/2235/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:0ae2d557bebd@civicswa
-DTSTAMP:20261112T005412Z
+UID:c14361b591cd@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261215T173000Z
 DTEND:20261215T183000Z
 SUMMARY:CANCELLED: Civil Service Commission (City of Spokane boards and commissions)
@@ -534,8 +534,8 @@ LOCATION:City Council Chamber\, City Hall\, 808 W. Spokane Falls Blvd.\, Spokane
 URL:https://my.spokanecity.org/bcc/commissions/civil-service-commission/
 END:VEVENT
 BEGIN:VEVENT
-UID:b3e4dbe4fa46@civicswa
-DTSTAMP:20261112T005412Z
+UID:66597c5a86d7@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261215T220000Z
 DTEND:20261215T230000Z
 SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
@@ -543,8 +543,8 @@ LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commi
 URL:https://spokanecowa.portal.civicclerk.com/event/2289/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:70ebe4e3a500@civicswa
-DTSTAMP:20261112T005412Z
+UID:ce06fd4e990d@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261216T003000Z
 DTEND:20261216T013000Z
 SUMMARY:CANCELLED: Public Library Board of Trustees (City of Spokane boards and commissions)
@@ -552,8 +552,8 @@ LOCATION:Location changes\; see the board's page
 URL:https://my.spokanecity.org/bcc/boards/spokane-public-library-board-of-trustees/
 END:VEVENT
 BEGIN:VEVENT
-UID:bc0509fc3a7a@civicswa
-DTSTAMP:20261112T005412Z
+UID:322561e9c5a3@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261216T013000Z
 DTEND:20261216T023000Z
 SUMMARY:CANCELLED: Ombuds Commission (City of Spokane boards and commissions)
@@ -561,8 +561,8 @@ LOCATION:City Council Chamber\, City Hall\, 808 W. Spokane Falls Blvd.\, Spokane
 URL:https://my.spokanecity.org/bcc/commissions/ombuds-commission/
 END:VEVENT
 BEGIN:VEVENT
-UID:b07d12b9981e@civicswa
-DTSTAMP:20261112T005412Z
+UID:6ee1449109b0@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261216T020000Z
 DTEND:20261216T075900Z
 SUMMARY:City Council Meeting (City of Spokane Valley)
@@ -570,8 +570,8 @@ LOCATION:City Hall 10210 E Sprague Ave Spokane Valley WA 99206
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-UID:a8c6c2ee6f5e@civicswa
-DTSTAMP:20261112T005412Z
+UID:506d7e61ec66@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:CANCELLED: Bicycle Advisory Board (City of Spokane boards and commissions)
@@ -579,8 +579,8 @@ LOCATION:Council Briefing Center\, City Hall\, 808 W. Spokane Falls Blvd.\, Spok
 URL:https://my.spokanecity.org/bcc/boards/bicycle-advisory-board/
 END:VEVENT
 BEGIN:VEVENT
-UID:8223fd545a7c@civicswa
-DTSTAMP:20261112T005412Z
+UID:f97ecc89aa4a@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261216T020000Z
 DTEND:20261216T033000Z
 SUMMARY:CANCELLED: Chase Youth Commission (City of Spokane boards and commissions)
@@ -588,8 +588,8 @@ LOCATION:Conference Room 3B\, City Hall\, 808 W. Spokane Falls Blvd.\, Spokane
 URL:https://my.spokanecity.org/bcc/commissions/chase-youth-commission/
 END:VEVENT
 BEGIN:VEVENT
-UID:80f08bf13e04@civicswa
-DTSTAMP:20261112T005412Z
+UID:a47e7238ee9a@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261216T200000Z
 DTEND:20261216T213000Z
 SUMMARY:CANCELLED: East Sprague Business Improvement District Board (City of Spokane boards and commissions)
@@ -597,8 +597,8 @@ LOCATION:Sprague Union Terrace\, Community Room\, 1420 E. Sprague Ave.
 URL:https://my.spokanecity.org/bcc/boards/east-sprague-business-improvement-district-board/
 END:VEVENT
 BEGIN:VEVENT
-UID:dced61366cb7@civicswa
-DTSTAMP:20261112T005412Z
+UID:8b02e25177c2@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261217T170000Z
 DTEND:20261217T180000Z
 SUMMARY:CANCELLED: Spokane Airport Board (Spokane regional boards)
@@ -606,8 +606,8 @@ LOCATION:Spokane International Airport (Felts Field in April and September)
 URL:https://my.spokanecity.org/bcc/boards/spokane-airport-board/
 END:VEVENT
 BEGIN:VEVENT
-UID:f4e4a5c0753a@civicswa
-DTSTAMP:20261112T005412Z
+UID:cb848c46491d@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261217T180000Z
 DTEND:20261218T075900Z
 SUMMARY:Tourism Promotion Area (TPA) Commission Meeting (City of Spokane Valley)
@@ -615,8 +615,8 @@ LOCATION:Spokane Valley City Hall - 10210 E. Sprague Ave Spokane Valley WA 99206
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
-UID:7533246406ca@civicswa
-DTSTAMP:20261112T005412Z
+UID:f4028b35c1db@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261217T213000Z
 DTEND:20261217T233000Z
 SUMMARY:CANCELLED: Spokane Transit Authority Board (Spokane regional boards)
@@ -624,8 +624,8 @@ LOCATION:STA Boardroom\, 1230 W. Boone Ave.\, Spokane
 URL:https://my.spokanecity.org/bcc/boards/spokane-transit-authority/
 END:VEVENT
 BEGIN:VEVENT
-UID:691cff197e2c@civicswa
-DTSTAMP:20261112T005412Z
+UID:adb1f0694642@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261218T000000Z
 DTEND:20261218T010000Z
 SUMMARY:CANCELLED: Transportation Commission (City of Spokane boards and commissions)
@@ -633,8 +633,8 @@ LOCATION:Council Chambers\, City Hall\, 808 W. Spokane Falls Blvd.\, Spokane
 URL:https://my.spokanecity.org/bcc/commissions/transportation-commission/
 END:VEVENT
 BEGIN:VEVENT
-UID:2e2cc4bf08d6@civicswa
-DTSTAMP:20261112T005412Z
+UID:6eacc93dddae@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261221T170000Z
 DTEND:20261221T180000Z
 SUMMARY:BoCC Strategic Planning Meeting - 3rd Monday (Spokane County)
@@ -642,8 +642,8 @@ LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenu
 URL:https://spokanecowa.portal.civicclerk.com/event/2300/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:1647e4759816@civicswa
-DTSTAMP:20261112T005412Z
+UID:09a4396de006@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261222T170000Z
 DTEND:20261222T180000Z
 SUMMARY:BoCC Board Briefing Meeting (Spokane County)
@@ -651,8 +651,8 @@ LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenu
 URL:https://spokanecowa.portal.civicclerk.com/event/2337/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:7c2414481f42@civicswa
-DTSTAMP:20261112T005412Z
+UID:8d7d3fd4b820@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261222T220000Z
 DTEND:20261222T230000Z
 SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
@@ -660,8 +660,8 @@ LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commi
 URL:https://spokanecowa.portal.civicclerk.com/event/2290/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:e82322f7c294@civicswa
-DTSTAMP:20261112T005412Z
+UID:c3725ec02b8f@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261223T020000Z
 DTEND:20261223T033000Z
 SUMMARY:City Council Meeting (City of Cheney)
@@ -669,8 +669,8 @@ LOCATION:Council Chambers\, City Hall - 609 2nd Street Cheney WA 99004
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
 END:VEVENT
 BEGIN:VEVENT
-UID:fae6f19af860@civicswa
-DTSTAMP:20261112T005412Z
+UID:a0893460e62d@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261223T020000Z
 DTEND:20261223T075900Z
 SUMMARY:City Council Meeting (City of Spokane Valley)
@@ -678,8 +678,8 @@ LOCATION:City Hall 10210 E Sprague Ave Spokane Valley WA 99206
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-UID:50972bbbab7d@civicswa
-DTSTAMP:20261112T005412Z
+UID:87a7394a13c3@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261223T220000Z
 DTEND:20261223T230000Z
 SUMMARY:CANCELLED: Plan Commission (City of Spokane boards and commissions)
@@ -687,8 +687,8 @@ LOCATION:Council Briefing Center\, City Hall\, 808 W. Spokane Falls Blvd.\, Spok
 URL:https://my.spokanecity.org/bcc/commissions/plan-commission/
 END:VEVENT
 BEGIN:VEVENT
-UID:66674187360b@civicswa
-DTSTAMP:20261112T005412Z
+UID:aa6604ab8166@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261225T020000Z
 DTEND:20261225T075900Z
 SUMMARY:Planning Commission Meeting (City of Spokane Valley)
@@ -696,8 +696,8 @@ LOCATION:City Hall - 10210 E. Sprague Ave Spokane Valley WA 99206
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
-UID:c331cb613312@civicswa
-DTSTAMP:20261112T005412Z
+UID:e74fc0932a7c@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261228T233000Z
 DTEND:20261229T003000Z
 SUMMARY:CANCELLED: Spokane Housing Authority Board (Spokane regional boards)
@@ -705,8 +705,8 @@ LOCATION:SHA offices\, 25 W. Nora Ave.\, Spokane
 URL:https://my.spokanecity.org/bcc/boards/spokane-housing-authority-board/
 END:VEVENT
 BEGIN:VEVENT
-UID:27e5b7db210a@civicswa
-DTSTAMP:20261112T005412Z
+UID:35bde01d1dfc@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261229T170000Z
 DTEND:20261229T180000Z
 SUMMARY:BoCC Board Briefing Meeting (Spokane County)
@@ -714,8 +714,8 @@ LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenu
 URL:https://spokanecowa.portal.civicclerk.com/event/2237/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:007ae33b71c6@civicswa
-DTSTAMP:20261112T005412Z
+UID:5b65627a4507@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261229T220000Z
 DTEND:20261229T230000Z
 SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
@@ -723,8 +723,8 @@ LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commi
 URL:https://spokanecowa.portal.civicclerk.com/event/2184/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:fa0fa31aaf23@civicswa
-DTSTAMP:20261112T005412Z
+UID:734f54b2f42e@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261230T020000Z
 DTEND:20261230T075900Z
 SUMMARY:City Council Meeting (City of Spokane Valley)
@@ -732,8 +732,8 @@ LOCATION:City Hall 10210 E Sprague Ave Spokane Valley WA 99206
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-UID:2b28a35187ff@civicswa
-DTSTAMP:20261112T005412Z
+UID:35a10b383495@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270104T170000Z
 DTEND:20270104T180000Z
 SUMMARY:BoCC Strategic Planning Meeting - 1st Monday (Spokane County)
@@ -741,8 +741,8 @@ LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenu
 URL:https://spokanecowa.portal.civicclerk.com/event/2366/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:834391658580@civicswa
-DTSTAMP:20261112T005412Z
+UID:80877862dd0f@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270105T170000Z
 DTEND:20270105T180000Z
 SUMMARY:BoCC Board Briefing Meeting (Spokane County)
@@ -750,8 +750,8 @@ LOCATION:Board of County Commissioners' Conference Room - 1116 W. Broadway Avenu
 URL:https://spokanecowa.portal.civicclerk.com/event/2238/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:0300411d45eb@civicswa
-DTSTAMP:20261112T005412Z
+UID:8ab013ab69ca@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270105T220000Z
 DTEND:20270105T230000Z
 SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
@@ -759,8 +759,8 @@ LOCATION:Public Works Building - 1026 West Broadway Avenue\, Lower Level\, Commi
 URL:https://spokanecowa.portal.civicclerk.com/event/2292/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:86e96ada4cae@civicswa
-DTSTAMP:20261112T005412Z
+UID:787c5799e618@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270106T020000Z
 DTEND:20270106T033000Z
 SUMMARY:CANCELLED: Chase Youth Commission (City of Spokane boards and commissions)
@@ -768,8 +768,8 @@ LOCATION:Conference Room 3B\, City Hall\, 808 W. Spokane Falls Blvd.\, Spokane
 URL:https://my.spokanecity.org/bcc/commissions/chase-youth-commission/
 END:VEVENT
 BEGIN:VEVENT
-UID:05935d6e3503@civicswa
-DTSTAMP:20261112T005412Z
+UID:5f932ccfa774@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270106T210000Z
 DTEND:20270106T220000Z
 SUMMARY:CANCELLED: City Employees' Retirement Board (City of Spokane boards and commissions)
@@ -777,8 +777,8 @@ LOCATION:Council Briefing Chamber\, City Hall\, 808 W. Spokane Falls Blvd.\, Spo
 URL:https://my.spokanecity.org/bcc/boards/city-employees-retirement-board/
 END:VEVENT
 BEGIN:VEVENT
-UID:a872d7060042@civicswa
-DTSTAMP:20261112T005412Z
+UID:1617a7258f6b@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270107T000000Z
 DTEND:20270107T020000Z
 SUMMARY:CANCELLED: Community\, Housing and Human Services Board (City of Spokane boards and commissions)
@@ -786,8 +786,8 @@ LOCATION:Council Briefing Center\, City Hall\, 808 W. Spokane Falls Blvd.\, Spok
 URL:https://my.spokanecity.org/bcc/boards/community-housing-and-human-services-board/
 END:VEVENT
 BEGIN:VEVENT
-UID:a01efa2f41e7@civicswa
-DTSTAMP:20261112T005412Z
+UID:8c7949bc45e6@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270107T183000Z
 DTEND:20270107T193000Z
 SUMMARY:CANCELLED: Urban Native Advisory Council (City of Spokane boards and commissions)
@@ -795,8 +795,8 @@ LOCATION:Tribal Conference Room\, lobby\, City Hall\, 808 W. Spokane Falls Blvd.
 URL:https://my.spokanecity.org/bcc/councils/spokane-urban-native-advisory-council/
 END:VEVENT
 BEGIN:VEVENT
-UID:d32bea44e243@civicswa
-DTSTAMP:20261112T005412Z
+UID:e36f8fc53f0b@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270108T013000Z
 DTEND:20270108T023000Z
 SUMMARY:Historic Preservation Commission Meeting (City of Cheney)
@@ -804,8 +804,8 @@ LOCATION:This meeting will be held in a HYBRID FORMAT\, with both in-person atte
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
 END:VEVENT
 BEGIN:VEVENT
-UID:49dc0a3818f0@civicswa
-DTSTAMP:20261112T005412Z
+UID:8942ab870968@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270108T013000Z
 DTEND:20270108T023000Z
 SUMMARY:CANCELLED: Human Rights Commission (City of Spokane boards and commissions)

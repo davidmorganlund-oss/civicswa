@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Grays Harbor County
 BEGIN:VEVENT
-UID:adea37f2898b@civicswa
-DTSTAMP:20261112T005412Z
+UID:151d6f4f0431@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261117T180000Z
 DTEND:20261117T190000Z
 SUMMARY:CANCELLED: Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
@@ -12,8 +12,8 @@ LOCATION:100 W. Broadway\, Montesano\, and online
 URL:https://www.graysharbor.gov/government/commissioners/meetings-agendas/
 END:VEVENT
 BEGIN:VEVENT
-UID:29336a5ffb31@civicswa
-DTSTAMP:20261112T005412Z
+UID:e4aec1377ffb@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261124T180000Z
 DTEND:20261124T190000Z
 SUMMARY:CANCELLED: Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
@@ -21,8 +21,8 @@ LOCATION:100 W. Broadway\, Montesano\, and online
 URL:https://www.graysharbor.gov/government/commissioners/meetings-agendas/
 END:VEVENT
 BEGIN:VEVENT
-UID:5c3f782f1367@civicswa
-DTSTAMP:20261112T005412Z
+UID:65364aece286@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261124T183000Z
 DTEND:20261124T193000Z
 SUMMARY:Radio Board Meeting (City of Ocean Shores)
@@ -30,8 +30,8 @@ LOCATION:Ocean Shores Library
 URL:https://oceanshores.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=12748
 END:VEVENT
 BEGIN:VEVENT
-UID:48d9f729bb99@civicswa
-DTSTAMP:20261112T005412Z
+UID:12edb9ecdc2d@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261125T020000Z
 DTEND:20261125T030000Z
 SUMMARY:Regular City Council Meeting (City of Ocean Shores)
@@ -39,8 +39,8 @@ LOCATION:Convention Center
 URL:https://oceanshores.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=12738
 END:VEVENT
 BEGIN:VEVENT
-UID:799c1f40f0d1@civicswa
-DTSTAMP:20261112T005412Z
+UID:dd6b6b5ea8a1@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261125T020000Z
 DTEND:20261125T030000Z
 SUMMARY:Board meeting (Cosmopolis School District)
@@ -48,8 +48,8 @@ LOCATION:
 URL:https://www.cosmopolisschool.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:823c1f037215@civicswa
-DTSTAMP:20261112T005412Z
+UID:7df4084acefa@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261126T023000Z
 DTEND:20261126T043000Z
 SUMMARY:Aberdeen City Council Meeting (City of Aberdeen)
@@ -57,8 +57,8 @@ LOCATION:Aberdeen City Council meetings are held on the 3rd floor of Aberdeen Ci
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
-UID:8fc030cce432@civicswa
-DTSTAMP:20261112T005412Z
+UID:f586bcb7fac3@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261201T180000Z
 DTEND:20261201T190000Z
 SUMMARY:CANCELLED: Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
@@ -66,8 +66,8 @@ LOCATION:100 W. Broadway\, Montesano\, and online
 URL:https://www.graysharbor.gov/government/commissioners/meetings-agendas/
 END:VEVENT
 BEGIN:VEVENT
-UID:0d086256c941@civicswa
-DTSTAMP:20261112T005412Z
+UID:9a654d054f8f@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261208T180000Z
 DTEND:20261208T190000Z
 SUMMARY:CANCELLED: Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
@@ -75,8 +75,8 @@ LOCATION:100 W. Broadway\, Montesano\, and online
 URL:https://www.graysharbor.gov/government/commissioners/meetings-agendas/
 END:VEVENT
 BEGIN:VEVENT
-UID:8c7a8a96757c@civicswa
-DTSTAMP:20261112T005412Z
+UID:d51f52fd1f01@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:Regular City Council Meeting (City of Ocean Shores)
@@ -84,8 +84,8 @@ LOCATION:Convention Center
 URL:https://oceanshores.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=12741
 END:VEVENT
 BEGIN:VEVENT
-UID:2aab68b19594@civicswa
-DTSTAMP:20261112T005412Z
+UID:da51a99d734a@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261210T023000Z
 DTEND:20261210T043000Z
 SUMMARY:Aberdeen City Council Meeting (City of Aberdeen)
@@ -93,8 +93,8 @@ LOCATION:Aberdeen City Council meetings are held on the 3rd floor of Aberdeen Ci
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
-UID:b6990d8868d8@civicswa
-DTSTAMP:20261112T005412Z
+UID:7d43ee1b3dbd@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261215T180000Z
 DTEND:20261215T190000Z
 SUMMARY:CANCELLED: Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
@@ -102,8 +102,8 @@ LOCATION:100 W. Broadway\, Montesano\, and online
 URL:https://www.graysharbor.gov/government/commissioners/meetings-agendas/
 END:VEVENT
 BEGIN:VEVENT
-UID:0622e8d79004@civicswa
-DTSTAMP:20261112T005412Z
+UID:4195fe8f7d7b@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261222T180000Z
 DTEND:20261222T190000Z
 SUMMARY:CANCELLED: Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
@@ -111,8 +111,8 @@ LOCATION:100 W. Broadway\, Montesano\, and online
 URL:https://www.graysharbor.gov/government/commissioners/meetings-agendas/
 END:VEVENT
 BEGIN:VEVENT
-UID:737bec38fb04@civicswa
-DTSTAMP:20261112T005412Z
+UID:bf43f94362a0@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261222T183000Z
 DTEND:20261222T193000Z
 SUMMARY:Radio Board Meeting (City of Ocean Shores)
@@ -120,8 +120,8 @@ LOCATION:Ocean Shores Library
 URL:https://oceanshores.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=12745
 END:VEVENT
 BEGIN:VEVENT
-UID:2e5f024f9e63@civicswa
-DTSTAMP:20261112T005412Z
+UID:37b84a84349f@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:CANCELLED: Regular City Council Meeting (City of Ocean Shores)
@@ -129,8 +129,8 @@ LOCATION:Convention Center
 URL:https://oceanshores.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=12746
 END:VEVENT
 BEGIN:VEVENT
-UID:3ebc41d8a97b@civicswa
-DTSTAMP:20261112T005412Z
+UID:eeb64adbbae8@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:Board meeting (Cosmopolis School District)
@@ -138,8 +138,8 @@ LOCATION:
 URL:https://www.cosmopolisschool.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:b484f7d706d4@civicswa
-DTSTAMP:20261112T005412Z
+UID:d7438939a8da@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261224T023000Z
 DTEND:20261224T043000Z
 SUMMARY:Aberdeen City Council Meeting (City of Aberdeen)
@@ -147,8 +147,8 @@ LOCATION:Aberdeen City Council meetings are held on the 3rd floor of Aberdeen Ci
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
-UID:a0729a4e4447@civicswa
-DTSTAMP:20261112T005412Z
+UID:dd2f22919670@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261231T023000Z
 DTEND:20261231T043000Z
 SUMMARY:Aberdeen City Council Meeting (City of Aberdeen)
@@ -156,8 +156,8 @@ LOCATION:Aberdeen City Council meetings are held on the 3rd floor of Aberdeen Ci
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
-UID:21c06ca76131@civicswa
-DTSTAMP:20261112T005412Z
+UID:8f9b85f1f624@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270105T180000Z
 DTEND:20270105T190000Z
 SUMMARY:CANCELLED: Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)

@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Mason County
 BEGIN:VEVENT
-UID:8af088af952d@civicswa
-DTSTAMP:20261112T005412Z
+UID:3c411d07b2b6@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261116T170000Z
 DTEND:20261116T180000Z
 SUMMARY:CANCELLED: Board of County Commissioners Briefing (Mason County)
@@ -12,8 +12,8 @@ LOCATION:See the county's commissioners page
 URL:https://www.masoncountywa.gov/government/county_commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
-UID:268c687f1bfe@civicswa
-DTSTAMP:20261112T005412Z
+UID:2f138f1867e0@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261118T020000Z
 DTEND:20261118T030000Z
 SUMMARY:School Board Meeting - DO Board Room (Pioneer School District)
@@ -21,8 +21,8 @@ LOCATION:
 URL:https://www.psd402.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:d87633943106@civicswa
-DTSTAMP:20261112T005412Z
+UID:68a34d8dc89d@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261123T170000Z
 DTEND:20261123T180000Z
 SUMMARY:CANCELLED: Board of County Commissioners Briefing (Mason County)
@@ -30,8 +30,8 @@ LOCATION:See the county's commissioners page
 URL:https://www.masoncountywa.gov/government/county_commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
-UID:5f294164124a@civicswa
-DTSTAMP:20261112T005412Z
+UID:b75dfe4d2902@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261125T023000Z
 DTEND:20261125T033000Z
 SUMMARY:Board of Directors Meeting (Southside School District)
@@ -39,8 +39,8 @@ LOCATION:
 URL:https://southsideschool.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:3b2b074e1a2b@civicswa
-DTSTAMP:20261112T005412Z
+UID:79497827e996@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261130T170000Z
 DTEND:20261130T180000Z
 SUMMARY:CANCELLED: Board of County Commissioners Briefing (Mason County)
@@ -48,8 +48,8 @@ LOCATION:See the county's commissioners page
 URL:https://www.masoncountywa.gov/government/county_commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
-UID:93bd6d5ba3f8@civicswa
-DTSTAMP:20261112T005412Z
+UID:c101bca4acad@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261207T170000Z
 DTEND:20261207T180000Z
 SUMMARY:CANCELLED: Board of County Commissioners Briefing (Mason County)
@@ -57,8 +57,8 @@ LOCATION:See the county's commissioners page
 URL:https://www.masoncountywa.gov/government/county_commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
-UID:756f7b9fea3c@civicswa
-DTSTAMP:20261112T005412Z
+UID:de19c19967bd@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261214T170000Z
 DTEND:20261214T180000Z
 SUMMARY:CANCELLED: Board of County Commissioners Briefing (Mason County)
@@ -66,8 +66,8 @@ LOCATION:See the county's commissioners page
 URL:https://www.masoncountywa.gov/government/county_commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
-UID:56d05b8ca047@civicswa
-DTSTAMP:20261112T005412Z
+UID:9cbaa5a8d242@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:School Board Meeting - DO Board Room (Pioneer School District)
@@ -75,8 +75,8 @@ LOCATION:
 URL:https://www.psd402.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:1353b9d0772a@civicswa
-DTSTAMP:20261112T005412Z
+UID:823f9030556a@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261216T023000Z
 DTEND:20261216T033000Z
 SUMMARY:Board of Directors Meeting (Southside School District)
@@ -84,8 +84,8 @@ LOCATION:
 URL:https://southsideschool.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:1a339c996f66@civicswa
-DTSTAMP:20261112T005412Z
+UID:ad8e2abf29fd@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261221T170000Z
 DTEND:20261221T180000Z
 SUMMARY:CANCELLED: Board of County Commissioners Briefing (Mason County)
@@ -93,8 +93,8 @@ LOCATION:See the county's commissioners page
 URL:https://www.masoncountywa.gov/government/county_commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
-UID:2c27ed0c49b5@civicswa
-DTSTAMP:20261112T005412Z
+UID:1d5799a0dd41@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261228T170000Z
 DTEND:20261228T180000Z
 SUMMARY:CANCELLED: Board of County Commissioners Briefing (Mason County)
@@ -102,8 +102,8 @@ LOCATION:See the county's commissioners page
 URL:https://www.masoncountywa.gov/government/county_commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
-UID:2b246af54492@civicswa
-DTSTAMP:20261112T005412Z
+UID:8c04707e0534@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270104T170000Z
 DTEND:20270104T180000Z
 SUMMARY:CANCELLED: Board of County Commissioners Briefing (Mason County)

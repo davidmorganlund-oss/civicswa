@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Chelan County
 BEGIN:VEVENT
-UID:d34150e6fb98@civicswa
-DTSTAMP:20261112T005412Z
+UID:9c6194f12e44@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261113T011500Z
 DTEND:20261113T021500Z
 SUMMARY:City Council Special Workshop (City of Chelan)
@@ -12,8 +12,8 @@ LOCATION:Chelan City Hall\, 135 E Johnson Ave\, Chelan
 URL:https://chelanwa.portal.civicclerk.com/event/3239/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:e51070868454@civicswa
-DTSTAMP:20261112T005412Z
+UID:ff1dd67f5fa2@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261119T011500Z
 DTEND:20261119T021500Z
 SUMMARY:Planning Commission (City of Chelan)
@@ -21,8 +21,8 @@ LOCATION:Chelan City Hall\, 135 E Johnson Ave\, Chelan
 URL:https://chelanwa.portal.civicclerk.com/event/3244/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:079a4647d73a@civicswa
-DTSTAMP:20261112T005412Z
+UID:8697219f6b15@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261125T011500Z
 DTEND:20261125T021500Z
 SUMMARY:City Council Meeting (City of Chelan)
@@ -30,8 +30,8 @@ LOCATION:Chelan City Hall\, 135 E Johnson Ave\, Chelan
 URL:https://chelanwa.portal.civicclerk.com/event/3240/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:bf195c269e8c@civicswa
-DTSTAMP:20261112T005412Z
+UID:5c31b75f05d0@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261202T011500Z
 DTEND:20261202T021500Z
 SUMMARY:City Council Workshop (City of Chelan)
@@ -39,8 +39,8 @@ LOCATION:Chelan City Hall\, 135 E Johnson Ave\, Chelan
 URL:https://chelanwa.portal.civicclerk.com/event/3241/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:26c4ea9754f9@civicswa
-DTSTAMP:20261112T005412Z
+UID:d8043614fda5@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261209T011500Z
 DTEND:20261209T021500Z
 SUMMARY:City Council Meeting (City of Chelan)

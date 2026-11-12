@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Whatcom County
 BEGIN:VEVENT
-UID:d3c565054fb9@civicswa
-DTSTAMP:20261112T005412Z
+UID:7eb538f36383@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261113T003000Z
 DTEND:20261113T013000Z
 SUMMARY:Special Event (Whatcom County)
@@ -12,8 +12,8 @@ LOCATION:Stemma Brewing\, 2039 Moore St\, Bellingham\, WA 98229
 URL:https://whatcom.legistar.com/MeetingDetail.aspx?LEGID=3408&GID=694&G=EEA73D23-6E2E-458B-A953-3C147C8AA447
 END:VEVENT
 BEGIN:VEVENT
-UID:a44d5f1300ed@civicswa
-DTSTAMP:20261112T005412Z
+UID:d11cfcf5b64f@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261113T020000Z
 DTEND:20261113T075900Z
 SUMMARY:Planning Commission Meeting (City of Blaine)
@@ -21,8 +21,8 @@ LOCATION:Council Chambers - 435 Martin Street\, Suite 4000 Blaine WA 98230
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
-UID:af4646a5d9e1@civicswa
-DTSTAMP:20261112T005412Z
+UID:b01b724ebbd3@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261116T220000Z
 DTEND:20261116T230000Z
 SUMMARY:Finance Committee (City of Lynden)
@@ -30,8 +30,8 @@ LOCATION:City Hall\, 300 4th Street\, Lynden
 URL:https://lyndenwa.portal.civicclerk.com/event/835/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:5aa58969133f@civicswa
-DTSTAMP:20261112T005412Z
+UID:5029e33c3fee@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261117T030000Z
 DTEND:20261117T040000Z
 SUMMARY:City Council Meeting (City of Lynden)
@@ -39,8 +39,8 @@ LOCATION:City Hall Annex\, 205 4th Street\, Lynden
 URL:https://lyndenwa.portal.civicclerk.com/event/797/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:b9c824ebe00c@civicswa
-DTSTAMP:20261112T005412Z
+UID:b9728cd750af@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261123T213000Z
 DTEND:20261124T075900Z
 SUMMARY:Civil Service Commission Meeting (City of Blaine)
@@ -48,8 +48,8 @@ LOCATION:Blaine WA 98230
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=76
 END:VEVENT
 BEGIN:VEVENT
-UID:9dd7503544a6@civicswa
-DTSTAMP:20261112T005412Z
+UID:64b0c5b6884b@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261124T020000Z
 DTEND:20261124T075900Z
 SUMMARY:City Council Meeting (City of Blaine)
@@ -57,8 +57,8 @@ LOCATION:Blaine WA 98230
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=19
 END:VEVENT
 BEGIN:VEVENT
-UID:97b7d5f851a1@civicswa
-DTSTAMP:20261112T005412Z
+UID:139fe02fc845@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261125T030000Z
 DTEND:20261125T040000Z
 SUMMARY:City Council (City of Everson)
@@ -66,8 +66,8 @@ LOCATION:Council Chambers
 URL:https://cieversonwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=399
 END:VEVENT
 BEGIN:VEVENT
-UID:8bdcccc993a4@civicswa
-DTSTAMP:20261112T005412Z
+UID:7b0022c645fe@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261204T023000Z
 DTEND:20261204T033000Z
 SUMMARY:CANCELLED: Special Event (Whatcom County)
@@ -75,8 +75,8 @@ LOCATION:Lynden Library\, 216 4th Street\, Lynden\, WA 98264
 URL:https://whatcom.legistar.com/MeetingDetail.aspx?LEGID=3409&GID=694&G=EEA73D23-6E2E-458B-A953-3C147C8AA447
 END:VEVENT
 BEGIN:VEVENT
-UID:92c93d17aa9f@civicswa
-DTSTAMP:20261112T005412Z
+UID:126864649421@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261208T030000Z
 DTEND:20261208T040000Z
 SUMMARY:City Council Meeting (City of Lynden)
@@ -84,8 +84,8 @@ LOCATION:City Hall Annex\, 205 4th Street\, Lynden
 URL:https://lyndenwa.portal.civicclerk.com/event/785/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:5b1019dd1f3e@civicswa
-DTSTAMP:20261112T005412Z
+UID:898f6fb042e1@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261210T000000Z
 DTEND:20261210T010000Z
 SUMMARY:Public Works Committee Meeting (City of Lynden)
@@ -93,8 +93,8 @@ LOCATION:
 URL:https://lyndenwa.portal.civicclerk.com/event/779/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:2c39ec521f6c@civicswa
-DTSTAMP:20261112T005412Z
+UID:daf6cb34ae8f@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261211T000000Z
 DTEND:20261211T010000Z
 SUMMARY:Public Safety Committee (City of Lynden)
@@ -102,8 +102,8 @@ LOCATION:Police Department Conference Room\, 203 19th Street\, Lynden
 URL:https://lyndenwa.portal.civicclerk.com/event/823/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:3bc4cad0fec5@civicswa
-DTSTAMP:20261112T005412Z
+UID:50ccfc44ac6e@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261211T020000Z
 DTEND:20261211T075900Z
 SUMMARY:Planning Commission Meeting (City of Blaine)
@@ -111,8 +111,8 @@ LOCATION:Council Chambers - 435 Martin Street\, Suite 4000 Blaine WA 98230
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
-UID:dc28c5d3124c@civicswa
-DTSTAMP:20261112T005412Z
+UID:bd42c5d6f40e@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261215T020000Z
 DTEND:20261215T075900Z
 SUMMARY:City Council Meeting (City of Blaine)
@@ -120,8 +120,8 @@ LOCATION:Blaine WA 98230
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=19
 END:VEVENT
 BEGIN:VEVENT
-UID:3919e5dfa3e9@civicswa
-DTSTAMP:20261112T005412Z
+UID:27360a2be077@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261221T220000Z
 DTEND:20261221T230000Z
 SUMMARY:Finance Committee (City of Lynden)
@@ -129,8 +129,8 @@ LOCATION:City Hall\, 300 4th Street\, Lynden
 URL:https://lyndenwa.portal.civicclerk.com/event/836/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:fd2d51296342@civicswa
-DTSTAMP:20261112T005412Z
+UID:605ff0f847eb@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261222T030000Z
 DTEND:20261222T040000Z
 SUMMARY:City Council Meeting (City of Lynden)
@@ -138,8 +138,8 @@ LOCATION:City Hall Annex\, 205 4th Street\, Lynden
 URL:https://lyndenwa.portal.civicclerk.com/event/798/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:24cf0f237d01@civicswa
-DTSTAMP:20261112T005412Z
+UID:b8fa3a6c35c5@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261228T213000Z
 DTEND:20261229T075900Z
 SUMMARY:Civil Service Commission Meeting (City of Blaine)
@@ -147,8 +147,8 @@ LOCATION:Blaine WA 98230
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=76
 END:VEVENT
 BEGIN:VEVENT
-UID:00b272594288@civicswa
-DTSTAMP:20261112T005412Z
+UID:79fe4e51486e@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261229T020000Z
 DTEND:20261229T075900Z
 SUMMARY:City Council Meeting (City of Blaine)
@@ -156,8 +156,8 @@ LOCATION:Blaine WA 98230
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=19
 END:VEVENT
 BEGIN:VEVENT
-UID:bf6e41066117@civicswa
-DTSTAMP:20261112T005412Z
+UID:c5a668d2d271@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270105T030000Z
 DTEND:20270105T040000Z
 SUMMARY:City Council Meeting (City of Lynden)
@@ -165,8 +165,8 @@ LOCATION:City Hall Annex\, 205 4th Street\, Lynden
 URL:https://lyndenwa.portal.civicclerk.com/event/786/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:665408c190b1@civicswa
-DTSTAMP:20261112T005412Z
+UID:df7f317d8ddb@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270107T000000Z
 DTEND:20270107T010000Z
 SUMMARY:Public Works Committee (City of Lynden)
@@ -174,8 +174,8 @@ LOCATION:City Hall\, 300 4th Street\, Lynden
 URL:https://lyndenwa.portal.civicclerk.com/event/810/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:2f62a635c8c8@civicswa
-DTSTAMP:20261112T005412Z
+UID:10f8cfc3b6d2@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270108T000000Z
 DTEND:20270108T010000Z
 SUMMARY:Public Safety Committee (City of Lynden)

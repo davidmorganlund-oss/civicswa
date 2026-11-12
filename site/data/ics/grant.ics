@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Grant County
 BEGIN:VEVENT
-UID:d65ea2d62717@civicswa
-DTSTAMP:20261112T005412Z
+UID:b608d0255bcc@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261112T000000Z
 DTEND:20261112T010000Z
 SUMMARY:Veteran's Advisory Board (VAB) Meeting (Grant County)
@@ -12,8 +12,8 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=51
 END:VEVENT
 BEGIN:VEVENT
-UID:73dfdbf34505@civicswa
-DTSTAMP:20261112T005412Z
+UID:be28c5c4d94c@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261113T020000Z
 DTEND:20261113T075900Z
 SUMMARY:CANCELLED: Planning Commission Meeting (City of Moses Lake)
@@ -21,8 +21,8 @@ LOCATION:Moses Lake WA 98837
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28
 END:VEVENT
 BEGIN:VEVENT
-UID:f9955cf7adf5@civicswa
-DTSTAMP:20261112T005412Z
+UID:9c6062eb0f44@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261113T020000Z
 DTEND:20261113T024500Z
 SUMMARY:Council Meeting - Regular meeting (Town of Wilson Creek)
@@ -30,8 +30,8 @@ LOCATION:
 URL:https://www.wilsoncreekwa.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:55ca436bae11@civicswa
-DTSTAMP:20261112T005412Z
+UID:474f9b4bf9ca@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261116T160000Z
 DTEND:20261117T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -39,8 +39,8 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:3e1f832504f1@civicswa
-DTSTAMP:20261112T005412Z
+UID:0db8e001bdc1@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261117T160000Z
 DTEND:20261118T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -48,8 +48,8 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:dbf73a127bbd@civicswa
-DTSTAMP:20261112T005412Z
+UID:83bc471a3abb@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261119T020000Z
 DTEND:20261119T040000Z
 SUMMARY:City Council Regular Meeting (City of Ephrata)
@@ -57,8 +57,8 @@ LOCATION:Ephrata City Hall - 121 Alder St SW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
-UID:033035f15090@civicswa
-DTSTAMP:20261112T005412Z
+UID:066a8934bb6d@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261123T160000Z
 DTEND:20261124T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -66,16 +66,16 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:0bb3c11d3979@civicswa
-DTSTAMP:20261112T005412Z
+UID:936875d8c75d@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:City Council Regular Meeting - starts at 6:30 pm (City of Moses Lake)
 LOCATION:Moses Lake WA 98837
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
 END:VEVENT
 BEGIN:VEVENT
-UID:d15849f33357@civicswa
-DTSTAMP:20261112T005412Z
+UID:5ccd5702d71c@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261124T160000Z
 DTEND:20261125T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -83,8 +83,8 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:3804ce27a567@civicswa
-DTSTAMP:20261112T005412Z
+UID:ff306b7cf711@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261130T160000Z
 DTEND:20261201T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -92,8 +92,8 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:8d4b0aed859c@civicswa
-DTSTAMP:20261112T005412Z
+UID:d1c6da57ee2e@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261201T160000Z
 DTEND:20261202T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -101,8 +101,8 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:f2b5be976cd4@civicswa
-DTSTAMP:20261112T005412Z
+UID:55a005f84f44@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261202T173000Z
 DTEND:20261202T190000Z
 SUMMARY:Tourism Advisory Committee Meeting (Grant County)
@@ -110,8 +110,8 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
 END:VEVENT
 BEGIN:VEVENT
-UID:457a477444c9@civicswa
-DTSTAMP:20261112T005412Z
+UID:80a9cb90d753@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261203T020000Z
 DTEND:20261203T040000Z
 SUMMARY:City Council Regular Meeting (City of Ephrata)
@@ -119,8 +119,8 @@ LOCATION:Ephrata City Hall - 121 Alder St SW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
-UID:60d875dcd669@civicswa
-DTSTAMP:20261112T005412Z
+UID:9db24ee4841d@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261204T023000Z
 DTEND:20261204T075900Z
 SUMMARY:Municipal Airport Commission (City of Moses Lake)
@@ -128,8 +128,8 @@ LOCATION:Information to join the meeting will be posted on the agenda.&nbsp\; - 
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=47
 END:VEVENT
 BEGIN:VEVENT
-UID:6fe8564edad8@civicswa
-DTSTAMP:20261112T005412Z
+UID:120c6bb0a456@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261207T160000Z
 DTEND:20261208T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -137,8 +137,8 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:983059e49442@civicswa
-DTSTAMP:20261112T005412Z
+UID:126466c72929@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261207T200000Z
 DTEND:20261207T220000Z
 SUMMARY:Parks Commission Regular Meeting (City of Ephrata)
@@ -146,16 +146,16 @@ LOCATION:Ephrata Recreation Center (ERC) - 112 Basin St SW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
-UID:f39179fdc680@civicswa
-DTSTAMP:20261112T005412Z
+UID:2d03f66fef59@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART;VALUE=DATE:20261208
 SUMMARY:City Council Regular Meeting - starts at 6:30 pm (City of Moses Lake)
 LOCATION:Moses Lake WA 98837
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
 END:VEVENT
 BEGIN:VEVENT
-UID:c398b5287ea5@civicswa
-DTSTAMP:20261112T005412Z
+UID:8ff773144f30@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261208T160000Z
 DTEND:20261209T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -163,8 +163,8 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:7ac761308851@civicswa
-DTSTAMP:20261112T005412Z
+UID:dacde8d466cf@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261208T193000Z
 DTEND:20261208T203000Z
 SUMMARY:Board of Directors Meeting (Quincy School District)
@@ -172,8 +172,8 @@ LOCATION:Quincy Middle School
 URL:https://hqsd-wednet.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=84
 END:VEVENT
 BEGIN:VEVENT
-UID:eca8fd603343@civicswa
-DTSTAMP:20261112T005412Z
+UID:3835c1c4fcd7@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261209T180000Z
 DTEND:20261209T190000Z
 SUMMARY:LEOFF-1 Disability Board Meeting (Grant County)
@@ -181,8 +181,8 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=51
 END:VEVENT
 BEGIN:VEVENT
-UID:c6d1727fc66a@civicswa
-DTSTAMP:20261112T005412Z
+UID:4fc0b291ee03@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261210T000000Z
 DTEND:20261210T010000Z
 SUMMARY:Veteran's Advisory Board (VAB) Meeting (Grant County)
@@ -190,8 +190,8 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=51
 END:VEVENT
 BEGIN:VEVENT
-UID:f693ed4ee985@civicswa
-DTSTAMP:20261112T005412Z
+UID:f5bddb6dd51b@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261211T020000Z
 DTEND:20261211T075900Z
 SUMMARY:Planning Commission Meeting (City of Moses Lake)
@@ -199,8 +199,8 @@ LOCATION:Moses Lake WA 98837
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28
 END:VEVENT
 BEGIN:VEVENT
-UID:b420345237bc@civicswa
-DTSTAMP:20261112T005412Z
+UID:468e0764a0c6@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261211T020000Z
 DTEND:20261211T024500Z
 SUMMARY:Council Meeting - Regular meeting (Town of Wilson Creek)
@@ -208,8 +208,8 @@ LOCATION:
 URL:https://www.wilsoncreekwa.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:159fbf67393f@civicswa
-DTSTAMP:20261112T005412Z
+UID:dbe3e0d4e830@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261214T160000Z
 DTEND:20261215T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -217,8 +217,8 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:6f3ba92473a7@civicswa
-DTSTAMP:20261112T005412Z
+UID:a0002ebc293d@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261215T160000Z
 DTEND:20261216T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -226,8 +226,8 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:da33c565cc99@civicswa
-DTSTAMP:20261112T005412Z
+UID:3113e0c21183@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261217T020000Z
 DTEND:20261217T040000Z
 SUMMARY:City Council Regular Meeting (City of Ephrata)
@@ -235,8 +235,8 @@ LOCATION:Ephrata City Hall - 121 Alder St SW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
-UID:e03b9be48d9e@civicswa
-DTSTAMP:20261112T005412Z
+UID:27c99357a0f6@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261221T160000Z
 DTEND:20261222T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -244,8 +244,8 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:e8111e5ffcf7@civicswa
-DTSTAMP:20261112T005412Z
+UID:18b16522b58a@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261222T160000Z
 DTEND:20261223T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -253,8 +253,8 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:d04456355765@civicswa
-DTSTAMP:20261112T005412Z
+UID:37217e63923b@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261228T160000Z
 DTEND:20261229T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -262,8 +262,8 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:f8e218241b28@civicswa
-DTSTAMP:20261112T005412Z
+UID:b8eb21f37e87@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261229T160000Z
 DTEND:20261230T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -271,8 +271,8 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:023791b0c74a@civicswa
-DTSTAMP:20261112T005412Z
+UID:8e5a0459eb9f@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270104T160000Z
 DTEND:20270105T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -280,8 +280,8 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:99c7bbac2f06@civicswa
-DTSTAMP:20261112T005412Z
+UID:e3e62d34cd24@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270104T200000Z
 DTEND:20270104T220000Z
 SUMMARY:Parks Commission Regular Meeting (City of Ephrata)
@@ -289,8 +289,8 @@ LOCATION:Ephrata Recreation Center (ERC) - 112 Basin St SW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
-UID:6f437c91dc65@civicswa
-DTSTAMP:20261112T005412Z
+UID:563e56e21528@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270105T160000Z
 DTEND:20270106T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -298,8 +298,8 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
-UID:1c070d4ef696@civicswa
-DTSTAMP:20261112T005412Z
+UID:e03edbeaebc0@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270106T173000Z
 DTEND:20270106T190000Z
 SUMMARY:Tourism Advisory Committee Meeting (Grant County)
@@ -307,8 +307,8 @@ LOCATION:Courthouse Complex - 35 C ST NW Ephrata WA 98823
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
 END:VEVENT
 BEGIN:VEVENT
-UID:d70dc83e9e06@civicswa
-DTSTAMP:20261112T005412Z
+UID:c76bf694b9c2@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270107T020000Z
 DTEND:20270107T040000Z
 SUMMARY:City Council Regular Meeting (City of Ephrata)

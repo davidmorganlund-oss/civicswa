@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Stevens County
 BEGIN:VEVENT
-UID:a71166d7ce79@civicswa
-DTSTAMP:20261112T005412Z
+UID:5edc5edc56c1@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261119T023000Z
 DTEND:20261119T075900Z
 SUMMARY:Chewelah City Council Meeting (City of Chewelah)
@@ -12,8 +12,8 @@ LOCATION:Chewelah City Council Chambers - 301 East Clay Avenue Chewelah WA 99109
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-UID:0c2e6045c470@civicswa
-DTSTAMP:20261112T005412Z
+UID:52a7949c8c8a@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261203T023000Z
 DTEND:20261203T075900Z
 SUMMARY:Chewelah City Council Meeting (City of Chewelah)
@@ -21,8 +21,8 @@ LOCATION:Chewelah City Council Chambers - 301 East Clay Avenue Chewelah WA 99109
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-UID:aa2fdb54123c@civicswa
-DTSTAMP:20261112T005412Z
+UID:29b74985a036@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20261217T023000Z
 DTEND:20261217T075900Z
 SUMMARY:Chewelah City Council Meeting (City of Chewelah)
@@ -30,8 +30,8 @@ LOCATION:Chewelah City Council Chambers - 301 East Clay Avenue Chewelah WA 99109
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
-UID:31fda5454e40@civicswa
-DTSTAMP:20261112T005412Z
+UID:c2aa16d45e03@civicswa
+DTSTAMP:20261112T010015Z
 DTSTART:20270107T023000Z
 DTEND:20270107T075900Z
 SUMMARY:Chewelah City Council Meeting (City of Chewelah)
