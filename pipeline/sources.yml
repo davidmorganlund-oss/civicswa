@@ -1118,6 +1118,53 @@ sources:
     area: Granite Falls
     homepage: https://granitefallswa.portal.civicclerk.com/
 
+  - id: bonney-lake
+    name: City of Bonney Lake
+    type: civicclerk
+    tenant: bonneylakewa
+    county: Pierce
+    area: Bonney Lake
+    homepage: https://bonneylakewa.portal.civicclerk.com/
+
+  - id: ferndale
+    name: City of Ferndale
+    type: civicplus
+    site: https://www.cityofferndale.org
+    categories: [44, 14]
+    include: council|commission|board|committee|hearing|meeting|session|workshop
+    county: Whatcom
+    area: Ferndale
+    homepage: https://www.cityofferndale.org/Calendar.aspx
+
+  - id: dupont
+    name: City of DuPont
+    type: civicplus
+    site: https://www.dupontwa.gov
+    categories: [14, 32]
+    include: council|commission|board|committee|hearing|meeting|session|workshop
+    county: Pierce
+    area: DuPont
+    homepage: https://www.dupontwa.gov/Calendar.aspx
+
+  # Granicus portals: meetings appear once their agendas are posted.
+  - id: lynnwood
+    name: City of Lynnwood
+    type: granicus
+    tenant: lynnwoodwa
+    view_id: 1
+    county: Snohomish
+    area: Lynnwood
+    homepage: https://lynnwoodwa.granicus.com/ViewPublisher.php?view_id=1
+
+  - id: poulsbo
+    name: City of Poulsbo
+    type: granicus
+    tenant: cityofpoulsbo
+    view_id: 1
+    county: Kitsap
+    area: Poulsbo
+    homepage: https://cityofpoulsbo.granicus.com/ViewPublisher.php?view_id=1
+
   # Library systems whose boards post meetings as library events.
   - id: kcls-board
     name: King County Library System
@@ -1140,6 +1187,60 @@ sources:
     county: Snohomish
     area: countywide
     homepage: https://www.sno-isle.org/leadership/
+
+  # Library boards with a published standing schedule. Meeting places rotate
+  # among branches, so the location points to the library's own schedule.
+  - id: kitsap-regional-library-board
+    name: Kitsap Regional Library
+    type: civicweb
+    base: https://krl.community.diligentoneplatform.com
+    county: Kitsap
+    area: countywide
+    category: library
+    homepage: https://krl.org/trustees
+
+  - id: pierce-county-library-board
+    name: Pierce County Library System
+    type: schedule
+    county: Pierce
+    area: countywide
+    category: library
+    homepage: https://mypcls.org/about-us/board-of-trustees/
+    meetings:
+      - title: Board of Trustees Meeting
+        when: 2nd Wednesday
+        time: "15:30"
+        skip_months: [7]
+        location: "Location rotates among branches; see the library's board page"
+        url: https://mypcls.org/about-us/board-of-trustees/
+
+  - id: spokane-county-library-board
+    name: Spokane County Library District
+    type: schedule
+    county: Spokane
+    area: countywide
+    category: library
+    homepage: https://scld.org/about/board-of-trustees
+    meetings:
+      - title: Board of Trustees Meeting
+        when: 3rd Tuesday
+        time: "16:00"
+        location: "Location rotates among branches; see the district's meeting schedule"
+        url: https://scld.org/about/board-of-trustees
+
+  - id: fvrl-board
+    name: Fort Vancouver Regional Library District
+    type: schedule
+    county: Clark
+    area: countywide
+    category: library
+    homepage: https://www.fvrl.org/about/board-of-trustees/
+    meetings:
+      - title: Board of Trustees Meeting
+        when: 3rd Monday
+        time: "18:00"
+        location: "Location rotates among branches, in person and online; see the library's board page"
+        url: https://www.fvrl.org/about/board-of-trustees/
 
   # County commissions with a published standing schedule and agendas only as PDFs.
   - id: kitsap-county

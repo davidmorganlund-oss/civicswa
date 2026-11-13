@@ -51,7 +51,7 @@ def is_cancelled(*texts: str) -> bool:
 
 _MON = r"(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)[a-z]*\.?"
 DATE_IN_TITLE = re.compile(
-    r"^\d{4}[./-]\d{1,2}[./-]\d{1,2}\s+"                                   # leading 2026.11.10
+    r"^(?:\d{4}[./-]\d{1,2}[./-]\d{1,2}|" + _MON + r"\s+\d{1,2},?\s+\d{4})\s+"   # leading 2026.11.10 or December 01, 2026
     r"|\s*(?:[-–@]|\bof|\bon|\bfor)?\s*(?:(?:Mon|Tues|Wednes|Thurs|Fri|Satur|Sun)day,?\s+)?(?:\d{1,2}\s+" + _MON + r"\s+\d{4}|" + _MON + r"\s+\d{1,2},?\s+\d{4})"
     r"(?:\s*@\s*(?:\d{1,2}(?::\d{2})?\s*[ap]\.?m\.?)?)?\s*$"                   # trailing dates, optional time
     r"|\s+\d{1,2}/\d{1,2}/\d{2,4}\s*$", re.I)                              # trailing 11/12/26
