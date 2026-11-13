@@ -885,12 +885,52 @@ def fetch_granicus(src, start_day, end_day, tz):
             if start_day <= datetime.fromisoformat(e["start"]).date() <= end_day]
 
 
+# --- Apptegy (Thrillshare) school district sites ---
+# District calendars mix school events with board meetings, so sources keep
+# only the titles their "include" pattern matches.
+
+def normalize_apptegy(src, payload, tz):
+    events = []
+    for r in payload.get("events") or []:
+        try:
+            start = datetime.strptime(r["formatted_start"], "%Y-%m-%d %H:%M:%S").replace(tzinfo=tz)
+            end = datetime.strptime(r["formatted_end"], "%Y-%m-%d %H:%M:%S").replace(tzinfo=tz) if r.get("formatted_end") else None
+        except (KeyError, TypeError, ValueError):
+            continue
+        all_day = bool(r.get("all_day"))
+        events.append(make_event(
+            src, title=r.get("title") or "", start=start, end=None if all_day or end == start else end,
+            all_day=all_day, location=r.get("venue") or r.get("address") or "",
+            url=src.get("homepage", ""), uid=f"apptegy-{r.get('id')}-{r.get('formatted_start')}",
+        ))
+    return events
+
+
+def fetch_apptegy(src, start_day, end_day, tz):
+    events, seen = [], set()
+    for page in range(1, 9):
+        payload = get(f"https://thrillshare-cmsv2.services.thrillshare.com/api/v4/o/{src['org']}/cms/events",
+                      {"locale": "en", "page_no": page}).json()
+        batch = normalize_apptegy(src, payload, tz)
+        if not batch:
+            break
+        for e in batch:
+            day = datetime.fromisoformat(e["start"]).date()
+            if e["id"] not in seen and start_day <= day <= end_day:
+                seen.add(e["id"])
+                events.append(e)
+        if datetime.fromisoformat(batch[-1]["start"]).date() > end_day:
+            break
+    return events
+
+
 CONNECTORS = {"legistar": fetch_legistar, "civicclerk": fetch_civicclerk, "ics": fetch_ics,
               "bibliocommons": fetch_bibliocommons, "municode": fetch_municode, "mec_rss": fetch_mec_rss,
               "govaccess_rss": fetch_govaccess_rss, "civicplus": fetch_civicplus,
               "primegov": fetch_primegov, "civicweb": fetch_civicweb,
               "spokane_council": fetch_spokane_council, "schedule": fetch_schedule,
-              "wsl_committees": fetch_wsl_committees, "granicus": fetch_granicus}
+              "wsl_committees": fetch_wsl_committees, "granicus": fetch_granicus,
+              "apptegy": fetch_apptegy}
 
 
 # ---------- outputs ----------

@@ -332,3 +332,15 @@ def test_granicus_agenda_rss():
     a, b = build.normalize_granicus(src, xml, TZ)
     assert a["title"] == "City Council Business Meeting" and a["start"].startswith("2026-11-24T19:00")
     assert b["title"] == "Planning Commission" and b["all_day"]
+
+
+def test_apptegy_events():
+    src = {"id": "sps", "name": "Spokane Public Schools", "area": "Spokane", "include": r"\bboard\b"}
+    payload = {"events": [
+        {"id": 1, "title": "Board of Directors Regular Meeting", "venue": "Admin Building", "all_day": False,
+         "formatted_start": "2026-12-09 18:00:00", "formatted_end": "2026-12-09 20:00:00"},
+        {"id": 2, "title": "Late Start Monday", "all_day": True,
+         "formatted_start": "2026-11-16 00:00:00", "formatted_end": "2026-11-16 00:00:00"}]}
+    events = build.apply_source_rules(src, build.normalize_apptegy(src, payload, TZ))
+    assert [e["title"] for e in events] == ["Board of Directors Regular Meeting"]
+    assert events[0]["start"].startswith("2026-12-09T18:00") and events[0]["location"] == "Admin Building"
