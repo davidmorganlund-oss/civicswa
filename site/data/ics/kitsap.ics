@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Kitsap County
 BEGIN:VEVENT
 UID:cf5ddb72b6b2@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261113T010000Z
 DTEND:20261113T020000Z
 SUMMARY:Regular Board Meeting (Bremerton School District)
@@ -13,7 +13,7 @@ URL:https://bremertonschools.community.diligentoneplatform.com/Portal/MeetingInf
 END:VEVENT
 BEGIN:VEVENT
 UID:a2e3a084fb88@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261113T010000Z
 DTEND:20261113T075900Z
 SUMMARY:City Council Special Meeting (City of Bremerton)
@@ -22,7 +22,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:7c02cef07a9f@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261113T013000Z
 DTEND:20261113T023000Z
 SUMMARY:Regular Meeting of the Board of Directors (North Kitsap School District)
@@ -31,7 +31,7 @@ URL:https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformatio
 END:VEVENT
 BEGIN:VEVENT
 UID:c33569bbe818@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261113T020000Z
 DTEND:20261113T030000Z
 SUMMARY:Planning Commission Regular Meeting - 2nd Thursday (City of Bainbridge Island)
@@ -40,7 +40,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/1169/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:32fc70113b11@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261113T170000Z
 DTEND:20261113T180000Z
 SUMMARY:Human Services Funding Advisory Task Force (City of Bainbridge Island)
@@ -49,7 +49,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7967/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:1198efeef9ac@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261116T220000Z
 DTEND:20261116T230000Z
 SUMMARY:Design Review Board Regular Meeting (City of Bainbridge Island)
@@ -58,7 +58,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/1157/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:bd2bb761e404@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261117T013000Z
 DTEND:20261117T075900Z
 SUMMARY:Planning Commission Meeting (City of Bremerton)
@@ -67,7 +67,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=29
 END:VEVENT
 BEGIN:VEVENT
 UID:c02f1abb7880@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261117T220000Z
 DTEND:20261118T075900Z
 SUMMARY:Public Works Committee Meeting (City of Bremerton)
@@ -76,7 +76,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27
 END:VEVENT
 BEGIN:VEVENT
 UID:4cdaaacbd6c6@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261118T003000Z
 DTEND:20261118T013000Z
 SUMMARY:Finance Committee Meeting (City of Port Orchard)
@@ -85,7 +85,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2559/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2f7b9f88487a@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261118T003000Z
 DTEND:20261118T013000Z
 SUMMARY:Finance Committee Meeting (City of Port Orchard)
@@ -94,16 +94,16 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2648/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:3bb87cf38258@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261118T020000Z
 DTEND:20261118T030000Z
-SUMMARY:City Council Study Session (City of Bainbridge Island)
+SUMMARY:CANCELLED: City Council Study Session (City of Bainbridge Island)
 LOCATION:Council Chambers\, 280 Madison Avenue N.\, Bainbridge Island
 URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7923/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:bca4635d0ed2@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261118T023000Z
 DTEND:20261118T033000Z
 SUMMARY:City Council Work Study Session (City of Port Orchard)
@@ -112,7 +112,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2534/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:c85f938a31fe@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261119T004500Z
 DTEND:20261119T014500Z
 SUMMARY:Land Use Committee Meeting (City of Port Orchard)
@@ -121,7 +121,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2572/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:954e85684295@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261119T013000Z
 DTEND:20261119T075900Z
 SUMMARY:City Council Meeting (City of Bremerton)
@@ -130,7 +130,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:5fe897f667c7@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261119T023000Z
 DTEND:20261119T033000Z
 SUMMARY:Ethics Board Meeting (City of Bainbridge Island)
@@ -139,7 +139,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/1127/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e1da0f41f87f@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261119T210000Z
 DTEND:20261119T220000Z
 SUMMARY:Lodging Tax Advisory Committee (City of Port Orchard)
@@ -148,7 +148,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2665/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e5897f8a14b6@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261120T013000Z
 DTEND:20261120T023000Z
 SUMMARY:Utility Advisory Committee (City of Bainbridge Island)
@@ -157,7 +157,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/4118/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:09b74a919698@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261120T230000Z
 DTEND:20261121T000000Z
 SUMMARY:Special Board Meeting/Study Session (Bremerton School District)
@@ -166,7 +166,7 @@ URL:https://bremertonschools.community.diligentoneplatform.com/Portal/MeetingInf
 END:VEVENT
 BEGIN:VEVENT
 UID:857e26c1cd6c@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261123T180000Z
 DTEND:20261123T190000Z
 SUMMARY:CANCELLED: Board of Commissioners Regular Meeting (Kitsap County Board of Commissioners)
@@ -175,7 +175,7 @@ URL:https://www.kitsap.gov/BOC_p
 END:VEVENT
 BEGIN:VEVENT
 UID:a373be047aab@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261123T233000Z
 DTEND:20261124T003000Z
 SUMMARY:Steering Committee (City of Bainbridge Island)
@@ -184,7 +184,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7969/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:5800321ea264@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261123T233000Z
 DTEND:20261124T003000Z
 SUMMARY:Steering Committee (Comprehensive Plan Parking Lot Items) (City of Bainbridge Island)
@@ -193,7 +193,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7860/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:3c7422499dad@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261124T013000Z
 DTEND:20261124T023000Z
 SUMMARY:Climate Change Advisory Committee Meeting - Rescheduled to 11/30 (City of Bainbridge Island)
@@ -202,7 +202,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/4159/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:3b09acf0ed13@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261124T213000Z
 DTEND:20261125T075900Z
 SUMMARY:Finance\, Investment\, & Parking Committee Meeting (City of Bremerton)
@@ -211,7 +211,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
 UID:89fca0d62dae@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261125T003000Z
 DTEND:20261125T013000Z
 SUMMARY:Transportation Committee Meeting (City of Port Orchard)
@@ -220,7 +220,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2585/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f222d55230ef@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261125T020000Z
 DTEND:20261125T030000Z
 SUMMARY:City Council Business Meeting (City of Bainbridge Island)
@@ -229,7 +229,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7949/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:baa747fbfe6a@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261125T023000Z
 DTEND:20261125T033000Z
 SUMMARY:City Council Regular Meeting - 4th Tuesday (City of Port Orchard)
@@ -238,7 +238,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2522/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:379f78b0bc98@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261126T000000Z
 DTEND:20261126T010000Z
 SUMMARY:Environmental Technical Advisory Committee (ETAC) (City of Bainbridge Island)
@@ -247,7 +247,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7874/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:fb7229d81345@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261201T013000Z
 DTEND:20261201T023000Z
 SUMMARY:Climate Change Advisory Committee (Rescheduled from 11/23) (City of Bainbridge Island)
@@ -256,7 +256,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7994/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:0cb63fb38125@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261201T213000Z
 DTEND:20261202T075900Z
 SUMMARY:Public Safety and Parks Committee Meeting (City of Bremerton)
@@ -265,7 +265,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=49
 END:VEVENT
 BEGIN:VEVENT
 UID:850239b6ee90@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261202T020000Z
 DTEND:20261202T030000Z
 SUMMARY:City Council Study Session (City of Bainbridge Island)
@@ -274,7 +274,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7925/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:13c341c85ce4@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261202T020000Z
 DTEND:20261202T030000Z
 SUMMARY:Planning Commission Meeting (City of Port Orchard)
@@ -283,7 +283,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2614/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:585de46fe55d@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261203T000000Z
 DTEND:20261203T010000Z
 SUMMARY:Mobility Advisory Committee Meeting (City of Bainbridge Island)
@@ -292,7 +292,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7904/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7f84b74d3e1d@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261203T013000Z
 DTEND:20261203T075900Z
 SUMMARY:City Council Meeting (City of Bremerton)
@@ -301,7 +301,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:5f7fca90c675@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261207T220000Z
 DTEND:20261207T230000Z
 SUMMARY:Design Review Board Regular Meeting (City of Bainbridge Island)
@@ -310,7 +310,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/1146/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:4cedc999be55@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261208T200000Z
 DTEND:20261209T075900Z
 SUMMARY:Audit Committee Meeting (City of Bremerton)
@@ -319,7 +319,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=42
 END:VEVENT
 BEGIN:VEVENT
 UID:47cf969bb153@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261209T003000Z
 DTEND:20261209T013000Z
 SUMMARY:Utility Committee Meeting (City of Port Orchard)
@@ -328,7 +328,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2599/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8ae289d294ca@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261209T010000Z
 DTEND:20261209T075900Z
 SUMMARY:BKAT Advisory Committee Meeting (City of Bremerton)
@@ -337,7 +337,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=52
 END:VEVENT
 BEGIN:VEVENT
 UID:1a664cea6811@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:City Council Business Meeting (City of Bainbridge Island)
@@ -346,7 +346,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7937/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:0b389acf227e@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261209T023000Z
 DTEND:20261209T033000Z
 SUMMARY:City Council Regular Meeting -2nd Tuesday (City of Port Orchard)
@@ -355,7 +355,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2509/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7482f2b8d563@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261210T010000Z
 DTEND:20261210T075900Z
 SUMMARY:City Council Study Session (City of Bremerton)
@@ -364,7 +364,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:ab5edfe2cb4f@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261210T013000Z
 DTEND:20261210T075900Z
 SUMMARY:Arts Commission Meeting (City of Bremerton)
@@ -373,7 +373,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:6e02d5c5ada1@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261211T010000Z
 DTEND:20261211T020000Z
 SUMMARY:Regular Board Meeting (Bremerton School District)
@@ -382,7 +382,7 @@ URL:https://bremertonschools.community.diligentoneplatform.com/Portal/MeetingInf
 END:VEVENT
 BEGIN:VEVENT
 UID:e7b4241627fd@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261211T020000Z
 DTEND:20261211T030000Z
 SUMMARY:Planning Commission Regular Meeting - 2nd Thursday (City of Bainbridge Island)
@@ -391,7 +391,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/1170/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:51224a12ab6d@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261214T173000Z
 DTEND:20261214T183000Z
 SUMMARY:Economic Development/Tourism Committee Meeting (City of Port Orchard)
@@ -400,7 +400,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2548/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ac502f3000f5@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261214T230000Z
 DTEND:20261215T000000Z
 SUMMARY:Race Equity Advisory Committee Meeting (City of Bainbridge Island)
@@ -409,7 +409,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/4172/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:48321916fc32@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261215T010000Z
 DTEND:20261215T023000Z
 SUMMARY:District 6 Town Hall Meeting (City of Bremerton)
@@ -418,7 +418,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:76c91bc99c11@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261215T220000Z
 DTEND:20261216T075900Z
 SUMMARY:Public Works Committee Meeting (City of Bremerton)
@@ -427,7 +427,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=27
 END:VEVENT
 BEGIN:VEVENT
 UID:48b13680fbb4@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261216T003000Z
 DTEND:20261216T013000Z
 SUMMARY:Finance Committee Meeting (City of Port Orchard)
@@ -436,7 +436,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2560/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:3e858ddc16ac@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261216T003000Z
 DTEND:20261216T013000Z
 SUMMARY:Finance Committee Meeting (City of Port Orchard)
@@ -445,7 +445,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2649/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:c98bcb254925@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:City Council Study Session (City of Bainbridge Island)
@@ -454,7 +454,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7924/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:cce6b030c426@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261216T023000Z
 DTEND:20261216T033000Z
 SUMMARY:City Council Regular Meeting (City of Port Orchard)
@@ -463,7 +463,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2535/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7c09d8e216a9@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261217T004500Z
 DTEND:20261217T014500Z
 SUMMARY:Land Use Committee Meeting (City of Port Orchard)
@@ -472,7 +472,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2573/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:9c2b4605b008@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261217T013000Z
 DTEND:20261217T075900Z
 SUMMARY:City Council Meeting (City of Bremerton)
@@ -481,7 +481,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:e2ed357ce949@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261217T023000Z
 DTEND:20261217T033000Z
 SUMMARY:Ethics Board Meeting (City of Bainbridge Island)
@@ -490,7 +490,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/1128/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:399ee06b056e@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261218T013000Z
 DTEND:20261218T023000Z
 SUMMARY:Utility Advisory Committee (City of Bainbridge Island)
@@ -499,7 +499,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/4119/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:b3239bf8da7a@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261221T220000Z
 DTEND:20261221T230000Z
 SUMMARY:Design Review Board Regular Meeting (City of Bainbridge Island)
@@ -508,7 +508,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/1158/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:3078ad59ac74@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261222T213000Z
 DTEND:20261223T075900Z
 SUMMARY:Finance\, Investment\, & Parking Committee Meeting (City of Bremerton)
@@ -517,7 +517,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
 UID:a7e1543c94c9@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261223T003000Z
 DTEND:20261223T013000Z
 SUMMARY:Transportation Committee Meeting (City of Port Orchard)
@@ -526,7 +526,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2586/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:a3b3eb9ace6a@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:City Council Business Meeting (City of Bainbridge Island)
@@ -535,7 +535,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7950/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ba3c4c71a212@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261223T023000Z
 DTEND:20261223T033000Z
 SUMMARY:City Council Regular Meeting - 4th Tuesday (City of Port Orchard)
@@ -544,7 +544,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2523/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:748c245d44fd@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261224T000000Z
 DTEND:20261224T010000Z
 SUMMARY:Environmental Technical Advisory Committee (ETAC) (City of Bainbridge Island)
@@ -553,7 +553,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7758/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:9e5609df0485@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261228T233000Z
 DTEND:20261229T003000Z
 SUMMARY:Steering Committee (City of Bainbridge Island)
@@ -562,7 +562,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7970/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ef8787eb5ff9@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261229T013000Z
 DTEND:20261229T023000Z
 SUMMARY:Climate Change Advisory Committee Meeting (City of Bainbridge Island)
@@ -571,7 +571,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7982/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:0a5f38e58498@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20270106T020000Z
 DTEND:20270106T030000Z
 SUMMARY:Planning Commission Meeting (City of Port Orchard)
@@ -580,7 +580,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2615/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:fcedc23fe5e2@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20270111T173000Z
 DTEND:20270111T183000Z
 SUMMARY:Economic Development/Tourism Committee Meeting (City of Port Orchard)
@@ -589,7 +589,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2549/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:82b478704c14@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20270112T013000Z
 DTEND:20270112T023000Z
 SUMMARY:CANCELLED: Board of Commissioners Regular Meeting (Kitsap County Board of Commissioners)

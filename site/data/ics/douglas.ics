@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Douglas County
 BEGIN:VEVENT
 UID:9b7d2918c5b6@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261118T020000Z
 DTEND:20261118T040000Z
 SUMMARY:City of East Wenatchee Council Meeting (City of East Wenatchee)
@@ -13,7 +13,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
 UID:56c042621021@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261118T230000Z
 DTEND:20261119T075900Z
 SUMMARY:Boundary Review Board Hearing (Douglas County)
@@ -22,7 +22,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:6793a8b4e70e@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261119T020000Z
 DTEND:20261119T075900Z
 SUMMARY:JOINT HEARING OF THE EAST WENATCHEE PLANNING COMMISSION AND DOUGLAS COUNTY PLANNING COMMISSION – CONTINUED FROM OCTOBER 28TH (Douglas County)
@@ -31,7 +31,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:e6d801fe5ad1@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261120T013000Z
 DTEND:20261120T033000Z
 SUMMARY:City of East Wenatchee Council Workshop (City of East Wenatchee)
@@ -40,7 +40,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
 UID:7fde34db7127@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261202T013000Z
 DTEND:20261202T075900Z
 SUMMARY:Planning Commission Publc Hearing (Douglas County)
@@ -49,7 +49,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
 UID:01f34d92d947@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261202T020000Z
 DTEND:20261202T040000Z
 SUMMARY:City of East Wenatchee Council Meeting (City of East Wenatchee)
@@ -58,7 +58,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
 UID:5a0d025162a8@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261203T013000Z
 DTEND:20261203T075900Z
 SUMMARY:Joint Hearing\, City Council & County Commissioners (Douglas County)
@@ -67,7 +67,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:c1228687cf15@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261203T020000Z
 DTEND:20261203T040000Z
 SUMMARY:Public Notice -- 12-02-2026 Joint Special Meeting City of East Wenatchee and Douglas County Board of Commissioners (City of East Wenatchee)
@@ -75,8 +75,17 @@ LOCATION:Council Chambers - 271 9th Street NE East Wenatchee WA 98802
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
+UID:fa22aee10b69@civicswa
+DTSTAMP:20261113T024213Z
+DTSTART:20261215T190000Z
+DTEND:20261215T213000Z
+SUMMARY:City of East Wenatchee Council Special Meeting (City of East Wenatchee)
+LOCATION:271 9th Street NE East Wenatchee WA 98802
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
+END:VEVENT
+BEGIN:VEVENT
 UID:2c17ca499038@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261216T020000Z
 DTEND:20261216T040000Z
 SUMMARY:City of East Wenatchee Council Meeting (City of East Wenatchee)
@@ -85,7 +94,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
 UID:4482e0bf6632@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261218T013000Z
 DTEND:20261218T033000Z
 SUMMARY:City of East Wenatchee Council Workshop (City of East Wenatchee)

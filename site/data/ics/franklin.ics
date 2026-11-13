@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Franklin County
 BEGIN:VEVENT
 UID:f3393b4a91a6@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261117T030000Z
 DTEND:20261117T075900Z
 SUMMARY:City Council Regular Meeting (City of Pasco)
@@ -13,7 +13,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:9c3de2ae9731@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261119T030000Z
 DTEND:20261119T060000Z
 SUMMARY:Night -Board of County Commissioners Meeting (BoCC) (Franklin County)
@@ -22,7 +22,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:6363d73122ef@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261124T030000Z
 DTEND:20261124T075900Z
 SUMMARY:City Council Regular Workshop (City of Pasco)
@@ -31,7 +31,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:71d0dbb78375@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261202T170000Z
 DTEND:20261202T210000Z
 SUMMARY:Board of County Commissioners Meeting (BoCC) (Franklin County)
@@ -40,7 +40,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:955e05071bfd@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261208T030000Z
 DTEND:20261208T075900Z
 SUMMARY:City Council Regular Meeting (City of Pasco)
@@ -49,7 +49,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:d1b1b96f7a77@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261215T030000Z
 DTEND:20261215T075900Z
 SUMMARY:City Council Regular Workshop (City of Pasco)
@@ -58,7 +58,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:f69cd2d7685a@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261216T170000Z
 DTEND:20261216T210000Z
 SUMMARY:Board of County Commissioners Meeting (BoCC) (Franklin County)
@@ -67,7 +67,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:bdb8e3c3a9b6@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261222T030000Z
 DTEND:20261222T075900Z
 SUMMARY:City Council Regular Meeting (City of Pasco)
@@ -76,7 +76,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:b337d2b62e82@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261229T030000Z
 DTEND:20261229T075900Z
 SUMMARY:City Council Regular Workshop (City of Pasco)
@@ -85,7 +85,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:de06b6a9295a@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261230T170000Z
 DTEND:20261230T210000Z
 SUMMARY:Board of County Commissioners Meeting (BoCC) (Franklin County)
@@ -94,7 +94,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:eb735009d88f@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20270106T170000Z
 DTEND:20270106T210000Z
 SUMMARY:Board of County Commissioners Meeting (BoCC) (Franklin County)

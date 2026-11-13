@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Whitman County
 BEGIN:VEVENT
 UID:f1d339380b0e@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261113T013000Z
 DTEND:20261113T023000Z
 SUMMARY:LEOFF Disability Board (City of Pullman)
@@ -13,7 +13,7 @@ URL:https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingInformati
 END:VEVENT
 BEGIN:VEVENT
 UID:883a9457e75e@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261113T230000Z
 DTEND:20261114T000000Z
 SUMMARY:Environmental Resilience Commission (City of Pullman)
@@ -22,7 +22,7 @@ URL:https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingInformati
 END:VEVENT
 BEGIN:VEVENT
 UID:24c76f66cf77@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261117T020000Z
 DTEND:20261117T030000Z
 SUMMARY:Historic Preservation Commission (City of Pullman)
@@ -31,7 +31,7 @@ URL:https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingInformati
 END:VEVENT
 BEGIN:VEVENT
 UID:9fb88f7f1adc@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261118T163000Z
 DTEND:20261118T173000Z
 SUMMARY:Special meeting Civil Service Commission (City of Pullman)
@@ -39,8 +39,17 @@ LOCATION:Council Chambers\, 190 SE Crestview Street
 URL:https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=2061
 END:VEVENT
 BEGIN:VEVENT
+UID:43a9a1e7a5f4@civicswa
+DTSTAMP:20261113T024213Z
+DTSTART:20261119T020000Z
+DTEND:20261119T030000Z
+SUMMARY:Planning Commission (City of Pullman)
+LOCATION:Council Chambers\, 190 SE Crestview Street
+URL:https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=2059
+END:VEVENT
+BEGIN:VEVENT
 UID:ad9ef7b89bd7@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261119T030000Z
 DTEND:20261119T040000Z
 SUMMARY:📋Sprague/Lamont School Board Meeting (Lamont School District)
@@ -49,7 +58,7 @@ URL:https://www.spraguelamont.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:6992f3e2fd79@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261208T223000Z
 DTEND:20261209T003000Z
 SUMMARY:Solid Waste Advisory Committee Regular Meeting (Whitman County)
@@ -58,7 +67,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:341b4453133e@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261210T030000Z
 DTEND:20261210T040000Z
 SUMMARY:📋Sprague/Lamont School Board Meeting (Lamont School District)
@@ -67,7 +76,7 @@ URL:https://www.spraguelamont.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:7bc559687fe6@civicswa
-DTSTAMP:20261112T120511Z
+DTSTAMP:20261113T024213Z
 DTSTART:20261211T030000Z
 DTEND:20261211T050000Z
 SUMMARY:Board of Adjustment Hearing (Whitman County)
