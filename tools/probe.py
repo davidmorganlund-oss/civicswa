@@ -75,7 +75,12 @@ def probe(row):
         s, _, ev = get(root + "/events")
         hits = re.findall(r"[a-z0-9.-]*thrillshare\.com[^\"'\s<>]{0,120}", blob + (ev or ""))
         ids = re.findall(r'(?:organization|org|school|section)_?[iI]d["\']?\s*[:=]\s*["\']?(\d{2,7})', blob + (ev or ""))
-        res["apptegy_info"] = {"events_status": s, "hits": sorted(set(hits))[:12], "ids": sorted(set(ids))[:8]}
+        feeds = sorted({h.rstrip("\\") for h in hits if re.search(r"/api/v\d/[os]/\d+/(?:cms/)?events", h)})
+        peek = ""
+        if feeds:
+            s2, _, j = get("https://" + feeds[0])
+            peek = (j or "")[:2500]
+        res["apptegy_info"] = {"events_status": s, "feeds": feeds[:4], "peek": peek}
     if "granicus" in res["found"]:
         g = res["found"]["granicus"][0]
         s, _, gp = get("https://" + g)
