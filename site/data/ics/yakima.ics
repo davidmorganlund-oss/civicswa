@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Yakima County
 BEGIN:VEVENT
 UID:2cac5b5825aa@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261112T170000Z
 DTEND:20261112T190000Z
 SUMMARY:City of Yakima Hearing Examiner (City of Yakima)
@@ -13,7 +13,7 @@ URL:https://www.yakimawa.gov/media/event/city-of-yakima-hearing-examiner-47/
 END:VEVENT
 BEGIN:VEVENT
 UID:43907fa5c852@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261113T020000Z
 DTEND:20261113T030000Z
 SUMMARY:City Council Regular Meeting (City of Sunnyside)
@@ -22,7 +22,7 @@ URL:https://sunnyside.primegov.com/public/portal
 END:VEVENT
 BEGIN:VEVENT
 UID:9e634e10ee4d@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261114T010000Z
 DTEND:20261114T020000Z
 SUMMARY:Arts Commission Regular Meeting (City of Sunnyside)
@@ -31,7 +31,7 @@ URL:https://sunnyside.primegov.com/public/portal
 END:VEVENT
 BEGIN:VEVENT
 UID:ab0fdc915777@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261117T000000Z
 DTEND:20261117T010000Z
 SUMMARY:LTAC Meeting (City of Sunnyside)
@@ -40,7 +40,7 @@ URL:https://sunnyside.primegov.com/public/portal
 END:VEVENT
 BEGIN:VEVENT
 UID:54def79f19d0@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261117T013000Z
 DTEND:20261117T023000Z
 SUMMARY:Special City of Yakima Historic Preservation Commission (City of Yakima)
@@ -49,7 +49,7 @@ URL:https://www.yakimawa.gov/media/event/special-city-of-yakima-historic-preserv
 END:VEVENT
 BEGIN:VEVENT
 UID:07901e5ac58c@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261118T013000Z
 DTEND:20261118T030000Z
 SUMMARY:Yakima City Council (City of Yakima)
@@ -58,7 +58,7 @@ URL:https://www.yakimawa.gov/media/event/yakima-city-council-131/
 END:VEVENT
 BEGIN:VEVENT
 UID:2afce9a99cf2@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:Canvassing Board Meeting (Yakima County)
 LOCATION:Election Processing Center\, Room B-16 - Yakima County Courthouse 128 N 2nd St Yakima WA 98901
@@ -66,7 +66,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=54
 END:VEVENT
 BEGIN:VEVENT
 UID:4cdad6f91df4@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261123T230000Z
 DTEND:20261124T010000Z
 SUMMARY:Special City of Yakima Planning Commission (City of Yakima)
@@ -75,7 +75,7 @@ URL:https://www.yakimawa.gov/media/event/special-city-of-yakima-planning-commiss
 END:VEVENT
 BEGIN:VEVENT
 UID:3237ec89aa6a@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261124T020000Z
 DTEND:20261124T030000Z
 SUMMARY:School Board Meeting (Grandview School District)
@@ -83,8 +83,8 @@ LOCATION:District Office
 URL:
 END:VEVENT
 BEGIN:VEVENT
-UID:d311ebb35ef8@civicswa
-DTSTAMP:20261113T025137Z
+UID:037aacae3b03@civicswa
+DTSTAMP:20261113T030140Z
 DTSTART:20261124T030000Z
 DTEND:20261124T043000Z
 SUMMARY:Board Regular Session Meeting (Naches Valley School District)
@@ -93,16 +93,7 @@ URL:https://nachesvalley.org
 END:VEVENT
 BEGIN:VEVENT
 UID:ba5e46619b64@civicswa
-DTSTAMP:20261113T025137Z
-DTSTART:20261124T030000Z
-DTEND:20261124T043000Z
-SUMMARY:Board Regular Session Meeting (Naches Valley School District)
-LOCATION:Naches Valley High School\, 101 W. 5th St\, Naches\, WA 98937\, USA
-URL:https://nachesvalley.org
-END:VEVENT
-BEGIN:VEVENT
-UID:037aacae3b03@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261124T030000Z
 DTEND:20261124T043000Z
 SUMMARY:Board Regular Session Meeting (Naches Valley School District)
@@ -111,7 +102,16 @@ URL:https://nachesvalley.org
 END:VEVENT
 BEGIN:VEVENT
 UID:baaee54074a9@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
+DTSTART:20261124T030000Z
+DTEND:20261124T043000Z
+SUMMARY:Board Regular Session Meeting (Naches Valley School District)
+LOCATION:Naches Valley High School\, 101 W. 5th St\, Naches\, WA 98937\, USA
+URL:https://nachesvalley.org
+END:VEVENT
+BEGIN:VEVENT
+UID:d311ebb35ef8@civicswa
+DTSTAMP:20261113T030140Z
 DTSTART:20261124T030000Z
 DTEND:20261124T043000Z
 SUMMARY:Board Regular Session Meeting (Naches Valley School District)
@@ -120,7 +120,7 @@ URL:https://nachesvalley.org
 END:VEVENT
 BEGIN:VEVENT
 UID:ae5d3138f8de@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261124T030000Z
 DTEND:20261124T040000Z
 SUMMARY:School Board Meeting (Business Meeting) (West Valley (Yakima) School District)
@@ -129,7 +129,7 @@ URL:https://wvsd208.community.diligentoneplatform.com/Portal/MeetingInformation.
 END:VEVENT
 BEGIN:VEVENT
 UID:351ae52e921f@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261125T013000Z
 DTEND:20261125T023000Z
 SUMMARY:City Council Meeting (City of Selah)
@@ -138,7 +138,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:eebc9f17b94e@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261208T000000Z
 DTEND:20261208T010000Z
 SUMMARY:Planning Commission Meeting (Town of Naches)
@@ -147,7 +147,7 @@ URL:https://townofnaches.com/event/planning-commission-meeting-25/
 END:VEVENT
 BEGIN:VEVENT
 UID:6474d83ba952@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261209T003000Z
 DTEND:20261209T013000Z
 SUMMARY:City Council Meeting + Study Session (City of Selah)
@@ -156,7 +156,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:815d47acdc0c@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261215T013000Z
 DTEND:20261215T023000Z
 SUMMARY:Council Study Session (Town of Naches)
@@ -165,7 +165,7 @@ URL:https://townofnaches.com/event/council-study-session-22/
 END:VEVENT
 BEGIN:VEVENT
 UID:514b1ff757bc@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261215T023000Z
 DTEND:20261215T040000Z
 SUMMARY:Council Meeting (Town of Naches)
@@ -174,7 +174,7 @@ URL:https://townofnaches.com/event/council-meeting-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:235fcef2a526@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261215T030000Z
 DTEND:20261215T043000Z
 SUMMARY:Board Work Session Meeting (Naches Valley School District)
@@ -182,8 +182,8 @@ LOCATION:24 Shafer Ave\, Naches\, WA 98937\, USA
 URL:https://nachesvalley.org
 END:VEVENT
 BEGIN:VEVENT
-UID:128864a248dd@civicswa
-DTSTAMP:20261113T025137Z
+UID:df7f65991cd2@civicswa
+DTSTAMP:20261113T030140Z
 DTSTART:20261229T030000Z
 DTEND:20261229T043000Z
 SUMMARY:Board Regular Session Meeting (Naches Valley School District)
@@ -192,16 +192,7 @@ URL:https://nachesvalley.org
 END:VEVENT
 BEGIN:VEVENT
 UID:cac5cb08d6da@civicswa
-DTSTAMP:20261113T025137Z
-DTSTART:20261229T030000Z
-DTEND:20261229T043000Z
-SUMMARY:Board Regular Session Meeting (Naches Valley School District)
-LOCATION:Naches Valley High School\, 101 W. 5th St\, Naches\, WA 98937\, USA
-URL:https://nachesvalley.org
-END:VEVENT
-BEGIN:VEVENT
-UID:df7f65991cd2@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261229T030000Z
 DTEND:20261229T043000Z
 SUMMARY:Board Regular Session Meeting (Naches Valley School District)
@@ -210,7 +201,16 @@ URL:https://nachesvalley.org
 END:VEVENT
 BEGIN:VEVENT
 UID:9d58a216aa0a@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
+DTSTART:20261229T030000Z
+DTEND:20261229T043000Z
+SUMMARY:Board Regular Session Meeting (Naches Valley School District)
+LOCATION:Naches Valley High School\, 101 W. 5th St\, Naches\, WA 98937\, USA
+URL:https://nachesvalley.org
+END:VEVENT
+BEGIN:VEVENT
+UID:128864a248dd@civicswa
+DTSTAMP:20261113T030140Z
 DTSTART:20261229T030000Z
 DTEND:20261229T043000Z
 SUMMARY:Board Regular Session Meeting (Naches Valley School District)
@@ -219,7 +219,7 @@ URL:https://nachesvalley.org
 END:VEVENT
 BEGIN:VEVENT
 UID:f5c9a67a83f1@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20270112T030000Z
 DTEND:20270112T043000Z
 SUMMARY:Board Work Session Meeting (Naches Valley School District)

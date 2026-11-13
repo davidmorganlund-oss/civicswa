@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Grant County
 BEGIN:VEVENT
 UID:be28c5c4d94c@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261113T020000Z
 DTEND:20261113T075900Z
 SUMMARY:CANCELLED: Planning Commission Meeting (City of Moses Lake)
@@ -13,7 +13,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28
 END:VEVENT
 BEGIN:VEVENT
 UID:9c6062eb0f44@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261113T020000Z
 DTEND:20261113T024500Z
 SUMMARY:Council Meeting - Regular meeting (Town of Wilson Creek)
@@ -22,7 +22,7 @@ URL:https://www.wilsoncreekwa.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:474f9b4bf9ca@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261116T160000Z
 DTEND:20261117T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -31,7 +31,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:0db8e001bdc1@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261117T160000Z
 DTEND:20261118T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -40,7 +40,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:44b01d29fa04@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261117T230000Z
 DTEND:20261118T000000Z
 SUMMARY:City Council Special Meeting - starts at 3:00 pm (City of Moses Lake)
@@ -49,7 +49,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
 END:VEVENT
 BEGIN:VEVENT
 UID:39a2c3959b6c@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261118T010000Z
 DTEND:20261118T040000Z
 SUMMARY:City Council Special Meeting - starts at 5:00 pm (City of Moses Lake)
@@ -58,7 +58,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
 END:VEVENT
 BEGIN:VEVENT
 UID:83bc471a3abb@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261119T020000Z
 DTEND:20261119T040000Z
 SUMMARY:City Council Regular Meeting (City of Ephrata)
@@ -67,7 +67,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:066a8934bb6d@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261123T160000Z
 DTEND:20261124T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -76,7 +76,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:936875d8c75d@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:City Council Regular Meeting - starts at 6:30 pm (City of Moses Lake)
 LOCATION:Moses Lake WA 98837
@@ -84,7 +84,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
 END:VEVENT
 BEGIN:VEVENT
 UID:5ccd5702d71c@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261124T160000Z
 DTEND:20261125T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -93,7 +93,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:ff306b7cf711@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261130T160000Z
 DTEND:20261201T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -102,7 +102,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:d1c6da57ee2e@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261201T160000Z
 DTEND:20261202T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -111,7 +111,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:55a005f84f44@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261202T173000Z
 DTEND:20261202T190000Z
 SUMMARY:Tourism Advisory Committee Meeting (Grant County)
@@ -120,7 +120,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
 END:VEVENT
 BEGIN:VEVENT
 UID:80a9cb90d753@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261203T020000Z
 DTEND:20261203T040000Z
 SUMMARY:City Council Regular Meeting (City of Ephrata)
@@ -129,7 +129,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:9db24ee4841d@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261204T023000Z
 DTEND:20261204T075900Z
 SUMMARY:Municipal Airport Commission (City of Moses Lake)
@@ -138,7 +138,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=47
 END:VEVENT
 BEGIN:VEVENT
 UID:120c6bb0a456@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261207T160000Z
 DTEND:20261208T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -147,7 +147,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:126466c72929@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261207T200000Z
 DTEND:20261207T220000Z
 SUMMARY:Parks Commission Regular Meeting (City of Ephrata)
@@ -156,7 +156,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:2d03f66fef59@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART;VALUE=DATE:20261208
 SUMMARY:City Council Regular Meeting - starts at 6:30 pm (City of Moses Lake)
 LOCATION:Moses Lake WA 98837
@@ -164,7 +164,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
 END:VEVENT
 BEGIN:VEVENT
 UID:8ff773144f30@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261208T160000Z
 DTEND:20261209T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -173,7 +173,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:dacde8d466cf@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261208T193000Z
 DTEND:20261208T203000Z
 SUMMARY:Board of Directors Meeting (Quincy School District)
@@ -182,7 +182,7 @@ URL:https://hqsd-wednet.community.diligentoneplatform.com/Portal/MeetingInformat
 END:VEVENT
 BEGIN:VEVENT
 UID:3835c1c4fcd7@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261209T180000Z
 DTEND:20261209T190000Z
 SUMMARY:LEOFF-1 Disability Board Meeting (Grant County)
@@ -191,7 +191,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=51
 END:VEVENT
 BEGIN:VEVENT
 UID:4fc0b291ee03@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261210T000000Z
 DTEND:20261210T010000Z
 SUMMARY:Veteran's Advisory Board (VAB) Meeting (Grant County)
@@ -200,7 +200,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=51
 END:VEVENT
 BEGIN:VEVENT
 UID:f5bddb6dd51b@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261211T020000Z
 DTEND:20261211T075900Z
 SUMMARY:Planning Commission Meeting (City of Moses Lake)
@@ -209,7 +209,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=28
 END:VEVENT
 BEGIN:VEVENT
 UID:468e0764a0c6@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261211T020000Z
 DTEND:20261211T024500Z
 SUMMARY:Council Meeting - Regular meeting (Town of Wilson Creek)
@@ -218,7 +218,7 @@ URL:https://www.wilsoncreekwa.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:dbe3e0d4e830@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261214T160000Z
 DTEND:20261215T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -227,7 +227,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:a0002ebc293d@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261215T160000Z
 DTEND:20261216T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -236,7 +236,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:3113e0c21183@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261217T020000Z
 DTEND:20261217T040000Z
 SUMMARY:City Council Regular Meeting (City of Ephrata)
@@ -245,7 +245,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:27c99357a0f6@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261221T160000Z
 DTEND:20261222T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -254,7 +254,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:18b16522b58a@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261222T160000Z
 DTEND:20261223T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -263,7 +263,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:37217e63923b@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261228T160000Z
 DTEND:20261229T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -272,7 +272,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:b8eb21f37e87@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20261229T160000Z
 DTEND:20261230T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -281,7 +281,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:8e5a0459eb9f@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20270104T160000Z
 DTEND:20270105T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -290,7 +290,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:e3e62d34cd24@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20270104T200000Z
 DTEND:20270104T220000Z
 SUMMARY:Parks Commission Regular Meeting (City of Ephrata)
@@ -299,7 +299,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:563e56e21528@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20270105T160000Z
 DTEND:20270106T010000Z
 SUMMARY:Board of County Commissioners' Weekly Meetings (Grant County)
@@ -308,7 +308,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31
 END:VEVENT
 BEGIN:VEVENT
 UID:e03edbeaebc0@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20270106T173000Z
 DTEND:20270106T190000Z
 SUMMARY:Tourism Advisory Committee Meeting (Grant County)
@@ -317,7 +317,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
 END:VEVENT
 BEGIN:VEVENT
 UID:c76bf694b9c2@civicswa
-DTSTAMP:20261113T025137Z
+DTSTAMP:20261113T030140Z
 DTSTART:20270107T020000Z
 DTEND:20270107T040000Z
 SUMMARY:City Council Regular Meeting (City of Ephrata)
