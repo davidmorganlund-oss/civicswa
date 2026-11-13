@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Klickitat County
 BEGIN:VEVENT
 UID:4060ef31697b@civicswa
-DTSTAMP:20261113T024213Z
+DTSTAMP:20261113T025137Z
 DTSTART:20261117T000000Z
 DTEND:20261117T075900Z
 SUMMARY:Tree Board Meeting (City of White Salmon)
@@ -13,7 +13,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:df46c3707294@civicswa
-DTSTAMP:20261113T024213Z
+DTSTAMP:20261113T025137Z
 DTSTART:20261117T010000Z
 DTEND:20261117T075900Z
 SUMMARY:Community Development Committee Meeting (City of White Salmon)
@@ -22,7 +22,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:61a0724c3832@civicswa
-DTSTAMP:20261113T024213Z
+DTSTAMP:20261113T025137Z
 DTSTART:20261117T020000Z
 DTEND:20261117T075900Z
 SUMMARY:CityLab Board Meeting (City of White Salmon)
@@ -31,7 +31,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:41a2bd14eaaa@civicswa
-DTSTAMP:20261113T024213Z
+DTSTAMP:20261113T025137Z
 DTSTART:20261118T020000Z
 DTEND:20261118T053000Z
 SUMMARY:Bingen City Council Meeting (Town of Bingen)
@@ -40,7 +40,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:3471492a7cad@civicswa
-DTSTAMP:20261113T024213Z
+DTSTAMP:20261113T025137Z
 DTSTART:20261119T020000Z
 DTEND:20261119T075900Z
 SUMMARY:City Council Regular Meeting (City of White Salmon)
@@ -49,7 +49,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:edbc98868efc@civicswa
-DTSTAMP:20261113T024213Z
+DTSTAMP:20261113T025137Z
 DTSTART:20261124T000000Z
 DTEND:20261124T075900Z
 SUMMARY:Personnel & Finance Committee Meeting (City of White Salmon)
@@ -58,7 +58,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:ebee650da089@civicswa
-DTSTAMP:20261113T024213Z
+DTSTAMP:20261113T025137Z
 DTSTART:20261124T173000Z
 DTEND:20261124T183000Z
 SUMMARY:Board of County Commissioners (Klickitat County)
@@ -67,7 +67,7 @@ URL:https://klickitatcowa.portal.civicclerk.com/event/1114/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:83befd1e3549@civicswa
-DTSTAMP:20261113T024213Z
+DTSTAMP:20261113T025137Z
 DTSTART:20261125T000000Z
 DTEND:20261125T075900Z
 SUMMARY:City Operations Committee Meeting (City of White Salmon)
@@ -76,7 +76,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:4e2d0fe43f63@civicswa
-DTSTAMP:20261113T024213Z
+DTSTAMP:20261113T025137Z
 DTSTART:20261125T033000Z
 DTEND:20261125T043000Z
 SUMMARY:School Board Mtg. (Bickleton School District)
@@ -85,7 +85,7 @@ URL:https://www.bickletonschools.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:1554573e67c6@civicswa
-DTSTAMP:20261113T024213Z
+DTSTAMP:20261113T025137Z
 DTSTART:20261201T173000Z
 DTEND:20261201T183000Z
 SUMMARY:Board of County Commissioners (Klickitat County)
@@ -94,7 +94,7 @@ URL:https://klickitatcowa.portal.civicclerk.com/event/1115/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:cefb257d60b3@civicswa
-DTSTAMP:20261113T024213Z
+DTSTAMP:20261113T025137Z
 DTSTART:20261202T020000Z
 DTEND:20261202T053000Z
 SUMMARY:Bingen City Council Meeting (Town of Bingen)
@@ -103,7 +103,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:7d7c287fa5b1@civicswa
-DTSTAMP:20261113T024213Z
+DTSTAMP:20261113T025137Z
 DTSTART:20261208T173000Z
 DTEND:20261208T183000Z
 SUMMARY:Board of County Commissioners (Klickitat County)
@@ -112,7 +112,7 @@ URL:https://klickitatcowa.portal.civicclerk.com/event/1116/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:778f8b10ad5e@civicswa
-DTSTAMP:20261113T024213Z
+DTSTAMP:20261113T025137Z
 DTSTART:20261215T173000Z
 DTEND:20261215T183000Z
 SUMMARY:Board of County Commissioners (Klickitat County)
@@ -121,7 +121,7 @@ URL:https://klickitatcowa.portal.civicclerk.com/event/1117/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ac3596ebfdc3@civicswa
-DTSTAMP:20261113T024213Z
+DTSTAMP:20261113T025137Z
 DTSTART:20261216T020000Z
 DTEND:20261216T053000Z
 SUMMARY:Bingen City Council Meeting (Town of Bingen)
@@ -130,7 +130,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:9c3693fecddb@civicswa
-DTSTAMP:20261113T024213Z
+DTSTAMP:20261113T025137Z
 DTSTART:20261222T173000Z
 DTEND:20261222T183000Z
 SUMMARY:Board of County Commissioners (Klickitat County)
@@ -139,7 +139,7 @@ URL:https://klickitatcowa.portal.civicclerk.com/event/1118/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:b69b4e9e56ea@civicswa
-DTSTAMP:20261113T024213Z
+DTSTAMP:20261113T025137Z
 DTSTART:20261229T173000Z
 DTEND:20261229T183000Z
 SUMMARY:Board of County Commissioners (Klickitat County)
@@ -148,7 +148,7 @@ URL:https://klickitatcowa.portal.civicclerk.com/event/1119/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:933adb9c8a83@civicswa
-DTSTAMP:20261113T024213Z
+DTSTAMP:20261113T025137Z
 DTSTART:20270105T173000Z
 DTEND:20270105T183000Z
 SUMMARY:Board of County Commissioners (Klickitat County)
@@ -157,7 +157,7 @@ URL:https://klickitatcowa.portal.civicclerk.com/event/1120/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f3920cc4926f@civicswa
-DTSTAMP:20261113T024213Z
+DTSTAMP:20261113T025137Z
 DTSTART:20270106T020000Z
 DTEND:20270106T053000Z
 SUMMARY:Bingen City Council Meeting (Town of Bingen)
