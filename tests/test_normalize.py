@@ -320,3 +320,15 @@ def test_schedule_moves_holiday_meetings():
            "meetings": [{"title": "School Board Meeting", "when": "4th Thursday", "time": "18:00"}]}
     (e,) = build.fetch_schedule(src, date(2026, 11, 1), date(2026, 11, 30), TZ)
     assert e["start"].startswith("2026-11-30T18:00") and "holiday" in e["note"]
+
+
+def test_granicus_agenda_rss():
+    src = {"id": "lynnwood", "name": "City of Lynnwood", "area": "Lynnwood"}
+    xml = """<rss><channel>
+    <item><title>City Council Business Meeting - Nov 24, 2026</title><link>https://x.granicus.com/AgendaViewer.php?view_id=14&amp;event_id=9</link>
+    <pubDate>Tue, 24 Nov 2026 19:00:00 -0800</pubDate><guid>e9</guid></item>
+    <item><title>Planning Commission - December 10, 2026</title><link>https://x</link><pubDate>Thu, 10 Dec 2026 00:00:00 -0800</pubDate></item>
+    </channel></rss>"""
+    a, b = build.normalize_granicus(src, xml, TZ)
+    assert a["title"] == "City Council Business Meeting" and a["start"].startswith("2026-11-24T19:00")
+    assert b["title"] == "Planning Commission" and b["all_day"]

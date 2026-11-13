@@ -841,12 +841,56 @@ def fetch_wsl_committees(src, start_day, end_day, tz):
     return events
 
 
+# --- Granicus (ViewPublisher) video and agenda portals ---
+# The agendas RSS lists meetings once their agendas are posted, upcoming ones
+# included; the meeting date is in the title ("City Council - Nov 24, 2026")
+# and pubDate carries the meeting time.
+
+GRANICUS_TITLE = re.compile(r"^(?P<name>.*?)\s*[-–]\s*(?P<date>[A-Z][a-z]{2,8}\.? \d{1,2},? \d{4})(?:\s+(?P<clock>\d{1,2}:\d{2}\s*[AaPp]\.?[Mm]\.?))?\s*$")
+
+
+def normalize_granicus(src, xml_text, tz):
+    import html as htmllib
+    from email.utils import parsedate_to_datetime
+    events = []
+    for item in rss_items(xml_text):
+        f = fields(item)
+        title = htmllib.unescape(f.get("title", "")).strip()
+        m = GRANICUS_TITLE.match(title)
+        when = None
+        if f.get("pubDate"):
+            try:
+                when = parsedate_to_datetime(f["pubDate"]).astimezone(tz)
+            except (TypeError, ValueError):
+                when = None
+        if m:
+            day = datetime.strptime(m.group("date").replace(".", "").replace(",", ""), "%b %d %Y" if len(m.group("date").split()[0].rstrip(".")) == 3 else "%B %d %Y").date()
+            clock = parse_clock(m.group("clock")) if m.group("clock") else (when.time() if when and when.date() == day and when.time() != time(0, 0) else None)
+            name = m.group("name")
+        elif when:
+            day, clock, name = when.date(), (when.time() if when.time() != time(0, 0) else None), title
+        else:
+            continue
+        events.append(make_event(
+            src, title=name, start=datetime.combine(day, clock or time(0, 0), tz), all_day=clock is None,
+            url=f.get("link", ""), uid=f.get("guid") or f.get("link") or title,
+        ))
+    return events
+
+
+def fetch_granicus(src, start_day, end_day, tz):
+    xml_text = get(f"https://{src['tenant']}.granicus.com/ViewPublisherRSS.php",
+                   {"view_id": src["view_id"], "mode": "agendas"}).text
+    return [e for e in normalize_granicus(src, xml_text, tz)
+            if start_day <= datetime.fromisoformat(e["start"]).date() <= end_day]
+
+
 CONNECTORS = {"legistar": fetch_legistar, "civicclerk": fetch_civicclerk, "ics": fetch_ics,
               "bibliocommons": fetch_bibliocommons, "municode": fetch_municode, "mec_rss": fetch_mec_rss,
               "govaccess_rss": fetch_govaccess_rss, "civicplus": fetch_civicplus,
               "primegov": fetch_primegov, "civicweb": fetch_civicweb,
               "spokane_council": fetch_spokane_council, "schedule": fetch_schedule,
-              "wsl_committees": fetch_wsl_committees}
+              "wsl_committees": fetch_wsl_committees, "granicus": fetch_granicus}
 
 
 # ---------- outputs ----------

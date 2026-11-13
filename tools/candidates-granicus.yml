@@ -1,0 +1,602 @@
+sources:
+- id: gr-covingtonwa-1
+  name: City of Covington
+  county: King
+  area: Covington
+  type: granicus
+  tenant: covingtonwa
+  view_id: 1
+- id: gr-covingtonwa-2
+  name: City of Covington
+  county: King
+  area: Covington
+  type: granicus
+  tenant: covingtonwa
+  view_id: 2
+- id: gr-covingtonwa-3
+  name: City of Covington
+  county: King
+  area: Covington
+  type: granicus
+  tenant: covingtonwa
+  view_id: 3
+- id: gr-covingtonwa-4
+  name: City of Covington
+  county: King
+  area: Covington
+  type: granicus
+  tenant: covingtonwa
+  view_id: 4
+- id: gr-covingtonwa-5
+  name: City of Covington
+  county: King
+  area: Covington
+  type: granicus
+  tenant: covingtonwa
+  view_id: 5
+- id: gr-covingtonwa-6
+  name: City of Covington
+  county: King
+  area: Covington
+  type: granicus
+  tenant: covingtonwa
+  view_id: 6
+- id: gr-covingtonwa-7
+  name: City of Covington
+  county: King
+  area: Covington
+  type: granicus
+  tenant: covingtonwa
+  view_id: 7
+- id: gr-covingtonwa-8
+  name: City of Covington
+  county: King
+  area: Covington
+  type: granicus
+  tenant: covingtonwa
+  view_id: 8
+- id: gr-covingtonwa-14
+  name: City of Covington
+  county: King
+  area: Covington
+  type: granicus
+  tenant: covingtonwa
+  view_id: 14
+- id: gr-kirkland-1
+  name: City of Kirkland
+  county: King
+  area: Kirkland
+  type: granicus
+  tenant: kirkland
+  view_id: 1
+- id: gr-kirkland-2
+  name: City of Kirkland
+  county: King
+  area: Kirkland
+  type: granicus
+  tenant: kirkland
+  view_id: 2
+- id: gr-kirkland-3
+  name: City of Kirkland
+  county: King
+  area: Kirkland
+  type: granicus
+  tenant: kirkland
+  view_id: 3
+- id: gr-kirkland-4
+  name: City of Kirkland
+  county: King
+  area: Kirkland
+  type: granicus
+  tenant: kirkland
+  view_id: 4
+- id: gr-kirkland-5
+  name: City of Kirkland
+  county: King
+  area: Kirkland
+  type: granicus
+  tenant: kirkland
+  view_id: 5
+- id: gr-kirkland-6
+  name: City of Kirkland
+  county: King
+  area: Kirkland
+  type: granicus
+  tenant: kirkland
+  view_id: 6
+- id: gr-kirkland-7
+  name: City of Kirkland
+  county: King
+  area: Kirkland
+  type: granicus
+  tenant: kirkland
+  view_id: 7
+- id: gr-kirkland-8
+  name: City of Kirkland
+  county: King
+  area: Kirkland
+  type: granicus
+  tenant: kirkland
+  view_id: 8
+- id: gr-kirkland-14
+  name: City of Kirkland
+  county: King
+  area: Kirkland
+  type: granicus
+  tenant: kirkland
+  view_id: 14
+- id: gr-mukilteo-wa-1
+  name: City of Mukilteo
+  county: Snohomish
+  area: Mukilteo
+  type: granicus
+  tenant: mukilteo-wa
+  view_id: 1
+- id: gr-mukilteo-wa-2
+  name: City of Mukilteo
+  county: Snohomish
+  area: Mukilteo
+  type: granicus
+  tenant: mukilteo-wa
+  view_id: 2
+- id: gr-mukilteo-wa-3
+  name: City of Mukilteo
+  county: Snohomish
+  area: Mukilteo
+  type: granicus
+  tenant: mukilteo-wa
+  view_id: 3
+- id: gr-mukilteo-wa-4
+  name: City of Mukilteo
+  county: Snohomish
+  area: Mukilteo
+  type: granicus
+  tenant: mukilteo-wa
+  view_id: 4
+- id: gr-mukilteo-wa-5
+  name: City of Mukilteo
+  county: Snohomish
+  area: Mukilteo
+  type: granicus
+  tenant: mukilteo-wa
+  view_id: 5
+- id: gr-mukilteo-wa-6
+  name: City of Mukilteo
+  county: Snohomish
+  area: Mukilteo
+  type: granicus
+  tenant: mukilteo-wa
+  view_id: 6
+- id: gr-mukilteo-wa-7
+  name: City of Mukilteo
+  county: Snohomish
+  area: Mukilteo
+  type: granicus
+  tenant: mukilteo-wa
+  view_id: 7
+- id: gr-mukilteo-wa-8
+  name: City of Mukilteo
+  county: Snohomish
+  area: Mukilteo
+  type: granicus
+  tenant: mukilteo-wa
+  view_id: 8
+- id: gr-mukilteo-wa-14
+  name: City of Mukilteo
+  county: Snohomish
+  area: Mukilteo
+  type: granicus
+  tenant: mukilteo-wa
+  view_id: 14
+- id: gr-cityofpoulsbo-1
+  name: City of Poulsbo
+  county: Kitsap
+  area: Poulsbo
+  type: granicus
+  tenant: cityofpoulsbo
+  view_id: 1
+- id: gr-cityofpoulsbo-2
+  name: City of Poulsbo
+  county: Kitsap
+  area: Poulsbo
+  type: granicus
+  tenant: cityofpoulsbo
+  view_id: 2
+- id: gr-cityofpoulsbo-3
+  name: City of Poulsbo
+  county: Kitsap
+  area: Poulsbo
+  type: granicus
+  tenant: cityofpoulsbo
+  view_id: 3
+- id: gr-cityofpoulsbo-4
+  name: City of Poulsbo
+  county: Kitsap
+  area: Poulsbo
+  type: granicus
+  tenant: cityofpoulsbo
+  view_id: 4
+- id: gr-cityofpoulsbo-5
+  name: City of Poulsbo
+  county: Kitsap
+  area: Poulsbo
+  type: granicus
+  tenant: cityofpoulsbo
+  view_id: 5
+- id: gr-cityofpoulsbo-6
+  name: City of Poulsbo
+  county: Kitsap
+  area: Poulsbo
+  type: granicus
+  tenant: cityofpoulsbo
+  view_id: 6
+- id: gr-cityofpoulsbo-7
+  name: City of Poulsbo
+  county: Kitsap
+  area: Poulsbo
+  type: granicus
+  tenant: cityofpoulsbo
+  view_id: 7
+- id: gr-cityofpoulsbo-8
+  name: City of Poulsbo
+  county: Kitsap
+  area: Poulsbo
+  type: granicus
+  tenant: cityofpoulsbo
+  view_id: 8
+- id: gr-cityofpoulsbo-14
+  name: City of Poulsbo
+  county: Kitsap
+  area: Poulsbo
+  type: granicus
+  tenant: cityofpoulsbo
+  view_id: 14
+- id: gr-cityofpuyallup-1
+  name: City of Puyallup
+  county: Pierce
+  area: Puyallup
+  type: granicus
+  tenant: cityofpuyallup
+  view_id: 1
+- id: gr-cityofpuyallup-2
+  name: City of Puyallup
+  county: Pierce
+  area: Puyallup
+  type: granicus
+  tenant: cityofpuyallup
+  view_id: 2
+- id: gr-cityofpuyallup-3
+  name: City of Puyallup
+  county: Pierce
+  area: Puyallup
+  type: granicus
+  tenant: cityofpuyallup
+  view_id: 3
+- id: gr-cityofpuyallup-4
+  name: City of Puyallup
+  county: Pierce
+  area: Puyallup
+  type: granicus
+  tenant: cityofpuyallup
+  view_id: 4
+- id: gr-cityofpuyallup-5
+  name: City of Puyallup
+  county: Pierce
+  area: Puyallup
+  type: granicus
+  tenant: cityofpuyallup
+  view_id: 5
+- id: gr-cityofpuyallup-6
+  name: City of Puyallup
+  county: Pierce
+  area: Puyallup
+  type: granicus
+  tenant: cityofpuyallup
+  view_id: 6
+- id: gr-cityofpuyallup-7
+  name: City of Puyallup
+  county: Pierce
+  area: Puyallup
+  type: granicus
+  tenant: cityofpuyallup
+  view_id: 7
+- id: gr-cityofpuyallup-8
+  name: City of Puyallup
+  county: Pierce
+  area: Puyallup
+  type: granicus
+  tenant: cityofpuyallup
+  view_id: 8
+- id: gr-cityofpuyallup-14
+  name: City of Puyallup
+  county: Pierce
+  area: Puyallup
+  type: granicus
+  tenant: cityofpuyallup
+  view_id: 14
+- id: gr-sunnyside-1
+  name: City of Sunnyside
+  county: Yakima
+  area: Sunnyside
+  type: granicus
+  tenant: sunnyside
+  view_id: 1
+- id: gr-sunnyside-2
+  name: City of Sunnyside
+  county: Yakima
+  area: Sunnyside
+  type: granicus
+  tenant: sunnyside
+  view_id: 2
+- id: gr-sunnyside-3
+  name: City of Sunnyside
+  county: Yakima
+  area: Sunnyside
+  type: granicus
+  tenant: sunnyside
+  view_id: 3
+- id: gr-sunnyside-4
+  name: City of Sunnyside
+  county: Yakima
+  area: Sunnyside
+  type: granicus
+  tenant: sunnyside
+  view_id: 4
+- id: gr-sunnyside-5
+  name: City of Sunnyside
+  county: Yakima
+  area: Sunnyside
+  type: granicus
+  tenant: sunnyside
+  view_id: 5
+- id: gr-sunnyside-6
+  name: City of Sunnyside
+  county: Yakima
+  area: Sunnyside
+  type: granicus
+  tenant: sunnyside
+  view_id: 6
+- id: gr-sunnyside-7
+  name: City of Sunnyside
+  county: Yakima
+  area: Sunnyside
+  type: granicus
+  tenant: sunnyside
+  view_id: 7
+- id: gr-sunnyside-8
+  name: City of Sunnyside
+  county: Yakima
+  area: Sunnyside
+  type: granicus
+  tenant: sunnyside
+  view_id: 8
+- id: gr-sunnyside-14
+  name: City of Sunnyside
+  county: Yakima
+  area: Sunnyside
+  type: granicus
+  tenant: sunnyside
+  view_id: 14
+- id: gr-yakimawa-1
+  name: City of Yakima
+  county: Yakima
+  area: Yakima
+  type: granicus
+  tenant: yakimawa
+  view_id: 1
+- id: gr-yakimawa-2
+  name: City of Yakima
+  county: Yakima
+  area: Yakima
+  type: granicus
+  tenant: yakimawa
+  view_id: 2
+- id: gr-yakimawa-3
+  name: City of Yakima
+  county: Yakima
+  area: Yakima
+  type: granicus
+  tenant: yakimawa
+  view_id: 3
+- id: gr-yakimawa-4
+  name: City of Yakima
+  county: Yakima
+  area: Yakima
+  type: granicus
+  tenant: yakimawa
+  view_id: 4
+- id: gr-yakimawa-5
+  name: City of Yakima
+  county: Yakima
+  area: Yakima
+  type: granicus
+  tenant: yakimawa
+  view_id: 5
+- id: gr-yakimawa-6
+  name: City of Yakima
+  county: Yakima
+  area: Yakima
+  type: granicus
+  tenant: yakimawa
+  view_id: 6
+- id: gr-yakimawa-7
+  name: City of Yakima
+  county: Yakima
+  area: Yakima
+  type: granicus
+  tenant: yakimawa
+  view_id: 7
+- id: gr-yakimawa-8
+  name: City of Yakima
+  county: Yakima
+  area: Yakima
+  type: granicus
+  tenant: yakimawa
+  view_id: 8
+- id: gr-yakimawa-14
+  name: City of Yakima
+  county: Yakima
+  area: Yakima
+  type: granicus
+  tenant: yakimawa
+  view_id: 14
+- id: gr-skagit-1
+  name: Skagit County
+  county: Skagit
+  area: countywide
+  type: granicus
+  tenant: skagit
+  view_id: 1
+- id: gr-skagit-2
+  name: Skagit County
+  county: Skagit
+  area: countywide
+  type: granicus
+  tenant: skagit
+  view_id: 2
+- id: gr-skagit-3
+  name: Skagit County
+  county: Skagit
+  area: countywide
+  type: granicus
+  tenant: skagit
+  view_id: 3
+- id: gr-skagit-4
+  name: Skagit County
+  county: Skagit
+  area: countywide
+  type: granicus
+  tenant: skagit
+  view_id: 4
+- id: gr-skagit-5
+  name: Skagit County
+  county: Skagit
+  area: countywide
+  type: granicus
+  tenant: skagit
+  view_id: 5
+- id: gr-skagit-6
+  name: Skagit County
+  county: Skagit
+  area: countywide
+  type: granicus
+  tenant: skagit
+  view_id: 6
+- id: gr-skagit-7
+  name: Skagit County
+  county: Skagit
+  area: countywide
+  type: granicus
+  tenant: skagit
+  view_id: 7
+- id: gr-skagit-8
+  name: Skagit County
+  county: Skagit
+  area: countywide
+  type: granicus
+  tenant: skagit
+  view_id: 8
+- id: gr-skagit-14
+  name: Skagit County
+  county: Skagit
+  area: countywide
+  type: granicus
+  tenant: skagit
+  view_id: 14
+- id: gr-lynnwoodwa-1
+  name: City of Lynnwood
+  county: Snohomish
+  area: Lynnwood
+  type: granicus
+  tenant: lynnwoodwa
+  view_id: 1
+- id: gr-lynnwoodwa-2
+  name: City of Lynnwood
+  county: Snohomish
+  area: Lynnwood
+  type: granicus
+  tenant: lynnwoodwa
+  view_id: 2
+- id: gr-lynnwoodwa-3
+  name: City of Lynnwood
+  county: Snohomish
+  area: Lynnwood
+  type: granicus
+  tenant: lynnwoodwa
+  view_id: 3
+- id: gr-lynnwoodwa-4
+  name: City of Lynnwood
+  county: Snohomish
+  area: Lynnwood
+  type: granicus
+  tenant: lynnwoodwa
+  view_id: 4
+- id: gr-lynnwoodwa-5
+  name: City of Lynnwood
+  county: Snohomish
+  area: Lynnwood
+  type: granicus
+  tenant: lynnwoodwa
+  view_id: 5
+- id: gr-lynnwoodwa-6
+  name: City of Lynnwood
+  county: Snohomish
+  area: Lynnwood
+  type: granicus
+  tenant: lynnwoodwa
+  view_id: 6
+- id: gr-lynnwoodwa-7
+  name: City of Lynnwood
+  county: Snohomish
+  area: Lynnwood
+  type: granicus
+  tenant: lynnwoodwa
+  view_id: 7
+- id: gr-lynnwoodwa-8
+  name: City of Lynnwood
+  county: Snohomish
+  area: Lynnwood
+  type: granicus
+  tenant: lynnwoodwa
+  view_id: 8
+- id: gr-lynnwoodwa-14
+  name: City of Lynnwood
+  county: Snohomish
+  area: Lynnwood
+  type: granicus
+  tenant: lynnwoodwa
+  view_id: 14
+- id: ferndale-cp
+  name: City of Ferndale
+  county: Whatcom
+  area: Ferndale
+  type: civicplus
+  site: https://www.cityofferndale.org
+  categories:
+  - 44
+  - 14
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+- id: dupont-cp
+  name: City of DuPont
+  county: Pierce
+  area: DuPont
+  type: civicplus
+  site: https://www.dupontwa.gov
+  categories:
+  - 14
+  - 32
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+- id: granger-cp
+  name: City of Granger
+  county: Yakima
+  area: Granger
+  type: civicplus
+  site: https://www.grangerwashington.org
+  categories:
+  - 22
+- id: bonney-lake-cc
+  name: City of Bonney Lake
+  county: Pierce
+  area: Bonney Lake
+  type: civicclerk
+  tenant: bonneylakewa
