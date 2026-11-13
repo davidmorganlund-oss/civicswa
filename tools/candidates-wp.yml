@@ -1,0 +1,753 @@
+sources:
+- id: wp-airway-heights
+  name: City of Airway Heights
+  county: Spokane
+  area: Airway Heights
+  type: ics
+  url: https://cawh.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://cawh.org/
+- id: wp-airway-heights-2
+  name: City of Airway Heights
+  county: Spokane
+  area: Airway Heights
+  type: ics
+  url: https://cawh.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://cawh.org/
+- id: wp-almira
+  name: City of Almira
+  county: Lincoln
+  area: Almira
+  type: ics
+  url: https://almirawa.gov/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://almirawa.gov/
+- id: wp-almira-2
+  name: City of Almira
+  county: Lincoln
+  area: Almira
+  type: ics
+  url: https://almirawa.gov/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://almirawa.gov/
+- id: wp-asotin
+  name: City of Asotin
+  county: Asotin
+  area: Asotin
+  type: ics
+  url: https://cityofasotin.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://cityofasotin.org/
+- id: wp-asotin-2
+  name: City of Asotin
+  county: Asotin
+  area: Asotin
+  type: ics
+  url: https://cityofasotin.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://cityofasotin.org/
+- id: wp-bellingham
+  name: City of Bellingham
+  county: Whatcom
+  area: Bellingham
+  type: ics
+  url: https://cob.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://cob.org/
+- id: wp-bellingham-2
+  name: City of Bellingham
+  county: Whatcom
+  area: Bellingham
+  type: ics
+  url: https://cob.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://cob.org/
+- id: wp-bridgeport
+  name: City of Bridgeport
+  county: Douglas
+  area: Bridgeport
+  type: ics
+  url: https://bridgeportwashington.net/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://bridgeportwashington.net/
+- id: wp-bridgeport-2
+  name: City of Bridgeport
+  county: Douglas
+  area: Bridgeport
+  type: ics
+  url: https://bridgeportwashington.net/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://bridgeportwashington.net/
+- id: wp-clarkston
+  name: City of Clarkston
+  county: Asotin
+  area: Clarkston
+  type: ics
+  url: https://clarkston-wa.com/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://clarkston-wa.com/
+- id: wp-clarkston-2
+  name: City of Clarkston
+  county: Asotin
+  area: Clarkston
+  type: ics
+  url: https://clarkston-wa.com/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://clarkston-wa.com/
+- id: wp-colton
+  name: City of Colton
+  county: Whitman
+  area: Colton
+  type: ics
+  url: https://www.coltonwashington.us/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.coltonwashington.us/
+- id: wp-colton-2
+  name: City of Colton
+  county: Whitman
+  area: Colton
+  type: ics
+  url: https://www.coltonwashington.us/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.coltonwashington.us/
+- id: wp-coupeville
+  name: City of Coupeville
+  county: Island
+  area: Coupeville
+  type: ics
+  url: https://townofcoupeville.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://townofcoupeville.org/
+- id: wp-coupeville-2
+  name: City of Coupeville
+  county: Island
+  area: Coupeville
+  type: ics
+  url: https://townofcoupeville.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://townofcoupeville.org/
+- id: wp-fairfield
+  name: City of Fairfield
+  county: Spokane
+  area: Fairfield
+  type: ics
+  url: https://fairfieldwa.com/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://fairfieldwa.com/
+- id: wp-fairfield-2
+  name: City of Fairfield
+  county: Spokane
+  area: Fairfield
+  type: ics
+  url: https://fairfieldwa.com/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://fairfieldwa.com/
+- id: wp-farmington
+  name: City of Farmington
+  county: Whitman
+  area: Farmington
+  type: ics
+  url: https://farmingtonwa.com/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://farmingtonwa.com/
+- id: wp-farmington-2
+  name: City of Farmington
+  county: Whitman
+  area: Farmington
+  type: ics
+  url: https://farmingtonwa.com/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://farmingtonwa.com/
+- id: wp-forks
+  name: City of Forks
+  county: Clallam
+  area: Forks
+  type: ics
+  url: https://forkswashington.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://forkswashington.org/
+- id: wp-forks-2
+  name: City of Forks
+  county: Clallam
+  area: Forks
+  type: ics
+  url: https://forkswashington.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://forkswashington.org/
+- id: wp-garfield
+  name: City of Garfield
+  county: Whitman
+  area: Garfield
+  type: ics
+  url: https://garfieldwa.com/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://garfieldwa.com/
+- id: wp-garfield-2
+  name: City of Garfield
+  county: Whitman
+  area: Garfield
+  type: ics
+  url: https://garfieldwa.com/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://garfieldwa.com/
+- id: wp-george
+  name: City of George
+  county: Grant
+  area: George
+  type: ics
+  url: https://www.cityofgeorge.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.cityofgeorge.org/
+- id: wp-george-2
+  name: City of George
+  county: Grant
+  area: George
+  type: ics
+  url: https://www.cityofgeorge.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.cityofgeorge.org/
+- id: wp-gold-bar
+  name: City of Gold Bar
+  county: Snohomish
+  area: Gold Bar
+  type: ics
+  url: https://cityofgoldbar.us/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://cityofgoldbar.us/
+- id: wp-gold-bar-2
+  name: City of Gold Bar
+  county: Snohomish
+  area: Gold Bar
+  type: ics
+  url: https://cityofgoldbar.us/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://cityofgoldbar.us/
+- id: wp-grand-coulee
+  name: City of Grand Coulee
+  county: Grant
+  area: Grand Coulee
+  type: ics
+  url: https://gccitywa.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://gccitywa.org/
+- id: wp-grand-coulee-2
+  name: City of Grand Coulee
+  county: Grant
+  area: Grand Coulee
+  type: ics
+  url: https://gccitywa.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://gccitywa.org/
+- id: wp-hamilton
+  name: City of Hamilton
+  county: Skagit
+  area: Hamilton
+  type: ics
+  url: https://www.townofhamiltonwa.com/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.townofhamiltonwa.com/
+- id: wp-hamilton-2
+  name: City of Hamilton
+  county: Skagit
+  area: Hamilton
+  type: ics
+  url: https://www.townofhamiltonwa.com/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.townofhamiltonwa.com/
+- id: wp-langley
+  name: City of Langley
+  county: Island
+  area: Langley
+  type: ics
+  url: https://www.langleywa.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.langleywa.org/
+- id: wp-langley-2
+  name: City of Langley
+  county: Island
+  area: Langley
+  type: ics
+  url: https://www.langleywa.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.langleywa.org/
+- id: wp-medical-lake
+  name: City of Medical Lake
+  county: Spokane
+  area: Medical Lake
+  type: ics
+  url: https://medical-lake.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://medical-lake.org/
+- id: wp-medical-lake-2
+  name: City of Medical Lake
+  county: Spokane
+  area: Medical Lake
+  type: ics
+  url: https://medical-lake.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://medical-lake.org/
+- id: wp-mossyrock
+  name: City of Mossyrock
+  county: Lewis
+  area: Mossyrock
+  type: ics
+  url: https://www.cityofmossyrock.com/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.cityofmossyrock.com/
+- id: wp-mossyrock-2
+  name: City of Mossyrock
+  county: Lewis
+  area: Mossyrock
+  type: ics
+  url: https://www.cityofmossyrock.com/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.cityofmossyrock.com/
+- id: wp-moxee
+  name: City of Moxee
+  county: Yakima
+  area: Moxee
+  type: ics
+  url: https://cityofmoxee.us/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://cityofmoxee.us/
+- id: wp-moxee-2
+  name: City of Moxee
+  county: Yakima
+  area: Moxee
+  type: ics
+  url: https://cityofmoxee.us/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://cityofmoxee.us/
+- id: wp-newport
+  name: City of Newport
+  county: Pend Oreille
+  area: Newport
+  type: ics
+  url: https://newport-wa.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://newport-wa.org/
+- id: wp-newport-2
+  name: City of Newport
+  county: Pend Oreille
+  area: Newport
+  type: ics
+  url: https://newport-wa.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://newport-wa.org/
+- id: wp-north-bonneville
+  name: City of North Bonneville
+  county: Skamania
+  area: North Bonneville
+  type: ics
+  url: https://northbonneville.net/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://northbonneville.net/
+- id: wp-north-bonneville-2
+  name: City of North Bonneville
+  county: Skamania
+  area: North Bonneville
+  type: ics
+  url: https://northbonneville.net/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://northbonneville.net/
+- id: wp-northport
+  name: City of Northport
+  county: Stevens
+  area: Northport
+  type: ics
+  url: http://northportwa.us/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: http://northportwa.us/
+- id: wp-northport-2
+  name: City of Northport
+  county: Stevens
+  area: Northport
+  type: ics
+  url: http://northportwa.us/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: http://northportwa.us/
+- id: wp-oakesdale
+  name: City of Oakesdale
+  county: Whitman
+  area: Oakesdale
+  type: ics
+  url: https://oakesdale.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://oakesdale.org/
+- id: wp-oakesdale-2
+  name: City of Oakesdale
+  county: Whitman
+  area: Oakesdale
+  type: ics
+  url: https://oakesdale.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://oakesdale.org/
+- id: wp-oroville
+  name: City of Oroville
+  county: Okanogan
+  area: Oroville
+  type: ics
+  url: https://oroville-wa.com/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://oroville-wa.com/
+- id: wp-oroville-2
+  name: City of Oroville
+  county: Okanogan
+  area: Oroville
+  type: ics
+  url: https://oroville-wa.com/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://oroville-wa.com/
+- id: wp-raymond
+  name: City of Raymond
+  county: Pacific
+  area: Raymond
+  type: ics
+  url: https://cityofraymond.com/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://cityofraymond.com/
+- id: wp-raymond-2
+  name: City of Raymond
+  county: Pacific
+  area: Raymond
+  type: ics
+  url: https://cityofraymond.com/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://cityofraymond.com/
+- id: wp-rosalia
+  name: City of Rosalia
+  county: Whitman
+  area: Rosalia
+  type: ics
+  url: https://www.townofrosalia.net/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.townofrosalia.net/
+- id: wp-rosalia-2
+  name: City of Rosalia
+  county: Whitman
+  area: Rosalia
+  type: ics
+  url: https://www.townofrosalia.net/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.townofrosalia.net/
+- id: wp-roy
+  name: City of Roy
+  county: Pierce
+  area: Roy
+  type: ics
+  url: https://cityofroywa.us/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://cityofroywa.us/
+- id: wp-roy-2
+  name: City of Roy
+  county: Pierce
+  area: Roy
+  type: ics
+  url: https://cityofroywa.us/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://cityofroywa.us/
+- id: wp-ruston
+  name: City of Ruston
+  county: Pierce
+  area: Ruston
+  type: ics
+  url: https://www.rustonwa.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.rustonwa.org/
+- id: wp-ruston-2
+  name: City of Ruston
+  county: Pierce
+  area: Ruston
+  type: ics
+  url: https://www.rustonwa.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.rustonwa.org/
+- id: wp-sumas
+  name: City of Sumas
+  county: Whatcom
+  area: Sumas
+  type: ics
+  url: https://www.cityofsumas.com/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.cityofsumas.com/
+- id: wp-sumas-2
+  name: City of Sumas
+  county: Whatcom
+  area: Sumas
+  type: ics
+  url: https://www.cityofsumas.com/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.cityofsumas.com/
+- id: wp-union-gap
+  name: City of Union Gap
+  county: Yakima
+  area: Union Gap
+  type: ics
+  url: https://uniongapwa.gov/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://uniongapwa.gov/
+- id: wp-union-gap-2
+  name: City of Union Gap
+  county: Yakima
+  area: Union Gap
+  type: ics
+  url: https://uniongapwa.gov/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://uniongapwa.gov/
+- id: wp-uniontown
+  name: City of Uniontown
+  county: Whitman
+  area: Uniontown
+  type: ics
+  url: https://uniontownwa.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://uniontownwa.org/
+- id: wp-uniontown-2
+  name: City of Uniontown
+  county: Whitman
+  area: Uniontown
+  type: ics
+  url: https://uniontownwa.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://uniontownwa.org/
+- id: wp-washtucna
+  name: City of Washtucna
+  county: Adams
+  area: Washtucna
+  type: ics
+  url: https://washtucna.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://washtucna.org/
+- id: wp-washtucna-2
+  name: City of Washtucna
+  county: Adams
+  area: Washtucna
+  type: ics
+  url: https://washtucna.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://washtucna.org/
+- id: wp-yarrow-point
+  name: City of Yarrow Point
+  county: King
+  area: Yarrow Point
+  type: ics
+  url: https://yarrowpointwa.gov/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://yarrowpointwa.gov/
+- id: wp-yarrow-point-2
+  name: City of Yarrow Point
+  county: King
+  area: Yarrow Point
+  type: ics
+  url: https://yarrowpointwa.gov/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://yarrowpointwa.gov/
+- id: wp-pierce-county-library-system
+  name: Pierce County Library System
+  county: Pierce
+  area: countywide
+  type: ics
+  url: https://mypcls.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://mypcls.org/
+- id: wp-pierce-county-library-system-2
+  name: Pierce County Library System
+  county: Pierce
+  area: countywide
+  type: ics
+  url: https://mypcls.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://mypcls.org/
+- id: wp-spokane-county-library-district
+  name: Spokane County Library District
+  county: Spokane
+  area: countywide
+  type: ics
+  url: https://www.scld.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.scld.org/
+- id: wp-spokane-county-library-district-2
+  name: Spokane County Library District
+  county: Spokane
+  area: countywide
+  type: ics
+  url: https://www.scld.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.scld.org/
+- id: wp-fort-vancouver-regional-library
+  name: Fort Vancouver Regional Library
+  county: Clark
+  area: countywide
+  type: ics
+  url: https://www.fvrl.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.fvrl.org/
+- id: wp-fort-vancouver-regional-library-2
+  name: Fort Vancouver Regional Library
+  county: Clark
+  area: countywide
+  type: ics
+  url: https://www.fvrl.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.fvrl.org/
+- id: wp-kitsap-regional-library
+  name: Kitsap Regional Library
+  county: Kitsap
+  area: countywide
+  type: ics
+  url: https://www.krl.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.krl.org/
+- id: wp-kitsap-regional-library-2
+  name: Kitsap Regional Library
+  county: Kitsap
+  area: countywide
+  type: ics
+  url: https://www.krl.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.krl.org/
+- id: wp-ncw-libraries
+  name: City of NCW Libraries
+  county: Chelan
+  area: NCW Libraries
+  type: ics
+  url: https://www.ncwlibraries.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.ncwlibraries.org/
+- id: wp-ncw-libraries-2
+  name: City of NCW Libraries
+  county: Chelan
+  area: NCW Libraries
+  type: ics
+  url: https://www.ncwlibraries.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.ncwlibraries.org/
+- id: wp-whatcom-county-library-system
+  name: Whatcom County Library System
+  county: Whatcom
+  area: countywide
+  type: ics
+  url: https://www.wcls.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.wcls.org/
+- id: wp-whatcom-county-library-system-2
+  name: Whatcom County Library System
+  county: Whatcom
+  area: countywide
+  type: ics
+  url: https://www.wcls.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.wcls.org/
+- id: wp-yakima-valley-libraries
+  name: City of Yakima Valley Libraries
+  county: Yakima
+  area: Yakima Valley Libraries
+  type: ics
+  url: https://www.yvl.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.yvl.org/
+- id: wp-yakima-valley-libraries-2
+  name: City of Yakima Valley Libraries
+  county: Yakima
+  area: Yakima Valley Libraries
+  type: ics
+  url: https://www.yvl.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.yvl.org/
+- id: wp-pend-oreille-county-library-district
+  name: Pend Oreille County Library District
+  county: Pend Oreille
+  area: countywide
+  type: ics
+  url: https://pocld.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://pocld.org/
+- id: wp-pend-oreille-county-library-district-2
+  name: Pend Oreille County Library District
+  county: Pend Oreille
+  area: countywide
+  type: ics
+  url: https://pocld.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://pocld.org/
+- id: wp-whitman-county-library
+  name: Whitman County Library
+  county: Whitman
+  area: countywide
+  type: ics
+  url: https://www.whitcolib.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.whitcolib.org/
+- id: wp-whitman-county-library-2
+  name: Whitman County Library
+  county: Whitman
+  area: countywide
+  type: ics
+  url: https://www.whitcolib.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.whitcolib.org/
+- id: wp-tacoma-public-library
+  name: Tacoma Public Library
+  county: Pierce
+  area: countywide
+  type: ics
+  url: https://www.tacomalibrary.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.tacomalibrary.org/
+- id: wp-tacoma-public-library-2
+  name: Tacoma Public Library
+  county: Pierce
+  area: countywide
+  type: ics
+  url: https://www.tacomalibrary.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.tacomalibrary.org/
+- id: wp-spokane-public-library
+  name: Spokane Public Library
+  county: Spokane
+  area: countywide
+  type: ics
+  url: https://www.spokanelibrary.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.spokanelibrary.org/
+- id: wp-spokane-public-library-2
+  name: Spokane Public Library
+  county: Spokane
+  area: countywide
+  type: ics
+  url: https://www.spokanelibrary.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.spokanelibrary.org/
+- id: wp-port-angeles-north-olympic-library-system
+  name: Port Angeles North Olympic Library System
+  county: Clallam
+  area: countywide
+  type: ics
+  url: https://www.nols.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.nols.org/
+- id: wp-port-angeles-north-olympic-library-system-2
+  name: Port Angeles North Olympic Library System
+  county: Clallam
+  area: countywide
+  type: ics
+  url: https://www.nols.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.nols.org/
+- id: wp-bellingham-public-library
+  name: Bellingham Public Library
+  county: Whatcom
+  area: countywide
+  type: ics
+  url: https://bellinghampubliclibrary.org/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://bellinghampubliclibrary.org/
+- id: wp-bellingham-public-library-2
+  name: Bellingham Public Library
+  county: Whatcom
+  area: countywide
+  type: ics
+  url: https://bellinghampubliclibrary.org/?post_type=tribe_events&ical=1&eventDisplay=list
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://bellinghampubliclibrary.org/
