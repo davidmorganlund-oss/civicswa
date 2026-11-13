@@ -1,0 +1,5 @@
+sources:
+  - {id: krl-board, name: Kitsap Regional Library, type: civicweb, base: "https://krl.community.diligentoneplatform.com", county: Kitsap, area: countywide, category: library}
+  - {id: lib-wcls, name: Whatcom County Library System, type: bibliocommons, library: wcls, searches: [board of trustees, trustees], include: "trustee|library board", category: library, county: Whatcom, area: countywide}
+  - {id: lib-spl, name: Seattle Public Library, type: bibliocommons, library: spl, searches: [board of trustees, trustees], include: "trustee|library board", category: library, county: King, area: Seattle}
+  - {id: lib-bellingham, name: Bellingham Public Library, type: bibliocommons, library: bellingham, searches: [board of trustees, trustees], include: "trustee|library board", category: library, county: Whatcom, area: Bellingham}
