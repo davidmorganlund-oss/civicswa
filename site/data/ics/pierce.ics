@@ -3,44 +3,8 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Pierce County
 BEGIN:VEVENT
-UID:affcc51a50d0@civicswa
-DTSTAMP:20261113T031415Z
-DTSTART:20261112T230000Z
-DTEND:20261113T000000Z
-SUMMARY:City Council Study Session (City of Gig Harbor)
-LOCATION:
-URL:https://gigharborwa.portal.civicclerk.com/event/878/overview
-END:VEVENT
-BEGIN:VEVENT
-UID:d23a0feefaa6@civicswa
-DTSTAMP:20261113T031415Z
-DTSTART:20261113T003000Z
-DTEND:20261113T013000Z
-SUMMARY:Community Vitality and Safety Committee (City of Tacoma)
-LOCATION:Webinar Link: www.zoom.us/j/85961604917 Passcode: 614650
-URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10786&GID=343&G=13864D1C-3F21-43C1-8E51-A93D1669D0F4
-END:VEVENT
-BEGIN:VEVENT
-UID:cbe34c627484@civicswa
-DTSTAMP:20261113T031415Z
-DTSTART:20261113T020000Z
-DTEND:20261113T075900Z
-SUMMARY:Park Advisory Commission Meeting (City of University Place)
-LOCATION:3609 Market Place West Second Floor Conference Room University Place WA 98466
-URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
-END:VEVENT
-BEGIN:VEVENT
-UID:cd7cb1e97a5b@civicswa
-DTSTAMP:20261113T031415Z
-DTSTART:20261113T020000Z
-DTEND:20261113T030000Z
-SUMMARY:CANCELLED: School Board Meeting (Tacoma Public Schools)
-LOCATION:Professional Development Center\, 6501 N. 23rd St.\, Tacoma
-URL:https://www.tacomaschools.org/about/school-board/attend
-END:VEVENT
-BEGIN:VEVENT
 UID:6e2be0edc90b@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261113T183000Z
 DTEND:20261113T193000Z
 SUMMARY:Operational Strategy and Administrative Committee (City of Tacoma)
@@ -49,7 +13,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10965&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:c308dcc56936@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261116T170000Z
 DTEND:20261117T060000Z
 SUMMARY:Civil Service Commission (City of Puyallup)
@@ -58,7 +22,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
 END:VEVENT
 BEGIN:VEVENT
 UID:e4381b957501@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261117T013000Z
 DTEND:20261117T033000Z
 SUMMARY:Citizens Advisory Commission (City Hall) (City of Buckley)
@@ -67,7 +31,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:8bd3e096b446@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261117T020000Z
 DTEND:20261117T030000Z
 SUMMARY:CANCELLED: Study Session Meeting (City of Fircrest)
@@ -76,7 +40,7 @@ URL:https://www.cityoffircrest.net/event/canceled-study-session-meeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:4ffe0f72e33f@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261117T020000Z
 DTEND:20261117T050000Z
 SUMMARY:City Council Meeting (regular meeting followed by study session) (City of Lakewood)
@@ -85,7 +49,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:86484b92091a@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261117T020000Z
 DTEND:20261117T030000Z
 SUMMARY:CANCELLED: Library Advisory Board Meeting (City of Puyallup)
@@ -94,7 +58,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
 END:VEVENT
 BEGIN:VEVENT
 UID:1c8feb47be4c@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261117T020000Z
 DTEND:20261117T030000Z
 SUMMARY:City Council Meeting (City of Sumner)
@@ -103,7 +67,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/2010/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:1a0dc404e591@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261117T023000Z
 DTEND:20261117T075900Z
 SUMMARY:Public Hearing: 2027 Property Tax Levy (City of University Place)
@@ -112,7 +76,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:e20103b70bb7@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261117T023000Z
 DTEND:20261117T075900Z
 SUMMARY:Public Hearing: 2027-2028 Biennial Budget Adoption (City of University Place)
@@ -121,7 +85,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:9b33ea869195@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261117T030000Z
 DTEND:20261117T050000Z
 SUMMARY:Planning Commission Meeting (City of Buckley)
@@ -130,7 +94,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:bcfdd6c71db0@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261117T030000Z
 DTEND:20261117T075900Z
 SUMMARY:Regular City Council Meeting (City of Milton)
@@ -139,7 +103,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
 END:VEVENT
 BEGIN:VEVENT
 UID:20b842ade80f@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261117T180000Z
 DTEND:20261117T200000Z
 SUMMARY:Aging and Disability Advisory Board Meeting (Pierce County)
@@ -148,7 +112,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=79
 END:VEVENT
 BEGIN:VEVENT
 UID:7707710deb4d@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261117T190000Z
 DTEND:20261117T200000Z
 SUMMARY:Arts Commission Meeting (City of Gig Harbor)
@@ -157,7 +121,7 @@ URL:https://gigharborwa.portal.civicclerk.com/event/890/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:3c2328833ac6@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261117T200000Z
 DTEND:20261117T210000Z
 SUMMARY:City Council Study Session (City of Tacoma)
@@ -166,7 +130,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10936&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:77a47c62f4d7@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261118T000000Z
 DTEND:20261118T010000Z
 SUMMARY:Public Works Committee (City of Sumner)
@@ -175,7 +139,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/1966/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ea2c91b53391@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261118T010000Z
 DTEND:20261118T020000Z
 SUMMARY:City Council (City of Tacoma)
@@ -184,7 +148,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10884&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:d5d50bb3f1ee@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261118T011500Z
 DTEND:20261118T021500Z
 SUMMARY:Transportation Benefit District Governing Board (City of Tacoma)
@@ -193,7 +157,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10991&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:d1f21bf2e0e5@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261118T020000Z
 DTEND:20261118T030000Z
 SUMMARY:City Council Meeting (City of Bonney Lake)
@@ -202,7 +166,7 @@ URL:https://bonneylakewa.portal.civicclerk.com/event/1280/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:5fa22a402a3e@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261118T020000Z
 DTEND:20261118T040000Z
 SUMMARY:Special City Council Study Session (City of Buckley)
@@ -211,7 +175,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:de9107c7837d@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261118T020000Z
 DTEND:20261118T050000Z
 SUMMARY:City Council Study Session (City of Fife)
@@ -220,7 +184,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
 END:VEVENT
 BEGIN:VEVENT
 UID:62d97d633a66@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261118T020000Z
 DTEND:20261118T040000Z
 SUMMARY:Veterans Advisory Board (Pierce County)
@@ -229,7 +193,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=126
 END:VEVENT
 BEGIN:VEVENT
 UID:46da47314688@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261118T020000Z
 DTEND:20261118T050000Z
 SUMMARY:Town Council (Town of Steilacoom)
@@ -238,7 +202,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:110cfea2215e@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261118T023000Z
 DTEND:20261118T033000Z
 SUMMARY:Fort Steilacoom Neighborhood Association meeting (City of Lakewood)
@@ -247,7 +211,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:37591c30c385@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261118T030000Z
 DTEND:20261118T040000Z
 SUMMARY:Regular Meeting of the Bethel School District Board of Directors (Bethel School District)
@@ -256,7 +220,7 @@ URL:https://bethelsd.community.diligentoneplatform.com/Portal/MeetingInformation
 END:VEVENT
 BEGIN:VEVENT
 UID:98abcf67a0f5@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261118T030000Z
 DTEND:20261118T040000Z
 SUMMARY:Council Study Session (City of Edgewood)
@@ -265,7 +229,7 @@ URL:https://edgewoodwa.portal.civicclerk.com/event/1147/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:77e1abc414e0@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261118T030000Z
 DTEND:20261118T043000Z
 SUMMARY:Regular City Council Meeting (City of Ruston)
@@ -274,7 +238,7 @@ URL:https://www.rustonwa.org/event/regular-city-council-meeting-2026-11-17/
 END:VEVENT
 BEGIN:VEVENT
 UID:f8f8b7f56f0b@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261118T180000Z
 DTEND:20261118T190000Z
 SUMMARY:Examiner's Hearing: Examiner's Hearing: Beck Variance\, App. 1071728 (Pierce County)
@@ -283,7 +247,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:886434072ce8@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261118T190000Z
 DTEND:20261118T200000Z
 SUMMARY:Public Safety Committee (City of Sumner)
@@ -292,7 +256,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/2118/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:330399149c4f@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261119T020000Z
 DTEND:20261119T030000Z
 SUMMARY:Downtown Neighborhood Association Meeting (City of Lakewood)
@@ -301,7 +265,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:faeba8f519c9@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261119T020000Z
 DTEND:20261119T075900Z
 SUMMARY:CANCELLED: Park Board Meeting Canceled (City of Milton)
@@ -310,7 +274,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:015642c2251c@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261119T020000Z
 DTEND:20261119T030000Z
 SUMMARY:STEILACOOM HISTORICAL SCHOOL DISTRICT REGULAR BOARD MEETING (Steilacoom Hist. School District)
@@ -319,7 +283,7 @@ URL:https://steilacoom.community.diligentoneplatform.com/Portal/MeetingInformati
 END:VEVENT
 BEGIN:VEVENT
 UID:d4838ba94c6d@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261119T023000Z
 DTEND:20261119T033000Z
 SUMMARY:Planning Commission Meeting (City of Puyallup)
@@ -328,7 +292,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
 END:VEVENT
 BEGIN:VEVENT
 UID:4245f0911bb1@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261119T023000Z
 DTEND:20261119T043000Z
 SUMMARY:Tacoma Narrows Airport Advisory Commission Meeting (Pierce County)
@@ -337,7 +301,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=114
 END:VEVENT
 BEGIN:VEVENT
 UID:12854e957e09@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261119T030000Z
 DTEND:20261119T075900Z
 SUMMARY:Planning Commission Meeting (City of University Place)
@@ -346,7 +310,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:9bfef15d1fc8@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261119T210000Z
 DTEND:20261119T230000Z
 SUMMARY:Examiner's Hearing: Puppy Dreams License Revocation Appeal\, App. 32069 (Pierce County)
@@ -355,7 +319,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:e67b6723a138@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261120T000000Z
 DTEND:20261120T020000Z
 SUMMARY:Design Review & Historic Preservation Board Meeting (City of Puyallup)
@@ -364,7 +328,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
 END:VEVENT
 BEGIN:VEVENT
 UID:39d732ce7bf0@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261120T013000Z
 DTEND:20261120T023000Z
 SUMMARY:Community Services Advisory Board (City of Lakewood)
@@ -373,7 +337,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:c74bbde24d84@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261120T023000Z
 DTEND:20261120T033000Z
 SUMMARY:Fort Steilacoom Neighborhood Association Meeting (City of Lakewood)
@@ -382,7 +346,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:6ddc6b05598e@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261120T210000Z
 DTEND:20261120T230000Z
 SUMMARY:Pierce County Arts Commission Meeting (Pierce County)
@@ -391,7 +355,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=77
 END:VEVENT
 BEGIN:VEVENT
 UID:3654342cb2c6@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261124T013000Z
 DTEND:20261124T023000Z
 SUMMARY:City Council Meeting (City of Gig Harbor)
@@ -400,7 +364,7 @@ URL:https://gigharborwa.portal.civicclerk.com/event/879/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:6988f4ec4c8a@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261124T020000Z
 DTEND:20261124T030000Z
 SUMMARY:Study Session (City of Sumner)
@@ -409,7 +373,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/2132/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:b12c191c5174@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261124T180000Z
 DTEND:20261124T190000Z
 SUMMARY:Economic Development Committee (City of Tacoma)
@@ -418,7 +382,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10764&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:7a378bed78f4@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261124T190000Z
 DTEND:20261124T223000Z
 SUMMARY:City Council Regular Meeting (City of Fircrest)
@@ -427,7 +391,7 @@ URL:https://www.cityoffircrest.net/event/city-council-regular-meeting-3/2026-11-
 END:VEVENT
 BEGIN:VEVENT
 UID:2813bc1da133@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261124T200000Z
 DTEND:20261124T210000Z
 SUMMARY:City Council Study Session (City of Tacoma)
@@ -436,7 +400,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10937&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:320980eabb6e@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261125T010000Z
 DTEND:20261125T020000Z
 SUMMARY:City Council (City of Tacoma)
@@ -445,7 +409,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10885&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:0edb707517b2@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261125T013000Z
 DTEND:20261125T023000Z
 SUMMARY:Parks & Recreation Advisory Board meeting (City of Lakewood)
@@ -454,7 +418,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:a8b3dce94e5a@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261125T020000Z
 DTEND:20261125T040000Z
 SUMMARY:City Council Meeting (City of Buckley)
@@ -463,7 +427,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:158092a6aaea@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261125T020000Z
 DTEND:20261125T075900Z
 SUMMARY:City Council Meeting (City of DuPont)
@@ -472,7 +436,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:4c5c7d9864c6@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261125T020000Z
 DTEND:20261125T050000Z
 SUMMARY:City Council Meeting (City of Fife)
@@ -481,7 +445,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
 END:VEVENT
 BEGIN:VEVENT
 UID:d4300dca5339@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261125T030000Z
 DTEND:20261125T040000Z
 SUMMARY:2nd - Regular Council Meeting (City of Edgewood)
@@ -490,7 +454,7 @@ URL:https://edgewoodwa.portal.civicclerk.com/event/1159/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:320b73b8214d@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261126T000000Z
 DTEND:20261126T010000Z
 SUMMARY:Community Development Committee (City of Sumner)
@@ -499,7 +463,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/2087/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:be2110388e29@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261126T003000Z
 DTEND:20261126T013000Z
 SUMMARY:Infrastructure\, Planning\, and Sustainability Committee (City of Tacoma)
@@ -508,7 +472,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10815&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:d1120704b590@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261127T003000Z
 DTEND:20261127T013000Z
 SUMMARY:Community Vitality and Safety Committee (City of Tacoma)
@@ -517,7 +481,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10787&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:d7e0ce7a2287@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261201T020000Z
 DTEND:20261201T030000Z
 SUMMARY:Special City Council Meeting (City of Sumner)
@@ -526,7 +490,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/2133/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:c22c77f48fdf@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261201T020000Z
 DTEND:20261201T030000Z
 SUMMARY:CANCELLED: School Board Meeting (Tacoma Public Schools)
@@ -535,7 +499,7 @@ URL:https://www.tacomaschools.org/about/school-board/attend
 END:VEVENT
 BEGIN:VEVENT
 UID:f14fbe5f24cc@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261201T213000Z
 DTEND:20261201T223000Z
 SUMMARY:Hearing Examiner (City of Gig Harbor)
@@ -544,7 +508,7 @@ URL:https://gigharborwa.portal.civicclerk.com/event/885/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2c2067c9beb0@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261202T003000Z
 DTEND:20261202T013000Z
 SUMMARY:Community Development Committee Meeting (City of Bonney Lake)
@@ -553,7 +517,7 @@ URL:https://bonneylakewa.portal.civicclerk.com/event/1287/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e9f15431967c@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261202T020000Z
 DTEND:20261202T030000Z
 SUMMARY:City Council Meeting (City of Bonney Lake)
@@ -562,7 +526,7 @@ URL:https://bonneylakewa.portal.civicclerk.com/event/1281/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:3a987ba2302d@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261202T020000Z
 DTEND:20261202T040000Z
 SUMMARY:City Council Study Session (City of Buckley)
@@ -571,7 +535,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:732f6bf2c8ae@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261202T020000Z
 DTEND:20261202T050000Z
 SUMMARY:Town Council (Town of Steilacoom)
@@ -580,7 +544,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:511b720f02e1@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261202T030000Z
 DTEND:20261202T040000Z
 SUMMARY:Council Study Session (City of Edgewood)
@@ -589,7 +553,7 @@ URL:https://edgewoodwa.portal.civicclerk.com/event/1136/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:bf0993879ef2@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261202T030000Z
 DTEND:20261202T043000Z
 SUMMARY:Regular City Council Meeting (City of Ruston)
@@ -598,7 +562,7 @@ URL:https://www.rustonwa.org/event/regular-city-council-meeting-2026-12-01/
 END:VEVENT
 BEGIN:VEVENT
 UID:f08f939035ae@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261202T180000Z
 DTEND:20261202T190000Z
 SUMMARY:Examiner's Hearing: Logger's Trail Preliminary Plat\, App. 1032512 (Pierce County)
@@ -607,7 +571,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:d9e813c923b8@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261202T210000Z
 DTEND:20261202T220000Z
 SUMMARY:Examiner's Hearing: Davis Setback Variance\, App. 1074616 (Pierce County)
@@ -616,7 +580,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:99de2ba371ac@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261202T233000Z
 DTEND:20261203T003000Z
 SUMMARY:Finance & Personnel Committee (City of Sumner)
@@ -625,7 +589,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/1957/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:5f59da981811@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261203T011500Z
 DTEND:20261203T021500Z
 SUMMARY:Public Safety Advisory Committee meeting (City of Lakewood)
@@ -634,7 +598,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:3c8a2fc74cbe@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261203T020000Z
 DTEND:20261203T030000Z
 SUMMARY:Planning Commission Meeting (City of Bonney Lake)
@@ -643,7 +607,7 @@ URL:https://bonneylakewa.portal.civicclerk.com/event/1211/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:62a223f2977a@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261203T020000Z
 DTEND:20261203T040000Z
 SUMMARY:Human Services Citizens Advisory Board Meeting (Pierce County)
@@ -652,7 +616,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=97
 END:VEVENT
 BEGIN:VEVENT
 UID:96d9e8f3118e@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261203T023000Z
 DTEND:20261203T043000Z
 SUMMARY:CANCELLED: Parks Advisory Board (City of Fife)
@@ -661,7 +625,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
 END:VEVENT
 BEGIN:VEVENT
 UID:e1d49005fd5c@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261203T023000Z
 DTEND:20261203T033000Z
 SUMMARY:Planning Commission meeting (City of Lakewood)
@@ -670,7 +634,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:c45019dc4d23@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261203T030000Z
 DTEND:20261203T043000Z
 SUMMARY:Regular Planning Commission Meeting (City of Ruston)
@@ -679,7 +643,7 @@ URL:https://www.rustonwa.org/event/regular-planning-commission-meeting-2026-12-0
 END:VEVENT
 BEGIN:VEVENT
 UID:c09d6ec9dcfa@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261203T153000Z
 DTEND:20261203T163000Z
 SUMMARY:Lakewood's Promise Advisory Board (City of Lakewood)
@@ -688,7 +652,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:f255805a9946@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261203T173000Z
 DTEND:20261203T183000Z
 SUMMARY:Civil Service Commission meeting (City of Lakewood)
@@ -697,7 +661,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:a9b8c13d871f@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261203T210000Z
 DTEND:20261203T230000Z
 SUMMARY:Examiner's Hearing: Shaw Administrative Appeal\, App. 1076485 (Pierce County)
@@ -706,7 +670,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:f76b7b82bf0f@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261203T230000Z
 DTEND:20261204T000000Z
 SUMMARY:City Council Study Session (City of Gig Harbor)
@@ -715,7 +679,7 @@ URL:https://gigharborwa.portal.civicclerk.com/event/880/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8d9f8db14f09@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261204T020000Z
 DTEND:20261204T030000Z
 SUMMARY:Planning Commission (City of Sumner)
@@ -724,7 +688,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/2106/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:c7692422539a@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261204T163000Z
 DTEND:20261205T060000Z
 SUMMARY:South Sound Affordable Housing Partnership (SSHA3P) Executive Board Meeting (Pierce County)
@@ -733,7 +697,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=145
 END:VEVENT
 BEGIN:VEVENT
 UID:13568ca9eb6d@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261204T183000Z
 DTEND:20261204T200000Z
 SUMMARY:Accessible Communities Advisory Committee (Pierce County)
@@ -742,7 +706,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=78
 END:VEVENT
 BEGIN:VEVENT
 UID:889b27d51c9c@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261208T004500Z
 DTEND:20261208T024500Z
 SUMMARY:Youth Council (City of Lakewood)
@@ -751,7 +715,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:d21ce7be4d14@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261208T010000Z
 DTEND:20261208T020000Z
 SUMMARY:Lakewood Arts Commission (City of Lakewood)
@@ -760,7 +724,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:73fb0c6f77ff@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261208T010000Z
 DTEND:20261208T023000Z
 SUMMARY:Commission on Refugee and Immigrant Affairs Meeting (Pierce County)
@@ -769,7 +733,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=143
 END:VEVENT
 BEGIN:VEVENT
 UID:95786008550c@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261208T011500Z
 DTEND:20261208T075900Z
 SUMMARY:CANCELLED: Civil Service Commission Meeting Canceled (City of Milton)
@@ -778,7 +742,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
 END:VEVENT
 BEGIN:VEVENT
 UID:dbfac44ff0a0@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261208T020000Z
 DTEND:20261208T075900Z
 SUMMARY:Park & Recreation Commission Meeting (City of DuPont)
@@ -787,7 +751,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:4bcd0257cdb9@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261208T020000Z
 DTEND:20261208T030000Z
 SUMMARY:Economic Development Advisory Board Meeting (City of Edgewood)
@@ -796,7 +760,7 @@ URL:https://edgewoodwa.portal.civicclerk.com/event/1212/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:c10b56c65045@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261208T020000Z
 DTEND:20261208T030000Z
 SUMMARY:City Council Meeting (City of Sumner)
@@ -805,7 +769,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/1985/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ce583b3639ee@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261208T030000Z
 DTEND:20261208T050000Z
 SUMMARY:Planning Commission Meeting (City of Buckley)
@@ -814,7 +778,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:03254a44aa32@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261208T030000Z
 DTEND:20261208T050000Z
 SUMMARY:Planning Commission (City of Fife)
@@ -823,7 +787,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
 END:VEVENT
 BEGIN:VEVENT
 UID:ea64f6c6387a@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261208T030000Z
 DTEND:20261208T060000Z
 SUMMARY:City Council Meeting (regular meeting) (City of Lakewood)
@@ -832,7 +796,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:e476ae4f6c67@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261208T030000Z
 DTEND:20261208T075900Z
 SUMMARY:Regular City Council Meeting (City of Milton)
@@ -841,7 +805,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
 END:VEVENT
 BEGIN:VEVENT
 UID:49a54e227120@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261208T190000Z
 DTEND:20261209T075900Z
 SUMMARY:Civil Service Commission Meeting (City of DuPont)
@@ -850,7 +814,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:0b48d78ce2f1@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261208T233000Z
 DTEND:20261209T003000Z
 SUMMARY:Peninsula School District Board of Directors Study Session (Peninsula School District)
@@ -859,7 +823,7 @@ URL:https://psd401.community.diligentoneplatform.com/Portal/MeetingInformation.a
 END:VEVENT
 BEGIN:VEVENT
 UID:8ee881481c83@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261208T234500Z
 DTEND:20261209T004500Z
 SUMMARY:Public Safety Committee Meeting (City of Bonney Lake)
@@ -868,7 +832,7 @@ URL:https://bonneylakewa.portal.civicclerk.com/event/1295/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:4d645beb1afe@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261209T010000Z
 DTEND:20261209T020000Z
 SUMMARY:Finance Committee Meeting (City of Bonney Lake)
@@ -877,7 +841,7 @@ URL:https://bonneylakewa.portal.civicclerk.com/event/1292/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:0a9c28328a6d@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261209T010000Z
 DTEND:20261209T020000Z
 SUMMARY:Civil Service Commission Regular Meeting (Pierce County)
@@ -886,7 +850,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=86
 END:VEVENT
 BEGIN:VEVENT
 UID:a8a91065e9dc@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:Joint Planning Commission & City Council Meeting (City of Bonney Lake)
@@ -895,7 +859,7 @@ URL:https://bonneylakewa.portal.civicclerk.com/event/1301/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:31634b5b78a2@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261209T020000Z
 DTEND:20261209T040000Z
 SUMMARY:City Council Meeting (City of Buckley)
@@ -904,7 +868,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:f56ed47db4fc@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261209T020000Z
 DTEND:20261209T075900Z
 SUMMARY:City Council Meeting (City of DuPont)
@@ -913,7 +877,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:ffb38b9d825d@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261209T020000Z
 DTEND:20261209T050000Z
 SUMMARY:City Council Meeting (City of Fife)
@@ -922,7 +886,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
 END:VEVENT
 BEGIN:VEVENT
 UID:aca16e8e6e0c@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:Peninsula School District Board of Directors Meeting (Peninsula School District)
@@ -931,7 +895,7 @@ URL:https://psd401.community.diligentoneplatform.com/Portal/MeetingInformation.a
 END:VEVENT
 BEGIN:VEVENT
 UID:fc17de42c5e2@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261209T023000Z
 DTEND:20261209T033000Z
 SUMMARY:Tillicum/Woodbrook Neighborhood Association (City of Lakewood)
@@ -940,7 +904,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:07e457c1796f@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261209T030000Z
 DTEND:20261209T040000Z
 SUMMARY:1st - Regular Council Meeting (City of Edgewood)
@@ -949,7 +913,7 @@ URL:https://edgewoodwa.portal.civicclerk.com/event/1124/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ee814db4abd8@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261209T233000Z
 DTEND:20261210T003000Z
 SUMMARY:Finance & Personnel Committee (City of Sumner)
@@ -958,7 +922,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/2135/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:9b86fa6e3234@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261209T233000Z
 DTEND:20261210T003000Z
 SUMMARY:CANCELLED: Board of Trustees Meeting (Pierce County Library System)
@@ -967,7 +931,7 @@ URL:https://mypcls.org/about-us/board-of-trustees/
 END:VEVENT
 BEGIN:VEVENT
 UID:2699ce7685a1@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261210T000000Z
 DTEND:20261210T010000Z
 SUMMARY:Community Development Committee (City of Sumner)
@@ -976,7 +940,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/2088/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f01f5d716ed2@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261210T003000Z
 DTEND:20261210T013000Z
 SUMMARY:Pierce County Ethics Commission Meeting (Pierce County)
@@ -985,7 +949,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=38
 END:VEVENT
 BEGIN:VEVENT
 UID:61c9bd75f842@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261210T010000Z
 DTEND:20261210T030000Z
 SUMMARY:Personnel Board Meeting (Pierce County)
@@ -994,7 +958,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=108
 END:VEVENT
 BEGIN:VEVENT
 UID:c7e6fedf0d38@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261210T020000Z
 DTEND:20261210T030000Z
 SUMMARY:Parks and Recreation Advisory Board Meeting (City of Edgewood)
@@ -1003,7 +967,7 @@ URL:https://edgewoodwa.portal.civicclerk.com/event/1200/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:09608f61b362@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261210T020000Z
 DTEND:20261210T075900Z
 SUMMARY:Planning Commission Meeting (City of Milton)
@@ -1012,7 +976,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
 UID:ea0ebaddb0ea@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261210T020000Z
 DTEND:20261210T030000Z
 SUMMARY:Design Commission (City of Sumner)
@@ -1021,7 +985,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/2050/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:004af2bc10b5@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261210T023000Z
 DTEND:20261210T033000Z
 SUMMARY:Planning Commission Meeting (City of Puyallup)
@@ -1030,7 +994,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
 END:VEVENT
 BEGIN:VEVENT
 UID:34ae85aad51e@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261210T210000Z
 DTEND:20261210T230000Z
 SUMMARY:Examiner's Hearing: OSI Investment Group LLC Administrative Appeal\, App. 1076949 (Pierce County)
@@ -1039,7 +1003,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:7956478b6102@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261211T000000Z
 DTEND:20261211T020000Z
 SUMMARY:Design Review & Historic Preservation Board Meeting (City of Puyallup)
@@ -1048,7 +1012,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
 END:VEVENT
 BEGIN:VEVENT
 UID:9b9b8eb568b9@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261211T003000Z
 DTEND:20261211T013000Z
 SUMMARY:Forestry\, Arts and Parks Commission (City of Sumner)
@@ -1057,7 +1021,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/2070/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:c82fce2fd8b5@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261211T030000Z
 DTEND:20261211T040000Z
 SUMMARY:Lake City Neighborhood Association meeting (City of Lakewood)
@@ -1066,7 +1030,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:4850bc3bea8e@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261214T210000Z
 DTEND:20261214T220000Z
 SUMMARY:Civil Service Commission (City of Ruston)
@@ -1075,7 +1039,7 @@ URL:https://www.rustonwa.org/event/civil-service-commission-2026-12-14/
 END:VEVENT
 BEGIN:VEVENT
 UID:14f0fcd30e16@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261214T230000Z
 DTEND:20261215T000000Z
 SUMMARY:Senior Advisory Board (City of Puyallup)
@@ -1084,7 +1048,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
 END:VEVENT
 BEGIN:VEVENT
 UID:03f3b994f98d@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261214T233000Z
 DTEND:20261215T003000Z
 SUMMARY:Civil Service Commission Meeting (City of Bonney Lake)
@@ -1093,7 +1057,7 @@ URL:https://bonneylakewa.portal.civicclerk.com/event/1265/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:794ea42a80ab@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261215T000000Z
 DTEND:20261215T010000Z
 SUMMARY:Admin/Finance/Public Safety Committee (City Hall) (City of Buckley)
@@ -1102,7 +1066,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:81da3a70ea4c@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261215T010000Z
 DTEND:20261215T075900Z
 SUMMARY:Tree Advisory Commission Meeting (City of DuPont)
@@ -1111,7 +1075,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:b8d287b168ea@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261215T013000Z
 DTEND:20261215T023000Z
 SUMMARY:City Council Meeting (City of Gig Harbor)
@@ -1120,7 +1084,7 @@ URL:https://gigharborwa.portal.civicclerk.com/event/881/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:c8cbb5074ca8@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261215T020000Z
 DTEND:20261215T030000Z
 SUMMARY:Planning Commission Meeting (City of Edgewood)
@@ -1129,7 +1093,7 @@ URL:https://edgewoodwa.portal.civicclerk.com/event/1188/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:cc5136fd6c99@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261215T020000Z
 DTEND:20261215T075900Z
 SUMMARY:City Council Study Session (City of Milton)
@@ -1138,7 +1102,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
 END:VEVENT
 BEGIN:VEVENT
 UID:d88f7e33f06a@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261215T020000Z
 DTEND:20261215T030000Z
 SUMMARY:City Council Study Session (City of Sumner)
@@ -1147,7 +1111,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/1998/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:b1e423fab9ef@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261215T023000Z
 DTEND:20261215T075900Z
 SUMMARY:Planning Commission Meeting (City of DuPont)
@@ -1156,7 +1120,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:1c132884726b@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261215T030000Z
 DTEND:20261215T060000Z
 SUMMARY:City Council Meeting (study session) (City of Lakewood)
@@ -1165,7 +1129,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:9f46ab029d94@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261216T000000Z
 DTEND:20261216T010000Z
 SUMMARY:Public Works Committee (City of Sumner)
@@ -1174,7 +1138,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/1967/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:6f0be3f6977e@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:City Council Meeting (City of Bonney Lake)
@@ -1183,7 +1147,7 @@ URL:https://bonneylakewa.portal.civicclerk.com/event/1283/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:a73bfa676de0@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261216T020000Z
 DTEND:20261216T050000Z
 SUMMARY:City Council Study Session (City of Fife)
@@ -1192,7 +1156,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
 END:VEVENT
 BEGIN:VEVENT
 UID:f6cd40fddfde@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261216T020000Z
 DTEND:20261216T050000Z
 SUMMARY:Town Council (Town of Steilacoom)
@@ -1201,7 +1165,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:d1189e39d919@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261216T023000Z
 DTEND:20261216T033000Z
 SUMMARY:Fort Steilacoom Neighborhood Association meeting (City of Lakewood)
@@ -1210,7 +1174,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:8e20ab8c9f68@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261216T030000Z
 DTEND:20261216T040000Z
 SUMMARY:Regular Meeting of the Bethel School District Board of Directors (Bethel School District)
@@ -1219,7 +1183,7 @@ URL:https://bethelsd.community.diligentoneplatform.com/Portal/MeetingInformation
 END:VEVENT
 BEGIN:VEVENT
 UID:f82a32681d99@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261216T030000Z
 DTEND:20261216T040000Z
 SUMMARY:Council Study Session (City of Edgewood)
@@ -1228,7 +1192,7 @@ URL:https://edgewoodwa.portal.civicclerk.com/event/1148/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:5034de37f572@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261216T030000Z
 DTEND:20261216T043000Z
 SUMMARY:Regular City Council Meeting (City of Ruston)
@@ -1237,7 +1201,7 @@ URL:https://www.rustonwa.org/event/regular-city-council-meeting-2026-12-15/
 END:VEVENT
 BEGIN:VEVENT
 UID:93f56dad02a0@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261216T180000Z
 DTEND:20261216T200000Z
 SUMMARY:Examiner's Hearing: Coastal Creditor Services CUP\, App. 1071913 (Pierce County)
@@ -1246,7 +1210,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:0d5f6a91d7bc@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261216T190000Z
 DTEND:20261216T200000Z
 SUMMARY:Public Safety Committee (City of Sumner)
@@ -1255,7 +1219,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/2119/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:14c95ad6623d@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261216T210000Z
 DTEND:20261216T230000Z
 SUMMARY:Examiner's Hearing: Stryder LLC Administrative Appeal\, App. 1077697 (Pierce County)
@@ -1264,7 +1228,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:8f9127f609bd@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261217T003000Z
 DTEND:20261217T020000Z
 SUMMARY:Pierce County Developmental Disabilities Advisory Board Meeting (Pierce County)
@@ -1273,7 +1237,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=89
 END:VEVENT
 BEGIN:VEVENT
 UID:0a7a398fb6bd@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261217T020000Z
 DTEND:20261217T075900Z
 SUMMARY:Park Board Meeting (City of Milton)
@@ -1282,7 +1246,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:9b6c3f6c86e7@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261217T020000Z
 DTEND:20261217T030000Z
 SUMMARY:STEILACOOM HISTORICAL SCHOOL DISTRICT REGULAR BOARD MEETING (Steilacoom Hist. School District)
@@ -1291,7 +1255,7 @@ URL:https://steilacoom.community.diligentoneplatform.com/Portal/MeetingInformati
 END:VEVENT
 BEGIN:VEVENT
 UID:ee4c1b9a3b72@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261217T023000Z
 DTEND:20261217T033000Z
 SUMMARY:Planning Commission meeting (City of Lakewood)
@@ -1300,7 +1264,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:d391dfa96394@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261217T210000Z
 DTEND:20261217T230000Z
 SUMMARY:Examiner's Hearing: My Haunted Forest Administrative Appeal\, App. 1076925 (Pierce County)
@@ -1309,7 +1273,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:a761ba556264@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261217T230000Z
 DTEND:20261218T010000Z
 SUMMARY:Examiner's Hearing: Crucerescu Administrative Appeal\, App. 1074825 (Continuance) (Pierce County)
@@ -1318,7 +1282,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=37
 END:VEVENT
 BEGIN:VEVENT
 UID:9fbe4ad4cc36@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261218T003000Z
 DTEND:20261218T013000Z
 SUMMARY:Springbrook Connections (City of Lakewood)
@@ -1327,7 +1291,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:b93eca7a574e@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261218T013000Z
 DTEND:20261218T023000Z
 SUMMARY:Community Services Advisory Board (City of Lakewood)
@@ -1336,7 +1300,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:b966d7b58cda@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261221T170000Z
 DTEND:20261222T060000Z
 SUMMARY:Civil Service Commission (City of Puyallup)
@@ -1345,7 +1309,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
 END:VEVENT
 BEGIN:VEVENT
 UID:2dc53d35a365@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261221T230000Z
 DTEND:20261222T003000Z
 SUMMARY:Behavioral Health Advisory Board (Pierce County)
@@ -1354,7 +1318,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=137
 END:VEVENT
 BEGIN:VEVENT
 UID:935f0ea2a92c@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261222T020000Z
 DTEND:20261222T050000Z
 SUMMARY:City Council Meeting (regular meeting followed by study session) (City of Lakewood)
@@ -1363,7 +1327,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:27fef980d61a@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261222T020000Z
 DTEND:20261222T030000Z
 SUMMARY:City Council Meeting (City of Sumner)
@@ -1372,7 +1336,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/2011/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:28c1e6ba9dff@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261222T030000Z
 DTEND:20261222T050000Z
 SUMMARY:Planning Commission Meeting (City of Buckley)
@@ -1381,7 +1345,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:ef489ff79fb5@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261222T030000Z
 DTEND:20261222T075900Z
 SUMMARY:Regular City Council Meeting (City of Milton)
@@ -1390,7 +1354,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
 END:VEVENT
 BEGIN:VEVENT
 UID:48ba4d1bd470@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261222T200000Z
 DTEND:20261222T210000Z
 SUMMARY:City Council Study Session (City of Tacoma)
@@ -1399,7 +1363,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10941&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:02cf6549fbb2@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261223T010000Z
 DTEND:20261223T020000Z
 SUMMARY:City Council (City of Tacoma)
@@ -1408,7 +1372,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10889&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:09af5f43f758@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261223T020000Z
 DTEND:20261223T040000Z
 SUMMARY:City Council Meeting (City of Buckley)
@@ -1417,7 +1381,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:04cfd3c08796@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261223T020000Z
 DTEND:20261223T075900Z
 SUMMARY:City Council Meeting (City of DuPont)
@@ -1426,7 +1390,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:24452cca9002@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261223T020000Z
 DTEND:20261223T050000Z
 SUMMARY:City Council Meeting (City of Fife)
@@ -1435,7 +1399,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
 END:VEVENT
 BEGIN:VEVENT
 UID:044a394a1bbb@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261223T030000Z
 DTEND:20261223T040000Z
 SUMMARY:2nd - Regular Council Meeting (City of Edgewood)
@@ -1444,7 +1408,7 @@ URL:https://edgewoodwa.portal.civicclerk.com/event/1160/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:d61a7c86bb11@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261229T000000Z
 DTEND:20261229T010000Z
 SUMMARY:Arts and Culture Commission (City of Puyallup)
@@ -1453,7 +1417,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=36
 END:VEVENT
 BEGIN:VEVENT
 UID:a814d95bded6@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261229T020000Z
 DTEND:20261229T030000Z
 SUMMARY:City Council Study Session (City of Sumner)
@@ -1462,7 +1426,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/2134/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:27f672caab34@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261229T200000Z
 DTEND:20261229T210000Z
 SUMMARY:City Council Study Session (City of Tacoma)
@@ -1471,7 +1435,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10942&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:f8d8fde0d25e@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261230T010000Z
 DTEND:20261230T020000Z
 SUMMARY:City Council (City of Tacoma)
@@ -1480,7 +1444,7 @@ URL:https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10890&GID=343&G=1
 END:VEVENT
 BEGIN:VEVENT
 UID:a75eb66b1b89@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20261230T030000Z
 DTEND:20261230T040000Z
 SUMMARY:Council Study Session (City of Edgewood)
@@ -1489,7 +1453,7 @@ URL:https://edgewoodwa.portal.civicclerk.com/event/1164/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:181ab2253af8@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270105T004500Z
 DTEND:20270105T024500Z
 SUMMARY:Youth Council (City of Lakewood)
@@ -1498,7 +1462,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:ccae9e034b92@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270105T010000Z
 DTEND:20270105T020000Z
 SUMMARY:Lakewood Arts Commission (City of Lakewood)
@@ -1507,7 +1471,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:d16c384909b1@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270105T011500Z
 DTEND:20270105T075900Z
 SUMMARY:Civil Service Commission Meeting (City of Milton)
@@ -1516,7 +1480,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
 END:VEVENT
 BEGIN:VEVENT
 UID:219448cb1f85@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270105T020000Z
 DTEND:20270105T030000Z
 SUMMARY:City Council Meeting (City of Sumner)
@@ -1525,7 +1489,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/1986/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2e65f23cd60a@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270105T030000Z
 DTEND:20270105T050000Z
 SUMMARY:Planning Commission (City of Fife)
@@ -1534,7 +1498,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
 END:VEVENT
 BEGIN:VEVENT
 UID:7f13da7b897c@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270105T030000Z
 DTEND:20270105T060000Z
 SUMMARY:City Council Meeting (regular meeting) (City of Lakewood)
@@ -1543,7 +1507,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:34423c350ab0@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270105T030000Z
 DTEND:20270105T075900Z
 SUMMARY:Regular City Council Meeting (City of Milton)
@@ -1552,7 +1516,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
 END:VEVENT
 BEGIN:VEVENT
 UID:e05c76503ca1@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270106T000000Z
 DTEND:20270106T010000Z
 SUMMARY:Public Works Committee (City of Sumner)
@@ -1561,7 +1525,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/1968/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:629a47c7d0ff@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270106T003000Z
 DTEND:20270106T013000Z
 SUMMARY:Community Development Committee Meeting (City of Bonney Lake)
@@ -1570,7 +1534,7 @@ URL:https://bonneylakewa.portal.civicclerk.com/event/1302/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f974a20bb15a@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270106T020000Z
 DTEND:20270106T030000Z
 SUMMARY:City Council Meeting (City of Bonney Lake)
@@ -1579,7 +1543,7 @@ URL:https://bonneylakewa.portal.civicclerk.com/event/1306/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2ae244c1c84d@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270106T020000Z
 DTEND:20270106T050000Z
 SUMMARY:Town Council (Town of Steilacoom)
@@ -1588,7 +1552,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=23
 END:VEVENT
 BEGIN:VEVENT
 UID:119ab3ea2674@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270107T011500Z
 DTEND:20270107T021500Z
 SUMMARY:Public Safety Advisory Committee meeting (City of Lakewood)
@@ -1597,7 +1561,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:61bef8192998@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270107T020000Z
 DTEND:20270107T030000Z
 SUMMARY:Planning Commission Meeting (City of Bonney Lake)
@@ -1606,7 +1570,7 @@ URL:https://bonneylakewa.portal.civicclerk.com/event/1212/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f04450868483@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270107T023000Z
 DTEND:20270107T043000Z
 SUMMARY:Parks Advisory Board (City of Fife)
@@ -1615,7 +1579,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=35
 END:VEVENT
 BEGIN:VEVENT
 UID:02d80c271d89@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270107T023000Z
 DTEND:20270107T033000Z
 SUMMARY:Planning Commission meeting (City of Lakewood)
@@ -1624,7 +1588,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:fe89e1c0e77f@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270107T153000Z
 DTEND:20270107T163000Z
 SUMMARY:Lakewood's Promise Advisory Board (City of Lakewood)
@@ -1633,7 +1597,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:ce1f4994208a@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270107T173000Z
 DTEND:20270107T183000Z
 SUMMARY:Civil Service Commission meeting (City of Lakewood)
@@ -1642,7 +1606,7 @@ URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:5a985d90d3bd@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270108T020000Z
 DTEND:20270108T030000Z
 SUMMARY:Planning Commission (City of Sumner)
@@ -1651,7 +1615,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/2107/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:3136c2b8d9c4@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270111T210000Z
 DTEND:20270111T220000Z
 SUMMARY:Civil Service Commission (City of Ruston)
@@ -1660,7 +1624,7 @@ URL:https://www.rustonwa.org/event/civil-service-commission-2027-01-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:37b170e54f85@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270111T233000Z
 DTEND:20270112T003000Z
 SUMMARY:Civil Service Commission Meeting (City of Bonney Lake)
@@ -1669,7 +1633,7 @@ URL:https://bonneylakewa.portal.civicclerk.com/event/1266/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:fb1877dd8c87@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270112T020000Z
 DTEND:20270112T075900Z
 SUMMARY:City Council Study Session (City of Milton)
@@ -1678,7 +1642,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32
 END:VEVENT
 BEGIN:VEVENT
 UID:ed3b4f28e2f3@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270112T020000Z
 DTEND:20270112T030000Z
 SUMMARY:City Council Study Session (City of Sumner)
@@ -1687,7 +1651,7 @@ URL:https://sumnerwa.portal.civicclerk.com/event/1999/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:371fc800f7b3@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270112T023000Z
 DTEND:20270112T075900Z
 SUMMARY:Planning Commission Meeting (City of DuPont)
@@ -1696,11 +1660,65 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:3437a2a4e9e3@civicswa
-DTSTAMP:20261113T031415Z
+DTSTAMP:20261113T120146Z
 DTSTART:20270112T030000Z
 DTEND:20270112T060000Z
 SUMMARY:City Council Meeting (study session) (City of Lakewood)
 LOCATION:Lakewood City Hall\, 6000 Main St SW\, Lakewood\, WA 98499\, USA
+URL:https://cityoflakewood.us/city-council/city-council-agendas/
+END:VEVENT
+BEGIN:VEVENT
+UID:1941c82a4882@civicswa
+DTSTAMP:20261113T120146Z
+DTSTART:20270112T190000Z
+DTEND:20270113T075900Z
+SUMMARY:Civil Service Commission Meeting (City of DuPont)
+LOCATION:DuPont WA 98327
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:fd7b77a3cc38@civicswa
+DTSTAMP:20261113T120146Z
+DTSTART:20270113T010000Z
+DTEND:20270113T020000Z
+SUMMARY:Civil Service Commission Regular Meeting (Pierce County)
+LOCATION:Via Zoom or 1501 Market St. 1st floor Puget Sound Conference Room
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=86
+END:VEVENT
+BEGIN:VEVENT
+UID:2599bb06615e@civicswa
+DTSTAMP:20261113T120146Z
+DTSTART:20270113T020000Z
+DTEND:20270113T030000Z
+SUMMARY:City Council Meeting (City of Bonney Lake)
+LOCATION:9002 Main St E\, Bonney Lake
+URL:https://bonneylakewa.portal.civicclerk.com/event/1307/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:6c8a22b8c9d9@civicswa
+DTSTAMP:20261113T120146Z
+DTSTART:20270113T020000Z
+DTEND:20270113T075900Z
+SUMMARY:City Council Meeting (City of DuPont)
+LOCATION:DuPont WA 98327
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
+END:VEVENT
+BEGIN:VEVENT
+UID:c2eb978ceed6@civicswa
+DTSTAMP:20261113T120146Z
+DTSTART:20270113T020000Z
+DTEND:20270113T050000Z
+SUMMARY:City Council Meeting (City of Fife)
+LOCATION:Fife City Hall - 5411 23rd Street E FIFE WA 98424
+URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=22
+END:VEVENT
+BEGIN:VEVENT
+UID:5bbf12d8172c@civicswa
+DTSTAMP:20261113T120146Z
+DTSTART:20270113T023000Z
+DTEND:20270113T033000Z
+SUMMARY:Tillicum/Woodbrook Neighborhood Association (City of Lakewood)
+LOCATION:
 URL:https://cityoflakewood.us/city-council/city-council-agendas/
 END:VEVENT
 END:VCALENDAR
