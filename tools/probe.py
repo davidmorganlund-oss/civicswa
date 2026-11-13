@@ -23,6 +23,7 @@ PLATFORMS = {
     "novus": r"([a-z0-9-]+)\.novusagenda\.com",
     "agendaquick": r"([a-z0-9-]+)\.agendaquick\.com",
     "simbli": r"simbli\.eboardsolutions\.com/[^\"']*?S=(\d+)",
+    "govaccess": r"(RssFeed/View\?ctID=\d+(?:&(?:amp;)?cateIDs=[\d,]+)?)",
     "gcal": r"calendar\.google\.com/calendar/(?:u/\d/?)?(?:embed|ical|r)?[^\"'\s]*?[?&;](?:src|cid)=([^&\"'\s]+)",
 }
 LINK_HINT = re.compile(r"agenda|meeting|council|commission|calendar|minutes|board|events", re.I)
@@ -69,6 +70,7 @@ def probe(row):
             res["found"][k] = hits[:4]
     res["ics"] = sorted(set(re.findall(r'(?:href|src)="([^"]+(?:\.ics|ical=1|/ical/|webcal:[^"]+))"', blob, re.I)))[:6]
     res["wordpress"] = "wp-content" in blob
+    res["govaccess_site"] = "/Home/Components/" in blob
     res["apptegy"] = "thrillshare" in blob or "apptegy" in blob.lower()
     if res["apptegy"]:
         root = f"{urlparse(final).scheme}://{host}"

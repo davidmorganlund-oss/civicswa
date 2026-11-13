@@ -1,0 +1,97 @@
+sources:
+- id: ga-skamania-6-all
+  name: Skamania County
+  county: Skamania
+  area: countywide
+  type: govaccess_rss
+  url: https://www.skamaniacounty.org/Home/Components/RssFeeds/RssFeed/View?ctID=6
+- id: ga-skamania-6-1
+  name: Skamania County
+  county: Skamania
+  area: countywide
+  type: govaccess_rss
+  url: https://www.skamaniacounty.org/Home/Components/RssFeeds/RssFeed/View?ctID=6&cateIDs=1
+- id: ga-skamania-6-2
+  name: Skamania County
+  county: Skamania
+  area: countywide
+  type: govaccess_rss
+  url: https://www.skamaniacounty.org/Home/Components/RssFeeds/RssFeed/View?ctID=6&cateIDs=2
+- id: ga-skamania-6-3
+  name: Skamania County
+  county: Skamania
+  area: countywide
+  type: govaccess_rss
+  url: https://www.skamaniacounty.org/Home/Components/RssFeeds/RssFeed/View?ctID=6&cateIDs=3
+- id: ga-skamania-6-4
+  name: Skamania County
+  county: Skamania
+  area: countywide
+  type: govaccess_rss
+  url: https://www.skamaniacounty.org/Home/Components/RssFeeds/RssFeed/View?ctID=6&cateIDs=4
+- id: ga-skamania-6-5
+  name: Skamania County
+  county: Skamania
+  area: countywide
+  type: govaccess_rss
+  url: https://www.skamaniacounty.org/Home/Components/RssFeeds/RssFeed/View?ctID=6&cateIDs=5
+- id: ga-skamania-6-6
+  name: Skamania County
+  county: Skamania
+  area: countywide
+  type: govaccess_rss
+  url: https://www.skamaniacounty.org/Home/Components/RssFeeds/RssFeed/View?ctID=6&cateIDs=6
+- id: ga-skamania-6-7
+  name: Skamania County
+  county: Skamania
+  area: countywide
+  type: govaccess_rss
+  url: https://www.skamaniacounty.org/Home/Components/RssFeeds/RssFeed/View?ctID=6&cateIDs=7
+- id: ga-skamania-6-8
+  name: Skamania County
+  county: Skamania
+  area: countywide
+  type: govaccess_rss
+  url: https://www.skamaniacounty.org/Home/Components/RssFeeds/RssFeed/View?ctID=6&cateIDs=8
+- id: ga-skamania-6-9
+  name: Skamania County
+  county: Skamania
+  area: countywide
+  type: govaccess_rss
+  url: https://www.skamaniacounty.org/Home/Components/RssFeeds/RssFeed/View?ctID=6&cateIDs=9
+- id: ga-skamania-6-10
+  name: Skamania County
+  county: Skamania
+  area: countywide
+  type: govaccess_rss
+  url: https://www.skamaniacounty.org/Home/Components/RssFeeds/RssFeed/View?ctID=6&cateIDs=10
+- id: ga-skamania-6-11
+  name: Skamania County
+  county: Skamania
+  area: countywide
+  type: govaccess_rss
+  url: https://www.skamaniacounty.org/Home/Components/RssFeeds/RssFeed/View?ctID=6&cateIDs=11
+- id: ga-skamania-6-12
+  name: Skamania County
+  county: Skamania
+  area: countywide
+  type: govaccess_rss
+  url: https://www.skamaniacounty.org/Home/Components/RssFeeds/RssFeed/View?ctID=6&cateIDs=12
+- id: ga-skamania-6-13
+  name: Skamania County
+  county: Skamania
+  area: countywide
+  type: govaccess_rss
+  url: https://www.skamaniacounty.org/Home/Components/RssFeeds/RssFeed/View?ctID=6&cateIDs=13
+- id: ga-skamania-6-14
+  name: Skamania County
+  county: Skamania
+  area: countywide
+  type: govaccess_rss
+  url: https://www.skamaniacounty.org/Home/Components/RssFeeds/RssFeed/View?ctID=6&cateIDs=14
+- id: ga-skamania-6-15
+  name: Skamania County
+  county: Skamania
+  area: countywide
+  type: govaccess_rss
+  url: https://www.skamaniacounty.org/Home/Components/RssFeeds/RssFeed/View?ctID=6&cateIDs=15

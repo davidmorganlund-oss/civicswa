@@ -1146,6 +1146,12 @@ sources:
     area: DuPont
     homepage: https://www.dupontwa.gov/Calendar.aspx
 
+  - {id: ruston, name: City of Ruston, county: Pierce, area: Ruston, type: ics, url: 'https://www.rustonwa.org/events/?ical=1', include: council|commission|board|committee|hearing|meeting|session|workshop, homepage: 'https://www.rustonwa.org/'}
+
+  - {id: gold-bar, name: City of Gold Bar, county: Snohomish, area: Gold Bar, type: ics, url: 'https://cityofgoldbar.us/events/?ical=1', include: council|commission|board|committee|hearing|meeting|session|workshop, homepage: 'https://cityofgoldbar.us/'}
+
+  - {id: sumas, name: City of Sumas, county: Whatcom, area: Sumas, type: ics, url: 'https://www.cityofsumas.com/?post_type=tribe_events&ical=1&eventDisplay=list', include: council|commission|board|committee|hearing|meeting|session|workshop, homepage: 'https://www.cityofsumas.com/', exclude: whatcom county}
+
   # Granicus portals: meetings appear once their agendas are posted.
   - id: lynnwood
     name: City of Lynnwood
