@@ -1504,6 +1504,120 @@ sources:
 
   - {id: onalaska-schools, name: Onalaska School District, county: Lewis, area: Onalaska, category: school, type: ics, url: 'https://calendar.google.com/calendar/ical/c_a62e3447b57d0fc14d5e44f84f7864c7e4ccd08191c1255a5115751d74323c02%40group.calendar.google.com/public/basic.ics', include: 'school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop', exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.}
 
+  # School districts on Apptegy sites: board meetings read from the district calendar.
+
+  - {id: clarkston-schools, name: Clarkston School District, county: Asotin, area: Clarkston, category: school, type: apptegy, org: 6838, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.csdk12.org/'}
+
+  - {id: prosser-schools, name: Prosser School District, county: Benton, area: Prosser, category: school, type: apptegy, org: 9378, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.prosserschools.org/'}
+
+  - {id: cascade-schools, name: Cascade School District, county: Chelan, area: Leavenworth, category: school, type: apptegy, org: 18236, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.cascadesd.org/'}
+
+  - {id: manson-schools, name: Manson School District, county: Chelan, area: Manson, category: school, type: apptegy, org: 28562, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.manson.org/'}
+
+  - {id: quillayute-valley-schools, name: Quillayute Valley School District, county: Clallam, area: Forks, category: school, type: apptegy, org: 18984, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'https://www.qvschools.org/'}
+
+  - {id: sequim-schools, name: Sequim School District, county: Clallam, area: Sequim, category: school, type: apptegy, org: 32407, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.sequimschools.org/'}
+
+  - {id: hockinson-schools, name: Hockinson School District, county: Clark, area: Hockinson, category: school, type: apptegy, org: 25321, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.hocksd.org/'}
+
+  - {id: vancouver-schools, name: Vancouver School District, county: Clark, area: Vancouver, category: school, type: apptegy, org: 27121, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.vansd.org/'}
+
+  - {id: dayton-schools, name: Dayton School District, county: Columbia, area: Dayton, category: school, type: apptegy, org: 2132, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.daytonsd.org/'}
+
+  - {id: bridgeport-schools, name: Bridgeport School District, county: Douglas, area: Bridgeport, category: school, type: apptegy, org: 6108, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.bridgeport.wednet.edu/'}
+
+  - {id: curlew-schools, name: Curlew School District, county: Ferry, area: Curlew, category: school, type: apptegy, org: 20106, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'https://www.curlewsd.org/'}
+
+  - {id: republic-schools, name: Republic School District, county: Ferry, area: Republic, category: school, type: apptegy, org: 4492, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'https://www.republic309.org/'}
+
+  - {id: north-franklin-schools, name: North Franklin School District, county: Franklin, area: Connell, category: school, type: apptegy, org: 327, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.nfsd.org/'}
+
+  - {id: wahluke-schools, name: Wahluke School District, county: Grant, area: Mattawa, category: school, type: apptegy, org: 4912, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.wsd73.wednet.edu/'}
+
+  - {id: hoquiam-schools, name: Hoquiam School District, county: Grays Harbor, area: Hoquiam, category: school, type: apptegy, org: 7501, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.hoquiam.net/'}
+
+  - {id: lake-quinault-schools, name: Lake Quinault School District, county: Grays Harbor, area: Amanda Park, category: school, type: apptegy, org: 19969, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'https://www.lakequinaultschools.org/'}
+
+  - {id: ocosta-schools, name: Ocosta School District, county: Grays Harbor, area: Westport, category: school, type: apptegy, org: 3878, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.ocosta.k12.wa.us/'}
+
+  - {id: taholah-schools, name: Taholah School District, county: Grays Harbor, area: Taholah, category: school, type: apptegy, org: 26308, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.taholah.org/'}
+
+  - {id: chimacum-schools, name: Chimacum School District, county: Jefferson, area: Chimacum, category: school, type: apptegy, org: 31234, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://csd49.org/'}
+
+  - {id: port-townsend-schools, name: Port Townsend School District, county: Jefferson, area: Port Townsend, category: school, type: apptegy, org: 29543, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.ptschools.org/'}
+
+  - {id: enumclaw-schools, name: Enumclaw School District, county: King, area: Enumclaw, category: school, type: apptegy, org: 9507, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.enumclaw.wednet.edu/'}
+
+  - {id: kent-schools, name: Kent School District, county: King, area: Kent, category: school, type: apptegy, org: 23712, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.kent.k12.wa.us/'}
+
+  - {id: klickitat-schools, name: Klickitat School District, county: Klickitat, area: Klickitat, category: school, type: apptegy, org: 31907, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'https://www.klickitat.wednet.edu/'}
+
+  - {id: white-salmon-valley-schools, name: White Salmon Valley School District, county: Klickitat, area: White Salmon, category: school, type: apptegy, org: 4456, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'https://www.wsvsd.org/'}
+
+  - {id: morton-schools, name: Morton School District, county: Lewis, area: Morton, category: school, type: apptegy, org: 187, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.morton.k12.wa.us/'}
+
+  - {id: napavine-schools, name: Napavine School District, county: Lewis, area: Napavine, category: school, type: apptegy, org: 20091, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.napavineschools.org/'}
+
+  - {id: white-pass-schools, name: White Pass School District, county: Lewis, area: Randle, category: school, type: apptegy, org: 2250, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.whitepass.k12.wa.us/'}
+
+  - {id: almira-schools, name: Almira School District, county: Lincoln, area: Almira, category: school, type: apptegy, org: 20161, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'https://www.almirasd.org/'}
+
+  - {id: creston-schools, name: Creston School District, county: Lincoln, area: Creston, category: school, type: apptegy, org: 24695, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'https://wcsd.wednet.edu/'}
+
+  - {id: harrington-schools, name: Harrington School District, county: Lincoln, area: Harrington, category: school, type: apptegy, org: 1354, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.harringtonsd.org/'}
+
+  - {id: hood-canal-schools, name: Hood Canal School District, county: Mason, area: Shelton, category: school, type: apptegy, org: 24110, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.hoodcanal.wednet.edu/'}
+
+  - {id: mary-m-knight-schools, name: Mary M Knight School District, county: Mason, area: Elma, category: school, type: apptegy, org: 25019, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.marymknight.com/'}
+
+  - {id: north-mason-schools, name: North Mason School District, county: Mason, area: Belfair, category: school, type: apptegy, org: 16212, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.nmsd.wednet.edu/'}
+
+  - {id: brewster-schools, name: Brewster School District, county: Okanogan, area: Brewster, category: school, type: apptegy, org: 25182, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'https://www.brewsterbears.org/'}
+
+  - {id: omak-schools, name: Omak School District, county: Okanogan, area: Omak, category: school, type: apptegy, org: 20783, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.omaksd.org/'}
+
+  - {id: ocean-beach-schools, name: Ocean Beach School District, county: Pacific, area: Long Beach, category: school, type: apptegy, org: 9228, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.ocean.k12.wa.us/'}
+
+  - {id: la-conner-schools, name: La Conner School District, county: Skagit, area: La Conner, category: school, type: apptegy, org: 22235, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.lcsd.wednet.edu/'}
+
+  - {id: sedro-woolley-schools, name: Sedro-Woolley School District, county: Skagit, area: Sedro-Woolley, category: school, type: apptegy, org: 15068, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.swsd.k12.wa.us/'}
+
+  - {id: mill-a-schools, name: Mill A School District, county: Skamania, area: Cook, category: school, type: apptegy, org: 26408, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.milla.k12.wa.us/'}
+
+  - {id: arlington-schools, name: Arlington School District, county: Snohomish, area: Arlington, category: school, type: apptegy, org: 29582, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.asd.wednet.edu/'}
+
+  - {id: darrington-schools, name: Darrington School District, county: Snohomish, area: Darrington, category: school, type: apptegy, org: 33021, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.dsd.k12.wa.us/'}
+
+  - {id: marysville-schools, name: Marysville School District, county: Snohomish, area: Marysville, category: school, type: apptegy, org: 833, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.msvl.k12.wa.us/'}
+
+  - {id: sultan-schools, name: Sultan School District, county: Snohomish, area: Sultan, category: school, type: apptegy, org: 16656, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.sultan.k12.wa.us/'}
+
+  - {id: deer-park-schools, name: Deer Park School District, county: Spokane, area: Deer Park, category: school, type: apptegy, org: 8516, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.dpsd.org/'}
+
+  - {id: east-valley-spokane-schools, name: East Valley (Spokane) School District, county: Spokane, area: Spokane Valley, category: school, type: apptegy, org: 12960, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.evsd.org/'}
+
+  - {id: nine-mile-falls-schools, name: Nine Mile Falls School District, county: Spokane, area: Nine Mile Falls, category: school, type: apptegy, org: 21021, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.9mile.org/'}
+
+  - {id: colville-schools, name: Colville School District, county: Stevens, area: Colville, category: school, type: apptegy, org: 11935, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.colsd.org/'}
+
+  - {id: onion-creek-schools, name: Onion Creek School District, county: Stevens, area: Colville, category: school, type: apptegy, org: 29515, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.ocsd30.org/'}
+
+  - {id: griffin-schools, name: Griffin School District, county: Thurston, area: Olympia, category: school, type: apptegy, org: 17356, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'https://www.griffinschool.us/'}
+
+  - {id: rochester-schools, name: Rochester School District, county: Thurston, area: Rochester, category: school, type: apptegy, org: 26908, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.rochester.wednet.edu/'}
+
+  - {id: touchet-schools, name: Touchet School District, county: Walla Walla, area: Touchet, category: school, type: apptegy, org: 4981, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.touchet.k12.wa.us/'}
+
+  - {id: mount-baker-schools, name: Mount Baker School District, county: Whatcom, area: Deming, category: school, type: apptegy, org: 5299, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.mtbaker.wednet.edu/'}
+
+  - {id: endicott-schools, name: Endicott School District, county: Whitman, area: Endicott, category: school, type: apptegy, org: 9837, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.sje.wednet.edu/'}
+
+  - {id: steptoe-schools, name: Steptoe School District, county: Whitman, area: Steptoe, category: school, type: apptegy, org: 34366, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'https://www.steptoe304.org/'}
+
+  - {id: granger-schools, name: Granger School District, county: Yakima, area: Granger, category: school, type: apptegy, org: 24310, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.gsd.wednet.edu/'}
+
+  - {id: sunnyside-schools, name: Sunnyside School District, county: Yakima, area: Sunnyside, category: school, type: apptegy, org: 31599, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.sunnysideschools.org/'}
+
 # Not connected yet:
 #   Clark County, WA. The Legistar account named "clark" turned out to be
 #   Clark County, Nevada, so it was removed. Clark County, WA posts meetings
