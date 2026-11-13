@@ -16,16 +16,16 @@ PLATFORMS = {
     "primegov": r"([a-z0-9-]+)\.primegov\.com",
     "civicweb": r"([a-z0-9-]+)\.civicweb\.net",
     "diligent": r"([a-z0-9-]+)\.(?:community\.diligentoneplatform\.com|diligent\.community|community\.highbond\.com)",
-    "granicus": r"([a-z0-9-]+)\.granicus\.com",
+    "granicus": r"([a-z0-9-]+\.granicus\.com/ViewPublisher\.php\?view_id=\d+)",
     "boarddocs": r"boarddocs\.com/wa/([a-z0-9_-]+)",
     "municode": r"([a-z0-9-]+)\.municodemeetings\.com",
     "iqm2": r"([a-z0-9-]+)\.iqm2\.com",
     "novus": r"([a-z0-9-]+)\.novusagenda\.com",
     "agendaquick": r"([a-z0-9-]+)\.agendaquick\.com",
     "simbli": r"simbli\.eboardsolutions\.com/[^\"']*?S=(\d+)",
-    "gcal": r"calendar\.google\.com/calendar/(?:u/\d/)?(?:embed|ical)[^\"'\s]*?src=([^&\"'\s]+)",
+    "gcal": r"calendar\.google\.com/calendar/(?:u/\d/?)?(?:embed|ical|r)?[^\"'\s]*?[?&;](?:src|cid)=([^&\"'\s]+)",
 }
-LINK_HINT = re.compile(r"agenda|meeting|council|commission|calendar|minutes", re.I)
+LINK_HINT = re.compile(r"agenda|meeting|council|commission|calendar|minutes|board|events", re.I)
 
 
 def get(url):
@@ -54,7 +54,9 @@ def probe(row):
         return res
     host = urlparse(final).netloc
     pages = [html]
-    same = [u for u in dict.fromkeys(links(final, html)) if urlparse(u).netloc == host][:4]
+    same = [u for u in dict.fromkeys(links(final, html)) if urlparse(u).netloc == host]
+    # Calendar and board pages first: that's where feeds and portals are linked.
+    same = sorted(same, key=lambda u: 0 if re.search(r"calendar|board|agenda|meeting", u, re.I) else 1)[:8]
     for u in same:
         s, _, h = get(u)
         if s and s < 400:
@@ -67,6 +69,13 @@ def probe(row):
             res["found"][k] = hits[:4]
     res["ics"] = sorted(set(re.findall(r'(?:href|src)="([^"]+(?:\.ics|ical=1|/ical/|webcal:[^"]+))"', blob, re.I)))[:6]
     res["wordpress"] = "wp-content" in blob
+    res["apptegy"] = "thrillshare" in blob or "apptegy" in blob.lower()
+    if "granicus" in res["found"]:
+        g = res["found"]["granicus"][0]
+        s, _, gp = get("https://" + g)
+        if s and s < 400:
+            i = gp.lower().find("upcoming")
+            res["granicus_peek"] = re.sub(r"\s+", " ", gp[i:i + 2500]) if i >= 0 else re.sub(r"\s+", " ", gp[:1500])
     res["finalsite"] = "fsElement" in blob or "finalsite" in blob.lower()
     if res["finalsite"]:
         root = f"{urlparse(final).scheme}://{host}"
