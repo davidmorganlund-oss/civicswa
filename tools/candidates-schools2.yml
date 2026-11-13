@@ -1,0 +1,181 @@
+sources:
+- id: asotin-anatone-schools
+  name: Asotin-Anatone School District
+  county: Asotin
+  area: Asotin
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/c_501fc66e1af55497728dbbaa839307bae0616b7bdca2cb5f182955ab433bef4b%40group.calendar.google.com/public/basic.ics
+  include: school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop
+  exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.
+- id: blaine-schools
+  name: Blaine School District
+  county: Whatcom
+  area: Blaine
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/o1c2lc7konukbfrcgt4t4526vvcd1b8a%40import.calendar.google.com/public/basic.ics
+  include: school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop
+  exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.
+- id: coupeville-schools
+  name: Coupeville School District
+  county: Island
+  area: Coupeville
+  category: school
+  type: ics
+  url: https://www.coupeville.k12.wa.us/fs/calendar-manager/events.ics?calendar_ids[]=352&calendar_ids[]=354&calendar_ids[]=357&calendar_ids[]=359&calendar_ids[]=360
+  include: school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop
+  exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.
+- id: cusick-schools
+  name: Cusick School District
+  county: Pend Oreille
+  area: Cusick
+  category: school
+  type: ics
+  url: https://www.cusick.wednet.edu/fs/calendar-manager/events.ics?calendar_ids[]=1
+  include: school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop
+  exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.
+- id: endicott-schools
+  name: Endicott School District
+  county: Whitman
+  area: Endicott
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/sjeschools.org_e62okl3g4t88lfmk8osme35am4%40group.calendar.google.com/public/basic.ics
+  include: school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop
+  exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.
+- id: fife-schools
+  name: Fife School District
+  county: Pierce
+  area: Fife
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/calendar-district%40fifeschools.com/public/basic.ics
+  include: school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop
+  exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.
+- id: freeman-schools
+  name: Freeman School District
+  county: Spokane
+  area: Rockford
+  category: school
+  type: ics
+  url: https://www.freemansd.org/fs/calendar-manager/events.ics?calendar_ids[]=7
+  include: school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop
+  exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.
+- id: grandview-schools
+  name: Grandview School District
+  county: Yakima
+  area: Grandview
+  category: school
+  type: ics
+  url: https://www.gsd200.org/fs/calendar-manager/events.ics?calendar_ids[]=1&calendar_ids[]=3&calendar_ids[]=5&calendar_ids[]=6&calendar_ids[]=8&calendar_ids[]=9&calendar_ids[]=10&calendar_ids[]=11&calendar_ids[]=12&calendar_ids[]=13&calendar_ids[]=14
+  include: school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop
+  exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.
+- id: lake-quinault-schools
+  name: Lake Quinault School District
+  county: Grays Harbor
+  area: Amanda Park
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/c_7557aadaf6752fa812624842a3c07b35aed1b573be0e21343d04506bf495236d%40group.calendar.google.com/public/basic.ics
+  include: school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop
+  exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.
+- id: liberty-schools
+  name: Liberty School District
+  county: Spokane
+  area: Spangle
+  category: school
+  type: ics
+  url: https://www.libertysd.us/fs/calendar-manager/events.ics?calendar_ids[]=2&calendar_ids[]=3&calendar_ids[]=4&calendar_ids[]=5&calendar_ids[]=6&calendar_ids[]=7&calendar_ids[]=8&calendar_ids[]=9&calendar_ids[]=11
+  include: school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop
+  exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.
+- id: mount-vernon-schools
+  name: Mount Vernon School District
+  county: Skagit
+  area: Mount Vernon
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/c_5eq680ft3pr6kmjmido9ce80lg%40group.calendar.google.com/public/basic.ics
+  include: school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop
+  exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.
+- id: naselle-grays-river-valley-schools
+  name: Naselle-Grays River Valley School District
+  county: Pacific
+  area: Naselle
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/c_f70a36303781d2f512f0e47cacb7767694c106c9b90d9e5a368b99a248fc08ad%40group.calendar.google.com/public/basic.ics
+  include: school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop
+  exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.
+- id: newport-schools
+  name: Newport School District
+  county: Pend Oreille
+  area: Newport
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/gdc%40newportgriz.com/public/basic.ics
+  include: school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop
+  exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.
+- id: onalaska-schools
+  name: Onalaska School District
+  county: Lewis
+  area: Onalaska
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/c_a62e3447b57d0fc14d5e44f84f7864c7e4ccd08191c1255a5115751d74323c02%40group.calendar.google.com/public/basic.ics
+  include: school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop
+  exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.
+- id: orient-no-65-schools
+  name: Orient No 65 School District
+  county: Stevens
+  area: Orient
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/orientsd.calendar%40gmail.com/public/basic.ics
+  include: school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop
+  exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.
+- id: pomeroy-schools
+  name: Pomeroy School District
+  county: Garfield
+  area: Pomeroy
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/c_0c7f8457bbc0fe4d38c0cbb2d42ebb09d6cbc902be005e842886073dfc7fc3bd%40group.calendar.google.com/public/basic.ics
+  include: school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop
+  exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.
+- id: royal-schools
+  name: Royal School District
+  county: Grant
+  area: Royal City
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/c_188enu7s3h3tmj8fie1kbent53tei%40resource.calendar.google.com/public/basic.ics
+  include: school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop
+  exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.
+- id: selkirk-schools
+  name: Selkirk School District
+  county: Pend Oreille
+  area: Metaline Falls
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/appledeveloper%40selkirkschools.org/public/basic.ics
+  include: school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop
+  exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.
+- id: touchet-schools
+  name: Touchet School District
+  county: Walla Walla
+  area: Touchet
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/touchet.k12.wa.us_eqn37466jqo11ojmqkuumf8vfg%40group.calendar.google.com/public/basic.ics
+  include: school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop
+  exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.
+- id: willapa-valley-schools
+  name: Willapa Valley School District
+  county: Pacific
+  area: Menlo
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/willapavalley.org_uk4iouc110kr1aksa9lb8lf1ho%40group.calendar.google.com/public/basic.ics
+  include: school board|board meeting|board of directors|board work|board regular|board mtg|regular (?:board )?meeting|special (?:board )?meeting|study session|work session|board workshop
+  exclude: \bpta\b|ptsa|appreciation|librar|\bcte\b|advisory|historical|conference|miea|booster|foundation|lib\.
