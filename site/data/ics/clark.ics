@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Clark County
 BEGIN:VEVENT
 UID:f9f471392677@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261113T003000Z
 DTEND:20261113T013000Z
 SUMMARY:Culture\, Arts & Heritage Commission - November Regular Meeting (City of Vancouver)
@@ -13,7 +13,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1750/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:45e58cce696b@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261113T020000Z
 DTEND:20261113T030000Z
 SUMMARY:City Council Study Session Meeting (City of Ridgefield)
@@ -22,7 +22,7 @@ URL:https://ridgefieldwa.portal.civicclerk.com/event/1005/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2a95d73c89e4@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261113T170000Z
 DTEND:20261113T180000Z
 SUMMARY:City Council Meeting (City of Vancouver)
@@ -31,7 +31,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1764/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8226af46b893@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261117T000000Z
 DTEND:20261117T010000Z
 SUMMARY:City Council Meeting (City of Vancouver)
@@ -40,7 +40,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1500/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:02cf025578d0@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261117T010000Z
 DTEND:20261117T020000Z
 SUMMARY:City Council Workshop (City of Washougal)
@@ -49,7 +49,7 @@ URL:https://washougalwa.portal.civicclerk.com/event/498/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e0c657288ba7@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261117T020000Z
 DTEND:20261117T075900Z
 SUMMARY:City Council Study Session (6:00 pm) & Regular Meeting (7:00 pm) (City of Battle Ground)
@@ -58,7 +58,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:be002244221f@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261117T020000Z
 DTEND:20261117T030000Z
 SUMMARY:CANCELLED: Board of Trustees Meeting (Fort Vancouver Regional Library District)
@@ -67,7 +67,7 @@ URL:https://www.fvrl.org/about/board-of-trustees/
 END:VEVENT
 BEGIN:VEVENT
 UID:9400ebeef30c@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261117T023000Z
 DTEND:20261117T033000Z
 SUMMARY:Transportation Benefit District Meeting (City of Vancouver)
@@ -76,7 +76,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1532/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:faf0a87d3f12@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261117T030000Z
 DTEND:20261117T040000Z
 SUMMARY:City Council Meeting (City of Washougal)
@@ -85,7 +85,7 @@ URL:https://washougalwa.portal.civicclerk.com/event/499/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:0c73322c7545@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261118T013000Z
 DTEND:20261118T023000Z
 SUMMARY:Regular Board of Directors' Meeting (Evergreen Public Schools)
@@ -93,8 +93,17 @@ LOCATION:Evergreen Room - Administrative Service Center 13413 NE LeRoy Haagen Me
 URL:https://evergreenps.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=640
 END:VEVENT
 BEGIN:VEVENT
+UID:49f0697d169e@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20261118T013000Z
+DTEND:20261118T043000Z
+SUMMARY:Board Study Session\, November 2026 (Vancouver School District)
+LOCATION:2921 Falk Rd\, Vancouver\, WA 98661\, USA
+URL:http://www.vansd.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:5cc3709fca03@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261118T160000Z
 DTEND:20261118T170000Z
 SUMMARY:Civil Service Commission (City of Vancouver)
@@ -103,7 +112,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1573/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:395136cd9900@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261118T160000Z
 DTEND:20261118T170000Z
 SUMMARY:Civil Service Commission Special meeting (City of Vancouver)
@@ -112,7 +121,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1751/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:defdcd8e610d@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261118T200000Z
 DTEND:20261118T210000Z
 SUMMARY:Lodging Tax Advisory Committee - Special Meeting (City of Vancouver)
@@ -121,7 +130,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1722/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ce5f8fd3510c@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261118T233000Z
 DTEND:20261119T003000Z
 SUMMARY:City/County Telecommunications Commission Meeting (City of Vancouver)
@@ -130,7 +139,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1765/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:d207e9342acf@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261119T020000Z
 DTEND:20261119T030000Z
 SUMMARY:Urban Forestry Commission (City of Vancouver)
@@ -139,7 +148,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1710/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:480d42d272a8@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261119T023000Z
 DTEND:20261119T033000Z
 SUMMARY:Regular City Council (City of La Center)
@@ -148,7 +157,7 @@ URL:https://lacenter.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=1632
 END:VEVENT
 BEGIN:VEVENT
 UID:1088d47b6c00@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261119T203000Z
 DTEND:20261119T213000Z
 SUMMARY:City Center Redevelopment Authority (City of Vancouver)
@@ -157,7 +166,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1766/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e39cf19d8466@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261119T223000Z
 DTEND:20261119T233000Z
 SUMMARY:Board of Directors' Workshop (2026 WSSDA Annual Conference) (Evergreen Public Schools)
@@ -166,7 +175,7 @@ URL:https://evergreenps.community.diligentoneplatform.com/Portal/MeetingInformat
 END:VEVENT
 BEGIN:VEVENT
 UID:3d41fb986323@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261120T023000Z
 DTEND:20261120T033000Z
 SUMMARY:City Council Meeting (City of Ridgefield)
@@ -175,7 +184,7 @@ URL:https://ridgefieldwa.portal.civicclerk.com/event/921/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:4e393ba39a4f@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261124T000000Z
 DTEND:20261124T010000Z
 SUMMARY:City Council Meeting (City of Vancouver)
@@ -184,7 +193,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1512/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:5060ea77c104@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261124T013000Z
 DTEND:20261124T023000Z
 SUMMARY:School Board Meeting (Camas School District)
@@ -193,7 +202,7 @@ URL:https://camas-wednet.community.diligentoneplatform.com/Portal/MeetingInforma
 END:VEVENT
 BEGIN:VEVENT
 UID:a3660ade62d0@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261125T003000Z
 DTEND:20261125T013000Z
 SUMMARY:Planning Commission (City of Vancouver)
@@ -202,7 +211,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1527/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:84d7888b0280@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261202T003000Z
 DTEND:20261202T013000Z
 SUMMARY:CANCELLED: Transportation and Mobility Commission (City of Vancouver)
@@ -211,7 +220,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1558/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:99c6852e8767@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261202T013000Z
 DTEND:20261202T023000Z
 SUMMARY:Board of Directors' Workshop (Evergreen Public Schools)
@@ -220,7 +229,7 @@ URL:https://evergreenps.community.diligentoneplatform.com/Portal/MeetingInformat
 END:VEVENT
 BEGIN:VEVENT
 UID:dabe115197ea@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261203T023000Z
 DTEND:20261203T033000Z
 SUMMARY:Planning Commission Meeting (City of Ridgefield)
@@ -229,7 +238,7 @@ URL:https://ridgefieldwa.portal.civicclerk.com/event/950/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:303ad131deda@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261204T023000Z
 DTEND:20261204T033000Z
 SUMMARY:City Council Meeting (City of Ridgefield)
@@ -238,7 +247,7 @@ URL:https://ridgefieldwa.portal.civicclerk.com/event/922/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:4d04401b1347@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261208T000000Z
 DTEND:20261208T010000Z
 SUMMARY:City Council Meeting (City of Vancouver)
@@ -247,7 +256,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1475/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:b951fb94e05c@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261208T030000Z
 DTEND:20261208T075900Z
 SUMMARY:City Council Regular Meeting (City of Battle Ground)
@@ -256,7 +265,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:f848d9e52ff0@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261209T003000Z
 DTEND:20261209T013000Z
 SUMMARY:Planning Commission - 2nd Tuesday (City of Vancouver)
@@ -265,7 +274,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1543/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7e3f07f8c408@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261209T013000Z
 DTEND:20261209T023000Z
 SUMMARY:Planning Commission (City of La Center)
@@ -274,7 +283,7 @@ URL:https://lacenter.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=1607
 END:VEVENT
 BEGIN:VEVENT
 UID:cdd263279170@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261209T013000Z
 DTEND:20261209T023000Z
 SUMMARY:Regular Board of Directors' Meeting (Evergreen Public Schools)
@@ -282,8 +291,17 @@ LOCATION:Evergreen Room - Administrative Service Center 13413 NE LeRoy Haagen Me
 URL:https://evergreenps.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=641
 END:VEVENT
 BEGIN:VEVENT
+UID:d629b2e8fc06@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20261209T013000Z
+DTEND:20261209T043000Z
+SUMMARY:Board Meeting\, December 2026 (Vancouver School District)
+LOCATION:2921 Falk Rd\, Vancouver\, WA 98661\, USA
+URL:http://www.vansd.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:f44dbaf940d4@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261209T160000Z
 DTEND:20261209T170000Z
 SUMMARY:Parking Advisory Committee (City of Vancouver)
@@ -292,7 +310,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1688/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:60b5f7f5956e@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261209T200000Z
 DTEND:20261209T210000Z
 SUMMARY:Lodging Tax Advisory Committee (City of Vancouver)
@@ -301,7 +319,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1603/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:cbc623871c80@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261210T000000Z
 DTEND:20261210T075900Z
 SUMMARY:Parks & Community Engagement Advisory Board Meeting (City of Battle Ground)
@@ -310,7 +328,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:71b9efab5610@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261210T023000Z
 DTEND:20261210T033000Z
 SUMMARY:Regular City Council (City of La Center)
@@ -319,7 +337,7 @@ URL:https://lacenter.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=1631
 END:VEVENT
 BEGIN:VEVENT
 UID:2054f5fcf8ed@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261210T023000Z
 DTEND:20261210T033000Z
 SUMMARY:Parks Board Meeting (City of Ridgefield)
@@ -328,7 +346,7 @@ URL:https://ridgefieldwa.portal.civicclerk.com/event/978/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ed388ae21cb1@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261215T000000Z
 DTEND:20261215T010000Z
 SUMMARY:City Council Meeting (City of Vancouver)
@@ -336,8 +354,17 @@ LOCATION:Vancouver City Hall\, Council Chambers\, 415 West 6th Street\, Vancouve
 URL:https://vancouverwa.portal.civicclerk.com/event/1488/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:89d6f510fa7b@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20261215T020000Z
+DTEND:20261215T040000Z
+SUMMARY:School Board Regular Meeting (Hockinson School District)
+LOCATION:15916 NE 182nd Ave\, Brush Prairie\, WA 98606\, USA & via Zoom
+URL:http://www.hocksd.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:b82e9ec19f12@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261215T023000Z
 DTEND:20261215T033000Z
 SUMMARY:CANCELLED: Roundabout Committee (City of Ridgefield)
@@ -346,7 +373,7 @@ URL:https://ridgefieldwa.portal.civicclerk.com/event/937/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2a488a89eeeb@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261215T190000Z
 DTEND:20261215T200000Z
 SUMMARY:Public Facilities District Board (City of Vancouver)
@@ -354,8 +381,17 @@ LOCATION:
 URL:https://vancouverwa.portal.civicclerk.com/event/1767/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:cb131877f556@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20261216T013000Z
+DTEND:20261216T043000Z
+SUMMARY:Board Study Session\, December 2026 (Vancouver School District)
+LOCATION:2921 Falk Rd\, Vancouver\, WA 98661\, USA
+URL:http://www.vansd.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:d9fac60b52e2@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261216T160000Z
 DTEND:20261216T170000Z
 SUMMARY:Civil Service Commission (City of Vancouver)
@@ -364,7 +400,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1574/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:819e269b2b72@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261216T160000Z
 DTEND:20261216T170000Z
 SUMMARY:Civil Service Commission Special meeting (City of Vancouver)
@@ -373,7 +409,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1752/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e57c5260795b@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261217T023000Z
 DTEND:20261217T033000Z
 SUMMARY:Regular City Council (City of La Center)
@@ -382,7 +418,7 @@ URL:https://lacenter.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=1633
 END:VEVENT
 BEGIN:VEVENT
 UID:d5cf1367e453@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261217T190000Z
 DTEND:20261217T200000Z
 SUMMARY:Downtown Redevelopment Authority (City of Vancouver)
@@ -391,7 +427,7 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1576/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:50923f6794d9@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261218T023000Z
 DTEND:20261218T033000Z
 SUMMARY:City Council Meeting (City of Ridgefield)
@@ -400,7 +436,7 @@ URL:https://ridgefieldwa.portal.civicclerk.com/event/923/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:30ff49d0791b@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART;VALUE=DATE:20261221
 SUMMARY:CANCELLED: City Council Regular Meeting (City of Battle Ground)
 LOCATION:
@@ -408,7 +444,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:2ce70f356df4@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261222T020000Z
 DTEND:20261222T030000Z
 SUMMARY:CANCELLED: Board of Trustees Meeting (Fort Vancouver Regional Library District)
@@ -417,7 +453,7 @@ URL:https://www.fvrl.org/about/board-of-trustees/
 END:VEVENT
 BEGIN:VEVENT
 UID:43ee01e8da79@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261223T003000Z
 DTEND:20261223T013000Z
 SUMMARY:Planning Commission (City of Vancouver)
@@ -426,11 +462,20 @@ URL:https://vancouverwa.portal.civicclerk.com/event/1528/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:07274bde011d@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20270106T003000Z
 DTEND:20270106T013000Z
 SUMMARY:Transportation and Mobility Commission (City of Vancouver)
 LOCATION:Vancouver City Hall\, Aspen Room\, 415 West 6th Street\, Vancouver
 URL:https://vancouverwa.portal.civicclerk.com/event/1559/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:c9cc4bfbb4c4@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20270112T020000Z
+DTEND:20270112T040000Z
+SUMMARY:School Board Work Session (Hockinson School District)
+LOCATION:ZOOM
+URL:http://www.hocksd.org/
 END:VEVENT
 END:VCALENDAR

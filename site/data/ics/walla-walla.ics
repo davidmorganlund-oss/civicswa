@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Walla Walla County
 BEGIN:VEVENT
 UID:1cb470334354@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261112T200000Z
 DTEND:20261112T210000Z
 SUMMARY:Civil Service Commission (City of College Place)
@@ -13,7 +13,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/102/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ab519c0d1c26@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261118T020000Z
 DTEND:20261118T030000Z
 SUMMARY:Planning Commission (City of College Place)
@@ -22,7 +22,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/175/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:81a5487848e9@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261118T190000Z
 DTEND:20261118T200000Z
 SUMMARY:Youth Advisory Commission (City of College Place)
@@ -31,7 +31,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/1385/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:39d93e708522@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261118T224500Z
 DTEND:20261118T234500Z
 SUMMARY:Finance Committee Meeting (City of College Place)
@@ -40,7 +40,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/1399/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:14f62bbf9f46@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261125T020000Z
 DTEND:20261125T030000Z
 SUMMARY:City Council Meeting (City of College Place)
@@ -48,8 +48,17 @@ LOCATION:625 South College Avenue\, College Place
 URL:https://collegeplacewa.portal.civicclerk.com/event/148/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:a017168c1672@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20261125T020000Z
+DTEND:20261125T030000Z
+SUMMARY:School Board Meeting (Touchet School District)
+LOCATION:90 Champion St\, Touchet\, WA 99360\, USA
+URL:http://www.touchet.k12.wa.us/
+END:VEVENT
+BEGIN:VEVENT
 UID:28770dbff055@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261202T013000Z
 DTEND:20261202T023000Z
 SUMMARY:City Council Workshop Meeting (City of College Place)
@@ -58,7 +67,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/72/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:4747e3294002@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:City Council Meeting (City of College Place)
@@ -67,7 +76,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/116/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:a4442e8c61aa@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261210T200000Z
 DTEND:20261210T210000Z
 SUMMARY:Civil Service Commission (City of College Place)
@@ -76,7 +85,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/103/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:a8eeedcd3433@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:CANCELLED: Planning Commission (City of College Place)
@@ -84,8 +93,17 @@ LOCATION:625 S College Avenue\, College Place
 URL:https://collegeplacewa.portal.civicclerk.com/event/190/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:17f5188b3cb1@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20261218T020000Z
+DTEND:20261218T030000Z
+SUMMARY:Board Meeting (Touchet School District)
+LOCATION:90 Champion St\, Touchet\, WA 99360\, USA
+URL:http://www.touchet.k12.wa.us/
+END:VEVENT
+BEGIN:VEVENT
 UID:cbe08b46bf38@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:City Council Meeting (City of College Place)
@@ -94,7 +112,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/129/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2db612885a7b@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20270106T013000Z
 DTEND:20270106T023000Z
 SUMMARY:City Council Workshop Meeting (City of College Place)

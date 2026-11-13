@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Island County
 BEGIN:VEVENT
 UID:3ea17c6e522d@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261117T180000Z
 DTEND:20261118T075900Z
 SUMMARY:CANCELLED: Board of County Commissioners Meeting (Island County)
@@ -13,7 +13,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:768f808befc9@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261117T210000Z
 DTEND:20261117T233000Z
 SUMMARY:Board of Health Regular Session (Island County)
@@ -22,7 +22,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:65d9ef8f8820@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261118T013000Z
 DTEND:20261118T023000Z
 SUMMARY:City Council Regular Meeting (City of Oak Harbor)
@@ -31,7 +31,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:a71641a9be08@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261118T170000Z
 DTEND:20261119T075900Z
 SUMMARY:CANCELLED: Board of County Commissioners Work Session (Island County)
@@ -40,7 +40,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:b411707269dc@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261119T001500Z
 DTEND:20261119T011500Z
 SUMMARY:Police Community Advisory Board (City of Oak Harbor)
@@ -49,7 +49,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:c8836f2e2130@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261123T213000Z
 DTEND:20261123T223000Z
 SUMMARY:Civil Service Commission Regular Meeting (City of Oak Harbor)
@@ -58,7 +58,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:2bfc5a5500cd@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261124T180000Z
 DTEND:20261125T075900Z
 SUMMARY:Board of County Commissioners Meeting (Island County)
@@ -67,7 +67,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:9062cfe51d0f@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261124T210000Z
 DTEND:20261124T220000Z
 SUMMARY:City Council Workshop (City of Oak Harbor)
@@ -76,7 +76,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:7cce3011c16c@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261125T170000Z
 DTEND:20261125T180000Z
 SUMMARY:CANCELLED: Council of Governments Meeting (Island County)
@@ -85,7 +85,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:8086d2801983@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261125T180000Z
 DTEND:20261125T200000Z
 SUMMARY:IRTPO Executive Board (Island County)
@@ -94,7 +94,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
 END:VEVENT
 BEGIN:VEVENT
 UID:f7980379655e@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261201T180000Z
 DTEND:20261202T075900Z
 SUMMARY:Board of County Commissioners Meeting (Island County)
@@ -103,7 +103,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:ef380b8e9aac@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261202T013000Z
 DTEND:20261202T023000Z
 SUMMARY:City Council Regular Meeting (City of Oak Harbor)
@@ -112,7 +112,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:10c77ce25469@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261202T170000Z
 DTEND:20261203T075900Z
 SUMMARY:Board of County Commissioners Work Session (Island County)
@@ -121,7 +121,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:c3b06d0f7286@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261207T180000Z
 DTEND:20261207T200000Z
 SUMMARY:2027 Budget Public Hearing (Island County)
@@ -130,7 +130,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:45e543d037f1@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261208T180000Z
 DTEND:20261209T075900Z
 SUMMARY:Board of County Commissioners Meeting (Island County)
@@ -139,7 +139,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:d6745ca8f984@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261208T210000Z
 DTEND:20261208T220000Z
 SUMMARY:City Council Workshop (City of Oak Harbor)
@@ -148,7 +148,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:4cef12ad46f3@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:Planning Commission Regular Meeting (City of Oak Harbor)
@@ -157,7 +157,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:3413f9a4def2@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261209T170000Z
 DTEND:20261210T075900Z
 SUMMARY:Board of County Commissioners Work Session (Island County)
@@ -166,7 +166,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:4c03c119aa0e@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261210T210000Z
 DTEND:20261210T230000Z
 SUMMARY:Transportation Advisory Committee (TAC) (Island County)
@@ -175,7 +175,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=33
 END:VEVENT
 BEGIN:VEVENT
 UID:a98c35aa456f@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261211T010000Z
 DTEND:20261211T020000Z
 SUMMARY:Arts Commission Regular Meeting (City of Oak Harbor)
@@ -184,7 +184,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:0fe445b2eb35@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261214T180000Z
 DTEND:20261214T190000Z
 SUMMARY:Parks and Recreation Advisory Commission Regular Meeting (City of Oak Harbor)
@@ -193,7 +193,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:7f5d9803286a@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261215T010000Z
 DTEND:20261215T020000Z
 SUMMARY:Marina Advisory Commission Regular Meeting (City of Oak Harbor)
@@ -202,7 +202,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:a3bcdc0b0777@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261215T180000Z
 DTEND:20261216T075900Z
 SUMMARY:Board of County Commissioners Meeting (Island County)
@@ -211,7 +211,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:784d75317778@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261215T210000Z
 DTEND:20261215T233000Z
 SUMMARY:Board of Health Regular Session (Island County)
@@ -220,7 +220,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:0c6f2062b3ef@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261216T013000Z
 DTEND:20261216T023000Z
 SUMMARY:City Council Regular Meeting (City of Oak Harbor)
@@ -229,7 +229,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:815758da823d@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261216T170000Z
 DTEND:20261217T075900Z
 SUMMARY:Board of County Commissioners Work Session (Island County)
@@ -238,7 +238,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:6ac63960656e@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261217T020000Z
 DTEND:20261217T040000Z
 SUMMARY:Island County Planning Commission (Island County)
@@ -247,7 +247,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:81ad208b46bb@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261217T210000Z
 DTEND:20261217T220000Z
 SUMMARY:Civil Service Commission Regular Meeting (City of Oak Harbor)
@@ -256,7 +256,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14
 END:VEVENT
 BEGIN:VEVENT
 UID:5238066f6d87@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261222T180000Z
 DTEND:20261223T075900Z
 SUMMARY:CANCELLED: Board of County Commissioners Meeting (Island County)
@@ -265,7 +265,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:6f2cee6474b2@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261223T170000Z
 DTEND:20261223T180000Z
 SUMMARY:CANCELLED: Council of Governments Meeting (Island County)
@@ -274,7 +274,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:4968f220c36a@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261223T180000Z
 DTEND:20261223T200000Z
 SUMMARY:IRTPO Executive Board (Island County)

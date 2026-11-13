@@ -3,8 +3,17 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Mason County
 BEGIN:VEVENT
+UID:34f7d3b98391@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20261113T000000Z
+DTEND:20261113T020000Z
+SUMMARY:School Board Study Session (Hood Canal School District)
+LOCATION:
+URL:http://www.hoodcanal.wednet.edu/
+END:VEVENT
+BEGIN:VEVENT
 UID:3c411d07b2b6@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261116T170000Z
 DTEND:20261116T180000Z
 SUMMARY:CANCELLED: Board of County Commissioners Briefing (Mason County)
@@ -13,7 +22,7 @@ URL:https://www.masoncountywa.gov/government/county_commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
 UID:2f138f1867e0@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261118T020000Z
 DTEND:20261118T030000Z
 SUMMARY:School Board Meeting - DO Board Room (Pioneer School District)
@@ -22,7 +31,7 @@ URL:https://www.psd402.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:68a34d8dc89d@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261123T170000Z
 DTEND:20261123T180000Z
 SUMMARY:CANCELLED: Board of County Commissioners Briefing (Mason County)
@@ -30,8 +39,35 @@ LOCATION:See the county's commissioners page
 URL:https://www.masoncountywa.gov/government/county_commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
+UID:152e369b1135@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20261124T020000Z
+DTEND:20261124T043000Z
+SUMMARY:School Board Meeting (Mary M Knight School District)
+LOCATION:Mary M Knight School District\, 2987 Matlock-Brady Rd\, Elma\, WA 98541\, USA
+URL:http://www.marymknight.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:bfafff1b85f2@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20261124T023000Z
+DTEND:20261124T043000Z
+SUMMARY:School Board Meeting (North Mason School District)
+LOCATION:250 E Campus Dr\, Belfair\, WA 98528\, USA
+URL:http://www.nmsd.wednet.edu/
+END:VEVENT
+BEGIN:VEVENT
+UID:fd1061425ed4@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20261125T000000Z
+DTEND:20261125T020000Z
+SUMMARY:Regular School Board Meeting (Hood Canal School District)
+LOCATION:
+URL:http://www.hoodcanal.wednet.edu/
+END:VEVENT
+BEGIN:VEVENT
 UID:b75dfe4d2902@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261125T023000Z
 DTEND:20261125T033000Z
 SUMMARY:Board of Directors Meeting (Southside School District)
@@ -40,7 +76,7 @@ URL:https://southsideschool.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:79497827e996@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261130T170000Z
 DTEND:20261130T180000Z
 SUMMARY:CANCELLED: Board of County Commissioners Briefing (Mason County)
@@ -49,7 +85,7 @@ URL:https://www.masoncountywa.gov/government/county_commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
 UID:c101bca4acad@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261207T170000Z
 DTEND:20261207T180000Z
 SUMMARY:CANCELLED: Board of County Commissioners Briefing (Mason County)
@@ -57,8 +93,17 @@ LOCATION:See the county's commissioners page
 URL:https://www.masoncountywa.gov/government/county_commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
+UID:c8c8cb836418@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20261211T000000Z
+DTEND:20261211T020000Z
+SUMMARY:School Board Study Session (Hood Canal School District)
+LOCATION:
+URL:http://www.hoodcanal.wednet.edu/
+END:VEVENT
+BEGIN:VEVENT
 UID:de19c19967bd@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261214T170000Z
 DTEND:20261214T180000Z
 SUMMARY:CANCELLED: Board of County Commissioners Briefing (Mason County)
@@ -67,7 +112,7 @@ URL:https://www.masoncountywa.gov/government/county_commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
 UID:9cbaa5a8d242@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:School Board Meeting - DO Board Room (Pioneer School District)
@@ -76,7 +121,7 @@ URL:https://www.psd402.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:823f9030556a@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261216T023000Z
 DTEND:20261216T033000Z
 SUMMARY:Board of Directors Meeting (Southside School District)
@@ -84,8 +129,17 @@ LOCATION:
 URL:https://southsideschool.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:f49231878735@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20261218T000000Z
+DTEND:20261218T020000Z
+SUMMARY:Regular School Board Meeting (Hood Canal School District)
+LOCATION:
+URL:http://www.hoodcanal.wednet.edu/
+END:VEVENT
+BEGIN:VEVENT
 UID:ad8e2abf29fd@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261221T170000Z
 DTEND:20261221T180000Z
 SUMMARY:CANCELLED: Board of County Commissioners Briefing (Mason County)
@@ -94,7 +148,7 @@ URL:https://www.masoncountywa.gov/government/county_commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
 UID:1d5799a0dd41@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261228T170000Z
 DTEND:20261228T180000Z
 SUMMARY:CANCELLED: Board of County Commissioners Briefing (Mason County)
@@ -102,8 +156,26 @@ LOCATION:See the county's commissioners page
 URL:https://www.masoncountywa.gov/government/county_commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
+UID:b9ecd6a06e38@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20261228T200000Z
+DTEND:20261228T223000Z
+SUMMARY:School Board Meeting (Mary M Knight School District)
+LOCATION:Mary M Knight School District\, 2987 Matlock-Brady Rd\, Elma\, WA 98541\, USA
+URL:http://www.marymknight.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:1a02cd7d8e93@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20261229T023000Z
+DTEND:20261229T043000Z
+SUMMARY:School Board Meeting (North Mason School District)
+LOCATION:250 E Campus Dr\, Belfair\, WA 98528\, USA
+URL:http://www.nmsd.wednet.edu/
+END:VEVENT
+BEGIN:VEVENT
 UID:8c04707e0534@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20270104T170000Z
 DTEND:20270104T180000Z
 SUMMARY:CANCELLED: Board of County Commissioners Briefing (Mason County)
@@ -112,7 +184,7 @@ URL:https://www.masoncountywa.gov/government/county_commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
 UID:93aa7eb1d24a@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20270111T170000Z
 DTEND:20270111T180000Z
 SUMMARY:CANCELLED: Board of County Commissioners Briefing (Mason County)

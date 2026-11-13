@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Adams County
 BEGIN:VEVENT
 UID:42435638a80a@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261117T170000Z
 DTEND:20261117T180000Z
 SUMMARY:Adams County Commissioners Meeting (Adams County)
@@ -13,7 +13,7 @@ URL:https://adamscowa.portal.civicclerk.com/event/925/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:d4ad7dd9a7d5@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261118T170000Z
 DTEND:20261118T180000Z
 SUMMARY:Adams County Commissioners Workshop (Adams County)
@@ -22,7 +22,7 @@ URL:https://adamscowa.portal.civicclerk.com/event/865/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:6348e6904a98@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261124T020000Z
 DTEND:20261124T030000Z
 SUMMARY:Regular City Council Meeting (City of Othello)
@@ -31,7 +31,7 @@ URL:https://othellowa.community.diligentoneplatform.com/Portal/MeetingInformatio
 END:VEVENT
 BEGIN:VEVENT
 UID:5939fb38f951@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261124T170000Z
 DTEND:20261124T180000Z
 SUMMARY:Adams County Commissioners Meeting (Adams County)
@@ -40,7 +40,7 @@ URL:https://adamscowa.portal.civicclerk.com/event/926/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f69807f9721b@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261125T170000Z
 DTEND:20261125T180000Z
 SUMMARY:Adams County Commissioners Workshop (Adams County)
@@ -49,7 +49,7 @@ URL:https://adamscowa.portal.civicclerk.com/event/866/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:b86ea4be660c@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261201T170000Z
 DTEND:20261201T180000Z
 SUMMARY:Adams County Commissioners Meeting (Adams County)
@@ -58,7 +58,7 @@ URL:https://adamscowa.portal.civicclerk.com/event/927/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:964e0123e633@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261202T170000Z
 DTEND:20261202T180000Z
 SUMMARY:Adams County Commissioners Workshop (Adams County)
@@ -67,7 +67,7 @@ URL:https://adamscowa.portal.civicclerk.com/event/867/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:1262018598b0@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261208T170000Z
 DTEND:20261208T180000Z
 SUMMARY:Adams County Commissioners Meeting (Adams County)
@@ -76,7 +76,7 @@ URL:https://adamscowa.portal.civicclerk.com/event/928/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:cba0a09430c2@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261209T170000Z
 DTEND:20261209T180000Z
 SUMMARY:Adams County Board of Health (Adams County)
@@ -85,7 +85,7 @@ URL:https://adamscowa.portal.civicclerk.com/event/901/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2a675660a287@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261209T170000Z
 DTEND:20261209T180000Z
 SUMMARY:Adams County Commissioners Workshop (Adams County)
@@ -94,7 +94,7 @@ URL:https://adamscowa.portal.civicclerk.com/event/868/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:79dbe469e164@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261215T020000Z
 DTEND:20261215T030000Z
 SUMMARY:Regular City Council Meeting (City of Othello)
@@ -103,7 +103,7 @@ URL:https://othellowa.community.diligentoneplatform.com/Portal/MeetingInformatio
 END:VEVENT
 BEGIN:VEVENT
 UID:08e76249146e@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261215T170000Z
 DTEND:20261215T180000Z
 SUMMARY:Adams County Commissioners Meeting (Adams County)
@@ -112,7 +112,7 @@ URL:https://adamscowa.portal.civicclerk.com/event/929/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ad1e3a861b13@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261216T170000Z
 DTEND:20261216T180000Z
 SUMMARY:Adams County Commissioners Workshop (Adams County)
@@ -121,7 +121,7 @@ URL:https://adamscowa.portal.civicclerk.com/event/869/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:487c5a9f1776@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261222T170000Z
 DTEND:20261222T180000Z
 SUMMARY:Adams County Commissioners Meeting (Adams County)
@@ -130,7 +130,7 @@ URL:https://adamscowa.portal.civicclerk.com/event/930/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:39e2b3a6d286@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261223T170000Z
 DTEND:20261223T180000Z
 SUMMARY:Adams County Commissioners Workshop (Adams County)
@@ -139,7 +139,7 @@ URL:https://adamscowa.portal.civicclerk.com/event/870/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7dae5334b31f@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261229T020000Z
 DTEND:20261229T030000Z
 SUMMARY:Regular City Council Meeting (City of Othello)
@@ -148,7 +148,7 @@ URL:https://othellowa.community.diligentoneplatform.com/Portal/MeetingInformatio
 END:VEVENT
 BEGIN:VEVENT
 UID:04a082512535@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261229T170000Z
 DTEND:20261229T180000Z
 SUMMARY:Adams County Commissioners Meeting (Adams County)
@@ -157,7 +157,7 @@ URL:https://adamscowa.portal.civicclerk.com/event/931/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:907dcd7ea5c1@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261230T170000Z
 DTEND:20261230T180000Z
 SUMMARY:Adams County Commissioners Workshop (Adams County)
@@ -166,7 +166,7 @@ URL:https://adamscowa.portal.civicclerk.com/event/871/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7a2e8fbf34ee@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20270105T170000Z
 DTEND:20270105T180000Z
 SUMMARY:Adams County Commissioners Meeting (Adams County)
@@ -175,7 +175,7 @@ URL:https://adamscowa.portal.civicclerk.com/event/932/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:666b5c29bbae@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20270106T170000Z
 DTEND:20270106T180000Z
 SUMMARY:Adams County Commissioners Workshop (Adams County)
@@ -184,7 +184,7 @@ URL:https://adamscowa.portal.civicclerk.com/event/872/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:d1db6a871abb@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20270112T020000Z
 DTEND:20270112T030000Z
 SUMMARY:Regular City Council Meeting (City of Othello)

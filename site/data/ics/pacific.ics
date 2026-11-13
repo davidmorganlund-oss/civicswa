@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Pacific County
 BEGIN:VEVENT
 UID:c9635c62440e@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261124T013000Z
 DTEND:20261124T023000Z
 SUMMARY:City Council Meeting (City of South Bend)
@@ -12,8 +12,17 @@ LOCATION:
 URL:https://southbend-wa.gov/
 END:VEVENT
 BEGIN:VEVENT
+UID:e356def458c1@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20261124T013000Z
+DTEND:20261124T023000Z
+SUMMARY:OBSD Board of Directors Regular Meeting (Ocean Beach School District)
+LOCATION:OBSD Administration Office\, 500 Washington Avenue South\, Long Beach\, WA 98631\, District Office-1-DO Board/Training Room (10)
+URL:http://www.ocean.k12.wa.us/
+END:VEVENT
+BEGIN:VEVENT
 UID:78f0425a8135@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261124T170000Z
 DTEND:20261124T180000Z
 SUMMARY:Board of Health Meeting (Pacific County)
@@ -22,7 +31,7 @@ URL:https://pacificcowa.portal.civicclerk.com/event/1019/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:13d436267018@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261208T170000Z
 DTEND:20261208T180000Z
 SUMMARY:Board of Health Meeting (Pacific County)
@@ -30,8 +39,17 @@ LOCATION:Commissioners Meeting Room/Zoom\, 1216 Robert Bush Drive W.\, South Ben
 URL:https://pacificcowa.portal.civicclerk.com/event/1007/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:8985c39555fb@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20261210T013000Z
+DTEND:20261210T033000Z
+SUMMARY:OBSD Board Work Session (Ocean Beach School District)
+LOCATION:
+URL:http://www.ocean.k12.wa.us/
+END:VEVENT
+BEGIN:VEVENT
 UID:05c3845d00c0@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261215T013000Z
 DTEND:20261215T023000Z
 SUMMARY:City Council Meeting (City of South Bend)
@@ -40,11 +58,20 @@ URL:https://southbend-wa.gov/
 END:VEVENT
 BEGIN:VEVENT
 UID:3e366dda9171@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261222T170000Z
 DTEND:20261222T180000Z
 SUMMARY:Board of Health Meeting (Pacific County)
 LOCATION:Commissioners Meeting Room/Zoom\, 1216 Robert Bush Drive W.\, South Bend
 URL:https://pacificcowa.portal.civicclerk.com/event/1020/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:920b682a539f@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20261224T013000Z
+DTEND:20261224T023000Z
+SUMMARY:OBSD Board of Directors Regular Meeting (Ocean Beach School District)
+LOCATION:OBSD Administration Office\, 500 Washington Avenue South\, Long Beach\, WA 98631\, District Office-1-DO Board/Training Room (10)
+URL:http://www.ocean.k12.wa.us/
 END:VEVENT
 END:VCALENDAR

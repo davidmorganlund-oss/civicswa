@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Columbia County
 BEGIN:VEVENT
 UID:da615b0af045@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261116T170000Z
 DTEND:20261116T180000Z
 SUMMARY:Board of Commissioners - Regular Agenda (Columbia County)
@@ -12,8 +12,17 @@ LOCATION:115 E Main St\, Dayton
 URL:https://columbiacowa.portal.civicclerk.com/event/688/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:4f090650a892@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20261119T023000Z
+DTEND:20261119T043000Z
+SUMMARY:Regular Board Meeting (Dayton School District)
+LOCATION:614 S 3rd St\, Dayton\, WA 99328\, USA
+URL:http://www.daytonsd.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:60c438a815fc@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261123T170000Z
 DTEND:20261123T180000Z
 SUMMARY:Board of Commissioners - Work Session (Columbia County)
@@ -22,7 +31,7 @@ URL:https://columbiacowa.portal.civicclerk.com/event/676/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:6719e7c02450@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261130T170000Z
 DTEND:20261130T180000Z
 SUMMARY:Board of Commissioners - Special Meeting (Columbia County)
@@ -30,8 +39,17 @@ LOCATION:115 E Main Street\, Dayton
 URL:https://columbiacowa.portal.civicclerk.com/event/712/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:8fed8746440d@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20261203T023000Z
+DTEND:20261203T040000Z
+SUMMARY:School Board Work Session (Dayton School District)
+LOCATION:614 S 3rd St\, Dayton\, WA 99328\, USA
+URL:http://www.daytonsd.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:9d9660a19161@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261207T170000Z
 DTEND:20261207T180000Z
 SUMMARY:Board of Commissioners - Regular Agenda (Columbia County)
@@ -40,7 +58,7 @@ URL:https://columbiacowa.portal.civicclerk.com/event/714/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:4c25a83339ee@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261214T170000Z
 DTEND:20261214T180000Z
 SUMMARY:Board of Commissioners - Work Session (Columbia County)
@@ -48,8 +66,17 @@ LOCATION:115 E Main St\, Dayton
 URL:https://columbiacowa.portal.civicclerk.com/event/701/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:fd0cd612504c@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20261217T023000Z
+DTEND:20261217T040000Z
+SUMMARY:School Board Meeting (Dayton School District)
+LOCATION:614 S 3rd St\, Dayton\, WA 99328\, USA
+URL:http://www.daytonsd.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:d49bbdae65a4@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261221T170000Z
 DTEND:20261221T180000Z
 SUMMARY:Board of Commissioners - Regular Agenda (Columbia County)
@@ -58,7 +85,7 @@ URL:https://columbiacowa.portal.civicclerk.com/event/689/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:02a5df637a3d@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20261228T170000Z
 DTEND:20261228T180000Z
 SUMMARY:Board of Commissioners - Work Session (Columbia County)
@@ -67,7 +94,7 @@ URL:https://columbiacowa.portal.civicclerk.com/event/677/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:d5c493a37323@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20270104T170000Z
 DTEND:20270104T180000Z
 SUMMARY:Board of Commissioners - Regular Agenda (Columbia County)
@@ -75,8 +102,17 @@ LOCATION:115 E Main St\, Dayton
 URL:https://columbiacowa.portal.civicclerk.com/event/715/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:26b27b95605c@civicswa
+DTSTAMP:20261113T031415Z
+DTSTART:20270107T024500Z
+DTEND:20270107T040000Z
+SUMMARY:School Board Work Session (Dayton School District)
+LOCATION:614 S 3rd St\, Dayton\, WA 99328\, USA
+URL:http://www.daytonsd.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:51193e9d2d0c@civicswa
-DTSTAMP:20261113T030140Z
+DTSTAMP:20261113T031415Z
 DTSTART:20270111T170000Z
 DTEND:20270111T180000Z
 SUMMARY:Board of Commissioners - Work Session (Columbia County)
