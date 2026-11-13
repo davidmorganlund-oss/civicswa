@@ -1,0 +1,791 @@
+sources:
+- id: adna-schools
+  name: Adna School District
+  county: Lewis
+  area: Chehalis
+  category: school
+  type: apptegy
+  org: 32354
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.adnaschools.org/
+- id: almira-schools
+  name: Almira School District
+  county: Lincoln
+  area: Almira
+  category: school
+  type: apptegy
+  org: 20161
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: https://www.almirasd.org/
+- id: arlington-schools
+  name: Arlington School District
+  county: Snohomish
+  area: Arlington
+  category: school
+  type: apptegy
+  org: 29582
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.asd.wednet.edu/
+- id: blaine-schools
+  name: Blaine School District
+  county: Whatcom
+  area: Blaine
+  category: school
+  type: apptegy
+  org: 1613
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: https://www.blainesd.org/o/blaine-school-district
+- id: brewster-schools
+  name: Brewster School District
+  county: Okanogan
+  area: Brewster
+  category: school
+  type: apptegy
+  org: 25182
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: https://www.brewsterbears.org/
+- id: bridgeport-schools
+  name: Bridgeport School District
+  county: Douglas
+  area: Bridgeport
+  category: school
+  type: apptegy
+  org: 6108
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.bridgeport.wednet.edu/
+- id: burlington-edison-schools
+  name: Burlington-Edison School District
+  county: Skagit
+  area: Burlington
+  category: school
+  type: apptegy
+  org: 11849
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.be.wednet.edu/
+- id: cascade-schools
+  name: Cascade School District
+  county: Chelan
+  area: Leavenworth
+  category: school
+  type: apptegy
+  org: 18236
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.cascadesd.org/
+- id: chimacum-schools
+  name: Chimacum School District
+  county: Jefferson
+  area: Chimacum
+  category: school
+  type: apptegy
+  org: 31234
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://csd49.org/
+- id: clarkston-schools
+  name: Clarkston School District
+  county: Asotin
+  area: Clarkston
+  category: school
+  type: apptegy
+  org: 6838
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.csdk12.org/
+- id: cle-elum-roslyn-schools
+  name: Cle Elum-Roslyn School District
+  county: Kittitas
+  area: Cle Elum
+  category: school
+  type: apptegy
+  org: 6343
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.cersd.org/
+- id: college-place-schools
+  name: College Place School District
+  county: Walla Walla
+  area: College Place
+  category: school
+  type: apptegy
+  org: 272
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.cpps.org/
+- id: colville-schools
+  name: Colville School District
+  county: Stevens
+  area: Colville
+  category: school
+  type: apptegy
+  org: 11935
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.colsd.org/
+- id: creston-schools
+  name: Creston School District
+  county: Lincoln
+  area: Creston
+  category: school
+  type: apptegy
+  org: 24695
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: https://wcsd.wednet.edu/
+- id: curlew-schools
+  name: Curlew School District
+  county: Ferry
+  area: Curlew
+  category: school
+  type: apptegy
+  org: 20106
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: https://www.curlewsd.org/
+- id: darrington-schools
+  name: Darrington School District
+  county: Snohomish
+  area: Darrington
+  category: school
+  type: apptegy
+  org: 33021
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.dsd.k12.wa.us/
+- id: dayton-schools
+  name: Dayton School District
+  county: Columbia
+  area: Dayton
+  category: school
+  type: apptegy
+  org: 2132
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.daytonsd.org/
+- id: deer-park-schools
+  name: Deer Park School District
+  county: Spokane
+  area: Deer Park
+  category: school
+  type: apptegy
+  org: 8516
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.dpsd.org/
+- id: east-valley-spokane-schools
+  name: East Valley (Spokane) School District
+  county: Spokane
+  area: Spokane Valley
+  category: school
+  type: apptegy
+  org: 12960
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.evsd.org/
+- id: easton-schools
+  name: Easton School District
+  county: Kittitas
+  area: Easton
+  category: school
+  type: apptegy
+  org: 20843
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.easton.wednet.edu/
+- id: endicott-schools
+  name: Endicott School District
+  county: Whitman
+  area: Endicott
+  category: school
+  type: apptegy
+  org: 9837
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.sje.wednet.edu/
+- id: entiat-schools
+  name: Entiat School District
+  county: Chelan
+  area: Entiat
+  category: school
+  type: apptegy
+  org: 28172
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.entiatschools.org/
+- id: enumclaw-schools
+  name: Enumclaw School District
+  county: King
+  area: Enumclaw
+  category: school
+  type: apptegy
+  org: 9507
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.enumclaw.wednet.edu/
+- id: glenwood-schools
+  name: Glenwood School District
+  county: Klickitat
+  area: Glenwood
+  category: school
+  type: apptegy
+  org: 19866
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: https://www.glenwoodsd.org/
+- id: granger-schools
+  name: Granger School District
+  county: Yakima
+  area: Granger
+  category: school
+  type: apptegy
+  org: 24310
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.gsd.wednet.edu/
+- id: griffin-schools
+  name: Griffin School District
+  county: Thurston
+  area: Olympia
+  category: school
+  type: apptegy
+  org: 17356
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: https://www.griffinschool.us/
+- id: harrington-schools
+  name: Harrington School District
+  county: Lincoln
+  area: Harrington
+  category: school
+  type: apptegy
+  org: 1354
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.harringtonsd.org/
+- id: hockinson-schools
+  name: Hockinson School District
+  county: Clark
+  area: Hockinson
+  category: school
+  type: apptegy
+  org: 25321
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.hocksd.org/
+- id: hood-canal-schools
+  name: Hood Canal School District
+  county: Mason
+  area: Shelton
+  category: school
+  type: apptegy
+  org: 24110
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.hoodcanal.wednet.edu/
+- id: hoquiam-schools
+  name: Hoquiam School District
+  county: Grays Harbor
+  area: Hoquiam
+  category: school
+  type: apptegy
+  org: 7501
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.hoquiam.net/
+- id: inchelium-schools
+  name: Inchelium School District
+  county: Ferry
+  area: Inchelium
+  category: school
+  type: apptegy
+  org: 12488
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.inchelium.wednet.edu/
+- id: kalama-schools
+  name: Kalama School District
+  county: Cowlitz
+  area: Kalama
+  category: school
+  type: apptegy
+  org: 2140
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://kalamaschools.org/
+- id: kent-schools
+  name: Kent School District
+  county: King
+  area: Kent
+  category: school
+  type: apptegy
+  org: 23712
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.kent.k12.wa.us/
+- id: kettle-falls-schools
+  name: Kettle Falls School District
+  county: Stevens
+  area: Kettle Falls
+  category: school
+  type: apptegy
+  org: 14609
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: https://www.kfschools.org/
+- id: kittitas-schools
+  name: Kittitas School District
+  county: Kittitas
+  area: Kittitas
+  category: school
+  type: apptegy
+  org: 5486
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.ksd403.org/
+- id: klickitat-schools
+  name: Klickitat School District
+  county: Klickitat
+  area: Klickitat
+  category: school
+  type: apptegy
+  org: 31907
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: https://www.klickitat.wednet.edu/
+- id: la-conner-schools
+  name: La Conner School District
+  county: Skagit
+  area: La Conner
+  category: school
+  type: apptegy
+  org: 22235
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.lcsd.wednet.edu/
+- id: lake-quinault-schools
+  name: Lake Quinault School District
+  county: Grays Harbor
+  area: Amanda Park
+  category: school
+  type: apptegy
+  org: 19969
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: https://www.lakequinaultschools.org/
+- id: manson-schools
+  name: Manson School District
+  county: Chelan
+  area: Manson
+  category: school
+  type: apptegy
+  org: 28562
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.manson.org/
+- id: mary-m-knight-schools
+  name: Mary M Knight School District
+  county: Mason
+  area: Elma
+  category: school
+  type: apptegy
+  org: 25019
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.marymknight.com/
+- id: marysville-schools
+  name: Marysville School District
+  county: Snohomish
+  area: Marysville
+  category: school
+  type: apptegy
+  org: 833
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.msvl.k12.wa.us/
+- id: mill-a-schools
+  name: Mill A School District
+  county: Skamania
+  area: Cook
+  category: school
+  type: apptegy
+  org: 26408
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.milla.k12.wa.us/
+- id: morton-schools
+  name: Morton School District
+  county: Lewis
+  area: Morton
+  category: school
+  type: apptegy
+  org: 187
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.morton.k12.wa.us/
+- id: mossyrock-schools
+  name: Mossyrock School District
+  county: Lewis
+  area: Mossyrock
+  category: school
+  type: apptegy
+  org: 18879
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: https://www.mossyrockschools.org/
+- id: mount-baker-schools
+  name: Mount Baker School District
+  county: Whatcom
+  area: Deming
+  category: school
+  type: apptegy
+  org: 5299
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.mtbaker.wednet.edu/
+- id: napavine-schools
+  name: Napavine School District
+  county: Lewis
+  area: Napavine
+  category: school
+  type: apptegy
+  org: 20091
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.napavineschools.org/
+- id: naselle-grays-river-valley-schools
+  name: Naselle-Grays River Valley School District
+  county: Pacific
+  area: Naselle
+  category: school
+  type: apptegy
+  org: 31163
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.naselle.wednet.edu/
+- id: nine-mile-falls-schools
+  name: Nine Mile Falls School District
+  county: Spokane
+  area: Nine Mile Falls
+  category: school
+  type: apptegy
+  org: 21021
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.9mile.org/
+- id: north-franklin-schools
+  name: North Franklin School District
+  county: Franklin
+  area: Connell
+  category: school
+  type: apptegy
+  org: 327
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.nfsd.org/
+- id: north-mason-schools
+  name: North Mason School District
+  county: Mason
+  area: Belfair
+  category: school
+  type: apptegy
+  org: 16212
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.nmsd.wednet.edu/
+- id: oakville-schools
+  name: Oakville School District
+  county: Grays Harbor
+  area: Oakville
+  category: school
+  type: apptegy
+  org: 33608
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.oakvilleschools.org/
+- id: ocean-beach-schools
+  name: Ocean Beach School District
+  county: Pacific
+  area: Long Beach
+  category: school
+  type: apptegy
+  org: 9228
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.ocean.k12.wa.us/
+- id: ocosta-schools
+  name: Ocosta School District
+  county: Grays Harbor
+  area: Westport
+  category: school
+  type: apptegy
+  org: 3878
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.ocosta.k12.wa.us/
+- id: omak-schools
+  name: Omak School District
+  county: Okanogan
+  area: Omak
+  category: school
+  type: apptegy
+  org: 20783
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.omaksd.org/
+- id: onion-creek-schools
+  name: Onion Creek School District
+  county: Stevens
+  area: Colville
+  category: school
+  type: apptegy
+  org: 29515
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.ocsd30.org/
+- id: port-townsend-schools
+  name: Port Townsend School District
+  county: Jefferson
+  area: Port Townsend
+  category: school
+  type: apptegy
+  org: 29543
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.ptschools.org/
+- id: prescott-schools
+  name: Prescott School District
+  county: Walla Walla
+  area: Prescott
+  category: school
+  type: apptegy
+  org: 269
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.prescott.k12.wa.us/
+- id: prosser-schools
+  name: Prosser School District
+  county: Benton
+  area: Prosser
+  category: school
+  type: apptegy
+  org: 9378
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.prosserschools.org/
+- id: quillayute-valley-schools
+  name: Quillayute Valley School District
+  county: Clallam
+  area: Forks
+  category: school
+  type: apptegy
+  org: 18984
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: https://www.qvschools.org/
+- id: republic-schools
+  name: Republic School District
+  county: Ferry
+  area: Republic
+  category: school
+  type: apptegy
+  org: 4492
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: https://www.republic309.org/
+- id: ridgefield-schools
+  name: Ridgefield School District
+  county: Clark
+  area: Ridgefield
+  category: school
+  type: apptegy
+  org: 470
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: https://www.ridgefieldsd.org
+- id: rochester-schools
+  name: Rochester School District
+  county: Thurston
+  area: Rochester
+  category: school
+  type: apptegy
+  org: 26908
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.rochester.wednet.edu/
+- id: sedro-woolley-schools
+  name: Sedro-Woolley School District
+  county: Skagit
+  area: Sedro-Woolley
+  category: school
+  type: apptegy
+  org: 15068
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.swsd.k12.wa.us/
+- id: selkirk-schools
+  name: Selkirk School District
+  county: Pend Oreille
+  area: Metaline Falls
+  category: school
+  type: apptegy
+  org: 5215
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: https://www.selkirkschools.org/
+- id: sequim-schools
+  name: Sequim School District
+  county: Clallam
+  area: Sequim
+  category: school
+  type: apptegy
+  org: 32407
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.sequimschools.org/
+- id: spokane-schools
+  name: Spokane School District
+  county: Spokane
+  area: Spokane
+  category: school
+  type: apptegy
+  org: 18234
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.spokaneschools.org/
+- id: steptoe-schools
+  name: Steptoe School District
+  county: Whitman
+  area: Steptoe
+  category: school
+  type: apptegy
+  org: 34366
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: https://www.steptoe304.org/
+- id: sultan-schools
+  name: Sultan School District
+  county: Snohomish
+  area: Sultan
+  category: school
+  type: apptegy
+  org: 16656
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.sultan.k12.wa.us/
+- id: sunnyside-schools
+  name: Sunnyside School District
+  county: Yakima
+  area: Sunnyside
+  category: school
+  type: apptegy
+  org: 31599
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.sunnysideschools.org/
+- id: taholah-schools
+  name: Taholah School District
+  county: Grays Harbor
+  area: Taholah
+  category: school
+  type: apptegy
+  org: 26308
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.taholah.org/
+- id: tenino-schools
+  name: Tenino School District
+  county: Thurston
+  area: Tenino
+  category: school
+  type: apptegy
+  org: 637
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: https://www.teninosd.org/
+- id: touchet-schools
+  name: Touchet School District
+  county: Walla Walla
+  area: Touchet
+  category: school
+  type: apptegy
+  org: 4981
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.touchet.k12.wa.us/
+- id: union-gap-schools
+  name: Union Gap School District
+  county: Yakima
+  area: Union Gap
+  category: school
+  type: apptegy
+  org: 2187
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.uniongapschool.org/
+- id: vancouver-schools
+  name: Vancouver School District
+  county: Clark
+  area: Vancouver
+  category: school
+  type: apptegy
+  org: 27121
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.vansd.org/
+- id: wahluke-schools
+  name: Wahluke School District
+  county: Grant
+  area: Mattawa
+  category: school
+  type: apptegy
+  org: 4912
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.wsd73.wednet.edu/
+- id: waitsburg-schools
+  name: Waitsburg School District
+  county: Walla Walla
+  area: Waitsburg
+  category: school
+  type: apptegy
+  org: 2511
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.waitsburgsd.org/
+- id: white-pass-schools
+  name: White Pass School District
+  county: Lewis
+  area: Randle
+  category: school
+  type: apptegy
+  org: 2250
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.whitepass.k12.wa.us/
+- id: white-salmon-valley-schools
+  name: White Salmon Valley School District
+  county: Klickitat
+  area: White Salmon
+  category: school
+  type: apptegy
+  org: 4456
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: https://www.wsvsd.org/
+- id: winlock-schools
+  name: Winlock School District
+  county: Lewis
+  area: Winlock
+  category: school
+  type: apptegy
+  org: 3731
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard
+  homepage: http://www.winlockschools.org/
