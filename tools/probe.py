@@ -70,6 +70,12 @@ def probe(row):
     res["ics"] = sorted(set(re.findall(r'(?:href|src)="([^"]+(?:\.ics|ical=1|/ical/|webcal:[^"]+))"', blob, re.I)))[:6]
     res["wordpress"] = "wp-content" in blob
     res["apptegy"] = "thrillshare" in blob or "apptegy" in blob.lower()
+    if res["apptegy"]:
+        root = f"{urlparse(final).scheme}://{host}"
+        s, _, ev = get(root + "/events")
+        hits = re.findall(r"[a-z0-9.-]*thrillshare\.com[^\"'\s<>]{0,120}", blob + (ev or ""))
+        ids = re.findall(r'(?:organization|org|school|section)_?[iI]d["\']?\s*[:=]\s*["\']?(\d{2,7})', blob + (ev or ""))
+        res["apptegy_info"] = {"events_status": s, "hits": sorted(set(hits))[:12], "ids": sorted(set(ids))[:8]}
     if "granicus" in res["found"]:
         g = res["found"]["granicus"][0]
         s, _, gp = get("https://" + g)
