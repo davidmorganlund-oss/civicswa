@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Benton County
 BEGIN:VEVENT
 UID:4c340d543e3e@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261117T000000Z
 DTEND:20261117T010000Z
 SUMMARY:CANCELLED: Economic Development Committee Meeting (City of Richland)
@@ -13,7 +13,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/5914/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:d8bc62d603fb@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261117T023000Z
 DTEND:20261117T033000Z
 SUMMARY:Planning Commission Meeting (City of Kennewick)
@@ -22,7 +22,7 @@ URL:https://kennewickwa.portal.civicclerk.com/event/2249/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:b0ebb2547b97@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261117T161500Z
 DTEND:20261117T171500Z
 SUMMARY:Police Pension Board Meeting (City of Richland)
@@ -31,7 +31,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/6103/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f49cc761b7a6@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261117T170000Z
 DTEND:20261117T180000Z
 SUMMARY:Board of Benton County Commissioners Meeting (Benton County)
@@ -40,7 +40,7 @@ URL:https://bentoncowa.portal.civicclerk.com/event/1317/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:4e3b36879195@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261117T170000Z
 DTEND:20261117T180000Z
 SUMMARY:Firefighters' Pension Board Meeting (City of Richland)
@@ -49,7 +49,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/6116/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:b3e242165ced@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261118T003000Z
 DTEND:20261118T013000Z
 SUMMARY:Historic Preservation Commission Meeting (City of Kennewick)
@@ -58,7 +58,7 @@ URL:https://kennewickwa.portal.civicclerk.com/event/2350/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:fa3ca0a91378@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261118T013000Z
 DTEND:20261118T023000Z
 SUMMARY:Civil Service Commission Meeting (City of Kennewick)
@@ -67,7 +67,7 @@ URL:https://kennewickwa.portal.civicclerk.com/event/2079/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:34459d2d1819@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261118T020000Z
 DTEND:20261118T030000Z
 SUMMARY:City Council Regular Meeting (City of Richland)
@@ -76,7 +76,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/6095/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:0929c6540975@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261118T020000Z
 DTEND:20261118T040000Z
 SUMMARY:City Council Meeting (City of West Richland)
@@ -85,7 +85,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:3e2c4144e35f@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261118T023000Z
 DTEND:20261118T033000Z
 SUMMARY:City Council Regular Meeting (City of Kennewick)
@@ -94,7 +94,7 @@ URL:https://kennewickwa.portal.civicclerk.com/event/2043/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:088c097e6962@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261118T200000Z
 DTEND:20261118T210000Z
 SUMMARY:City Council Special Meeting (City of Kennewick)
@@ -102,8 +102,17 @@ LOCATION:Red Lion Hotel & Conference Center\, 2525 N 20th Avenue\, Pasco
 URL:https://kennewickwa.portal.civicclerk.com/event/2369/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:c442a96dc31e@civicswa
+DTSTAMP:20261114T114649Z
+DTSTART:20261119T020000Z
+DTEND:20261119T030000Z
+SUMMARY:Parks & Recreation Commission Special Meeting (City of Kennewick)
+LOCATION:First Lutheran Church of Kennewick \, 418 N. Yelm Street\, Kennewick
+URL:https://kennewickwa.portal.civicclerk.com/event/2371/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:ef28ea57af81@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261119T020000Z
 DTEND:20261119T030000Z
 SUMMARY:Planning Commission Special Meeting (City of Richland)
@@ -112,7 +121,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/6241/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2370b3e7f030@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261120T020000Z
 DTEND:20261120T030000Z
 SUMMARY:Planning Commission Meeting (City of Prosser)
@@ -120,17 +129,17 @@ LOCATION:Council Chambers\, 620 Market Street\, 1st Floor\, Prosser
 URL:https://prosserwa.portal.civicclerk.com/event/266/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:3eb3d9559714@civicswa
-DTSTAMP:20261113T120146Z
+UID:20664f58ec58@civicswa
+DTSTAMP:20261114T114649Z
 DTSTART:20261120T020000Z
 DTEND:20261120T030000Z
 SUMMARY:Board of Adjustment Meeting (City of Richland)
-LOCATION:Richland City Hall ~ Council Chambers\, 625 Swift Boulevard
-URL:https://richlandwa.portal.civicclerk.com/event/6034/overview
+LOCATION:Richland City Hall - Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/6258/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:a3e0c86bc6d1@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261124T170000Z
 DTEND:20261124T180000Z
 SUMMARY:Board of Benton County Commissioners Meeting (Benton County)
@@ -139,7 +148,7 @@ URL:https://bentoncowa.portal.civicclerk.com/event/1318/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:a042381ba72e@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261125T013000Z
 DTEND:20261125T023000Z
 SUMMARY:Budget and Finance Committee Meeting (City of Prosser)
@@ -148,7 +157,7 @@ URL:https://prosserwa.portal.civicclerk.com/event/253/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:5408f62cb65f@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261125T020000Z
 DTEND:20261125T030000Z
 SUMMARY:City Council Regular Meeting (City of Prosser)
@@ -157,7 +166,7 @@ URL:https://prosserwa.portal.civicclerk.com/event/229/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:5adc0edf0514@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261125T020000Z
 DTEND:20261125T030000Z
 SUMMARY:CANCELLED: City Council Workshop Meeting (City of Richland)
@@ -166,7 +175,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/6096/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7cd8d364f5da@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261125T023000Z
 DTEND:20261125T033000Z
 SUMMARY:City Council Workshop Meeting (City of Kennewick)
@@ -175,7 +184,7 @@ URL:https://kennewickwa.portal.civicclerk.com/event/2145/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:526739e76fa2@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261126T020000Z
 DTEND:20261126T030000Z
 SUMMARY:CANCELLED: Planning Commission Meeting (City of Richland)
@@ -184,7 +193,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/5928/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:4990c845e840@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261126T020000Z
 DTEND:20261126T040000Z
 SUMMARY:Regular Board Meeting (Prosser School District)
@@ -193,7 +202,7 @@ URL:http://www.prosserschools.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:2579adc93548@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261126T153000Z
 DTEND:20261126T163000Z
 SUMMARY:CANCELLED: Benton County Emergency Services Executive Board Meeting (City of Richland)
@@ -202,7 +211,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/6056/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:632404f5e6cf@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261127T020000Z
 DTEND:20261127T030000Z
 SUMMARY:Parks and Recreation Commission Meeting (City of Kennewick)
@@ -211,7 +220,7 @@ URL:https://kennewickwa.portal.civicclerk.com/event/2214/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:9220136c3666@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261130T190000Z
 DTEND:20261130T200000Z
 SUMMARY:Special Meeting - 2026 Legislative Send-Off (Benton County)
@@ -220,7 +229,7 @@ URL:https://bentoncowa.portal.civicclerk.com/event/1393/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:9d2db24ea771@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261201T170000Z
 DTEND:20261201T180000Z
 SUMMARY:Board of Benton County Commissioners Meeting (Benton County)
@@ -229,7 +238,7 @@ URL:https://bentoncowa.portal.civicclerk.com/event/1319/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:9c982cd836bf@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261201T193000Z
 DTEND:20261201T203000Z
 SUMMARY:Disability Board Meeting (City of Kennewick)
@@ -238,7 +247,7 @@ URL:https://kennewickwa.portal.civicclerk.com/event/2159/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:d1dfd19904a4@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261202T020000Z
 DTEND:20261202T030000Z
 SUMMARY:CANCELLED: Planning Commission Meeting (Benton County)
@@ -247,7 +256,7 @@ URL:https://bentoncowa.portal.civicclerk.com/event/1219/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:abc5cee994b5@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261202T020000Z
 DTEND:20261202T030000Z
 SUMMARY:City Council Work Session (City of Prosser)
@@ -256,7 +265,7 @@ URL:https://prosserwa.portal.civicclerk.com/event/206/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:a053e5c823f3@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261202T020000Z
 DTEND:20261202T030000Z
 SUMMARY:City Council Regular Meeting (City of Richland)
@@ -265,7 +274,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/5804/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:9b4e1cb603b1@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261202T020000Z
 DTEND:20261202T040000Z
 SUMMARY:City Council Meeting (City of West Richland)
@@ -274,7 +283,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:0648dbfe8a73@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261202T023000Z
 DTEND:20261202T033000Z
 SUMMARY:City Council Regular Meeting (City of Kennewick)
@@ -283,7 +292,7 @@ URL:https://kennewickwa.portal.civicclerk.com/event/2032/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:28b193c01860@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261202T170000Z
 DTEND:20261202T180000Z
 SUMMARY:BOE Hearing (Benton County)
@@ -292,7 +301,7 @@ URL:https://bentoncowa.portal.civicclerk.com/event/1390/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e2f69a6f7d7c@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261202T220000Z
 DTEND:20261202T230000Z
 SUMMARY:Law Enforcement Officers' & Fire Fighters' Disability Board (LEOFF) Meeting (Benton County)
@@ -301,7 +310,7 @@ URL:https://bentoncowa.portal.civicclerk.com/event/1157/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:79372e50c580@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261203T020000Z
 DTEND:20261203T030000Z
 SUMMARY:Arts Commission Meeting (City of Richland)
@@ -310,7 +319,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/5966/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2a7eb7f4c366@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261203T170000Z
 DTEND:20261203T180000Z
 SUMMARY:BOE Hearing (Benton County)
@@ -319,7 +328,7 @@ URL:https://bentoncowa.portal.civicclerk.com/event/1389/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2cb60a74d67d@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261204T020000Z
 DTEND:20261204T030000Z
 SUMMARY:Board of Adjustment Meeting (City of Prosser)
@@ -328,7 +337,7 @@ URL:https://prosserwa.portal.civicclerk.com/event/282/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:420017b81e07@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261204T020000Z
 DTEND:20261204T050000Z
 SUMMARY:Special Planning Commission Meeting (City of West Richland)
@@ -337,7 +346,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
 UID:20427ea31856@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261208T000000Z
 DTEND:20261208T010000Z
 SUMMARY:Economic Development Committee Special Meeting (City of Richland)
@@ -346,7 +355,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/6242/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:6a832c7e01b6@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261208T023000Z
 DTEND:20261208T033000Z
 SUMMARY:Planning Commission Meeting (City of Kennewick)
@@ -355,7 +364,7 @@ URL:https://kennewickwa.portal.civicclerk.com/event/2171/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:9878ff3c44d8@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261208T170000Z
 DTEND:20261208T180000Z
 SUMMARY:Board of Benton County Commissioners Meeting (Benton County)
@@ -364,7 +373,7 @@ URL:https://bentoncowa.portal.civicclerk.com/event/1320/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:674f89dedcaf@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261209T013000Z
 DTEND:20261209T023000Z
 SUMMARY:Budget and Finance Committee Meeting (City of Prosser)
@@ -373,7 +382,7 @@ URL:https://prosserwa.portal.civicclerk.com/event/242/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f7c94215cf48@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261209T013000Z
 DTEND:20261209T023000Z
 SUMMARY:Library Board Meeting (City of Richland)
@@ -382,7 +391,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/5900/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:650fe9bd9e97@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:City Council Regular Meeting (City of Prosser)
@@ -391,7 +400,7 @@ URL:https://prosserwa.portal.civicclerk.com/event/218/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7faaa1dc8bfb@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261209T023000Z
 DTEND:20261209T033000Z
 SUMMARY:City Council Workshop Meeting (City of Kennewick)
@@ -400,7 +409,7 @@ URL:https://kennewickwa.portal.civicclerk.com/event/2134/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:796e037974fe@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261210T020000Z
 DTEND:20261210T030000Z
 SUMMARY:Arts Commission Meeting (City of Kennewick)
@@ -409,7 +418,7 @@ URL:https://kennewickwa.portal.civicclerk.com/event/2198/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:78f54bbc88cf@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261210T020000Z
 DTEND:20261210T030000Z
 SUMMARY:Planning Commission Workshop (City of Richland)
@@ -418,7 +427,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/6022/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8e505a7dfbc5@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261210T020000Z
 DTEND:20261210T040000Z
 SUMMARY:Regular Board Meeting (Prosser School District)
@@ -427,7 +436,7 @@ URL:http://www.prosserschools.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:b798bf250a7f@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261210T153000Z
 DTEND:20261210T163000Z
 SUMMARY:Benton County Emergency Services Executive Board Special Meeting (City of Richland)
@@ -436,7 +445,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/6245/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:6c3843c4f1e0@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261210T220000Z
 DTEND:20261210T230000Z
 SUMMARY:Benton-Franklin Behavioral Health Advisory Committee (BHAC) (Benton County)
@@ -445,7 +454,7 @@ URL:https://bentoncowa.portal.civicclerk.com/event/1287/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2924685271cd@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261211T020000Z
 DTEND:20261211T030000Z
 SUMMARY:Parks and Recreation Commission Meeting (City of Richland)
@@ -454,16 +463,16 @@ URL:https://richlandwa.portal.civicclerk.com/event/5941/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ce405701c250@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261211T020000Z
 DTEND:20261211T040000Z
-SUMMARY:Planning Commission Meeting (City of West Richland)
+SUMMARY:CANCELLED: Planning Commission Meeting (City of West Richland)
 LOCATION:Municipal Services Building > City Council Chambers - 3100 Belmont Boulevard West Richland WA 99353
 URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=25
 END:VEVENT
 BEGIN:VEVENT
 UID:2ae85c1682ac@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261215T020000Z
 DTEND:20261215T030000Z
 SUMMARY:Hearing Examiner Meeting (City of Kennewick)
@@ -472,7 +481,7 @@ URL:https://kennewickwa.portal.civicclerk.com/event/2225/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:13cff84c0550@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261215T020000Z
 DTEND:20261215T030000Z
 SUMMARY:Hearing Examiner Meeting (City of Richland)
@@ -481,7 +490,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/6009/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:cbf7cc088e4b@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261215T161500Z
 DTEND:20261215T171500Z
 SUMMARY:Police Pension Board Meeting (City of Richland)
@@ -490,7 +499,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/6104/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:be71e353a205@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261215T170000Z
 DTEND:20261215T180000Z
 SUMMARY:Board of Benton County Commissioners Meeting (Benton County)
@@ -499,7 +508,7 @@ URL:https://bentoncowa.portal.civicclerk.com/event/1321/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:eae5b4f4601a@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261215T170000Z
 DTEND:20261215T180000Z
 SUMMARY:Firefighters' Pension Board Meeting (City of Richland)
@@ -508,7 +517,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/6117/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:28446b51d88e@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261216T003000Z
 DTEND:20261216T013000Z
 SUMMARY:Historic Preservation Commission Meeting (City of Kennewick)
@@ -517,7 +526,7 @@ URL:https://kennewickwa.portal.civicclerk.com/event/2351/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:1e994e9b846c@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261216T013000Z
 DTEND:20261216T023000Z
 SUMMARY:Civil Service Commission Meeting (City of Kennewick)
@@ -526,7 +535,7 @@ URL:https://kennewickwa.portal.civicclerk.com/event/2080/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:1797eaaea88c@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:City Council Regular Meeting (City of Richland)
@@ -535,7 +544,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/6097/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:a606a7351bef@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261216T020000Z
 DTEND:20261216T040000Z
 SUMMARY:City Council Meeting (City of West Richland)
@@ -544,7 +553,7 @@ URL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24
 END:VEVENT
 BEGIN:VEVENT
 UID:59321e6d7220@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261216T023000Z
 DTEND:20261216T033000Z
 SUMMARY:City Council Regular Meeting (City of Kennewick)
@@ -552,17 +561,8 @@ LOCATION:Kennewick City Hall - Council Chambers & Broadcast Live at www.Go2Kenne
 URL:https://kennewickwa.portal.civicclerk.com/event/2122/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:62bb673ac5a9@civicswa
-DTSTAMP:20261113T120146Z
-DTSTART:20261217T020000Z
-DTEND:20261217T030000Z
-SUMMARY:Arts Commission Workshop Meeting (City of Richland)
-LOCATION:Richland Community Center\, 500 Amon Park Drive
-URL:https://richlandwa.portal.civicclerk.com/event/5980/overview
-END:VEVENT
-BEGIN:VEVENT
 UID:f7f0442946c1@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261218T020000Z
 DTEND:20261218T030000Z
 SUMMARY:Planning Commission Meeting (City of Prosser)
@@ -570,17 +570,17 @@ LOCATION:Council Chambers\, 620 Market Street\, 1st Floor\, Prosser
 URL:https://prosserwa.portal.civicclerk.com/event/267/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:54171ce2e9e0@civicswa
-DTSTAMP:20261113T120146Z
+UID:7a0af4a27778@civicswa
+DTSTAMP:20261114T114649Z
 DTSTART:20261218T020000Z
 DTEND:20261218T030000Z
 SUMMARY:Board of Adjustment Meeting (City of Richland)
-LOCATION:Richland City Hall ~ Council Chambers\, 625 Swift Boulevard
-URL:https://richlandwa.portal.civicclerk.com/event/6035/overview
+LOCATION:Richland City Hall - Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/6259/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:a8471a3bf6e4@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261222T000000Z
 DTEND:20261222T010000Z
 SUMMARY:CANCELLED: Economic Development Committee Meeting (City of Richland)
@@ -589,7 +589,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/5915/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2844dbc2e6e7@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261222T023000Z
 DTEND:20261222T033000Z
 SUMMARY:Planning Commission Meeting (City of Kennewick)
@@ -598,7 +598,7 @@ URL:https://kennewickwa.portal.civicclerk.com/event/2250/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:da5a19fbf27f@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261222T170000Z
 DTEND:20261222T180000Z
 SUMMARY:CANCELLED: Board of Benton County Commissioners Meeting (Benton County)
@@ -607,7 +607,7 @@ URL:https://bentoncowa.portal.civicclerk.com/event/1322/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e57c1fe31aed@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261223T013000Z
 DTEND:20261223T023000Z
 SUMMARY:Budget and Finance Committee Meeting (City of Prosser)
@@ -616,7 +616,7 @@ URL:https://prosserwa.portal.civicclerk.com/event/254/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:57130133bb21@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:City Council Regular Meeting (City of Prosser)
@@ -625,7 +625,7 @@ URL:https://prosserwa.portal.civicclerk.com/event/230/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:87256629e5e4@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:CANCELLED: City Council Workshop Meeting (City of Richland)
@@ -634,7 +634,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/6098/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2e356e8b00f4@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261223T023000Z
 DTEND:20261223T033000Z
 SUMMARY:City Council Workshop Meeting (City of Kennewick)
@@ -643,7 +643,7 @@ URL:https://kennewickwa.portal.civicclerk.com/event/2146/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:817cb5a23556@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261224T020000Z
 DTEND:20261224T030000Z
 SUMMARY:Planning Commission Meeting (City of Richland)
@@ -652,7 +652,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/5929/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:5925bd590230@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261224T020000Z
 DTEND:20261224T040000Z
 SUMMARY:Regular Board Meeting (Prosser School District)
@@ -661,7 +661,7 @@ URL:http://www.prosserschools.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:6e8a66223307@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261224T153000Z
 DTEND:20261224T163000Z
 SUMMARY:CANCELLED: Benton County Emergency Services Executive Board Meeting (City of Richland)
@@ -670,7 +670,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/6057/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:173567acdadb@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261225T020000Z
 DTEND:20261225T030000Z
 SUMMARY:Parks and Recreation Commission Meeting (City of Kennewick)
@@ -679,7 +679,7 @@ URL:https://kennewickwa.portal.civicclerk.com/event/2215/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:b8495db6c9e7@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20261229T170000Z
 DTEND:20261229T180000Z
 SUMMARY:Board of Benton County Commissioners Meeting (Benton County)
@@ -688,7 +688,7 @@ URL:https://bentoncowa.portal.civicclerk.com/event/1323/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:9bbfb0772853@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20270105T170000Z
 DTEND:20270105T180000Z
 SUMMARY:Board of Benton County Commissioners Meeting (Benton County)
@@ -697,7 +697,7 @@ URL:https://bentoncowa.portal.civicclerk.com/event/1324/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:31a5caabf27a@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20270105T190000Z
 DTEND:20270105T200000Z
 SUMMARY:Fire Pension Board (City of Kennewick)
@@ -706,7 +706,7 @@ URL:https://kennewickwa.portal.civicclerk.com/event/2363/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2f7ca24760da@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20270106T013000Z
 DTEND:20270106T023000Z
 SUMMARY:City Council Special Meeting (City of Kennewick)
@@ -715,7 +715,7 @@ URL:https://kennewickwa.portal.civicclerk.com/event/2370/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8aaa4b343824@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20270106T020000Z
 DTEND:20270106T030000Z
 SUMMARY:Planning Commission Meeting (Benton County)
@@ -724,7 +724,7 @@ URL:https://bentoncowa.portal.civicclerk.com/event/1220/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7c114e072570@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20270106T020000Z
 DTEND:20270106T030000Z
 SUMMARY:City Council Regular Meeting (City of Richland)
@@ -733,7 +733,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/6135/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:1fb4a69f25b9@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20270106T023000Z
 DTEND:20270106T033000Z
 SUMMARY:City Council Regular Meeting (City of Kennewick)
@@ -742,7 +742,7 @@ URL:https://kennewickwa.portal.civicclerk.com/event/2274/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:36ac1932da3e@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20270112T020000Z
 DTEND:20270112T030000Z
 SUMMARY:Hearing Examiner Meeting (City of Richland)
@@ -751,7 +751,7 @@ URL:https://richlandwa.portal.civicclerk.com/event/6010/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8a1efce75f23@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20270112T170000Z
 DTEND:20270112T180000Z
 SUMMARY:Board of Benton County Commissioners Meeting (Benton County)
@@ -760,7 +760,7 @@ URL:https://bentoncowa.portal.civicclerk.com/event/1325/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:96f3fc27d274@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20270112T230000Z
 DTEND:20270113T000000Z
 SUMMARY:Utility Advisory Committee Meeting (City of Richland)
@@ -769,11 +769,38 @@ URL:https://richlandwa.portal.civicclerk.com/event/6045/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:b12b72f0419e@civicswa
-DTSTAMP:20261113T120146Z
+DTSTAMP:20261114T114649Z
 DTSTART:20270113T023000Z
 DTEND:20270113T033000Z
 SUMMARY:City Council Workshop Meeting (City of Kennewick)
 LOCATION:Kennewick City Hall - Council Chambers & Broadcast Live at www.Go2Kennewick.com \, 210 W 6th Ave\, Kennewick
 URL:https://kennewickwa.portal.civicclerk.com/event/2298/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:5f68053778c5@civicswa
+DTSTAMP:20261114T114649Z
+DTSTART:20270114T020000Z
+DTEND:20270114T030000Z
+SUMMARY:Arts Commission Meeting (City of Kennewick)
+LOCATION:City Hall Council Chambers - 210 W 6th Avenue\, Kennewick
+URL:https://kennewickwa.portal.civicclerk.com/event/2199/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:449ce5e5ede6@civicswa
+DTSTAMP:20261114T114649Z
+DTSTART:20270114T020000Z
+DTEND:20270114T030000Z
+SUMMARY:Planning Commission Workshop (City of Richland)
+LOCATION:Richland City Hall - Council Chambers\, 625 Swift Boulevard
+URL:https://richlandwa.portal.civicclerk.com/event/6310/overview
+END:VEVENT
+BEGIN:VEVENT
+UID:a9bb6cde4b6c@civicswa
+DTSTAMP:20261114T114649Z
+DTSTART:20270114T020000Z
+DTEND:20270114T040000Z
+SUMMARY:Regular Board Meeting (Prosser School District)
+LOCATION:Prosser School District Boardroom\, 1203 Prosser Ave. Prosser WA 99350
+URL:http://www.prosserschools.org/
 END:VEVENT
 END:VCALENDAR
