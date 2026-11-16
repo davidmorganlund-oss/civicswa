@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T03:48:46-08:00",
+ "generated": "2026-11-16T04:19:30-08:00",
  "events": [
   {
    "id": "bf47f9b69b2a",
@@ -1036,6 +1036,27 @@
    "agenda_url": "",
    "note": "",
    "cancelled": true
+  },
+  {
+   "id": "2076608f78f4",
+   "title": "Salary Commission Meeting",
+   "host": "City of Lake Stevens",
+   "source": "lake-stevens",
+   "area": "Lake Stevens",
+   "county": "Snohomish",
+   "category": "council",
+   "start": "2026-11-16T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "",
+   "url": "https://lakestevenswa.portal.civicclerk.com/event/973/overview",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false,
+   "highlights": [
+    "Review Elected Official Salaries"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "4ffe0f72e33f",
@@ -3226,7 +3247,7 @@
    "county": "Clark",
    "category": "school",
    "start": "2026-11-17T17:30:00-08:00",
-   "end": "2026-11-17T20:30:00-08:00",
+   "end": "2026-11-17T18:30:00-08:00",
    "all_day": false,
    "location": "2921 Falk Rd, Vancouver, WA 98661, USA",
    "url": "http://www.vansd.org/",
@@ -4104,6 +4125,23 @@
    "all_day": false,
    "location": "12033 SE 256 St, Kent, WA 98030, USA",
    "url": "http://www.kent.k12.wa.us/",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "38fd6e087cfb",
+   "title": "Special Board Meeting",
+   "host": "Vancouver School District",
+   "source": "vancouver-schools",
+   "area": "Vancouver",
+   "county": "Clark",
+   "category": "school",
+   "start": "2026-11-17T18:30:00-08:00",
+   "end": "2026-11-17T20:30:00-08:00",
+   "all_day": false,
+   "location": "2921 Falk Rd, Vancouver, WA 98661, USA",
+   "url": "http://www.vansd.org/",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -5293,7 +5331,7 @@
    "start": "2026-11-18T17:00:00-08:00",
    "end": "2026-11-18T20:00:00-08:00",
    "all_day": false,
-   "location": "",
+   "location": "Commons-1-Dining Room (200)",
    "url": "https://www.reardan.net/",
    "agenda_url": "",
    "note": "",
@@ -6924,6 +6962,23 @@
    "cancelled": false
   },
   {
+   "id": "a4995c923360",
+   "title": "School Board Meeting",
+   "host": "Curlew School District",
+   "source": "curlew-schools",
+   "area": "Curlew",
+   "county": "Ferry",
+   "category": "school",
+   "start": "2026-11-19T17:00:00-08:00",
+   "end": "2026-11-19T19:00:00-08:00",
+   "all_day": false,
+   "location": "",
+   "url": "https://www.curlewsd.org/",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "ba401e714d3e",
    "title": "Parks and Recreation Advisory Board",
    "host": "City of Chelan",
@@ -7299,23 +7354,6 @@
    "cancelled": false
   },
   {
-   "id": "183182a56447",
-   "title": "Board Meeting - Wilbur Cat Cave",
-   "host": "Creston School District",
-   "source": "creston-schools",
-   "area": "Creston",
-   "county": "Lincoln",
-   "category": "school",
-   "start": "2026-11-19T19:00:00-08:00",
-   "end": "2026-11-19T20:00:00-08:00",
-   "all_day": false,
-   "location": "",
-   "url": "https://wcsd.wednet.edu/",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
    "id": "46ee401f1f5f",
    "title": "Economic Development Board Meeting",
    "host": "City of Stanwood",
@@ -7509,6 +7547,23 @@
    "all_day": false,
    "location": "",
    "url": "https://www.kentwa.gov/Home/Components/Calendar/Event/7580/",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "6a789b8ebe2a",
+   "title": "Save Food, Save Money Workshop",
+   "host": "City of Tukwila",
+   "source": "tukwila",
+   "area": "Tukwila",
+   "county": "King",
+   "category": "other",
+   "start": "2026-11-21T13:00:00-08:00",
+   "end": "2026-11-21T14:00:00-08:00",
+   "all_day": false,
+   "location": "Tukwila Library, 14380 Tukwila International Boulevard, Tukwila, WA, United States",
+   "url": "https://www.tukwilawa.gov/event/save-food-save-money-workshop/",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -8793,7 +8848,7 @@
    "cancelled": false
   },
   {
-   "id": "d311ebb35ef8",
+   "id": "baaee54074a9",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -8810,7 +8865,7 @@
    "cancelled": false
   },
   {
-   "id": "baaee54074a9",
+   "id": "d311ebb35ef8",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -14686,7 +14741,11 @@
    "url": "https://app.leg.wa.gov/committeeschedules/Home/Agenda/34327",
    "agenda_url": "",
    "note": "The meeting is scheduled to end at 10:30 a.m. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website: https://app.leg.wa.gov/committeeschedules",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Finalize committee recommendations"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "c3b06d0f7286",
@@ -14737,7 +14796,11 @@
    "url": "https://app.leg.wa.gov/committeeschedules/Home/Agenda/34277",
    "agenda_url": "",
    "note": "This meeting is scheduled to end at 12:30 P.M. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website: https://app.leg.wa.gov/committeeschedules",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Focused on our Future: How the state prepares students for the job market"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "b120b4b27365",
@@ -14754,7 +14817,13 @@
    "url": "https://app.leg.wa.gov/committeeschedules/Home/Agenda/34279",
    "agenda_url": "",
    "note": "Possible other business. Meeting is scheduled to end at 12:30 PM To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website: https://app.leg.wa.gov/committeeschedules",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Committee agricultural tour recap and findings",
+    "Report on Paid Family and Medical Leave by Employment Security Department, including reports on the program's: (1) needs and resources; and\u2026",
+    "Report on Workers' Compensation by the Department of Labor and Industries, including program overview, comparison to other states; updates\u2026"
+   ],
+   "highlights_more": 1
   },
   {
    "id": "d716081a3ec2",
@@ -14771,7 +14840,13 @@
    "url": "https://app.leg.wa.gov/committeeschedules/Home/Agenda/34275",
    "agenda_url": "",
    "note": "Meeting is scheduled to end at 12:30 p.m. Possible other business. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website: https://app.leg.wa.gov/committeeschedules",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Law enforcement use of force database",
+    "Firearm background checks and surrender of firearms updates",
+    "Crime victim services funding"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "126466c72929",
@@ -14805,7 +14880,11 @@
    "url": "https://app.leg.wa.gov/committeeschedules/Home/Agenda/34318",
    "agenda_url": "",
    "note": "Meeting is scheduled to end at 3:30 p.m. Possible other business. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website: https://app.leg.wa.gov/committeeschedules",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Agriculture and Natural Resources agency update"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "add62698e7be",
@@ -14822,7 +14901,11 @@
    "url": "https://app.leg.wa.gov/committeeschedules/Home/Agenda/34300",
    "agenda_url": "",
    "note": "Possible other business. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website: https://app.leg.wa.gov/committeeschedules",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Issues relating to child welfare"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "546a39559289",
@@ -14839,7 +14922,13 @@
    "url": "https://app.leg.wa.gov/committeeschedules/Home/Agenda/34315",
    "agenda_url": "",
    "note": "Meeting is scheduled to end at 3:30 PM. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website: https://app.leg.wa.gov/committeeschedules",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Permit timelines",
+    "Urban growth areas: adjustments",
+    "Exempt or large lot segregation"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "5f7fca90c675",
@@ -14941,7 +15030,12 @@
    "url": "https://app.leg.wa.gov/committeeschedules/Home/Agenda/34282",
    "agenda_url": "",
    "note": "The meeting is scheduled to end at 6:00 p.m. Possible other business. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website: https://app.leg.wa.gov/committeeschedules",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Traffic safety updates",
+    "Transportation budget and revenue overview"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "fdd5e3f4314b",
@@ -14958,7 +15052,13 @@
    "url": "https://app.leg.wa.gov/committeeschedules/Home/Agenda/34305",
    "agenda_url": "",
    "note": "Meeting is scheduled to end at 6:00 p.m. Possible other business. See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website: https://app.leg.wa.gov/committeeschedules",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Economic and review forecast update",
+    "Caseload forecast update",
+    "2027 session budget preview"
+   ],
+   "highlights_more": 3
   },
   {
    "id": "20164f039624",
@@ -27422,7 +27522,7 @@
    "cancelled": false
   },
   {
-   "id": "128864a248dd",
+   "id": "9d58a216aa0a",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -27439,7 +27539,7 @@
    "cancelled": false
   },
   {
-   "id": "9d58a216aa0a",
+   "id": "128864a248dd",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -33265,6 +33365,57 @@
    "all_day": false,
    "location": "Stanwood-Camano School District, Admin Bldg. Board Room, 26920 Pioneer Highway, Stanwood",
    "url": "https://stanwoodwa.portal.civicclerk.com/event/1060/overview",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "d6ffadae92f3",
+   "title": "Economic Development Board Meeting",
+   "host": "City of Stanwood",
+   "source": "stanwood",
+   "area": "Stanwood",
+   "county": "Snohomish",
+   "category": "council",
+   "start": "2027-01-15T07:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "City Hall, 10220 270th ST NW, Stanwood",
+   "url": "https://stanwoodwa.portal.civicclerk.com/event/1030/overview",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "432de7de2974",
+   "title": "Planning Commission",
+   "host": "San Juan County",
+   "source": "san-juan-county",
+   "area": "countywide",
+   "county": "San Juan",
+   "category": "council",
+   "start": "2027-01-15T08:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "",
+   "url": "https://sanjuancowa.portal.civicclerk.com/event/3773/overview",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "aadedd1cf0a5",
+   "title": "Land Bank Commission",
+   "host": "San Juan County",
+   "source": "san-juan-county",
+   "area": "countywide",
+   "county": "San Juan",
+   "category": "council",
+   "start": "2027-01-15T08:45:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "589 Nash St, Friday Harbor",
+   "url": "https://sanjuancowa.portal.civicclerk.com/event/4342/overview",
    "agenda_url": "",
    "note": "",
    "cancelled": false
