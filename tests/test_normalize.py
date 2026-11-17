@@ -356,3 +356,20 @@ def test_civicclerk_links_posted_agenda():
     a, b = build.normalize_civicclerk(src, rows, TZ)
     assert a["agenda_url"] == "https://vancouverwa.portal.civicclerk.com/event/1573/files/agenda/3221"
     assert b["agenda_url"] == ""
+
+
+def test_legislature_topics():
+    e = build.tag_legislature({"title": "Senate Law & Justice", "highlights": [], "bills": [
+        {"id": "SB 5001", "about": "Concerning sentencing review"},
+        {"id": "SB 5002", "about": "Concerning agency reports"}]})
+    assert e["topics"] == ["justice"]
+    assert e["bills"][1]["topics"] == ["justice"]  # falls back to the committee's subject
+    f = build.tag_legislature({"title": "House Appropriations", "highlights": [], "bills": [
+        {"id": "HB 1100", "about": "Concerning tenant protections"},
+        {"id": "HB 1101", "about": "Making supplemental appropriations"}]})
+    assert f["bills"][0]["topics"] == ["housing"]
+    assert f["bills"][1]["topics"] == ["budget"]  # "supplemental" is not mental health
+    g = build.tag_legislature({"title": "Senate State Government, Tribal Affairs & Elections", "highlights": [], "bills": [
+        {"id": "SB 5300", "about": "Concerning campaign finance disclosure"}]})
+    assert g["bills"][0]["topics"] == ["elections"]
+    assert "tribes" in g["topics"]

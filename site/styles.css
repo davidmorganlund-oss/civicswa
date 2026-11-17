@@ -175,3 +175,21 @@ footer p { margin: 0; flex: 1 1 320px; }
 .bills summary { cursor: pointer; font-weight: 600; color: var(--petrol); }
 .bills ul { margin: 6px 0 0; padding-left: 20px; display: flex; flex-direction: column; gap: 4px; }
 .bills a { font-weight: 600; }
+
+/* This Week in Olympia */
+.tag-row { display: flex; flex-wrap: wrap; gap: 6px; }
+.tag.open { background: var(--accent-soft); color: var(--accent-ink); }
+.tag.topic { background: transparent; border: 1px solid var(--line); color: var(--muted); font-weight: 500; }
+.bill-list { display: flex; flex-direction: column; gap: 6px; }
+.bill-list a { font-weight: 700; margin-right: 2px; }
+.bill-kind { display: inline-block; margin-left: 8px; font-size: 12px; font-weight: 600; color: var(--muted); }
+.bill-kind.open { color: var(--accent-ink); }
+.agenda .more-items { margin: 6px 0 0; color: var(--muted); font-size: 14px; }
+.day-head { margin: 12px 0 0; font-size: 1rem; font-weight: 700; color: var(--muted); }
+.day-head:first-child { margin-top: 0; }
+.topics-wrap { display: flex; flex-direction: column; gap: 8px; margin-bottom: 6px; }
+.topics-label { margin: 0; font-weight: 600; font-size: 15px; }
+@media (max-width: 640px) {
+  .chips.scroll { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 6px; margin-inline: -16px; padding-inline: 16px; scrollbar-width: thin; }
+  .chips.scroll .chip { flex: 0 0 auto; }
+}

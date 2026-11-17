@@ -794,7 +794,11 @@ def normalize_wsl_meetings(src, xml_text, tz):
             continue
         start = datetime.fromisoformat(raw[:19]).replace(tzinfo=tz)
         agenda = wsl_text(m, "AgendaId")
-        place = ", ".join(p for p in [wsl_text(m, "Room"), wsl_text(m, "Building"), "Olympia"] if p)
+        room, building = wsl_text(m, "Room"), wsl_text(m, "Building")
+        # Committees sometimes meet away from the Capitol (a convention center,
+        # a community college). Only add "Olympia" for Capitol campus buildings.
+        on_campus = not building or re.search(r"cherberg|o'brien|o.brien|legislative building|pritchard|newhouse|capitol", building, re.I)
+        place = ", ".join(p for p in [room, building, "Olympia" if on_campus else ""] if p)
         title = " and ".join(n for n in names if n) or "Legislative committee meeting"
         if wsl_text(m, "CommitteeType") and wsl_text(m, "CommitteeType") != "Full Committee":
             title += f" ({wsl_text(m, 'CommitteeType')})"
@@ -829,6 +833,51 @@ def wsl_items(xml_text):
     return out, hearing, bills
 
 
+# Topics for following the Legislature by subject. A committee's name is the
+# strongest signal (Law & Justice hears criminal legal bills); a bill's own
+# description adds the rest. Matching is by keyword, so it's a guide, not a
+# classification: the site says so.
+TOPIC_WORDS = [
+    ("justice", r"crim|justice|judiciary|public safety|community safety|sentenc|prison|\bjails?\b|correction|police|law enforcement|firearm|weapon|offender|felon|incarcerat|\bcourts?\b|judge|judicial|juvenile|parole|probation|reentry|\bbail\b|prosecut|public defense|victim|impaired driving|controlled substance|restitution|community custody|clemency|pardon|detention|warrant|legal financial obligation"),
+    ("housing", r"housing|homeless|tenant|landlord|\brent|evict|zoning|dwelling|mobile home|manufactured home|condominium|residential"),
+    ("education", r"school|student|teacher|educat|college|universit|tuition|early learning|child care|childcare|apprentice|higher ed|postsecondary"),
+    ("health", r"health|medical|hospital|behavioral|\bmental|substance use|opioid|fentanyl|medicaid|pharma|prescription|nurs|physician|long-term care|long term care|dental|disease|vaccin|overdose"),
+    ("elections", r"election|ballot|\bvot|campaign|redistrict|initiative|referend|public records|open public meeting|state government|ethics|lobby|secretary of state|civic"),
+    ("environment", r"environment|climate|energy|electric|utilit|carbon|emission|pollut|water|salmon|wildlife|\bfish|forest|wildfire|solar|nuclear|data center|recycl|waste|agricultur|\bfarm|livestock|pesticide|natural resource|orca|shoreline|parks?\b"),
+    ("transportation", r"transport|highway|\broads?\b|vehicle|driver|transit|ferr|\brail|bicycl|traffic|\btoll|aviation|airport|freight"),
+    ("budget", r"\btax|budget|appropriat|revenue|fiscal|\bbonds?\b|\blevy|levies|capital budget|ways (?:&|and) means|(?<!campaign )finance|pension|retire"),
+    ("labor", r"worker|employ|wage|labor|union|collective bargain|paid leave|paid family|unemployment|workplace|overtime"),
+    ("families", r"child|famil|foster|human services|food assistance|disabilit|senior|aging|veteran|domestic violence|public assistance|poverty"),
+    ("tribes", r"tribe|tribal|\bindian|native american|indigenous"),
+    ("business", r"consumer|business|commerce|insurance|\bbank|financial|privacy|artificial intelligence|technology|broadband|cannabis|liquor|gambling|\bdata\b|trade|economic development|small business"),
+    ("local", r"\bcount(?:y|ies)\b|\bcit(?:y|ies)\b|municipal|port district|special district|local government|annexation"),
+]
+TOPIC_RE = [(k, re.compile(r, re.I)) for k, r in TOPIC_WORDS]
+# Committees that weigh the cost of nearly everything shouldn't tag every
+# bill they hear as a budget bill.
+FISCAL_COMMITTEE = re.compile(r"appropriations|ways (?:&|and) means|\bfinance\b|capital budget", re.I)
+
+
+def topics_for(text):
+    return [k for k, r in TOPIC_RE if r.search(text or "")]
+
+
+def tag_legislature(e):
+    """Topic keys on the meeting and on each of its bills."""
+    committee = re.sub(r"\(.*?\)", "", e["title"])
+    from_committee = topics_for(committee)
+    found = list(from_committee)
+    for b in e.get("bills", []):
+        own = topics_for(b.get("about", ""))
+        b["topics"] = own or ([] if FISCAL_COMMITTEE.search(committee) else from_committee)
+        found += b["topics"]
+    for h in e.get("highlights", []):
+        found += topics_for(h)
+    keys = [k for k, _ in TOPIC_WORDS]
+    e["topics"] = sorted(set(found), key=keys.index)
+    return e
+
+
 def fetch_wsl_committees(src, start_day, end_day, tz):
     xml_text = get(f"{WSL}/GetCommitteeMeetings",
                    {"beginDate": start_day.isoformat(), "endDate": end_day.isoformat()}).text
@@ -849,6 +898,8 @@ def fetch_wsl_committees(src, start_day, end_day, tz):
             e["note"] = ("This meeting includes a public hearing. You can sign in, send written "
                          "testimony or sign up to testify remotely through the Legislature's "
                          "Committee Sign-In page.")
+    for e in events:
+        tag_legislature(e)
     return events
 
 
