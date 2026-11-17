@@ -65,7 +65,7 @@ def make_event(src, *, title, start, end=None, all_day=False, location="", url="
     # Hosts often prefix the title ("Canceled: Board Work Session"); the site
     # shows its own Cancelled tag, so drop the prefix.
     title = re.sub(r"^[\s*]*cancel+ed[\s*]*(?:[:\-–]\s*|\s+(?=\S))", "", title or "", flags=re.I)
-    title = re.sub(r"\s*[-–:(]\s*cancel+ed\s*\)?\s*$", "", title, flags=re.I)
+    title = re.sub(r"\s*[-–:(,]\s*(?:meeting\s+)?cancel+ed\s*\)?\s*$", "", title, flags=re.I)
     # The date and time are shown separately, so drop them from the title:
     # "Council Meeting - 08 Dec 2026 @ 6:00PM", "Workshop of November 16, 2026",
     # "2026.11.10 City Council Meeting", "Civil Service Commission 11/12/26".

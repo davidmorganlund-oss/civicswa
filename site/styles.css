@@ -73,7 +73,7 @@ h2 { margin: 0; font-family: var(--display); font-weight: 700; font-size: 1.75re
 .event.is-cancelled h3 { text-decoration: line-through; }
 .event p { margin: 0; font-size: 15px; } .event .meta { color: var(--muted); }
 .actions { display: flex; flex-direction: column; gap: 4px; justify-content: center; flex-shrink: 0; }
-.actions a, .link { padding: 10px 4px; font-weight: 600; font-size: 15px; }
+.actions a, .link { padding: 6px 4px; font-weight: 600; font-size: 15px; }
 .empty { margin: 0; padding: 28px 20px; background: var(--card); border: 1px dashed var(--chip-line); border-radius: 14px; color: var(--muted); }
 .more { align-self: flex-start; min-height: 44px; padding: 0 18px; border-radius: 999px; border: 2px solid var(--petrol); background: transparent; color: var(--petrol); font: inherit; font-weight: 600; cursor: pointer; }
 
@@ -151,3 +151,20 @@ footer p { margin: 0; flex: 1 1 320px; }
 .eyebrow.light { color: #FBD3C2; margin: 0; }
 
 .chip[hidden] { display: none; }
+
+/* Search, meeting links and focus */
+.find { display: flex; flex-direction: column; gap: 6px; margin-bottom: 14px; }
+.find label { font-weight: 600; font-size: 15px; }
+.find input { height: 48px; padding: 0 14px; border-radius: 10px; border: 2px solid var(--chip-line); background: var(--card); color: var(--ink); font: inherit; font-size: 16px; }
+.tag.schedule { background: var(--tint); color: var(--petrol); margin-left: 6px; }
+.actions .share { background: none; border: 0; padding: 6px 4px; font: inherit; font-weight: 600; font-size: 15px; color: var(--petrol); text-decoration: underline; cursor: pointer; text-align: left; }
+.event.is-focus { outline: 3px solid var(--accent); outline-offset: 4px; border-radius: 12px; }
+
+/* Coverage page */
+.cov { padding: 0; }
+.cov summary { padding: 16px 20px; font-weight: 600; cursor: pointer; }
+.cov > p, .cov > a { margin: 0 20px 16px; display: block; }
+.cov-rows { margin: 0 20px 16px; padding-left: 20px; display: flex; flex-direction: column; gap: 6px; }
+.cov-state { color: var(--muted); font-size: 14px; }
+.cov-state.warn { color: var(--accent-ink); font-weight: 600; }
+.site-links { display: flex; flex-wrap: wrap; gap: 6px 18px; }

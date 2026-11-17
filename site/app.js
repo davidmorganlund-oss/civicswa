@@ -21,7 +21,7 @@
   function savePlace(p) { try { localStorage.setItem(KEY, JSON.stringify(p)); } catch (e) { /* private mode */ } }
   function slug(c) { return c.toLowerCase().replace(/[^a-z]+/g, '-').replace(/^-|-$/g, ''); }
 
-  var state = { events: [], sources: [], local: {}, connected: null, cat: 'all', county: '', city: '', days: 14 };
+  var state = { events: [], sources: [], local: {}, connected: null, cat: 'all', county: '', city: '', days: 14, q: '', focus: '' };
   var $ = function (id) { return document.getElementById(id); };
 
   function el(tag, cls, text) {
@@ -62,6 +62,7 @@
       var key = e.start.slice(0, 10);
       if (key < from || key > to) return false;
       if (cat !== 'all' && e.category !== cat) return false;
+      if (state.q && !matches(e, state.q)) return false;
       // Legislature meetings belong to everyone: they show statewide, and in a
       // county view when the "State Legislature" filter is on.
       if (e.county === 'Statewide') return !state.county || cat === 'legislature';
@@ -70,6 +71,13 @@
       return true;
     });
   }
+
+  // Search looks at the meeting name, the host, the place and agenda items.
+  function matches(e, q) {
+    var hay = [e.title, e.host, e.location, (e.highlights || []).join(' '), e.area].join(' ').toLowerCase();
+    return q.toLowerCase().split(/\s+/).filter(Boolean).every(function (w) { return hay.indexOf(w) !== -1; });
+  }
+  var SCHEDULE_PREFIX = 'From the regular meeting schedule';
 
   function icsLink(e) {
     var p = parts(e.start);
@@ -115,11 +123,13 @@
 
   function card(e) {
     var p = parts(e.start);
-    var art = el('article', 'event' + (e.cancelled ? ' is-cancelled' : ''));
+    var art = el('article', 'event' + (e.cancelled ? ' is-cancelled' : '') + (state.focus === e.id ? ' is-focus' : ''));
+    art.id = 'm-' + e.id;
     art.appendChild(el('div', 'when', e.all_day ? 'Time not listed' : clock(p)));
 
     var what = el('div', 'what');
     what.appendChild(el('span', 'tag' + (e.cancelled ? ' cancelled' : ''), e.cancelled ? 'Cancelled' : (LABELS[e.category] || 'Other')));
+    if (!e.cancelled && (e.note || '').indexOf(SCHEDULE_PREFIX) === 0) what.appendChild(el('span', 'tag schedule', 'Regular schedule: confirm first'));
     what.appendChild(el('h3', null, e.title));
     what.appendChild(el('p', 'meta', e.host + (e.location ? ' · ' + e.location : '')));
     if (e.highlights && e.highlights.length) {
@@ -145,6 +155,17 @@
     if (safeUrl(e.url)) link(safeUrl(e.url), 'Details from the host');
     if (safeUrl(e.agenda_url)) link(safeUrl(e.agenda_url), 'Agenda');
     if (!e.cancelled) link(icsLink(e), 'Add to my calendar', 'civicswa-event.ics');
+    if (!e.cancelled) link(e.category === 'legislature' ? 'guides/weigh-in-on-a-state-bill.html' : 'guides/speak-at-a-public-meeting.html', 'How to take part');
+    var share = el('button', 'share', 'Copy link');
+    share.type = 'button';
+    share.setAttribute('aria-label', 'Copy a link to ' + e.title + ', ' + dayLabel(p));
+    share.addEventListener('click', function () {
+      var url = location.origin + location.pathname + '?m=' + encodeURIComponent(e.id);
+      var done = function () { share.textContent = 'Link copied'; setTimeout(function () { share.textContent = 'Copy link'; }, 2000); };
+      if (navigator.clipboard) navigator.clipboard.writeText(url).then(done, function () { prompt('Copy this link:', url); });
+      else prompt('Copy this link:', url);
+    });
+    actions.appendChild(share);
     art.appendChild(actions);
     return art;
   }
@@ -171,7 +192,8 @@
       list.appendChild(notConnected());
     } else if (!rows.length) {
       list.appendChild(el('p', 'empty', state.events.length
-        ? 'Nothing of this type is listed for these dates. Try another filter or show more weeks.'
+        ? (state.q ? 'No meetings match “' + state.q + '” for these dates. Try another word, a wider area or more weeks.'
+          : 'Nothing of this type is listed for these dates. Try another filter or show more weeks.')
         : 'No events are loaded yet. The calendar fills in after its first nightly run.'));
     }
     var lastDay = '';
@@ -180,6 +202,8 @@
       if (p.key !== lastDay) { list.appendChild(el('h3', 'day', dayLabel(p))); lastDay = p.key; }
       list.appendChild(card(e));
     });
+
+    structuredData(rows.slice(0, 40));
 
     var lastKey = state.events.length ? state.events[state.events.length - 1].start.slice(0, 10) : from;
     $('more').hidden = to >= lastKey;
@@ -191,7 +215,34 @@
     });
   }
 
+  // Event markup for search engines, for the meetings on screen.
+  function structuredData(rows) {
+    var old = document.getElementById('ld-events');
+    if (old) old.remove();
+    if (!rows.length) return;
+    var tag = document.createElement('script');
+    tag.type = 'application/ld+json';
+    tag.id = 'ld-events';
+    tag.textContent = JSON.stringify(rows.map(function (e) {
+      return {
+        '@context': 'https://schema.org', '@type': 'Event', name: e.title + ' (' + e.host + ')',
+        startDate: e.start, endDate: e.end || undefined,
+        eventStatus: 'https://schema.org/' + (e.cancelled ? 'EventCancelled' : 'EventScheduled'),
+        eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+        location: { '@type': 'Place', name: e.location || e.host, address: (e.area !== 'countywide' ? e.area + ', ' : '') + (e.county !== 'Statewide' ? e.county + ' County, ' : '') + 'WA' },
+        organizer: { '@type': 'GovernmentOrganization', name: e.host, url: safeUrl(e.url) || undefined },
+        isAccessibleForFree: true, url: location.origin + location.pathname + '?m=' + encodeURIComponent(e.id)
+      };
+    }));
+    document.head.appendChild(tag);
+  }
+
   function setup() {
+    var q = $('q'), timer;
+    q.addEventListener('input', function () {
+      clearTimeout(timer);
+      timer = setTimeout(function () { state.q = q.value.trim(); render(); }, 200);
+    });
     CATEGORIES.forEach(function (c) {
       var b = el('button', 'chip', c.label);
       b.type = 'button';
@@ -241,6 +292,9 @@
       a.href = href; a.rel = 'noopener';
       box.appendChild(a);
     }
+    var cov = el('a', 'link', 'See what the calendar covers');
+    cov.href = 'coverage.html';
+    box.appendChild(cov);
     return box;
   }
   function fillCities() {
@@ -278,8 +332,24 @@
     state.status = res[1];
     state.sources = res[1].sources || [];
     fillCounties();
+    // A shared link to one meeting: show it, whatever place or filter this
+    // browser had saved, and bring it into view.
+    var m = (location.search.match(/[?&]m=([A-Za-z0-9_-]+)/) || [])[1];
+    var hit = m && state.events.filter(function (e) { return e.id === m; })[0];
+    if (hit) {
+      state.focus = hit.id; state.cat = 'all';
+      state.county = hit.county === 'Statewide' ? '' : hit.county;
+      state.city = hit.area !== 'countywide' ? hit.area : '';
+      var span = Math.ceil((new Date(hit.start.slice(0, 10) + 'T12:00:00Z') - new Date(todayKey() + 'T12:00:00Z')) / 864e5);
+      if (span > state.days) state.days = span;
+      $('county').value = state.county;
+    }
     fillCities();
     render();
+    if (hit) {
+      var node = document.getElementById('m-' + hit.id);
+      if (node) { node.scrollIntoView({ block: 'center' }); node.setAttribute('tabindex', '-1'); node.focus({ preventScroll: true }); }
+    }
   }).catch(function () {
     $('list').textContent = '';
     $('list').appendChild(el('p', 'empty', 'The calendar could not be loaded. Please try again later.'));
