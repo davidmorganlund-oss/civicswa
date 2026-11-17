@@ -9,10 +9,10 @@
     { id: 'hearing', label: 'Public hearings' },
     { id: 'legislature', label: 'State Legislature' },
     { id: 'school', label: 'School boards' },
-    { id: 'library', label: 'Library programs' },
+    { id: 'library', label: 'Libraries' },
     { id: 'other', label: 'Other' }
   ];
-  var LABELS = { legislature: 'State Legislature', council: 'Councils and commissions', hearing: 'Public hearings', school: 'School boards', library: 'Library programs', other: 'Other' };
+  var LABELS = { legislature: 'State Legislature', council: 'Councils and commissions', hearing: 'Public hearings', school: 'School boards', library: 'Libraries', other: 'Other' };
 
   // The visitor's county and city, shared with the Engage guides' "Near you"
   // boxes and the representatives lookup. Kept in this browser only.
