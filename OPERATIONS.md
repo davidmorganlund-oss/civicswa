@@ -42,6 +42,10 @@ Rules we keep: respect sites that block automated readers or ask them to stay ou
 
 ## Accounts and renewals
 
+- Google Search Console: property https://civicswa.org/, verified by the file
+  `site/googleff798193875b3f67.html`. Don't delete that file. The sitemap is submitted there.
+- Corrections and accessibility reports go to admin@barnoneinc.org.
+
 - GitHub repository: `davidmorganlund-oss/civicswa`. Give at least one other BarNone
   person admin access so the site doesn't depend on one account.
 - Domain: civicswa.org at Namecheap. Keep auto-renew on.
