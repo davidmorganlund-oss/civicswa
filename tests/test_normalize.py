@@ -278,8 +278,9 @@ def test_legislature_committees():
       <ItemDescription>Concerning library hours.</ItemDescription></CommitteeMeetingItem>
       <CommitteeMeetingItem><HearingTypeDescription>Work Session</HearingTypeDescription><BillId/>
       <ItemDescription>2027 Session Budget Preview.</ItemDescription></CommitteeMeetingItem></ArrayOfCommitteeMeetingItem>"""
-    got, hearing = build.wsl_items(items)
+    got, hearing, bills = build.wsl_items(items)
     assert got == ["Public Hearing: HB 1001 – Concerning library hours", "2027 Session Budget Preview"] and hearing
+    assert bills == [{"id": "HB 1001", "about": "Concerning library hours", "kind": "Public Hearing"}]
 
 
 def test_diligent_school_board_portal():

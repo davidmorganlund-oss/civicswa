@@ -74,7 +74,8 @@
 
   // Search looks at the meeting name, the host, the place and agenda items.
   function matches(e, q) {
-    var hay = [e.title, e.host, e.location, (e.highlights || []).join(' '), e.area].join(' ').toLowerCase();
+    var bills = (e.bills || []).map(function (b) { return b.id + ' ' + b.id.replace(/\s+/g, '') + ' ' + b.about; }).join(' ');
+    var hay = [e.title, e.host, e.location, (e.highlights || []).join(' '), e.area, bills].join(' ').toLowerCase();
     return q.toLowerCase().split(/\s+/).filter(Boolean).every(function (w) { return hay.indexOf(w) !== -1; });
   }
   var SCHEDULE_PREFIX = 'From the regular meeting schedule';
@@ -121,6 +122,28 @@
     return p;
   }
 
+  // Bills on a Legislature agenda, each linked to its summary page. Searching
+  // for a bill number opens this list so the match is visible.
+  function billList(e) {
+    var year = e.start.slice(0, 4);
+    var box = el('details', 'bills');
+    var n = e.bills.length;
+    box.appendChild(el('summary', null, n + (n === 1 ? ' bill' : ' bills') + ' on this agenda'));
+    if (state.q && /\d/.test(state.q)) box.open = true;
+    var ul = el('ul');
+    e.bills.forEach(function (b) {
+      var li = el('li');
+      var a = el('a', null, b.id);
+      a.href = 'https://app.leg.wa.gov/billsummary?BillNumber=' + encodeURIComponent(b.id.replace(/^\D+\s*/, '')) + '&Year=' + year;
+      a.rel = 'noopener';
+      li.appendChild(a);
+      li.appendChild(document.createTextNode((b.kind ? ' · ' + b.kind : '') + (b.about ? ': ' + b.about : '')));
+      ul.appendChild(li);
+    });
+    box.appendChild(ul);
+    return box;
+  }
+
   function card(e) {
     var p = parts(e.start);
     var art = el('article', 'event' + (e.cancelled ? ' is-cancelled' : '') + (state.focus === e.id ? ' is-focus' : ''));
@@ -141,6 +164,7 @@
       box.appendChild(ul);
       what.appendChild(box);
     }
+    if (e.bills && e.bills.length) what.appendChild(billList(e));
     if (e.note) what.appendChild(noteNode(e.note));
     art.appendChild(what);
 
@@ -156,6 +180,7 @@
     if (safeUrl(e.agenda_url)) link(safeUrl(e.agenda_url), 'Read the agenda');
     if (safeUrl(e.url) && e.url !== e.agenda_url) link(safeUrl(e.url), 'Details from the host');
     if (!e.cancelled) link(icsLink(e), 'Add to my calendar', 'civicswa-event.ics');
+    if (!e.cancelled && e.category === 'legislature' && /public hearing/i.test(e.note || '')) link('https://app.leg.wa.gov/csi', 'Testify or sign in');
     if (!e.cancelled) link(e.category === 'legislature' ? 'guides/weigh-in-on-a-state-bill.html' : 'guides/speak-at-a-public-meeting.html', 'How to take part');
     var share = el('button', 'share', 'Copy link');
     share.type = 'button';

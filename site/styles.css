@@ -168,3 +168,9 @@ footer p { margin: 0; flex: 1 1 320px; }
 .cov-state { color: var(--muted); font-size: 14px; }
 .cov-state.warn { color: var(--accent-ink); font-weight: 600; }
 .site-links { display: flex; flex-wrap: wrap; gap: 6px 18px; }
+
+/* Bills on Legislature agendas */
+.bills { margin-top: 10px; font-size: 15px; }
+.bills summary { cursor: pointer; font-weight: 600; color: var(--petrol); }
+.bills ul { margin: 6px 0 0; padding-left: 20px; display: flex; flex-direction: column; gap: 4px; }
+.bills a { font-weight: 600; }

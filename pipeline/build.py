@@ -812,7 +812,7 @@ def normalize_wsl_meetings(src, xml_text, tz):
 def wsl_items(xml_text):
     """Agenda items as 'Public hearing: HB 1234 – Concerning ...' or plain work-session topics."""
     import xml.etree.ElementTree as ET
-    out, hearing = [], False
+    out, hearing, bills = [], False, []
     for i in ET.fromstring(xml_text).iter():
         if local(i.tag) != "CommitteeMeetingItem":
             continue
@@ -824,7 +824,9 @@ def wsl_items(xml_text):
         if kind and kind.lower() not in ("work session", "agenda", "other"):
             text = f"{kind}: {text}"
         out.append(text)
-    return out, hearing
+        if bill and not any(b["id"] == bill for b in bills):
+            bills.append({"id": bill, "about": desc[:160], "kind": kind})
+    return out, hearing, bills
 
 
 def fetch_wsl_committees(src, start_day, end_day, tz):
@@ -835,11 +837,14 @@ def fetch_wsl_committees(src, start_day, end_day, tz):
         if e["cancelled"] or not soon(e, start_day) or not e.get("_agenda"):
             continue
         try:
-            items, hearing = wsl_items(get(f"{WSL}/GetCommitteeMeetingItems", {"agendaId": e["_agenda"]}).text)
+            items, hearing, bills = wsl_items(get(f"{WSL}/GetCommitteeMeetingItems", {"agendaId": e["_agenda"]}).text)
         except Exception as exc:
             print(f"[info] legislature: no items for {e['_agenda']}: {exc}", file=sys.stderr)
             continue
         add_highlights(e, items)
+        if bills:
+            # Every bill on the agenda, so people can search for theirs.
+            e["bills"] = bills[:40]
         if hearing:
             e["note"] = ("This meeting includes a public hearing. You can sign in, send written "
                          "testimony or sign up to testify remotely through the Legislature's "
