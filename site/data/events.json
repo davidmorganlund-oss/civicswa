@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T11:20:41-08:00",
+ "generated": "2026-11-17T11:26:58-08:00",
  "events": [
   {
    "id": "b8824637c2c6",
@@ -99,7 +99,7 @@
    "all_day": false,
    "location": "Bellevue WA 98007",
    "url": "https://bsd405.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=690",
-   "agenda_url": "",
+   "agenda_url": "https://bsd405.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=690",
    "note": "",
    "cancelled": false
   },
@@ -133,7 +133,7 @@
    "all_day": false,
    "location": "Richland City Hall ~ Parkway Conference Room, 625 Swift Boulevard",
    "url": "https://richlandwa.portal.civicclerk.com/event/6103/overview",
-   "agenda_url": "",
+   "agenda_url": "https://richlandwa.portal.civicclerk.com/event/6103/files/agenda/14060",
    "note": "3rd Tuesday of the Month",
    "cancelled": false,
    "highlights": [
@@ -156,7 +156,7 @@
    "all_day": false,
    "location": "Zoom and City Hall, 400 SW 152nd St, Burien, WA",
    "url": "https://burienwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4615",
-   "agenda_url": "",
+   "agenda_url": "https://burienwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4615",
    "note": "",
    "cancelled": false
   },
@@ -190,7 +190,7 @@
    "all_day": false,
    "location": "Prosser",
    "url": "https://bentoncowa.portal.civicclerk.com/event/1317/overview",
-   "agenda_url": "",
+   "agenda_url": "https://bentoncowa.portal.civicclerk.com/event/1317/files/agenda/2015",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -211,7 +211,7 @@
    "all_day": false,
    "location": "Richland City Hall ~ Parkway Conference Room, 625 Swift Boulevard",
    "url": "https://richlandwa.portal.civicclerk.com/event/6116/overview",
-   "agenda_url": "",
+   "agenda_url": "https://richlandwa.portal.civicclerk.com/event/6116/files/agenda/14074",
    "note": "3rd Tuesday of Every Month",
    "cancelled": false
   },
@@ -228,7 +228,7 @@
    "all_day": false,
    "location": "Board of County Commissioners' Conference Room - 1116 W. Broadway Avenue, First Floor, Room 101, Spokane County Courthouse, Spokane",
    "url": "https://spokanecowa.portal.civicclerk.com/event/2332/overview",
-   "agenda_url": "",
+   "agenda_url": "https://spokanecowa.portal.civicclerk.com/event/2332/files/agenda/2659",
    "note": "Meets weekly on Tuesday at 9:00 AM",
    "cancelled": false
   },
@@ -375,7 +375,7 @@
    "all_day": false,
    "location": "",
    "url": "https://clallamcowa.portal.civicclerk.com/event/4872/overview",
-   "agenda_url": "",
+   "agenda_url": "https://clallamcowa.portal.civicclerk.com/event/4872/files/agenda/7609",
    "note": "",
    "cancelled": true
   },
@@ -500,7 +500,7 @@
    "all_day": false,
    "location": "",
    "url": "https://gigharborwa.portal.civicclerk.com/event/890/overview",
-   "agenda_url": "",
+   "agenda_url": "https://gigharborwa.portal.civicclerk.com/event/890/files/agenda/2650",
    "note": "",
    "cancelled": false
   },
@@ -648,7 +648,7 @@
    "all_day": false,
    "location": "223 East 4th Street, Room 160, Port Angeles",
    "url": "https://clallamcowa.portal.civicclerk.com/event/298/overview",
-   "agenda_url": "",
+   "agenda_url": "https://clallamcowa.portal.civicclerk.com/event/298/files/agenda/7607",
    "note": "",
    "cancelled": true
   },
@@ -666,7 +666,7 @@
    "location": "Hybrid Meeting",
    "url": "https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12844&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59",
    "agenda_url": "https://kingcounty.legistar1.com/kingcounty/meetings/2026/11/12844_A_King_County_Flood_Control_District_26-11-17_Meeting_Agenda.pdf",
-   "note": "SPECIAL MEETING",
+   "note": "SPECIAL MEETING DRAFT MINUTES",
    "cancelled": false,
    "highlights": [
     "A RESOLUTION relating to the operation and finances of the King County Flood Control Zone District, adopting the 2027 budget and work\u2026",
@@ -745,7 +745,7 @@
    "all_day": false,
    "location": "Public Works Building - 1026 West Broadway Avenue, Lower Level, Commissioners' Hearing Room, Spokane",
    "url": "https://spokanecowa.portal.civicclerk.com/event/2178/overview",
-   "agenda_url": "",
+   "agenda_url": "https://spokanecowa.portal.civicclerk.com/event/2178/files/agenda/2660",
    "note": "Meets weekly on Tuesday at 2:00 PM",
    "cancelled": false
   },
@@ -762,7 +762,7 @@
    "all_day": false,
    "location": "119 West First Street, City Council Chambers, Cle Elum",
    "url": "https://cleelumwa.portal.civicclerk.com/event/1186/overview",
-   "agenda_url": "",
+   "agenda_url": "https://cleelumwa.portal.civicclerk.com/event/1186/files/agenda/3896",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -851,7 +851,7 @@
    "all_day": false,
    "location": "501 N Anderson Street, Council Conference Room, Ellensburg",
    "url": "https://ellensburgwa.portal.civicclerk.com/event/1707/overview",
-   "agenda_url": "",
+   "agenda_url": "https://ellensburgwa.portal.civicclerk.com/event/1707/files/agenda/5076",
    "note": "",
    "cancelled": false
   },
@@ -902,7 +902,7 @@
    "all_day": false,
    "location": "Mt. Si Adjournment Room @ City Hall, 920 SE Cedar Falls Way, North Bend",
    "url": "https://northbendwa.portal.civicclerk.com/event/144/overview",
-   "agenda_url": "",
+   "agenda_url": "https://northbendwa.portal.civicclerk.com/event/144/files/agenda/3196",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -959,7 +959,7 @@
    "all_day": false,
    "location": "",
    "url": "https://sumnerwa.portal.civicclerk.com/event/1966/overview",
-   "agenda_url": "",
+   "agenda_url": "https://sumnerwa.portal.civicclerk.com/event/1966/files/agenda/5224",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -1033,7 +1033,7 @@
    "all_day": false,
    "location": "Kennewick City Hall - Cascade Conference Room - 210 W 6th Ave, Kennewick WA 99336, Kennewick",
    "url": "https://kennewickwa.portal.civicclerk.com/event/2350/overview",
-   "agenda_url": "",
+   "agenda_url": "https://kennewickwa.portal.civicclerk.com/event/2350/files/agenda/3791",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -1129,7 +1129,7 @@
    "all_day": false,
    "location": "119 West First Street, City Council Chambers, Cle Elum",
    "url": "https://cleelumwa.portal.civicclerk.com/event/1199/overview",
-   "agenda_url": "",
+   "agenda_url": "https://cleelumwa.portal.civicclerk.com/event/1199/files/agenda/3909",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -1152,7 +1152,7 @@
    "all_day": false,
    "location": "8236 SE 24th St, Mercer Island",
    "url": "https://mercerislandwa.portal.civicclerk.com/event/1272/overview",
-   "agenda_url": "",
+   "agenda_url": "https://mercerislandwa.portal.civicclerk.com/event/1272/files/agenda/2868",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -1209,7 +1209,7 @@
    "all_day": false,
    "location": "38624 SE River St., 38624 SE River St., Snoqualmie",
    "url": "https://snoqualmiewa.portal.civicclerk.com/event/946/overview",
-   "agenda_url": "",
+   "agenda_url": "https://snoqualmiewa.portal.civicclerk.com/event/946/files/agenda/2215",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -1342,7 +1342,7 @@
    "all_day": false,
    "location": "Kennewick Police Station - KPD Training Room - 211 W 6th Ave, Kennewick WA 99336",
    "url": "https://kennewickwa.portal.civicclerk.com/event/2079/overview",
-   "agenda_url": "",
+   "agenda_url": "https://kennewickwa.portal.civicclerk.com/event/2079/files/agenda/3804",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -1365,7 +1365,7 @@
    "all_day": false,
    "location": "1808 Main Street (via Zoom), Lake Stevens",
    "url": "https://lakestevenswa.portal.civicclerk.com/event/878/overview",
-   "agenda_url": "",
+   "agenda_url": "https://lakestevenswa.portal.civicclerk.com/event/878/files/agenda/3841",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -1427,7 +1427,7 @@
    "all_day": false,
    "location": "Council Chambers, 190 SE Crestview Street",
    "url": "https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=2033",
-   "agenda_url": "",
+   "agenda_url": "https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=2033",
    "note": "",
    "cancelled": false
   },
@@ -1444,7 +1444,7 @@
    "all_day": false,
    "location": "801 228th Ave SE, Sammamish WA",
    "url": "https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4961",
-   "agenda_url": "",
+   "agenda_url": "https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4961",
    "note": "",
    "cancelled": false
   },
@@ -1461,7 +1461,7 @@
    "all_day": false,
    "location": "Council Chambers, 152 W Cedar St., Sequim, WA 98382",
    "url": "https://sequimwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=305",
-   "agenda_url": "",
+   "agenda_url": "https://sequimwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=305",
    "note": "",
    "cancelled": false
   },
@@ -1529,7 +1529,7 @@
    "all_day": false,
    "location": "Evergreen Room - Administrative Service Center 13413 NE LeRoy Haagen Memorial Drive",
    "url": "https://evergreenps.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=640",
-   "agenda_url": "",
+   "agenda_url": "https://evergreenps.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=640",
    "note": "",
    "cancelled": false
   },
@@ -1546,7 +1546,7 @@
    "all_day": false,
    "location": "Norm Dicks Government Center, 345 6th Street, Bremerton, WA 98337",
    "url": "https://krl.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=503",
-   "agenda_url": "",
+   "agenda_url": "https://krl.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=503",
    "note": "",
    "cancelled": false
   },
@@ -1654,7 +1654,7 @@
    "all_day": false,
    "location": "9002 Main St E, Bonney Lake",
    "url": "https://bonneylakewa.portal.civicclerk.com/event/1280/overview",
-   "agenda_url": "",
+   "agenda_url": "https://bonneylakewa.portal.civicclerk.com/event/1280/files/agenda/6502",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -1711,7 +1711,7 @@
    "all_day": false,
    "location": "Zoom and City Hall, 3rd Floor, 400 SW 152nd St, Burien, WA",
    "url": "https://burienwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4581",
-   "agenda_url": "",
+   "agenda_url": "https://burienwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4581",
    "note": "",
    "cancelled": false
   },
@@ -1745,7 +1745,7 @@
    "all_day": false,
    "location": "119 West First Street, City Council Chambers, Cle Elum",
    "url": "https://cleelumwa.portal.civicclerk.com/event/929/overview",
-   "agenda_url": "",
+   "agenda_url": "https://cleelumwa.portal.civicclerk.com/event/929/files/agenda/3898",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -1768,7 +1768,7 @@
    "all_day": false,
    "location": "625 S College Avenue, College Place",
    "url": "https://collegeplacewa.portal.civicclerk.com/event/175/overview",
-   "agenda_url": "",
+   "agenda_url": "https://collegeplacewa.portal.civicclerk.com/event/175/files/agenda/2044",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -1825,7 +1825,7 @@
    "all_day": false,
    "location": "215 S Granite Ave, Granite Falls",
    "url": "https://granitefallswa.portal.civicclerk.com/event/2167/overview",
-   "agenda_url": "",
+   "agenda_url": "https://granitefallswa.portal.civicclerk.com/event/2167/files/agenda/7247",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -1846,7 +1846,7 @@
    "all_day": false,
    "location": "Tibbetts Creek Manor, 750 17th Ave NW",
    "url": "https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=21686",
-   "agenda_url": "",
+   "agenda_url": "https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=21686",
    "note": "",
    "cancelled": false
   },
@@ -1863,7 +1863,7 @@
    "all_day": false,
    "location": "203 S. Pacific Ave, Kelso",
    "url": "https://kelsowa.portal.civicclerk.com/event/358/overview",
-   "agenda_url": "",
+   "agenda_url": "https://kelsowa.portal.civicclerk.com/event/358/files/agenda/3696",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -1886,7 +1886,7 @@
    "all_day": false,
    "location": "Lacey City Hall Council Chambers",
    "url": "https://laceywa.portal.civicclerk.com/event/1394/overview",
-   "agenda_url": "",
+   "agenda_url": "https://laceywa.portal.civicclerk.com/event/1394/files/agenda/4335",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -1909,7 +1909,7 @@
    "all_day": false,
    "location": "Virtual - Audio Meeting",
    "url": "https://millcreek.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=12925",
-   "agenda_url": "",
+   "agenda_url": "https://millcreek.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=12925",
    "note": "",
    "cancelled": false
   },
@@ -1943,7 +1943,7 @@
    "all_day": false,
    "location": "Monroe City Hall at 806 West Main Street and Zoom Online Meeting Platform",
    "url": "https://monroewa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=8283",
-   "agenda_url": "",
+   "agenda_url": "https://monroewa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=8283",
    "note": "",
    "cancelled": false
   },
@@ -2017,7 +2017,7 @@
    "all_day": false,
    "location": "Richland City Hall ~ Council Chambers, 625 Swift Boulevard",
    "url": "https://richlandwa.portal.civicclerk.com/event/6095/overview",
-   "agenda_url": "",
+   "agenda_url": "https://richlandwa.portal.civicclerk.com/event/6095/files/agenda/14072",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -2057,7 +2057,7 @@
    "all_day": false,
    "location": "38624 SE River St., 38624 SE River St., Snoqualmie",
    "url": "https://snoqualmiewa.portal.civicclerk.com/event/947/overview",
-   "agenda_url": "",
+   "agenda_url": "https://snoqualmiewa.portal.civicclerk.com/event/947/files/agenda/2212",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -2335,7 +2335,7 @@
    "all_day": false,
    "location": "Council Chambers, 135 E. Sunset Way, Issaquah WA",
    "url": "https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=21553",
-   "agenda_url": "",
+   "agenda_url": "https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=21553",
    "note": "",
    "cancelled": false
   },
@@ -2352,7 +2352,7 @@
    "all_day": false,
    "location": "Kennewick City Hall - Council Chambers & Broadcast Live at www.Go2Kennewick.com , 210 W 6th Ave, Kennewick",
    "url": "https://kennewickwa.portal.civicclerk.com/event/2043/overview",
-   "agenda_url": "",
+   "agenda_url": "https://kennewickwa.portal.civicclerk.com/event/2043/files/agenda/3800",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -2392,7 +2392,7 @@
    "all_day": false,
    "location": "City Hall, Council Chambers, 216 Prospect Street, Port Orchard",
    "url": "https://portorchardwa.portal.civicclerk.com/event/2534/overview",
-   "agenda_url": "",
+   "agenda_url": "https://portorchardwa.portal.civicclerk.com/event/2534/files/agenda/5479",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -2415,7 +2415,7 @@
    "all_day": false,
    "location": "801 228th Ave SE, Sammamish WA",
    "url": "https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4962",
-   "agenda_url": "",
+   "agenda_url": "https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4962",
    "note": "",
    "cancelled": false
   },
@@ -2432,7 +2432,7 @@
    "all_day": false,
    "location": "Sedro-Woolley Municipal Building Council Chambers 325 Metcalf Street, Sedro-Woolley",
    "url": "https://sedrowoolleywa.portal.civicclerk.com/event/626/overview",
-   "agenda_url": "",
+   "agenda_url": "https://sedrowoolleywa.portal.civicclerk.com/event/626/files/agenda/1258",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -2488,7 +2488,7 @@
    "all_day": false,
    "location": "In person and Zoom",
    "url": "https://bethelsd.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=596",
-   "agenda_url": "",
+   "agenda_url": "https://bethelsd.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=596",
    "note": "",
    "cancelled": false
   },
@@ -2539,7 +2539,7 @@
    "all_day": false,
    "location": "10440 Dom Calata Way E, Edgewood",
    "url": "https://edgewoodwa.portal.civicclerk.com/event/1147/overview",
-   "agenda_url": "",
+   "agenda_url": "https://edgewoodwa.portal.civicclerk.com/event/1147/files/agenda/2933",
    "note": "3rd Tuesdays of each month at 7:00pm",
    "cancelled": false,
    "highlights": [
@@ -2596,7 +2596,7 @@
    "all_day": false,
    "location": "",
    "url": "https://kenmorewa.portal.civicclerk.com/event/1817/overview",
-   "agenda_url": "",
+   "agenda_url": "https://kenmorewa.portal.civicclerk.com/event/1817/files/agenda/3228",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -2636,7 +2636,7 @@
    "all_day": false,
    "location": "Monroe City Hall at 806 West Main Street and Zoom Online Meeting Platform",
    "url": "https://monroewa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=8148",
-   "agenda_url": "",
+   "agenda_url": "https://monroewa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=8148",
    "note": "",
    "cancelled": false
   },
@@ -2670,7 +2670,7 @@
    "all_day": false,
    "location": "North Bend City Hall Council Chambers, 920 SE Cedar Falls Way, North Bend",
    "url": "https://northbendwa.portal.civicclerk.com/event/157/overview",
-   "agenda_url": "",
+   "agenda_url": "https://northbendwa.portal.civicclerk.com/event/157/files/agenda/3198",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -2801,7 +2801,7 @@
    "all_day": false,
    "location": "2143 E St NE , Suite 200, Auburn",
    "url": "https://auburnwa.portal.civicclerk.com/event/2275/overview",
-   "agenda_url": "",
+   "agenda_url": "https://auburnwa.portal.civicclerk.com/event/2275/files/agenda/7247",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -2824,7 +2824,7 @@
    "all_day": false,
    "location": "38624 Southeast River Street, Snoqualmie",
    "url": "https://snoqualmiewa.portal.civicclerk.com/event/981/overview",
-   "agenda_url": "",
+   "agenda_url": "https://snoqualmiewa.portal.civicclerk.com/event/981/files/agenda/2219",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -2847,7 +2847,7 @@
    "all_day": false,
    "location": "Vancouver City Hall, Council Chambers, 415 West 6th Street, Vancouver",
    "url": "https://vancouverwa.portal.civicclerk.com/event/1573/overview",
-   "agenda_url": "",
+   "agenda_url": "https://vancouverwa.portal.civicclerk.com/event/1573/files/agenda/3221",
    "note": "",
    "cancelled": false
   },
@@ -2898,7 +2898,7 @@
    "all_day": false,
    "location": "Council Chambers, 190 SE Crestview Street",
    "url": "https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=2061",
-   "agenda_url": "",
+   "agenda_url": "https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=2061",
    "note": "",
    "cancelled": false
   },
@@ -2983,7 +2983,7 @@
    "all_day": false,
    "location": "Small Legislative Conference Room, 55 Second Street, Friday Harbor",
    "url": "https://sanjuancowa.portal.civicclerk.com/event/4176/overview",
-   "agenda_url": "",
+   "agenda_url": "https://sanjuancowa.portal.civicclerk.com/event/4176/files/agenda/6427",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -3095,7 +3095,7 @@
    "all_day": false,
    "location": "625 S College Avenue, College Place",
    "url": "https://collegeplacewa.portal.civicclerk.com/event/1385/overview",
-   "agenda_url": "",
+   "agenda_url": "https://collegeplacewa.portal.civicclerk.com/event/1385/files/agenda/2034",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -3118,7 +3118,7 @@
    "all_day": false,
    "location": "",
    "url": "https://sumnerwa.portal.civicclerk.com/event/2118/overview",
-   "agenda_url": "",
+   "agenda_url": "https://sumnerwa.portal.civicclerk.com/event/2118/files/agenda/5228",
    "note": "",
    "cancelled": false
   },
@@ -3203,7 +3203,7 @@
    "all_day": false,
    "location": "415 W 6th Street, Vancouver",
    "url": "https://vancouverwa.portal.civicclerk.com/event/1722/overview",
-   "agenda_url": "",
+   "agenda_url": "https://vancouverwa.portal.civicclerk.com/event/1722/files/agenda/3200",
    "note": "",
    "cancelled": false
   },
@@ -3254,7 +3254,7 @@
    "all_day": false,
    "location": "Spokane Convention Center, 334 W Spokane Falls Blvd, Spokane, WA 99201",
    "url": "https://orcasislandschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=219",
-   "agenda_url": "",
+   "agenda_url": "https://orcasislandschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=219",
    "note": "",
    "cancelled": false
   },
@@ -3271,7 +3271,7 @@
    "all_day": false,
    "location": "Chelan City Hall, 135 E Johnson Ave, Chelan",
    "url": "https://chelanwa.portal.civicclerk.com/event/3244/overview",
-   "agenda_url": "",
+   "agenda_url": "https://chelanwa.portal.civicclerk.com/event/3244/files/agenda/4561",
    "note": "",
    "cancelled": false
   },
@@ -3288,7 +3288,7 @@
    "all_day": false,
    "location": "",
    "url": "https://desmoineswa.portal.civicclerk.com/event/5317/overview",
-   "agenda_url": "",
+   "agenda_url": "https://desmoineswa.portal.civicclerk.com/event/5317/files/agenda/8236",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -3343,7 +3343,7 @@
    "all_day": false,
    "location": "Young Room, Neill Public Library",
    "url": "https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=2060",
-   "agenda_url": "",
+   "agenda_url": "https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=2060",
    "note": "",
    "cancelled": false
   },
@@ -3416,7 +3416,7 @@
    "all_day": false,
    "location": "Airport Terminal Charter Room 3625 NE Airport Dr. Bldg. 230 Pullman, WA 99163",
    "url": "https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=2066",
-   "agenda_url": "",
+   "agenda_url": "https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=2066",
    "note": "",
    "cancelled": false
   },
@@ -3433,7 +3433,7 @@
    "all_day": false,
    "location": "415 W 6th ST, Vancouver",
    "url": "https://vancouverwa.portal.civicclerk.com/event/1765/overview",
-   "agenda_url": "",
+   "agenda_url": "https://vancouverwa.portal.civicclerk.com/event/1765/files/agenda/3213",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -3456,7 +3456,7 @@
    "all_day": false,
    "location": "119 West First Street, Cle Elum",
    "url": "https://cleelumwa.portal.civicclerk.com/event/1212/overview",
-   "agenda_url": "",
+   "agenda_url": "https://cleelumwa.portal.civicclerk.com/event/1212/files/agenda/3916",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -3564,7 +3564,7 @@
    "all_day": false,
    "location": "Auditorium, John Stanford Center",
    "url": "https://seattlepublicschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=84",
-   "agenda_url": "",
+   "agenda_url": "https://seattlepublicschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=84",
    "note": "",
    "cancelled": false
   },
@@ -3632,7 +3632,7 @@
    "all_day": false,
    "location": "415 W 6th St, Vancouver, Vancouver",
    "url": "https://vancouverwa.portal.civicclerk.com/event/1768/overview",
-   "agenda_url": "",
+   "agenda_url": "https://vancouverwa.portal.civicclerk.com/event/1768/files/agenda/3216",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -3672,7 +3672,7 @@
    "all_day": false,
    "location": "Auditorium, John Stanford Center",
    "url": "https://seattlepublicschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=71",
-   "agenda_url": "",
+   "agenda_url": "https://seattlepublicschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=71",
    "note": "",
    "cancelled": false
   },
@@ -3706,7 +3706,7 @@
    "all_day": false,
    "location": "Meeting is being held via Zoom; link to meeting is on the Agenda",
    "url": "https://portorchardwa.portal.civicclerk.com/event/2572/overview",
-   "agenda_url": "",
+   "agenda_url": "https://portorchardwa.portal.civicclerk.com/event/2572/files/agenda/5473",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -3746,7 +3746,7 @@
    "all_day": false,
    "location": "WIN Academy",
    "url": "https://cheneysd.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=161",
-   "agenda_url": "",
+   "agenda_url": "https://cheneysd.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=161",
    "note": "",
    "cancelled": false
   },
@@ -3797,7 +3797,7 @@
    "all_day": false,
    "location": "50 Chelan Falls Highway, Chelan",
    "url": "https://chelanwa.portal.civicclerk.com/event/3247/overview",
-   "agenda_url": "",
+   "agenda_url": "https://chelanwa.portal.civicclerk.com/event/3247/files/agenda/4562",
    "note": "",
    "cancelled": false
   },
@@ -3865,7 +3865,7 @@
    "all_day": false,
    "location": "Zoom and City Hall, 1st Floor, 400 SW 152nd St, Burien, WA",
    "url": "https://burienwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4549",
-   "agenda_url": "",
+   "agenda_url": "https://burienwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4549",
    "note": "",
    "cancelled": false
   },
@@ -4001,7 +4001,7 @@
    "all_day": false,
    "location": "Cheney Middle School",
    "url": "https://cheneysd.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=160",
-   "agenda_url": "",
+   "agenda_url": "https://cheneysd.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=160",
    "note": "",
    "cancelled": false
   },
@@ -4160,7 +4160,7 @@
    "all_day": false,
    "location": "Lacey City Hall Executive Board Room",
    "url": "https://laceywa.portal.civicclerk.com/event/1459/overview",
-   "agenda_url": "",
+   "agenda_url": "https://laceywa.portal.civicclerk.com/event/1459/files/agenda/4329",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -4183,7 +4183,7 @@
    "all_day": false,
    "location": "",
    "url": "https://lakestevenswa.portal.civicclerk.com/event/924/overview",
-   "agenda_url": "",
+   "agenda_url": "https://lakestevenswa.portal.civicclerk.com/event/924/files/agenda/3833",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -4263,7 +4263,7 @@
    "all_day": false,
    "location": "Council Chambers, 190 SE Crestview Street",
    "url": "https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=2059",
-   "agenda_url": "",
+   "agenda_url": "https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=2059",
    "note": "",
    "cancelled": false
   },
@@ -4297,7 +4297,7 @@
    "all_day": false,
    "location": "Richland City Hall - Council Chambers, 625 Swift Blvd",
    "url": "https://richlandwa.portal.civicclerk.com/event/6241/overview",
-   "agenda_url": "",
+   "agenda_url": "https://richlandwa.portal.civicclerk.com/event/6241/files/agenda/14086",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -4320,7 +4320,7 @@
    "all_day": false,
    "location": "City Hall Council Chambers",
    "url": "https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4816",
-   "agenda_url": "",
+   "agenda_url": "https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4816",
    "note": "",
    "cancelled": false
   },
@@ -4354,7 +4354,7 @@
    "all_day": false,
    "location": "32905 Cascade View Drive, Sultan WA 98294",
    "url": "https://sultan.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=219",
-   "agenda_url": "",
+   "agenda_url": "https://sultan.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=219",
    "note": "",
    "cancelled": false
   },
@@ -4405,7 +4405,7 @@
    "all_day": false,
    "location": "4500 Columbia Way, Vancouver",
    "url": "https://vancouverwa.portal.civicclerk.com/event/1710/overview",
-   "agenda_url": "",
+   "agenda_url": "https://vancouverwa.portal.civicclerk.com/event/1710/files/agenda/3204",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -4445,7 +4445,7 @@
    "all_day": false,
    "location": "223 East 4th Street, Room 160, Port Angeles",
    "url": "https://clallamcowa.portal.civicclerk.com/event/728/overview",
-   "agenda_url": "",
+   "agenda_url": "https://clallamcowa.portal.civicclerk.com/event/728/files/agenda/7650",
    "note": "",
    "cancelled": false
   },
@@ -4547,7 +4547,7 @@
    "all_day": false,
    "location": "Steilacoom Historical School District Professional Development Center",
    "url": "https://steilacoom.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=69",
-   "agenda_url": "",
+   "agenda_url": "https://steilacoom.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=69",
    "note": "",
    "cancelled": false
   },
@@ -4581,7 +4581,7 @@
    "all_day": false,
    "location": "280 Madison Avenue N, Bainbridge Island",
    "url": "https://bainbridgeislandwa.portal.civicclerk.com/event/1127/overview",
-   "agenda_url": "",
+   "agenda_url": "https://bainbridgeislandwa.portal.civicclerk.com/event/1127/files/agenda/11737",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -4644,7 +4644,7 @@
    "all_day": false,
    "location": "City Hall, 210 E. 4th St.",
    "url": "https://lacenter.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=1632",
-   "agenda_url": "",
+   "agenda_url": "https://lacenter.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=1632",
    "note": "",
    "cancelled": false
   },
@@ -4678,7 +4678,7 @@
    "all_day": false,
    "location": "City Hall Council Chambers",
    "url": "https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4979",
-   "agenda_url": "",
+   "agenda_url": "https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4979",
    "note": "",
    "cancelled": false
   },
@@ -4831,7 +4831,7 @@
    "all_day": false,
    "location": "215 S Granite Ave, Granite Falls",
    "url": "https://granitefallswa.portal.civicclerk.com/event/2150/overview",
-   "agenda_url": "",
+   "agenda_url": "https://granitefallswa.portal.civicclerk.com/event/2150/files/agenda/7252",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -4990,7 +4990,7 @@
    "all_day": false,
    "location": "1609 Beaverton Valley Rd, Friday Harbor",
    "url": "https://sanjuancowa.portal.civicclerk.com/event/4030/overview",
-   "agenda_url": "",
+   "agenda_url": "https://sanjuancowa.portal.civicclerk.com/event/4030/files/agenda/6420",
    "note": "",
    "cancelled": false
   },
@@ -5064,7 +5064,7 @@
    "all_day": false,
    "location": "Annex - Conference Room 2, 1 East Main Street, Auburn",
    "url": "https://auburnwa.portal.civicclerk.com/event/2254/overview",
-   "agenda_url": "",
+   "agenda_url": "https://auburnwa.portal.civicclerk.com/event/2254/files/agenda/7277",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -5161,7 +5161,7 @@
    "all_day": false,
    "location": "",
    "url": "https://sanjuancowa.portal.civicclerk.com/event/4401/overview",
-   "agenda_url": "",
+   "agenda_url": "https://sanjuancowa.portal.civicclerk.com/event/4401/files/agenda/6412",
    "note": "",
    "cancelled": false
   },
@@ -5178,7 +5178,7 @@
    "all_day": false,
    "location": "Town Hall Council Chambers , 60 Second Street, Friday Harbor",
    "url": "https://fridayharborwa.portal.civicclerk.com/event/2194/overview",
-   "agenda_url": "",
+   "agenda_url": "https://fridayharborwa.portal.civicclerk.com/event/2194/files/agenda/4404",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -5201,7 +5201,7 @@
    "all_day": false,
    "location": "415 W 6th Street, Council Chambers - Fl 2, Vancouver",
    "url": "https://vancouverwa.portal.civicclerk.com/event/1766/overview",
-   "agenda_url": "",
+   "agenda_url": "https://vancouverwa.portal.civicclerk.com/event/1766/files/agenda/3199",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -5223,7 +5223,7 @@
    "all_day": false,
    "location": "Davenport Grand, Skybridge Boardroom, 333 W. Spokane Falls Blvd. Spokane, WA 99201",
    "url": "https://bsd405.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=756",
-   "agenda_url": "",
+   "agenda_url": "https://bsd405.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=756",
    "note": "",
    "cancelled": false
   },
@@ -5331,7 +5331,7 @@
    "all_day": false,
    "location": "Spokane Convention Center, Spokane, WA",
    "url": "https://evergreenps.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=653",
-   "agenda_url": "",
+   "agenda_url": "https://evergreenps.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=653",
    "note": "",
    "cancelled": false
   },
@@ -5450,7 +5450,7 @@
    "all_day": false,
    "location": "Steelhead Room, 235 1st Ave. SE, Issaquah",
    "url": "https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=21474",
-   "agenda_url": "",
+   "agenda_url": "https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=21474",
    "note": "",
    "cancelled": false
   },
@@ -5524,7 +5524,7 @@
    "all_day": false,
    "location": "619 Manson Hwy, Chelan",
    "url": "https://chelanwa.portal.civicclerk.com/event/3246/overview",
-   "agenda_url": "",
+   "agenda_url": "https://chelanwa.portal.civicclerk.com/event/3246/files/agenda/4552",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -5700,7 +5700,7 @@
    "all_day": false,
    "location": "7121 E Loop Road, Stevenson",
    "url": "https://stevensonwa.portal.civicclerk.com/event/527/overview",
-   "agenda_url": "",
+   "agenda_url": "https://stevensonwa.portal.civicclerk.com/event/527/files/agenda/1457",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -5723,7 +5723,7 @@
    "all_day": false,
    "location": "",
    "url": "https://clallamcowa.portal.civicclerk.com/event/5305/overview",
-   "agenda_url": "",
+   "agenda_url": "https://clallamcowa.portal.civicclerk.com/event/5305/files/agenda/7648",
    "note": "",
    "cancelled": false
   },
@@ -5740,7 +5740,7 @@
    "all_day": false,
    "location": "Tibbetts Manor, 750 17th Ave. NW, Issaquah",
    "url": "https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=21772",
-   "agenda_url": "",
+   "agenda_url": "https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=21772",
    "note": "",
    "cancelled": false
   },
@@ -5774,7 +5774,7 @@
    "all_day": false,
    "location": "RACC - Columbia Assembly Room - 510 Pioneer Street, Ridgefield, WA 98642",
    "url": "https://ridgefieldwa.portal.civicclerk.com/event/921/overview",
-   "agenda_url": "",
+   "agenda_url": "https://ridgefieldwa.portal.civicclerk.com/event/921/files/agenda/3288",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -5797,7 +5797,7 @@
    "all_day": false,
    "location": "City Hall Council Chambers/Virtual Meeting",
    "url": "https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4971",
-   "agenda_url": "",
+   "agenda_url": "https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4971",
    "note": "",
    "cancelled": false
   },
@@ -5848,7 +5848,7 @@
    "all_day": false,
    "location": "Hybrid: Zoom Online Meeting Platform & In-Person at the Monroe City Hall at 806 West Main Street",
    "url": "https://monroewa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=8250",
-   "agenda_url": "",
+   "agenda_url": "https://monroewa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=8250",
    "note": "",
    "cancelled": false
   },
@@ -5865,7 +5865,7 @@
    "all_day": false,
    "location": "City Hall",
    "url": "https://mountlaketerracewa.portal.civicclerk.com/event/533/overview",
-   "agenda_url": "",
+   "agenda_url": "https://mountlaketerracewa.portal.civicclerk.com/event/533/files/agenda/4441",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -5905,7 +5905,7 @@
    "all_day": false,
    "location": "319 MAIN STREET, SULTAN, WA 98294",
    "url": "https://sultan.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=214",
-   "agenda_url": "",
+   "agenda_url": "https://sultan.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=214",
    "note": "",
    "cancelled": false
   },
@@ -5922,7 +5922,7 @@
    "all_day": false,
    "location": "City Hall, 10220 270th ST NW, Stanwood",
    "url": "https://stanwoodwa.portal.civicclerk.com/event/1028/overview",
-   "agenda_url": "",
+   "agenda_url": "https://stanwoodwa.portal.civicclerk.com/event/1028/files/agenda/8917",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -5978,7 +5978,7 @@
    "all_day": false,
    "location": "",
    "url": "https://sanjuancowa.portal.civicclerk.com/event/3771/overview",
-   "agenda_url": "",
+   "agenda_url": "https://sanjuancowa.portal.civicclerk.com/event/3771/files/agenda/6421",
    "note": "",
    "cancelled": false
   },
@@ -6052,7 +6052,7 @@
    "all_day": false,
    "location": "LOCATION",
    "url": "https://bremertonschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=635",
-   "agenda_url": "",
+   "agenda_url": "https://bremertonschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=635",
    "note": "",
    "cancelled": false
   },
@@ -7183,7 +7183,7 @@
    "all_day": false,
    "location": "",
    "url": "https://kenmorewa.portal.civicclerk.com/event/1777/overview",
-   "agenda_url": "",
+   "agenda_url": "https://kenmorewa.portal.civicclerk.com/event/1777/files/agenda/3249",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -7257,7 +7257,7 @@
    "all_day": false,
    "location": "",
    "url": "https://castlerockwa.portal.civicclerk.com/event/431/overview",
-   "agenda_url": "",
+   "agenda_url": "https://castlerockwa.portal.civicclerk.com/event/431/files/agenda/1450",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -7348,7 +7348,7 @@
    "all_day": false,
    "location": "",
    "url": "https://mountlaketerracewa.portal.civicclerk.com/event/708/overview",
-   "agenda_url": "",
+   "agenda_url": "https://mountlaketerracewa.portal.civicclerk.com/event/708/files/agenda/4445",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -7476,6 +7476,23 @@
    "cancelled": false
   },
   {
+   "id": "d311ebb35ef8",
+   "title": "Board Regular Session Meeting",
+   "host": "Naches Valley School District",
+   "source": "naches-valley-schools",
+   "area": "Naches",
+   "county": "Yakima",
+   "category": "school",
+   "start": "2026-11-23T19:00:00-08:00",
+   "end": "2026-11-23T20:30:00-08:00",
+   "all_day": false,
+   "location": "Naches Valley High School, 101 W. 5th St, Naches, WA 98937, USA",
+   "url": "https://nachesvalley.org",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "037aacae3b03",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
@@ -7493,7 +7510,7 @@
    "cancelled": false
   },
   {
-   "id": "d311ebb35ef8",
+   "id": "baaee54074a9",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -7845,7 +7862,7 @@
    "all_day": false,
    "location": "Ocean Shores Library",
    "url": "https://oceanshores.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=12748",
-   "agenda_url": "",
+   "agenda_url": "https://oceanshores.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=12748",
    "note": "",
    "cancelled": false
   },
@@ -9222,7 +9239,7 @@
    "all_day": false,
    "location": "55 Second Street, Legislative Hearing Room, Friday Harbor",
    "url": "https://sanjuancowa.portal.civicclerk.com/event/3784/overview",
-   "agenda_url": "",
+   "agenda_url": "https://sanjuancowa.portal.civicclerk.com/event/3784/files/agenda/6423",
    "note": "",
    "cancelled": false
   },
@@ -10021,7 +10038,7 @@
    "all_day": false,
    "location": "801 228th Ave SE",
    "url": "https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4994",
-   "agenda_url": "",
+   "agenda_url": "https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4994",
    "note": "",
    "cancelled": false
   },
@@ -10548,7 +10565,7 @@
    "all_day": false,
    "location": "801 228th Ave SE",
    "url": "https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4995",
-   "agenda_url": "",
+   "agenda_url": "https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4995",
    "note": "",
    "cancelled": false
   },
@@ -11517,7 +11534,7 @@
    "all_day": false,
    "location": "",
    "url": "https://bentoncowa.portal.civicclerk.com/event/1390/overview",
-   "agenda_url": "",
+   "agenda_url": "https://bentoncowa.portal.civicclerk.com/event/1390/files/agenda/1990",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -12576,7 +12593,7 @@
    "all_day": false,
    "location": "",
    "url": "https://bentoncowa.portal.civicclerk.com/event/1389/overview",
-   "agenda_url": "",
+   "agenda_url": "https://bentoncowa.portal.civicclerk.com/event/1389/files/agenda/1991",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -12717,7 +12734,7 @@
    "all_day": false,
    "location": "Council Chambers, 190 SE Crestview Street",
    "url": "https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=2067",
-   "agenda_url": "",
+   "agenda_url": "https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=2067",
    "note": "",
    "cancelled": false
   },
@@ -22268,7 +22285,7 @@
    "all_day": false,
    "location": "",
    "url": "https://clallamcowa.portal.civicclerk.com/event/5290/overview",
-   "agenda_url": "",
+   "agenda_url": "https://clallamcowa.portal.civicclerk.com/event/5290/files/agenda/7631",
    "note": "",
    "cancelled": false
   },
@@ -23645,7 +23662,7 @@
    "all_day": false,
    "location": "",
    "url": "https://clallamcowa.portal.civicclerk.com/event/4823/overview",
-   "agenda_url": "",
+   "agenda_url": "https://clallamcowa.portal.civicclerk.com/event/4823/files/agenda/7611",
    "note": "",
    "cancelled": true
   },
@@ -24223,7 +24240,7 @@
    "all_day": false,
    "location": "Prosser",
    "url": "https://bentoncowa.portal.civicclerk.com/event/1322/overview",
-   "agenda_url": "",
+   "agenda_url": "https://bentoncowa.portal.civicclerk.com/event/1322/files/agenda/1952",
    "note": "",
    "cancelled": true
   },
@@ -24308,7 +24325,7 @@
    "all_day": false,
    "location": "",
    "url": "https://clallamcowa.portal.civicclerk.com/event/4877/overview",
-   "agenda_url": "",
+   "agenda_url": "https://clallamcowa.portal.civicclerk.com/event/4877/files/agenda/7610",
    "note": "",
    "cancelled": true
   },
@@ -26302,6 +26319,23 @@
    "cancelled": false
   },
   {
+   "id": "128864a248dd",
+   "title": "Board Regular Session Meeting",
+   "host": "Naches Valley School District",
+   "source": "naches-valley-schools",
+   "area": "Naches",
+   "county": "Yakima",
+   "category": "school",
+   "start": "2026-12-28T19:00:00-08:00",
+   "end": "2026-12-28T20:30:00-08:00",
+   "all_day": false,
+   "location": "Naches Valley High School, 101 W. 5th St, Naches, WA 98937, USA",
+   "url": "https://nachesvalley.org",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "df7f65991cd2",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
@@ -26319,7 +26353,7 @@
    "cancelled": false
   },
   {
-   "id": "128864a248dd",
+   "id": "9d58a216aa0a",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
