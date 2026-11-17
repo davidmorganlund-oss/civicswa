@@ -262,8 +262,12 @@ def normalize_civicclerk(src, rows, tz):
         place = ", ".join(p for p in [loc.get("address1"), loc.get("address2"), loc.get("city")]
                           if p) if isinstance(loc, dict) else ""
         tenant = src["tenant"]
+        # Link the posted agenda itself when there is one.
+        agenda = next((f for f in r.get("publishedFiles") or []
+                       if (f.get("type") or "").lower() == "agenda" and f.get("fileId")), None)
         events.append(make_event(
             src,
+            agenda_url=f"https://{tenant}.portal.civicclerk.com/event/{r['id']}/files/agenda/{agenda['fileId']}" if agenda else "",
             title=r.get("eventName") or r.get("categoryName") or "Public meeting",
             start=start,
             location=place,
@@ -622,6 +626,8 @@ def normalize_civicweb(src, rows, tz):
             src, title=name or "Public meeting", start=start,
             location=r.get("MeetingLocation") or "",
             url=f"{base}/Portal/MeetingInformation.aspx?Org=Cal&Id={r.get('Id')}",
+            # "Published" means the agenda is posted on the meeting's page.
+            agenda_url=f"{base}/Portal/MeetingInformation.aspx?Org=Cal&Id={r.get('Id')}" if r.get("Published") else "",
             uid=str(r.get("Id", "")),
         ))
     return events

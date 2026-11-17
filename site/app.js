@@ -152,8 +152,9 @@
       if (download) a.download = download; else a.rel = 'noopener';
       actions.appendChild(a);
     };
-    if (safeUrl(e.url)) link(safeUrl(e.url), 'Details from the host');
-    if (safeUrl(e.agenda_url)) link(safeUrl(e.agenda_url), 'Agenda');
+    // When the agenda lives on the meeting's own page, one link is enough.
+    if (safeUrl(e.agenda_url)) link(safeUrl(e.agenda_url), 'Read the agenda');
+    if (safeUrl(e.url) && e.url !== e.agenda_url) link(safeUrl(e.url), 'Details from the host');
     if (!e.cancelled) link(icsLink(e), 'Add to my calendar', 'civicswa-event.ics');
     if (!e.cancelled) link(e.category === 'legislature' ? 'guides/weigh-in-on-a-state-bill.html' : 'guides/speak-at-a-public-meeting.html', 'How to take part');
     var share = el('button', 'share', 'Copy link');

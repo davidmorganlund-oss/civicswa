@@ -344,3 +344,14 @@ def test_apptegy_events():
     events = build.apply_source_rules(src, build.normalize_apptegy(src, payload, TZ))
     assert [e["title"] for e in events] == ["Board of Directors Regular Meeting"]
     assert events[0]["start"].startswith("2026-12-09T18:00") and events[0]["location"] == "Admin Building"
+
+
+def test_civicclerk_links_posted_agenda():
+    src = {"id": "vancouver", "name": "City of Vancouver", "area": "Vancouver", "tenant": "vancouverwa"}
+    rows = [{"id": 1573, "eventName": "Civil Service Commission", "startDateTime": "2026-11-18T15:00:00Z",
+             "isPublished": "Published", "agendaId": 1235,
+             "publishedFiles": [{"fileId": 3221, "type": "Agenda"}, {"fileId": 3222, "type": "Agenda Packet"}]},
+            {"id": 1751, "eventName": "Special meeting", "startDateTime": "2026-11-19T15:00:00Z", "publishedFiles": []}]
+    a, b = build.normalize_civicclerk(src, rows, TZ)
+    assert a["agenda_url"] == "https://vancouverwa.portal.civicclerk.com/event/1573/files/agenda/3221"
+    assert b["agenda_url"] == ""
