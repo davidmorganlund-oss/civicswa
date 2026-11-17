@@ -3,6 +3,35 @@
 (function () {
   'use strict';
 
+  // Language: the page's <html lang> picks the strings. Pages in a language
+  // folder (es/) set data-base="../" so data and guide links still resolve.
+  var LANG = (document.documentElement.lang || 'en').slice(0, 2);
+  var BASE = document.documentElement.getAttribute('data-base') || '';
+  var LOCALE = LANG === 'es' ? 'es-US' : 'en-US';
+  var ES = {
+    'All': 'Todo', 'Councils and commissions': 'Concejos y comisiones', 'Public hearings': 'Audiencias públicas',
+    'State Legislature': 'Legislatura estatal', 'School boards': 'Juntas escolares', 'Libraries': 'Bibliotecas', 'Other': 'Otro',
+    'Time not listed': 'Hora no indicada', 'Cancelled': 'Cancelada', 'Regular schedule: confirm first': 'Horario habitual: confirme antes',
+    'On the agenda': 'En la agenda', 'Read the agenda': 'Ver la agenda', 'Details from the host': 'Detalles del organizador',
+    'Add to my calendar': 'Agregar a mi calendario', 'Testify or sign in': 'Testificar o registrar su opinión',
+    'How to take part': 'Cómo participar', 'Copy link': 'Copiar enlace', 'Link copied': 'Enlace copiado',
+    'Copy this link:': 'Copie este enlace:', 'Open link': 'Abrir enlace',
+    'Subscribe to State Legislature committee meetings': 'Suscribirse a las reuniones de comités de la Legislatura',
+    'Pick your county above to subscribe to its meetings. Or follow the Legislature’s committee meetings in your own calendar app.':
+      'Elija su condado arriba para suscribirse a sus reuniones. O siga las reuniones de comités de la Legislatura en su propia aplicación de calendario.',
+    'Nothing of this type is listed for these dates. Try another filter or show more weeks.':
+      'No hay nada de este tipo para estas fechas. Pruebe otro filtro o muestre más semanas.',
+    'No events are loaded yet. The calendar fills in after its first nightly run.': 'Todavía no hay reuniones cargadas.',
+    'All of Washington': 'Todo Washington', 'Choose a county first': 'Primero elija un condado',
+    'The county posts its meetings and agendas on its own website. Until we can add them here, that’s the place to check.':
+      'El condado publica sus reuniones y agendas en su propio sitio web. Hasta que podamos agregarlas aquí, consulte ese sitio.',
+    'See what the calendar covers': 'Vea qué cubre el calendario',
+    'The calendar could not be loaded. Please try again later.': 'No se pudo cargar el calendario. Inténtelo más tarde.',
+    'bill': 'proyecto de ley', 'bills': 'proyectos de ley', 'on this agenda': 'en esta agenda'
+  };
+  function T(s) { return LANG === 'es' && ES[s] ? ES[s] : s; }
+  function guide(name) { return BASE + 'guides/' + name + '.html'; }
+
   var CATEGORIES = [
     { id: 'all', label: 'All' },
     { id: 'council', label: 'Councils and commissions' },
@@ -43,7 +72,7 @@
     return h + (p.mi ? ':' + String(p.mi).padStart(2, '0') : '') + (p.h < 12 ? ' AM' : ' PM');
   }
   function dayLabel(p) {
-    return new Date(p.y, p.mo - 1, p.d).toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric' });
+    return new Date(p.y, p.mo - 1, p.d).toLocaleDateString(LOCALE, { weekday: 'long', month: 'long', day: 'numeric' });
   }
   function todayKey() {
     var s = new Date().toLocaleDateString('en-CA', { timeZone: 'America/Los_Angeles' });
@@ -108,7 +137,7 @@
         var url = part.replace(/[.,;:)\]]+$/, '');
         var host = '';
         try { host = new URL(url).hostname.replace(/^www\./, ''); } catch (err) { return; }
-        var a = el('a', null, 'Open link (' + host + ')');
+        var a = el('a', null, T('Open link') + ' (' + host + ')');
         a.href = url;
         a.rel = 'noopener';
         p.appendChild(a);
@@ -128,7 +157,7 @@
     var year = e.start.slice(0, 4);
     var box = el('details', 'bills');
     var n = e.bills.length;
-    box.appendChild(el('summary', null, n + (n === 1 ? ' bill' : ' bills') + ' on this agenda'));
+    box.appendChild(el('summary', null, n + ' ' + T(n === 1 ? 'bill' : 'bills') + ' ' + T('on this agenda')));
     if (state.q && /\d/.test(state.q)) box.open = true;
     var ul = el('ul');
     e.bills.forEach(function (b) {
@@ -148,19 +177,19 @@
     var p = parts(e.start);
     var art = el('article', 'event' + (e.cancelled ? ' is-cancelled' : '') + (state.focus === e.id ? ' is-focus' : ''));
     art.id = 'm-' + e.id;
-    art.appendChild(el('div', 'when', e.all_day ? 'Time not listed' : clock(p)));
+    art.appendChild(el('div', 'when', e.all_day ? T('Time not listed') : clock(p)));
 
     var what = el('div', 'what');
-    what.appendChild(el('span', 'tag' + (e.cancelled ? ' cancelled' : ''), e.cancelled ? 'Cancelled' : (LABELS[e.category] || 'Other')));
-    if (!e.cancelled && (e.note || '').indexOf(SCHEDULE_PREFIX) === 0) what.appendChild(el('span', 'tag schedule', 'Regular schedule: confirm first'));
+    what.appendChild(el('span', 'tag' + (e.cancelled ? ' cancelled' : ''), e.cancelled ? T('Cancelled') : T(LABELS[e.category] || 'Other')));
+    if (!e.cancelled && (e.note || '').indexOf(SCHEDULE_PREFIX) === 0) what.appendChild(el('span', 'tag schedule', T('Regular schedule: confirm first')));
     what.appendChild(el('h3', null, e.title));
     what.appendChild(el('p', 'meta', e.host + (e.location ? ' · ' + e.location : '')));
     if (e.highlights && e.highlights.length) {
       var box = el('div', 'agenda');
-      box.appendChild(el('p', 'agenda-label', 'On the agenda'));
+      box.appendChild(el('p', 'agenda-label', T('On the agenda')));
       var ul = el('ul');
       e.highlights.forEach(function (h) { ul.appendChild(el('li', null, h)); });
-      if (e.highlights_more) ul.appendChild(el('li', 'more-items', 'and ' + e.highlights_more + ' more ' + (e.highlights_more === 1 ? 'item' : 'items')));
+      if (e.highlights_more) ul.appendChild(el('li', 'more-items', LANG === 'es' ? ('y ' + e.highlights_more + ' ' + (e.highlights_more === 1 ? 'punto más' : 'puntos más')) : ('and ' + e.highlights_more + ' more ' + (e.highlights_more === 1 ? 'item' : 'items'))));
       box.appendChild(ul);
       what.appendChild(box);
     }
@@ -177,19 +206,19 @@
       actions.appendChild(a);
     };
     // When the agenda lives on the meeting's own page, one link is enough.
-    if (safeUrl(e.agenda_url)) link(safeUrl(e.agenda_url), 'Read the agenda');
-    if (safeUrl(e.url) && e.url !== e.agenda_url) link(safeUrl(e.url), 'Details from the host');
-    if (!e.cancelled) link(icsLink(e), 'Add to my calendar', 'civicswa-event.ics');
-    if (!e.cancelled && e.category === 'legislature' && /public hearing/i.test(e.note || '')) link('https://app.leg.wa.gov/csi', 'Testify or sign in');
-    if (!e.cancelled) link(e.category === 'legislature' ? 'guides/weigh-in-on-a-state-bill.html' : 'guides/speak-at-a-public-meeting.html', 'How to take part');
-    var share = el('button', 'share', 'Copy link');
+    if (safeUrl(e.agenda_url)) link(safeUrl(e.agenda_url), T('Read the agenda'));
+    if (safeUrl(e.url) && e.url !== e.agenda_url) link(safeUrl(e.url), T('Details from the host'));
+    if (!e.cancelled) link(icsLink(e), T('Add to my calendar'), 'civicswa-event.ics');
+    if (!e.cancelled && e.category === 'legislature' && /public hearing/i.test(e.note || '')) link('https://app.leg.wa.gov/csi', T('Testify or sign in'));
+    if (!e.cancelled) link(guide(e.category === 'legislature' ? 'weigh-in-on-a-state-bill' : 'speak-at-a-public-meeting'), T('How to take part'));
+    var share = el('button', 'share', T('Copy link'));
     share.type = 'button';
-    share.setAttribute('aria-label', 'Copy a link to ' + e.title + ', ' + dayLabel(p));
+    share.setAttribute('aria-label', T('Copy link') + ': ' + e.title + ', ' + dayLabel(p));
     share.addEventListener('click', function () {
       var url = location.origin + location.pathname + '?m=' + encodeURIComponent(e.id);
-      var done = function () { share.textContent = 'Link copied'; setTimeout(function () { share.textContent = 'Copy link'; }, 2000); };
-      if (navigator.clipboard) navigator.clipboard.writeText(url).then(done, function () { prompt('Copy this link:', url); });
-      else prompt('Copy this link:', url);
+      var done = function () { share.textContent = T('Link copied'); setTimeout(function () { share.textContent = T('Copy link'); }, 2000); };
+      if (navigator.clipboard) navigator.clipboard.writeText(url).then(done, function () { prompt(T('Copy this link:'), url); });
+      else prompt(T('Copy this link:'), url);
     });
     actions.appendChild(share);
     art.appendChild(actions);
@@ -201,26 +230,33 @@
     list.textContent = '';
     var rows = visible();
     var from = todayKey(), to = addDays(from, state.days);
-    var fmt = function (k) { return new Date(k + 'T12:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric' }); };
-    $('range').textContent = fmt(from) + ' to ' + fmt(to) + ' · ' + rows.length + (rows.length === 1 ? ' event' : ' events');
-    $('heading').textContent = 'Coming up ' + (state.city ? 'in and around ' + state.city : state.county ? 'in ' + state.county + ' County' : 'across Washington');
+    var fmt = function (k) { return new Date(k + 'T12:00:00').toLocaleDateString(LOCALE, { month: 'short', day: 'numeric' }); };
+    if (LANG === 'es') {
+      $('range').textContent = fmt(from) + ' a ' + fmt(to) + ' · ' + rows.length + (rows.length === 1 ? ' reunión' : ' reuniones');
+      $('heading').textContent = 'Próximamente ' + (state.city ? 'en ' + state.city + ' y alrededores' : state.county ? 'en el condado de ' + state.county : 'en todo Washington');
+    } else {
+      $('range').textContent = fmt(from) + ' to ' + fmt(to) + ' · ' + rows.length + (rows.length === 1 ? ' event' : ' events');
+      $('heading').textContent = 'Coming up ' + (state.city ? 'in and around ' + state.city : state.county ? 'in ' + state.county + ' County' : 'across Washington');
+    }
     // One county is the useful subscription. With no county picked, offer the
     // Legislature, which matters to everyone.
     var sub = $('subscribe'), connected = state.county && (!state.connected || state.connected[state.county]);
-    sub.href = 'data/ics/' + (connected ? slug(state.county) : 'statewide') + '.ics';
-    sub.textContent = connected ? 'Subscribe to ' + state.county + ' County meetings' : 'Subscribe to State Legislature committee meetings';
+    sub.href = BASE + 'data/ics/' + (connected ? slug(state.county) : 'statewide') + '.ics';
+    sub.textContent = connected ? (LANG === 'es' ? 'Suscribirse a las reuniones del condado de ' + state.county : 'Subscribe to ' + state.county + ' County meetings') : T('Subscribe to State Legislature committee meetings');
     $('subscribe-text').textContent = connected
-      ? 'Subscribe once and ' + state.county + ' County meetings show up in the calendar app you already use.'
-      : 'Pick your county above to subscribe to its meetings. Or follow the Legislature’s committee meetings in your own calendar app.';
+      ? (LANG === 'es' ? 'Suscríbase una vez y las reuniones del condado de ' + state.county + ' aparecerán en la aplicación de calendario que ya usa.'
+        : 'Subscribe once and ' + state.county + ' County meetings show up in the calendar app you already use.')
+      : T('Pick your county above to subscribe to its meetings. Or follow the Legislature’s committee meetings in your own calendar app.');
     renderStatus();
 
     if (state.county && state.connected && !state.connected[state.county]) {
       list.appendChild(notConnected());
     } else if (!rows.length) {
       list.appendChild(el('p', 'empty', state.events.length
-        ? (state.q ? 'No meetings match “' + state.q + '” for these dates. Try another word, a wider area or more weeks.'
-          : 'Nothing of this type is listed for these dates. Try another filter or show more weeks.')
-        : 'No events are loaded yet. The calendar fills in after its first nightly run.'));
+        ? (state.q ? (LANG === 'es' ? 'Ninguna reunión coincide con “' + state.q + '” en estas fechas. Pruebe otra palabra, un área más amplia o más semanas.'
+          : 'No meetings match “' + state.q + '” for these dates. Try another word, a wider area or more weeks.')
+          : T('Nothing of this type is listed for these dates. Try another filter or show more weeks.'))
+        : T('No events are loaded yet. The calendar fills in after its first nightly run.')));
     }
     var lastDay = '';
     rows.forEach(function (e) {
@@ -270,7 +306,7 @@
       timer = setTimeout(function () { state.q = q.value.trim(); render(); }, 200);
     });
     CATEGORIES.forEach(function (c) {
-      var b = el('button', 'chip', c.label);
+      var b = el('button', 'chip', T(c.label));
       b.type = 'button';
       b.dataset.cat = c.id;
       b.addEventListener('click', function () { state.cat = c.id; render(); });
@@ -296,30 +332,32 @@
     if (!all.length) all = Object.keys(counties);
     var sel = $('county');
     sel.textContent = '';
-    sel.appendChild(new Option('All of Washington', ''));
+    sel.appendChild(new Option(T('All of Washington'), ''));
     all.sort().forEach(function (c) {
-      sel.appendChild(new Option(c + ' County' + (counties[c] ? '' : ' (links only)'), c, false, c === state.county));
+      sel.appendChild(new Option((LANG === 'es' ? 'Condado de ' + c + (counties[c] ? '' : ' (solo enlaces)') : c + ' County' + (counties[c] ? '' : ' (links only)')), c, false, c === state.county));
     });
     if (all.indexOf(state.county) === -1) state.county = '';
     sel.value = state.county;
     state.connected = counties;
-    $('coverage').textContent = 'Meetings from ' + Object.keys(counties).length + ' of Washington’s 39 counties so far, and links for the rest.';
+    var n = Object.keys(counties).length;
+    $('coverage').textContent = LANG === 'es' ? 'Reuniones de ' + n + ' de los 39 condados de Washington hasta ahora, y enlaces para el resto.'
+      : 'Meetings from ' + n + ' of Washington’s 39 counties so far, and links for the rest.';
   }
 
   // For a county whose calendar we can't read yet, point to its own page.
   function notConnected() {
     var c = state.county, info = (state.local.counties || {})[c] || {};
     var box = el('div', 'card notice-card');
-    box.appendChild(el('h3', null, 'We can’t read ' + c + ' County’s meeting calendar yet'));
-    box.appendChild(el('p', null, 'The county posts its meetings and agendas on its own website. Until we can add them here, that’s the place to check.'));
+    box.appendChild(el('h3', null, LANG === 'es' ? 'Todavía no podemos leer el calendario de reuniones del condado de ' + c : 'We can’t read ' + c + ' County’s meeting calendar yet'));
+    box.appendChild(el('p', null, T('The county posts its meetings and agendas on its own website. Until we can add them here, that’s the place to check.')));
     var href = info.meetings || info.site;
     if (href) {
-      var a = el('a', 'link', c + ' County meetings and agendas');
+      var a = el('a', 'link', LANG === 'es' ? 'Reuniones y agendas del condado de ' + c : c + ' County meetings and agendas');
       a.href = href; a.rel = 'noopener';
       box.appendChild(a);
     }
-    var cov = el('a', 'link', 'See what the calendar covers');
-    cov.href = 'coverage.html';
+    var cov = el('a', 'link', T('See what the calendar covers'));
+    cov.href = BASE + 'coverage.html';
     box.appendChild(cov);
     return box;
   }
@@ -328,7 +366,7 @@
     state.events.forEach(function (e) { if (e.county === state.county && e.area !== 'countywide') cities[e.area] = true; });
     var sel = $('city');
     sel.textContent = '';
-    sel.appendChild(new Option(state.county ? 'Anywhere in ' + state.county + ' County' : 'Choose a county first', ''));
+    sel.appendChild(new Option(state.county ? (LANG === 'es' ? 'Cualquier lugar del condado de ' + state.county : 'Anywhere in ' + state.county + ' County') : T('Choose a county first'), ''));
     Object.keys(cities).sort().forEach(function (c) { sel.appendChild(new Option(c, c, false, c === state.city)); });
     if (!cities[state.city]) state.city = '';
     sel.value = state.city;
@@ -339,7 +377,7 @@
     var status = state.status;
     if (!status) return;
     var when = new Date(status.generated);
-    if (!isNaN(when)) $('updated').textContent = 'Last refreshed ' + when.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/Los_Angeles' }) + '.';
+    if (!isNaN(when)) $('updated').textContent = (LANG === 'es' ? 'Actualizado el ' : 'Last refreshed ') + when.toLocaleDateString(LOCALE, { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/Los_Angeles' }) + '.';
   }
 
   var place = loadPlace();
@@ -349,9 +387,9 @@
   state.city = place.city || '';
   setup();
   Promise.all([
-    fetch('data/events.json').then(function (r) { return r.json(); }),
-    fetch('data/status.json').then(function (r) { return r.json(); }).catch(function () { return { sources: [] }; }),
-    fetch('data/local.json').then(function (r) { return r.json(); }).catch(function () { return {}; })
+    fetch(BASE + 'data/events.json').then(function (r) { return r.json(); }),
+    fetch(BASE + 'data/status.json').then(function (r) { return r.json(); }).catch(function () { return { sources: [] }; }),
+    fetch(BASE + 'data/local.json').then(function (r) { return r.json(); }).catch(function () { return {}; })
   ]).then(function (res) {
     state.local = res[2] || {};
     state.events = (res[0].events || []).map(function (e) { e.county = e.county || 'Thurston'; return e; });
@@ -378,6 +416,6 @@
     }
   }).catch(function () {
     $('list').textContent = '';
-    $('list').appendChild(el('p', 'empty', 'The calendar could not be loaded. Please try again later.'));
+    $('list').appendChild(el('p', 'empty', T('The calendar could not be loaded. Please try again later.')));
   });
 })();
