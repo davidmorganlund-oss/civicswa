@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T11:14:04-08:00",
+ "generated": "2026-11-17T11:20:41-08:00",
  "events": [
   {
    "id": "b8824637c2c6",
@@ -7442,6 +7442,23 @@
    "cancelled": false
   },
   {
+   "id": "baaee54074a9",
+   "title": "Board Regular Session Meeting",
+   "host": "Naches Valley School District",
+   "source": "naches-valley-schools",
+   "area": "Naches",
+   "county": "Yakima",
+   "category": "school",
+   "start": "2026-11-23T19:00:00-08:00",
+   "end": "2026-11-23T20:30:00-08:00",
+   "all_day": false,
+   "location": "Naches Valley High School, 101 W. 5th St, Naches, WA 98937, USA",
+   "url": "https://nachesvalley.org",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "ba5e46619b64",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
@@ -7460,23 +7477,6 @@
   },
   {
    "id": "037aacae3b03",
-   "title": "Board Regular Session Meeting",
-   "host": "Naches Valley School District",
-   "source": "naches-valley-schools",
-   "area": "Naches",
-   "county": "Yakima",
-   "category": "school",
-   "start": "2026-11-23T19:00:00-08:00",
-   "end": "2026-11-23T20:30:00-08:00",
-   "all_day": false,
-   "location": "Naches Valley High School, 101 W. 5th St, Naches, WA 98937, USA",
-   "url": "https://nachesvalley.org",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
-   "id": "baaee54074a9",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -26268,6 +26268,23 @@
    "cancelled": false
   },
   {
+   "id": "9d58a216aa0a",
+   "title": "Board Regular Session Meeting",
+   "host": "Naches Valley School District",
+   "source": "naches-valley-schools",
+   "area": "Naches",
+   "county": "Yakima",
+   "category": "school",
+   "start": "2026-12-28T19:00:00-08:00",
+   "end": "2026-12-28T20:30:00-08:00",
+   "all_day": false,
+   "location": "Naches Valley High School, 101 W. 5th St, Naches, WA 98937, USA",
+   "url": "https://nachesvalley.org",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "cac5cb08d6da",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
@@ -26286,23 +26303,6 @@
   },
   {
    "id": "df7f65991cd2",
-   "title": "Board Regular Session Meeting",
-   "host": "Naches Valley School District",
-   "source": "naches-valley-schools",
-   "area": "Naches",
-   "county": "Yakima",
-   "category": "school",
-   "start": "2026-12-28T19:00:00-08:00",
-   "end": "2026-12-28T20:30:00-08:00",
-   "all_day": false,
-   "location": "Naches Valley High School, 101 W. 5th St, Naches, WA 98937, USA",
-   "url": "https://nachesvalley.org",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
-   "id": "9d58a216aa0a",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
