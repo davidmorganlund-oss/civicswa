@@ -18,6 +18,12 @@ concurrency:
   group: refresh
   cancel-in-progress: false
 
+# Name the shell so a step fails when any command in a pipe fails. Without
+# this, "python build.py | tee ..." reports success even if build.py crashed.
+defaults:
+  run:
+    shell: bash
+
 jobs:
   refresh:
     runs-on: ubuntu-latest

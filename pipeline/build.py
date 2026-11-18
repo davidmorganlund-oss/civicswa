@@ -45,8 +45,22 @@ def categorize(text: str) -> str:
     return "other"
 
 
-def is_cancelled(*texts: str) -> bool:
-    return any(re.search(r"cancel", t or "", re.I) for t in texts)
+# A note cancels a meeting only when it reads as a cancellation notice
+# ("Cancellation Notice", "MEETING CANCELED", "This meeting has been
+# cancelled"). A note that merely mentions the word ("Meetings can be
+# cancelled or moved", "call to cancel your registration") does not.
+NOTE_CANCELS = re.compile(
+    r"^\W*(?:[\w']+\s+){0,3}cancel+(?:ed|ation)\b"
+    r"|\b(?:has|have) been cancel+ed\b"
+    r"|\b(?:is|are|was|were|now) cancel+ed\b", re.I)
+NOTE_CONDITIONAL = re.compile(r"\bif\b[^.]{0,60}cancel", re.I)
+
+
+def is_cancelled(title: str, note: str = "") -> bool:
+    if re.search(r"cancel", title or "", re.I):
+        return True
+    note = note or ""
+    return bool(NOTE_CANCELS.search(note)) and not NOTE_CONDITIONAL.search(note)
 
 
 _MON = r"(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)[a-z]*\.?"
@@ -55,6 +69,12 @@ DATE_IN_TITLE = re.compile(
     r"|\s*(?:[-–@]|\bof|\bon|\bfor)?\s*(?:(?:Mon|Tues|Wednes|Thurs|Fri|Satur|Sun)day,?\s+)?(?:\d{1,2}\s+" + _MON + r"\s+\d{4}|" + _MON + r"\s+\d{1,2},?\s+\d{4})"
     r"(?:\s*@\s*(?:\d{1,2}(?::\d{2})?\s*[ap]\.?m\.?)?)?\s*$"                   # trailing dates, optional time
     r"|\s+\d{1,2}/\d{1,2}/\d{2,4}\s*$", re.I)                              # trailing 11/12/26
+
+
+def web_url(url) -> str:
+    """The address if it is a full web link, otherwise nothing."""
+    url = (url or "").strip()
+    return url if re.match(r"https?://\S+$", url, re.I) else ""
 
 
 def make_event(src, *, title, start, end=None, all_day=False, location="", url="",
@@ -73,6 +93,10 @@ def make_event(src, *, title, start, end=None, all_day=False, location="", url="
     # Some calendars put HTML or stray separators in the location field.
     location = re.sub(r"<[^>]+>", " ", location or "")
     location = re.sub(r"^[\s\-–,]+|[\s\-–,]+$", "", " ".join(location.split()))
+    # Some feeds give a partial address ("/common/modules/..."), which is not a
+    # link anyone can open. Fall back to the host's own page.
+    url = web_url(url) or web_url(src.get("homepage", ""))
+    agenda_url = web_url(agenda_url)
     return {
         "id": hashlib.sha256(fingerprint.encode()).hexdigest()[:12],
         "title": " ".join(html_unescape(title or "").split()),
@@ -85,8 +109,8 @@ def make_event(src, *, title, start, end=None, all_day=False, location="", url="
         "end": end.isoformat() if end else None,
         "all_day": all_day,
         "location": " ".join((location or "").split()),
-        "url": url or src.get("homepage", ""),
-        "agenda_url": agenda_url or "",
+        "url": url,
+        "agenda_url": agenda_url,
         "note": " ".join((note or "").split()),
         "cancelled": cancelled,
     }
@@ -1016,8 +1040,10 @@ def write_ics(events, path: Path, stamp: datetime, name: str = "Washington"):
             lines += [f"DTSTART:{start.astimezone(utc).strftime(fmt)}",
                       f"DTEND:{end.astimezone(utc).strftime(fmt)}"]
         summary = ("CANCELLED: " if e["cancelled"] else "") + f"{e['title']} ({e['host']})"
-        lines += [f"SUMMARY:{ics_escape(summary)}", f"LOCATION:{ics_escape(e['location'])}",
-                  f"URL:{e['url']}", "END:VEVENT"]
+        lines += [f"SUMMARY:{ics_escape(summary)}", f"LOCATION:{ics_escape(e['location'])}"]
+        if web_url(e["url"]):
+            lines.append(f"URL:{e['url']}")
+        lines.append("END:VEVENT")
     lines.append("END:VCALENDAR")
     path.write_text("\r\n".join(lines) + "\r\n", encoding="utf-8")
 

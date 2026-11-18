@@ -373,3 +373,46 @@ def test_legislature_topics():
         {"id": "SB 5300", "about": "Concerning campaign finance disclosure"}]})
     assert g["bills"][0]["topics"] == ["elections"]
     assert "tribes" in g["topics"]
+
+
+def test_note_cancels_only_when_it_is_a_notice():
+    from datetime import datetime
+    src = {"id": "x", "name": "X", "area": "X", "homepage": "https://example.gov"}
+    when = datetime(2026, 12, 1, 18, 0, tzinfo=TZ)
+    for note in ["Cancellation Notice", "MEETING CANCELED", "CANCELLED", "This meeting has been cancelled.",
+                 "Meeting Cancelled due to no pertinent items to discuss.", "SPECIAL EVENT CANCELED - COMMUNITY CONVERSATIONS"]:
+        assert build.make_event(src, title="City Council", start=when, note=note)["cancelled"], note
+    for note in [build.SCHEDULE_NOTE, "To cancel your registration, call the clerk.",
+                 "If the meeting is cancelled, a notice will be posted.", ""]:
+        assert not build.make_event(src, title="City Council", start=when, note=note)["cancelled"], note
+
+
+def test_regular_schedule_meetings_are_not_cancelled():
+    sched = {"id": "b", "name": "Boards", "area": "Spokane",
+             "meetings": [{"title": "Arts Commission", "when": "4th Tuesday", "time": "16:30"}]}
+    got = build.fetch_schedule(sched, date(2026, 11, 1), date(2027, 1, 31), TZ)
+    assert got and not any(e["cancelled"] for e in got)
+
+
+def test_partial_links_fall_back_to_the_host_page(monkeypatch, tmp_path):
+    ics = (b"BEGIN:VCALENDAR\r\nVERSION:2.0\r\nBEGIN:VEVENT\r\nUID:1\r\nDTSTART:20261201T180000\r\n"
+           b"SUMMARY:Planning Commission\r\nURL:/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=24\r\n"
+           b"END:VEVENT\r\nEND:VCALENDAR\r\n")
+
+    class Reply:
+        content = ics
+
+    monkeypatch.setattr(build, "get", lambda url, params=None: Reply())
+    src = {"id": "rainier", "name": "City of Rainier", "area": "Rainier", "site": "https://www.cityofrainierwa.org",
+           "categories": [24], "homepage": "https://www.cityofrainierwa.org/calendar"}
+    (e,) = build.fetch_civicplus(src, date(2026, 11, 17), date(2027, 1, 16), TZ)
+    assert e["url"] == "https://www.cityofrainierwa.org/calendar"
+    del src["homepage"]
+    (e,) = build.fetch_civicplus(src, date(2026, 11, 17), date(2027, 1, 16), TZ)
+    assert e["url"] == "https://www.cityofrainierwa.org/Calendar.aspx"
+    # The subscribable feed never carries a link that is not a full web address.
+    e["url"] = "/not/a/link"
+    from datetime import datetime
+    build.write_ics([e], tmp_path / "t.ics", datetime(2026, 11, 17, tzinfo=TZ))
+    assert "URL:" not in (tmp_path / "t.ics").read_text()
+
