@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T13:07:55-08:00",
+ "generated": "2026-11-17T18:55:33-08:00",
  "events": [
   {
    "id": "b8824637c2c6",
@@ -19,74 +19,6 @@
    "cancelled": false
   },
   {
-   "id": "10331807e2f4",
-   "title": "Arts Commission",
-   "host": "City of Lynnwood",
-   "source": "lynnwood",
-   "area": "Lynnwood",
-   "county": "Snohomish",
-   "category": "council",
-   "start": "2026-11-17T00:00:00-08:00",
-   "end": null,
-   "all_day": true,
-   "location": "",
-   "url": "https://lynnwoodwa.granicus.com/AgendaViewer.php?view_id=1&event_id=2605",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
-   "id": "db9a6d8b0440",
-   "title": "City Council",
-   "host": "City of Lynnwood",
-   "source": "lynnwood",
-   "area": "Lynnwood",
-   "county": "Snohomish",
-   "category": "council",
-   "start": "2026-11-17T00:00:00-08:00",
-   "end": null,
-   "all_day": true,
-   "location": "",
-   "url": "https://lynnwoodwa.granicus.com/AgendaViewer.php?view_id=1&event_id=2717",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
-   "id": "4596c5428fdb",
-   "title": "Finance Committee",
-   "host": "City of Lynnwood",
-   "source": "lynnwood",
-   "area": "Lynnwood",
-   "county": "Snohomish",
-   "category": "council",
-   "start": "2026-11-17T00:00:00-08:00",
-   "end": null,
-   "all_day": true,
-   "location": "",
-   "url": "https://lynnwoodwa.granicus.com/AgendaViewer.php?view_id=1&event_id=2700",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
-   "id": "84454f657a64",
-   "title": "Planning Commission - Special Meeting",
-   "host": "City of Poulsbo",
-   "source": "poulsbo",
-   "area": "Poulsbo",
-   "county": "Kitsap",
-   "category": "council",
-   "start": "2026-11-17T00:00:00-08:00",
-   "end": null,
-   "all_day": true,
-   "location": "",
-   "url": "https://cityofpoulsbo.granicus.com/AgendaViewer.php?view_id=1&event_id=2000",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
    "id": "85e29cdbf07e",
    "title": "Special Meeting - School Board Visit to Odle Middle School",
    "host": "Bellevue School District",
@@ -100,23 +32,6 @@
    "location": "Bellevue WA 98007",
    "url": "https://bsd405.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=690",
    "agenda_url": "https://bsd405.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=690",
-   "note": "",
-   "cancelled": false
-  },
-  {
-   "id": "0db8e001bdc1",
-   "title": "Board of County Commissioners' Weekly Meetings",
-   "host": "Grant County",
-   "source": "grant-county",
-   "area": "countywide",
-   "county": "Grant",
-   "category": "council",
-   "start": "2026-11-17T08:00:00-08:00",
-   "end": "2026-11-17T17:00:00-08:00",
-   "all_day": false,
-   "location": "Courthouse Complex - 35 C ST NW Ephrata WA 98823",
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31",
-   "agenda_url": "",
    "note": "",
    "cancelled": false
   },
@@ -217,7 +132,7 @@
   },
   {
    "id": "395b7042c636",
-   "title": "BoCC Board Briefing Meeting",
+   "title": "There will be no BoCC Board Briefing Meeting",
    "host": "Spokane County",
    "source": "spokane-county",
    "area": "countywide",
@@ -280,7 +195,7 @@
    "location": "Hybrid Meeting",
    "url": "https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12843&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59",
    "agenda_url": "https://kingcounty.legistar1.com/kingcounty/meetings/2026/11/12843_A_Transportation%2C_Economy%2C_and_Environment_Committee_26-11-17_Meeting_Agenda.pdf",
-   "note": "",
+   "note": "DRAFT MINUTES",
    "cancelled": false,
    "highlights": [
     "A MOTION confirming the executive's appointment of Jamie Stroble, who resides in council district one, to the King County conservation\u2026",
@@ -288,23 +203,6 @@
     "A MOTION authorizing the chair of the King County council to sign a letter of concurrence to the Washington state Department of Natural\u2026"
    ],
    "highlights_more": 2
-  },
-  {
-   "id": "9cc848ffe537",
-   "title": "Board of Equalization Hearings",
-   "host": "Pierce County",
-   "source": "pierce-county",
-   "area": "countywide",
-   "county": "Pierce",
-   "category": "hearing",
-   "start": "2026-11-17T09:30:00-08:00",
-   "end": "2026-11-17T13:30:00-08:00",
-   "all_day": false,
-   "location": "Board of Equalization Board Room (Annex) - 2401 South 35th Street Rm 176 Tacoma WA 98409",
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=81",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
   },
   {
    "id": "361d732183b1",
@@ -545,7 +443,7 @@
    "location": "Hybrid Meeting",
    "url": "https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12840&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59",
    "agenda_url": "https://kingcounty.legistar1.com/kingcounty/meetings/2026/11/12840_A_Metropolitan_King_County_Council_26-11-17_Meeting_Agenda.pdf",
-   "note": "SPECIAL MEETING - WORK SESSION",
+   "note": "SPECIAL MEETING - WORK SESSION DRAFT MINUTES",
    "cancelled": false
   },
   {
@@ -605,23 +503,6 @@
    "location": "",
    "url": "https://edmondswa.primegov.com/public/portal",
    "agenda_url": "https://edmondswa.primegov.com/Portal/Meeting?meetingTemplateId=1563",
-   "note": "",
-   "cancelled": false
-  },
-  {
-   "id": "768f808befc9",
-   "title": "Board of Health Regular Session",
-   "host": "Island County",
-   "source": "island-county",
-   "area": "countywide",
-   "county": "Island",
-   "category": "council",
-   "start": "2026-11-17T13:00:00-08:00",
-   "end": "2026-11-17T15:30:00-08:00",
-   "all_day": false,
-   "location": "Commissioner's Hearing Room, B-102, Coupeville Ann Coupeville WA 98239",
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
-   "agenda_url": "",
    "note": "",
    "cancelled": false
   },
@@ -724,7 +605,7 @@
   },
   {
    "id": "18ee840a1640",
-   "title": "BoCC Regular Legislative Session Meeting",
+   "title": "There will be no BoCC Regular Legislative Session Meeting",
    "host": "Spokane County",
    "source": "spokane-county",
    "area": "countywide",
@@ -778,23 +659,6 @@
    "cancelled": false
   },
   {
-   "id": "44b01d29fa04",
-   "title": "City Council Special Meeting - starts at 3:00 pm",
-   "host": "City of Moses Lake",
-   "source": "moses-lake",
-   "area": "Moses Lake",
-   "county": "Grant",
-   "category": "council",
-   "start": "2026-11-17T15:00:00-08:00",
-   "end": "2026-11-17T16:00:00-08:00",
-   "all_day": false,
-   "location": "City Council Special Meeting - Moses Lake Civic Center 401 S. Balsam Moses Lake WA 98837",
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=32",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
    "id": "1be256cad6d9",
    "title": "Human Services Advisory Committee",
    "host": "City of Renton",
@@ -808,23 +672,6 @@
    "location": "",
    "url": "https://renton.primegov.com/public/portal",
    "agenda_url": "https://renton.primegov.com/Portal/Meeting?meetingTemplateId=2299",
-   "note": "",
-   "cancelled": false
-  },
-  {
-   "id": "44d02aa63c79",
-   "title": "Veteran's Advisory Board (VAB)",
-   "host": "Cowlitz County",
-   "source": "cowlitz-county",
-   "area": "countywide",
-   "county": "Cowlitz",
-   "category": "council",
-   "start": "2026-11-17T15:00:00-08:00",
-   "end": "2026-11-17T16:00:00-08:00",
-   "all_day": false,
-   "location": "Meetings are held on the third Tuesday of every other month at 3:00 pm at Cowlitz County Health &amp; Human Services, 1952 9th Avenue, Longview &nbsp;in Conference Room A .Meeting dates are subject to changes due to holidays.&nbsp; The December 2026 meeting has moved to November.&nbsp; - 1952 9th Ave Cowlitz County WA 98626",
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31",
-   "agenda_url": "",
    "note": "",
    "cancelled": false
   },
@@ -859,23 +706,6 @@
    "location": "",
    "url": "https://edmondswa.primegov.com/public/portal",
    "agenda_url": "https://edmondswa.primegov.com/Portal/Meeting?meetingTemplateId=1568",
-   "note": "",
-   "cancelled": false
-  },
-  {
-   "id": "68d659443af9",
-   "title": "Committee of the Whole",
-   "host": "City of Kent",
-   "source": "kent",
-   "area": "Kent",
-   "county": "King",
-   "category": "council",
-   "start": "2026-11-17T16:00:00-08:00",
-   "end": "2026-11-17T17:15:00-08:00",
-   "all_day": false,
-   "location": "",
-   "url": "https://www.kentwa.gov/Home/Components/Calendar/Event/7373/",
-   "agenda_url": "",
    "note": "",
    "cancelled": false
   },
@@ -958,23 +788,6 @@
     "Fryar Avenue Shared Use Trail - ROW Services Supplement"
    ],
    "highlights_more": 3
-  },
-  {
-   "id": "9722c1707b2e",
-   "title": "Port of Olympia Community Advisory Committee Meeting",
-   "host": "Port of Olympia",
-   "source": "port-of-olympia",
-   "area": "countywide",
-   "county": "Thurston",
-   "category": "council",
-   "start": "2026-11-17T16:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "Percival Plaza, Olympics Room, 626 Columbia St NW, Suite 1-B, Olympia",
-   "url": "https://portolympia.com/events/november-17-2026-port-of-olympia-community-advisory-committee-meeting-400-pm/",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
   },
   {
    "id": "e53cca35b056",
@@ -1220,9 +1033,13 @@
    "all_day": false,
    "location": "38624 SE River St., Snoqualmie",
    "url": "https://snoqualmiewa.portal.civicclerk.com/event/1011/overview",
-   "agenda_url": "",
+   "agenda_url": "https://snoqualmiewa.portal.civicclerk.com/event/1011/files/agenda/2221",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "AB26-079: Sandy Cove Change Order 2"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "ea2c91b53391",
@@ -1364,23 +1181,6 @@
     "Arts and Parks Foundation"
    ],
    "highlights_more": 3
-  },
-  {
-   "id": "65d9ef8f8820",
-   "title": "City Council Regular Meeting",
-   "host": "City of Oak Harbor",
-   "source": "oak-harbor",
-   "area": "Oak Harbor",
-   "county": "Island",
-   "category": "council",
-   "start": "2026-11-17T17:30:00-08:00",
-   "end": "2026-11-17T18:30:00-08:00",
-   "all_day": false,
-   "location": "",
-   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
   },
   {
    "id": "f1b4cdd3f215",
@@ -1758,7 +1558,7 @@
    "all_day": false,
    "location": "625 S College Avenue, College Place",
    "url": "https://collegeplacewa.portal.civicclerk.com/event/175/overview",
-   "agenda_url": "https://collegeplacewa.portal.civicclerk.com/event/175/files/agenda/2044",
+   "agenda_url": "https://collegeplacewa.portal.civicclerk.com/event/175/files/agenda/2047",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -2245,23 +2045,6 @@
    "cancelled": false
   },
   {
-   "id": "7573f6815046",
-   "title": "Board Meeting",
-   "host": "Sunnyside School District",
-   "source": "sunnyside-schools",
-   "area": "Sunnyside",
-   "county": "Yakima",
-   "category": "school",
-   "start": "2026-11-17T18:00:00-08:00",
-   "end": "2026-11-17T19:00:00-08:00",
-   "all_day": false,
-   "location": "810 Custer Ave. Sunnyside, WA 98944",
-   "url": "http://www.sunnysideschools.org/",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
    "id": "41a2bd14eaaa",
    "title": "Bingen City Council Meeting",
    "host": "Town of Bingen",
@@ -2449,6 +2232,23 @@
    "cancelled": false
   },
   {
+   "id": "9e058bbc8b6f",
+   "title": "Board Meeting",
+   "host": "Sunnyside School District",
+   "source": "sunnyside-schools",
+   "area": "Sunnyside",
+   "county": "Yakima",
+   "category": "school",
+   "start": "2026-11-17T18:30:00-08:00",
+   "end": "2026-11-17T19:30:00-08:00",
+   "all_day": false,
+   "location": "810 Custer Ave. Sunnyside, WA 98944",
+   "url": "http://www.sunnysideschools.org/",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "38fd6e087cfb",
    "title": "Special Board Meeting",
    "host": "Vancouver School District",
@@ -2529,7 +2329,7 @@
    "all_day": false,
    "location": "10440 Dom Calata Way E, Edgewood",
    "url": "https://edgewoodwa.portal.civicclerk.com/event/1147/overview",
-   "agenda_url": "https://edgewoodwa.portal.civicclerk.com/event/1147/files/agenda/2933",
+   "agenda_url": "https://edgewoodwa.portal.civicclerk.com/event/1147/files/agenda/2939",
    "note": "3rd Tuesdays of each month at 7:00pm",
    "cancelled": false,
    "highlights": [
@@ -3394,6 +3194,27 @@
    "cancelled": false
   },
   {
+   "id": "32659fd952ac",
+   "title": "Youth Council",
+   "host": "City of Olympia",
+   "source": "olympia",
+   "area": "Olympia",
+   "county": "Thurston",
+   "category": "council",
+   "start": "2026-11-18T15:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Room 207",
+   "url": "https://olympia.legistar.com/MeetingDetail.aspx?LEGID=7308&GID=218&G=19510D34-31FB-48B8-9C02-4D026953451C",
+   "agenda_url": "https://legistar.granicus.com/olympia/meetings/2026/11/7308_A_Youth_Council_26-11-18_Meeting_Agenda.pdf",
+   "note": "",
+   "cancelled": false,
+   "highlights": [
+    "Discuss and Recommend the 2027 Youth Council Work Plan"
+   ],
+   "highlights_more": 0
+  },
+  {
    "id": "7b790b640308",
    "title": "Airport Board",
    "host": "City of Pullman",
@@ -3446,7 +3267,7 @@
    "all_day": false,
    "location": "119 West First Street, Cle Elum",
    "url": "https://cleelumwa.portal.civicclerk.com/event/1212/overview",
-   "agenda_url": "https://cleelumwa.portal.civicclerk.com/event/1212/files/agenda/3916",
+   "agenda_url": "https://cleelumwa.portal.civicclerk.com/event/1212/files/agenda/3927",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -3873,6 +3694,23 @@
    "location": "",
    "url": "https://www.kentwa.gov/Home/Components/Calendar/Event/7683/",
    "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "a8f647c46b20",
+   "title": "City Council Special Meeting",
+   "host": "City of Sunnyside",
+   "source": "sunnyside",
+   "area": "Sunnyside",
+   "county": "Yakima",
+   "category": "council",
+   "start": "2026-11-18T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "",
+   "url": "https://sunnyside.primegov.com/public/portal",
+   "agenda_url": "https://sunnyside.primegov.com/Portal/Meeting?meetingTemplateId=6768",
    "note": "",
    "cancelled": false
   },
@@ -4963,9 +4801,15 @@
    "all_day": false,
    "location": "119 West First Street, Cle Elum",
    "url": "https://cleelumwa.portal.civicclerk.com/event/1185/overview",
-   "agenda_url": "",
+   "agenda_url": "https://cleelumwa.portal.civicclerk.com/event/1185/files/agenda/3924",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Taryn Lundh resignation and assignment of new secretary",
+    "Librarian Report Update on building improvements. South Cle Elum Interlocal Agreement 2027 Budget",
+    "Update on Washington State Library Board training by Tiffany Yao, who attended last month"
+   ],
+   "highlights_more": 1
   },
   {
    "id": "e3fd4e470c9a",
@@ -5116,8 +4960,8 @@
    "cancelled": false,
    "highlights": [
     "Independent review-Amtrak Cascades preliminary service development plan-project introduction and update",
-    "Transportation challenges and successes in Washington's counties",
-    "JTC workplan update"
+    "Transportation needs and opportunities in Pierce county",
+    "CRAB local roads program update"
    ],
    "highlights_more": 0,
    "topics": [
@@ -5172,7 +5016,7 @@
    "all_day": false,
    "location": "Town Hall Council Chambers , 60 Second Street, Friday Harbor",
    "url": "https://fridayharborwa.portal.civicclerk.com/event/2194/overview",
-   "agenda_url": "https://fridayharborwa.portal.civicclerk.com/event/2194/files/agenda/4404",
+   "agenda_url": "https://fridayharborwa.portal.civicclerk.com/event/2194/files/agenda/4406",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -5180,7 +5024,7 @@
     "Friday Harbor Arts Commission (FHAC) Art Map Washington State Ferry Distribution Update presented by Julie Greene FHAC Coordinator",
     "2027 Town Budget Workshop - Stormwater Rate Discussion, Expenditure Guide, and Executive Summary on Budget presented by Finance Director\u2026"
    ],
-   "highlights_more": 4
+   "highlights_more": 5
   },
   {
    "id": "1088d47b6c00",
@@ -5234,9 +5078,15 @@
    "all_day": false,
    "location": "City Hall, Council Chambers, 216 Prospect Street, Port Orchard",
    "url": "https://portorchardwa.portal.civicclerk.com/event/2665/overview",
-   "agenda_url": "",
+   "agenda_url": "https://portorchardwa.portal.civicclerk.com/event/2665/files/agenda/5481",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    ", Cruisin' Sunday",
+    ", Port Orchard Theatre Foundation",
+    ", Peninsula Film Commission"
+   ],
+   "highlights_more": 8
   },
   {
    "id": "43bd0accd62d",
@@ -5547,9 +5397,15 @@
    "all_day": false,
    "location": "280 Madison Avenue N, Bainbridge Island",
    "url": "https://bainbridgeislandwa.portal.civicclerk.com/event/4118/overview",
-   "agenda_url": "",
+   "agenda_url": "https://bainbridgeislandwa.portal.civicclerk.com/event/4118/files/agenda/11744",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "City Manager, John Mauro",
+    "Approve Meeting Minutes - 10/15/26",
+    "Wastewater Treatment Plant Outfall Extension presentation"
+   ],
+   "highlights_more": 1
   },
   {
    "id": "e6d801fe5ad1",
@@ -5672,7 +5528,7 @@
   },
   {
    "id": "2370b3e7f030",
-   "title": "Planning Commission Meeting",
+   "title": "Planning Commission Meeting CANCELED",
    "host": "City of Prosser",
    "source": "prosser",
    "area": "Prosser",
@@ -5685,7 +5541,7 @@
    "url": "https://prosserwa.portal.civicclerk.com/event/266/overview",
    "agenda_url": "",
    "note": "",
-   "cancelled": false
+   "cancelled": true
   },
   {
    "id": "20664f58ec58",
@@ -5927,6 +5783,23 @@
    "cancelled": false
   },
   {
+   "id": "8e378a3a3152",
+   "title": "Lodging Tax & Events Committee - Special Meeting",
+   "host": "City of Cle Elum",
+   "source": "cle-elum",
+   "area": "Cle Elum",
+   "county": "Kittitas",
+   "category": "council",
+   "start": "2026-11-20T07:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "119 West First Street, Cle Elum",
+   "url": "https://cleelumwa.portal.civicclerk.com/event/1183/overview",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "46ee401f1f5f",
    "title": "Economic Development Board Meeting",
    "host": "City of Stanwood",
@@ -5966,18 +5839,18 @@
    "cancelled": false
   },
   {
-   "id": "f8685271b966",
-   "title": "Lodging Tax & Events Committee - Special Meeting",
-   "host": "City of Cle Elum",
-   "source": "cle-elum",
-   "area": "Cle Elum",
-   "county": "Kittitas",
+   "id": "776b31754285",
+   "title": "SPECIAL MEETING of the Lodging Tax Advisory Committee",
+   "host": "Jefferson County",
+   "source": "jefferson-county",
+   "area": "countywide",
+   "county": "Jefferson",
    "category": "council",
-   "start": "2026-11-20T08:15:00-08:00",
-   "end": null,
+   "start": "2026-11-20T08:30:00-08:00",
+   "end": "2026-11-20T12:30:00-08:00",
    "all_day": false,
-   "location": "119 W First ST, Cle Elum",
-   "url": "https://cleelumwa.portal.civicclerk.com/event/1183/overview",
+   "location": "Port Townsend WA 98368",
+   "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=14",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -6524,23 +6397,6 @@
    "cancelled": false
   },
   {
-   "id": "4e393ba39a4f",
-   "title": "City Council Meeting",
-   "host": "City of Vancouver",
-   "source": "vancouver",
-   "area": "Vancouver",
-   "county": "Clark",
-   "category": "council",
-   "start": "2026-11-23T16:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "Vancouver City Hall, Council Chambers, 415 West 6th Street, Vancouver",
-   "url": "https://vancouverwa.portal.civicclerk.com/event/1512/overview",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
    "id": "edbc98868efc",
    "title": "Personnel & Finance Committee Meeting",
    "host": "City of White Salmon",
@@ -6604,23 +6460,6 @@
    "all_day": false,
    "location": "",
    "url": "https://www.rustonwa.org/event/city-council-study-session/",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
-   "id": "e395e4e86f15",
-   "title": "City Council",
-   "host": "City of Sequim",
-   "source": "sequim",
-   "area": "Sequim",
-   "county": "Clallam",
-   "category": "council",
-   "start": "2026-11-23T17:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "Council Chambers, Civic Center, 152 W. Cedar Street",
-   "url": "https://sequimwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=468",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -7038,6 +6877,23 @@
    "cancelled": false
   },
   {
+   "id": "3782cf6e10f8",
+   "title": "City Council",
+   "host": "City of Sequim",
+   "source": "sequim",
+   "area": "Sequim",
+   "county": "Clallam",
+   "category": "council",
+   "start": "2026-11-23T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Chambers, Civic Center, 152 W. Cedar Street",
+   "url": "https://sequimwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=470",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "6988f4ec4c8a",
    "title": "Study Session",
    "host": "City of Sumner",
@@ -7246,6 +7102,27 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
+  },
+  {
+   "id": "9174dd537740",
+   "title": "City Council Meeting",
+   "host": "City of Vancouver",
+   "source": "vancouver",
+   "area": "Vancouver",
+   "county": "Clark",
+   "category": "council",
+   "start": "2026-11-23T18:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Vancouver City Hall, Council Chambers, 415 West 6th Street, Vancouver",
+   "url": "https://vancouverwa.portal.civicclerk.com/event/1512/overview",
+   "agenda_url": "https://vancouverwa.portal.civicclerk.com/event/1512/files/agenda/3224",
+   "note": "",
+   "cancelled": false,
+   "highlights": [
+    "Public Notice"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "bfafff1b85f2",
@@ -8754,6 +8631,23 @@
    "cancelled": false
   },
   {
+   "id": "0f7f441d405c",
+   "title": "City Council Work Session",
+   "host": "City of Tumwater",
+   "source": "tumwater",
+   "area": "Tumwater",
+   "county": "Thurston",
+   "category": "council",
+   "start": "2026-11-24T18:00:00-08:00",
+   "end": "2026-11-24T22:00:00-08:00",
+   "all_day": false,
+   "location": "",
+   "url": "https://www.ci.tumwater.wa.us/Home/Components/Calendar/Event/9875/",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "dd6b6b5ea8a1",
    "title": "Board meeting",
    "host": "Cosmopolis School District",
@@ -9808,6 +9702,23 @@
    "cancelled": true
   },
   {
+   "id": "c0f834866831",
+   "title": "Operational Strategy and Administrative Committee",
+   "host": "City of Tacoma",
+   "source": "tacoma",
+   "area": "Tacoma",
+   "county": "Pierce",
+   "category": "council",
+   "start": "2026-11-27T10:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Webinar Link: www.zoom.us/j/91923690364 Passcode: 614650",
+   "url": "https://cityoftacoma.legistar.com/MeetingDetail.aspx?LEGID=10966&GID=343&G=13864D1C-3F21-43C1-8E51-A93D1669D0F4",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "934166d91944",
    "title": "Council-Administration Interaction Committee",
    "host": "City of Snoqualmie",
@@ -9837,6 +9748,23 @@
    "all_day": false,
    "location": "Courthouse Complex - 35 C ST NW Ephrata WA 98823",
    "url": "/common/modules/iCalendar/iCalendar.aspx?feed=calendar&catID=31",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "e95bd80f65e1",
+   "title": "BoCC Working Session Meeting",
+   "host": "Spokane County",
+   "source": "spokane-county",
+   "area": "countywide",
+   "county": "Spokane",
+   "category": "other",
+   "start": "2026-11-30T08:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Board of County Commissioners' Conference Room - 1116 W. Broadway Avenue, First Floor, Room 101, Spokane County Courthouse, Spokane",
+   "url": "https://spokanecowa.portal.civicclerk.com/event/2381/overview",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -9925,23 +9853,6 @@
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go. Regular commission meetings are every other Tuesday at 9 a.m.; see the county's page for dates.",
    "cancelled": true
-  },
-  {
-   "id": "aa9ce257da80",
-   "title": "BoCC Working Session Meeting",
-   "host": "Spokane County",
-   "source": "spokane-county",
-   "area": "countywide",
-   "county": "Spokane",
-   "category": "other",
-   "start": "2026-11-30T09:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "Board of County Commissioners' Conference Room - 1116 W. Broadway Avenue, First Floor, Room 101, Spokane County Courthouse, Spokane",
-   "url": "https://spokanecowa.portal.civicclerk.com/event/2381/overview",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
   },
   {
    "id": "9220136c3666",
@@ -10415,6 +10326,23 @@
    "all_day": false,
    "location": "Kennewick City Hall 210 W 6th Avenue Cascade Conference Room Kennewick, WA 99336",
    "url": "https://kennewickwa.portal.civicclerk.com/event/2159/overview",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "6318473c0601",
+   "title": "Veterans Advisory Board Meeting Nov. and Dec. Special Meeting",
+   "host": "San Juan County",
+   "source": "san-juan-county",
+   "area": "countywide",
+   "county": "San Juan",
+   "category": "council",
+   "start": "2026-12-01T12:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "55 Second St N 1st Floor, Small Conference Room, Friday Harbor",
+   "url": "https://sanjuancowa.portal.civicclerk.com/event/4462/overview",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -12399,23 +12327,6 @@
    "cancelled": true
   },
   {
-   "id": "c9ef71b1914c",
-   "title": "Development Commission",
-   "host": "City of Issaquah",
-   "source": "issaquah",
-   "area": "Issaquah",
-   "county": "King",
-   "category": "council",
-   "start": "2026-12-02T18:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "Council Chambers, 135 E. Sunset Way, Issaquah WA",
-   "url": "https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=21519",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
    "id": "e1d49005fd5c",
    "title": "Planning Commission meeting",
    "host": "City of Lakewood",
@@ -13441,21 +13352,21 @@
    "start": "2026-12-07T09:00:00-08:00",
    "end": null,
    "all_day": false,
-   "location": "Board of County Commissioners' Conference Room - 1116 W. Broadway Avenue, First Floor, Room 101, Spokane County Courthouse, Spokane",
+   "location": "Board of County Commissioners' Hearing Room - 1026 W. Broadway Avenue, Lower Level, Spokane County Public Works Building, Spokane",
    "url": "https://spokanecowa.portal.civicclerk.com/event/2382/overview",
    "agenda_url": "",
    "note": "",
    "cancelled": false
   },
   {
-   "id": "cf03e5b53e2e",
-   "title": "BoCC Strategic Planning Meeting - 1st Monday",
+   "id": "5b67d8b5e57c",
+   "title": "BoCC Strategic Planning Meeting",
    "host": "Spokane County",
    "source": "spokane-county",
    "area": "countywide",
    "county": "Spokane",
    "category": "other",
-   "start": "2026-12-07T09:00:00-08:00",
+   "start": "2026-12-07T09:15:00-08:00",
    "end": null,
    "all_day": false,
    "location": "Board of County Commissioners' Conference Room - 1116 W. Broadway Avenue, First Floor, Room 101, Spokane County Courthouse, Spokane",
@@ -15598,6 +15509,23 @@
    "all_day": false,
    "location": "Evergreen Room - Administrative Service Center 13413 NE LeRoy Haagen Memorial Drive",
    "url": "https://evergreenps.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=641",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "f759207a82a9",
+   "title": "REGULAR SCHOOL BOARD MEETING- Study Session",
+   "host": "Orcas Island School District",
+   "source": "orcas-island-schools",
+   "area": "Eastsound",
+   "county": "San Juan",
+   "category": "school",
+   "start": "2026-12-08T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "OISD Library and via zoom",
+   "url": "https://orcasislandschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=225",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -19831,6 +19759,23 @@
    "cancelled": false
   },
   {
+   "id": "5d9d3b50df1e",
+   "title": "City Council",
+   "host": "City of Sequim",
+   "source": "sequim",
+   "area": "Sequim",
+   "county": "Clallam",
+   "category": "council",
+   "start": "2026-12-14T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Chambers, Civic Center, 152 W. Cedar Street",
+   "url": "https://sequimwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=469",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "4ad0f80febd0",
    "title": "Regular Planning Commission Meeting",
    "host": "City of Stevenson",
@@ -23288,6 +23233,23 @@
    "cancelled": false
   },
   {
+   "id": "5b66e0587e2d",
+   "title": "School Board Meeting",
+   "host": "Onion Creek School District",
+   "source": "onion-creek-schools",
+   "area": "Colville",
+   "county": "Stevens",
+   "category": "school",
+   "start": "2026-12-17T17:00:00-08:00",
+   "end": "2026-12-17T19:00:00-08:00",
+   "all_day": false,
+   "location": "",
+   "url": "http://www.ocsd30.org/",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "399ee06b056e",
    "title": "Utility Advisory Committee",
    "host": "City of Bainbridge Island",
@@ -23836,7 +23798,7 @@
   },
   {
    "id": "6eacc93dddae",
-   "title": "BoCC Strategic Planning Meeting - 3rd Monday",
+   "title": "There will be no BoCC Strategic Planning Meeting",
    "host": "Spokane County",
    "source": "spokane-county",
    "area": "countywide",
@@ -24380,7 +24342,7 @@
   },
   {
    "id": "09a4396de006",
-   "title": "BoCC Board Briefing Meeting",
+   "title": "There will be no BoCC Board Briefing Meeting",
    "host": "Spokane County",
    "source": "spokane-county",
    "area": "countywide",
@@ -24567,7 +24529,7 @@
   },
   {
    "id": "8d7d3fd4b820",
-   "title": "BoCC Regular Legislative Session Meeting",
+   "title": "There will be no BoCC Regular Legislative Session Meeting",
    "host": "Spokane County",
    "source": "spokane-county",
    "area": "countywide",
@@ -26539,7 +26501,7 @@
   },
   {
    "id": "35bde01d1dfc",
-   "title": "BoCC Board Briefing Meeting",
+   "title": "There will be no BoCC Board Briefing Meeting",
    "host": "Spokane County",
    "source": "spokane-county",
    "area": "countywide",
@@ -26607,7 +26569,7 @@
   },
   {
    "id": "5b65627a4507",
-   "title": "BoCC Regular Legislative Session Meeting",
+   "title": "There will be no BoCC Regular Legislative Session Meeting",
    "host": "Spokane County",
    "source": "spokane-county",
    "area": "countywide",
@@ -29610,6 +29572,23 @@
    "all_day": false,
    "location": "45672 Main St, Concrete, WA 98237, USA",
    "url": "https://www.townofconcrete.com/",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "9dcd43fb8142",
+   "title": "Council Meeting",
+   "host": "Town of Naches",
+   "source": "naches",
+   "area": "Naches",
+   "county": "Yakima",
+   "category": "council",
+   "start": "2027-01-11T18:00:00-08:00",
+   "end": "2027-01-11T19:00:00-08:00",
+   "all_day": false,
+   "location": "Naches Town Hall, 29 E. Second Street, Naches, WA, 98937",
+   "url": "https://townofnaches.com/event/council-meeting-12/",
    "agenda_url": "",
    "note": "",
    "cancelled": false
