@@ -395,7 +395,59 @@ def normalize_ics(src, ics_text, start_day, end_day, tz):
 
 
 def fetch_ics(src, start_day, end_day, tz):
-    return normalize_ics(src, get(src["url"]).content, start_day, end_day, tz)
+    content = get(src["url"]).content
+    if not content.strip() and "ical=1" in src["url"]:
+        # WordPress sites running The Events Calendar ("?ical=1" feeds) sometimes
+        # return a blank page for the iCal export while the plugin's own events
+        # API still answers (Gold Bar, Nov 2026). Read that instead.
+        return fetch_events_calendar_api(src, start_day, end_day, tz)
+    return normalize_ics(src, content, start_day, end_day, tz)
+
+
+def fetch_events_calendar_api(src, start_day, end_day, tz):
+    """Upcoming events from a WordPress site's The Events Calendar REST API."""
+    parts = urlsplit(src["url"])
+    api = f"{parts.scheme}://{parts.netloc}/wp-json/tribe/events/v1/events"
+    events = []
+    for page in range(1, 11):  # 50 a page; a city calendar never needs more
+        reply = get(api, params={"start_date": f"{start_day.isoformat()} 00:00:00",
+                                 "end_date": f"{end_day.isoformat()} 23:59:59",
+                                 "per_page": 50, "page": page})
+        data = reply.json()
+        events += normalize_events_calendar_api(src, data.get("events") or [], tz)
+        if page >= int(data.get("total_pages") or 1):
+            break
+    return events
+
+
+def normalize_events_calendar_api(src, items, tz):
+    def when(item, local_key, utc_key):
+        if item.get(utc_key):
+            return datetime.fromisoformat(item[utc_key]).replace(tzinfo=ZoneInfo("UTC")).astimezone(tz)
+        if item.get(local_key):
+            return datetime.fromisoformat(item[local_key]).replace(tzinfo=tz)
+        return None
+
+    events = []
+    for item in items:
+        start = when(item, "start_date", "utc_start_date")
+        title = re.sub(r"<[^>]+>", " ", item.get("title") or "")
+        if not start or not title.strip():
+            continue
+        all_day = bool(item.get("all_day"))
+        venue = item.get("venue") if isinstance(item.get("venue"), dict) else {}
+        place = ", ".join(x for x in (venue.get("venue"), venue.get("address"), venue.get("city")) if x)
+        events.append(make_event(
+            src,
+            title=title,
+            start=start.replace(hour=0, minute=0, second=0) if all_day else start,
+            end=None if all_day else when(item, "end_date", "utc_end_date"),
+            all_day=all_day,
+            location=html_unescape(place),
+            url=item.get("url") or "",
+            uid=str(item.get("id") or ""),
+        ))
+    return events
 
 
 def local(tag: str) -> str:
