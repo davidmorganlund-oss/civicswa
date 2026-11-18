@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       list:
-        description: TSV of name, county, homepage
+        description: TSV of name, county, homepage (a file in tools/), or "schools"
         default: tools/cities.tsv
 permissions:
   contents: read
@@ -11,12 +11,25 @@ permissions:
 jobs:
   probe:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
         with: { python-version: "3.12" }
-      - run: pip install requests
-      - if: inputs.list == 'schools'
-        run: python tools/ospi.py tools/schools.tsv && cat tools/schools.tsv | sed 's/^/SCHOOLROW /'
-      - run: python tools/probe.py "${{ inputs.list == 'schools' && 'tools/schools.tsv' || inputs.list }}" probe.json
-      - run: python -c "import json;[print('PROBE', json.dumps(r)) for r in json.load(open('probe.json'))]"
+      - run: pip install -r requirements.txt
+      # The typed-in list name reaches the shell only as a variable, and only
+      # a plain file name in tools/ (or "schools") is accepted.
+      - name: Probe
+        env:
+          LIST: ${{ inputs.list }}
+        run: |
+          if [ "$LIST" = "schools" ]; then
+            python tools/ospi.py tools/schools.tsv
+            sed 's/^/SCHOOLROW /' tools/schools.tsv
+            LIST=tools/schools.tsv
+          elif ! [[ "$LIST" =~ ^tools/[A-Za-z0-9_-][A-Za-z0-9._-]*\.tsv$ ]]; then
+            echo "::error::list must be \"schools\" or a .tsv file in tools/, like tools/cities.tsv"
+            exit 1
+          fi
+          python tools/probe.py "$LIST" probe.json
+          python -c "import json;[print('PROBE', json.dumps(r)) for r in json.load(open('probe.json'))]"

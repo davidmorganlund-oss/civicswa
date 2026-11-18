@@ -1,0 +1,14 @@
+# Proposes updates to the pinned Python packages and GitHub Actions once a
+# month, each set as a single pull request, so security fixes aren't missed.
+version: 2
+updates:
+  - package-ecosystem: pip
+    directory: /
+    schedule: { interval: monthly }
+    groups:
+      python: { patterns: ["*"] }
+  - package-ecosystem: github-actions
+    directory: /
+    schedule: { interval: monthly }
+    groups:
+      actions: { patterns: ["*"] }

@@ -1,6 +1,7 @@
 """Checks the three connectors against records shaped like the real feeds."""
 import sys
-from datetime import date
+import json
+from datetime import date, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -415,4 +416,73 @@ def test_partial_links_fall_back_to_the_host_page(monkeypatch, tmp_path):
     from datetime import datetime
     build.write_ics([e], tmp_path / "t.ics", datetime(2026, 11, 17, tzinfo=TZ))
     assert "URL:" not in (tmp_path / "t.ics").read_text()
+
+
+def test_duplicate_postings_are_merged():
+    from datetime import datetime
+    src = {"id": "lacey", "name": "City of Lacey", "area": "Lacey", "homepage": "https://cityoflacey.org"}
+    when = datetime(2026, 12, 1, 18, 0, tzinfo=TZ)
+    bare = build.make_event(src, title="City Council Meeting", start=when, uid="1369")
+    full = build.make_event(src, title="City Council  meeting", start=when, uid="1569",
+                            agenda_url="https://laceywa.portal.civicclerk.com/event/1569/files/agenda/9",
+                            location="Lacey City Hall")
+    other = build.make_event(src, title="Planning Commission", start=when, uid="7")
+    later = build.make_event(src, title="City Council Meeting", start=datetime(2026, 12, 15, 18, 0, tzinfo=TZ), uid="8")
+    got = build.merge_duplicates([bare, other, full, later])
+    assert [e["id"] for e in got] == [full["id"], other["id"], later["id"]]
+
+
+def test_one_site_never_gets_more_than_two_requests_at_once(monkeypatch):
+    import sys
+    import threading
+    import time
+    from concurrent.futures import ThreadPoolExecutor
+    __import__("requests")  # make sure build.get finds it loaded
+
+    live, peak, guard = {"n": 0}, {"n": 0}, threading.Lock()
+
+    class Reply:
+        def raise_for_status(self):
+            pass
+
+    def fake_get(url, params=None, headers=None, timeout=None):
+        with guard:
+            live["n"] += 1
+            peak["n"] = max(peak["n"], live["n"])
+        time.sleep(0.02)
+        with guard:
+            live["n"] -= 1
+        return Reply()
+
+    monkeypatch.setattr(sys.modules["requests"], "get", fake_get)
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        list(pool.map(lambda i: build.get(f"https://same.example.org/feed/{i}"), range(16)))
+    assert peak["n"] == build.PER_HOST == 2
+
+
+def test_sources_are_read_in_parallel_and_kept_in_order(monkeypatch, tmp_path):
+    import time
+    from datetime import datetime
+    cfg = tmp_path / "sources.yml"
+    cfg.write_text("window_days: 30\ntimezone: America/Los_Angeles\nsources:\n" + "".join(
+        f"  - {{id: s{i}, name: Source {i}, type: fake, county: King, area: Kent}}\n" for i in range(8)))
+
+    def fake(src, start_day, end_day, tz):
+        time.sleep(0.3)
+        if src["id"] == "s3":
+            raise RuntimeError("site is down")
+        start = datetime.combine(start_day + timedelta(days=1), datetime.min.time(), tz).replace(hour=18)
+        return [build.make_event(src, title="Council", start=start, uid=src["id"])] * 2  # posted twice
+
+    monkeypatch.setitem(build.CONNECTORS, "fake", fake)
+    monkeypatch.setattr(build, "CONFIG", cfg)
+    monkeypatch.setattr(build, "OUT", tmp_path / "data")
+    began = time.monotonic()
+    assert build.main() == 0
+    assert time.monotonic() - began < 1.5  # eight 0.3 s sources, not 2.4 s one after another
+    status = json.loads((tmp_path / "data" / "status.json").read_text())["sources"]
+    assert [s["id"] for s in status] == [f"s{i}" for i in range(8)]
+    assert status[3]["state"] == "failing" and all(s["state"] == "ok" for s in status if s["id"] != "s3")
+    events = json.loads((tmp_path / "data" / "events.json").read_text())["events"]
+    assert len(events) == 7  # one per working source, duplicates merged
 

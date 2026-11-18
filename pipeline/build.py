@@ -15,16 +15,27 @@ import json
 import re
 from html import unescape as html_unescape
 import sys
+import threading
+import time as stopwatch
+from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, time, timedelta
 from pathlib import Path
+from urllib.parse import urlsplit
 from zoneinfo import ZoneInfo
 
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "site" / "data"
+CONFIG = ROOT / "pipeline" / "sources.yml"
 UA = "CivicsWA-pilot/0.1 (BarNone nonprofit civic calendar; contact via barnoneinc.org)"
 TIMEOUT = 45
+# Sources are read in parallel so a few slow websites can't push the nightly
+# run past its time limit. No single website gets more than PER_HOST
+# requests at once, so shared platforms (dozens of school districts on one
+# provider) are not hammered.
+WORKERS = 8
+PER_HOST = 2
 
 
 # ---------- shared helpers ----------
@@ -116,9 +127,20 @@ def make_event(src, *, title, start, end=None, all_day=False, location="", url="
     }
 
 
+_host_slots: dict = {}
+_host_guard = threading.Lock()
+
+
+def host_slot(url):
+    host = urlsplit(url).netloc.lower()
+    with _host_guard:
+        return _host_slots.setdefault(host, threading.BoundedSemaphore(PER_HOST))
+
+
 def get(url, params=None):
     import requests
-    resp = requests.get(url, params=params, headers={"User-Agent": UA}, timeout=TIMEOUT)
+    with host_slot(url):
+        resp = requests.get(url, params=params, headers={"User-Agent": UA}, timeout=TIMEOUT)
     resp.raise_for_status()
     return resp
 
@@ -1048,6 +1070,24 @@ def write_ics(events, path: Path, stamp: datetime, name: str = "Washington"):
     path.write_text("\r\n".join(lines) + "\r\n", encoding="utf-8")
 
 
+def merge_duplicates(events):
+    """Hosts sometimes post the same meeting twice (two calendar entries for
+    one council meeting). Keep one per title and start time, preferring the
+    copy with an agenda, agenda items and a place."""
+    def detail(e):
+        return (bool(e.get("agenda_url")), len(e.get("highlights") or []), len(e.get("bills") or []),
+                bool(e.get("location")), len(e.get("note") or ""))
+    best, order = {}, []
+    for e in events:
+        key = (" ".join(e["title"].lower().split()), e["start"], e["cancelled"])
+        if key not in best:
+            order.append(key)
+            best[key] = e
+        elif detail(e) > detail(best[key]):
+            best[key] = e
+    return [best[k] for k in order]
+
+
 def apply_source_rules(src, events):
     """Per-source tidying set in sources.yml.
 
@@ -1091,7 +1131,7 @@ def load_previous_status() -> dict:
 
 
 def main() -> int:
-    cfg = yaml.safe_load((Path(__file__).parent / "sources.yml").read_text())
+    cfg = yaml.safe_load(CONFIG.read_text())
     tz = ZoneInfo(cfg["timezone"])
     now = datetime.now(tz)
     start_day, end_day = now.date(), now.date() + timedelta(days=cfg["window_days"])
@@ -1101,15 +1141,15 @@ def main() -> int:
     except Exception:
         old_events = []
 
-    all_events, statuses = [], []
-    for src in cfg["sources"]:
+    def read(src):
         status = {"id": src["id"], "name": src["name"], "homepage": src.get("homepage", ""),
                   "county": src.get("county", "Thurston"),
                   "checked": now.isoformat(timespec="seconds")}
+        began = stopwatch.monotonic()
         try:
             found = CONNECTORS[src["type"]](src, start_day, end_day, tz)
             found = [e for e in found if start_day <= datetime.fromisoformat(e["start"]).date() <= end_day]
-            found = apply_source_rules(src, found)
+            found = merge_duplicates(apply_source_rules(src, found))
             status.update(ok=True, count=len(found), last_success=status["checked"], error="", failing_since="")
             # A source that answers but lists nothing is suspicious, not fine.
             status["state"] = "ok" if found else "quiet"
@@ -1122,8 +1162,15 @@ def main() -> int:
                           last_success=previous.get(src["id"], {}).get("last_success", ""),
                           error=f"{type(exc).__name__}: {exc}"[:300])
             print(f"[warn] {src['id']}: {status['error']}", file=sys.stderr)
-        all_events.extend(found)
-        statuses.append(status)
+        # How long each source took, so a slow one is easy to spot.
+        status["seconds"] = round(stopwatch.monotonic() - began, 1)
+        return found, status
+
+    all_events, statuses = [], []
+    with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+        for found, status in pool.map(read, cfg["sources"]):  # results stay in sources.yml order
+            all_events.extend(found)
+            statuses.append(status)
 
     for e in all_events:
         for k in [k for k in e if k.startswith("_")]:
@@ -1145,7 +1192,7 @@ def main() -> int:
     write_ics([e for e in events if e["county"] == "Thurston"], OUT / "thurston.ics", now, "Thurston County")
 
     for s in statuses:
-        print(f"{s['state']:8} {s['count']:4}  {s['name']}")
+        print(f"{s['state']:8} {s['count']:4} {s['seconds']:6.1f}s  {s['name']}")
     print(f"total {len(events)} events through {end_day}")
     # Fail the run only when every source failed, so the nightly job goes red.
     return 1 if statuses and not any(s["ok"] for s in statuses) else 0
