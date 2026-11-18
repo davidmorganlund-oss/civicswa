@@ -293,6 +293,22 @@ def fetch_legistar(src, start_day, end_day, tz):
     return events
 
 
+# Some CivicClerk portals name events only by date and kind ("November 17,
+# 2026, Meeting") and keep the body in the category ("City Council").
+CIVICCLERK_LEADING_DATE = re.compile(r"^\s*[A-Z][a-z]+\.? \d{1,2},? \d{4},?\s*[-–:]?\s*")
+GENERIC_MEETING = re.compile(
+    r"^(?:(?:regular|special|study|work|joint|emergency)\s+)*(?:meeting|session|workshop|hearing)s?$", re.I)
+
+
+def civicclerk_title(r) -> str:
+    name = (r.get("eventName") or "").strip()
+    body = (r.get("categoryName") or "").strip()
+    rest = CIVICCLERK_LEADING_DATE.sub("", name).strip()
+    if body and (not rest or GENERIC_MEETING.match(rest)) and body.lower() not in name.lower():
+        return f"{body} {rest}".strip()
+    return name or body or "Public meeting"
+
+
 def normalize_civicclerk(src, rows, tz):
     events = []
     for r in rows:
@@ -314,7 +330,7 @@ def normalize_civicclerk(src, rows, tz):
         events.append(make_event(
             src,
             agenda_url=f"https://{tenant}.portal.civicclerk.com/event/{r['id']}/files/agenda/{agenda['fileId']}" if agenda else "",
-            title=r.get("eventName") or r.get("categoryName") or "Public meeting",
+            title=civicclerk_title(r),
             start=start,
             location=place,
             url=f"https://{tenant}.portal.civicclerk.com/event/{r['id']}/overview",

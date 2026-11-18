@@ -486,3 +486,16 @@ def test_sources_are_read_in_parallel_and_kept_in_order(monkeypatch, tmp_path):
     events = json.loads((tmp_path / "data" / "events.json").read_text())["events"]
     assert len(events) == 7  # one per working source, duplicates merged
 
+
+def test_civicclerk_titles_name_the_body_when_the_event_name_is_only_a_date():
+    cases = {
+        ("November 17, 2026, Meeting", "City Council"): "City Council Meeting",
+        ("November 10, 2026, Special Meeting", "City Council"): "City Council Special Meeting",
+        ("Study Session", "City Council"): "City Council Study Session",
+        ("City Council Meeting", "City Council"): "City Council Meeting",
+        ("Planning Commission", "Boards and Commissions"): "Planning Commission",
+        ("", "Parks Board"): "Parks Board",
+    }
+    for (name, body), want in cases.items():
+        assert build.civicclerk_title({"eventName": name, "categoryName": body}) == want
+
