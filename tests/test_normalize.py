@@ -549,3 +549,15 @@ def test_blank_feed_from_other_hosts_is_still_an_error(monkeypatch):
     with pytest.raises(ValueError):
         build.fetch_ics(src, date(2026, 11, 18), date(2027, 1, 17), TZ)
 
+
+def test_separate_meetings_sharing_one_uid_are_all_kept():
+    def vevent(day, uid="same", extra=""):
+        return (f"BEGIN:VEVENT\r\nUID:{uid}\r\nSUMMARY:City Council Meetings\r\n"
+                f"DTSTART;TZID=America/Los_Angeles:2026{day}T190000\r\n{extra}END:VEVENT\r\n")
+    ics = ("BEGIN:VCALENDAR\r\nVERSION:2.0\r\n" + vevent("0810") + vevent("1207") + vevent("1214")
+           + vevent("1201", uid="series", extra="RRULE:FREQ=WEEKLY;COUNT=3\r\n") + "END:VCALENDAR\r\n").encode()
+    src = {"id": "bellingham", "name": "City of Bellingham", "area": "Bellingham"}
+    got = build.normalize_ics(src, ics, date(2026, 11, 18), date(2027, 1, 17), TZ)
+    starts = sorted(e["start"][:10] for e in got)
+    assert starts == ["2026-12-01", "2026-12-07", "2026-12-08", "2026-12-14", "2026-12-15"]
+

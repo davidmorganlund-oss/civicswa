@@ -1303,16 +1303,7 @@ sources:
   # Granicus govAccess, like Kent and Tumwater. Lists only the next few days.
   - {id: wenatchee, name: City of Wenatchee, county: Chelan, area: Wenatchee, type: govaccess_rss, url: 'https://www.wenatcheewa.gov/Home/Components/RssFeeds/RssFeed/View?ctID=6', default_category: council, homepage: 'https://www.wenatcheewa.gov/get-involved/city-calendar'}
 
-  # Granicus govAccess (Drupal) sites publish the whole calendar as one iCal feed.
-  - {id: camas, name: City of Camas, county: Clark, area: Camas, type: ics, url: 'https://www.cityofcamas.us/calendar/ical/%2A/calendar.ics', include: council|commission|board|committee|hearing|meeting|session|workshop|hearings examiner, exclude: 'offices closed|holiday', homepage: 'https://www.cityofcamas.us/meetings'}
-
-  - {id: port-townsend, name: City of Port Townsend, county: Jefferson, area: Port Townsend, type: ics, url: 'https://cityofpt.us/calendar/ical/%2A/calendar.ics', include: council|commission|board|committee|hearing|meeting|session|workshop, exclude: 'offices closed|library closed|holiday', homepage: 'https://cityofpt.us/citycouncil/page/agendasminutesvideos'}
-
-  - {id: chehalis, name: City of Chehalis, county: Lewis, area: Chehalis, type: ics, url: 'https://www.ci.chehalis.wa.us/calendar/ical/calendar.ics', include: council|commission|board|committee|hearing|meeting|session|workshop, exclude: 'offices closed|holiday', homepage: 'https://www.ci.chehalis.wa.us/calendar'}
-
   - {id: centralia, name: City of Centralia, county: Lewis, area: Centralia, type: civicplus, site: 'https://www.cityofcentralia.com', categories: [24], drop_uncategorized: true, homepage: 'https://www.cityofcentralia.com/Calendar.aspx'}
-
-  - {id: woodinville, name: City of Woodinville, county: King, area: Woodinville, type: civicplus, site: 'https://www.woodinville.gov', categories: [14], drop_uncategorized: true, homepage: 'https://www.woodinville.gov/163/Meetings-Agendas'}
 
   # City meetings, plus the Quincy Valley Recreation and Parks District board.
   - {id: quincy, name: City of Quincy, county: Grant, area: Quincy, type: civicplus, site: 'https://www.quincywashington.us', categories: [22, 25], drop_uncategorized: true, homepage: 'https://www.quincywashington.us/Calendar.aspx'}
@@ -1651,6 +1642,11 @@ sources:
 #   Shoreline (govAccess calendar feed) and Everett (CivicPlus calendar) both
 #   refuse requests from GitHub's servers (HTTP 403), so they are left out
 #   rather than worked around.
+#   Also refusing GitHub's servers (checked November 2026), though each has a
+#   readable feed: Camas (cityofcamas.us/calendar/ical/%2A/calendar.ics) and
+#   Port Townsend (cityofpt.us/calendar/ical/%2A/calendar.ics) close the
+#   connection; Chehalis (ci.chehalis.wa.us/calendar/ical/calendar.ics) and
+#   Woodinville (CivicPlus category 14) answer 403.
 #   No feed found (checked November 2026); meetings are only on web pages:
 #   Federal Way (Drupal calendar page), SeaTac (Granicus OpenCities calendar),
 #   Walla Walla (agendas.ci.walla-walla.wa.us monthly list), Maple Valley,

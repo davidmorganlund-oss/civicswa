@@ -358,11 +358,27 @@ def fetch_civicclerk(src, start_day, end_day, tz):
     return events
 
 
+def separate_shared_uids(cal):
+    """Some feeds give many separate meetings one UID (Bellingham's council
+    meetings all share one). Calendar readers treat a repeated UID as edits
+    of one event and keep a single copy, so give each its own UID. Repeating
+    series (RRULE) and their changed dates (RECURRENCE-ID) are left alone."""
+    import collections
+    singles = [c for c in cal.walk("VEVENT") if not c.get("RRULE") and not c.get("RECURRENCE-ID")]
+    counts = collections.Counter(str(c.get("UID", "")) for c in singles)
+    for comp in singles:
+        uid = str(comp.get("UID", ""))
+        if uid and counts[uid] > 1 and comp.get("DTSTART"):
+            del comp["UID"]
+            comp.add("UID", f"{uid}#{comp['DTSTART'].to_ical().decode()}")
+
+
 def normalize_ics(src, ics_text, start_day, end_day, tz):
     import icalendar
     import recurring_ical_events
 
     cal = icalendar.Calendar.from_ical(ics_text)
+    separate_shared_uids(cal)
     window_start = datetime.combine(start_day, time(0, 0), tz)
     window_end = datetime.combine(end_day, time(23, 59), tz)
     events = []
