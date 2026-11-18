@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T09:28:16-08:00",
+ "generated": "2026-11-18T09:37:04-08:00",
  "events": [
   {
    "id": "8ddfaa837147",
@@ -290,6 +290,23 @@
    "cancelled": false
   },
   {
+   "id": "323c9a02622b",
+   "title": "Public Safety Committee",
+   "host": "City of Seattle",
+   "source": "seattle",
+   "area": "Seattle",
+   "county": "King",
+   "category": "council",
+   "start": "2026-11-18T09:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Chamber, City Hall 600 4th Avenue Seattle, WA 98104",
+   "url": "https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6927&GID=393&G=FFE3B678-CEF6-4197-84AC-5204EA4CFC0C",
+   "agenda_url": "",
+   "note": "Cancellation Notice",
+   "cancelled": true
+  },
+  {
    "id": "35b718c7d303",
    "title": "Local Services and Land Use Committee",
    "host": "King County",
@@ -468,6 +485,23 @@
    "location": "415 W 6th Street, Vancouver",
    "url": "https://vancouverwa.portal.civicclerk.com/event/1722/overview",
    "agenda_url": "https://vancouverwa.portal.civicclerk.com/event/1722/files/agenda/3200",
+   "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "f7b641250eb3",
+   "title": "Peninsula Housing Authority Meeting",
+   "host": "Clallam County",
+   "source": "clallam-county",
+   "area": "countywide",
+   "county": "Clallam",
+   "category": "council",
+   "start": "2026-11-18T12:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "",
+   "url": "https://clallamcowa.portal.civicclerk.com/event/5307/overview",
+   "agenda_url": "",
    "note": "",
    "cancelled": false
   },
@@ -4970,7 +5004,7 @@
    "cancelled": false
   },
   {
-   "id": "d311ebb35ef8",
+   "id": "baaee54074a9",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -6818,7 +6852,7 @@
    "all_day": false,
    "location": "Council Chamber, City Hall 600 4th Avenue Seattle, WA 98104",
    "url": "https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6926&GID=393&G=FFE3B678-CEF6-4197-84AC-5204EA4CFC0C",
-   "agenda_url": "",
+   "agenda_url": "https://legistar2.granicus.com/seattle/meetings/2026/11/6926_A_Housing%2C_Arts%2C_and_Civil_Rights_Committee_26-11-25_Committee_Agenda.pdf",
    "note": "Cancellation Notice",
    "cancelled": true
   },
@@ -11133,6 +11167,23 @@
    ]
   },
   {
+   "id": "465b5f0f5bb1",
+   "title": "City Council Meetings",
+   "host": "City of Bellingham",
+   "source": "bellingham",
+   "area": "Bellingham",
+   "county": "Whatcom",
+   "category": "council",
+   "start": "2026-12-07T10:00:00-08:00",
+   "end": "2026-12-07T21:00:00-08:00",
+   "all_day": false,
+   "location": "210 Lottie Street",
+   "url": "https://cob.org/events/city-council-meetings-5-4",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "c3b06d0f7286",
    "title": "2027 Budget Public Hearing",
    "host": "Island County",
@@ -13276,23 +13327,6 @@
    "all_day": false,
    "location": "Evergreen Room - Administrative Service Center 13413 NE LeRoy Haagen Memorial Drive",
    "url": "https://evergreenps.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=641",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
-   "id": "f759207a82a9",
-   "title": "REGULAR SCHOOL BOARD MEETING- Study Session",
-   "host": "Orcas Island School District",
-   "source": "orcas-island-schools",
-   "area": "Eastsound",
-   "county": "San Juan",
-   "category": "school",
-   "start": "2026-12-08T17:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "OISD Library and via zoom",
-   "url": "https://orcasislandschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=225",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -16784,6 +16818,23 @@
    "cancelled": false
   },
   {
+   "id": "bccc7a9ef03e",
+   "title": "City Council Meetings",
+   "host": "City of Bellingham",
+   "source": "bellingham",
+   "area": "Bellingham",
+   "county": "Whatcom",
+   "category": "council",
+   "start": "2026-12-14T10:00:00-08:00",
+   "end": "2026-12-14T21:00:00-08:00",
+   "all_day": false,
+   "location": "210 Lottie Street",
+   "url": "https://cob.org/events/city-council-meetings-5-3",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "8dc31058fefb",
    "title": "Civil Service Commission Meeting",
    "host": "City of Cheney",
@@ -19963,6 +20014,23 @@
    "url": "https://my.spokanecity.org/bcc/boards/east-sprague-business-improvement-district-board/",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
+   "id": "5d103b295010",
+   "title": "Peninsula Housing Authority Meeting",
+   "host": "Clallam County",
+   "source": "clallam-county",
+   "area": "countywide",
+   "county": "Clallam",
+   "category": "council",
+   "start": "2026-12-16T12:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "",
+   "url": "https://clallamcowa.portal.civicclerk.com/event/5308/overview",
+   "agenda_url": "",
+   "note": "",
    "cancelled": false
   },
   {
@@ -24307,7 +24375,7 @@
    "cancelled": false
   },
   {
-   "id": "128864a248dd",
+   "id": "9d58a216aa0a",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
