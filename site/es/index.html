@@ -17,6 +17,11 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../styles.css">
+<link rel="manifest" href="/manifest.webmanifest">
+<meta name="theme-color" content="#0033A0">
+<link rel="icon" type="image/png" href="/icons/favicon-48.png">
+<link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="CivicsWA">
 </head>
 <body>
 <a class="skip" href="#events">Ir a las reuniones</a>
@@ -66,6 +71,11 @@
   </main>
 
   <aside class="side">
+    <div class="card" id="install" hidden>
+      <h2>Tenga CivicsWA en su teléfono</h2>
+      <p id="install-text"></p>
+      <button class="btn" id="install-btn" type="button" hidden>Instalar la aplicación</button>
+    </div>
     <div class="card">
       <h2>Téngalo en su teléfono</h2>
       <p id="subscribe-text">Suscríbase una vez y estas reuniones aparecerán en la aplicación de calendario que ya usa.</p>
@@ -93,5 +103,6 @@
 </div></footer>
 
 <script src="../app.js"></script>
+<script src="/pwa.js" defer></script>
 </body>
 </html>

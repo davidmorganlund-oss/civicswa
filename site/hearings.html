@@ -15,6 +15,11 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
+<link rel="manifest" href="/manifest.webmanifest">
+<meta name="theme-color" content="#0033A0">
+<link rel="icon" type="image/png" href="/icons/favicon-48.png">
+<link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="CivicsWA">
 </head>
 <body>
 <a class="skip" href="#hearings">Skip to the meetings</a>
@@ -55,6 +60,11 @@
   </main>
 
   <aside class="side">
+    <div class="card" id="install" hidden>
+      <h2>Put CivicsWA on your phone</h2>
+      <p id="install-text"></p>
+      <button class="btn" id="install-btn" type="button" hidden>Install the app</button>
+    </div>
     <div class="card">
       <h2>What the agenda words mean</h2>
       <p><strong>Public hearing.</strong> The committee takes public testimony on the bill. This is your chance to speak, send written comments or sign in for or against it.</p>
@@ -88,5 +98,6 @@
 </div></footer>
 
 <script src="hearings.js"></script>
+<script src="/pwa.js" defer></script>
 </body>
 </html>
