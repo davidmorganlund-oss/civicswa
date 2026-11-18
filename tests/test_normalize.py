@@ -499,3 +499,65 @@ def test_civicclerk_titles_name_the_body_when_the_event_name_is_only_a_date():
     for (name, body), want in cases.items():
         assert build.civicclerk_title({"eventName": name, "categoryName": body}) == want
 
+
+def test_blank_events_calendar_feed_falls_back_to_its_api(monkeypatch):
+    calls = []
+
+    class Reply:
+        def __init__(self, content=b"", data=None):
+            self.content, self._data = content, data
+
+        def json(self):
+            return self._data
+
+    page = {"total_pages": 1, "events": [
+        {"id": 17412, "title": "City Council Meeting &#8211; Public Hearing", "all_day": False,
+         "start_date": "2026-12-01 19:00:00", "utc_start_date": "2026-12-02 03:00:00",
+         "end_date": "2026-12-01 21:00:00", "utc_end_date": "2026-12-02 05:00:00",
+         "url": "https://cityofgoldbar.us/event/council-meeting/",
+         "venue": {"venue": "Gold Bar City Hall", "address": "107 5th St", "city": "Gold Bar"}},
+        {"id": 2, "title": "Office Closed", "all_day": True, "start_date": "2026-12-25 00:00:00",
+         "utc_start_date": "", "url": "https://cityofgoldbar.us/event/closed/", "venue": []},
+    ]}
+
+    def fake_get(url, params=None):
+        calls.append(url)
+        return Reply(b"") if "ical=1" in url else Reply(data=page)
+
+    monkeypatch.setattr(build, "get", fake_get)
+    src = {"id": "gold-bar", "name": "City of Gold Bar", "area": "Gold Bar", "type": "ics",
+           "url": "https://cityofgoldbar.us/events/?ical=1", "homepage": "https://cityofgoldbar.us/"}
+    got = build.fetch_ics(src, date(2026, 11, 18), date(2027, 1, 17), TZ)
+    assert calls == ["https://cityofgoldbar.us/events/?ical=1",
+                     "https://cityofgoldbar.us/wp-json/tribe/events/v1/events"]
+    council, closed = got
+    assert council["title"] == "City Council Meeting – Public Hearing"
+    assert council["start"].startswith("2026-12-01T19:00")
+    assert council["location"] == "Gold Bar City Hall, 107 5th St, Gold Bar"
+    assert council["url"] == "https://cityofgoldbar.us/event/council-meeting/"
+    assert closed["all_day"] and closed["start"].startswith("2026-12-25")
+
+
+def test_blank_feed_from_other_hosts_is_still_an_error(monkeypatch):
+    import pytest
+
+    class Reply:
+        content = b""
+
+    monkeypatch.setattr(build, "get", lambda url, params=None: Reply())
+    src = {"id": "x", "name": "X", "area": "X", "type": "ics", "url": "https://calendar.example.org/basic.ics"}
+    with pytest.raises(ValueError):
+        build.fetch_ics(src, date(2026, 11, 18), date(2027, 1, 17), TZ)
+
+
+def test_separate_meetings_sharing_one_uid_are_all_kept():
+    def vevent(day, uid="same", extra=""):
+        return (f"BEGIN:VEVENT\r\nUID:{uid}\r\nSUMMARY:City Council Meetings\r\n"
+                f"DTSTART;TZID=America/Los_Angeles:2026{day}T190000\r\n{extra}END:VEVENT\r\n")
+    ics = ("BEGIN:VCALENDAR\r\nVERSION:2.0\r\n" + vevent("0810") + vevent("1207") + vevent("1214")
+           + vevent("1201", uid="series", extra="RRULE:FREQ=WEEKLY;COUNT=3\r\n") + "END:VCALENDAR\r\n").encode()
+    src = {"id": "bellingham", "name": "City of Bellingham", "area": "Bellingham"}
+    got = build.normalize_ics(src, ics, date(2026, 11, 18), date(2027, 1, 17), TZ)
+    starts = sorted(e["start"][:10] for e in got)
+    assert starts == ["2026-12-01", "2026-12-07", "2026-12-08", "2026-12-14", "2026-12-15"]
+
