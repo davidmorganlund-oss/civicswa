@@ -16,6 +16,12 @@ server, database or paid service.
   closes it when everything reads again. Watch the repository to get those emails.
 - When a calendar can't be read, the site keeps showing what it listed the last time
   it worked, and the coverage page says so.
+- `build.py` reads up to 8 calendars at once but never sends one website more than
+  2 requests at a time. The run summary lists how many seconds each source took, so a
+  slow one is easy to find. The job stops after 30 minutes; a normal run takes a few.
+- Python packages (`requirements.txt`) and GitHub Actions are pinned to exact
+  versions. Dependabot opens one pull request a month for each when updates are out;
+  merge it once its checks pass.
 
 ## Adding or fixing a calendar
 
@@ -34,6 +40,8 @@ and published standing schedules (`type: schedule`).
 
 Rules we keep: respect sites that block automated readers or ask them to stay out
 (BoardDocs, robots.txt), and link to their pages instead.
+Removed for that reason: Normandy Park (its events feed began refusing our reader in
+November 2026).
 
 ## Pages that need a hand edit
 

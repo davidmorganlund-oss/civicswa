@@ -768,8 +768,6 @@ sources:
 
   - {id: newcastle, name: City of Newcastle, county: King, area: Newcastle, type: ics, url: 'https://newcastlewa.gov/events/?ical=1', include: council|commission|board|committee|hearing|meeting|session|workshop, homepage: 'https://newcastlewa.gov/events/'}
 
-  - {id: normandy-park, name: City of Normandy Park, county: King, area: Normandy Park, type: ics, url: 'https://normandyparkwa.gov/events/?ical=1', include: council|commission|board|committee|hearing|meeting|session|workshop, homepage: 'https://normandyparkwa.gov/events/'}
-
   - {id: north-bend, name: City of North Bend, county: King, area: North Bend, type: civicclerk, tenant: northbendwa, homepage: 'https://northbendwa.portal.civicclerk.com/'}
 
   - {id: snoqualmie, name: City of Snoqualmie, county: King, area: Snoqualmie, type: civicclerk, tenant: snoqualmiewa, homepage: 'https://snoqualmiewa.portal.civicclerk.com/'}

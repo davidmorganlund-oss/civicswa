@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       file:
-        description: YAML with a sources list
+        description: YAML with a sources list (a file in tools/)
         default: tools/candidates.yml
 permissions:
   contents: read
@@ -11,9 +11,21 @@ permissions:
 jobs:
   trial:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
         with: { python-version: "3.12" }
       - run: pip install -r requirements.txt
-      - run: python tools/trial.py "${{ inputs.file }}" ${{ contains(inputs.file, 'guess') && 16 || 4 }}
+      # The typed-in file name reaches the shell only as a variable, and only
+      # a plain file name in tools/ is accepted.
+      - name: Trial
+        env:
+          FILE: ${{ inputs.file }}
+        run: |
+          if ! [[ "$FILE" =~ ^tools/[A-Za-z0-9_-][A-Za-z0-9._-]*\.ya?ml$ ]]; then
+            echo "::error::file must be a .yml file in tools/, like tools/candidates.yml"
+            exit 1
+          fi
+          case "$FILE" in *guess*) WORKERS=16 ;; *) WORKERS=4 ;; esac
+          python tools/trial.py "$FILE" "$WORKERS"
