@@ -1,24 +1,26 @@
 :root {
-  /* CivicsWA palette: blue (Pantone 286 C), orange (Pantone 172 C), cool grays. Kept distinct from BarNone's red and navy. */
-  --ground: #F6F7F9; --ink: #2A2E2E; --petrol: #0033A0; --muted: #53565A;
-  --line: #D9D9D6; --chip-line: #878A8F; --tint: #EBEFF7; --card: #FFFFFF;
-  --accent: #D64309; --accent-soft: #FBE3D8; --accent-ink: #9A2F05;
-  --brand-accent: #D64309; --brand-blue: #0033A0; --brand-navy: #001F60;
-  /* Button orange is a shade darker than the brand orange so white text clears contrast with room to spare. */
-  --btn: #B83A08; --btn-hover: #9A2F05;
+  /* CivicsWA palette, "Evergreen State": forest green, Puget Sound blue, Palouse wheat gold,
+     with a copper for cancellations and warnings. Every text pairing clears WCAG AA (most clear AAA). */
+  --ground: #F4F6F1; --ink: #1D2A24; --petrol: #1D5A3B; --muted: #4A5850;
+  --line: #D3DCD5; --chip-line: #7B8A82; --tint: #E6EFE8; --card: #FFFFFF;
+  --accent: #176887; --accent-soft: #FAEBD1; --accent-ink: #80450D;
+  --brand-accent: #176887; --brand-blue: #1D5A3B; --brand-navy: #0E3322;
+  --brand-gold: #E8B84A; --hero-text: #E2EEE6; --hero-eyebrow: #F2DDA0;
+  /* Wheat-gold buttons with dark text stand out on both the forest banner and white cards. */
+  --btn: #E8B84A; --btn-hover: #D9A43A; --btn-ink: #1D2A24;
   --display: "Montserrat", Arial, system-ui, sans-serif;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --ground: #0A1330; --ink: #E9ECF2; --petrol: #9DB8FF; --muted: #B3BAC8;
-    --line: #26355F; --chip-line: #5A6E9E; --tint: #15214A; --card: #101C40;
-    --accent: #FF7A45; --accent-soft: #3A2014; --accent-ink: #FFB08F; --brand-accent: #FF7A45;
+    --ground: #0D1712; --ink: #E4EDE7; --petrol: #8FD4AC; --muted: #A8BAB0;
+    --line: #23382D; --chip-line: #557063; --tint: #142519; --card: #11201A;
+    --accent: #6DC6E2; --accent-soft: #37290F; --accent-ink: #F0C878; --brand-accent: #6DC6E2;
   }
 }
 :root[data-theme="dark"] {
-  --ground: #0A1330; --ink: #E9ECF2; --petrol: #9DB8FF; --muted: #B3BAC8;
-  --line: #26355F; --chip-line: #5A6E9E; --tint: #15214A; --card: #101C40;
-  --accent: #FF7A45; --accent-soft: #3A2014; --accent-ink: #FFB08F; --brand-accent: #FF7A45;
+  --ground: #0D1712; --ink: #E4EDE7; --petrol: #8FD4AC; --muted: #A8BAB0;
+  --line: #23382D; --chip-line: #557063; --tint: #142519; --card: #11201A;
+  --accent: #6DC6E2; --accent-soft: #37290F; --accent-ink: #F0C878; --brand-accent: #6DC6E2;
 }
 * { box-sizing: border-box; }
 body { margin: 0; background: var(--ground); color: var(--ink); font: 16px/1.55 Montserrat, Arial, system-ui, sans-serif; }
@@ -37,17 +39,17 @@ a { color: var(--petrol); } a:hover { opacity: 0.8; }
 .top nav a { padding: 12px; font-weight: 500; text-decoration: none; color: var(--muted); border-bottom: 3px solid transparent; }
 .top nav a[aria-current="page"] { font-weight: 600; color: var(--petrol); border-bottom-color: var(--accent); }
 
-.hero { background: var(--brand-blue); color: #fff; border-bottom: 6px solid #D64309; }
+.hero { background: var(--brand-blue); color: #fff; border-bottom: 6px solid var(--brand-gold); }
 .hero .wrap { padding-block: 56px 60px; display: flex; flex-direction: column; gap: 20px; }
 h1 { margin: 0; font-family: var(--display); font-weight: 700; font-size: clamp(2.1rem, 5vw, 3.25rem); line-height: 1.05; letter-spacing: -0.02em; max-width: 800px; }
-.hero p { margin: 0; max-width: 640px; color: #E3E9F6; }
+.hero p { margin: 0; max-width: 640px; color: var(--hero-text); }
 .hero .lede { font-size: 1.125rem; }
 .hero .small { font-size: 14px; }
 .search { display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-end; margin-top: 8px; }
 .field { display: flex; flex-direction: column; gap: 6px; flex: 1 1 260px; max-width: 420px; }
 .field label { font-size: 14px; font-weight: 600; }
 .field input, .field select { height: 52px; padding: 0 16px; border-radius: 10px; border: 2px solid #fff; font: inherit; font-size: 17px; color: #2A2E2E; background: #fff; }
-.btn { height: 52px; padding: 0 26px; border: 0; border-radius: 10px; background: var(--btn); color: #fff; font: inherit; font-weight: 600; font-size: 17px; cursor: pointer; }
+.btn { height: 52px; padding: 0 26px; border: 0; border-radius: 10px; background: var(--btn); color: var(--btn-ink); font: inherit; font-weight: 600; font-size: 17px; cursor: pointer; }
 .btn:hover { background: var(--btn-hover); }
 .hero.plain { background: transparent; color: var(--ink); } .hero.plain p { color: var(--muted); } .hero.plain .wrap { padding-block: 56px 8px; }
 
@@ -147,9 +149,9 @@ footer p { margin: 0; flex: 1 1 320px; }
 /* Numbered steps in guides */
 .guide ol.steps { counter-reset: step; list-style: none; padding-left: 0; }
 .guide ol.steps li { counter-increment: step; position: relative; padding: 10px 0 10px 48px; border-left: 2px solid var(--line); margin-left: 15px; }
-.guide ol.steps li::before { content: counter(step); position: absolute; left: -16px; top: 8px; width: 30px; height: 30px; border-radius: 50%; background: var(--brand-blue, #0033A0); color: #fff; font-weight: 700; display: grid; place-items: center; font-size: 14px; }
+.guide ol.steps li::before { content: counter(step); position: absolute; left: -16px; top: 8px; width: 30px; height: 30px; border-radius: 50%; background: var(--brand-blue, #1D5A3B); color: #fff; font-weight: 700; display: grid; place-items: center; font-size: 14px; }
 
-.eyebrow.light { color: #FBD3C2; margin: 0; }
+.eyebrow.light { color: var(--hero-eyebrow); margin: 0; }
 
 .chip[hidden] { display: none; }
 
