@@ -195,3 +195,15 @@ footer p { margin: 0; flex: 1 1 320px; }
   .chips.scroll { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 6px; margin-inline: -16px; padding-inline: 16px; scrollbar-width: thin; }
   .chips.scroll .chip { flex: 0 0 auto; }
 }
+
+/* Spotlight: an outside opportunity we pass along, shown under the hero. */
+.spotlight { background: var(--accent-soft); border-bottom: 1px solid var(--line); }
+.spotlight-inner { display: flex; flex-wrap: wrap; align-items: center; gap: 16px 28px; padding-top: 20px; padding-bottom: 20px; }
+.spotlight-text { flex: 1 1 420px; min-width: 0; }
+.spotlight-eyebrow { margin: 0 0 4px; font-size: 13px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--accent-ink); }
+.spotlight h2 { margin: 0 0 6px; font-family: var(--display); font-size: 1.3rem; line-height: 1.25; color: var(--ink); }
+.spotlight p { margin: 0 0 6px; color: var(--ink); }
+.spotlight .spotlight-note { margin: 0; font-size: 13px; color: var(--muted); }
+.spotlight-btn { flex-shrink: 0; display: inline-flex; align-items: center; text-decoration: none; background: var(--petrol); color: var(--ground); }
+.spotlight-btn:hover { background: var(--brand-navy); color: #fff; }
+@media (prefers-color-scheme: dark) { .spotlight-btn:hover { background: var(--ink); color: var(--ground); } }

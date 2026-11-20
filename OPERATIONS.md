@@ -59,3 +59,13 @@ November 2026).
 - Domain: civicswa.org at Namecheap. Keep auto-renew on.
 - Security: code scanning, Dependabot alerts, secret scanning and private
   vulnerability reporting are on (Settings > Advanced Security).
+
+## Spotlight banner (outside opportunities)
+
+The home pages (`site/index.html` and `site/es/index.html`) have an
+`<aside class="spotlight">` under the hero for an opportunity we pass along
+from another organization, such as a grant. Its `data-until` attribute is an
+ISO time in UTC; `site/spotlight.js` removes the banner once that time passes,
+so a closed deadline never stays up. To post a new one, edit the text, link and
+`data-until` in both files. To retire one early, delete the `<aside>` block.
+Keep the "Run by ..., not CivicsWA" line so it's clear who runs the program.
