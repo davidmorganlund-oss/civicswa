@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T04:04:51-08:00",
+ "generated": "2026-11-20T08:35:59-08:00",
  "events": [
   {
    "id": "8e378a3a3152",
@@ -57,9 +57,9 @@
    "start": "2026-11-20T08:00:00-08:00",
    "end": null,
    "all_day": false,
-   "location": "2262 Fisherman Bay Rd, Lopez Island",
+   "location": "452 Richardson Rd, Lopez Island",
    "url": "https://sanjuancowa.portal.civicclerk.com/event/4339/overview",
-   "agenda_url": "https://sanjuancowa.portal.civicclerk.com/event/4339/files/agenda/6428",
+   "agenda_url": "https://sanjuancowa.portal.civicclerk.com/event/4339/files/agenda/6433",
    "note": "",
    "cancelled": false
   },
@@ -227,6 +227,27 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
+  },
+  {
+   "id": "ea085184bdcf",
+   "title": "Civil Service Special Meeting",
+   "host": "City of Ridgefield",
+   "source": "ridgefield",
+   "area": "Ridgefield",
+   "county": "Clark",
+   "category": "other",
+   "start": "2026-11-20T16:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "101 Mill Street, Ste., 110, Ste., 110, Ridgefield",
+   "url": "https://ridgefieldwa.portal.civicclerk.com/event/1034/overview",
+   "agenda_url": "https://ridgefieldwa.portal.civicclerk.com/event/1034/files/agenda/3298",
+   "note": "",
+   "cancelled": false,
+   "highlights": [
+    "Certify the Lieutenant's Eligibility List"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "1bcb73337752",
@@ -2023,7 +2044,7 @@
    "cancelled": false
   },
   {
-   "id": "037aacae3b03",
+   "id": "ba5e46619b64",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -6568,6 +6589,27 @@
    "highlights": [
     "E-029-26 Commercial Appeal (STIPULATED)",
     "E-026-26 Commercial Appeal"
+   ],
+   "highlights_more": 0
+  },
+  {
+   "id": "66a30fc25e99",
+   "title": "Site Plan Review Committee",
+   "host": "City of Olympia",
+   "source": "olympia",
+   "area": "Olympia",
+   "county": "Thurston",
+   "category": "council",
+   "start": "2026-12-02T09:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Virtual Via Zoom",
+   "url": "https://olympia.legistar.com/MeetingDetail.aspx?LEGID=6963&GID=218&G=19510D34-31FB-48B8-9C02-4D026953451C",
+   "agenda_url": "https://legistar.granicus.com/olympia/meetings/2026/12/6963_A_Site_Plan_Review_Committee_26-12-02_Meeting_Agenda.pdf",
+   "note": "Meeting Link: https://us02web.zoom.us/webinar/register/WN_pV5aa208Sr2pR342lvfXnw",
+   "cancelled": false,
+   "highlights": [
+    "Courthouse Hill Evergreen Park PUD Amendment, 2000 Lakeridge Dr SW, 26-6771"
    ],
    "highlights_more": 0
   },
@@ -16580,6 +16622,23 @@
    "cancelled": false
   },
   {
+   "id": "6274fdd6c840",
+   "title": "Lockwood Terrace Sub Land Use Public Hearing",
+   "host": "City of La Center",
+   "source": "la-center",
+   "area": "La Center",
+   "county": "Clark",
+   "category": "hearing",
+   "start": "2026-12-15T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "City Hall, 210 E. 4th Street, La Center, WA 98629",
+   "url": "https://lacenter.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=1642",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "0c6f2062b3ef",
    "title": "City Council Regular Meeting",
    "host": "City of Oak Harbor",
@@ -22162,7 +22221,7 @@
    "cancelled": false
   },
   {
-   "id": "df7f65991cd2",
+   "id": "cac5cb08d6da",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -28673,6 +28732,23 @@
    "cancelled": false
   },
   {
+   "id": "331a63b2be52",
+   "title": "Lodging Tax Advisory Board Meeting",
+   "host": "City of Bothell",
+   "source": "bothell",
+   "area": "Bothell",
+   "county": "King",
+   "category": "council",
+   "start": "2027-01-19T10:00:00-08:00",
+   "end": "2027-01-19T23:59:00-08:00",
+   "all_day": false,
+   "location": "City Hall - 18415 101st Avenue NE Bothell WA 98011",
+   "url": "https://www.bothellwa.gov/Calendar.aspx",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "b963ba994151",
    "title": "Downtown Advisory Committee",
    "host": "City of Longview",
@@ -29110,6 +29186,23 @@
    "all_day": false,
    "location": "9002 Main St E, Bonney Lake",
    "url": "https://bonneylakewa.portal.civicclerk.com/event/1308/overview",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "0bbd3230e368",
+   "title": "City Council Regular Meeting",
+   "host": "City of Bothell",
+   "source": "bothell",
+   "area": "Bothell",
+   "county": "King",
+   "category": "council",
+   "start": "2027-01-19T18:00:00-08:00",
+   "end": "2027-01-19T23:59:00-08:00",
+   "all_day": false,
+   "location": "City Hall > Council Chambers - 18415 101st Avenue NE Bothell WA 98011",
+   "url": "https://www.bothellwa.gov/Calendar.aspx",
    "agenda_url": "",
    "note": "",
    "cancelled": false
