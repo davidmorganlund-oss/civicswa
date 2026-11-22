@@ -914,15 +914,22 @@ sources:
 
   - {id: sumner, name: City of Sumner, county: Pierce, area: Sumner, type: civicclerk, tenant: sumnerwa, homepage: 'https://sumnerwa.portal.civicclerk.com/'}
 
+  # The city calendar only carries community events and closures; council
+  # agendas go to the Agenda Center, whose feed has no meeting dates. The
+  # council page gives the regular schedule (checked November 2026).
   - id: university-place
     name: City of University Place
     county: Pierce
     area: University Place
-    type: civicplus
-    site: https://www.cityofup.com
-    categories: [23, 14]
-    include: council|commission|board|committee|hearing|meeting|session|workshop
-    homepage: https://www.cityofup.com/Calendar.aspx
+    type: schedule
+    default_category: council
+    homepage: https://www.cityofup.com/252/City-Council
+    meetings:
+      - title: City Council Regular Meeting
+        when: 1st, 3rd Monday
+        time: "18:30"
+        end: "21:00"
+        url: https://www.cityofup.com/AgendaCenter
 
   - id: steilacoom
     name: Town of Steilacoom
@@ -1100,6 +1107,8 @@ sources:
     area: Mercer Island
     homepage: https://mercerislandwa.portal.civicclerk.com/
 
+  # PrimeGov carries only the Planning Commission, Hearing Examiner and
+  # Design Review Board; the council is in kirkland-council below.
   - id: kirkland
     name: City of Kirkland
     type: primegov
@@ -1107,6 +1116,17 @@ sources:
     county: King
     area: Kirkland
     homepage: https://kirklandwa.primegov.com/public/portal
+
+  # Kirkland City Council, from its Granicus agenda feed (view 3). Meetings
+  # appear once their agendas are posted.
+  - id: kirkland-council
+    name: City of Kirkland City Council
+    type: granicus
+    tenant: kirkland
+    view_id: 3
+    county: King
+    area: Kirkland
+    homepage: https://www.kirklandwa.gov/Government/City-Council
 
   - id: granite-falls
     name: City of Granite Falls

@@ -1041,6 +1041,21 @@ def fetch_wsl_committees(src, start_day, end_day, tz):
 GRANICUS_TITLE = re.compile(r"^(?P<name>.*?)\s*[-–]\s*(?P<date>[A-Z][a-z]{2,8}\.? \d{1,2},? \d{4})(?:\s+(?P<clock>\d{1,2}:\d{2}\s*[AaPp]\.?[Mm]\.?))?\s*$")
 
 
+def granicus_parts(item, tz):
+    """Granicus writes pubDate's hour on a 12-hour clock with no AM or PM
+    (a 5:30 p.m. meeting reads 05:30), so prefer <gran:pubDateParts>, whose
+    yr/mo/day/hr/min attributes are the meeting's local 24-hour time."""
+    for child in item:
+        if local(child.tag) == "pubDateParts":
+            a = child.attrib
+            try:
+                return datetime(int(a["yr"]), int(a["mo"]), int(a["day"]),
+                                int(a.get("hr", 0)), int(a.get("min", 0)), tzinfo=tz)
+            except (KeyError, ValueError):
+                return None
+    return None
+
+
 def normalize_granicus(src, xml_text, tz):
     import html as htmllib
     from email.utils import parsedate_to_datetime
@@ -1049,8 +1064,8 @@ def normalize_granicus(src, xml_text, tz):
         f = fields(item)
         title = htmllib.unescape(f.get("title", "")).strip()
         m = GRANICUS_TITLE.match(title)
-        when = None
-        if f.get("pubDate"):
+        when = granicus_parts(item, tz)
+        if when is None and f.get("pubDate"):
             try:
                 when = parsedate_to_datetime(f["pubDate"]).astimezone(tz)
             except (TypeError, ValueError):
