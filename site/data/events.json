@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T03:50:35-08:00",
+ "generated": "2026-11-22T10:35:00-08:00",
  "events": [
   {
    "id": "aff663f151ee",
@@ -1820,7 +1820,7 @@
    "cancelled": false
   },
   {
-   "id": "037aacae3b03",
+   "id": "baaee54074a9",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -2085,7 +2085,13 @@
    "url": "https://whatcom.legistar.com/MeetingDetail.aspx?LEGID=3241&GID=694&G=EEA73D23-6E2E-458B-A953-3C147C8AA447",
    "agenda_url": "https://whatcom.legistar1.com/whatcom/meetings/2026/11/3241_A_Council_Finance_and_Administrative_Services_Committee_26-11-24_Meeting_Agenda.pdf",
    "note": "HYBRID MEETING - ADJOURNS BY 12:30 PM (PARTICIPATE IN-PERSON, SEE REMOTE JOIN INSTRUCTIONS AT www.whatcomcounty.us/joinvirtualcouncil, OR CALL 360.778.5010); AGENDA REVISION 11.19.2026",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Discussion of pending litigation with Civil Deputy Prosecutor Jesse Corkern regarding Richard Arthur Kirkham, Plaintiff vs. Bill Elfo et\u2026",
+    "Request authorization for the County Executive to enter into an interlocal agreement between Whatcom County and Whatcom Conservation\u2026",
+    "Request authorization for the County Executive to enter into an interlocal agreement between Whatcom County and the County Road\u2026"
+   ],
+   "highlights_more": 44
   },
   {
    "id": "b33675ce16bd",
@@ -2290,7 +2296,13 @@
    "url": "https://snohomish.legistar.com/MeetingDetail.aspx?LEGID=2846&GID=820&G=7E123241-A7A2-415D-A3B9-89AF5345CDE5",
    "agenda_url": "https://snohomish.legistar1.com/snohomish/meetings/2026/11/2846_A_Finance%2C_Budget_and_Administration_Committee_26-11-24_Agenda.pdf",
    "note": "Webinar Link: https://zoom.us/j/94846850772",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Ordinance 26-077, establishing the 2027 Pay Plan",
+    "Motion 26-353, approving the animal relinquishment and redemption fees set by the Snohomish County Auditor",
+    "Motion 26-382, removing certain uncollectible accounts from the County\u2019s accounting records"
+   ],
+   "highlights_more": 2
   },
   {
    "id": "65364aece286",
@@ -4047,7 +4059,13 @@
    "url": "https://snohomish.legistar.com/MeetingDetail.aspx?LEGID=2820&GID=820&G=7E123241-A7A2-415D-A3B9-89AF5345CDE5",
    "agenda_url": "https://snohomish.legistar1.com/snohomish/meetings/2026/11/2820_A_General_Legislative_Session_26-11-25_Agenda.pdf",
    "note": "** DRAFT AGENDA ** Webinar Link: https://zoom.us/j/94846850772",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Resolution 26-056, recognizing Saturday, November 28, 2026, as Small Business Saturday in Snohomish County",
+    "Motion 26-477, approving Administrative Matters presented at General Legislative Session on November 25, 2026",
+    "Piggyback Award Recommendation for Automotive Parts with Genuine Parts Company dba NAPA Auto Parts for an estimated spend of $25,000 per\u2026"
+   ],
+   "highlights_more": 7
   },
   {
    "id": "e206ec27f164",
@@ -9649,6 +9667,23 @@
    "url": "https://kennewickwa.portal.civicclerk.com/event/2372/overview",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "924959f73873",
+   "title": "City Council Regular Meeting",
+   "host": "City of University Place",
+   "source": "university-place",
+   "area": "University Place",
+   "county": "Pierce",
+   "category": "council",
+   "start": "2026-12-07T18:30:00-08:00",
+   "end": "2026-12-07T21:00:00-08:00",
+   "all_day": false,
+   "location": "",
+   "url": "https://www.cityofup.com/AgendaCenter",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -20060,6 +20095,23 @@
    "cancelled": false
   },
   {
+   "id": "c80cf57ba0c0",
+   "title": "City Council Regular Meeting",
+   "host": "City of University Place",
+   "source": "university-place",
+   "area": "University Place",
+   "county": "Pierce",
+   "category": "council",
+   "start": "2026-12-21T18:30:00-08:00",
+   "end": "2026-12-21T21:00:00-08:00",
+   "all_day": false,
+   "location": "",
+   "url": "https://www.cityofup.com/AgendaCenter",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "28c1e6ba9dff",
    "title": "Planning Commission Meeting",
    "host": "City of Buckley",
@@ -22270,7 +22322,7 @@
    "cancelled": false
   },
   {
-   "id": "df7f65991cd2",
+   "id": "9d58a216aa0a",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -23049,6 +23101,23 @@
    "url": "https://kennewickwa.portal.civicclerk.com/event/2373/overview",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "f4c3047b21b2",
+   "title": "City Council Regular Meeting",
+   "host": "City of University Place",
+   "source": "university-place",
+   "area": "University Place",
+   "county": "Pierce",
+   "category": "council",
+   "start": "2027-01-04T18:30:00-08:00",
+   "end": "2027-01-04T21:00:00-08:00",
+   "all_day": false,
+   "location": "",
+   "url": "https://www.cityofup.com/AgendaCenter",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -29645,6 +29714,23 @@
    "url": "https://sedrowoolleywa.portal.civicclerk.com/event/628/overview",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "0db3ddb66658",
+   "title": "City Council Regular Meeting",
+   "host": "City of University Place",
+   "source": "university-place",
+   "area": "University Place",
+   "county": "Pierce",
+   "category": "council",
+   "start": "2027-01-19T18:30:00-08:00",
+   "end": "2027-01-19T21:00:00-08:00",
+   "all_day": false,
+   "location": "",
+   "url": "https://www.cityofup.com/AgendaCenter",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go. The regular date falls on a holiday, so state law moves the meeting to the next business day. The host may set a different date.",
    "cancelled": false
   },
   {
