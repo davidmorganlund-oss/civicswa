@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Skamania County
 BEGIN:VEVENT
 UID:349fb1e43931@civicswa
-DTSTAMP:20261121T115218Z
+DTSTAMP:20261122T115035Z
 DTSTART:20261208T020000Z
 DTEND:20261208T030000Z
 SUMMARY:Special Planning Commission Meeting (City of Stevenson)
@@ -13,7 +13,7 @@ URL:https://stevensonwa.portal.civicclerk.com/event/566/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:4ad0f80febd0@civicswa
-DTSTAMP:20261121T115218Z
+DTSTAMP:20261122T115035Z
 DTSTART:20261215T020000Z
 DTEND:20261215T030000Z
 SUMMARY:Regular Planning Commission Meeting (City of Stevenson)
@@ -22,7 +22,7 @@ URL:https://stevensonwa.portal.civicclerk.com/event/541/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:d724f132cba0@civicswa
-DTSTAMP:20261121T115218Z
+DTSTAMP:20261122T115035Z
 DTSTART:20261218T020000Z
 DTEND:20261218T030000Z
 SUMMARY:Regular City Council Meeting (City of Stevenson)
@@ -31,7 +31,7 @@ URL:https://stevensonwa.portal.civicclerk.com/event/553/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:071dd0a079c8@civicswa
-DTSTAMP:20261121T115218Z
+DTSTAMP:20261122T115035Z
 DTSTART:20270112T020000Z
 DTEND:20270112T030000Z
 SUMMARY:Regular Planning Commission Meeting (City of Stevenson)
@@ -40,7 +40,7 @@ URL:https://stevensonwa.portal.civicclerk.com/event/542/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f581ea0a3757@civicswa
-DTSTAMP:20261121T115218Z
+DTSTAMP:20261122T115035Z
 DTSTART:20270112T020000Z
 DTEND:20270112T040000Z
 SUMMARY:School Board Meeting (Mill A School District)
@@ -49,11 +49,20 @@ URL:http://www.milla.k12.wa.us/
 END:VEVENT
 BEGIN:VEVENT
 UID:2ff41924e4b7@civicswa
-DTSTAMP:20261121T115218Z
+DTSTAMP:20261122T115035Z
 DTSTART:20270120T020000Z
 DTEND:20270120T040000Z
 SUMMARY:School Board Meeting (Mill A School District)
 LOCATION:
 URL:http://www.milla.k12.wa.us/
+END:VEVENT
+BEGIN:VEVENT
+UID:c20cb7cd1c01@civicswa
+DTSTAMP:20261122T115035Z
+DTSTART:20270122T020000Z
+DTEND:20270122T030000Z
+SUMMARY:Regular City Council Meeting (City of Stevenson)
+LOCATION:7121 E Loop Road\, Stevenson
+URL:https://stevensonwa.portal.civicclerk.com/event/554/overview
 END:VEVENT
 END:VCALENDAR
