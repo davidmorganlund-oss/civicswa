@@ -561,3 +561,20 @@ def test_separate_meetings_sharing_one_uid_are_all_kept():
     starts = sorted(e["start"][:10] for e in got)
     assert starts == ["2026-12-01", "2026-12-07", "2026-12-08", "2026-12-14", "2026-12-15"]
 
+
+
+def test_granicus_reads_24_hour_parts_not_12_hour_pubdate():
+    # Granicus writes a 5:30 p.m. meeting's pubDate as 05:30 with no AM/PM;
+    # <gran:pubDateParts> carries the real 24-hour time.
+    from zoneinfo import ZoneInfo
+    xml = """<?xml version="1.0"?><rss version="2.0" xmlns:gran="https://www.granicus.com/schema/rss-supplements"><channel>
+<item><guid>a</guid><title>City Council Meeting - Nov 17, 2026</title><pubDate>Tue, 17 Nov 2026 05:30:00 -0800</pubDate>
+<gran:pubDateParts yr='2026' mo='11' day='17' hr='17' min='30' sec='0' tz='8' /><link>https://x.granicus.com/AgendaViewer.php?view_id=3</link></item>
+<item><guid>b</guid><title>City Council - Nov 10, 2026</title><pubDate>Mon, 09 Nov 2026 09:15:00 -0800</pubDate>
+<gran:pubDateParts yr='2026' mo='11' day='09' hr='21' min='15' sec='0' tz='8' /><link>https://x.granicus.com/AgendaViewer.php?view_id=3</link></item>
+</channel></rss>"""
+    src = {"id": "t", "name": "Test", "county": "King", "area": "Test", "homepage": ""}
+    events = build.normalize_granicus(src, xml, ZoneInfo("America/Los_Angeles"))
+    assert events[0]["start"].startswith("2026-11-17T17:30")
+    # A publish time on another day than the meeting's isn't used as the meeting time.
+    assert events[1]["start"].startswith("2026-11-10T00:00") and events[1]["all_day"]
