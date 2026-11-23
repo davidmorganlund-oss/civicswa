@@ -1,0 +1,193 @@
+sources:
+- id: concrete--bd
+  name: Concrete School District 11
+  type: boarddocs
+  site: wa/concrete
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: coupeville--bd
+  name: Coupeville School District 204
+  type: boarddocs
+  site: wa/coupeville
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: ferndale--bd
+  name: Ferndale School District 502
+  type: boarddocs
+  site: wa/ferndale
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: kalama--bd
+  name: Kalama School District 402
+  type: boarddocs
+  site: wa/kalama
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: lakewood--bd
+  name: Lakewood School District 306
+  type: boarddocs
+  site: wa/lakewood
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: marywalker--bd
+  name: Mary Walker School District 207
+  type: boarddocs
+  site: wa/marywalker
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: msdwa--bd
+  name: Meridian School District 505
+  type: boarddocs
+  site: wa/msdwa
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: psd--bd
+  name: Puyallup School District 3
+  type: boarddocs
+  site: wa/psd
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: selah--bd
+  name: Selah School District 119
+  type: boarddocs
+  site: wa/selah
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: sksdwa--bd
+  name: South Kitsap School District 402
+  type: boarddocs
+  site: wa/sksdwa
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: tenino--bd
+  name: Tenino School District 402
+  type: boarddocs
+  site: wa/tenino
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: toledo--bd
+  name: Toledo School District 237
+  type: boarddocs
+  site: wa/toledo
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: toutlesd--bd
+  name: Toutle Lake School District 130
+  type: boarddocs
+  site: wa/toutlesd
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: winlock--bd
+  name: Winlock School District 232
+  type: boarddocs
+  site: wa/winlock
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: wishkah--bd
+  name: Wishkah Valley School District 117
+  type: boarddocs
+  site: wa/wishkah
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: yakima--bd
+  name: Yakima School District 7
+  type: boarddocs
+  site: wa/yakima
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: lkstevens--bd
+  name: Lake Stevens School District 4
+  type: boarddocs
+  site: wa/lkstevens
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: lakestevens--bd
+  name: Lake Stevens School District 4
+  type: boarddocs
+  site: wa/lakestevens
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: wenatchee--bd
+  name: Wenatchee School District 246
+  type: boarddocs
+  site: wa/wenatchee
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: wsd--bd
+  name: Wenatchee School District 246
+  type: boarddocs
+  site: wa/wsd
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: longview--bd
+  name: Longview School District 122
+  type: boarddocs
+  site: wa/longview
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: lsd122--bd
+  name: Longview School District 122
+  type: boarddocs
+  site: wa/lsd122
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: ksd--bd
+  name: Kent School District
+  type: boarddocs
+  site: wa/ksd
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''
+- id: kent--bd
+  name: Kent School District
+  type: boarddocs
+  site: wa/kent
+  county: '?'
+  area: ''
+  category: school
+  homepage: ''

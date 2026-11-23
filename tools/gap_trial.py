@@ -13,7 +13,7 @@ BOARD = re.compile(r"\bboard\b|trustee|directors|work ?session|study session|spe
 def trial(src):
     today = datetime.now(TZ).date()
     try:
-        ev = build.CONNECTORS[src["type"]](src, today - timedelta(days=60), today + timedelta(days=150), TZ)
+        ev = build.CONNECTORS[src["type"]](src, today - timedelta(days=45), today + timedelta(days=150), TZ)
         b = [(e["start"][:16], e["title"]) for e in ev if BOARD.search(e["title"])]
         return {"id": src["id"], "n": len(ev), "board": len(b), "sample": sorted(b)[:10],
                 "titles": sorted({e["title"] for e in ev})[:12]}

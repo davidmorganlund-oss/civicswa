@@ -878,10 +878,19 @@ def fetch_schedule(src, start_day, end_day, tz):
         else:
             days = schedule_dates(mtg["when"], start_day, end_day)
         for day in days:
+            if mtg.get("shift_days"):
+                # e.g. a work session held the Monday of the week of a
+                # 2nd and 4th Wednesday meeting: rule "2nd, 4th Wednesday", shift_days -2.
+                day += timedelta(days=int(mtg["shift_days"]))
             if day.month in mtg.get("skip_months", []) or str(day) in [str(d) for d in mtg.get("skip_dates", [])]:
                 continue
             moved = False
-            if not mtg.get("dates") and day in wa_holidays(day.year):
+            if mtg.get("monday_holiday_shift") and day - timedelta(days=day.weekday()) in wa_holidays(day.year):
+                # "When a holiday falls on Monday, the meeting is held on Wednesday."
+                day, moved = day + timedelta(days=int(mtg["monday_holiday_shift"])), True
+            elif not mtg.get("dates") and day in wa_holidays(day.year):
+                if mtg.get("holidays") == "skip":  # bodies that don't meet on holidays at all
+                    continue
                 day, moved = next_business_day(day), True
             start = datetime.combine(day, time(hh, mm), tz)
             if mtg.get("end"):
@@ -1131,13 +1140,89 @@ def fetch_apptegy(src, start_day, end_day, tz):
     return events
 
 
+# --- BoardDocs (school and special district boards) ---
+# The public meetings list (BD-GetMeetingsList) carries each posted meeting's
+# date and name; BD-GetMeeting gives its header with the time and room. Boards
+# post a meeting when its agenda is ready, usually a week or so ahead.
+
+def boarddocs_post(src, endpoint, data):
+    import requests
+    url = f"https://go.boarddocs.com/{src['site']}/Board.nsf/{endpoint}?open"
+    with host_slot(url):
+        resp = requests.post(url, data=data, headers={"User-Agent": UA}, timeout=TIMEOUT)
+    resp.raise_for_status()
+    return resp
+
+
+def boarddocs_committee(src):
+    if src.get("committee"):
+        return src["committee"]
+    page = get(f"https://go.boarddocs.com/{src['site']}/Board.nsf/Public").text
+    m = re.search(r'committeeid="([A-Z0-9]{8,})"', page) or re.search(r"current_committee_id\W+([A-Z0-9]{8,})", page)
+    if not m:
+        raise ValueError("BoardDocs committee id not found")
+    return m.group(1)
+
+
+BOARDDOCS_CLOCK = re.compile(r"\b(\d{1,2}(?::\d{2})?\s*[AaPp]\.?\s?[Mm]\.?)")
+
+
+def parse_boarddocs_header(html_text):
+    """The meeting header: title, long date, then lines for place and time."""
+    import html as htmllib
+    text = htmllib.unescape(re.sub(r"<[^>]+>", "\n", html_text))
+    lines = [l.strip() for l in text.splitlines() if l.strip()]
+    start = next((i for i, l in enumerate(lines[:30]) if re.search(r"(January|February|March|April|May|June|July|August|September|October|November|December) \d{1,2}, \d{4}", l)), 0)
+    head = lines[start:start + 8]
+    clock, place = None, ""
+    for line in head:
+        m = BOARDDOCS_CLOCK.search(line)
+        if clock is None and m and not re.search(r"livestream|zoom|http|comment", line, re.I):
+            clock = parse_clock(m.group(1).replace(" ", ""))
+    for line in head[1:]:
+        cleaned = BOARDDOCS_CLOCK.sub("", line).strip(" -,|")
+        if re.search(r"livestream|zoom|http|^---|share|board of (directors|education)$|school district #?\d* board", cleaned, re.I) or len(cleaned) < 6:
+            continue
+        if re.search(r"\d+ .*\b(ave|avenue|st|street|road|rd|blvd|boulevard|way|dr|drive|hwy|highway|lane|ln)\b|room|center|library|board ?room|hall|office|school|cafeteria|gym", cleaned, re.I):
+            place = cleaned
+            break
+    return clock, place[:160]
+
+
+def fetch_boarddocs(src, start_day, end_day, tz):
+    committee = boarddocs_committee(src)
+    rows = boarddocs_post(src, "BD-GetMeetingsList", {"current_committee_id": committee}).json()
+    events = []
+    for r in rows:
+        try:
+            day = datetime.strptime(r.get("numberdate", ""), "%Y%m%d").date()
+        except ValueError:
+            continue
+        if not (start_day <= day <= end_day):
+            continue
+        clock, place = None, ""
+        try:
+            head = boarddocs_post(src, "BD-GetMeeting", {"id": r["unique"], "current_committee_id": committee}).text
+            clock, place = parse_boarddocs_header(head)
+        except Exception:
+            pass
+        events.append(make_event(
+            src, title=r.get("name", "").strip() or "Board Meeting",
+            start=datetime.combine(day, clock or time(0, 0), tz), all_day=clock is None,
+            location=place or src.get("default_location", ""),
+            url=f"https://go.boarddocs.com/{src['site']}/Board.nsf/goto?open&id={r['unique']}",
+            uid=r.get("unique") or r.get("unid"),
+        ))
+    return events
+
+
 CONNECTORS = {"legistar": fetch_legistar, "civicclerk": fetch_civicclerk, "ics": fetch_ics,
               "bibliocommons": fetch_bibliocommons, "municode": fetch_municode, "mec_rss": fetch_mec_rss,
               "govaccess_rss": fetch_govaccess_rss, "civicplus": fetch_civicplus,
               "primegov": fetch_primegov, "civicweb": fetch_civicweb,
               "spokane_council": fetch_spokane_council, "schedule": fetch_schedule,
               "wsl_committees": fetch_wsl_committees, "granicus": fetch_granicus,
-              "apptegy": fetch_apptegy}
+              "apptegy": fetch_apptegy, "boarddocs": fetch_boarddocs}
 
 
 # ---------- outputs ----------
