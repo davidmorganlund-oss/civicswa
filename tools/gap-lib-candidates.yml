@@ -1,0 +1,301 @@
+sources:
+- id: spl--bc
+  name: Seattle Public Library
+  type: bibliocommons
+  library: spl
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: tacoma--bc
+  name: Tacoma Public Library
+  type: bibliocommons
+  library: tacoma
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: spokanelibrary--bc
+  name: Spokane Public Library
+  type: bibliocommons
+  library: spokanelibrary
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: spokane--bc
+  name: Spokane Public Library
+  type: bibliocommons
+  library: spokane
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: epls--bc
+  name: Everett Public Library
+  type: bibliocommons
+  library: epls
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: wcls--bc
+  name: Whatcom County Library System
+  type: bibliocommons
+  library: wcls
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: bellingham--bc
+  name: Bellingham Public Library
+  type: bibliocommons
+  library: bellingham
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: ncrl--bc
+  name: North Central Regional Library
+  type: bibliocommons
+  library: ncrl
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: nols--bc
+  name: North Olympic Library System
+  type: bibliocommons
+  library: nols
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: midcolumbialibraries--bc
+  name: Mid-Columbia Libraries
+  type: bibliocommons
+  library: midcolumbialibraries
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: yvl--bc
+  name: Yakima Valley Libraries
+  type: bibliocommons
+  library: yvl
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: jclibrary--bc
+  name: Jefferson County Library
+  type: bibliocommons
+  library: jclibrary
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: jc--bc
+  name: Jefferson County Library
+  type: bibliocommons
+  library: jc
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: richland--bc
+  name: Richland Public Library
+  type: bibliocommons
+  library: richland
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: longview--bc
+  name: Longview Public Library
+  type: bibliocommons
+  library: longview
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: puyallup--bc
+  name: Puyallup Public Library
+  type: bibliocommons
+  library: puyallup
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: whitcolib--bc
+  name: Whitman County Library
+  type: bibliocommons
+  library: whitcolib
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: asotin--bc
+  name: Asotin County Library
+  type: bibliocommons
+  library: asotin
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: pocld--bc
+  name: Pend Oreille County Library District
+  type: bibliocommons
+  library: pocld
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: scrld--bc
+  name: Stevens County Rural Library District
+  type: bibliocommons
+  library: scrld
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: wwcrld--bc
+  name: Walla Walla County Rural Library District
+  type: bibliocommons
+  library: wwcrld
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: neill--bc
+  name: Neill Public Library
+  type: bibliocommons
+  library: neill
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: camas--bc
+  name: Camas Public Library
+  type: bibliocommons
+  library: camas
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: anacortes--bc
+  name: Anacortes Public Library
+  type: bibliocommons
+  library: anacortes
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''
+- id: sjlib--bc
+  name: San Juan Island Library
+  type: bibliocommons
+  library: sjlib
+  searches:
+  - board of trustees
+  - trustees
+  - board meeting
+  county: '?'
+  area: ''
+  category: library
+  homepage: ''

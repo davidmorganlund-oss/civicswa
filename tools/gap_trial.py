@@ -8,7 +8,7 @@ import yaml
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "pipeline"))
 import build  # noqa: E402
 TZ = ZoneInfo("America/Los_Angeles")
-BOARD = re.compile(r"\bboard\b|directors|work ?session|study session|special meeting|regular meeting", re.I)
+BOARD = re.compile(r"\bboard\b|trustee|directors|work ?session|study session|special meeting|regular meeting", re.I)
 
 def trial(src):
     today = datetime.now(TZ).date()

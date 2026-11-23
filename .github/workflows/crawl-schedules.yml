@@ -13,7 +13,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        part: [pdf, trial3]
+        part: [render, trial]
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
@@ -23,9 +23,9 @@ jobs:
         env:
           PART: ${{ matrix.part }}
         run: |
-          if [ "$PART" = "pdf" ]; then
-            pip install playwright==1.65.2 pypdf==7.1.1 && python -m playwright install --with-deps chromium
-            python tools/pdf_crawl.py tools/gap-schools3.tsv
+          if [ "$PART" = "render" ]; then
+            pip install playwright==1.65.2 && python -m playwright install --with-deps chromium
+            python tools/render_crawl.py tools/gap-libs.tsv
           else
-            python tools/gap_trial.py tools/gap-candidates3.yml
+            python tools/gap_trial.py tools/gap-lib-candidates.yml
           fi
