@@ -1960,6 +1960,1108 @@ sources:
 
   - {id: sunnyside-schools, name: Sunnyside School District, county: Yakima, area: Sunnyside, category: school, type: apptegy, org: 31599, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.sunnysideschools.org/'}
 
+  # School boards found in November 2026's coverage pass (feeds that include board meetings).
+  - {id: easton-schools, name: Easton School District, county: Kittitas, area: Easton, category: school, type: apptegy, org: 20843, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.easton.wednet.edu/'}
+  - {id: entiat-schools, name: Entiat School District, county: Chelan, area: Entiat, category: school, type: apptegy, org: 28172, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.entiatschools.org/'}
+  - {id: cusick-schools, name: Cusick School District, county: Pend Oreille, area: Cusick, category: school, type: ics, url: 'https://www.cusick.wednet.edu/fs/calendar-manager/events.ics?calendar_ids[]=1', include: \bboard\b|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic', homepage: 'https://www.cusick.wednet.edu/'}
+  - {id: central-kitsap-schools, name: Central Kitsap School District, county: Kitsap, area: Silverdale, category: school, type: civicweb, base: 'https://ckschools.community.diligentoneplatform.com', homepage: 'https://ckschools.community.diligentoneplatform.com/Portal/', exclude: quorum}
+  - {id: chewelah-schools, name: Chewelah School District, county: Stevens, area: Chewelah, category: school, type: civicweb, base: 'https://chewelahsd.community.diligentoneplatform.com', homepage: 'https://chewelahsd.community.diligentoneplatform.com/Portal/', exclude: quorum}
+  - {id: dixie-schools, name: Dixie School District, county: Walla Walla, area: Dixie, category: school, type: ics, url: 'https://dixiesd.org/events/?ical=1', include: \bboard\b|directors, homepage: 'http://www.dixiesd.org/'}
+  - {id: mukilteo-schools, name: Mukilteo School District, county: Snohomish, area: Mukilteo, category: school, type: civicweb, base: 'https://mukilteoschools.community.diligentoneplatform.com', homepage: 'https://mukilteoschools.community.diligentoneplatform.com/Portal/', exclude: quorum}
+  - {id: orting-schools, name: Orting School District, county: Pierce, area: Orting, category: school, type: civicweb, base: 'https://ortingschools.community.diligentoneplatform.com', homepage: 'https://ortingschools.community.diligentoneplatform.com/Portal/', exclude: quorum}
+  - {id: soap-lake-schools, name: Soap Lake School District, county: Grant, area: Soap Lake, category: school, type: civicweb, base: 'https://slschools.community.diligentoneplatform.com', homepage: 'https://slschools.community.diligentoneplatform.com/Portal/', exclude: quorum}
+  - {id: tukwila-schools, name: Tukwila School District, county: King, area: Tukwila, category: school, type: ics, url: 'https://calendar.google.com/calendar/ical/c_56r3r8dqcojjsohujbs0s1iqho%40group.calendar.google.com/public/basic.ics', include: \bboard\b|directors, exclude: appreciation, homepage: 'https://www.tukwilaschools.org/'}
+  - {id: washougal-schools, name: Washougal School District, county: Clark, area: Washougal, category: school, type: ics, url: 'https://www.washougal.k12.wa.us/calendar/?ical=1', include: \bboard\b|directors, homepage: 'https://www.washougal.k12.wa.us/'}
+  - {id: willapa-valley-schools, name: Willapa Valley School District, county: Pacific, area: Menlo, category: school, type: ics, url: 'https://calendar.google.com/calendar/ical/willapavalley.org_mkqtqu63sb4urrbk1bas56ug9k%40group.calendar.google.com/public/basic.ics', include: \bboard\b|directors, homepage: 'https://www.willapavalley.org/'}
+
+  - {"id": "colton-schools", "name": "Colton School District", "county": "Whitman", "area": "Colton", "category": "school", "type": "ics", "url": "https://calendar.google.com/calendar/ical/coltonschool306%40gmail.com/public/basic.ics", "include": "\\bboard\\b|directors", "exclude": "\\bpta\\b|ptsa|appreciation|recognition|booster|foundation|advisory|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic", "homepage": "https://www.colton.k12.wa.us/en-US"}
+  - {"id": "auburn-schools", "name": "Auburn School District", "county": "King", "area": "Auburn", "category": "school", "type": "ics", "url": "https://www.auburn.wednet.edu/fs/calendar-manager/events.ics?calendar_ids[]=2", "include": "\\bboard\\b|directors", "exclude": "\\bpta\\b|ptsa|appreciation|recognition|booster|foundation|advisory|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic", "homepage": "https://www.auburn.wednet.edu/"}
+  - {"id": "raymond-schools", "name": "Raymond School District", "county": "Pacific", "area": "Raymond", "category": "school", "type": "ics", "url": "https://calendar.google.com/calendar/ical/rsdcalendar%40raymondk12.org/public/basic.ics", "include": "\\bboard\\b|directors", "exclude": "\\bpta\\b|ptsa|appreciation|recognition|booster|foundation|advisory|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic", "homepage": "https://www.raymondk12.org/en-US"}
+  - {"id": "ridgefield-schools", "name": "Ridgefield School District", "county": "Clark", "area": "Ridgefield", "category": "school", "type": "apptegy", "org": 10649, "include": "\\bboard\\b|directors", "exclude": "\\bpta\\b|ptsa|appreciation|recognition|booster|foundation|advisory|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic", "homepage": "https://www.ridgefieldsd.org/"}
+  - {"id": "wishram-schools", "name": "Wishram School District", "county": "Klickitat", "area": "Wishram", "category": "school", "type": "ics", "url": "https://www.wishramschool.org/fs/calendar-manager/events.ics?calendar_ids[]=2", "include": "\\bboard\\b|directors", "exclude": "\\bpta\\b|ptsa|appreciation|recognition|booster|foundation|advisory|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic", "homepage": "https://www.wishramschool.org/"}
+  - {"id": "wilson-creek-schools", "name": "Wilson Creek School District", "county": "Grant", "area": "Wilson Creek", "category": "school", "type": "ics", "url": "https://calendar.google.com/calendar/ical/2tvsg06nb4rat67s55jsqg13go%40group.calendar.google.com/public/basic.ics", "include": "\\bboard\\b|directors", "exclude": "\\bpta\\b|ptsa|appreciation|recognition|booster|foundation|advisory|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic", "homepage": "https://www.wilsoncreek.org/"}
+  - {"id": "san-juan-island-schools", "name": "San Juan Island School District", "county": "San Juan", "area": "Friday Harbor", "category": "school", "type": "ics", "url": "https://www.sjisd.wednet.edu/fs/calendar-manager/events.ics?calendar_ids[]=1", "include": "\\bboard\\b|directors", "exclude": "\\bpta\\b|ptsa|appreciation|recognition|booster|foundation|advisory|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic", "homepage": "https://www.sjisd.wednet.edu/"}
+  - {"id": "yelm-schools", "name": "Yelm Community Schools", "county": "Thurston", "area": "Yelm", "category": "school", "type": "ics", "url": "https://www.ycs.wednet.edu/fs/calendar-manager/events.ics?calendar_ids[]=16&calendar_ids[]=2", "include": "\\bboard\\b|directors", "exclude": "\\bpta\\b|ptsa|appreciation|recognition|booster|foundation|advisory|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic", "homepage": "https://www.ycs.wednet.edu/"}
+  - {"id": "garfield-schools", "name": "Garfield School District", "county": "Whitman", "area": "Garfield", "category": "school", "type": "ics", "url": "https://www.garpal.net/fs/calendar-manager/events.ics?calendar_ids[]=4", "include": "\\bboard\\b|directors", "exclude": "\\bpta\\b|ptsa|appreciation|recognition|booster|foundation|advisory|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic", "homepage": "https://www.garpal.net/"}
+  - {"id": "lacrosse-schools", "name": "LaCrosse School District", "county": "Whitman", "area": "LaCrosse", "category": "school", "type": "ics", "url": "https://calendar.google.com/calendar/ical/lacrossesd.k12.wa.us_pat61ll45elpljs8i50ii2no4k%40group.calendar.google.com/public/basic.ics", "include": "\\bboard\\b|directors", "exclude": "\\bpta\\b|ptsa|appreciation|recognition|booster|foundation|advisory|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic", "homepage": "https://www.lacrossesd.k12.wa.us/en-US"}
+  - {"id": "battle-ground-schools", "name": "Battle Ground School District", "county": "Clark", "area": "Battle Ground", "category": "school", "type": "apptegy", "org": 24679, "include": "\\bboard\\b|directors", "exclude": "\\bpta\\b|ptsa|appreciation|recognition|booster|foundation|advisory|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic", "homepage": "https://www.battlegroundps.org/"}
+  - {"id": "walla-walla-schools", "name": "Walla Walla Public Schools", "county": "Walla Walla", "area": "Walla Walla", "category": "school", "type": "ics", "url": "https://www.wwps.org/fs/calendar-manager/events.ics?calendar_ids[]=1&calendar_ids[]=2", "include": "\\bboard\\b|directors", "exclude": "\\bpta\\b|ptsa|appreciation|recognition|booster|foundation|advisory|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic", "homepage": "https://www.wwps.org/"}
+  - {"id": "granite-falls-schools", "name": "Granite Falls School District", "county": "Snohomish", "area": "Granite Falls", "category": "school", "type": "ics", "url": "https://www.gfalls.wednet.edu/fs/calendar-manager/events.ics?calendar_ids[]=3", "include": "\\bboard\\b|directors", "exclude": "\\bpta\\b|ptsa|appreciation|recognition|booster|foundation|advisory|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic", "homepage": "https://www.gfalls.wednet.edu/"}
+  - {"id": "tekoa-schools", "name": "Tekoa School District", "county": "Whitman", "area": "Tekoa", "category": "school", "type": "ics", "url": "https://calendar.google.com/calendar/ical/tekoasd.org_5allballf7821ktoio8du84a50%40group.calendar.google.com/public/basic.ics", "include": "\\bboard\\b|directors", "exclude": "\\bpta\\b|ptsa|appreciation|recognition|booster|foundation|advisory|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic", "homepage": "https://www.tekoa.wednet.edu/en-US"}
+  - {"id": "grapeview-schools", "name": "Grapeview School District", "county": "Mason", "area": "Grapeview", "category": "school", "type": "ics", "url": "https://www.gsd54.org/fs/calendar-manager/events.ics?calendar_ids[]=1&calendar_ids[]=2&calendar_ids[]=3", "include": "\\bboard\\b|directors", "exclude": "\\bpta\\b|ptsa|appreciation|recognition|booster|foundation|advisory|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic", "homepage": "https://www.gsd54.org/"}
+
+  # School boards with no feed, entered from the regular meeting schedule each
+  # district publishes on its board page (checked November 2026).
+  - id: aberdeen-schools
+    name: Aberdeen School District
+    type: schedule
+    county: Grays Harbor
+    area: Aberdeen
+    category: school
+    default_category: school
+    homepage: https://www.asd5.org/
+    meetings:
+      - title: School Board Meeting
+        when: 1st, 3rd Tuesday
+        time: "18:00"
+        location: "See the district's board page"
+        url: https://www.asd5.org/
+
+  - id: bainbridge-island-schools
+    name: Bainbridge Island School District
+    type: schedule
+    county: Kitsap
+    area: Bainbridge Island
+    category: school
+    default_category: school
+    homepage: https://www.bisd303.org/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd, last Thursday
+        time: "17:45"
+        location: "BISD Board Room, 9530 High School Rd. NE, Bainbridge Island"
+        url: https://www.bisd303.org/
+        note: "The board meets most, not all, second and last Thursdays."
+
+  - id: benge-schools
+    name: Benge School District
+    type: schedule
+    county: Adams
+    area: Benge
+    category: school
+    default_category: school
+    homepage: https://www.benge.wednet.edu/
+    meetings:
+      - title: School Board Meeting
+        when: 4th Monday
+        time: "17:15"
+        skip_months: [4, 5, 6, 7, 8, 9, 10]
+        location: "See the district's board page"
+        url: https://www.benge.wednet.edu/
+        note: "Meetings start at 5:15 p.m. in winter and 6 p.m. in spring and summer."
+      - title: School Board Meeting
+        when: 4th Monday
+        time: "18:00"
+        skip_months: [1, 2, 3, 11, 12]
+        location: "See the district's board page"
+        url: https://www.benge.wednet.edu/
+        note: "Meetings start at 5:15 p.m. in winter and 6 p.m. in spring and summer."
+
+  - id: blaine-schools
+    name: Blaine School District
+    type: schedule
+    county: Whatcom
+    area: Blaine
+    category: school
+    default_category: school
+    homepage: https://www.blainesd.org/o/blaine-school-district
+    meetings:
+      - title: School Board Meeting
+        when: 4th Monday
+        time: "18:00"
+        skip_months: [6, 12]
+        location: "District Boardroom, Blaine"
+        url: https://www.blainesd.org/o/blaine-school-district
+        note: "June and December meetings and the 2nd-Monday study sessions follow the district's own calendar."
+
+  - id: burlington-edison-schools
+    name: Burlington-Edison School District
+    type: schedule
+    county: Skagit
+    area: Burlington
+    category: school
+    default_category: school
+    homepage: https://www.be.wednet.edu/
+    meetings:
+      - title: School Board Meeting
+        when: 4th Monday
+        time: "18:00"
+        skip_months: [6, 7, 12]
+        location: "See the district's board page"
+        url: https://www.be.wednet.edu/
+      - title: School Board Meeting
+        when: 2nd Monday
+        time: "18:00"
+        skip_months: [1, 2, 3, 4, 5, 7, 8, 9, 10, 11]
+        location: "See the district's board page"
+        url: https://www.be.wednet.edu/
+      - title: School Board Meeting
+        when: 5th Monday
+        time: "18:00"
+        skip_months: [1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12]
+        location: "See the district's board page"
+        url: https://www.be.wednet.edu/
+
+  - id: carbonado-schools
+    name: Carbonado Historical School District
+    type: schedule
+    county: Pierce
+    area: Carbonado
+    category: school
+    default_category: school
+    homepage: https://www.carbonado.k12.wa.us/
+    meetings:
+      - title: School Board Meeting
+        when: 3rd Monday
+        time: "18:30"
+        location: "Carbonado School, 301 O'Ferrell Dr., Carbonado"
+        url: https://www.carbonado.k12.wa.us/
+
+  - id: cashmere-schools
+    name: Cashmere School District
+    type: schedule
+    county: Chelan
+    area: Cashmere
+    category: school
+    default_category: school
+    homepage: https://www.cashmere.wednet.edu/
+    meetings:
+      - title: School Board Work Session
+        when: 1st Monday
+        time: "07:00"
+        location: "See the district's board page"
+        url: https://www.cashmere.wednet.edu/
+      - title: School Board Meeting
+        when: 3rd Monday
+        time: "18:00"
+        location: "See the district's board page"
+        url: https://www.cashmere.wednet.edu/
+
+  - id: central-valley-schools
+    name: Central Valley School District
+    type: schedule
+    county: Spokane
+    area: Spokane Valley
+    category: school
+    default_category: school
+    homepage: https://www.cvsd.org/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd, 4th Monday
+        time: "18:00"
+        location: "See the district's board page"
+        url: https://www.cvsd.org/
+
+  - id: centralia-schools
+    name: Centralia School District
+    type: schedule
+    county: Lewis
+    area: Centralia
+    category: school
+    default_category: school
+    homepage: https://www.centraliaschooldistrict.org/
+    meetings:
+      - title: School Board Meeting
+        when: 4th Thursday
+        time: "17:00"
+        holidays: "skip"
+        location: "Performing Arts Center, Centralia High School, 813 Eshom Rd., Centralia"
+        url: https://www.centraliaschooldistrict.org/
+
+  - id: cle-elum-roslyn-schools
+    name: Cle Elum-Roslyn School District
+    type: schedule
+    county: Kittitas
+    area: Cle Elum
+    category: school
+    default_category: school
+    homepage: https://www.cersd.org/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd Monday
+        time: "18:00"
+        location: "District Central Office, Cle Elum"
+        url: https://www.cersd.org/
+      - title: School Board Meeting
+        when: 4th Monday
+        time: "18:00"
+        skip_months: [12]
+        location: "District Central Office, Cle Elum"
+        url: https://www.cersd.org/
+
+  - id: college-place-schools
+    name: College Place School District
+    type: schedule
+    county: Walla Walla
+    area: College Place
+    category: school
+    default_category: school
+    homepage: https://www.cpps.org/
+    meetings:
+      - title: School Board Meeting
+        when: 4th Tuesday
+        time: "18:00"
+        location: "Davis Elementary, College Place"
+        url: https://www.cpps.org/
+
+  - id: columbia-stevens-schools
+    name: Columbia School District (Stevens County)
+    type: schedule
+    county: Stevens
+    area: Hunters
+    category: school
+    default_category: school
+    homepage: https://www.columbia206.com/
+    meetings:
+      - title: School Board Meeting
+        when: 4th Wednesday
+        time: "18:00"
+        location: "Columbia High School Library, Hunters"
+        url: https://www.columbia206.com/
+
+  - id: damman-schools
+    name: Damman School District
+    type: schedule
+    county: Kittitas
+    area: Ellensburg
+    category: school
+    default_category: school
+    homepage: https://dammanschool.org/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd Tuesday
+        time: "18:00"
+        location: "See the district's board page"
+        url: https://dammanschool.org/
+
+  - id: dieringer-schools
+    name: Dieringer School District
+    type: schedule
+    county: Pierce
+    area: Lake Tapps
+    category: school
+    default_category: school
+    homepage: https://www.dieringer.wednet.edu/
+    meetings:
+      - title: School Board Meeting
+        when: last Monday
+        time: "18:00"
+        location: "See the district's board page"
+        url: https://www.dieringer.wednet.edu/
+
+  - id: eatonville-schools
+    name: Eatonville School District
+    type: schedule
+    county: Pierce
+    area: Eatonville
+    category: school
+    default_category: school
+    homepage: https://www.eatonville.wednet.edu/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd, 4th Wednesday
+        time: "19:00"
+        location: "Eatonville High School Library, 302 Mashell Ave. N., Eatonville"
+        url: https://www.eatonville.wednet.edu/
+
+  - id: edmonds-schools
+    name: Edmonds School District
+    type: schedule
+    county: Snohomish
+    area: Lynnwood
+    category: school
+    default_category: school
+    homepage: https://www.edmonds.wednet.edu/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd, 4th Tuesday
+        time: "18:30"
+        location: "Boardroom, Educational Services Center, 20420 68th Ave. W., Lynnwood"
+        url: https://www.edmonds.wednet.edu/
+
+  - id: ellensburg-schools
+    name: Ellensburg School District
+    type: schedule
+    county: Kittitas
+    area: Ellensburg
+    category: school
+    default_category: school
+    homepage: https://www.esd401.org/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd, 4th Wednesday
+        time: "17:30"
+        location: "See the district's board page"
+        url: https://www.esd401.org/
+
+  - id: evaline-schools
+    name: Evaline School District
+    type: schedule
+    county: Lewis
+    area: Winlock
+    category: school
+    default_category: school
+    homepage: https://www.evalinesd.k12.wa.us/
+    meetings:
+      - title: School Board Meeting
+        when: 3rd Tuesday
+        time: "18:30"
+        location: "Multipurpose room, Evaline School"
+        url: https://www.evalinesd.k12.wa.us/
+
+  - id: finley-schools
+    name: Finley School District
+    type: schedule
+    county: Benton
+    area: Kennewick
+    category: school
+    default_category: school
+    homepage: https://www.finleysd.org/
+    meetings:
+      - title: School Board Meeting
+        when: 3rd Monday
+        time: "18:00"
+        skip_months: [1, 2]
+        location: "District Office, Finley"
+        url: https://www.finleysd.org/
+      - title: School Board Meeting
+        when: 4th Monday
+        time: "18:00"
+        skip_months: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+        location: "District Office, Finley"
+        url: https://www.finleysd.org/
+
+  - id: highland-schools
+    name: Highland School District
+    type: schedule
+    county: Yakima
+    area: Cowiche
+    category: school
+    default_category: school
+    homepage: https://www.highland.wednet.edu/
+    meetings:
+      - title: School Board Meeting
+        when: 3rd Tuesday
+        time: "19:00"
+        location: "Middle/high school library, Cowiche"
+        url: https://www.highland.wednet.edu/
+        note: "The November meeting date can differ."
+
+  - id: index-schools
+    name: Index School District
+    type: schedule
+    county: Snohomish
+    area: Index
+    category: school
+    default_category: school
+    homepage: https://indexschooldistrict.net/
+    meetings:
+      - title: School Board Meeting
+        when: 3rd Tuesday
+        time: "16:00"
+        location: "See the district's board page"
+        url: https://indexschooldistrict.net/
+
+  - id: kettle-falls-schools
+    name: Kettle Falls School District
+    type: schedule
+    county: Stevens
+    area: Kettle Falls
+    category: school
+    default_category: school
+    homepage: https://www.kfschools.org/
+    meetings:
+      - title: School Board Meeting
+        when: 4th Monday
+        time: "19:00"
+        location: "District Office Board Room, Kettle Falls"
+        url: https://www.kfschools.org/
+
+  - id: kiona-benton-city-schools
+    name: Kiona-Benton City School District
+    type: schedule
+    county: Benton
+    area: Benton City
+    category: school
+    default_category: school
+    homepage: https://www.kibesd.org/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd, 4th Monday
+        time: "18:30"
+        location: "District Board Room, Benton City"
+        url: https://www.kibesd.org/
+
+  - id: lind-schools
+    name: Lind School District
+    type: schedule
+    county: Adams
+    area: Lind
+    category: school
+    default_category: school
+    homepage: https://www.lrschools.org/
+    meetings:
+      - title: School Board Meeting
+        when: 4th Monday
+        time: "18:30"
+        location: "See the district's board page"
+        url: https://www.lrschools.org/
+        note: "Lind and Ritzville boards meet together; the location alternates between the districts."
+
+  - id: ritzville-schools
+    name: Ritzville School District
+    type: schedule
+    county: Adams
+    area: Ritzville
+    category: school
+    default_category: school
+    homepage: https://www.ritzville.wednet.edu/
+    meetings:
+      - title: School Board Meeting
+        when: 4th Monday
+        time: "18:30"
+        location: "See the district's board page"
+        url: https://www.ritzville.wednet.edu/
+        note: "Lind and Ritzville boards meet together; the location alternates between the districts."
+
+  - id: loon-lake-schools
+    name: Loon Lake School District
+    type: schedule
+    county: Stevens
+    area: Loon Lake
+    category: school
+    default_category: school
+    homepage: https://www.loonlakeschool.org/
+    meetings:
+      - title: School Board Meeting
+        when: 3rd Wednesday
+        time: "16:00"
+        location: "Loon Lake School library"
+        url: https://www.loonlakeschool.org/
+
+  - id: lopez-island-schools
+    name: Lopez Island School District
+    type: schedule
+    county: San Juan
+    area: Lopez Island
+    category: school
+    default_category: school
+    homepage: https://www.lopezislandschool.org/
+    meetings:
+      - title: School Board Meeting
+        when: 4th Wednesday
+        time: "18:00"
+        location: "Lopez School library"
+        url: https://www.lopezislandschool.org/
+
+  - id: lynden-schools
+    name: Lynden School District
+    type: schedule
+    county: Whatcom
+    area: Lynden
+    category: school
+    default_category: school
+    homepage: https://lynden.wednet.edu/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd, 4th Thursday
+        time: "18:30"
+        holidays: "skip"
+        location: "District Office Board Room, Lynden"
+        url: https://lynden.wednet.edu/
+
+  - id: mabton-schools
+    name: Mabton School District
+    type: schedule
+    county: Yakima
+    area: Mabton
+    category: school
+    default_category: school
+    homepage: https://www.msd120.org/
+    meetings:
+      - title: School Board Meeting
+        when: 4th Monday
+        time: "17:30"
+        skip_months: [12]
+        location: "Jr./Sr. High School Media Center, 500 B St., Mabton"
+        url: https://www.msd120.org/
+
+  - id: mccleary-schools
+    name: McCleary School District
+    type: schedule
+    county: Grays Harbor
+    area: McCleary
+    category: school
+    default_category: school
+    homepage: https://mccleary.wednet.edu/
+    meetings:
+      - title: School Board Meeting
+        when: last Thursday
+        time: "18:30"
+        holidays: "skip"
+        location: "See the district's board page"
+        url: https://mccleary.wednet.edu/
+
+  - id: monroe-schools
+    name: Monroe School District
+    type: schedule
+    county: Snohomish
+    area: Monroe
+    category: school
+    default_category: school
+    homepage: https://www.monroe.wednet.edu/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd, 4th Monday
+        time: "17:00"
+        location: "Location varies; see the district's page"
+        url: https://www.monroe.wednet.edu/
+
+  - id: mossyrock-schools
+    name: Mossyrock School District
+    type: schedule
+    county: Lewis
+    area: Mossyrock
+    category: school
+    default_category: school
+    homepage: https://www.mossyrockschools.org/
+    meetings:
+      - title: School Board Meeting
+        when: 3rd Monday
+        time: "19:00"
+        location: "Board room, 545 Williams St., Mossyrock"
+        url: https://www.mossyrockschools.org/
+
+  - id: mount-pleasant-schools
+    name: Mount Pleasant School District
+    type: schedule
+    county: Clark
+    area: Washougal
+    category: school
+    default_category: school
+    homepage: https://www.mtpleasantschool.org/
+    meetings:
+      - title: School Board Meeting
+        when: 3rd Wednesday
+        time: "17:00"
+        location: "Mt. Pleasant School, 152 Marble Rd., Washougal"
+        url: https://www.mtpleasantschool.org/
+
+  - id: nooksack-valley-schools
+    name: Nooksack Valley School District
+    type: schedule
+    county: Whatcom
+    area: Everson
+    category: school
+    default_category: school
+    homepage: https://www.nv.k12.wa.us/
+    meetings:
+      - title: School Board Meeting
+        when: 3rd Thursday
+        time: "19:00"
+        location: "District administration office, 3326 E. Badger Rd., Everson"
+        url: https://www.nv.k12.wa.us/
+
+  - id: north-beach-schools
+    name: North Beach School District
+    type: schedule
+    county: Grays Harbor
+    area: Ocean Shores
+    category: school
+    default_category: school
+    homepage: https://www.northbeachschools.org/
+    meetings:
+      - title: School Board Meeting
+        when: 3rd Tuesday
+        time: "18:00"
+        location: "Rotates between district schools"
+        url: https://www.northbeachschools.org/
+
+  - id: northshore-schools
+    name: Northshore School District
+    type: schedule
+    county: King
+    area: Bothell
+    category: school
+    default_category: school
+    homepage: https://www.nsd.org/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd Monday
+        time: "16:30"
+        location: "Northshore Administrative Office, Bothell"
+        url: https://www.nsd.org/
+      - title: School Board Meeting
+        when: 4th Monday
+        time: "19:00"
+        location: "Northshore Administrative Office, Bothell"
+        url: https://www.nsd.org/
+
+  - id: oak-harbor-schools
+    name: Oak Harbor School District
+    type: schedule
+    county: Island
+    area: Oak Harbor
+    category: school
+    default_category: school
+    homepage: https://www.ohsd.net/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd, last Monday
+        time: "18:00"
+        location: "Administrative Service Center, Oak Harbor"
+        url: https://www.ohsd.net/
+        note: "In July the board holds only one meeting."
+
+  - id: okanogan-schools
+    name: Okanogan School District
+    type: schedule
+    county: Okanogan
+    area: Okanogan
+    category: school
+    default_category: school
+    homepage: https://www.oksd.wednet.edu/
+    meetings:
+      - title: School Board Meeting
+        when: last Monday
+        time: "17:30"
+        location: "Location alternates between district schools"
+        url: https://www.oksd.wednet.edu/
+
+  - id: orchard-prairie-schools
+    name: Orchard Prairie School District
+    type: schedule
+    county: Spokane
+    area: Spokane
+    category: school
+    default_category: school
+    homepage: https://www.orchardprairieschool.org/
+    meetings:
+      - title: School Board Meeting
+        when: 3rd Monday
+        time: "18:00"
+        location: "See the district's board page"
+        url: https://www.orchardprairieschool.org/
+
+  - id: orondo-schools
+    name: Orondo School District
+    type: schedule
+    county: Douglas
+    area: Orondo
+    category: school
+    default_category: school
+    homepage: https://www.orondoschool.org/
+    meetings:
+      - title: School Board Meeting
+        when: last Tuesday
+        time: "17:00"
+        skip_months: [7, 8]
+        location: "District Office, Orondo"
+        url: https://www.orondoschool.org/
+        note: "The board usually meets on this schedule during the school year."
+
+  - id: palisades-schools
+    name: Palisades School District
+    type: schedule
+    county: Douglas
+    area: Palisades
+    category: school
+    default_category: school
+    homepage: https://palisadesschool.org/
+    meetings:
+      - title: School Board Meeting
+        when: 4th Monday
+        time: "17:00"
+        location: "See the district's board page"
+        url: https://palisadesschool.org/
+
+  - id: pasco-schools
+    name: Pasco School District
+    type: schedule
+    county: Franklin
+    area: Pasco
+    category: school
+    default_category: school
+    homepage: https://www.psd1.org/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd Tuesday
+        time: "18:30"
+        location: "See the district's board page"
+        url: https://www.psd1.org/
+        note: "Each regular meeting is preceded by a 4:30 p.m. work session."
+      - title: School Board Meeting
+        when: 4th Tuesday
+        time: "18:30"
+        skip_months: [7, 12]
+        location: "See the district's board page"
+        url: https://www.psd1.org/
+        note: "Each regular meeting is preceded by a 4:30 p.m. work session."
+
+  - id: prescott-schools
+    name: Prescott School District
+    type: schedule
+    county: Walla Walla
+    area: Prescott
+    category: school
+    default_category: school
+    homepage: https://www.prescott.k12.wa.us/
+    meetings:
+      - title: School Board Meeting
+        when: 4th Thursday
+        time: "18:00"
+        holidays: "skip"
+        location: "See the district's board page"
+        url: https://www.prescott.k12.wa.us/
+
+  - id: renton-schools
+    name: Renton School District
+    type: schedule
+    county: King
+    area: Renton
+    category: school
+    default_category: school
+    homepage: https://www.rentonschools.us/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd, 4th Wednesday
+        time: "19:00"
+        location: "Administration building, 300 SW 7th St., Renton"
+        url: https://www.rentonschools.us/
+
+  - id: richland-schools
+    name: Richland School District
+    type: schedule
+    county: Benton
+    area: Richland
+    category: school
+    default_category: school
+    homepage: https://www.rsd.edu/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd Tuesday
+        time: "18:30"
+        location: "See the district's board page"
+        url: https://www.rsd.edu/
+      - title: School Board Meeting
+        when: 4th Tuesday
+        time: "18:30"
+        skip_months: [7, 12]
+        location: "See the district's board page"
+        url: https://www.rsd.edu/
+
+  - id: royal-schools
+    name: Royal School District
+    type: schedule
+    county: Grant
+    area: Royal City
+    category: school
+    default_category: school
+    homepage: https://www.royalsd.org/
+    meetings:
+      - title: School Board Meeting
+        when: 4th Monday
+        time: "19:30"
+        skip_months: [5, 12]
+        location: "Royal Intermediate School Library, Royal City"
+        url: https://www.royalsd.org/
+
+  - id: satsop-schools
+    name: Satsop School District
+    type: schedule
+    county: Grays Harbor
+    area: Satsop
+    category: school
+    default_category: school
+    homepage: http://www.satsopschool.org/
+    meetings:
+      - title: School Board Meeting
+        when: 3rd Monday
+        time: "18:30"
+        location: "See the district's board page"
+        url: http://www.satsopschool.org/
+
+  - id: shelton-schools
+    name: Shelton School District
+    type: schedule
+    county: Mason
+    area: Shelton
+    category: school
+    default_category: school
+    homepage: https://www.sheltonschools.org/cms/One.aspx
+    meetings:
+      - title: School Board Meeting
+        when: 2nd, 4th Tuesday
+        time: "18:00"
+        location: "See the district's board page"
+        url: https://www.sheltonschools.org/cms/One.aspx
+
+  - id: skamania-schools
+    name: Skamania School District
+    type: schedule
+    county: Skamania
+    area: Stevenson
+    category: school
+    default_category: school
+    homepage: https://skamaniaschooldistrict.org/
+    meetings:
+      - title: School Board Meeting
+        when: 3rd Wednesday
+        time: "18:00"
+        location: "Superintendent's Office, Skamania School"
+        url: https://skamaniaschooldistrict.org/
+
+  - id: skykomish-schools
+    name: Skykomish School District
+    type: schedule
+    county: King
+    area: Skykomish
+    category: school
+    default_category: school
+    homepage: https://www.skykomish.wednet.edu/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd, last Wednesday
+        time: "18:30"
+        location: "Skykomish School Community Center"
+        url: https://www.skykomish.wednet.edu/
+
+  - id: snoqualmie-valley-schools
+    name: Snoqualmie Valley School District
+    type: schedule
+    county: King
+    area: Snoqualmie
+    category: school
+    default_category: school
+    homepage: https://www.svsd410.org/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd, 4th Thursday
+        time: "17:00"
+        holidays: "skip"
+        location: "District Office board room, Snoqualmie"
+        url: https://www.svsd410.org/
+        note: "The board meets on this schedule most months."
+
+  - id: south-whidbey-schools
+    name: South Whidbey School District
+    type: schedule
+    county: Island
+    area: Langley
+    category: school
+    default_category: school
+    homepage: https://www.sw.wednet.edu/
+    meetings:
+      - title: School Board Study Session
+        when: 2nd Wednesday
+        time: "18:30"
+        location: "See the district's board page"
+        url: https://www.sw.wednet.edu/
+      - title: School Board Business Meeting
+        when: 4th Wednesday
+        time: "18:30"
+        location: "See the district's board page"
+        url: https://www.sw.wednet.edu/
+
+  - id: stanwood-camano-schools
+    name: Stanwood-Camano School District
+    type: schedule
+    county: Snohomish
+    area: Stanwood
+    category: school
+    default_category: school
+    homepage: https://www.stanwood.wednet.edu/
+    meetings:
+      - title: School Board Meeting
+        when: 1st Tuesday
+        time: "13:00"
+        location: "Administration and Resource Center, Stanwood"
+        url: https://www.stanwood.wednet.edu/
+      - title: School Board Meeting
+        when: 3rd Tuesday
+        time: "18:00"
+        location: "Administration and Resource Center, Stanwood"
+        url: https://www.stanwood.wednet.edu/
+
+  - id: star-schools
+    name: Star School District
+    type: schedule
+    county: Franklin
+    area: Pasco
+    category: school
+    default_category: school
+    homepage: https://www.starbuck.k12.wa.us/
+    meetings:
+      - title: School Board Meeting
+        when: 4th Monday
+        time: "07:00"
+        location: "See the district's board page"
+        url: https://www.starbuck.k12.wa.us/
+
+  - id: summit-valley-schools
+    name: Summit Valley School District
+    type: schedule
+    county: Stevens
+    area: Addy
+    category: school
+    default_category: school
+    homepage: https://www.svalley.k12.wa.us/
+    meetings:
+      - title: School Board Meeting
+        when: 3rd Wednesday
+        time: "18:00"
+        location: "Summit Valley School"
+        url: https://www.svalley.k12.wa.us/
+
+  - id: tonasket-schools
+    name: Tonasket School District
+    type: schedule
+    county: Okanogan
+    area: Tonasket
+    category: school
+    default_category: school
+    homepage: https://www.tonasket.wednet.edu/
+    meetings:
+      - title: School Board Meeting
+        when: last Wednesday
+        time: "18:00"
+        location: "See the district's board page"
+        url: https://www.tonasket.wednet.edu/
+
+  - id: toppenish-schools
+    name: Toppenish School District
+    type: schedule
+    county: Yakima
+    area: Toppenish
+    category: school
+    default_category: school
+    homepage: https://www.toppenish.wednet.edu/
+    meetings:
+      - title: School Board Meeting
+        when: 4th Monday
+        time: "18:00"
+        location: "See the district's board page"
+        url: https://www.toppenish.wednet.edu/
+
+  - id: union-gap-schools
+    name: Union Gap School District
+    type: schedule
+    county: Yakima
+    area: Union Gap
+    category: school
+    default_category: school
+    homepage: https://www.uniongapschool.org/
+    meetings:
+      - title: School Board Meeting
+        when: 4th Tuesday
+        time: "18:00"
+        location: "School library, 3201 S. 4th St., Union Gap"
+        url: https://www.uniongapschool.org/
+
+  - id: university-place-schools
+    name: University Place School District
+    type: schedule
+    county: Pierce
+    area: University Place
+    category: school
+    default_category: school
+    homepage: https://upsd83.org/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd Wednesday
+        time: "18:30"
+        location: "See the district's board page"
+        url: https://upsd83.org/
+        note: "In November, December, February, April and July the board holds only one meeting; check the district's dates."
+      - title: School Board Meeting
+        when: 4th Wednesday
+        time: "18:30"
+        skip_months: [2, 4, 7, 11, 12]
+        location: "See the district's board page"
+        url: https://upsd83.org/
+        note: "In November, December, February, April and July the board holds only one meeting; check the district's dates."
+
+  - id: vashon-island-schools
+    name: Vashon Island School District
+    type: schedule
+    county: King
+    area: Vashon
+    category: school
+    default_category: school
+    homepage: https://www.vashonsd.org/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd, 4th Thursday
+        time: "18:00"
+        holidays: "skip"
+        location: "Room 302, Chautauqua Elementary, Vashon"
+        url: https://www.vashonsd.org/
+
+  - id: waitsburg-schools
+    name: Waitsburg School District
+    type: schedule
+    county: Walla Walla
+    area: Waitsburg
+    category: school
+    default_category: school
+    homepage: https://www.waitsburgsd.org/
+    meetings:
+      - title: School Board Meeting
+        when: 3rd Thursday
+        time: "18:00"
+        location: "Waitsburg Elementary School Library, 184 Academy St., Waitsburg"
+        url: https://www.waitsburgsd.org/
+
+  - id: warden-schools
+    name: Warden School District
+    type: schedule
+    county: Grant
+    area: Warden
+    category: school
+    default_category: school
+    homepage: https://www.warden.wednet.edu/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd, 4th Thursday
+        time: "19:00"
+        holidays: "skip"
+        location: "Warden High School"
+        url: https://www.warden.wednet.edu/
+
+  - id: washtucna-schools
+    name: Washtucna School District
+    type: schedule
+    county: Adams
+    area: Washtucna
+    category: school
+    default_category: school
+    homepage: https://www.tucna.wednet.edu/
+    meetings:
+      - title: School Board Meeting
+        when: 4th Tuesday
+        time: "19:00"
+        location: "Boardroom, Washtucna School, 730 E. Booth Ave., Washtucna"
+        url: https://www.tucna.wednet.edu/
+
+  - id: woodland-schools
+    name: Woodland School District
+    type: schedule
+    county: Cowlitz
+    area: Woodland
+    category: school
+    default_category: school
+    homepage: https://www.woodlandschools.org/
+    meetings:
+      - title: School Board Meeting
+        when: 2nd Thursday
+        time: "18:30"
+        skip_months: [7, 12]
+        location: "Board Meeting Room, 800 Third St., Woodland"
+        url: https://www.woodlandschools.org/
+      - title: School Board Meeting
+        when: 4th Thursday
+        time: "18:30"
+        skip_months: [7, 11, 12]
+        location: "Board Meeting Room, 800 Third St., Woodland"
+        url: https://www.woodlandschools.org/
+      - title: School Board Meeting
+        when: 3rd Thursday
+        time: "18:30"
+        skip_months: [1, 2, 3, 4, 5, 6, 8, 9, 10, 11]
+        location: "Board Meeting Room, 800 Third St., Woodland"
+        url: https://www.woodlandschools.org/
+
+
 # Not connected yet:
 #   Feeds that refuse GitHub's servers (checked November 2026). Everett,
 #   Shoreline and Camas are covered from their published schedules instead;
