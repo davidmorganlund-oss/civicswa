@@ -13,6 +13,7 @@ from playwright.async_api import async_playwright
 DAYS = r"(?:Mon|Tues|Wednes|Thurs|Fri|Satur|Sun)days?"
 SCHED = re.compile(r"(?:(?:first|second|third|fourth|last|1st|2nd|3rd|4th|every|each|alternate|other)\b[^.]{0,70}?\b"
                    + DAYS + r"|" + DAYS + r"\b[^.]{0,50}?\b(?:of each|of every|each month|of the month|monthly))[^.]{0,240}", re.I)
+WHEN = re.compile(r"(?:regular(?:ly scheduled)? (?:school )?board meetings?|board (?:of directors )?(?:regularly )?meets|regular meetings? of the board|meetings? (?:are|is) held|board meeting schedule)", re.I)
 HINT = re.compile(r"board|meeting|agenda|directors|governance|trustees", re.I)
 PLAT = {
     "apptegy_org": r"thrillshare[^\"'\s]*?/(?:o|s)/(\d+)",
@@ -67,11 +68,12 @@ async def crawl(sem, browser, row):
     res["pages"] = len(texts)
     seen = set()
     for u, t in texts:
-        for m in SCHED.finditer(t):
-            s = m.group(0).strip()
-            if re.search(r"\d\s*(?:a\.?m|p\.?m)|noon|meet|board", s, re.I) and s.lower()[:100] not in seen:
-                seen.add(s.lower()[:100]); res["schedule"].append([u, s[:320]])
-    res["schedule"] = res["schedule"][:12]
+        hits = [m.start() for m in SCHED.finditer(t)] + [m.start() for m in WHEN.finditer(t)]
+        for i in sorted(hits):
+            s = t[max(0, i - 160):i + 420].strip()
+            if re.search(r"board|director|regular meeting", s, re.I) and s.lower()[150:260] not in seen:
+                seen.add(s.lower()[150:260]); res["schedule"].append([u, s])
+    res["schedule"] = res["schedule"][:10]
     blob = "\n".join(blobs)
     for k, pat in PLAT.items():
         hits = set()
