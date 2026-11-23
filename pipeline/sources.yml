@@ -455,6 +455,311 @@ sources:
         location: "Commissioners Meeting Room, 3rd floor, County Courthouse, 64 Main St., Cathlamet"
         url: https://www.co.wahkiakum.wa.us/257/Board-of-County-Commissioners
 
+  # Large cities and counties with no feed GitHub can read, entered from the
+  # schedule each one publishes (checked November 2026).
+  - id: everett
+    name: City of Everett
+    type: schedule
+    county: Snohomish
+    area: Everett
+    default_category: council
+    homepage: https://www.everettwa.gov/citycouncil
+    meetings:
+      - title: City Council Meeting
+        when: 1st, 2nd, 3rd Wednesday
+        time: "18:30"
+        location: "Council Chambers, Everett Police Department North Precinct, 3002 Wetmore Ave., Everett"
+        url: https://www.everettwa.gov/citycouncil
+      - title: City Council Meeting
+        when: 4th, 5th Wednesday
+        time: "12:30"
+        location: "Council Chambers, Everett Police Department North Precinct, 3002 Wetmore Ave., Everett"
+        url: https://www.everettwa.gov/citycouncil
+
+  - id: federal-way
+    name: City of Federal Way
+    type: schedule
+    county: King
+    area: Federal Way
+    default_category: council
+    homepage: https://www.federalwaywa.gov/page/meetings-and-agendas
+    meetings:
+      - title: City Council Regular Meeting
+        when: 1st, 3rd Tuesday
+        time: "18:30"
+        location: "City Council Chamber, Federal Way City Hall, 33325 8th Ave. S."
+        url: https://www.federalwaywa.gov/page/meetings-and-agendas
+      - title: Land Use and Transportation Committee
+        when: 1st Monday
+        time: "17:00"
+        location: "Federal Way City Hall, 33325 8th Ave. S."
+        url: https://www.federalwaywa.gov/page/meetings-and-agendas
+      - title: Parks, Recreation, Human Services and Public Safety Committee
+        when: 2nd Tuesday
+        time: "17:00"
+        location: "Federal Way City Hall, 33325 8th Ave. S."
+        url: https://www.federalwaywa.gov/page/meetings-and-agendas
+      - title: Finance, Economic Development and Regional Affairs Committee
+        when: 4th Tuesday
+        time: "17:00"
+        location: "Federal Way City Hall, 33325 8th Ave. S."
+        url: https://www.federalwaywa.gov/page/meetings-and-agendas
+
+  - id: shoreline
+    name: City of Shoreline
+    type: schedule
+    county: King
+    area: Shoreline
+    default_category: council
+    homepage: https://www.shorelinewa.gov/government/council-meetings
+    meetings:
+      - title: City Council Regular Meeting
+        when: 1st, 2nd, 3rd, 4th, 5th Monday
+        time: "19:00"
+        holidays: skip
+        location: "Council Chamber, Shoreline City Hall, 17500 Midvale Ave. N."
+        url: https://www.shorelinewa.gov/government/council-meetings
+        note: "The council meets most Mondays but skips holidays and breaks."
+
+  - id: seatac
+    name: City of SeaTac
+    type: schedule
+    county: King
+    area: SeaTac
+    default_category: council
+    homepage: https://www.seatacwa.gov/Council-and-departments/City-Council/Participating-in-Council-meetings
+    meetings:
+      - title: City Council Study Session
+        when: 2nd Tuesday
+        time: "16:00"
+        location: "Council Chambers, SeaTac City Hall, 4800 S. 188th St."
+        url: https://www.seatacwa.gov/Council-and-departments/City-Council/Upcoming-Council-meetings
+      - title: City Council Regular Meeting
+        when: 2nd, 4th Tuesday
+        time: "18:00"
+        location: "Council Chambers, SeaTac City Hall, 4800 S. 188th St."
+        url: https://www.seatacwa.gov/Council-and-departments/City-Council/Upcoming-Council-meetings
+
+  - id: walla-walla
+    name: City of Walla Walla
+    type: schedule
+    county: Walla Walla
+    area: Walla Walla
+    default_category: council
+    homepage: https://www.wallawallawa.gov/government/city-council
+    meetings:
+      - title: City Council Regular Meeting
+        when: 2nd, 4th Wednesday
+        time: "18:30"
+        skip_months: [11, 12]
+        location: "Walla Walla City Hall, 15 N. 3rd Ave."
+        url: https://www.wallawallawa.gov/government/city-council
+      - title: City Council Regular Meeting
+        when: 1st, 3rd Wednesday
+        time: "18:30"
+        skip_months: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        location: "Walla Walla City Hall, 15 N. 3rd Ave."
+        url: https://www.wallawallawa.gov/government/city-council
+        note: "In November and December the council meets on the 1st and 3rd Wednesdays."
+      - title: City Council Work Session
+        when: 2nd, 4th Wednesday
+        shift_days: -2
+        time: "16:00"
+        skip_months: [11, 12]
+        location: "See the city's council page"
+        url: https://www.wallawallawa.gov/government/city-council
+      - title: City Council Work Session
+        when: 1st, 3rd Wednesday
+        shift_days: -2
+        time: "16:00"
+        skip_months: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        location: "See the city's council page"
+        url: https://www.wallawallawa.gov/government/city-council
+
+  - id: maple-valley
+    name: City of Maple Valley
+    type: schedule
+    county: King
+    area: Maple Valley
+    default_category: council
+    homepage: https://www.maplevalleywa.gov/government/city_council_meetings_agendas_and_minutes.php
+    meetings:
+      - title: City Council Regular Meeting
+        when: 2nd Monday
+        time: "18:30"
+        end: "21:00"
+        skip_months: [8]
+        location: "Maple Room, Lake Wilderness Lodge, 22500 SE 248th St., Maple Valley"
+        url: https://www.maplevalleywa.gov/government/city_council_meetings_agendas_and_minutes.php
+      - title: City Council Study Session
+        when: 3rd Monday
+        time: "18:30"
+        end: "21:00"
+        location: "Maple Room, Lake Wilderness Lodge, 22500 SE 248th St., Maple Valley"
+        url: https://www.maplevalleywa.gov/government/city_council_meetings_agendas_and_minutes.php
+      - title: City Council Regular Meeting
+        when: 4th Monday
+        time: "18:30"
+        end: "21:00"
+        skip_months: [12]
+        location: "Maple Room, Lake Wilderness Lodge, 22500 SE 248th St., Maple Valley"
+        url: https://www.maplevalleywa.gov/government/city_council_meetings_agendas_and_minutes.php
+
+  - id: camas
+    name: City of Camas
+    type: schedule
+    county: Clark
+    area: Camas
+    default_category: council
+    homepage: https://www.cityofcamas.us/citycouncil
+    meetings:
+      - title: City Council Workshop
+        when: 1st, 3rd Monday
+        time: "16:30"
+        location: "Camas City Hall, 616 NE 4th Ave."
+        url: https://www.cityofcamas.us/citycouncil
+      - title: City Council Regular Meeting
+        when: 1st, 3rd Monday
+        time: "19:00"
+        location: "Camas City Hall, 616 NE 4th Ave."
+        url: https://www.cityofcamas.us/citycouncil
+
+  - id: chelan-county
+    name: Chelan County
+    type: schedule
+    county: Chelan
+    area: countywide
+    default_category: council
+    homepage: https://www.co.chelan.wa.us/board-of-commissioners/pages/weekly-commissioners-agenda
+    meetings:
+      - title: Board of County Commissioners
+        when: 1st, 2nd, 3rd, 4th, 5th Monday
+        time: "09:00"
+        holidays: skip
+        location: "Chelan County Administration Building, 400 Douglas St., Wenatchee"
+        url: https://www.co.chelan.wa.us/board-of-commissioners/pages/weekly-commissioners-agenda
+      - title: Board of County Commissioners
+        when: 1st, 2nd, 3rd, 4th, 5th Tuesday
+        time: "09:00"
+        holidays: skip
+        location: "Chelan County Administration Building, 400 Douglas St., Wenatchee"
+        url: https://www.co.chelan.wa.us/board-of-commissioners/pages/weekly-commissioners-agenda
+
+  - id: clark-county
+    name: Clark County
+    type: schedule
+    county: Clark
+    area: countywide
+    default_category: council
+    homepage: https://clark.wa.gov/councilors/council-meeting-information
+    meetings:
+      - title: County Council Meeting
+        when: 1st Tuesday
+        time: "10:00"
+        location: "6th floor, Public Service Center, 1300 Franklin St., Vancouver"
+        url: https://clark.wa.gov/councilors/clark-county-council-meetings
+      - title: County Council Meeting
+        when: 3rd Tuesday
+        time: "18:00"
+        location: "6th floor, Public Service Center, 1300 Franklin St., Vancouver"
+        url: https://clark.wa.gov/councilors/clark-county-council-meetings
+
+  - id: ferry-county
+    name: Ferry County
+    type: schedule
+    county: Ferry
+    area: countywide
+    default_category: council
+    homepage: https://www.ferry-county.com/government/board_of_commissioners/
+    meetings:
+      - title: Board of County Commissioners
+        when: 1st, 2nd, 3rd, 4th, 5th Monday
+        time: "09:00"
+        holidays: skip
+        location: "Commissioners' Office, 290 E. Tessie Ave., Republic"
+        url: https://www.ferry-county.com/government/board_of_commissioners/
+      - title: Board of County Commissioners
+        when: 1st, 2nd, 3rd, 4th, 5th Tuesday
+        time: "09:00"
+        holidays: skip
+        location: "Commissioners' Office, 290 E. Tessie Ave., Republic"
+        url: https://www.ferry-county.com/government/board_of_commissioners/
+
+  - id: garfield-county
+    name: Garfield County
+    type: schedule
+    county: Garfield
+    area: countywide
+    default_category: council
+    homepage: https://www.garfieldcountywa.gov/bocc
+    meetings:
+      - title: Board of County Commissioners
+        when: 1st, 2nd, 3rd, 4th, 5th Monday
+        time: "09:00"
+        location: "Commissioners' Chambers, Garfield County Courthouse, 789 Main St., Pomeroy"
+        url: https://www.garfieldcountywa.gov/bocc
+
+  # Skagit County's commissioners post their weekly session agendas to Granicus.
+  - id: skagit-county
+    name: Skagit County
+    type: granicus
+    tenant: skagit
+    view_id: 2
+    county: Skagit
+    area: countywide
+    homepage: https://www.skagitcounty.net/Departments/CountyCommissioners/main.htm
+
+  - id: skamania-county
+    name: Skamania County
+    type: schedule
+    county: Skamania
+    area: countywide
+    default_category: council
+    homepage: https://www.skamaniacounty.org/
+    meetings:
+      - title: Board of County Commissioners
+        when: 1st, 2nd, 3rd, 4th, 5th Tuesday
+        time: "09:30"
+        monday_holiday_shift: 1
+        location: "Boardroom, lower level, Skamania County Courthouse, 240 NW Vancouver Ave., Stevenson"
+        url: https://www.skamaniacounty.org/
+        note: "When a holiday falls on Monday, the meeting is held that Wednesday."
+
+  - id: stevens-county
+    name: Stevens County
+    type: schedule
+    county: Stevens
+    area: countywide
+    default_category: council
+    homepage: https://www.stevenscountywa.gov/21148/commissioners-documents
+    meetings:
+      - title: Board of County Commissioners
+        when: 1st, 2nd, 3rd, 4th, 5th Monday
+        time: "08:30"
+        holidays: skip
+        location: "Commissioners' Office, 230 E. Birch Ave., Colville"
+        url: https://www.stevenscountywa.gov/21148/commissioners-documents
+      - title: Board of County Commissioners
+        when: 1st, 2nd, 3rd, 4th, 5th Tuesday
+        time: "08:30"
+        holidays: skip
+        location: "Commissioners' Office, 230 E. Birch Ave., Colville"
+        url: https://www.stevenscountywa.gov/21148/commissioners-documents
+
+  - id: walla-walla-county
+    name: Walla Walla County
+    type: schedule
+    county: Walla Walla
+    area: countywide
+    default_category: council
+    homepage: https://www.wwcowa.gov/government/commissioners/index.php
+    meetings:
+      - title: Board of County Commissioners
+        when: 1st, 2nd, 3rd, 4th, 5th Monday
+        time: "09:00"
+        location: "County Public Health and Legislative Building, 314 W. Main St., Walla Walla"
+        url: https://www.wwcowa.gov/government/commissioners/index.php
+
   # CivicPlus sites: each category below was checked and holds public meetings.
 
   - id: pierce-county
@@ -1656,22 +1961,14 @@ sources:
   - {id: sunnyside-schools, name: Sunnyside School District, county: Yakima, area: Sunnyside, category: school, type: apptegy, org: 31599, include: \bboard\b|school board|directors, exclude: '\bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference', homepage: 'http://www.sunnysideschools.org/'}
 
 # Not connected yet:
-#   Clark County, WA. The Legistar account named "clark" turned out to be
-#   Clark County, Nevada, so it was removed. Clark County, WA posts meetings
-#   on clark.wa.gov without a feed.
-#   Shoreline (govAccess calendar feed) and Everett (CivicPlus calendar) both
-#   refuse requests from GitHub's servers (HTTP 403), so they are left out
-#   rather than worked around.
-#   Also refusing GitHub's servers (checked November 2026), though each has a
-#   readable feed: Camas (cityofcamas.us/calendar/ical/%2A/calendar.ics) and
-#   Port Townsend (cityofpt.us/calendar/ical/%2A/calendar.ics) close the
-#   connection; Chehalis (ci.chehalis.wa.us/calendar/ical/calendar.ics) and
-#   Woodinville (CivicPlus category 14) answer 403.
-#   No feed found (checked November 2026); meetings are only on web pages:
-#   Federal Way (Drupal calendar page), SeaTac (Granicus OpenCities calendar),
-#   Walla Walla (agendas.ci.walla-walla.wa.us monthly list), Maple Valley,
-#   Shelton and Yelm (Revize sites), Airway Heights and Hoquiam. Each would
-#   need a page reader written for its site.
+#   Feeds that refuse GitHub's servers (checked November 2026). Everett,
+#   Shoreline and Camas are covered from their published schedules instead;
+#   Port Townsend (cityofpt.us/calendar/ical/%2A/calendar.ics), Chehalis
+#   (ci.chehalis.wa.us/calendar/ical/calendar.ics) and Woodinville (CivicPlus
+#   category 14) are not yet.
+#   No feed found (checked November 2026): Federal Way, SeaTac, Walla Walla,
+#   Maple Valley and Clark County now use their published schedules. Shelton
+#   and Yelm (Revize sites), Airway Heights and Hoquiam still need a source.
 #   Tumwater's separate meetings portal (tumwater-wa.municodemeetings.com) has
 #   agendas, but its server refuses automated readers, so it is not used.
 #   School boards on BoardDocs only: BoardDocs tells all automated clients to
