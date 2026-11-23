@@ -3593,6 +3593,82 @@ sources:
         url: https://www.sno.wednet.edu/our-district/school-board/board-schedule
 
 
+  - id: moses-lake-schools
+    name: Moses Lake School District
+    type: schedule
+    county: Grant
+    area: Moses Lake
+    category: school
+    default_category: school
+    homepage: https://www.mlsd161.org/sbmeetings
+    meetings:
+      - title: School Board Regular Meeting
+        dates: [2026-12-03, 2026-12-17, 2027-01-07, 2027-01-21, 2027-02-04, 2027-02-18, 2027-03-04, 2027-03-18, 2027-04-01, 2027-04-15, 2027-05-06, 2027-05-20, 2027-06-03, 2027-06-17, 2027-07-08, 2027-08-05, 2027-08-19]
+        time: "18:00"
+        location: "MLSD Board Room, 940 E. Yonezawa Blvd., Moses Lake"
+        url: https://www.mlsd161.org/sbmeetings
+
+  - id: clover-park-schools
+    name: Clover Park School District
+    type: schedule
+    county: Pierce
+    area: Lakewood
+    category: school
+    default_category: school
+    homepage: https://www.cloverpark.k12.wa.us/152970_3
+    meetings:
+      - title: School Board Regular Meeting
+        dates: [2026-12-14, 2027-01-11, 2027-02-08, 2027-03-08, 2027-04-12, 2027-05-10, 2027-06-14, 2027-07-12, 2027-08-09]
+        time: "18:00"
+        location: "Room 4, Student Services Center, 10903 Gravelly Lake Dr. SW, Lakewood"
+        url: https://www.cloverpark.k12.wa.us/152970_3
+      - title: School Board Meeting/Workshop
+        dates: [2027-02-22, 2027-03-22, 2027-04-26, 2027-05-24, 2027-06-28, 2027-08-23]
+        time: "17:30"
+        location: "Room 4, Student Services Center, 10903 Gravelly Lake Dr. SW, Lakewood"
+        url: https://www.cloverpark.k12.wa.us/152970_3
+      - title: School Board Planning Meeting
+        dates: [2027-01-25, 2027-01-26]
+        time: "17:30"
+        location: "Room 4, Student Services Center, 10903 Gravelly Lake Dr. SW, Lakewood"
+        url: https://www.cloverpark.k12.wa.us/152970_3
+
+  - id: bellingham-schools
+    name: Bellingham Public Schools
+    type: schedule
+    county: Whatcom
+    area: Bellingham
+    category: school
+    default_category: school
+    homepage: https://www.bellinghamschools.org/school-board/school-board
+    meetings:
+      - title: School Board Regular Meeting
+        dates: [2026-12-17, 2027-01-14, 2027-02-18, 2027-03-18, 2027-04-22, 2027-05-13, 2027-06-17, 2027-07-22, 2027-08-19]
+        time: "17:30"
+        location: "Board Room, District Office, 1985 Barkley Blvd., Bellingham"
+        url: https://www.bellinghamschools.org/school-board/school-board
+
+  - id: eastmont-schools
+    name: Eastmont School District
+    type: schedule
+    county: Douglas
+    area: East Wenatchee
+    category: school
+    default_category: school
+    homepage: https://www.eastmont206.org/school-board/index
+    meetings:
+      - title: School Board Meeting
+        when: 2nd Monday
+        time: "17:30"
+        location: "District Office or a school site visit; see the district's board calendar"
+        url: https://www.eastmont206.org/school-board/index
+      - title: School Board Meeting
+        when: 4th Monday
+        time: "17:30"
+        skip_months: [12]
+        location: "District Office or a school site visit; see the district's board calendar"
+        url: https://www.eastmont206.org/school-board/index
+
 # Not connected yet:
 #   Feeds that refuse GitHub's servers (checked November 2026). Everett,
 #   Shoreline and Camas are covered from their published schedules instead;
