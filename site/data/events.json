@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T22:14:29-08:00",
+ "generated": "2026-11-22T22:25:23-08:00",
  "events": [
   {
    "id": "aff663f151ee",
@@ -2313,7 +2313,7 @@
    "cancelled": false
   },
   {
-   "id": "037aacae3b03",
+   "id": "ba5e46619b64",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -12683,6 +12683,23 @@
    "cancelled": false
   },
   {
+   "id": "1124e60dcacd",
+   "title": "School Board Work/Study Session",
+   "host": "Federal Way Public Schools",
+   "source": "federal-way-schools",
+   "area": "Federal Way",
+   "county": "King",
+   "category": "school",
+   "start": "2026-12-08T17:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "FWPS Educational Service Center, 33330 8th Ave. S., Federal Way",
+   "url": "https://www.fwps.org/about-us/school-board/board-meeting-schedule",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "0a9c28328a6d",
    "title": "Civil Service Commission Regular Meeting",
    "host": "Pierce County",
@@ -13528,6 +13545,23 @@
    "all_day": false,
    "location": "See the district's board page",
    "url": "https://www.rsd.edu/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
+   "id": "03958f752631",
+   "title": "School Board Regular Meeting",
+   "host": "Tahoma School District",
+   "source": "tahoma-schools",
+   "area": "Maple Valley",
+   "county": "King",
+   "category": "school",
+   "start": "2026-12-08T18:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Board Room, Central Services Center, 25720 Maple Valley-Black Diamond Rd. SE, Maple Valley",
+   "url": "https://www.tahomasd.us/about/school-board",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
@@ -14412,6 +14446,23 @@
    "cancelled": false
   },
   {
+   "id": "0dfaebdefa81",
+   "title": "School Board Work Session",
+   "host": "Snohomish School District",
+   "source": "snohomish-schools",
+   "area": "Snohomish",
+   "county": "Snohomish",
+   "category": "school",
+   "start": "2026-12-09T17:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Resource Service Center, Snohomish",
+   "url": "https://www.sno.wednet.edu/our-district/school-board/board-schedule",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "ab5edfe2cb4f",
    "title": "Arts Commission Meeting",
    "host": "City of Bremerton",
@@ -14512,6 +14563,23 @@
    "agenda_url": "",
    "note": "",
    "cancelled": true
+  },
+  {
+   "id": "78c1615ad0d9",
+   "title": "School Board Business Meeting",
+   "host": "Kennewick School District",
+   "source": "kennewick-schools",
+   "area": "Kennewick",
+   "county": "Benton",
+   "category": "school",
+   "start": "2026-12-09T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "KSD Administration Center, Kennewick",
+   "url": "https://www.ksd.org/school-board-meeting-schedule",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
   },
   {
    "id": "b929c97527e7",
@@ -14817,6 +14885,23 @@
    "url": "http://www.prosserschools.org/",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "8b9c257680ce",
+   "title": "School Board Regular Meeting",
+   "host": "Snohomish School District",
+   "source": "snohomish-schools",
+   "area": "Snohomish",
+   "county": "Snohomish",
+   "category": "school",
+   "start": "2026-12-09T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Resource Service Center, Snohomish",
+   "url": "https://www.sno.wednet.edu/our-district/school-board/board-schedule",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -18063,6 +18148,23 @@
    "cancelled": false
   },
   {
+   "id": "b75ad299ea7b",
+   "title": "School Board Regular Meeting",
+   "host": "Mead School District",
+   "source": "mead-schools",
+   "area": "Mead",
+   "county": "Spokane",
+   "category": "school",
+   "start": "2026-12-14T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Union Event Center, 12509 N. Market St., Bldg. D, Mead",
+   "url": "https://www.mead354.org/about-us/board-of-directors",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "f897f0266e4d",
    "title": "School Board Meeting 6pm",
    "host": "Napavine School District",
@@ -19664,6 +19766,23 @@
    "cancelled": false
   },
   {
+   "id": "f793cfcb1a61",
+   "title": "School Board Work Study Session",
+   "host": "Tahoma School District",
+   "source": "tahoma-schools",
+   "area": "Maple Valley",
+   "county": "King",
+   "category": "school",
+   "start": "2026-12-15T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Board Room, Central Services Center, 25720 Maple Valley-Black Diamond Rd. SE, Maple Valley",
+   "url": "https://www.tahomasd.us/about/school-board",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "cb131877f556",
    "title": "Board Study Session, December 2026",
    "host": "Vancouver School District",
@@ -20084,6 +20203,23 @@
    "all_day": false,
    "location": "6th floor, Public Service Center, 1300 Franklin St., Vancouver",
    "url": "https://clark.wa.gov/councilors/clark-county-council-meetings",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
+   "id": "cfc206cc08e6",
+   "title": "School Board Meeting",
+   "host": "Federal Way Public Schools",
+   "source": "federal-way-schools",
+   "area": "Federal Way",
+   "county": "King",
+   "category": "school",
+   "start": "2026-12-15T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Sacajawea Middle School, Federal Way",
+   "url": "https://www.fwps.org/about-us/school-board/board-meeting-schedule",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
@@ -20562,6 +20698,23 @@
    "url": "https://www.highland.wednet.edu/",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go. The November meeting date can differ.",
+   "cancelled": false
+  },
+  {
+   "id": "31e1c4b9a00c",
+   "title": "School Board Special Meeting",
+   "host": "Tahoma School District",
+   "source": "tahoma-schools",
+   "area": "Maple Valley",
+   "county": "King",
+   "category": "school",
+   "start": "2026-12-15T19:10:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Board Room, Central Services Center, 25720 Maple Valley-Black Diamond Rd. SE, Maple Valley",
+   "url": "https://www.tahomasd.us/about/school-board",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -26776,7 +26929,7 @@
    "cancelled": false
   },
   {
-   "id": "df7f65991cd2",
+   "id": "cac5cb08d6da",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -30754,6 +30907,23 @@
    "cancelled": false
   },
   {
+   "id": "31a24cd8caad",
+   "title": "School Board Work Session",
+   "host": "Mead School District",
+   "source": "mead-schools",
+   "area": "Mead",
+   "county": "Spokane",
+   "category": "school",
+   "start": "2027-01-11T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Mead School District Office",
+   "url": "https://www.mead354.org/about-us/board-of-directors",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "f581ea0a3757",
    "title": "School Board Meeting",
    "host": "Mill A School District",
@@ -31961,6 +32131,23 @@
    "cancelled": false
   },
   {
+   "id": "5cb4efc00dee",
+   "title": "School Board Work Study Session",
+   "host": "Tahoma School District",
+   "source": "tahoma-schools",
+   "area": "Maple Valley",
+   "county": "King",
+   "category": "school",
+   "start": "2027-01-12T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Board Room, Central Services Center, 25720 Maple Valley-Black Diamond Rd. SE, Maple Valley",
+   "url": "https://www.tahomasd.us/about/school-board",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "54606d0ca926",
    "title": "Board Meeting, January 2027",
    "host": "Vancouver School District",
@@ -32196,6 +32383,23 @@
    "url": "http://www.evsd.org/",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "14e4f583afa5",
+   "title": "School Board Meeting",
+   "host": "Federal Way Public Schools",
+   "source": "federal-way-schools",
+   "area": "Federal Way",
+   "county": "King",
+   "category": "school",
+   "start": "2027-01-12T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Twin Lakes Elementary, Federal Way",
+   "url": "https://www.fwps.org/about-us/school-board/board-meeting-schedule",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -32449,6 +32653,23 @@
    "all_day": false,
    "location": "See the district's board page",
    "url": "https://www.rsd.edu/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
+   "id": "f98ad465448c",
+   "title": "School Board Regular Meeting",
+   "host": "Tahoma School District",
+   "source": "tahoma-schools",
+   "area": "Maple Valley",
+   "county": "King",
+   "category": "school",
+   "start": "2027-01-12T18:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Board Room, Central Services Center, 25720 Maple Valley-Black Diamond Rd. SE, Maple Valley",
+   "url": "https://www.tahomasd.us/about/school-board",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
@@ -32947,6 +33168,23 @@
    "cancelled": false
   },
   {
+   "id": "7894c7ab3e39",
+   "title": "School Board Work Session",
+   "host": "Snohomish School District",
+   "source": "snohomish-schools",
+   "area": "Snohomish",
+   "county": "Snohomish",
+   "category": "school",
+   "start": "2027-01-13T17:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Resource Service Center, Snohomish",
+   "url": "https://www.sno.wednet.edu/our-district/school-board/board-schedule",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "8317c03b23b7",
    "title": "Planning Commission",
    "host": "City of Burien",
@@ -32993,6 +33231,23 @@
    "all_day": false,
    "location": "See the district's board page",
    "url": "https://www.esd401.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
+   "id": "9e7164f448a6",
+   "title": "School Board Business Meeting",
+   "host": "Kennewick School District",
+   "source": "kennewick-schools",
+   "area": "Kennewick",
+   "county": "Benton",
+   "category": "school",
+   "start": "2027-01-13T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "KSD Administration Center, Kennewick",
+   "url": "https://www.ksd.org/school-board-meeting-schedule",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
@@ -33267,6 +33522,23 @@
    "url": "http://www.prosserschools.org/",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "bd1bd0e5866b",
+   "title": "School Board Regular Meeting",
+   "host": "Snohomish School District",
+   "source": "snohomish-schools",
+   "area": "Snohomish",
+   "county": "Snohomish",
+   "category": "school",
+   "start": "2027-01-13T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Resource Service Center, Snohomish",
+   "url": "https://www.sno.wednet.edu/our-district/school-board/board-schedule",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -35358,6 +35630,23 @@
    "url": "https://www.cityofrainierwa.org/Calendar.aspx",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "4f9e31f10f39",
+   "title": "School Board Work/Study Session",
+   "host": "Federal Way Public Schools",
+   "source": "federal-way-schools",
+   "area": "Federal Way",
+   "county": "King",
+   "category": "school",
+   "start": "2027-01-19T17:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "FWPS Educational Service Center, 33330 8th Ave. S., Federal Way",
+   "url": "https://www.fwps.org/about-us/school-board/board-meeting-schedule",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
