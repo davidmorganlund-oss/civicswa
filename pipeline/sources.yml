@@ -3593,6 +3593,387 @@ sources:
         url: https://www.sno.wednet.edu/our-district/school-board/board-schedule
 
 
+  - id: moses-lake-schools
+    name: Moses Lake School District
+    type: schedule
+    county: Grant
+    area: Moses Lake
+    category: school
+    default_category: school
+    homepage: https://www.mlsd161.org/sbmeetings
+    meetings:
+      - title: School Board Regular Meeting
+        dates: [2026-12-03, 2026-12-17, 2027-01-07, 2027-01-21, 2027-02-04, 2027-02-18, 2027-03-04, 2027-03-18, 2027-04-01, 2027-04-15, 2027-05-06, 2027-05-20, 2027-06-03, 2027-06-17, 2027-07-08, 2027-08-05, 2027-08-19]
+        time: "18:00"
+        location: "MLSD Board Room, 940 E. Yonezawa Blvd., Moses Lake"
+        url: https://www.mlsd161.org/sbmeetings
+
+  - id: clover-park-schools
+    name: Clover Park School District
+    type: schedule
+    county: Pierce
+    area: Lakewood
+    category: school
+    default_category: school
+    homepage: https://www.cloverpark.k12.wa.us/152970_3
+    meetings:
+      - title: School Board Regular Meeting
+        dates: [2026-12-14, 2027-01-11, 2027-02-08, 2027-03-08, 2027-04-12, 2027-05-10, 2027-06-14, 2027-07-12, 2027-08-09]
+        time: "18:00"
+        location: "Room 4, Student Services Center, 10903 Gravelly Lake Dr. SW, Lakewood"
+        url: https://www.cloverpark.k12.wa.us/152970_3
+      - title: School Board Meeting/Workshop
+        dates: [2027-02-22, 2027-03-22, 2027-04-26, 2027-05-24, 2027-06-28, 2027-08-23]
+        time: "17:30"
+        location: "Room 4, Student Services Center, 10903 Gravelly Lake Dr. SW, Lakewood"
+        url: https://www.cloverpark.k12.wa.us/152970_3
+      - title: School Board Planning Meeting
+        dates: [2027-01-25, 2027-01-26]
+        time: "17:30"
+        location: "Room 4, Student Services Center, 10903 Gravelly Lake Dr. SW, Lakewood"
+        url: https://www.cloverpark.k12.wa.us/152970_3
+
+  - id: bellingham-schools
+    name: Bellingham Public Schools
+    type: schedule
+    county: Whatcom
+    area: Bellingham
+    category: school
+    default_category: school
+    homepage: https://www.bellinghamschools.org/school-board/school-board
+    meetings:
+      - title: School Board Regular Meeting
+        dates: [2026-12-17, 2027-01-14, 2027-02-18, 2027-03-18, 2027-04-22, 2027-05-13, 2027-06-17, 2027-07-22, 2027-08-19]
+        time: "17:30"
+        location: "Board Room, District Office, 1985 Barkley Blvd., Bellingham"
+        url: https://www.bellinghamschools.org/school-board/school-board
+
+  - id: eastmont-schools
+    name: Eastmont School District
+    type: schedule
+    county: Douglas
+    area: East Wenatchee
+    category: school
+    default_category: school
+    homepage: https://www.eastmont206.org/school-board/index
+    meetings:
+      - title: School Board Meeting
+        when: 2nd Monday
+        time: "17:30"
+        location: "District Office or a school site visit; see the district's board calendar"
+        url: https://www.eastmont206.org/school-board/index
+      - title: School Board Meeting
+        when: 4th Monday
+        time: "17:30"
+        skip_months: [12]
+        skip_dates: [2026-11-23]
+        location: "District Office or a school site visit; see the district's board calendar"
+        url: https://www.eastmont206.org/school-board/index
+
+  - id: port-angeles-schools
+    name: Port Angeles School District
+    type: schedule
+    county: Clallam
+    area: Port Angeles
+    category: school
+    default_category: school
+    homepage: https://www.portangelesschools.org/about/school-board-meeting-schedule
+    meetings:
+      - title: School Board Regular Meeting
+        dates: [2026-12-10, 2027-01-14, 2027-01-28, 2027-02-11, 2027-02-25, 2027-03-25, 2027-04-22, 2027-05-27, 2027-06-17]
+        time: "17:00"
+        location: "Lincoln Center, Port Angeles"
+        url: https://www.portangelesschools.org/about/school-board-meeting-schedule
+      - title: School Board Budget Development Work Session
+        dates: [2027-03-11]
+        time: "17:00"
+        location: "Lincoln Center, Port Angeles"
+        url: https://www.portangelesschools.org/about/school-board-meeting-schedule
+      - title: School Board Regular Meeting
+        dates: [2027-05-13]
+        time: "17:00"
+        location: "Port Angeles High School Library"
+        url: https://www.portangelesschools.org/about/school-board-meeting-schedule
+
+  # Yakima's adopted pattern (board note: Monday meetings at 4 p.m., Tuesday
+  # meetings at 7 p.m.), confirmed against its 2025-26 and 2026-27 meetings.
+  - id: yakima-schools
+    name: Yakima School District
+    type: schedule
+    boarddocs: yakima   # posted meetings come from the BoardDocs snapshot
+    county: Yakima
+    area: Yakima
+    category: school
+    default_category: school
+    homepage: https://www.ysd7.org/about/board-of-directors/board-meetings
+    meetings:
+      - title: School Board Meeting
+        when: 1st Monday
+        time: "16:00"
+        location: "Often a school site visit; see the district's board page"
+        url: https://www.ysd7.org/about/board-of-directors/board-meetings
+      - title: School Board Business Meeting
+        when: 3rd Tuesday
+        time: "19:00"
+        location: "Conference Rooms A & B, Central Services Administration, 104 N. 4th Ave., Yakima"
+        url: https://www.ysd7.org/about/board-of-directors/board-meetings
+
+  # School boards that post only to BoardDocs, which refuses GitHub's servers.
+  # Entered from each board's meeting history and adopted calendar (November 2026).
+  - id: meridian-schools
+    name: Meridian School District
+    type: schedule
+    boarddocs: msdwa   # posted meetings come from the BoardDocs snapshot
+    county: Whatcom
+    area: Bellingham
+    category: school
+    default_category: school
+    homepage: https://go.boarddocs.com/wa/msdwa/Board.nsf/Public
+    meetings:
+      - title: School Board Regular Meeting
+        dates: [2026-12-09, 2027-01-06, 2027-01-20, 2027-02-10, 2027-02-24, 2027-03-10, 2027-03-31, 2027-04-14, 2027-04-28, 2027-05-12, 2027-05-26, 2027-06-09, 2027-06-23, 2027-07-28, 2027-08-18]
+        time: "17:00"
+        location: "Library, Meridian Middle School, Bellingham"
+        url: https://go.boarddocs.com/wa/msdwa/Board.nsf/Public
+      - title: School Board Special Meeting
+        dates: [2026-12-16, 2027-07-07, 2027-08-25]
+        time: "16:00"
+        location: "Library, Meridian Middle School, Bellingham"
+        url: https://go.boarddocs.com/wa/msdwa/Board.nsf/Public
+      - title: School Board Retreat
+        dates: [2027-07-14]
+        time: "17:00"
+        location: "Anthony's Hearthfire Grill, 7 Bellwether Way, Bellingham"
+        url: https://go.boarddocs.com/wa/msdwa/Board.nsf/Public
+
+  - id: south-kitsap-schools
+    name: South Kitsap School District
+    type: schedule
+    boarddocs: sksdwa   # posted meetings come from the BoardDocs snapshot
+    county: Kitsap
+    area: Port Orchard
+    category: school
+    default_category: school
+    homepage: https://go.boarddocs.com/wa/sksdwa/Board.nsf/Public
+    meetings:
+      - title: School Board Regular Meeting
+        dates: [2026-12-02, 2027-01-20, 2027-02-10, 2027-03-17, 2027-04-28, 2027-05-19, 2027-06-16, 2027-07-28]
+        time: "17:30"
+        location: "Administration Office, South Kitsap School District, Port Orchard"
+        url: https://go.boarddocs.com/wa/sksdwa/Board.nsf/Public
+      - title: School Board Study Session
+        dates: [2026-12-16, 2027-01-06, 2027-06-02]
+        time: "17:30"
+        location: "Administration Office, South Kitsap School District, Port Orchard"
+        url: https://go.boarddocs.com/wa/sksdwa/Board.nsf/Public
+      - title: School Board Study Session
+        dates: [2027-03-03]
+        time: "17:30"
+        location: "Hidden Creek Elementary, Port Orchard"
+        url: https://go.boarddocs.com/wa/sksdwa/Board.nsf/Public
+      - title: School Board Study Session
+        dates: [2027-04-07]
+        time: "17:30"
+        location: "South Colby Elementary, Port Orchard"
+        url: https://go.boarddocs.com/wa/sksdwa/Board.nsf/Public
+      - title: School Board Study Session
+        dates: [2027-05-05]
+        time: "17:30"
+        location: "Manchester Elementary, Port Orchard"
+        url: https://go.boarddocs.com/wa/sksdwa/Board.nsf/Public
+
+  - id: puyallup-schools
+    name: Puyallup School District
+    type: schedule
+    boarddocs: psd   # posted meetings come from the BoardDocs snapshot
+    county: Pierce
+    area: Puyallup
+    category: school
+    default_category: school
+    homepage: https://www.puyallupsd.org/about-us/school-board
+    meetings:
+      - title: School Board Regular Meeting
+        when: 1st, 3rd Monday
+        time: "18:00"
+        skip_dates: [2026-12-21]
+        location: "Tillicum Room, Kessler Center, Puyallup"
+        url: https://www.puyallupsd.org/about-us/school-board
+        note: "Check the district's page: some December dates move."
+
+  - id: lakewood-schools
+    name: Lakewood School District
+    type: schedule
+    boarddocs: lakewood   # posted meetings come from the BoardDocs snapshot
+    county: Snohomish
+    area: Arlington
+    category: school
+    default_category: school
+    homepage: https://go.boarddocs.com/wa/lakewood/Board.nsf/Public
+    meetings:
+      - title: School Board Regular Meeting
+        when: 1st, 3rd Wednesday
+        time: "18:00"
+        location: "Lakewood High School Library, 17023 11th Ave. NE, Arlington"
+        url: https://go.boarddocs.com/wa/lakewood/Board.nsf/Public
+
+  - id: selah-schools
+    name: Selah School District
+    type: schedule
+    boarddocs: selah   # posted meetings come from the BoardDocs snapshot
+    county: Yakima
+    area: Selah
+    category: school
+    default_category: school
+    homepage: https://www.selahschools.org/
+    meetings:
+      - title: School Board Study Session
+        when: 2nd Thursday
+        time: "16:30"
+        holidays: "skip"
+        location: "District Board Room, Selah"
+        url: https://www.selahschools.org/
+      - title: School Board Business Meeting
+        when: 4th Thursday
+        time: "16:30"
+        holidays: "skip"
+        skip_dates: [2026-12-24]
+        location: "District Board Room, Selah"
+        url: https://www.selahschools.org/
+
+  - id: ferndale-schools
+    name: Ferndale School District
+    type: schedule
+    boarddocs: ferndale   # posted meetings come from the BoardDocs snapshot
+    county: Whatcom
+    area: Ferndale
+    category: school
+    default_category: school
+    homepage: https://www.ferndalesd.org/school-board
+    meetings:
+      - title: School Board Regular Meeting
+        when: last Tuesday
+        time: "18:00"
+        location: "5780 Hendrickson Ave., Ferndale"
+        url: https://www.ferndalesd.org/school-board
+
+  - id: coupeville-schools
+    name: Coupeville School District
+    type: schedule
+    boarddocs: coupeville   # posted meetings come from the BoardDocs snapshot
+    county: Island
+    area: Coupeville
+    category: school
+    default_category: school
+    homepage: https://www.coupeville.k12.wa.us/
+    meetings:
+      - title: School Board Regular Meeting
+        when: last Thursday
+        time: "17:30"
+        holidays: "skip"
+        skip_dates: [2026-12-31]
+        location: "School boardroom, 501 S. Main St., Coupeville"
+        url: https://www.coupeville.k12.wa.us/
+        note: "In November the regular meeting moves earlier for Thanksgiving."
+
+  - id: concrete-schools
+    name: Concrete School District
+    type: schedule
+    boarddocs: concrete   # posted meetings come from the BoardDocs snapshot
+    county: Skagit
+    area: Concrete
+    category: school
+    default_category: school
+    homepage: https://go.boarddocs.com/wa/concrete/Board.nsf/Public
+    meetings:
+      - title: School Board Work Session
+        when: 4th Tuesday
+        time: "18:00"
+        location: "Room 107, Administrative Building, 45389 Airport Way, Concrete"
+        url: https://go.boarddocs.com/wa/concrete/Board.nsf/Public
+      - title: School Board Regular Meeting
+        when: last Thursday
+        time: "18:00"
+        holidays: "skip"
+        location: "Room 107, Administrative Building, 45389 Airport Way, Concrete"
+        url: https://go.boarddocs.com/wa/concrete/Board.nsf/Public
+
+  - id: tenino-schools
+    name: Tenino School District
+    type: schedule
+    boarddocs: tenino   # posted meetings come from the BoardDocs snapshot
+    county: Thurston
+    area: Tenino
+    category: school
+    default_category: school
+    homepage: https://go.boarddocs.com/wa/tenino/Board.nsf/Public
+    meetings:
+      - title: School Board Regular Meeting
+        when: 4th Monday
+        time: "18:30"
+        location: "District Boardroom, 301 Old Hwy 99 N, Tenino (occasionally elsewhere)"
+        url: https://go.boarddocs.com/wa/tenino/Board.nsf/Public
+
+  - id: mary-walker-schools
+    name: Mary Walker School District
+    type: schedule
+    boarddocs: marywalker   # posted meetings come from the BoardDocs snapshot
+    county: Stevens
+    area: Springdale
+    category: school
+    default_category: school
+    homepage: https://go.boarddocs.com/wa/marywalker/Board.nsf/Public
+    meetings:
+      - title: School Board Regular Meeting
+        when: 4th Thursday
+        time: "18:00"
+        holidays: "skip"
+        location: "Mary Walker High School Library, Springdale"
+        url: https://go.boarddocs.com/wa/marywalker/Board.nsf/Public
+
+  # The district's own Edlio calendar, "School Board Meeting Calendar".
+  - id: toutle-lake-schools
+    name: Toutle Lake School District
+    type: ics
+    url: https://www.toutlesd.org/apps/events/ical/?id=3
+    county: Cowlitz
+    area: Toutle
+    category: school
+    default_category: school
+    homepage: https://go.boarddocs.com/wa/toutlesd/Board.nsf/Public
+
+  - id: winlock-schools
+    name: Winlock School District
+    type: schedule
+    boarddocs: winlock   # posted meetings come from the BoardDocs snapshot
+    county: Lewis
+    area: Winlock
+    category: school
+    default_category: school
+    homepage: https://go.boarddocs.com/wa/winlock/Board.nsf/Public
+    meetings:
+      - title: School Board Regular Meeting
+        when: 3rd Wednesday
+        time: "18:00"
+        location: "Media Center, Winlock Middle/High School, 241 N. Military Rd., Winlock"
+        url: https://go.boarddocs.com/wa/winlock/Board.nsf/Public
+
+  - id: wishkah-valley-schools
+    name: Wishkah Valley School District
+    type: schedule
+    boarddocs: wishkah   # posted meetings come from the BoardDocs snapshot
+    county: Grays Harbor
+    area: Aberdeen
+    category: school
+    default_category: school
+    homepage: https://go.boarddocs.com/wa/wishkah/Board.nsf/Public
+    meetings:
+      - title: School Board Regular Meeting
+        when: 4th Thursday
+        time: "17:00"
+        holidays: "skip"
+        location: "District Office, 4640 Wishkah Rd., Aberdeen"
+        url: https://go.boarddocs.com/wa/wishkah/Board.nsf/Public
+
 # Not connected yet:
 #   Feeds that refuse GitHub's servers (checked November 2026). Everett,
 #   Shoreline and Camas are covered from their published schedules instead;

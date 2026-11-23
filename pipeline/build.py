@@ -863,7 +863,7 @@ HOLIDAY_NOTE = ("The regular date falls on a holiday, so state law moves the mee
                 "business day. The host may set a different date.")
 
 
-def fetch_schedule(src, start_day, end_day, tz):
+def schedule_events(src, start_day, end_day, tz):
     events = []
     for mtg in src["meetings"]:
         hh, mm = (int(x) for x in mtg["time"].split(":"))
@@ -902,6 +902,94 @@ def fetch_schedule(src, start_day, end_day, tz):
                 uid=f"{mtg['title']}|{day.isoformat()}", category=mtg.get("category", ""),
             ))
     return events
+
+
+# --- BoardDocs snapshot ---
+# BoardDocs refuses GitHub's servers, so a small job on a volunteer's computer
+# (tools/boarddocs/) reads each board's meeting list nightly and pushes it to
+# the boarddocs-data branch; the workflow copies it to pipeline/boarddocs.json.
+# A schedule entry with a `boarddocs:` site name uses those posted meetings up
+# to the last date posted, and its own pattern after that. With no snapshot, or
+# one more than BOARDDOCS_MAX_AGE_DAYS old, the pattern is used alone.
+
+BOARDDOCS_SNAPSHOT = ROOT / "pipeline" / "boarddocs.json"
+BOARDDOCS_MAX_AGE_DAYS = 10
+BD_KINDS = [(r"retreat", "Retreat"), (r"special", "Special Meeting"), (r"study", "Study Session"),
+            (r"work\s*session", "Work Session"), (r"workshop", "Workshop"), (r"business", "Business Meeting"),
+            (r"regular|board meeting|board of directors", "Regular Meeting")]
+BD_TIME = re.compile(r"\b(\d{1,2})(?::(\d{2}))?\s*([ap])\.?\s*m\b\.?", re.I)
+BD_PLACE = re.compile(r"\b\d+\w?\s+.*\b(?:st|street|ave|avenue|rd|road|way|hwy|highway|blvd|dr|drive|ln|lane)\b"
+                      r"|librar|board\s*room|\broom\b|cent(?:er|re)|office|\bhall\b|cafeteria|commons|gym", re.I)
+BD_NOT_PLACE = re.compile(r"zoom|webinar|passcode|share|agenda|minutes|clipboard|disabilit|livestream|youtube", re.I)
+BD_DATE_LINE = re.compile(r"(?:mon|tues|wednes|thurs|fri|satur|sun)day,?\s+\w+\s+\d{1,2},\s+\d{4}", re.I)
+_bd_cache: dict = {}
+
+
+def boarddocs_snapshot(now=None):
+    if "snap" not in _bd_cache:
+        snap = None
+        try:
+            snap = json.loads(BOARDDOCS_SNAPSHOT.read_text())
+            age = (now or datetime.now(ZoneInfo("UTC"))) - datetime.fromisoformat(snap["fetched_at"])
+            if age > timedelta(days=BOARDDOCS_MAX_AGE_DAYS):
+                snap = None
+        except (OSError, ValueError, KeyError, TypeError):
+            snap = None
+        _bd_cache["snap"] = snap
+    return _bd_cache["snap"]
+
+
+def boarddocs_meeting(src, m, tz):
+    """One posted BoardDocs meeting as an event, or None if it isn't a meeting."""
+    slug = src["boarddocs"]
+    name = " ".join(html_unescape(m.get("name") or "").split())
+    lines = [" ".join(html_unescape(x).split()) for x in (m.get("header") or "").split("\n")]
+    lines = [x for x in lines if x]
+    day = datetime.strptime(m["date"], "%Y%m%d").date()
+    if re.search(r"graduation|diplomas|commencement", " ".join([name] + lines[:12]), re.I):
+        return None  # board members handing out diplomas, not a business meeting
+    kind = next((label for pat, label in BD_KINDS if re.search(pat, name, re.I)), "")
+    if not kind:
+        if not re.search(r"meeting|session", name, re.I):
+            return None  # graduations, tours and the like
+        kind = "Meeting"
+    title = f"School Board {kind}" if kind != "Meeting" else name[:90]
+    # The time: in the title ("Regular Meeting - 6:00pm"), else in the header.
+    clock = BD_TIME.search(name) or next((t for t in map(BD_TIME.search, lines) if t), None)
+    pattern = next((mt for mt in src["meetings"] if kind.split()[0].lower() in mt["title"].lower()), src["meetings"][0])
+    if clock:
+        hh = int(clock.group(1)) % 12 + (12 if clock.group(3).lower() == "p" else 0)
+        mm = int(clock.group(2) or 0)
+    else:
+        hh, mm = (int(x) for x in pattern["time"].split(":"))
+    place = next((x for x in lines if BD_PLACE.search(x) and not BD_NOT_PLACE.search(x)
+                  and not BD_DATE_LINE.search(x) and x != name and len(x) < 140), "")
+    place = re.sub(r"^(?:location(?: of meeting)?|place)\s*:\s*", "", place, flags=re.I)
+    # "Ferndale School District No. 502 School Board Regular Meeting, 5780 Hendrickson Ave, ..."
+    place = re.sub(r"^\D[^,]*(?:meeting|session)[^,]*,\s*(?=\d)", "", place, flags=re.I)
+    if place.isupper():
+        place = place.title()
+    return make_event(
+        src, title=title, start=datetime.combine(day, time(hh, mm), tz),
+        location=place or pattern.get("location", ""),
+        url=f"https://go.boarddocs.com/wa/{slug}/Board.nsf/Public",
+        uid=f"boarddocs-{m.get('unique') or m['date'] + title}",
+        cancelled=bool(re.search(r"cancel+ed|postponed", name, re.I)),
+    )
+
+
+def fetch_schedule(src, start_day, end_day, tz, snapshot=None):
+    pattern = schedule_events(src, start_day, end_day, tz)
+    snap = snapshot if snapshot is not None else (boarddocs_snapshot() if src.get("boarddocs") else None)
+    board = (snap or {}).get("boards", {}).get(src.get("boarddocs") or "") or {}
+    if not board.get("ok"):
+        return pattern
+    fetched = datetime.fromisoformat(snap["fetched_at"]).astimezone(tz).date()
+    posted = [m for m in board.get("meetings", []) if m.get("date")]
+    horizon = max([fetched] + [datetime.strptime(m["date"], "%Y%m%d").date() for m in posted])
+    events = [e for m in posted if start_day <= datetime.strptime(m["date"], "%Y%m%d").date() <= end_day
+              for e in [boarddocs_meeting(src, m, tz)] if e]
+    return events + [e for e in pattern if datetime.fromisoformat(e["start"]).date() > horizon]
 
 
 # --- Washington State Legislature committee meetings (official web services) ---

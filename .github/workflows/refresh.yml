@@ -40,6 +40,10 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - run: python -m pytest -q tests
+      - name: Get the BoardDocs snapshot
+        # Pushed nightly from a volunteer's computer (tools/boarddocs/); BoardDocs
+        # refuses GitHub's servers. Without it, those boards use their patterns.
+        run: git fetch -q --depth=1 origin boarddocs-data && git show FETCH_HEAD:boarddocs.json > pipeline/boarddocs.json || echo "No BoardDocs snapshot yet"
       - name: Build the calendar data
         run: python pipeline/build.py | tee "$GITHUB_STEP_SUMMARY"
       - name: Build the representatives roster

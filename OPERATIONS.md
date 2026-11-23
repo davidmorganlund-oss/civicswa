@@ -82,22 +82,16 @@ the district's board page, as `type: schedule` with `when` or adopted `dates`:
 - Adna
 - Anacortes
 - Asotin-Anatone
-- Bellingham
 - Boistfort
 - Centerville
 - Chehalis
-- Clover Park
 - Colfax
 - Columbia (Walla Walla County)
-- Concrete
 - Coulee-Hartline
-- Coupeville
 - Crescent
 - Davenport
-- Eastmont
 - Elma
 - Ephrata
-- Ferndale
 - Fife
 - Glenwood
 - Goldendale
@@ -111,17 +105,13 @@ the district's board page, as `type: schedule` with `when` or adopted `dates`:
 - La Center
 - Lake Chelan
 - Lake Stevens
-- Lakewood
 - Liberty
 - Longview
 - Lyle
 - Mansfield
-- Mary Walker
 - Medical Lake
-- Meridian
 - Methow Valley
 - Montesano
-- Moses Lake
 - Naselle-Grays River Valley
 - Nespelem
 - Newport
@@ -138,26 +128,20 @@ the district's board page, as `type: schedule` with `when` or adopted `dates`:
 - Paterson
 - Pe Ell
 - Pomeroy
-- Port Angeles
-- Puyallup
 - Queets-Clearwater
 - Quilcene
 - Riverside
 - Roosevelt
 - Rosalia
-- Selah
 - Selkirk
 - Shaw Island
 - South Bend
-- South Kitsap
 - Sprague
 - St. John
 - Starbuck
 - Stehekin
 - Stevenson-Carson
-- Tenino
 - Toledo
-- Toutle Lake
 - Trout Lake
 - Wahkiakum
 - Wapato
@@ -166,9 +150,6 @@ the district's board page, as `type: schedule` with `when` or adopted `dates`:
 - Wenatchee
 - White River
 - Wilbur
-- Winlock
-- Wishkah Valley
-- Yakima
 - Zillah
 
 ## Libraries still without a source (November 2026)
@@ -188,3 +169,32 @@ systems. These library boards still need a source, from the board's page:
   Carpenter Memorial (Cle Elum), Roslyn, Kittitas, Cathlamet, Denny Ashby
   (Pomeroy), Roy, and the Lincoln County town libraries (Davenport, Harrington,
   Odessa, Reardan, Sprague, Wilbur).
+
+
+## BoardDocs boards (the nightly snapshot)
+
+BoardDocs (go.boarddocs.com) refuses requests from GitHub's servers, so the
+nightly build can't read it. Thirteen school boards post only there. Each has a
+hand-entered `schedule` entry with a `boarddocs:` site name (for example
+`boarddocs: psd` for Puyallup).
+
+A small job on David's Mac fills the gap. Every night at 1:40 a.m. it reads
+each `boarddocs:` board's posted meetings and pushes them to the
+`boarddocs-data` branch as `boarddocs.json`. The nightly build copies that
+file to `pipeline/boarddocs.json` and uses the posted meetings (with their
+real dates, times, places and cancellations) up to the last date posted, then
+the board's pattern after that.
+
+- **Setting it up (once):** in Terminal, run
+  `curl -fsSL https://raw.githubusercontent.com/davidmorganlund-oss/civicswa/main/tools/boarddocs/install.sh -o /tmp/civicswa-install.sh && bash /tmp/civicswa-install.sh`.
+  It clones the repo into `~/Library/Application Support/CivicsWA`, runs once
+  to check it can push, and adds a nightly job.
+- **Log:** `~/Library/Application Support/CivicsWA/boarddocs.log`.
+- **If the Mac is off:** the job runs when it next wakes. If the snapshot is
+  more than 10 days old, the build ignores it and uses the patterns alone, so
+  nothing breaks, it just gets less exact.
+- **Adding a board:** add `boarddocs: <site>` to its schedule entry (the
+  `<site>` is the part after `/wa/` in its BoardDocs address). The next night's
+  snapshot picks it up.
+- **Removing the job:** `launchctl bootout gui/$(id -u)/org.civicswa.boarddocs`
+  and delete `~/Library/LaunchAgents/org.civicswa.boarddocs.plist`.
