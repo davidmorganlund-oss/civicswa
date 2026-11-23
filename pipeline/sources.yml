@@ -3666,6 +3666,7 @@ sources:
         when: 4th Monday
         time: "17:30"
         skip_months: [12]
+        skip_dates: [2026-11-23]
         location: "District Office or a school site visit; see the district's board calendar"
         url: https://www.eastmont206.org/school-board/index
 
