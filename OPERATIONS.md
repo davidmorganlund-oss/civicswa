@@ -82,11 +82,9 @@ the district's board page, as `type: schedule` with `when` or adopted `dates`:
 - Adna
 - Anacortes
 - Asotin-Anatone
-- Bellingham
 - Boistfort
 - Centerville
 - Chehalis
-- Clover Park
 - Colfax
 - Columbia (Walla Walla County)
 - Concrete
@@ -94,7 +92,6 @@ the district's board page, as `type: schedule` with `when` or adopted `dates`:
 - Coupeville
 - Crescent
 - Davenport
-- Eastmont
 - Elma
 - Ephrata
 - Ferndale
@@ -121,7 +118,6 @@ the district's board page, as `type: schedule` with `when` or adopted `dates`:
 - Meridian
 - Methow Valley
 - Montesano
-- Moses Lake
 - Naselle-Grays River Valley
 - Nespelem
 - Newport
