@@ -3390,6 +3390,209 @@ sources:
         location: "Library basement, Ritzville"
         url: https://www.ritzvillelibrary.org/
 
+
+  # Adopted 2026-27 board meeting dates from each district's published schedule.
+  - id: kennewick-schools
+    name: Kennewick School District
+    type: schedule
+    county: Benton
+    area: Kennewick
+    category: school
+    default_category: school
+    homepage: https://www.ksd.org/school-board-meeting-schedule
+    meetings:
+      - title: School Board Business Meeting
+        dates: [2026-12-09, 2027-01-13, 2027-02-10, 2027-03-10, 2027-04-21, 2027-05-12, 2027-06-09, 2027-07-14, 2027-08-11]
+        time: "17:30"
+        location: "KSD Administration Center, Kennewick"
+        url: https://www.ksd.org/school-board-meeting-schedule
+      - title: School Board Semi-Annual Retreat
+        dates: [2027-01-27]
+        time: "17:30"
+        location: "Horse Heaven Hills Middle School, Kennewick"
+        url: https://www.ksd.org/school-board-meeting-schedule
+      - title: School Board Study Session
+        dates: [2027-02-24]
+        time: "17:30"
+        location: "KSD Administration Center, Kennewick"
+        url: https://www.ksd.org/school-board-meeting-schedule
+      - title: School Board Study Session
+        dates: [2027-03-24, 2027-05-26]
+        time: "17:30"
+        location: "Location to be announced"
+        url: https://www.ksd.org/school-board-meeting-schedule
+      - title: School Board Semi-Annual Retreat
+        dates: [2027-06-23]
+        time: "17:30"
+        location: "KSD Administration Center, Kennewick"
+        url: https://www.ksd.org/school-board-meeting-schedule
+
+  - id: federal-way-schools
+    name: Federal Way Public Schools
+    type: schedule
+    county: King
+    area: Federal Way
+    category: school
+    default_category: school
+    homepage: https://www.fwps.org/about-us/school-board/board-meeting-schedule
+    meetings:
+      - title: School Board Work/Study Session
+        dates: [2026-12-08, 2027-01-19, 2027-02-02, 2027-03-02, 2027-04-20, 2027-05-04, 2027-06-01]
+        time: "17:00"
+        location: "FWPS Educational Service Center, 33330 8th Ave. S., Federal Way"
+        url: https://www.fwps.org/about-us/school-board/board-meeting-schedule
+      - title: School Board Meeting
+        dates: [2026-12-15]
+        time: "18:00"
+        location: "Sacajawea Middle School, Federal Way"
+        url: https://www.fwps.org/about-us/school-board/board-meeting-schedule
+      - title: School Board Meeting
+        dates: [2027-01-12]
+        time: "18:00"
+        location: "Twin Lakes Elementary, Federal Way"
+        url: https://www.fwps.org/about-us/school-board/board-meeting-schedule
+      - title: School Board Meeting
+        dates: [2027-01-26]
+        time: "18:00"
+        location: "Green Gables Elementary, Federal Way"
+        url: https://www.fwps.org/about-us/school-board/board-meeting-schedule
+      - title: School Board Meeting
+        dates: [2027-02-09]
+        time: "18:00"
+        location: "Meredith Hill Elementary, Federal Way"
+        url: https://www.fwps.org/about-us/school-board/board-meeting-schedule
+      - title: School Board Meeting
+        dates: [2027-02-23]
+        time: "18:00"
+        location: "Camelot Elementary, Federal Way"
+        url: https://www.fwps.org/about-us/school-board/board-meeting-schedule
+      - title: School Board Meeting
+        dates: [2027-03-09]
+        time: "18:00"
+        location: "Sequoyah Middle School, Federal Way"
+        url: https://www.fwps.org/about-us/school-board/board-meeting-schedule
+      - title: School Board Meeting
+        dates: [2027-03-23]
+        time: "18:00"
+        location: "Federal Way High School, Federal Way"
+        url: https://www.fwps.org/about-us/school-board/board-meeting-schedule
+      - title: School Board Meeting
+        dates: [2027-04-27]
+        time: "18:00"
+        location: "TAF @ Saghalie, Federal Way"
+        url: https://www.fwps.org/about-us/school-board/board-meeting-schedule
+      - title: School Board Meeting
+        dates: [2027-05-11]
+        time: "18:00"
+        location: "Todd Beamer High School, Federal Way"
+        url: https://www.fwps.org/about-us/school-board/board-meeting-schedule
+      - title: School Board Meeting
+        dates: [2027-05-25]
+        time: "18:00"
+        location: "Evergreen Middle School, Federal Way"
+        url: https://www.fwps.org/about-us/school-board/board-meeting-schedule
+      - title: School Board Meeting
+        dates: [2027-06-08]
+        time: "18:00"
+        location: "Sunnycrest Elementary, Federal Way"
+        url: https://www.fwps.org/about-us/school-board/board-meeting-schedule
+      - title: School Board Meeting
+        dates: [2027-07-27]
+        time: "11:00"
+        location: "FWPS Educational Service Center, 33330 8th Ave. S., Federal Way"
+        url: https://www.fwps.org/about-us/school-board/board-meeting-schedule
+      - title: School Board Meeting
+        dates: [2027-08-24]
+        time: "18:00"
+        location: "FWPS Educational Service Center, 33330 8th Ave. S., Federal Way"
+        url: https://www.fwps.org/about-us/school-board/board-meeting-schedule
+
+  - id: mead-schools
+    name: Mead School District
+    type: schedule
+    county: Spokane
+    area: Mead
+    category: school
+    default_category: school
+    homepage: https://www.mead354.org/about-us/board-of-directors
+    meetings:
+      - title: School Board Regular Meeting
+        dates: [2026-12-14, 2027-01-25, 2027-02-22, 2027-03-22, 2027-04-26, 2027-05-24, 2027-06-21]
+        time: "18:00"
+        location: "Union Event Center, 12509 N. Market St., Bldg. D, Mead"
+        url: https://www.mead354.org/about-us/board-of-directors
+      - title: School Board Work Session
+        dates: [2027-01-11, 2027-02-08, 2027-03-08, 2027-04-05, 2027-05-10, 2027-06-07]
+        time: "18:00"
+        location: "Mead School District Office"
+        url: https://www.mead354.org/about-us/board-of-directors
+
+  - id: tahoma-schools
+    name: Tahoma School District
+    type: schedule
+    county: King
+    area: Maple Valley
+    category: school
+    default_category: school
+    homepage: https://www.tahomasd.us/about/school-board
+    meetings:
+      - title: School Board Work Study Session
+        dates: [2026-12-15, 2027-01-12, 2027-01-26, 2027-02-09, 2027-02-23, 2027-03-09, 2027-03-23, 2027-04-27, 2027-05-11]
+        time: "17:30"
+        location: "Board Room, Central Services Center, 25720 Maple Valley-Black Diamond Rd. SE, Maple Valley"
+        url: https://www.tahomasd.us/about/school-board
+      - title: School Board Regular Meeting
+        dates: [2026-12-08, 2027-01-12, 2027-01-26, 2027-02-09, 2027-03-09, 2027-03-23, 2027-04-13, 2027-04-27, 2027-05-25, 2027-06-08, 2027-06-22, 2027-07-27, 2027-08-24]
+        time: "18:30"
+        location: "Board Room, Central Services Center, 25720 Maple Valley-Black Diamond Rd. SE, Maple Valley"
+        url: https://www.tahomasd.us/about/school-board
+      - title: School Board Special Meeting
+        dates: [2026-12-15]
+        time: "19:10"
+        location: "Board Room, Central Services Center, 25720 Maple Valley-Black Diamond Rd. SE, Maple Valley"
+        url: https://www.tahomasd.us/about/school-board
+      - title: School Board Special Meeting
+        dates: [2027-02-23, 2027-05-11]
+        time: "19:00"
+        location: "Board Room, Central Services Center, 25720 Maple Valley-Black Diamond Rd. SE, Maple Valley"
+        url: https://www.tahomasd.us/about/school-board
+      - title: School Board Special Meeting
+        dates: [2027-06-01]
+        time: "18:00"
+        location: "Board Room, Central Services Center, 25720 Maple Valley-Black Diamond Rd. SE, Maple Valley"
+        url: https://www.tahomasd.us/about/school-board
+      - title: School Board Retreat
+        dates: [2027-06-11]
+        time: "08:30"
+        location: "Board Room, Central Services Center, 25720 Maple Valley-Black Diamond Rd. SE, Maple Valley"
+        url: https://www.tahomasd.us/about/school-board
+
+  - id: snohomish-schools
+    name: Snohomish School District
+    type: schedule
+    county: Snohomish
+    area: Snohomish
+    category: school
+    default_category: school
+    homepage: https://www.sno.wednet.edu/our-district/school-board/board-schedule
+    meetings:
+      - title: School Board Work Session
+        dates: [2026-12-09, 2027-01-13, 2027-01-27, 2027-02-10, 2027-02-24, 2027-03-24, 2027-04-14, 2027-04-28, 2027-05-12]
+        time: "17:00"
+        location: "Resource Service Center, Snohomish"
+        url: https://www.sno.wednet.edu/our-district/school-board/board-schedule
+      - title: School Board Regular Meeting
+        dates: [2026-12-09, 2027-01-13, 2027-01-27, 2027-02-10, 2027-02-24, 2027-03-24, 2027-04-14, 2027-04-28, 2027-05-12]
+        time: "18:00"
+        location: "Resource Service Center, Snohomish"
+        url: https://www.sno.wednet.edu/our-district/school-board/board-schedule
+      - title: School Board Regular Meeting
+        dates: [2027-03-10, 2027-05-26]
+        time: "17:30"
+        location: "Resource Service Center, Snohomish"
+        url: https://www.sno.wednet.edu/our-district/school-board/board-schedule
+
+
 # Not connected yet:
 #   Feeds that refuse GitHub's servers (checked November 2026). Everett,
 #   Shoreline and Camas are covered from their published schedules instead;
