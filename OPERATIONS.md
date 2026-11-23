@@ -175,3 +175,21 @@ the district's board page, as `type: schedule` with `when` or adopted `dates`:
 - Wishkah Valley
 - Yakima
 - Zillah
+
+## Libraries still without a source (November 2026)
+
+Checked against MRSC's list of library service providers. Branches of systems
+already covered (KCLS, Sno-Isle, Pierce County, Timberland, Kitsap, Spokane
+County, Fort Vancouver, Mid-Columbia, NCW Libraries) are covered by those
+systems. These library boards still need a source, from the board's page:
+
+- Everett, Bellingham, Richland, Longview, Kelso, Walla Walla (city), Puyallup,
+  Camas, Anacortes, Mount Vernon, Sedro-Woolley, Port Townsend, Ellensburg,
+  Liberty Lake, Neill (Pullman), Yakima Valley Libraries (4th Monday; time not
+  published), Pend Oreille County (4th Thursday; time not published), Jefferson
+  County, Asotin County, Stevens County Rural, Walla Walla County Rural,
+  Columbia County Rural, La Conner, Ocean Shores, Grandview, Othello, Weller
+  (Waitsburg), Yale Valley, Castle Rock, Kalama, Colville, Kettle Falls,
+  Carpenter Memorial (Cle Elum), Roslyn, Kittitas, Cathlamet, Denny Ashby
+  (Pomeroy), Roy, and the Lincoln County town libraries (Davenport, Harrington,
+  Odessa, Reardan, Sprague, Wilbur).
