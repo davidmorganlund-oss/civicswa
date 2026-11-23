@@ -25,7 +25,7 @@ jobs:
         run: |
           if [ "$PART" = "render2" ]; then
             pip install playwright==1.65.2 && python -m playwright install --with-deps chromium
-            python tools/render_crawl.py tools/gap-schools2.tsv
+            python tools/render_crawl.py tools/gap-schools3.tsv
           else
             python tools/gap_trial.py tools/gap-candidates2.yml
           fi
