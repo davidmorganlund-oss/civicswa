@@ -3670,6 +3670,31 @@ sources:
         location: "District Office or a school site visit; see the district's board calendar"
         url: https://www.eastmont206.org/school-board/index
 
+  - id: port-angeles-schools
+    name: Port Angeles School District
+    type: schedule
+    county: Clallam
+    area: Port Angeles
+    category: school
+    default_category: school
+    homepage: https://www.portangelesschools.org/about/school-board-meeting-schedule
+    meetings:
+      - title: School Board Regular Meeting
+        dates: [2026-12-10, 2027-01-14, 2027-01-28, 2027-02-11, 2027-02-25, 2027-03-25, 2027-04-22, 2027-05-27, 2027-06-17]
+        time: "17:00"
+        location: "Lincoln Center, Port Angeles"
+        url: https://www.portangelesschools.org/about/school-board-meeting-schedule
+      - title: School Board Budget Development Work Session
+        dates: [2027-03-11]
+        time: "17:00"
+        location: "Lincoln Center, Port Angeles"
+        url: https://www.portangelesschools.org/about/school-board-meeting-schedule
+      - title: School Board Regular Meeting
+        dates: [2027-05-13]
+        time: "17:00"
+        location: "Port Angeles High School Library"
+        url: https://www.portangelesschools.org/about/school-board-meeting-schedule
+
 # Not connected yet:
 #   Feeds that refuse GitHub's servers (checked November 2026). Everett,
 #   Shoreline and Camas are covered from their published schedules instead;
