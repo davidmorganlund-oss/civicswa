@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T21:53:55-08:00",
+ "generated": "2026-11-22T22:14:29-08:00",
  "events": [
   {
    "id": "aff663f151ee",
@@ -2313,7 +2313,7 @@
    "cancelled": false
   },
   {
-   "id": "d311ebb35ef8",
+   "id": "037aacae3b03",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -7352,6 +7352,23 @@
    "cancelled": true
   },
   {
+   "id": "52d01b6ee18a",
+   "title": "Library Board of Trustees",
+   "host": "Burlington Public Library",
+   "source": "burlington-library-board",
+   "area": "Burlington",
+   "county": "Skagit",
+   "category": "library",
+   "start": "2026-12-01T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Gentry Family Meeting Room, Burlington Public Library, 820 E. Washington Ave.",
+   "url": "https://www.burlingtonwa.gov/155/Library",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "ead173c3d486",
    "title": "Planning Commission Workshop",
    "host": "City of Arlington",
@@ -12258,6 +12275,23 @@
    "cancelled": false
   },
   {
+   "id": "00f422096944",
+   "title": "Library Board of Trustees",
+   "host": "San Juan Island Library",
+   "source": "san-juan-island-library-board",
+   "area": "Friday Harbor",
+   "county": "San Juan",
+   "category": "library",
+   "start": "2026-12-08T15:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Library meeting room, Friday Harbor",
+   "url": "https://www.sjlib.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "0b48d78ce2f1",
    "title": "Peninsula School District Board of Directors Study Session",
    "host": "Peninsula School District",
@@ -14480,6 +14514,23 @@
    "cancelled": true
   },
   {
+   "id": "b929c97527e7",
+   "title": "Library Board of Trustees Meeting",
+   "host": "Tacoma Public Library",
+   "source": "tacoma-library-board",
+   "area": "countywide",
+   "county": "Pierce",
+   "category": "library",
+   "start": "2026-12-09T17:30:00-08:00",
+   "end": "2026-12-09T20:00:00-08:00",
+   "all_day": false,
+   "location": "Main Branch, 1102 Tacoma Avenue South, Tacoma",
+   "url": "https://tacoma.bibliocommons.com/events/6917b6ab0562322f00304279",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "7c1dc5d6ff0a",
    "title": "Regular Meeting",
    "host": "Cheney School District",
@@ -15278,6 +15329,23 @@
    "cancelled": false
   },
   {
+   "id": "9ec8aa8ccedf",
+   "title": "Library Board of Trustees",
+   "host": "The Seattle Public Library",
+   "source": "seattle-library-board",
+   "area": "Seattle",
+   "county": "King",
+   "category": "library",
+   "start": "2026-12-10T11:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Central Library, 1000 Fourth Ave., Seattle",
+   "url": "https://www.spl.org/about-us/the-organization/leadership/library-board-meetings",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go. The library posts a tentative schedule; November and December meetings move earlier.",
+   "cancelled": false
+  },
+  {
    "id": "a4442e8c61aa",
    "title": "Civil Service Commission",
    "host": "City of College Place",
@@ -15463,6 +15531,23 @@
    "all_day": false,
    "location": "Council Chambers, lower level, City Hall, 808 W. Spokane Falls Blvd., Spokane (also online)",
    "url": "https://my.spokanecity.org/bcc/boards/spokane-park-board/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
+   "id": "087b23506ffe",
+   "title": "Library Board of Trustees",
+   "host": "Orcas Island Library District",
+   "source": "orcas-library-board",
+   "area": "Eastsound",
+   "county": "San Juan",
+   "category": "library",
+   "start": "2026-12-10T15:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Orcas Island Public Library, Eastsound",
+   "url": "https://www.orcaslibrary.org/",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
@@ -18641,6 +18726,23 @@
    "cancelled": false
   },
   {
+   "id": "264d0f776604",
+   "title": "Library Board of Trustees",
+   "host": "Whatcom County Library System",
+   "source": "whatcom-library-board",
+   "area": "countywide",
+   "county": "Whatcom",
+   "category": "library",
+   "start": "2026-12-15T09:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Location varies; see the library's page",
+   "url": "https://www.wcls.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "c14361b591cd",
    "title": "Civil Service Commission",
    "host": "City of Spokane boards and commissions",
@@ -18879,6 +18981,23 @@
    "url": "https://vancouverwa.portal.civicclerk.com/event/1767/overview",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "a6b18013344b",
+   "title": "Library Board of Trustees",
+   "host": "Lopez Island Library",
+   "source": "lopez-library-board",
+   "area": "Lopez Island",
+   "county": "San Juan",
+   "category": "library",
+   "start": "2026-12-15T12:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Lopez Island Library",
+   "url": "https://www.lopezlibrary.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -19154,6 +19273,23 @@
    "cancelled": true
   },
   {
+   "id": "1b2802a0a66f",
+   "title": "Library Board of Trustees",
+   "host": "Whitman County Library",
+   "source": "whitman-library-board",
+   "area": "countywide",
+   "county": "Whitman",
+   "category": "library",
+   "start": "2026-12-15T16:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Colfax (occasionally another branch)",
+   "url": "https://www.whitcolib.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "ef4e6ac52fe7",
    "title": "City Council - Public Safety, Planning, Human Services, and Personnel (PSPHSP) Committee",
    "host": "City of Edmonds",
@@ -19234,6 +19370,23 @@
    "all_day": false,
    "location": "Location changes; see the board's page",
    "url": "https://my.spokanecity.org/bcc/boards/spokane-public-library-board-of-trustees/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
+   "id": "2aaf150c2c12",
+   "title": "Library Board of Trustees",
+   "host": "Spokane Public Library",
+   "source": "spokane-library-board",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "library",
+   "start": "2026-12-15T16:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Location rotates among library branches; see the library's page",
+   "url": "https://www.spokanelibrary.org/leadership",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
@@ -19441,6 +19594,23 @@
    "agenda_url": "",
    "note": "",
    "cancelled": true
+  },
+  {
+   "id": "3a0e87ca7c2a",
+   "title": "Library Board of Trustees",
+   "host": "Mid-Columbia Libraries",
+   "source": "mid-columbia-library-board",
+   "area": "countywide",
+   "county": "Benton",
+   "category": "library",
+   "start": "2026-12-15T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "See the library's page",
+   "url": "https://www.midcolumbialibraries.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
   },
   {
    "id": "fa8c2b1c59d8",
@@ -21925,6 +22095,23 @@
    "cancelled": true
   },
   {
+   "id": "fcf6c48b8643",
+   "title": "Library Board of Trustees",
+   "host": "NCW Libraries (North Central Regional Library)",
+   "source": "ncw-libraries-board",
+   "area": "countywide",
+   "county": "Chelan",
+   "category": "library",
+   "start": "2026-12-17T13:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Board Room, NCW Libraries Distribution Center, Wenatchee",
+   "url": "https://www.ncwlibraries.org/boardoftrustees/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "d391dfa96394",
    "title": "Examiner's Hearing: My Haunted Forest Administrative Appeal, App. 1076925",
    "host": "Pierce County",
@@ -22217,6 +22404,23 @@
    "cancelled": false
   },
   {
+   "id": "4119836c883c",
+   "title": "Library Board of Trustees",
+   "host": "Central Skagit Library District",
+   "source": "central-skagit-library-board",
+   "area": "Sedro-Woolley",
+   "county": "Skagit",
+   "category": "library",
+   "start": "2026-12-17T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Central Skagit Library, Sedro-Woolley",
+   "url": "https://www.centralskagitlibrary.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "fd25261bb49e",
    "title": "Planning Commission Meeting",
    "host": "City of Bellingham",
@@ -22401,6 +22605,23 @@
    "url": "http://www.touchet.k12.wa.us/",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "08cc758d6e1d",
+   "title": "Library Board of Trustees",
+   "host": "Upper Skagit Library",
+   "source": "upper-skagit-library-board",
+   "area": "Concrete",
+   "county": "Skagit",
+   "category": "library",
+   "start": "2026-12-17T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Upper Skagit Library, Concrete",
+   "url": "https://www.upperskagitlibrary.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -25433,6 +25654,23 @@
    "cancelled": false
   },
   {
+   "id": "39a3ebbe9cba",
+   "title": "Library Board of Trustees",
+   "host": "Ritzville Library District",
+   "source": "ritzville-library-board",
+   "area": "Ritzville",
+   "county": "Adams",
+   "category": "library",
+   "start": "2026-12-24T17:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Library basement, Ritzville",
+   "url": "https://www.ritzvillelibrary.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "e28f5660ae06",
    "title": "School Board Meeting",
    "host": "Snoqualmie Valley School District",
@@ -25447,6 +25685,23 @@
    "url": "https://www.svsd410.org/",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go. The board meets on this schedule most months.",
+   "cancelled": false
+  },
+  {
+   "id": "ec168ccc8295",
+   "title": "Library Board of Trustees",
+   "host": "North Olympic Library System",
+   "source": "nols-board",
+   "area": "countywide",
+   "county": "Clallam",
+   "category": "library",
+   "start": "2026-12-24T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "See the library's page",
+   "url": "https://www.nols.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go. Dates sometimes move to avoid holidays.",
    "cancelled": false
   },
   {
@@ -26521,7 +26776,7 @@
    "cancelled": false
   },
   {
-   "id": "128864a248dd",
+   "id": "df7f65991cd2",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -28456,6 +28711,23 @@
    "url": "https://bentoncowa.portal.civicclerk.com/event/1220/overview",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "ce8b6617a8e2",
+   "title": "Library Board of Trustees",
+   "host": "Burlington Public Library",
+   "source": "burlington-library-board",
+   "area": "Burlington",
+   "county": "Skagit",
+   "category": "library",
+   "start": "2027-01-05T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Gentry Family Meeting Room, Burlington Public Library, 820 E. Washington Ave.",
+   "url": "https://www.burlingtonwa.gov/155/Library",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -31264,6 +31536,23 @@
    "cancelled": false
   },
   {
+   "id": "94c0efc61b9f",
+   "title": "Library Board of Trustees",
+   "host": "San Juan Island Library",
+   "source": "san-juan-island-library-board",
+   "area": "Friday Harbor",
+   "county": "San Juan",
+   "category": "library",
+   "start": "2027-01-12T15:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Library meeting room, Friday Harbor",
+   "url": "https://www.sjlib.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "56212b658f85",
    "title": "Public Safety Committee Meeting",
    "host": "City of Bonney Lake",
@@ -33457,6 +33746,23 @@
    "cancelled": false
   },
   {
+   "id": "058b8d3701f0",
+   "title": "Library Board of Trustees",
+   "host": "Orcas Island Library District",
+   "source": "orcas-library-board",
+   "area": "Eastsound",
+   "county": "San Juan",
+   "category": "library",
+   "start": "2027-01-14T15:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Orcas Island Public Library, Eastsound",
+   "url": "https://www.orcaslibrary.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "c8cdee5f3df7",
    "title": "Arts Commission Meeting",
    "host": "City of Ellensburg",
@@ -34579,6 +34885,23 @@
    "cancelled": false
   },
   {
+   "id": "09114dbd3ddd",
+   "title": "Library Board of Trustees",
+   "host": "Whatcom County Library System",
+   "source": "whatcom-library-board",
+   "area": "countywide",
+   "county": "Whatcom",
+   "category": "library",
+   "start": "2027-01-19T09:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Location varies; see the library's page",
+   "url": "https://www.wcls.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "b587ea43263c",
    "title": "Civil Service Commission",
    "host": "City of Spokane boards and commissions",
@@ -34727,6 +35050,23 @@
    "all_day": false,
    "location": "Lewis County Courthouse, 351 NW North St., Chehalis",
    "url": "https://lewiscountywa.gov/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
+   "id": "68806a2c16a5",
+   "title": "Library Board of Trustees",
+   "host": "Lopez Island Library",
+   "source": "lopez-library-board",
+   "area": "Lopez Island",
+   "county": "San Juan",
+   "category": "library",
+   "start": "2027-01-19T12:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Lopez Island Library",
+   "url": "https://www.lopezlibrary.org/",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
@@ -34885,6 +35225,23 @@
    "cancelled": false
   },
   {
+   "id": "4fe4cda6023e",
+   "title": "Library Board of Trustees",
+   "host": "Whitman County Library",
+   "source": "whitman-library-board",
+   "area": "countywide",
+   "county": "Whitman",
+   "category": "library",
+   "start": "2027-01-19T16:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Colfax (occasionally another branch)",
+   "url": "https://www.whitcolib.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "fb6dd5b0536f",
    "title": "City Council Workshop",
    "host": "City of Camas",
@@ -34948,6 +35305,23 @@
    "all_day": false,
    "location": "Location changes; see the board's page",
    "url": "https://my.spokanecity.org/bcc/boards/spokane-public-library-board-of-trustees/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
+   "id": "83d6aeb0eb0b",
+   "title": "Library Board of Trustees",
+   "host": "Spokane Public Library",
+   "source": "spokane-library-board",
+   "area": "Spokane",
+   "county": "Spokane",
+   "category": "library",
+   "start": "2027-01-19T16:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Location rotates among library branches; see the library's page",
+   "url": "https://www.spokanelibrary.org/leadership",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
@@ -35035,6 +35409,23 @@
    "url": "http://www.hoquiam.net/",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "0691563e342d",
+   "title": "Library Board of Trustees",
+   "host": "Mid-Columbia Libraries",
+   "source": "mid-columbia-library-board",
+   "area": "countywide",
+   "county": "Benton",
+   "category": "library",
+   "start": "2027-01-19T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "See the library's page",
+   "url": "https://www.midcolumbialibraries.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -36857,6 +37248,23 @@
    "cancelled": false
   },
   {
+   "id": "9118462bfcf1",
+   "title": "Library Board of Trustees",
+   "host": "NCW Libraries (North Central Regional Library)",
+   "source": "ncw-libraries-board",
+   "area": "countywide",
+   "county": "Chelan",
+   "category": "library",
+   "start": "2027-01-21T13:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Board Room, NCW Libraries Distribution Center, Wenatchee",
+   "url": "https://www.ncwlibraries.org/boardoftrustees/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "ecd048dba35f",
    "title": "Spokane Transit Authority Board",
    "host": "Spokane regional boards",
@@ -37061,6 +37469,23 @@
    "cancelled": false
   },
   {
+   "id": "198b90909eab",
+   "title": "Library Board of Trustees",
+   "host": "Central Skagit Library District",
+   "source": "central-skagit-library-board",
+   "area": "Sedro-Woolley",
+   "county": "Skagit",
+   "category": "library",
+   "start": "2027-01-21T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Central Skagit Library, Sedro-Woolley",
+   "url": "https://www.centralskagitlibrary.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "958e1af92c59",
    "title": "Planning Commission Meeting",
    "host": "City of Bellingham",
@@ -37160,6 +37585,23 @@
    "url": "https://www.raymondk12.org/en-US",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "547e4591c1ab",
+   "title": "Library Board of Trustees",
+   "host": "Upper Skagit Library",
+   "source": "upper-skagit-library-board",
+   "area": "Concrete",
+   "county": "Skagit",
+   "category": "library",
+   "start": "2027-01-21T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Upper Skagit Library, Concrete",
+   "url": "https://www.upperskagitlibrary.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
