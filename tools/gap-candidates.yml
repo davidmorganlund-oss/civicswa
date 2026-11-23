@@ -1,0 +1,428 @@
+sources:
+- id: adna-schools--apptegy0
+  name: Adna School District 226
+  county: Lewis
+  area: Chehalis
+  category: school
+  type: apptegy
+  org: 32354
+  homepage: http://www.adnaschools.org/
+- id: blaine-schools--apptegy1
+  name: Blaine School District 503
+  county: Whatcom
+  area: Blaine
+  category: school
+  type: apptegy
+  org: 1613
+  homepage: https://www.blainesd.org/o/blaine-school-district
+- id: burlington-edison-schools--apptegy2
+  name: Burlington-Edison School District 100
+  county: Skagit
+  area: Burlington
+  category: school
+  type: apptegy
+  org: 11849
+  homepage: http://www.be.wednet.edu/
+- id: cle-elum-roslyn-schools--apptegy3
+  name: Cle Elum-Roslyn School District 404
+  county: Kittitas
+  area: Cle Elum
+  category: school
+  type: apptegy
+  org: 6343
+  homepage: http://www.cersd.org/
+- id: college-place-schools--apptegy4
+  name: College Place School District 250
+  county: Walla Walla
+  area: College Place
+  category: school
+  type: apptegy
+  org: 272
+  homepage: http://www.cpps.org/
+- id: easton-schools--apptegy5
+  name: Easton School District 28
+  county: Kittitas
+  area: Easton
+  category: school
+  type: apptegy
+  org: 20843
+  homepage: http://www.easton.wednet.edu/
+- id: entiat-schools--apptegy6
+  name: Entiat School District 127
+  county: Chelan
+  area: Entiat
+  category: school
+  type: apptegy
+  org: 28172
+  homepage: http://www.entiatschools.org/
+- id: glenwood-schools--apptegy7
+  name: Glenwood School District 401
+  county: Klickitat
+  area: Glenwood
+  category: school
+  type: apptegy
+  org: 19866
+  homepage: https://www.glenwoodsd.org/
+- id: inchelium-schools--apptegy8
+  name: Inchelium School District 70
+  county: Ferry
+  area: Inchelium
+  category: school
+  type: apptegy
+  org: 12488
+  homepage: http://www.inchelium.wednet.edu/
+- id: kalama-schools--apptegy9
+  name: Kalama School District 402
+  county: Cowlitz
+  area: Kalama
+  category: school
+  type: apptegy
+  org: 2140
+  homepage: http://kalamaschools.org/
+- id: kettle-falls-schools--apptegy10
+  name: Kettle Falls School District 212
+  county: Stevens
+  area: Kettle Falls
+  category: school
+  type: apptegy
+  org: 14609
+  homepage: https://www.kfschools.org/
+- id: kittitas-schools--apptegy11
+  name: Kittitas School District 403
+  county: Kittitas
+  area: Kittitas
+  category: school
+  type: apptegy
+  org: 5486
+  homepage: http://www.ksd403.org/
+- id: mossyrock-schools--apptegy12
+  name: Mossyrock School District 206
+  county: Lewis
+  area: Mossyrock
+  category: school
+  type: apptegy
+  org: 18879
+  homepage: https://www.mossyrockschools.org/
+- id: naselle-grays-river-valley-schools--apptegy13
+  name: Naselle-Grays River Valley School District 155
+  county: Pacific
+  area: Naselle
+  category: school
+  type: apptegy
+  org: 31163
+  homepage: http://www.naselle.wednet.edu/
+- id: oakville-schools--apptegy14
+  name: Oakville School District 400
+  county: Grays Harbor
+  area: Oakville
+  category: school
+  type: apptegy
+  org: 33608
+  homepage: http://www.oakvilleschools.org/
+- id: prescott-schools--apptegy15
+  name: Prescott School District 402-37
+  county: Walla Walla
+  area: Prescott
+  category: school
+  type: apptegy
+  org: 269
+  homepage: http://www.prescott.k12.wa.us/
+- id: ridgefield-schools--apptegy16
+  name: Ridgefield School District 122
+  county: Clark
+  area: Ridgefield
+  category: school
+  type: apptegy
+  org: 470
+  homepage: https://www.ridgefieldsd.org
+- id: selkirk-schools--apptegy17
+  name: Selkirk School District 70
+  county: Pend Oreille
+  area: Metaline Falls
+  category: school
+  type: apptegy
+  org: 5215
+  homepage: https://www.selkirkschools.org/
+- id: tenino-schools--apptegy18
+  name: Tenino School District 402
+  county: Thurston
+  area: Tenino
+  category: school
+  type: apptegy
+  org: 637
+  homepage: https://www.teninosd.org/
+- id: union-gap-schools--apptegy19
+  name: Union Gap School District 2
+  county: Yakima
+  area: Union Gap
+  category: school
+  type: apptegy
+  org: 2187
+  homepage: http://www.uniongapschool.org/
+- id: waitsburg-schools--apptegy20
+  name: Waitsburg School District 401-100
+  county: Walla Walla
+  area: Waitsburg
+  category: school
+  type: apptegy
+  org: 2511
+  homepage: http://www.waitsburgsd.org/
+- id: winlock-schools--apptegy21
+  name: Winlock School District 232
+  county: Lewis
+  area: Winlock
+  category: school
+  type: apptegy
+  org: 3731
+  homepage: http://www.winlockschools.org/
+- id: asotin-anatone-schools--ics22
+  name: Asotin-Anatone School District 420
+  county: Asotin
+  area: Asotin
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/c_501fc66e1af55497728dbbaa839307bae0616b7bdca2cb5f182955ab433bef4b%40group.calendar.google.com/public/basic.ics
+  homepage: https://www.aasd.wednet.edu/
+- id: blaine-schools--ics23
+  name: Blaine School District 503
+  county: Whatcom
+  area: Blaine
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/o1c2lc7konukbfrcgt4t4526vvcd1b8a%40import.calendar.google.com/public/basic.ics
+  homepage: https://www.blainesd.org/o/blaine-school-district
+- id: coupeville-schools--ics24
+  name: Coupeville School District 204
+  county: Island
+  area: Coupeville
+  category: school
+  type: ics
+  url: https://www.coupeville.k12.wa.us/fs/calendar-manager/events.ics?calendar_ids[]=352&calendar_ids[]=354&calendar_ids[]=357&calendar_ids[]=359&calendar_ids[]=360
+  homepage: https://www.coupeville.k12.wa.us/
+- id: cusick-schools--ics25
+  name: Cusick School District 59
+  county: Pend Oreille
+  area: Cusick
+  category: school
+  type: ics
+  url: https://www.cusick.wednet.edu/fs/calendar-manager/events.ics?calendar_ids[]=1
+  homepage: https://www.cusick.wednet.edu/
+- id: liberty-schools--ics26
+  name: Liberty School District 362
+  county: Spokane
+  area: Spangle
+  category: school
+  type: ics
+  url: https://www.libertysd.us/fs/calendar-manager/events.ics?calendar_ids[]=2&calendar_ids[]=3&calendar_ids[]=4&calendar_ids[]=5&calendar_ids[]=6&calendar_ids[]=7&calendar_ids[]=8&calendar_ids[]=9&calendar_ids[]=11
+  homepage: https://www.libertysd.us/
+- id: pomeroy-schools--ics27
+  name: Pomeroy School District 110
+  county: Garfield
+  area: Pomeroy
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/c_0c7f8457bbc0fe4d38c0cbb2d42ebb09d6cbc902be005e842886073dfc7fc3bd%40group.calendar.google.com/public/basic.ics
+  homepage: https://psd.wednet.edu/
+- id: willapa-valley-schools--ics28
+  name: Willapa Valley School District 160
+  county: Pacific
+  area: Menlo
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/willapavalley.org_uk4iouc110kr1aksa9lb8lf1ho%40group.calendar.google.com/public/basic.ics
+  homepage: https://www.willapavalley.org/
+- id: fife-schools--ics29
+  name: Fife School District 417
+  county: Pierce
+  area: Fife
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/calendar-district%40fifeschools.com/public/basic.ics
+- id: naselle-grays-river-valley-schools--ics30
+  name: Naselle-Grays River Valley School District 155
+  county: Pacific
+  area: Naselle
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/c_f70a36303781d2f512f0e47cacb7767694c106c9b90d9e5a368b99a248fc08ad%40group.calendar.google.com/public/basic.ics
+- id: newport-schools--ics31
+  name: Newport School District 56-415
+  county: Pend Oreille
+  area: Newport
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/gdc%40newportgriz.com/public/basic.ics
+- id: royal-schools--ics32
+  name: Royal School District 160
+  county: Grant
+  area: Royal City
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/c_188enu7s3h3tmj8fie1kbent53tei%40resource.calendar.google.com/public/basic.ics
+- id: selkirk-schools--ics33
+  name: Selkirk School District 70
+  county: Pend Oreille
+  area: Metaline Falls
+  category: school
+  type: ics
+  url: https://calendar.google.com/calendar/ical/appledeveloper%40selkirkschools.org/public/basic.ics
+- name: Central Kitsap School District 401
+  county: '?'
+  area: ''
+  category: school
+  homepage: https://www.ckschools.org/
+  id: central-kitsap-schools--cw34
+  type: civicweb
+  base: https://ckschools.community.diligentoneplatform.com
+- name: Chewelah School District 36
+  county: '?'
+  area: ''
+  category: school
+  homepage: http://www.chewelah.k12.wa.us/
+  id: chewelah-schools--cw35
+  type: civicweb
+  base: https://chewelahsd.community.diligentoneplatform.com
+- name: Dixie School District 101
+  county: '?'
+  area: ''
+  category: school
+  homepage: http://www.dixiesd.org/
+  id: dixie-schools--i36
+  type: ics
+  url: https://dixiesd.org/events/?ical=1
+- name: Dixie School District 101
+  county: '?'
+  area: ''
+  category: school
+  homepage: http://www.dixiesd.org/
+  id: dixie-schools--i37
+  type: ics
+  url: https://dixiesd.org/events/list/?shortcode=f0b1cb7d&#038;hide_subsequent_recurrences=1&#038;ical=1
+- name: Liberty School District 362
+  county: '?'
+  area: ''
+  category: school
+  homepage: http://www.libertysd.us/
+  id: liberty-schools--fs38
+  type: ics
+  url: https://www.libertysd.us/fs/calendar-manager/events.ics?calendar_ids[]=11&calendar_ids[]=2&calendar_ids[]=3&calendar_ids[]=4&calendar_ids[]=5&calendar_ids[]=6&calendar_ids[]=7&calendar_ids[]=8&calendar_ids[]=9
+- name: Lynden School District 504
+  county: '?'
+  area: ''
+  category: school
+  homepage: http://www.lynden.wednet.edu/
+  id: lynden-schools--i39
+  type: ics
+  url: https://lynden.wednet.edu/calendar/month/?tribe_eventcategory%5B0%5D=25&#038;ical=1
+- name: Lynden School District 504
+  county: '?'
+  area: ''
+  category: school
+  homepage: http://www.lynden.wednet.edu/
+  id: lynden-schools--i40
+  type: ics
+  url: https://lynden.wednet.edu/calendar/month/?tribe_eventcategory%5B0%5D=25&#038;outlook-ical=1#038;ical=1
+- name: Meridian School District 505
+  county: '?'
+  area: ''
+  category: school
+  homepage: https://www.meridian.wednet.edu/
+  id: meridian-schools--i41
+  type: ics
+  url: https://www.meridian.wednet.edu/calendars/?ical=1
+- name: Meridian School District 505
+  county: '?'
+  area: ''
+  category: school
+  homepage: https://www.meridian.wednet.edu/
+  id: meridian-schools--i42
+  type: ics
+  url: https://www.meridian.wednet.edu/calendars/month/?ical=1
+- name: Mukilteo School District 6
+  county: '?'
+  area: ''
+  category: school
+  homepage: https://www.mukilteoschools.org/
+  id: mukilteo-schools--cw43
+  type: civicweb
+  base: https://i.civicweb.net
+- name: Mukilteo School District 6
+  county: '?'
+  area: ''
+  category: school
+  homepage: https://www.mukilteoschools.org/
+  id: mukilteo-schools--cw44
+  type: civicweb
+  base: https://mukilteoschools.community.diligentoneplatform.com
+- name: Orient School District 65
+  county: '?'
+  area: ''
+  category: school
+  homepage: http://www.orientsd.org/
+  id: orient-schools--g45
+  type: ics
+  url: https://calendar.google.com/calendar/ical/b3JpZW50c2QuY2FsZW5kYXJAZ21haWwuY29t/public/basic.ics
+- name: Orting School District 344
+  county: '?'
+  area: ''
+  category: school
+  homepage: https://www.ortingschools.org/
+  id: orting-schools--cw46
+  type: civicweb
+  base: https://ortingschools.community.diligentoneplatform.com
+- name: Royal School District 160
+  county: '?'
+  area: ''
+  category: school
+  homepage: http://www.royal.wednet.edu/
+  id: royal-schools--g47
+  type: ics
+  url: https://calendar.google.com/calendar/ical/Y18xODhlbnU3czNoM3RtajhmaWUxa2JlbnQ1M3RlaUByZXNvdXJjZS5jYWxlbmRhci5nb29nbGUuY29t/public/basic.ics
+- name: Royal School District 160
+  county: '?'
+  area: ''
+  category: school
+  homepage: http://www.royal.wednet.edu/
+  id: royal-schools--g48
+  type: ics
+  url: https://calendar.google.com/calendar/ical/cm95YWwuazEyLndhLnVzXzE4ODhibGY0cm1ybWVqZG9qcmRhN2xjdXV0Nmg0NmdhNjhxM2djOW42MG9qNmNoZ0ByZXNvdXJjZS5jYWxlbmRhci5nb29nbGUuY29t/public/basic.ics
+- name: Soap Lake School District 156
+  county: '?'
+  area: ''
+  category: school
+  homepage: http://www.slschools.org/
+  id: soap-lake-schools--cw49
+  type: civicweb
+  base: https://slschools.community.diligentoneplatform.com
+- name: Tukwila School District 406
+  county: '?'
+  area: ''
+  category: school
+  homepage: https://www.tukwilaschools.org/
+  id: tukwila-schools--i50
+  type: ics
+  url: https://calendar.google.com/calendar/ical/c_56r3r8dqcojjsohujbs0s1iqho%40group.calendar.google.com/public/basic.ics
+- name: Washougal School District 112-6
+  county: '?'
+  area: ''
+  category: school
+  homepage: http://www.washougal.k12.wa.us/
+  id: washougal-schools--i51
+  type: ics
+  url: https://www.washougal.k12.wa.us/calendar/?ical=1
+- name: Washougal School District 112-6
+  county: '?'
+  area: ''
+  category: school
+  homepage: http://www.washougal.k12.wa.us/
+  id: washougal-schools--i52
+  type: ics
+  url: https://www.washougal.k12.wa.us/calendar/month/?ical=1
+- name: Willapa Valley School District 160
+  county: '?'
+  area: ''
+  category: school
+  homepage: https://www.willapavalley.org/
+  id: willapa-valley-schools--g53
+  type: ics
+  url: https://calendar.google.com/calendar/ical/willapavalley.org_mkqtqu63sb4urrbk1bas56ug9k%40group.calendar.google.com/public/basic.ics
