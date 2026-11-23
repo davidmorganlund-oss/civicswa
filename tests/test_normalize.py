@@ -578,3 +578,20 @@ def test_granicus_reads_24_hour_parts_not_12_hour_pubdate():
     assert events[0]["start"].startswith("2026-11-17T17:30")
     # A publish time on another day than the meeting's isn't used as the meeting time.
     assert events[1]["start"].startswith("2026-11-10T00:00") and events[1]["all_day"]
+
+
+def test_schedule_skips_holidays_when_asked():
+    src = {"id": "t", "name": "Test", "county": "King", "area": "Test", "homepage": "",
+           "meetings": [{"title": "Council", "when": "1st, 2nd, 3rd, 4th, 5th Monday", "time": "19:00", "holidays": "skip"}]}
+    days = [e["start"][:10] for e in build.fetch_schedule(src, date(2027, 1, 11), date(2027, 1, 25), ZoneInfo("America/Los_Angeles"))]
+    assert days == ["2027-01-11", "2027-01-25"]  # MLK Day (Jan 18) is skipped, not moved
+
+
+def test_schedule_monday_holiday_shift_and_shift_days():
+    tz = ZoneInfo("America/Los_Angeles")
+    tue = {"id": "t", "name": "Test", "county": "X", "area": "X", "homepage": "",
+           "meetings": [{"title": "Board", "when": "3rd Tuesday", "time": "09:30", "monday_holiday_shift": 1}]}
+    assert build.fetch_schedule(tue, date(2027, 1, 1), date(2027, 1, 31), tz)[0]["start"][:10] == "2027-01-20"
+    ws = {"id": "t", "name": "Test", "county": "X", "area": "X", "homepage": "",
+          "meetings": [{"title": "Work session", "when": "2nd Wednesday", "time": "16:00", "shift_days": -2}]}
+    assert build.fetch_schedule(ws, date(2027, 2, 1), date(2027, 2, 28), tz)[0]["start"][:10] == "2027-02-08"

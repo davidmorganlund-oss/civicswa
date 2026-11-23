@@ -878,10 +878,19 @@ def fetch_schedule(src, start_day, end_day, tz):
         else:
             days = schedule_dates(mtg["when"], start_day, end_day)
         for day in days:
+            if mtg.get("shift_days"):
+                # e.g. a work session held the Monday of the week of a
+                # 2nd and 4th Wednesday meeting: rule "2nd, 4th Wednesday", shift_days -2.
+                day += timedelta(days=int(mtg["shift_days"]))
             if day.month in mtg.get("skip_months", []) or str(day) in [str(d) for d in mtg.get("skip_dates", [])]:
                 continue
             moved = False
-            if not mtg.get("dates") and day in wa_holidays(day.year):
+            if mtg.get("monday_holiday_shift") and day - timedelta(days=day.weekday()) in wa_holidays(day.year):
+                # "When a holiday falls on Monday, the meeting is held on Wednesday."
+                day, moved = day + timedelta(days=int(mtg["monday_holiday_shift"])), True
+            elif not mtg.get("dates") and day in wa_holidays(day.year):
+                if mtg.get("holidays") == "skip":  # bodies that don't meet on holidays at all
+                    continue
                 day, moved = next_business_day(day), True
             start = datetime.combine(day, time(hh, mm), tz)
             if mtg.get("end"):
