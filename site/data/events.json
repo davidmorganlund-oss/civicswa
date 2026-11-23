@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T22:25:23-08:00",
+ "generated": "2026-11-22T23:12:25-08:00",
  "events": [
   {
    "id": "aff663f151ee",
@@ -2002,6 +2002,23 @@
    "cancelled": false
   },
   {
+   "id": "bd5d230da01a",
+   "title": "School Board Regular Meeting",
+   "host": "Tenino School District",
+   "source": "tenino-schools",
+   "area": "Tenino",
+   "county": "Thurston",
+   "category": "school",
+   "start": "2026-11-23T18:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "District Boardroom, 301 Old Hwy 99 N, Tenino (occasionally elsewhere)",
+   "url": "https://go.boarddocs.com/wa/tenino/Board.nsf/Public",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "f1e9aba3a271",
    "title": "School Board Meeting",
    "host": "Auburn School District",
@@ -2313,7 +2330,7 @@
    "cancelled": false
   },
   {
-   "id": "ba5e46619b64",
+   "id": "d311ebb35ef8",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -4268,6 +4285,23 @@
    "cancelled": false
   },
   {
+   "id": "3a32f61d9c08",
+   "title": "School Board Work Session",
+   "host": "Concrete School District",
+   "source": "concrete-schools",
+   "area": "Concrete",
+   "county": "Skagit",
+   "category": "school",
+   "start": "2026-11-24T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Room 107, Administrative Building, 45389 Airport Way, Concrete",
+   "url": "https://go.boarddocs.com/wa/concrete/Board.nsf/Public",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "dd6b6b5ea8a1",
    "title": "Board meeting",
    "host": "Cosmopolis School District",
@@ -4299,6 +4333,23 @@
    "url": "http://www.evsd.org/",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "203aeabde967",
+   "title": "School Board Regular Meeting",
+   "host": "Ferndale School District",
+   "source": "ferndale-schools",
+   "area": "Ferndale",
+   "county": "Whatcom",
+   "category": "school",
+   "start": "2026-11-24T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "5780 Hendrickson Ave., Ferndale",
+   "url": "https://www.ferndalesd.org/school-board",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -8621,6 +8672,23 @@
    "cancelled": false
   },
   {
+   "id": "0c2f9b67f36f",
+   "title": "School Board Regular Meeting",
+   "host": "South Kitsap School District",
+   "source": "south-kitsap-schools",
+   "area": "Port Orchard",
+   "county": "Kitsap",
+   "category": "school",
+   "start": "2026-12-02T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Administration Office, South Kitsap School District, Port Orchard",
+   "url": "https://go.boarddocs.com/wa/sksdwa/Board.nsf/Public",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "d806bf3327be",
    "title": "Work Session",
    "host": "Chewelah School District",
@@ -8911,6 +8979,23 @@
    "url": "https://www.griffinschool.us/",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "697ae7c119c4",
+   "title": "School Board Regular Meeting",
+   "host": "Lakewood School District",
+   "source": "lakewood-schools",
+   "area": "Arlington",
+   "county": "Snohomish",
+   "category": "school",
+   "start": "2026-12-02T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Lakewood High School Library, 17023 11th Ave. NE, Arlington",
+   "url": "https://go.boarddocs.com/wa/lakewood/Board.nsf/Public",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -9749,6 +9834,23 @@
    "url": "https://www.westrichland.org/Calendar.aspx",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "f3a4993846a8",
+   "title": "School Board Regular Meeting",
+   "host": "Moses Lake School District",
+   "source": "moses-lake-schools",
+   "area": "Moses Lake",
+   "county": "Grant",
+   "category": "school",
+   "start": "2026-12-03T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "MLSD Board Room, 940 E. Yonezawa Blvd., Moses Lake",
+   "url": "https://www.mlsd161.org/sbmeetings",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -10741,6 +10843,23 @@
    ]
   },
   {
+   "id": "5a91d0b4b04d",
+   "title": "School Board Meeting",
+   "host": "Yakima School District",
+   "source": "yakima-schools",
+   "area": "Yakima",
+   "county": "Yakima",
+   "category": "school",
+   "start": "2026-12-07T16:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Often a school site visit; see the district's board page",
+   "url": "https://www.ysd7.org/about/board-of-directors/board-meetings",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "fd9cf7caa2a4",
    "title": "City Council Workshop",
    "host": "City of Camas",
@@ -11265,6 +11384,23 @@
    "url": "http://www.msvl.k12.wa.us/",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "5c2c5eb1b32b",
+   "title": "School Board Regular Meeting",
+   "host": "Puyallup School District",
+   "source": "puyallup-schools",
+   "area": "Puyallup",
+   "county": "Pierce",
+   "category": "school",
+   "start": "2026-12-07T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Tillicum Room, Kessler Center, Puyallup",
+   "url": "https://www.puyallupsd.org/about-us/school-board",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go. Check the district's page: some December dates move.",
    "cancelled": false
   },
   {
@@ -14429,6 +14565,23 @@
    "cancelled": false
   },
   {
+   "id": "cefcd47415e2",
+   "title": "School Board Regular Meeting",
+   "host": "Meridian School District",
+   "source": "meridian-schools",
+   "area": "Bellingham",
+   "county": "Whatcom",
+   "category": "school",
+   "start": "2026-12-09T17:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Library, Meridian Middle School, Bellingham",
+   "url": "https://go.boarddocs.com/wa/msdwa/Board.nsf/Public",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "61c9bd75f842",
    "title": "Personnel Board Meeting",
    "host": "Pierce County",
@@ -15826,6 +15979,23 @@
    "cancelled": false
   },
   {
+   "id": "61760e47b489",
+   "title": "School Board Study Session",
+   "host": "Selah School District",
+   "source": "selah-schools",
+   "area": "Selah",
+   "county": "Yakima",
+   "category": "school",
+   "start": "2026-12-10T16:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "District Board Room, Selah",
+   "url": "https://www.selahschools.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "c83f3aabe47d",
    "title": "TRL Board of Trustees Facilities Committee",
    "host": "Timberland Regional Library",
@@ -15891,6 +16061,23 @@
    "url": "https://www.mercerislandschools.org/",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "2056fb09de45",
+   "title": "School Board Regular Meeting",
+   "host": "Port Angeles School District",
+   "source": "port-angeles-schools",
+   "area": "Port Angeles",
+   "county": "Clallam",
+   "category": "school",
+   "start": "2026-12-10T17:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Lincoln Center, Port Angeles",
+   "url": "https://www.portangelesschools.org/about/school-board-meeting-schedule",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -17706,6 +17893,23 @@
    "cancelled": false
   },
   {
+   "id": "08e9fe0d0293",
+   "title": "School Board Meeting",
+   "host": "Eastmont School District",
+   "source": "eastmont-schools",
+   "area": "East Wenatchee",
+   "county": "Douglas",
+   "category": "school",
+   "start": "2026-12-14T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "District Office or a school site visit; see the district's board calendar",
+   "url": "https://www.eastmont206.org/school-board/index",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "d8c0268d589d",
    "title": "Hoquiam School Board Work Session",
    "host": "Hoquiam School District",
@@ -18092,6 +18296,23 @@
    "all_day": false,
    "location": "District Central Office, Cle Elum",
    "url": "https://www.cersd.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
+   "id": "18a403a11a2e",
+   "title": "School Board Regular Meeting",
+   "host": "Clover Park School District",
+   "source": "clover-park-schools",
+   "area": "Lakewood",
+   "county": "Pierce",
+   "category": "school",
+   "start": "2026-12-14T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Room 4, Student Services Center, 10903 Gravelly Lake Dr. SW, Lakewood",
+   "url": "https://www.cloverpark.k12.wa.us/152970_3",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
@@ -20701,6 +20922,23 @@
    "cancelled": false
   },
   {
+   "id": "6c1290e0d23b",
+   "title": "School Board Business Meeting",
+   "host": "Yakima School District",
+   "source": "yakima-schools",
+   "area": "Yakima",
+   "county": "Yakima",
+   "category": "school",
+   "start": "2026-12-15T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Conference Rooms A & B, Central Services Administration, 104 N. 4th Ave., Yakima",
+   "url": "https://www.ysd7.org/about/board-of-directors/board-meetings",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "31e1c4b9a00c",
    "title": "School Board Special Meeting",
    "host": "Tahoma School District",
@@ -21160,6 +21398,23 @@
    "cancelled": false
   },
   {
+   "id": "c1dfa6148cde",
+   "title": "School Board Special Meeting",
+   "host": "Meridian School District",
+   "source": "meridian-schools",
+   "area": "Bellingham",
+   "county": "Whatcom",
+   "category": "school",
+   "start": "2026-12-16T16:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Library, Meridian Middle School, Bellingham",
+   "url": "https://go.boarddocs.com/wa/msdwa/Board.nsf/Public",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "116da43c3d94",
    "title": "Agricultural Resources Committee",
    "host": "San Juan County",
@@ -21534,6 +21789,23 @@
    "cancelled": false
   },
   {
+   "id": "db60e7a2479a",
+   "title": "School Board Study Session",
+   "host": "South Kitsap School District",
+   "source": "south-kitsap-schools",
+   "area": "Port Orchard",
+   "county": "Kitsap",
+   "category": "school",
+   "start": "2026-12-16T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Administration Office, South Kitsap School District, Port Orchard",
+   "url": "https://go.boarddocs.com/wa/sksdwa/Board.nsf/Public",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "3d43a7e3a66a",
    "title": "School Board Meeting",
    "host": "Taholah School District",
@@ -21789,6 +22061,23 @@
    "cancelled": false
   },
   {
+   "id": "e84318960f44",
+   "title": "School Board Regular Meeting",
+   "host": "Lakewood School District",
+   "source": "lakewood-schools",
+   "area": "Arlington",
+   "county": "Snohomish",
+   "category": "school",
+   "start": "2026-12-16T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Lakewood High School Library, 17023 11th Ave. NE, Arlington",
+   "url": "https://go.boarddocs.com/wa/lakewood/Board.nsf/Public",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "4ea16eae5823",
    "title": "RSD Board Meeting",
    "host": "Rainier School District",
@@ -21920,6 +22209,23 @@
    "all_day": false,
    "location": "Broadcast Studio, Valley School District Office Building",
    "url": "https://www.valleysd.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
+   "id": "76fd4bfa0431",
+   "title": "School Board Regular Meeting",
+   "host": "Winlock School District",
+   "source": "winlock-schools",
+   "area": "Winlock",
+   "county": "Lewis",
+   "category": "school",
+   "start": "2026-12-16T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Media Center, Winlock Middle/High School, 241 N. Military Rd., Winlock",
+   "url": "https://go.boarddocs.com/wa/winlock/Board.nsf/Public",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
@@ -22489,6 +22795,23 @@
    "cancelled": false
   },
   {
+   "id": "0aa9ca5033d0",
+   "title": "School Board Regular Meeting",
+   "host": "Bellingham Public Schools",
+   "source": "bellingham-schools",
+   "area": "Bellingham",
+   "county": "Whatcom",
+   "category": "school",
+   "start": "2026-12-17T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Board Room, District Office, 1985 Barkley Blvd., Bellingham",
+   "url": "https://www.bellinghamschools.org/school-board/school-board",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "399ee06b056e",
    "title": "Utility Advisory Committee",
    "host": "City of Bainbridge Island",
@@ -22690,6 +23013,23 @@
    "url": "http://www.colsd.org/",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "7355460deeab",
+   "title": "School Board Regular Meeting",
+   "host": "Moses Lake School District",
+   "source": "moses-lake-schools",
+   "area": "Moses Lake",
+   "county": "Grant",
+   "category": "school",
+   "start": "2026-12-17T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "MLSD Board Room, 940 E. Yonezawa Blvd., Moses Lake",
+   "url": "https://www.mlsd161.org/sbmeetings",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -24923,6 +25263,23 @@
    "cancelled": false
   },
   {
+   "id": "6710c29869d4",
+   "title": "School Board Work Session",
+   "host": "Concrete School District",
+   "source": "concrete-schools",
+   "area": "Concrete",
+   "county": "Skagit",
+   "category": "school",
+   "start": "2026-12-22T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Room 107, Administrative Building, 45389 Airport Way, Concrete",
+   "url": "https://go.boarddocs.com/wa/concrete/Board.nsf/Public",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "eeb64adbbae8",
    "title": "Board meeting",
    "host": "Cosmopolis School District",
@@ -24971,6 +25328,23 @@
    "url": "https://www.sheltonschools.org/cms/One.aspx",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
+   "id": "111a652f8978",
+   "title": "School Board Meeting",
+   "host": "Toutle Lake School District",
+   "source": "toutle-lake-schools",
+   "area": "Toutle",
+   "county": "Cowlitz",
+   "category": "school",
+   "start": "2026-12-22T18:00:00-08:00",
+   "end": "2026-12-22T20:00:00-08:00",
+   "all_day": false,
+   "location": "",
+   "url": "https://www.toutlesd.org/apps/events/13580263/",
+   "agenda_url": "",
+   "note": "",
    "cancelled": false
   },
   {
@@ -25841,6 +26215,23 @@
    "cancelled": false
   },
   {
+   "id": "115925bd0baf",
+   "title": "School Board Regular Meeting",
+   "host": "Wishkah Valley School District",
+   "source": "wishkah-valley-schools",
+   "area": "Aberdeen",
+   "county": "Grays Harbor",
+   "category": "school",
+   "start": "2026-12-24T17:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "District Office, 4640 Wishkah Rd., Aberdeen",
+   "url": "https://go.boarddocs.com/wa/wishkah/Board.nsf/Public",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "ec168ccc8295",
    "title": "Library Board of Trustees",
    "host": "North Olympic Library System",
@@ -25906,6 +26297,23 @@
    "url": "https://kennewickwa.portal.civicclerk.com/event/2215/overview",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "ad08411c4305",
+   "title": "School Board Regular Meeting",
+   "host": "Mary Walker School District",
+   "source": "mary-walker-schools",
+   "area": "Springdale",
+   "county": "Stevens",
+   "category": "school",
+   "start": "2026-12-24T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Mary Walker High School Library, Springdale",
+   "url": "https://go.boarddocs.com/wa/marywalker/Board.nsf/Public",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -26827,6 +27235,23 @@
    "cancelled": false
   },
   {
+   "id": "a5bea91f4731",
+   "title": "School Board Regular Meeting",
+   "host": "Tenino School District",
+   "source": "tenino-schools",
+   "area": "Tenino",
+   "county": "Thurston",
+   "category": "school",
+   "start": "2026-12-28T18:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "District Boardroom, 301 Old Hwy 99 N, Tenino (occasionally elsewhere)",
+   "url": "https://go.boarddocs.com/wa/tenino/Board.nsf/Public",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "e96226a5c325",
    "title": "City Council Meeting",
    "host": "City of Enumclaw",
@@ -26929,7 +27354,7 @@
    "cancelled": false
   },
   {
-   "id": "cac5cb08d6da",
+   "id": "128864a248dd",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -27235,6 +27660,23 @@
    "cancelled": false
   },
   {
+   "id": "eac3cff01192",
+   "title": "School Board Regular Meeting",
+   "host": "Ferndale School District",
+   "source": "ferndale-schools",
+   "area": "Ferndale",
+   "county": "Whatcom",
+   "category": "school",
+   "start": "2026-12-29T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "5780 Hendrickson Ave., Ferndale",
+   "url": "https://www.ferndalesd.org/school-board",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "0a4f4b44801f",
    "title": "Wilson Creek School Board Meeting",
    "host": "Wilson Creek School District",
@@ -27436,6 +27878,23 @@
    "url": "https://www.bisd303.org/",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go. The board meets most, not all, second and last Thursdays.",
+   "cancelled": false
+  },
+  {
+   "id": "34fa191a8d5e",
+   "title": "School Board Regular Meeting",
+   "host": "Concrete School District",
+   "source": "concrete-schools",
+   "area": "Concrete",
+   "county": "Skagit",
+   "category": "school",
+   "start": "2026-12-31T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Room 107, Administrative Building, 45389 Airport Way, Concrete",
+   "url": "https://go.boarddocs.com/wa/concrete/Board.nsf/Public",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -27779,6 +28238,23 @@
    "cancelled": false
   },
   {
+   "id": "2775aba6bd54",
+   "title": "School Board Meeting",
+   "host": "Yakima School District",
+   "source": "yakima-schools",
+   "area": "Yakima",
+   "county": "Yakima",
+   "category": "school",
+   "start": "2027-01-04T16:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Often a school site visit; see the district's board page",
+   "url": "https://www.ysd7.org/about/board-of-directors/board-meetings",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "ec5c3508d046",
    "title": "City Council Workshop",
    "host": "City of Camas",
@@ -28031,6 +28507,23 @@
    "url": "http://www.msvl.k12.wa.us/",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "1e7c4873269c",
+   "title": "School Board Regular Meeting",
+   "host": "Puyallup School District",
+   "source": "puyallup-schools",
+   "area": "Puyallup",
+   "county": "Pierce",
+   "category": "school",
+   "start": "2027-01-04T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Tillicum Room, Kessler Center, Puyallup",
+   "url": "https://www.puyallupsd.org/about-us/school-board",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go. Check the district's page: some December dates move.",
    "cancelled": false
   },
   {
@@ -29411,6 +29904,23 @@
    "cancelled": false
   },
   {
+   "id": "69a3ec34b935",
+   "title": "School Board Regular Meeting",
+   "host": "Meridian School District",
+   "source": "meridian-schools",
+   "area": "Bellingham",
+   "county": "Whatcom",
+   "category": "school",
+   "start": "2027-01-06T17:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Library, Meridian Middle School, Bellingham",
+   "url": "https://go.boarddocs.com/wa/msdwa/Board.nsf/Public",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "119ab3ea2674",
    "title": "Public Safety Advisory Committee meeting",
    "host": "City of Lakewood",
@@ -29459,6 +29969,23 @@
    "url": "https://laceywa.portal.civicclerk.com/event/1435/overview",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "0910cccb5197",
+   "title": "School Board Study Session",
+   "host": "South Kitsap School District",
+   "source": "south-kitsap-schools",
+   "area": "Port Orchard",
+   "county": "Kitsap",
+   "category": "school",
+   "start": "2027-01-06T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Administration Office, South Kitsap School District, Port Orchard",
+   "url": "https://go.boarddocs.com/wa/sksdwa/Board.nsf/Public",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -29578,6 +30105,23 @@
    "url": "http://www.dpsd.org/",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "57c4ad7f4a58",
+   "title": "School Board Regular Meeting",
+   "host": "Lakewood School District",
+   "source": "lakewood-schools",
+   "area": "Arlington",
+   "county": "Snohomish",
+   "category": "school",
+   "start": "2027-01-06T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Lakewood High School Library, 17023 11th Ave. NE, Arlington",
+   "url": "https://go.boarddocs.com/wa/lakewood/Board.nsf/Public",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -30037,6 +30581,23 @@
    "url": "https://sumnerwa.portal.civicclerk.com/event/2107/overview",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "7a16cdd94088",
+   "title": "School Board Regular Meeting",
+   "host": "Moses Lake School District",
+   "source": "moses-lake-schools",
+   "area": "Moses Lake",
+   "county": "Grant",
+   "category": "school",
+   "start": "2027-01-07T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "MLSD Board Room, 940 E. Yonezawa Blvd., Moses Lake",
+   "url": "https://www.mlsd161.org/sbmeetings",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -30601,6 +31162,23 @@
    "cancelled": false
   },
   {
+   "id": "016a9efdc1f1",
+   "title": "School Board Meeting",
+   "host": "Eastmont School District",
+   "source": "eastmont-schools",
+   "area": "East Wenatchee",
+   "county": "Douglas",
+   "category": "school",
+   "start": "2027-01-11T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "District Office or a school site visit; see the district's board calendar",
+   "url": "https://www.eastmont206.org/school-board/index",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "82b478704c14",
    "title": "Board of Commissioners Regular Meeting",
    "host": "Kitsap County Board of Commissioners",
@@ -30868,6 +31446,23 @@
    "all_day": false,
    "location": "District Central Office, Cle Elum",
    "url": "https://www.cersd.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
+   "id": "bb6663d71ca9",
+   "title": "School Board Regular Meeting",
+   "host": "Clover Park School District",
+   "source": "clover-park-schools",
+   "area": "Lakewood",
+   "county": "Pierce",
+   "category": "school",
+   "start": "2027-01-11T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Room 4, Student Services Center, 10903 Gravelly Lake Dr. SW, Lakewood",
+   "url": "https://www.cloverpark.k12.wa.us/152970_3",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
@@ -34120,6 +34715,23 @@
    "cancelled": false
   },
   {
+   "id": "37b885748b4f",
+   "title": "School Board Study Session",
+   "host": "Selah School District",
+   "source": "selah-schools",
+   "area": "Selah",
+   "county": "Yakima",
+   "category": "school",
+   "start": "2027-01-14T16:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "District Board Room, Selah",
+   "url": "https://www.selahschools.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "416c498a7fee",
    "title": "Regular Board Meeting",
    "host": "Bremerton School District",
@@ -34154,6 +34766,23 @@
    "cancelled": false
   },
   {
+   "id": "c689b875096c",
+   "title": "School Board Regular Meeting",
+   "host": "Port Angeles School District",
+   "source": "port-angeles-schools",
+   "area": "Port Angeles",
+   "county": "Clallam",
+   "category": "school",
+   "start": "2027-01-14T17:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Lincoln Center, Port Angeles",
+   "url": "https://www.portangelesschools.org/about/school-board-meeting-schedule",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "bd29422dbd6d",
    "title": "School Board Meeting",
    "host": "Snoqualmie Valley School District",
@@ -34168,6 +34797,23 @@
    "url": "https://www.svsd410.org/",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go. The board meets on this schedule most months.",
+   "cancelled": false
+  },
+  {
+   "id": "a8d31cef415d",
+   "title": "School Board Regular Meeting",
+   "host": "Bellingham Public Schools",
+   "source": "bellingham-schools",
+   "area": "Bellingham",
+   "county": "Whatcom",
+   "category": "school",
+   "start": "2027-01-14T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Board Room, District Office, 1985 Barkley Blvd., Bellingham",
+   "url": "https://www.bellinghamschools.org/school-board/school-board",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -36143,6 +36789,23 @@
    "cancelled": false
   },
   {
+   "id": "683f9c6a5178",
+   "title": "School Board Regular Meeting",
+   "host": "Puyallup School District",
+   "source": "puyallup-schools",
+   "area": "Puyallup",
+   "county": "Pierce",
+   "category": "school",
+   "start": "2027-01-19T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Tillicum Room, Kessler Center, Puyallup",
+   "url": "https://www.puyallupsd.org/about-us/school-board",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go. The regular date falls on a holiday, so state law moves the meeting to the next business day. The host may set a different date. Check the district's page: some December dates move.",
+   "cancelled": false
+  },
+  {
    "id": "206fbac627a7",
    "title": "School Board Meeting",
    "host": "Stanwood-Camano School District",
@@ -36602,6 +37265,23 @@
    "cancelled": false
   },
   {
+   "id": "c042cdb0a2be",
+   "title": "School Board Business Meeting",
+   "host": "Yakima School District",
+   "source": "yakima-schools",
+   "area": "Yakima",
+   "county": "Yakima",
+   "category": "school",
+   "start": "2027-01-19T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Conference Rooms A & B, Central Services Administration, 104 N. 4th Ave., Yakima",
+   "url": "https://www.ysd7.org/about/board-of-directors/board-meetings",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "7fe060e14092",
    "title": "Economic Development Commission",
    "host": "City of Snoqualmie",
@@ -36925,6 +37605,23 @@
    "cancelled": false
   },
   {
+   "id": "d3bed21a0f5f",
+   "title": "School Board Regular Meeting",
+   "host": "Meridian School District",
+   "source": "meridian-schools",
+   "area": "Bellingham",
+   "county": "Whatcom",
+   "category": "school",
+   "start": "2027-01-20T17:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Library, Meridian Middle School, Bellingham",
+   "url": "https://go.boarddocs.com/wa/msdwa/Board.nsf/Public",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "c19c0137c0f6",
    "title": "School Board Meeting",
    "host": "Mount Pleasant School District",
@@ -37007,6 +37704,23 @@
    "url": "https://www.co.cowlitz.wa.us/Calendar.aspx",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "dd461d730162",
+   "title": "School Board Regular Meeting",
+   "host": "South Kitsap School District",
+   "source": "south-kitsap-schools",
+   "area": "Port Orchard",
+   "county": "Kitsap",
+   "category": "school",
+   "start": "2027-01-20T17:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Administration Office, South Kitsap School District, Port Orchard",
+   "url": "https://go.boarddocs.com/wa/sksdwa/Board.nsf/Public",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
@@ -37197,6 +37911,23 @@
    "cancelled": false
   },
   {
+   "id": "53b417c98c63",
+   "title": "School Board Regular Meeting",
+   "host": "Lakewood School District",
+   "source": "lakewood-schools",
+   "area": "Arlington",
+   "county": "Snohomish",
+   "category": "school",
+   "start": "2027-01-20T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Lakewood High School Library, 17023 11th Ave. NE, Arlington",
+   "url": "https://go.boarddocs.com/wa/lakewood/Board.nsf/Public",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
    "id": "d6a8f4f77198",
    "title": "Board Meeting",
    "host": "Mount Vernon School District",
@@ -37311,6 +38042,23 @@
    "all_day": false,
    "location": "Broadcast Studio, Valley School District Office Building",
    "url": "https://www.valleysd.org/",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
+   "cancelled": false
+  },
+  {
+   "id": "c06f80064625",
+   "title": "School Board Regular Meeting",
+   "host": "Winlock School District",
+   "source": "winlock-schools",
+   "area": "Winlock",
+   "county": "Lewis",
+   "category": "school",
+   "start": "2027-01-20T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Media Center, Winlock Middle/High School, 241 N. Military Rd., Winlock",
+   "url": "https://go.boarddocs.com/wa/winlock/Board.nsf/Public",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
@@ -37840,6 +38588,23 @@
    "url": "https://stevensonwa.portal.civicclerk.com/event/554/overview",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "6b0098009d53",
+   "title": "School Board Regular Meeting",
+   "host": "Moses Lake School District",
+   "source": "moses-lake-schools",
+   "area": "Moses Lake",
+   "county": "Grant",
+   "category": "school",
+   "start": "2027-01-21T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "MLSD Board Room, 940 E. Yonezawa Blvd., Moses Lake",
+   "url": "https://www.mlsd161.org/sbmeetings",
+   "agenda_url": "",
+   "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go.",
    "cancelled": false
   },
   {
