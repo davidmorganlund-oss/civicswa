@@ -3,8 +3,17 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Franklin County
 BEGIN:VEVENT
+UID:704a096cfc8d@civicswa
+DTSTAMP:20261123T055355Z
+DTSTART:20261123T150000Z
+DTEND:20261123T160000Z
+SUMMARY:School Board Meeting (Star School District)
+LOCATION:See the district's board page
+URL:https://www.starbuck.k12.wa.us/
+END:VEVENT
+BEGIN:VEVENT
 UID:ba81f99fdc23@civicswa
-DTSTAMP:20261123T052532Z
+DTSTAMP:20261123T055355Z
 DTSTART:20261124T013000Z
 DTEND:20261124T023000Z
 SUMMARY:School Board Meeting (North Franklin School District)
@@ -13,7 +22,7 @@ URL:http://www.nfsd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:6363d73122ef@civicswa
-DTSTAMP:20261123T052532Z
+DTSTAMP:20261123T055355Z
 DTSTART:20261124T030000Z
 DTEND:20261124T075900Z
 SUMMARY:City Council Regular Workshop (City of Pasco)
@@ -21,8 +30,17 @@ LOCATION:Council Chambers is located in Pasco City Hall - 525 N. Third Ave. Pasc
 URL:https://www.pasco-wa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
+UID:a1e538c7576d@civicswa
+DTSTAMP:20261123T055355Z
+DTSTART:20261125T023000Z
+DTEND:20261125T033000Z
+SUMMARY:School Board Meeting (Pasco School District)
+LOCATION:See the district's board page
+URL:https://www.psd1.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:71d0dbb78375@civicswa
-DTSTAMP:20261123T052532Z
+DTSTAMP:20261123T055355Z
 DTSTART:20261202T170000Z
 DTEND:20261202T210000Z
 SUMMARY:Board of County Commissioners Meeting (BoCC) (Franklin County)
@@ -31,7 +49,7 @@ URL:https://www.franklincountywa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:955e05071bfd@civicswa
-DTSTAMP:20261123T052532Z
+DTSTAMP:20261123T055355Z
 DTSTART:20261208T030000Z
 DTEND:20261208T075900Z
 SUMMARY:City Council Regular Meeting (City of Pasco)
@@ -39,8 +57,17 @@ LOCATION:Council Chambers is located in Pasco City Hall - 525 N. Third Ave. Pasc
 URL:https://www.pasco-wa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
+UID:1516f1b63faa@civicswa
+DTSTAMP:20261123T055355Z
+DTSTART:20261209T023000Z
+DTEND:20261209T033000Z
+SUMMARY:School Board Meeting (Pasco School District)
+LOCATION:See the district's board page
+URL:https://www.psd1.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:d1b1b96f7a77@civicswa
-DTSTAMP:20261123T052532Z
+DTSTAMP:20261123T055355Z
 DTSTART:20261215T030000Z
 DTEND:20261215T075900Z
 SUMMARY:City Council Regular Workshop (City of Pasco)
@@ -49,7 +76,7 @@ URL:https://www.pasco-wa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:f69cd2d7685a@civicswa
-DTSTAMP:20261123T052532Z
+DTSTAMP:20261123T055355Z
 DTSTART:20261216T170000Z
 DTEND:20261216T210000Z
 SUMMARY:Board of County Commissioners Meeting (BoCC) (Franklin County)
@@ -58,7 +85,7 @@ URL:https://www.franklincountywa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:bdb8e3c3a9b6@civicswa
-DTSTAMP:20261123T052532Z
+DTSTAMP:20261123T055355Z
 DTSTART:20261222T030000Z
 DTEND:20261222T075900Z
 SUMMARY:City Council Regular Meeting (City of Pasco)
@@ -66,8 +93,17 @@ LOCATION:Council Chambers is located in Pasco City Hall - 525 N. Third Ave. Pasc
 URL:https://www.pasco-wa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
+UID:ae1b1f90761f@civicswa
+DTSTAMP:20261123T055355Z
+DTSTART:20261228T150000Z
+DTEND:20261228T160000Z
+SUMMARY:School Board Meeting (Star School District)
+LOCATION:See the district's board page
+URL:https://www.starbuck.k12.wa.us/
+END:VEVENT
+BEGIN:VEVENT
 UID:b337d2b62e82@civicswa
-DTSTAMP:20261123T052532Z
+DTSTAMP:20261123T055355Z
 DTSTART:20261229T030000Z
 DTEND:20261229T075900Z
 SUMMARY:City Council Regular Workshop (City of Pasco)
@@ -76,7 +112,7 @@ URL:https://www.pasco-wa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:de06b6a9295a@civicswa
-DTSTAMP:20261123T052532Z
+DTSTAMP:20261123T055355Z
 DTSTART:20261230T170000Z
 DTEND:20261230T210000Z
 SUMMARY:Board of County Commissioners Meeting (BoCC) (Franklin County)
@@ -85,7 +121,7 @@ URL:https://www.franklincountywa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:eb735009d88f@civicswa
-DTSTAMP:20261123T052532Z
+DTSTAMP:20261123T055355Z
 DTSTART:20270106T170000Z
 DTEND:20270106T210000Z
 SUMMARY:Board of County Commissioners Meeting (BoCC) (Franklin County)
@@ -93,8 +129,17 @@ LOCATION:Pasco WA 99301
 URL:https://www.franklincountywa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
+UID:fb1651704a77@civicswa
+DTSTAMP:20261123T055355Z
+DTSTART:20270113T023000Z
+DTEND:20270113T033000Z
+SUMMARY:School Board Meeting (Pasco School District)
+LOCATION:See the district's board page
+URL:https://www.psd1.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:d49ae6db24ae@civicswa
-DTSTAMP:20261123T052532Z
+DTSTAMP:20261123T055355Z
 DTSTART:20270113T170000Z
 DTEND:20270113T210000Z
 SUMMARY:Board of County Commissioners Meeting (BoCC) (Franklin County)
@@ -103,7 +148,7 @@ URL:https://www.franklincountywa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:f6149fa858d1@civicswa
-DTSTAMP:20261123T052532Z
+DTSTAMP:20261123T055355Z
 DTSTART:20270120T170000Z
 DTEND:20270120T210000Z
 SUMMARY:Board of County Commissioners Meeting (BoCC) (Franklin County)
