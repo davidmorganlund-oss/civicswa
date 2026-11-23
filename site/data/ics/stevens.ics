@@ -3,8 +3,44 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Stevens County
 BEGIN:VEVENT
+UID:e20248147e30@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20261123T163000Z
+DTEND:20261123T173000Z
+SUMMARY:Board of County Commissioners (Stevens County)
+LOCATION:Commissioners' Office\, 230 E. Birch Ave.\, Colville
+URL:https://www.stevenscountywa.gov/21148/commissioners-documents
+END:VEVENT
+BEGIN:VEVENT
+UID:51ce1ae34eba@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20261124T163000Z
+DTEND:20261124T173000Z
+SUMMARY:Board of County Commissioners (Stevens County)
+LOCATION:Commissioners' Office\, 230 E. Birch Ave.\, Colville
+URL:https://www.stevenscountywa.gov/21148/commissioners-documents
+END:VEVENT
+BEGIN:VEVENT
+UID:70edff15a174@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20261130T163000Z
+DTEND:20261130T173000Z
+SUMMARY:Board of County Commissioners (Stevens County)
+LOCATION:Commissioners' Office\, 230 E. Birch Ave.\, Colville
+URL:https://www.stevenscountywa.gov/21148/commissioners-documents
+END:VEVENT
+BEGIN:VEVENT
+UID:094263017d2b@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20261201T163000Z
+DTEND:20261201T173000Z
+SUMMARY:Board of County Commissioners (Stevens County)
+LOCATION:Commissioners' Office\, 230 E. Birch Ave.\, Colville
+URL:https://www.stevenscountywa.gov/21148/commissioners-documents
+END:VEVENT
+BEGIN:VEVENT
 UID:52a7949c8c8a@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20261203T023000Z
 DTEND:20261203T075900Z
 SUMMARY:Chewelah City Council Meeting (City of Chewelah)
@@ -12,8 +48,44 @@ LOCATION:Chewelah City Council Chambers - 301 East Clay Avenue Chewelah WA 99109
 URL:https://www.cityofchewelah.org/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
+UID:6017a5b01be7@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20261207T163000Z
+DTEND:20261207T173000Z
+SUMMARY:Board of County Commissioners (Stevens County)
+LOCATION:Commissioners' Office\, 230 E. Birch Ave.\, Colville
+URL:https://www.stevenscountywa.gov/21148/commissioners-documents
+END:VEVENT
+BEGIN:VEVENT
+UID:95e69f79d7cf@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20261208T163000Z
+DTEND:20261208T173000Z
+SUMMARY:Board of County Commissioners (Stevens County)
+LOCATION:Commissioners' Office\, 230 E. Birch Ave.\, Colville
+URL:https://www.stevenscountywa.gov/21148/commissioners-documents
+END:VEVENT
+BEGIN:VEVENT
+UID:333fab8ddc07@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20261214T163000Z
+DTEND:20261214T173000Z
+SUMMARY:Board of County Commissioners (Stevens County)
+LOCATION:Commissioners' Office\, 230 E. Birch Ave.\, Colville
+URL:https://www.stevenscountywa.gov/21148/commissioners-documents
+END:VEVENT
+BEGIN:VEVENT
+UID:ce7c7533c427@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20261215T163000Z
+DTEND:20261215T173000Z
+SUMMARY:Board of County Commissioners (Stevens County)
+LOCATION:Commissioners' Office\, 230 E. Birch Ave.\, Colville
+URL:https://www.stevenscountywa.gov/21148/commissioners-documents
+END:VEVENT
+BEGIN:VEVENT
 UID:29b74985a036@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20261217T023000Z
 DTEND:20261217T075900Z
 SUMMARY:Chewelah City Council Meeting (City of Chewelah)
@@ -22,7 +94,7 @@ URL:https://www.cityofchewelah.org/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:5b66e0587e2d@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20261218T010000Z
 DTEND:20261218T030000Z
 SUMMARY:School Board Meeting (Onion Creek School District)
@@ -31,7 +103,7 @@ URL:http://www.ocsd30.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:aadfa408608e@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20261218T020000Z
 DTEND:20261218T033000Z
 SUMMARY:Regular School Board Meeting (Colville School District)
@@ -39,8 +111,62 @@ LOCATION:
 URL:http://www.colsd.org/
 END:VEVENT
 BEGIN:VEVENT
+UID:5f5d7ef6b924@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20261221T163000Z
+DTEND:20261221T173000Z
+SUMMARY:Board of County Commissioners (Stevens County)
+LOCATION:Commissioners' Office\, 230 E. Birch Ave.\, Colville
+URL:https://www.stevenscountywa.gov/21148/commissioners-documents
+END:VEVENT
+BEGIN:VEVENT
+UID:5bdcbc69f7bf@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20261222T163000Z
+DTEND:20261222T173000Z
+SUMMARY:Board of County Commissioners (Stevens County)
+LOCATION:Commissioners' Office\, 230 E. Birch Ave.\, Colville
+URL:https://www.stevenscountywa.gov/21148/commissioners-documents
+END:VEVENT
+BEGIN:VEVENT
+UID:b6cc531033cd@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20261228T163000Z
+DTEND:20261228T173000Z
+SUMMARY:Board of County Commissioners (Stevens County)
+LOCATION:Commissioners' Office\, 230 E. Birch Ave.\, Colville
+URL:https://www.stevenscountywa.gov/21148/commissioners-documents
+END:VEVENT
+BEGIN:VEVENT
+UID:e88711a9a764@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20261229T163000Z
+DTEND:20261229T173000Z
+SUMMARY:Board of County Commissioners (Stevens County)
+LOCATION:Commissioners' Office\, 230 E. Birch Ave.\, Colville
+URL:https://www.stevenscountywa.gov/21148/commissioners-documents
+END:VEVENT
+BEGIN:VEVENT
+UID:04bdb5a153a2@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20270104T163000Z
+DTEND:20270104T173000Z
+SUMMARY:Board of County Commissioners (Stevens County)
+LOCATION:Commissioners' Office\, 230 E. Birch Ave.\, Colville
+URL:https://www.stevenscountywa.gov/21148/commissioners-documents
+END:VEVENT
+BEGIN:VEVENT
+UID:ff2e219d2ab3@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20270105T163000Z
+DTEND:20270105T173000Z
+SUMMARY:Board of County Commissioners (Stevens County)
+LOCATION:Commissioners' Office\, 230 E. Birch Ave.\, Colville
+URL:https://www.stevenscountywa.gov/21148/commissioners-documents
+END:VEVENT
+BEGIN:VEVENT
 UID:c2aa16d45e03@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20270107T023000Z
 DTEND:20270107T075900Z
 SUMMARY:Chewelah City Council Meeting (City of Chewelah)
@@ -48,8 +174,35 @@ LOCATION:Chewelah City Council Chambers - 301 East Clay Avenue Chewelah WA 99109
 URL:https://www.cityofchewelah.org/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
+UID:29f680c7d9ca@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20270111T163000Z
+DTEND:20270111T173000Z
+SUMMARY:Board of County Commissioners (Stevens County)
+LOCATION:Commissioners' Office\, 230 E. Birch Ave.\, Colville
+URL:https://www.stevenscountywa.gov/21148/commissioners-documents
+END:VEVENT
+BEGIN:VEVENT
+UID:5375e867c721@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20270112T163000Z
+DTEND:20270112T173000Z
+SUMMARY:Board of County Commissioners (Stevens County)
+LOCATION:Commissioners' Office\, 230 E. Birch Ave.\, Colville
+URL:https://www.stevenscountywa.gov/21148/commissioners-documents
+END:VEVENT
+BEGIN:VEVENT
+UID:32ef1bf7b6e0@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20270119T163000Z
+DTEND:20270119T173000Z
+SUMMARY:Board of County Commissioners (Stevens County)
+LOCATION:Commissioners' Office\, 230 E. Birch Ave.\, Colville
+URL:https://www.stevenscountywa.gov/21148/commissioners-documents
+END:VEVENT
+BEGIN:VEVENT
 UID:fd972fd4d5e0@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20270121T023000Z
 DTEND:20270121T075900Z
 SUMMARY:Chewelah City Council Meeting (City of Chewelah)

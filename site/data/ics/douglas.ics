@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Douglas County
 BEGIN:VEVENT
 UID:a6af166a2f75@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20261125T013000Z
 DTEND:20261125T033000Z
 SUMMARY:Public Notice - 11-24-2026 City Council Special Meeting and Executive Session (City of East Wenatchee)
@@ -13,7 +13,7 @@ URL:https://www.eastwenatcheewa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:75fa74a70eba@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20261201T020000Z
 DTEND:20261201T030000Z
 SUMMARY:Board Meeting (Bridgeport School District)
@@ -22,7 +22,7 @@ URL:http://www.bridgeport.wednet.edu/
 END:VEVENT
 BEGIN:VEVENT
 UID:7fde34db7127@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20261202T013000Z
 DTEND:20261202T075900Z
 SUMMARY:Planning Commission Publc Hearing (Douglas County)
@@ -31,7 +31,7 @@ URL:https://www.douglascountywa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:01f34d92d947@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20261202T020000Z
 DTEND:20261202T040000Z
 SUMMARY:City of East Wenatchee Council Meeting (City of East Wenatchee)
@@ -40,7 +40,7 @@ URL:https://www.eastwenatcheewa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:5a0d025162a8@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20261203T013000Z
 DTEND:20261203T075900Z
 SUMMARY:Joint Hearing\, City Council & County Commissioners (Douglas County)
@@ -49,7 +49,7 @@ URL:https://www.douglascountywa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:c1228687cf15@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20261203T020000Z
 DTEND:20261203T040000Z
 SUMMARY:Public Notice -- 12-02-2026 Joint Special Meeting City of East Wenatchee and Douglas County Board of Commissioners (City of East Wenatchee)
@@ -58,7 +58,7 @@ URL:https://www.eastwenatcheewa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:fa22aee10b69@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20261215T190000Z
 DTEND:20261215T213000Z
 SUMMARY:City of East Wenatchee Council Special Meeting (City of East Wenatchee)
@@ -67,7 +67,7 @@ URL:https://www.eastwenatcheewa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:2c17ca499038@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20261216T020000Z
 DTEND:20261216T040000Z
 SUMMARY:City of East Wenatchee Council Meeting (City of East Wenatchee)
@@ -76,7 +76,7 @@ URL:https://www.eastwenatcheewa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:4482e0bf6632@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20261218T013000Z
 DTEND:20261218T033000Z
 SUMMARY:City of East Wenatchee Council Workshop (City of East Wenatchee)
@@ -85,7 +85,7 @@ URL:https://www.eastwenatcheewa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:2440096dc2cd@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20261229T020000Z
 DTEND:20261229T030000Z
 SUMMARY:Board Meeting (Bridgeport School District)

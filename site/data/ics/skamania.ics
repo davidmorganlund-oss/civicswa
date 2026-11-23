@@ -3,8 +3,26 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Skamania County
 BEGIN:VEVENT
+UID:f74d6940b4f7@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20261124T173000Z
+DTEND:20261124T183000Z
+SUMMARY:Board of County Commissioners (Skamania County)
+LOCATION:Boardroom\, lower level\, Skamania County Courthouse\, 240 NW Vancouver Ave.\, Stevenson
+URL:https://www.skamaniacounty.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:8b5f8e7dfd24@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20261201T173000Z
+DTEND:20261201T183000Z
+SUMMARY:Board of County Commissioners (Skamania County)
+LOCATION:Boardroom\, lower level\, Skamania County Courthouse\, 240 NW Vancouver Ave.\, Stevenson
+URL:https://www.skamaniacounty.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:349fb1e43931@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20261208T020000Z
 DTEND:20261208T030000Z
 SUMMARY:Special Planning Commission Meeting (City of Stevenson)
@@ -12,8 +30,17 @@ LOCATION:7121 E Loop Road\, Stevenson
 URL:https://stevensonwa.portal.civicclerk.com/event/566/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:ec055f758b8b@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20261208T173000Z
+DTEND:20261208T183000Z
+SUMMARY:Board of County Commissioners (Skamania County)
+LOCATION:Boardroom\, lower level\, Skamania County Courthouse\, 240 NW Vancouver Ave.\, Stevenson
+URL:https://www.skamaniacounty.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:4ad0f80febd0@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20261215T020000Z
 DTEND:20261215T030000Z
 SUMMARY:Regular Planning Commission Meeting (City of Stevenson)
@@ -21,8 +48,17 @@ LOCATION:7121 E Loop Road\, Stevenson
 URL:https://stevensonwa.portal.civicclerk.com/event/541/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:d804da2c5259@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20261215T173000Z
+DTEND:20261215T183000Z
+SUMMARY:Board of County Commissioners (Skamania County)
+LOCATION:Boardroom\, lower level\, Skamania County Courthouse\, 240 NW Vancouver Ave.\, Stevenson
+URL:https://www.skamaniacounty.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:d724f132cba0@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20261218T020000Z
 DTEND:20261218T030000Z
 SUMMARY:Regular City Council Meeting (City of Stevenson)
@@ -30,8 +66,35 @@ LOCATION:7121 E Loop Road\, Stevenson
 URL:https://stevensonwa.portal.civicclerk.com/event/553/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:57147fce6bf3@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20261222T173000Z
+DTEND:20261222T183000Z
+SUMMARY:Board of County Commissioners (Skamania County)
+LOCATION:Boardroom\, lower level\, Skamania County Courthouse\, 240 NW Vancouver Ave.\, Stevenson
+URL:https://www.skamaniacounty.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:25b8c980a072@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20261229T173000Z
+DTEND:20261229T183000Z
+SUMMARY:Board of County Commissioners (Skamania County)
+LOCATION:Boardroom\, lower level\, Skamania County Courthouse\, 240 NW Vancouver Ave.\, Stevenson
+URL:https://www.skamaniacounty.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:9aa411536991@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20270105T173000Z
+DTEND:20270105T183000Z
+SUMMARY:Board of County Commissioners (Skamania County)
+LOCATION:Boardroom\, lower level\, Skamania County Courthouse\, 240 NW Vancouver Ave.\, Stevenson
+URL:https://www.skamaniacounty.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:071dd0a079c8@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20270112T020000Z
 DTEND:20270112T030000Z
 SUMMARY:Regular Planning Commission Meeting (City of Stevenson)
@@ -40,7 +103,7 @@ URL:https://stevensonwa.portal.civicclerk.com/event/542/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f581ea0a3757@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20270112T020000Z
 DTEND:20270112T040000Z
 SUMMARY:School Board Meeting (Mill A School District)
@@ -48,8 +111,17 @@ LOCATION:
 URL:http://www.milla.k12.wa.us/
 END:VEVENT
 BEGIN:VEVENT
+UID:df0d2d6e42c5@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20270112T173000Z
+DTEND:20270112T183000Z
+SUMMARY:Board of County Commissioners (Skamania County)
+LOCATION:Boardroom\, lower level\, Skamania County Courthouse\, 240 NW Vancouver Ave.\, Stevenson
+URL:https://www.skamaniacounty.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:2ff41924e4b7@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20270120T020000Z
 DTEND:20270120T040000Z
 SUMMARY:School Board Meeting (Mill A School District)
@@ -57,8 +129,17 @@ LOCATION:
 URL:http://www.milla.k12.wa.us/
 END:VEVENT
 BEGIN:VEVENT
+UID:25758608f72e@civicswa
+DTSTAMP:20261123T052532Z
+DTSTART:20270120T173000Z
+DTEND:20270120T183000Z
+SUMMARY:Board of County Commissioners (Skamania County)
+LOCATION:Boardroom\, lower level\, Skamania County Courthouse\, 240 NW Vancouver Ave.\, Stevenson
+URL:https://www.skamaniacounty.org/
+END:VEVENT
+BEGIN:VEVENT
 UID:c20cb7cd1c01@civicswa
-DTSTAMP:20261122T183500Z
+DTSTAMP:20261123T052532Z
 DTSTART:20270122T020000Z
 DTEND:20270122T030000Z
 SUMMARY:Regular City Council Meeting (City of Stevenson)
