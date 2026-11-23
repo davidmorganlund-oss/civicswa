@@ -27,5 +27,5 @@ jobs:
             pip install playwright==1.65.2 && python -m playwright install --with-deps chromium
             python tools/render_crawl.py tools/gap-libs.tsv
           else
-            python tools/bd_debug.py
+            python tools/feeds_probe.py
           fi
