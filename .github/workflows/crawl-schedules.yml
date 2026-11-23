@@ -1,0 +1,31 @@
+# Temporary: runs on pushes to crawl-* branches to find meeting schedules for
+# bodies with no feed. Not part of the site build.
+name: Crawl schedules
+on:
+  push:
+    branches: ["crawl-*"]
+permissions:
+  contents: read
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    strategy:
+      fail-fast: false
+      matrix:
+        part: [local, schools]
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - name: Crawl
+        env:
+          PART: ${{ matrix.part }}
+        run: |
+          if [ "$PART" = "schools" ]; then
+            python tools/ospi.py tools/schools.tsv
+            python tools/schedules.py tools/schools.tsv
+          else
+            python tools/schedules.py tools/gap-local.tsv
+          fi
