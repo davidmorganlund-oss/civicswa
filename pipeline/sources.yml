@@ -3154,6 +3154,242 @@ sources:
         url: https://www.spokaneschools.org/page/school-board-meetings
         note: "From the board's adopted 2026-27 calendar. Some regular meetings start at 4:30 p.m.; the district confirms each time the Friday before."
 
+
+  # Library boards found in November 2026's coverage pass, from each library's
+  # published board schedule (checked November 2026) unless a feed is noted.
+  - id: tacoma-library-board
+    name: Tacoma Public Library
+    type: bibliocommons
+    library: tacoma
+    searches: [board of trustees]
+    include: trustee
+    category: library
+    county: Pierce
+    area: Tacoma
+    homepage: https://www.tacomalibrary.org/
+
+  - id: seattle-library-board
+    name: The Seattle Public Library
+    type: schedule
+    county: King
+    area: Seattle
+    category: library
+    default_category: library
+    homepage: https://www.spl.org/about-us/the-organization/leadership/library-board-meetings
+    meetings:
+      - title: Library Board of Trustees
+        when: last Thursday
+        time: "11:00"
+        skip_months: [11, 12]
+        location: "Central Library, 1000 Fourth Ave., Seattle"
+        url: https://www.spl.org/about-us/the-organization/leadership/library-board-meetings
+        note: "The library posts a tentative schedule; November and December meetings move earlier."
+      - title: Library Board of Trustees
+        when: 2nd Thursday
+        time: "11:00"
+        skip_months: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+        location: "Central Library, 1000 Fourth Ave., Seattle"
+        url: https://www.spl.org/about-us/the-organization/leadership/library-board-meetings
+        note: "The library posts a tentative schedule; November and December meetings move earlier."
+
+  - id: spokane-library-board
+    name: Spokane Public Library
+    type: schedule
+    county: Spokane
+    area: Spokane
+    category: library
+    default_category: library
+    homepage: https://www.spokanelibrary.org/leadership
+    meetings:
+      - title: Library Board of Trustees
+        when: 3rd Tuesday
+        time: "16:30"
+        location: "Location rotates among library branches; see the library's page"
+        url: https://www.spokanelibrary.org/leadership
+
+  - id: ncw-libraries-board
+    name: NCW Libraries (North Central Regional Library)
+    type: schedule
+    county: Chelan
+    area: countywide
+    category: library
+    default_category: library
+    homepage: https://www.ncwlibraries.org/boardoftrustees/
+    meetings:
+      - title: Library Board of Trustees
+        when: 3rd Thursday
+        time: "13:00"
+        location: "Board Room, NCW Libraries Distribution Center, Wenatchee"
+        url: https://www.ncwlibraries.org/boardoftrustees/
+
+  - id: whatcom-library-board
+    name: Whatcom County Library System
+    type: schedule
+    county: Whatcom
+    area: countywide
+    category: library
+    default_category: library
+    homepage: https://www.wcls.org/
+    meetings:
+      - title: Library Board of Trustees
+        when: 3rd Tuesday
+        time: "09:00"
+        location: "Location varies; see the library's page"
+        url: https://www.wcls.org/
+
+  - id: nols-board
+    name: North Olympic Library System
+    type: schedule
+    county: Clallam
+    area: countywide
+    category: library
+    default_category: library
+    homepage: https://www.nols.org/
+    meetings:
+      - title: Library Board of Trustees
+        when: 4th Thursday
+        time: "17:30"
+        holidays: "skip"
+        location: "See the library's page"
+        url: https://www.nols.org/
+        note: "Dates sometimes move to avoid holidays."
+
+  - id: mid-columbia-library-board
+    name: Mid-Columbia Libraries
+    type: schedule
+    county: Benton
+    area: countywide
+    category: library
+    default_category: library
+    homepage: https://www.midcolumbialibraries.org/
+    meetings:
+      - title: Library Board of Trustees
+        when: 3rd Tuesday
+        time: "17:30"
+        location: "See the library's page"
+        url: https://www.midcolumbialibraries.org/
+
+  - id: whitman-library-board
+    name: Whitman County Library
+    type: schedule
+    county: Whitman
+    area: countywide
+    category: library
+    default_category: library
+    homepage: https://www.whitcolib.org/
+    meetings:
+      - title: Library Board of Trustees
+        when: 3rd Tuesday
+        time: "16:00"
+        location: "Colfax (occasionally another branch)"
+        url: https://www.whitcolib.org/
+
+  - id: central-skagit-library-board
+    name: Central Skagit Library District
+    type: schedule
+    county: Skagit
+    area: Sedro-Woolley
+    category: library
+    default_category: library
+    homepage: https://www.centralskagitlibrary.org/
+    meetings:
+      - title: Library Board of Trustees
+        when: 3rd Thursday
+        time: "18:00"
+        location: "Central Skagit Library, Sedro-Woolley"
+        url: https://www.centralskagitlibrary.org/
+
+  - id: upper-skagit-library-board
+    name: Upper Skagit Library
+    type: schedule
+    county: Skagit
+    area: Concrete
+    category: library
+    default_category: library
+    homepage: https://www.upperskagitlibrary.org/
+    meetings:
+      - title: Library Board of Trustees
+        when: 3rd Thursday
+        time: "18:00"
+        location: "Upper Skagit Library, Concrete"
+        url: https://www.upperskagitlibrary.org/
+
+  - id: burlington-library-board
+    name: Burlington Public Library
+    type: schedule
+    county: Skagit
+    area: Burlington
+    category: library
+    default_category: library
+    homepage: https://www.burlingtonwa.gov/155/Library
+    meetings:
+      - title: Library Board of Trustees
+        when: 1st Tuesday
+        time: "18:00"
+        location: "Gentry Family Meeting Room, Burlington Public Library, 820 E. Washington Ave."
+        url: https://www.burlingtonwa.gov/155/Library
+
+  - id: orcas-library-board
+    name: Orcas Island Library District
+    type: schedule
+    county: San Juan
+    area: Eastsound
+    category: library
+    default_category: library
+    homepage: https://www.orcaslibrary.org/
+    meetings:
+      - title: Library Board of Trustees
+        when: 2nd Thursday
+        time: "15:30"
+        location: "Orcas Island Public Library, Eastsound"
+        url: https://www.orcaslibrary.org/
+
+  - id: lopez-library-board
+    name: Lopez Island Library
+    type: schedule
+    county: San Juan
+    area: Lopez Island
+    category: library
+    default_category: library
+    homepage: https://www.lopezlibrary.org/
+    meetings:
+      - title: Library Board of Trustees
+        when: 3rd Tuesday
+        time: "12:00"
+        location: "Lopez Island Library"
+        url: https://www.lopezlibrary.org/
+
+  - id: san-juan-island-library-board
+    name: San Juan Island Library
+    type: schedule
+    county: San Juan
+    area: Friday Harbor
+    category: library
+    default_category: library
+    homepage: https://www.sjlib.org/
+    meetings:
+      - title: Library Board of Trustees
+        when: 2nd Tuesday
+        time: "15:00"
+        location: "Library meeting room, Friday Harbor"
+        url: https://www.sjlib.org/
+
+  - id: ritzville-library-board
+    name: Ritzville Library District
+    type: schedule
+    county: Adams
+    area: Ritzville
+    category: library
+    default_category: library
+    homepage: https://www.ritzvillelibrary.org/
+    meetings:
+      - title: Library Board of Trustees
+        when: 4th Thursday
+        time: "17:00"
+        holidays: "skip"
+        location: "Library basement, Ritzville"
+        url: https://www.ritzvillelibrary.org/
+
 # Not connected yet:
 #   Feeds that refuse GitHub's servers (checked November 2026). Everett,
 #   Shoreline and Camas are covered from their published schedules instead;
