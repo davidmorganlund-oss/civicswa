@@ -1,0 +1,41 @@
+sources:
+- name: Franklin Pierce School District 402
+  county: '?'
+  area: ''
+  category: school
+  homepage: https://www.fpschools.org/
+  id: franklin-pierce-schools--0
+  type: civicweb
+  base: https://fpschools.diligent.community
+- name: Yakima School District 7
+  county: '?'
+  area: ''
+  category: school
+  homepage: https://www.ysd7.org/
+  id: yakima-schools--1
+  type: ics
+  url: https://www.ysd7.org/fs/calendar-manager/events.ics?calendar_ids[]=349
+- name: Spokane Public Schools 81
+  county: '?'
+  area: ''
+  category: school
+  homepage: https://www.spokaneschools.org/
+  id: spokane-schools--2
+  type: apptegy
+  org: 18234
+- name: Spokane Public Schools 81
+  county: '?'
+  area: ''
+  category: school
+  homepage: https://www.spokaneschools.org/
+  id: spokane-schools--3
+  type: apptegy
+  org: 303182
+- name: Spokane Public Schools 81
+  county: '?'
+  area: ''
+  category: school
+  homepage: https://www.spokaneschools.org/
+  id: spokane-schools--4
+  type: apptegy
+  org: 303183
