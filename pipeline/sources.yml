@@ -3062,6 +3062,98 @@ sources:
         url: https://www.woodlandschools.org/
 
 
+  - {id: franklin-pierce-schools, name: Franklin Pierce School District, county: Pierce, area: Tacoma, category: school, type: civicweb, base: 'https://fpschools.diligent.community', homepage: 'https://fpschools.diligent.community/Portal/', exclude: quorum}
+
+  - id: valley-schools
+    name: Valley School District
+    type: schedule
+    county: Stevens
+    area: Valley
+    category: school
+    default_category: school
+    homepage: https://www.valleysd.org/
+    meetings:
+      - title: School Board Meeting
+        when: 3rd Wednesday
+        time: "18:00"
+        location: "Broadcast Studio, Valley School District Office Building"
+        url: https://www.valleysd.org/
+
+  - id: mount-adams-schools
+    name: Mount Adams School District
+    type: schedule
+    county: Yakima
+    area: White Swan
+    category: school
+    default_category: school
+    homepage: http://www.mtadams.wednet.edu/
+    meetings:
+      - title: School Board Meeting
+        when: 3rd Monday
+        time: "18:00"
+        location: "Alternates between Harrah and White Swan; see the district's schedule"
+        url: http://www.mtadams.wednet.edu/
+        note: "Holidays and district events move some meetings off the third Monday."
+
+  # Adopted 2026-27 meeting dates from the district's published board calendar.
+  - id: sumner-bonney-lake-schools
+    name: Sumner-Bonney Lake School District
+    type: schedule
+    county: Pierce
+    area: Sumner
+    category: school
+    default_category: school
+    homepage: https://www.sumnersd.org/
+    meetings:
+      - title: School Board Study Session
+        dates: [2026-12-09, 2027-01-13, 2027-02-10, 2027-03-10, 2027-04-14, 2027-05-12, 2027-06-09]
+        time: "18:00"
+        location: "District Board Room (and online)"
+        url: https://www.sumnersd.org/
+      - title: School Board Meeting
+        dates: [2026-12-16, 2027-01-20, 2027-02-17, 2027-03-17, 2027-04-21, 2027-05-19, 2027-06-16, 2027-07-21]
+        time: "18:00"
+        location: "District Board Room (and online)"
+        url: https://www.sumnersd.org/
+
+  - id: pullman-schools
+    name: Pullman School District
+    type: schedule
+    county: Whitman
+    area: Pullman
+    category: school
+    default_category: school
+    homepage: https://www.pullmanschools.org/
+    meetings:
+      - title: School Board Work Session
+        dates: [2026-12-02, 2027-02-03, 2027-03-03, 2027-05-05, 2027-06-16]
+        time: "16:30"
+        end: "18:00"
+        location: "Location varies (District Office or a school); see the district's schedule"
+        url: https://www.pullmanschools.org/
+      - title: School Board Regular Meeting
+        dates: [2026-12-09, 2027-01-13, 2027-01-27, 2027-02-10, 2027-02-24, 2027-03-10, 2027-03-24, 2027-04-14, 2027-04-28, 2027-05-12, 2027-05-26, 2027-06-09, 2027-06-23, 2027-07-28]
+        time: "18:30"
+        location: "Board Room, Pullman High School"
+        url: https://www.pullmanschools.org/
+
+
+  - id: spokane-schools
+    name: Spokane Public Schools
+    type: schedule
+    county: Spokane
+    area: Spokane
+    category: school
+    default_category: school
+    homepage: https://www.spokaneschools.org/page/school-board-meetings
+    meetings:
+      - title: School Board Regular Meeting
+        dates: [2026-12-02, 2026-12-16, 2027-01-13, 2027-01-27, 2027-02-10, 2027-02-24, 2027-03-10, 2027-03-24, 2027-04-07, 2027-04-21, 2027-05-05, 2027-05-19, 2027-06-02, 2027-06-16, 2027-07-07]
+        time: "18:00"
+        location: "Spokane Public Schools Administration Building, 200 N. Bernard St., Spokane"
+        url: https://www.spokaneschools.org/page/school-board-meetings
+        note: "From the board's adopted 2026-27 calendar. Some regular meetings start at 4:30 p.m.; the district confirms each time the Friday before."
+
 # Not connected yet:
 #   Feeds that refuse GitHub's servers (checked November 2026). Everett,
 #   Shoreline and Camas are covered from their published schedules instead;
@@ -3073,6 +3165,9 @@ sources:
 #   and Yelm (Revize sites), Airway Heights and Hoquiam still need a source.
 #   Tumwater's separate meetings portal (tumwater-wa.municodemeetings.com) has
 #   agendas, but its server refuses automated readers, so it is not used.
+#   School districts still without a source after November 2026's coverage pass
+#   (no feed with board meetings and no published schedule found yet) are
+#   listed in OPERATIONS.md.
 #   School boards on BoardDocs only: BoardDocs tells all automated clients to
 #   stay out, so these districts are not read there. Olympia and Everett are
 #   covered from their own district sites instead. Still without a source:
