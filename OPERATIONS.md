@@ -69,3 +69,109 @@ ISO time in UTC; `site/spotlight.js` removes the banner once that time passes,
 so a closed deadline never stays up. To post a new one, edit the text, link and
 `data-until` in both files. To retire one early, delete the `<aside>` block.
 Keep the "Run by ..., not CivicsWA" line so it's clear who runs the program.
+
+
+## School districts still without a source (November 2026)
+
+A coverage pass against OSPI's 295 districts left these without a feed that
+carries board meetings or a published regular schedule we could find. Most
+post meetings only to BoardDocs (which asks automated readers to stay out) or
+state their schedule only in a color-coded PDF. Add them one at a time from
+the district's board page, as `type: schedule` with `when` or adopted `dates`:
+
+- Adna
+- Anacortes
+- Asotin-Anatone
+- Bellingham
+- Boistfort
+- Centerville
+- Chehalis
+- Clover Park
+- Colfax
+- Columbia (Walla Walla County)
+- Concrete
+- Coulee-Hartline
+- Coupeville
+- Crescent
+- Davenport
+- Eastmont
+- Elma
+- Ephrata
+- Federal Way
+- Ferndale
+- Fife
+- Glenwood
+- Goldendale
+- Grand Coulee Dam
+- Great Northern
+- Inchelium
+- Kahlotus
+- Kalama
+- Keller
+- Kennewick
+- Kittitas
+- La Center
+- Lake Chelan
+- Lake Stevens
+- Lakewood
+- Liberty
+- Longview
+- Lyle
+- Mansfield
+- Mary Walker
+- Mead
+- Medical Lake
+- Meridian
+- Methow Valley
+- Montesano
+- Moses Lake
+- Naselle-Grays River Valley
+- Nespelem
+- Newport
+- North River
+- Northport
+- Oakesdale
+- Oakville
+- Odessa
+- Orient
+- Oroville
+- Othello
+- Palouse
+- Pateros
+- Paterson
+- Pe Ell
+- Pomeroy
+- Port Angeles
+- Puyallup
+- Queets-Clearwater
+- Quilcene
+- Riverside
+- Roosevelt
+- Rosalia
+- Selah
+- Selkirk
+- Shaw Island
+- Snohomish
+- South Bend
+- South Kitsap
+- Sprague
+- St. John
+- Starbuck
+- Stehekin
+- Stevenson-Carson
+- Tahoma
+- Tenino
+- Toledo
+- Toutle Lake
+- Trout Lake
+- Wahkiakum
+- Wapato
+- Waterville
+- Wellpinit
+- Wenatchee
+- White River
+- Wilbur
+- Winlock
+- Wishkah Valley
+- Yakima
+- Zillah
