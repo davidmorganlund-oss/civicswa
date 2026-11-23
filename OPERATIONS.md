@@ -134,7 +134,6 @@ the district's board page, as `type: schedule` with `when` or adopted `dates`:
 - Paterson
 - Pe Ell
 - Pomeroy
-- Port Angeles
 - Puyallup
 - Queets-Clearwater
 - Quilcene
