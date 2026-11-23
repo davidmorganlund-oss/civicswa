@@ -1,7 +1,7 @@
 """Checks the three connectors against records shaped like the real feeds."""
 import sys
 import json
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -595,3 +595,66 @@ def test_schedule_monday_holiday_shift_and_shift_days():
     ws = {"id": "t", "name": "Test", "county": "X", "area": "X", "homepage": "",
           "meetings": [{"title": "Work session", "when": "2nd Wednesday", "time": "16:00", "shift_days": -2}]}
     assert build.fetch_schedule(ws, date(2027, 2, 1), date(2027, 2, 28), tz)[0]["start"][:10] == "2027-02-08"
+
+
+# --- BoardDocs snapshot ---
+
+def _bd_snapshot():
+    return json.loads((Path(__file__).parent / "fixtures" / "boarddocs.json").read_text())
+
+
+def _bd_source(slug, meetings):
+    return {"id": f"{slug}-schools", "name": slug, "type": "schedule", "boarddocs": slug, "county": "X", "area": "X",
+            "category": "school", "default_category": "school", "homepage": "https://example.org", "meetings": meetings}
+
+
+def test_boarddocs_posted_meetings_then_pattern():
+    src = _bd_source("ferndale", [{"title": "School Board Regular Meeting", "when": "last Tuesday", "time": "18:00",
+                                   "location": "Board room"}])
+    got = build.fetch_schedule(src, date(2026, 11, 23), date(2027, 1, 31), TZ, snapshot=_bd_snapshot())
+    first = got[0]
+    assert (first["start"], first["title"]) == ("2026-11-24T18:00:00-08:00", "School Board Regular Meeting")
+    assert first["location"] == "5780 Hendrickson Ave, Ferndale, WA"
+    assert first["url"] == "https://go.boarddocs.com/wa/ferndale/Board.nsf/Public"
+    # After the last posted meeting, the pattern carries on.
+    assert [e["start"][:10] for e in got[1:]] == ["2026-12-29", "2027-01-26"]
+
+
+def test_boarddocs_meeting_details():
+    src = _bd_source("msdwa", [{"title": "School Board Regular Meeting", "when": "2nd, 4th Wednesday", "time": "17:00"}])
+    got = {e["start"][:10]: e for e in build.fetch_schedule(src, date(2026, 11, 23), date(2027, 7, 31), TZ, snapshot=_bd_snapshot())}
+    assert got["2027-01-20"]["start"][11:16] == "17:00"          # not the 4:00 executive session
+    assert got["2026-12-09"]["location"] == "Meridian Middle School - Library"
+    assert "2027-06-04" not in got                                # graduation, not a meeting
+    assert got["2027-07-14"]["title"] == "School Board Retreat"
+    assert got["2027-07-14"]["location"] == "7 Bellwether Way, Bellingham, WA 98225"
+    assert "2027-07-28" in got                                   # pattern after the last posted date
+
+
+def test_boarddocs_time_location_and_cancelled():
+    tenino = _bd_source("tenino", [{"title": "School Board Regular Meeting", "when": "4th Monday", "time": "18:00"}])
+    (e,) = build.fetch_schedule(tenino, date(2026, 11, 23), date(2026, 11, 30), TZ, snapshot=_bd_snapshot())
+    assert (e["start"][11:16], e["location"]) == ("18:30", "Tenino School District - Boardroom")
+    wishkah = _bd_source("wishkah", [{"title": "School Board Regular Meeting", "when": "4th Thursday", "time": "17:00", "holidays": "skip"}])
+    (w,) = build.fetch_schedule(wishkah, date(2026, 11, 23), date(2026, 11, 30), TZ, snapshot=_bd_snapshot())
+    assert w["cancelled"] and w["title"] == "School Board Regular Meeting" and w["start"][11:16] == "17:00"
+
+
+def test_boarddocs_falls_back_to_pattern():
+    snap = _bd_snapshot()
+    for slug in ("selah", "nowhere"):   # a failed board, and one missing from the snapshot
+        src = _bd_source(slug, [{"title": "School Board Business Meeting", "when": "4th Thursday", "time": "16:30"}])
+        days = [e["start"][:10] for e in build.fetch_schedule(src, date(2026, 12, 1), date(2027, 1, 31), TZ, snapshot=snap)]
+        assert days == ["2026-12-24", "2027-01-28"] or days == ["2026-12-28", "2027-01-28"]
+    # Nothing posted: the pattern from the snapshot date on.
+    yak = _bd_source("yakima", [{"title": "School Board Meeting", "when": "1st Monday", "time": "16:00"}])
+    assert [e["start"][:10] for e in build.fetch_schedule(yak, date(2026, 12, 1), date(2027, 1, 31), TZ, snapshot=snap)] == ["2026-12-07", "2027-01-04"]
+
+
+def test_boarddocs_stale_snapshot_ignored(tmp_path, monkeypatch):
+    stale = _bd_snapshot() | {"fetched_at": "2026-10-01T00:00:00+00:00"}
+    path = tmp_path / "boarddocs.json"
+    path.write_text(json.dumps(stale))
+    monkeypatch.setattr(build, "BOARDDOCS_SNAPSHOT", path)
+    monkeypatch.setattr(build, "_bd_cache", {})
+    assert build.boarddocs_snapshot(now=datetime(2026, 11, 23, tzinfo=TZ)) is None

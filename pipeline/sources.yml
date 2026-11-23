@@ -3700,6 +3700,7 @@ sources:
   - id: yakima-schools
     name: Yakima School District
     type: schedule
+    boarddocs: yakima   # posted meetings come from the BoardDocs snapshot
     county: Yakima
     area: Yakima
     category: school
@@ -3722,6 +3723,7 @@ sources:
   - id: meridian-schools
     name: Meridian School District
     type: schedule
+    boarddocs: msdwa   # posted meetings come from the BoardDocs snapshot
     county: Whatcom
     area: Bellingham
     category: school
@@ -3747,6 +3749,7 @@ sources:
   - id: south-kitsap-schools
     name: South Kitsap School District
     type: schedule
+    boarddocs: sksdwa   # posted meetings come from the BoardDocs snapshot
     county: Kitsap
     area: Port Orchard
     category: school
@@ -3782,6 +3785,7 @@ sources:
   - id: puyallup-schools
     name: Puyallup School District
     type: schedule
+    boarddocs: psd   # posted meetings come from the BoardDocs snapshot
     county: Pierce
     area: Puyallup
     category: school
@@ -3799,6 +3803,7 @@ sources:
   - id: lakewood-schools
     name: Lakewood School District
     type: schedule
+    boarddocs: lakewood   # posted meetings come from the BoardDocs snapshot
     county: Snohomish
     area: Arlington
     category: school
@@ -3814,6 +3819,7 @@ sources:
   - id: selah-schools
     name: Selah School District
     type: schedule
+    boarddocs: selah   # posted meetings come from the BoardDocs snapshot
     county: Yakima
     area: Selah
     category: school
@@ -3837,6 +3843,7 @@ sources:
   - id: ferndale-schools
     name: Ferndale School District
     type: schedule
+    boarddocs: ferndale   # posted meetings come from the BoardDocs snapshot
     county: Whatcom
     area: Ferndale
     category: school
@@ -3852,6 +3859,7 @@ sources:
   - id: coupeville-schools
     name: Coupeville School District
     type: schedule
+    boarddocs: coupeville   # posted meetings come from the BoardDocs snapshot
     county: Island
     area: Coupeville
     category: school
@@ -3870,6 +3878,7 @@ sources:
   - id: concrete-schools
     name: Concrete School District
     type: schedule
+    boarddocs: concrete   # posted meetings come from the BoardDocs snapshot
     county: Skagit
     area: Concrete
     category: school
@@ -3891,6 +3900,7 @@ sources:
   - id: tenino-schools
     name: Tenino School District
     type: schedule
+    boarddocs: tenino   # posted meetings come from the BoardDocs snapshot
     county: Thurston
     area: Tenino
     category: school
@@ -3906,6 +3916,7 @@ sources:
   - id: mary-walker-schools
     name: Mary Walker School District
     type: schedule
+    boarddocs: marywalker   # posted meetings come from the BoardDocs snapshot
     county: Stevens
     area: Springdale
     category: school
@@ -3919,24 +3930,21 @@ sources:
         location: "Mary Walker High School Library, Springdale"
         url: https://go.boarddocs.com/wa/marywalker/Board.nsf/Public
 
+  # The district's own Edlio calendar, "School Board Meeting Calendar".
   - id: toutle-lake-schools
     name: Toutle Lake School District
-    type: schedule
+    type: ics
+    url: https://www.toutlesd.org/apps/events/ical/?id=3
     county: Cowlitz
     area: Toutle
     category: school
     default_category: school
     homepage: https://go.boarddocs.com/wa/toutlesd/Board.nsf/Public
-    meetings:
-      - title: School Board Regular Meeting
-        when: 4th Tuesday
-        time: "18:00"
-        location: "High School Library, Toutle"
-        url: https://go.boarddocs.com/wa/toutlesd/Board.nsf/Public
 
   - id: winlock-schools
     name: Winlock School District
     type: schedule
+    boarddocs: winlock   # posted meetings come from the BoardDocs snapshot
     county: Lewis
     area: Winlock
     category: school
@@ -3952,6 +3960,7 @@ sources:
   - id: wishkah-valley-schools
     name: Wishkah Valley School District
     type: schedule
+    boarddocs: wishkah   # posted meetings come from the BoardDocs snapshot
     county: Grays Harbor
     area: Aberdeen
     category: school
