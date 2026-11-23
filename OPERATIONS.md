@@ -97,7 +97,6 @@ the district's board page, as `type: schedule` with `when` or adopted `dates`:
 - Eastmont
 - Elma
 - Ephrata
-- Federal Way
 - Ferndale
 - Fife
 - Glenwood
@@ -108,7 +107,6 @@ the district's board page, as `type: schedule` with `when` or adopted `dates`:
 - Kahlotus
 - Kalama
 - Keller
-- Kennewick
 - Kittitas
 - La Center
 - Lake Chelan
@@ -119,7 +117,6 @@ the district's board page, as `type: schedule` with `when` or adopted `dates`:
 - Lyle
 - Mansfield
 - Mary Walker
-- Mead
 - Medical Lake
 - Meridian
 - Methow Valley
@@ -151,7 +148,6 @@ the district's board page, as `type: schedule` with `when` or adopted `dates`:
 - Selah
 - Selkirk
 - Shaw Island
-- Snohomish
 - South Bend
 - South Kitsap
 - Sprague
@@ -159,7 +155,6 @@ the district's board page, as `type: schedule` with `when` or adopted `dates`:
 - Starbuck
 - Stehekin
 - Stevenson-Carson
-- Tahoma
 - Tenino
 - Toledo
 - Toutle Lake
