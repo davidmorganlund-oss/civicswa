@@ -1,0 +1,803 @@
+sources:
+- id: port-of-benton
+  name: Port of Benton
+  county: Benton
+  area: countywide
+  type: ics
+  url: https://portofbenton.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://portofbenton.com/
+- id: port-of-kalama
+  name: Port of Kalama
+  county: Cowlitz
+  area: countywide
+  type: ics
+  url: https://portofkalama.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://portofkalama.com/
+- id: port-of-port-townsend
+  name: Port of Port Townsend
+  county: Jefferson
+  area: countywide
+  type: ics
+  url: https://portofpt.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://portofpt.com/
+- id: port-of-anacortes
+  name: Port of Anacortes
+  county: Skagit
+  area: countywide
+  type: ics
+  url: https://www.portofanacortes.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.portofanacortes.com/
+- id: port-of-skagit
+  name: Port of Skagit
+  county: Skagit
+  area: countywide
+  type: ics
+  url: https://portofskagit.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.portofskagit.com/
+- id: port-of-kingston
+  name: Port of Kingston
+  county: Kitsap
+  area: countywide
+  type: ics
+  url: https://portofkingston.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://portofkingston.org/
+- id: port-of-chehalis
+  name: Port of Chehalis
+  county: Lewis
+  area: countywide
+  type: ics
+  url: https://portofchehalis.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://portofchehalis.com/
+- id: port-of-woodland
+  name: Port of Woodland
+  county: Cowlitz
+  area: countywide
+  type: ics
+  url: https://portofwoodland.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://portofwoodland.com/
+- id: douglas-county-pud
+  name: Douglas County PUD
+  county: Douglas
+  area: countywide
+  type: ics
+  url: https://douglaspud.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://douglaspud.org/
+- id: ben-franklin-transit
+  name: Ben Franklin Transit
+  county: Benton
+  area: countywide
+  type: ics
+  url: https://www.bft.org/calendar/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.bft.org/
+- id: link-transit
+  name: Link Transit
+  county: Chelan
+  area: countywide
+  type: ics
+  url: https://www.linktransit.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.linktransit.com/
+- id: pierce-transit
+  name: Pierce Transit
+  county: Pierce
+  area: countywide
+  type: ics
+  url: https://piercetransit.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.piercetransit.org/
+- id: tacoma-pierce-county-health-department
+  name: Tacoma-Pierce County Health Department
+  county: Pierce
+  area: countywide
+  type: ics
+  url: https://tpchd.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://tpchd.org/
+- id: tacoma-housing-authority
+  name: Tacoma Housing Authority
+  county: Pierce
+  area: countywide
+  type: ics
+  url: https://www.tacomahousing.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.tacomahousing.org/
+- id: puget-sound-regional-fire-authority
+  name: Puget Sound Regional Fire Authority
+  county: King
+  area: countywide
+  type: ics
+  url: https://pugetsoundfire.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.pugetsoundfire.org/
+- id: west-pierce-fire-rescue
+  name: West Pierce Fire & Rescue
+  county: Pierce
+  area: countywide
+  type: ics
+  url: https://www.westpierce.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.westpierce.org/
+- id: east-pierce-fire-rescue
+  name: East Pierce Fire & Rescue
+  county: Pierce
+  area: countywide
+  type: ics
+  url: https://www.eastpiercefire.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.eastpiercefire.org/
+- id: south-king-fire
+  name: South King Fire
+  county: King
+  area: countywide
+  type: ics
+  url: https://www.southkingfire.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://southkingfire.org/
+- id: central-pierce-fire-rescue
+  name: Central Pierce Fire & Rescue
+  county: Pierce
+  area: countywide
+  type: ics
+  url: https://www.centralpiercefire.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.centralpiercefire.org/
+- id: whidbeyhealth
+  name: WhidbeyHealth
+  county: Island
+  area: countywide
+  type: ics
+  url: https://whidbeyhealth.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://whidbeyhealth.org/
+- id: whatcom-pud
+  name: Whatcom PUD
+  county: Whatcom
+  area: countywide
+  type: ics
+  url: https://www.pudwhatcom.org/ics/8749
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.pudwhatcom.org/
+- id: port-of-friday-harbor
+  name: Port of Friday Harbor
+  county: San Juan
+  area: countywide
+  type: ics
+  url: https://calendar.google.com/calendar/ical/01g9lu10be80t47qfni7pdlhik%40group.calendar.google.com/public/basic.ics
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.portfridayharbor.org/
+- id: port-of-vancouver-usa
+  name: Port of Vancouver USA
+  county: Clark
+  area: countywide
+  type: ics
+  url: https://www.portvanusa.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.portvanusa.com/
+- id: port-of-kennewick
+  name: Port of Kennewick
+  county: Benton
+  area: countywide
+  type: ics
+  url: https://www.portofkennewick.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.portofkennewick.org/
+- id: port-of-port-angeles
+  name: Port of Port Angeles
+  county: Clallam
+  area: countywide
+  type: ics
+  url: https://www.portofpa.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.portofpa.com/
+- id: port-of-edmonds
+  name: Port of Edmonds
+  county: Snohomish
+  area: countywide
+  type: ics
+  url: https://www.portofedmonds.gov/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.portofedmonds.gov/
+- id: port-of-camas-washougal
+  name: Port of Camas-Washougal
+  county: Clark
+  area: countywide
+  type: ics
+  url: https://portcw.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://portcw.com/
+- id: port-of-shelton
+  name: Port of Shelton
+  county: Mason
+  area: countywide
+  type: ics
+  url: https://www.portofshelton.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.portofshelton.com/
+- id: port-of-centralia
+  name: Port of Centralia
+  county: Lewis
+  area: countywide
+  type: ics
+  url: https://www.portofcentralia.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.portofcentralia.com/
+- id: port-of-clarkston
+  name: Port of Clarkston
+  county: Asotin
+  area: countywide
+  type: ics
+  url: https://portofclarkston.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://portofclarkston.com/
+- id: port-of-quincy
+  name: Port of Quincy
+  county: Grant
+  area: countywide
+  type: ics
+  url: https://portofquincy.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://portofquincy.org/
+- id: snohomish-county-pud
+  name: Snohomish County PUD
+  county: Snohomish
+  area: countywide
+  type: ics
+  url: https://www.snopud.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.snopud.com/
+- id: clark-public-utilities
+  name: Clark Public Utilities
+  county: Clark
+  area: countywide
+  type: ics
+  url: https://www.clarkpublicutilities.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.clarkpublicutilities.com/
+- id: cowlitz-pud
+  name: Cowlitz PUD
+  county: Cowlitz
+  area: countywide
+  type: ics
+  url: https://www.cowlitzpud.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.cowlitzpud.org/
+- id: franklin-pud
+  name: Franklin PUD
+  county: Franklin
+  area: countywide
+  type: ics
+  url: https://www.franklinpud.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.franklinpud.com/
+- id: grays-harbor-pud
+  name: Grays Harbor PUD
+  county: Grays Harbor
+  area: countywide
+  type: ics
+  url: https://www.ghpud.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.ghpud.org/
+- id: mason-county-pud-3
+  name: Mason County PUD 3
+  county: Mason
+  area: countywide
+  type: ics
+  url: https://www.pud3.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.pud3.org/
+- id: mason-county-pud-1
+  name: Mason County PUD 1
+  county: Mason
+  area: countywide
+  type: ics
+  url: https://mason-pud1.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://mason-pud1.org/
+- id: lewis-county-pud
+  name: Lewis County PUD
+  county: Lewis
+  area: countywide
+  type: ics
+  url: https://www.lcpud.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.lcpud.org/
+- id: pacific-county-pud-2
+  name: Pacific County PUD 2
+  county: Pacific
+  area: countywide
+  type: ics
+  url: https://www.pacificpud.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.pacificpud.org/
+- id: okanogan-county-pud
+  name: Okanogan County PUD
+  county: Okanogan
+  area: countywide
+  type: ics
+  url: https://www.okanoganpud.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.okanoganpud.org/
+- id: kitsap-pud
+  name: Kitsap PUD
+  county: Kitsap
+  area: countywide
+  type: ics
+  url: https://www.kpud.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.kpud.org/
+- id: ferry-county-pud
+  name: Ferry County PUD
+  county: Ferry
+  area: countywide
+  type: ics
+  url: https://www.fcpud.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.fcpud.com/
+- id: skamania-pud
+  name: Skamania PUD
+  county: Skamania
+  area: countywide
+  type: ics
+  url: https://www.skamaniapud.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.skamaniapud.com/
+- id: asotin-county-pud
+  name: Asotin County PUD
+  county: Asotin
+  area: countywide
+  type: ics
+  url: https://www.asotinpud.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.asotinpud.org/
+- id: valley-transit
+  name: Valley Transit
+  county: Walla Walla
+  area: countywide
+  type: ics
+  url: https://www.valleytransit.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.valleytransit.com/
+- id: twin-transit
+  name: Twin Transit
+  county: Lewis
+  area: countywide
+  type: ics
+  url: https://twintransit.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://twintransit.org/
+- id: grays-harbor-transit
+  name: Grays Harbor Transit
+  county: Grays Harbor
+  area: countywide
+  type: ics
+  url: https://www.ghtransit.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.ghtransit.com/
+- id: mason-transit-authority
+  name: Mason Transit Authority
+  county: Mason
+  area: countywide
+  type: ics
+  url: https://www.masontransit.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.masontransit.org/
+- id: pacific-transit
+  name: Pacific Transit
+  county: Pacific
+  area: countywide
+  type: ics
+  url: https://www.pacifictransit.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.pacifictransit.org/
+- id: rivercities-transit
+  name: RiverCities Transit
+  county: Cowlitz
+  area: countywide
+  type: ics
+  url: https://www.rctransit.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.rctransit.org/
+- id: king-county-housing-authority
+  name: King County Housing Authority
+  county: King
+  area: countywide
+  type: ics
+  url: https://www.kcha.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.kcha.org/
+- id: clark-cowlitz-fire-rescue
+  name: Clark-Cowlitz Fire Rescue
+  county: Clark
+  area: countywide
+  type: ics
+  url: https://clarkfr.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://clarkfr.org/
+- id: central-kitsap-fire-rescue
+  name: Central Kitsap Fire & Rescue
+  county: Kitsap
+  area: countywide
+  type: ics
+  url: https://www.ckfr.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.ckfr.org/
+- id: south-kitsap-fire-rescue
+  name: South Kitsap Fire & Rescue
+  county: Kitsap
+  area: countywide
+  type: ics
+  url: https://skfr.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://skfr.org/
+- id: renton-regional-fire-authority
+  name: Renton Regional Fire Authority
+  county: King
+  area: countywide
+  type: ics
+  url: https://rentonrfa.com/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://rentonrfa.com/
+- id: valley-regional-fire-authority
+  name: Valley Regional Fire Authority
+  county: King
+  area: countywide
+  type: ics
+  url: https://www.vrfa.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.vrfa.org/
+- id: jefferson-healthcare
+  name: Jefferson Healthcare
+  county: Jefferson
+  area: countywide
+  type: ics
+  url: https://jeffersonhealthcare.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://jeffersonhealthcare.org/
+- id: kittitas-valley-healthcare
+  name: Kittitas Valley Healthcare
+  county: Kittitas
+  area: countywide
+  type: ics
+  url: https://www.kvhealthcare.org/events/?ical=1
+  include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council
+  exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair
+  default_category: council
+  homepage: https://www.kvhealthcare.org/
+- id: port-of-bellingham
+  name: Port of Bellingham
+  county: Whatcom
+  area: countywide
+  type: civicplus
+  site: https://www.portofbellingham.com
+  categories:
+  - 22
+  default_category: council
+  homepage: https://www.portofbellingham.com/Calendar.aspx
+- id: port-of-bremerton
+  name: Port of Bremerton
+  county: Kitsap
+  area: countywide
+  type: civicplus
+  site: https://www.portofbremerton.org
+  categories:
+  - 23
+  default_category: council
+  homepage: https://www.portofbremerton.org/Calendar.aspx
+- id: kittitas-county-pud
+  name: Kittitas County PUD
+  county: Kittitas
+  area: countywide
+  type: civicplus
+  site: https://www.kittitaspud.com
+  categories:
+  - 22
+  default_category: council
+  homepage: https://www.kittitaspud.com/Calendar.aspx
+- id: jefferson-transit
+  name: Jefferson Transit
+  county: Jefferson
+  area: countywide
+  type: civicplus
+  site: https://jeffersontransit.com
+  categories:
+  - 23
+  - 24
+  default_category: council
+  homepage: https://jeffersontransit.com/Calendar.aspx
+- id: puget-sound-clean-air-agency
+  name: Puget Sound Clean Air Agency
+  county: King
+  area: countywide
+  type: civicplus
+  site: https://pscleanair.gov
+  categories:
+  - 25
+  - 26
+  default_category: council
+  homepage: https://pscleanair.gov/Calendar.aspx
+- id: snohomish-county-health-department
+  name: Snohomish County Health Department
+  county: Snohomish
+  area: countywide
+  type: civicplus
+  site: https://www.snohd.org
+  categories:
+  - 27
+  default_category: council
+  homepage: https://www.snohd.org/Calendar.aspx
+- id: eastside-fire-rescue
+  name: Eastside Fire & Rescue
+  county: King
+  area: countywide
+  type: civicplus
+  site: https://www.eastsidefire-rescue.org
+  categories:
+  - 26
+  default_category: council
+  homepage: https://www.eastsidefire-rescue.org/Calendar.aspx
+- id: spokane-valley-fire-department
+  name: Spokane Valley Fire Department
+  county: Spokane
+  area: countywide
+  type: civicplus
+  site: https://www.spokanevalleyfire.com
+  categories:
+  - 23
+  default_category: council
+  homepage: https://www.spokanevalleyfire.com/Calendar.aspx
+- id: tacoma-public-utilities
+  name: Tacoma Public Utility Board
+  county: Pierce
+  area: Tacoma
+  type: granicus
+  tenant: cityoftacoma
+  view_id: 30
+  default_category: council
+  homepage: https://www.mytpu.org/
+- id: psrc
+  name: Puget Sound Regional Council
+  county: King
+  area: countywide
+  type: granicus
+  tenant: psrc2
+  view_id: 1
+  default_category: council
+  homepage: https://www.psrc.org/
+- id: clallam-county-pud
+  name: Clallam County PUD
+  county: Clallam
+  area: countywide
+  type: civicweb
+  base: https://clallampud.community.diligentoneplatform.com
+  default_category: council
+  homepage: https://www.clallampud.net/
+- id: grant-transit-authority
+  name: Grant Transit Authority
+  county: Grant
+  area: countywide
+  type: civicweb
+  base: https://granttransit.civicweb.net
+  default_category: council
+  homepage: https://www.granttransit.com/
+- id: lg-portseattle
+  name: Port of Seattle
+  county: King
+  area: countywide
+  type: legistar
+  client: portseattle
+  default_category: council
+  homepage: https://www.portseattle.org/
+- id: lg-soundtransit
+  name: Sound Transit
+  county: King
+  area: countywide
+  type: legistar
+  client: soundtransit
+  default_category: council
+  homepage: https://www.soundtransit.org/
+- id: lg-portoftacoma
+  name: Port of Tacoma
+  county: Pierce
+  area: countywide
+  type: legistar
+  client: portoftacoma
+  default_category: council
+  homepage: https://www.portoftacoma.com/
+- id: lg-communitytransit
+  name: Community Transit
+  county: Snohomish
+  area: countywide
+  type: legistar
+  client: communitytransit
+  default_category: council
+  homepage: https://www.communitytransit.org/
+- id: lg-snopud
+  name: Snohomish County PUD (Legistar)
+  county: Snohomish
+  area: countywide
+  type: legistar
+  client: snopud
+  default_category: council
+  homepage: ''
+- id: lg-c-tran
+  name: C-TRAN
+  county: Clark
+  area: countywide
+  type: legistar
+  client: c-tran
+  default_category: council
+  homepage: https://www.c-tran.com/
+- id: lg-spokanetransit
+  name: Spokane Transit Authority
+  county: Spokane
+  area: countywide
+  type: legistar
+  client: spokanetransit
+  default_category: council
+  homepage: https://www.spokanetransit.com/
+- id: lg-intercitytransit
+  name: Intercity Transit
+  county: Thurston
+  area: countywide
+  type: legistar
+  client: intercitytransit
+  default_category: council
+  homepage: https://www.intercitytransit.com/
+- id: lg-kitsaptransit
+  name: Kitsap Transit
+  county: Kitsap
+  area: countywide
+  type: legistar
+  client: kitsaptransit
+  default_category: council
+  homepage: https://www.kitsaptransit.com/
+- id: lg-chelanpud
+  name: Chelan County PUD
+  county: Chelan
+  area: countywide
+  type: legistar
+  client: chelanpud
+  default_category: council
+  homepage: https://www.chelanpud.org/
+- id: lg-grantpud
+  name: Grant County PUD
+  county: Grant
+  area: countywide
+  type: legistar
+  client: grantpud
+  default_category: council
+  homepage: https://www.grantpud.org/
+- id: lg-portofeverett
+  name: Port of Everett
+  county: Snohomish
+  area: countywide
+  type: legistar
+  client: portofeverett
+  default_category: council
+  homepage: https://www.portofeverett.com/
