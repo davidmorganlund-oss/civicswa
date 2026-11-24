@@ -1,189 +1,1789 @@
 {
-  "_note": "Official websites and boards/commissions pages for Washington counties and the largest cities. Each link was opened and checked in November 2026. 'appoints' marks a county with no boards page, where we link the commissioners who make appointments instead. 'meetings' is the county's own meetings or commissioners page, for counties whose calendar CivicsWA can't read yet.",
+  "_note": "Official websites and boards/commissions pages for Washington counties and the largest cities. Each link was opened and checked in November 2026. 'appoints' marks a county with no boards page, where we link the commissioners who make appointments instead. 'meetings' is the county's own meetings or commissioners page, for counties whose calendar CivicsWA can't read yet. Added November 2026: more cities; each county's 'schools' (school districts, from OSPI's district directory) and 'districts' (educational service districts, ports, libraries, and public utility, transit and public hospital districts). Each address is the district's own website; where a site blocked automated checks we kept the official address and opened it by hand later.",
   "counties": {
     "Adams": {
       "site": "https://www.co.adams.wa.gov/",
       "boards": "https://www.co.adams.wa.gov/264/Board-of-Commissioners",
-      "appoints": true
+      "appoints": true,
+      "schools": [
+        {
+          "name": "Othello School District",
+          "site": "http://www.othello.wednet.edu/"
+        }
+      ],
+      "districts": [
+        {
+          "name": "NorthEast Washington ESD 101",
+          "kind": "esd",
+          "site": "https://www.esd101.net/"
+        },
+        {
+          "name": "East Adams Rural Healthcare (Adams County Public Hospital District No. 2)",
+          "kind": "hospital",
+          "site": "https://www.earh.org/"
+        },
+        {
+          "name": "Othello Community Hospital (Adams County Public Hospital District No. 3)",
+          "kind": "hospital",
+          "site": "https://www.othellocommunityhospital.org/"
+        }
+      ]
     },
     "Asotin": {
       "site": "https://www.asotincountywa.gov/",
-      "boards": "https://www.asotincountywa.gov/249/Boards-Commissions"
+      "boards": "https://www.asotincountywa.gov/249/Boards-Commissions",
+      "districts": [
+        {
+          "name": "ESD 123",
+          "kind": "esd",
+          "site": "https://www.esd123.org/"
+        },
+        {
+          "name": "Port of Clarkston",
+          "kind": "port",
+          "site": "https://portofclarkston.com/"
+        },
+        {
+          "name": "Asotin County Library",
+          "kind": "library",
+          "site": "https://www.asotincountylibrary.org/"
+        },
+        {
+          "name": "Asotin County Public Utility District",
+          "kind": "utility",
+          "site": "https://asotinpud.org/"
+        },
+        {
+          "name": "Asotin County Public Transportation Benefit Area (Asotin County Transit)",
+          "kind": "transit",
+          "site": "https://ridethevalley.org/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Asotin-Anatone School District",
+          "site": "https://www.aasd.wednet.edu/"
+        }
+      ]
     },
     "Benton": {
       "site": "https://www.bentoncountywa.gov/",
-      "boards": "https://www.bentoncountywa.gov/government/boards_and_commissions/index.php"
+      "boards": "https://www.bentoncountywa.gov/government/boards_and_commissions/index.php",
+      "districts": [
+        {
+          "name": "ESD 123",
+          "kind": "esd",
+          "site": "https://www.esd123.org/"
+        },
+        {
+          "name": "Port of Benton",
+          "kind": "port",
+          "site": "https://portofbenton.com/"
+        },
+        {
+          "name": "Port of Kennewick",
+          "kind": "port",
+          "site": "https://portofkennewick.org/"
+        },
+        {
+          "name": "Benton PUD (Public Utility District No. 1 of Benton County)",
+          "kind": "utility",
+          "site": "https://www.bentonpud.org/"
+        },
+        {
+          "name": "Prosser Memorial Health (Prosser Public Hospital District)",
+          "kind": "hospital",
+          "site": "https://www.prosserhealth.org:443/"
+        },
+        {
+          "name": "Two Rivers Health District (Kennewick Public Hospital District)",
+          "kind": "hospital",
+          "site": "https://kenkphd.com/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Paterson School District",
+          "site": "https://www.patersonschool.org/"
+        }
+      ]
     },
     "Chelan": {
       "site": "https://co.chelan.wa.us/",
       "boards": "https://co.chelan.wa.us/board-of-commissioners",
       "appoints": true,
-      "meetings": "https://co.chelan.wa.us/board-of-commissioners"
+      "meetings": "https://co.chelan.wa.us/board-of-commissioners",
+      "districts": [
+        {
+          "name": "North Central ESD 171",
+          "kind": "esd",
+          "site": "https://www.ncesd.org/"
+        },
+        {
+          "name": "Port of Chelan County (Chelan Douglas Regional Port Authority)",
+          "kind": "port",
+          "site": "https://www.cdrpa.org/"
+        },
+        {
+          "name": "North Central Regional Library",
+          "kind": "library",
+          "site": "https://www.ncrl.org/"
+        },
+        {
+          "name": "Chelan PUD (Public Utility District No. 1 of Chelan County)",
+          "kind": "utility",
+          "site": "https://www.chelanpud.org/"
+        },
+        {
+          "name": "Link Transit (Chelan-Douglas PTBA)",
+          "kind": "transit",
+          "site": "https://www.linktransit.com/"
+        },
+        {
+          "name": "Cascade Medical (Chelan County Public Hospital District No. 1)",
+          "kind": "hospital",
+          "site": "https://cascademedical.org/"
+        },
+        {
+          "name": "Lake Chelan Health (Chelan County Public Hospital District No. 2)",
+          "kind": "hospital",
+          "site": "https://lakechelanhealth.org/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Lake Chelan School District",
+          "site": "https://www.chelanschools.org/"
+        },
+        {
+          "name": "Stehekin School District",
+          "site": "https://stehekinschool.org/"
+        },
+        {
+          "name": "Wenatchee School District",
+          "site": "https://www.wenatcheeschools.org/"
+        }
+      ]
     },
     "Clallam": {
       "site": "https://clallamcountywa.gov/",
-      "boards": "https://clallamcountywa.gov/DocumentCenter/View/8333/Boards-Committees-and-Commissions-Vacancy-List"
+      "boards": "https://clallamcountywa.gov/DocumentCenter/View/8333/Boards-Committees-and-Commissions-Vacancy-List",
+      "districts": [
+        {
+          "name": "Olympic ESD 114",
+          "kind": "esd",
+          "site": "https://www.oesd114.org/"
+        },
+        {
+          "name": "Port of Port Angeles",
+          "kind": "port",
+          "site": "https://portofpa.com/"
+        },
+        {
+          "name": "Public Utility District No. 1 of Clallam County",
+          "kind": "utility",
+          "site": "https://www.clallampud.net/"
+        },
+        {
+          "name": "Clallam Transit System",
+          "kind": "transit",
+          "site": "https://www.clallamtransit.com/"
+        },
+        {
+          "name": "Forks Community Hospital (Clallam County Public Hospital District No. 1)",
+          "kind": "hospital",
+          "site": "https://www.forkshospital.org/"
+        },
+        {
+          "name": "Olympic Medical Center (Clallam County Public Hospital District No. 2)",
+          "kind": "hospital",
+          "site": "https://www.olympicmedical.org:443/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Crescent School District",
+          "site": "https://www.crescentschooldistrict.org/"
+        }
+      ]
     },
     "Clark": {
       "site": "https://clark.wa.gov/",
       "boards": "https://clark.wa.gov/councilors/advisory-boards-and-commissions",
-      "meetings": "https://clark.wa.gov/councilors"
+      "meetings": "https://clark.wa.gov/councilors",
+      "districts": [
+        {
+          "name": "ESD 112",
+          "kind": "esd",
+          "site": "https://www.esd112.org/"
+        },
+        {
+          "name": "Port of Camas-Washougal",
+          "kind": "port",
+          "site": "https://portcw.com/"
+        },
+        {
+          "name": "Port of Ridgefield",
+          "kind": "port",
+          "site": "https://portridgefield.org/"
+        },
+        {
+          "name": "Port of Vancouver",
+          "kind": "port",
+          "site": "https://www.portvanusa.com/"
+        },
+        {
+          "name": "Clark Public Utilities (Public Utility District No. 1 of Clark County)",
+          "kind": "utility",
+          "site": "https://www.clarkpublicutilities.com/"
+        },
+        {
+          "name": "C-TRAN (Clark County PTBA)",
+          "kind": "transit",
+          "site": "https://www.c-tran.com/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "La Center School District",
+          "site": "https://lacenterschools.org/"
+        }
+      ]
     },
     "Columbia": {
       "site": "https://www.columbiaco.com/",
-      "boards": "https://www.columbiaco.com/19/Boards-Commissions"
+      "boards": "https://www.columbiaco.com/19/Boards-Commissions",
+      "districts": [
+        {
+          "name": "ESD 123",
+          "kind": "esd",
+          "site": "https://www.esd123.org/"
+        },
+        {
+          "name": "Port of Columbia",
+          "kind": "port",
+          "site": "https://portofcolumbia.org/"
+        },
+        {
+          "name": "Columbia County Rural Library District",
+          "kind": "library",
+          "site": "https://www.ccrld.org/"
+        },
+        {
+          "name": "Columbia County Public Transportation",
+          "kind": "transit",
+          "site": "https://ccptransit.org/"
+        },
+        {
+          "name": "Columbia County Health System (Columbia County Public Hospital District No. 1)",
+          "kind": "hospital",
+          "site": "https://cchd-wa.org/"
+        }
+      ]
     },
     "Cowlitz": {
       "site": "https://www.co.cowlitz.wa.us/",
-      "boards": "https://www.co.cowlitz.wa.us/553/Volunteer-Boards-Committees"
+      "boards": "https://www.co.cowlitz.wa.us/553/Volunteer-Boards-Committees",
+      "districts": [
+        {
+          "name": "ESD 112",
+          "kind": "esd",
+          "site": "https://www.esd112.org/"
+        },
+        {
+          "name": "Port of Kalama",
+          "kind": "port",
+          "site": "https://portofkalama.com/"
+        },
+        {
+          "name": "Port of Longview",
+          "kind": "port",
+          "site": "https://www.portoflongview.com/"
+        },
+        {
+          "name": "Port of Woodland",
+          "kind": "port",
+          "site": "https://portofwoodland.com/"
+        },
+        {
+          "name": "Kelso Public Library",
+          "kind": "library",
+          "site": "https://www.kelso.gov/library"
+        },
+        {
+          "name": "Longview Public Library",
+          "kind": "library",
+          "site": "https://www.longviewlibrary.org/743/Library"
+        },
+        {
+          "name": "Public Utility District No. 1 of Cowlitz County",
+          "kind": "utility",
+          "site": "https://www.cowlitzpud.org/"
+        },
+        {
+          "name": "RiverCities Transit (Cowlitz Transit Authority)",
+          "kind": "transit",
+          "site": "https://rctransit.org/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Kalama School District",
+          "site": "https://www.kalamaschools.org/"
+        },
+        {
+          "name": "Longview School District",
+          "site": "https://www.longviewschools.com/"
+        }
+      ]
     },
     "Douglas": {
       "site": "https://www.douglascountywa.gov/",
-      "boards": "https://www.douglascountywa.gov/281/Boards-Commissions"
+      "boards": "https://www.douglascountywa.gov/281/Boards-Commissions",
+      "districts": [
+        {
+          "name": "North Central ESD 171",
+          "kind": "esd",
+          "site": "https://www.ncesd.org/"
+        },
+        {
+          "name": "Port of Douglas County (Chelan Douglas Regional Port Authority)",
+          "kind": "port",
+          "site": "https://www.cdrpa.org/"
+        },
+        {
+          "name": "North Central Regional Library",
+          "kind": "library",
+          "site": "https://www.ncrl.org/"
+        },
+        {
+          "name": "Public Utility District No. 1 of Douglas County",
+          "kind": "utility",
+          "site": "https://douglaspud.org/"
+        },
+        {
+          "name": "Link Transit (Chelan-Douglas PTBA)",
+          "kind": "transit",
+          "site": "https://www.linktransit.com/"
+        },
+        {
+          "name": "Coulee Medical Center (Douglas, Grant, Lincoln and Okanogan Counties Public Hospital District No. 6)",
+          "kind": "hospital",
+          "site": "https://cmccares.org/"
+        },
+        {
+          "name": "Three Rivers Hospital (Okanogan-Douglas Counties Public Hospital District No. 1)",
+          "kind": "hospital",
+          "site": "https://threerivershospital.net/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Mansfield School District",
+          "site": "https://www.mansfield.wednet.edu/"
+        },
+        {
+          "name": "Waterville School District",
+          "site": "https://www.waterville.wednet.edu/"
+        }
+      ]
     },
     "Ferry": {
       "site": "https://ferry-county.com/",
       "boards": "https://ferry-county.com/government/board_of_commissioners/index.php",
       "appoints": true,
-      "meetings": "https://ferry-county.com/government/board_of_commissioners/index.php"
+      "meetings": "https://ferry-county.com/government/board_of_commissioners/index.php",
+      "schools": [
+        {
+          "name": "Inchelium School District",
+          "site": "https://www.inchelium.wednet.edu/"
+        },
+        {
+          "name": "Keller School District",
+          "site": "https://www.keller.k12.wa.us/"
+        },
+        {
+          "name": "Orient No 65 School District",
+          "site": "https://orientsd.org/"
+        }
+      ],
+      "districts": [
+        {
+          "name": "NorthEast Washington ESD 101",
+          "kind": "esd",
+          "site": "https://www.esd101.net/"
+        },
+        {
+          "name": "North Central Regional Library",
+          "kind": "library",
+          "site": "https://www.ncrl.org/"
+        },
+        {
+          "name": "Public Utility District No. 1 of Ferry County",
+          "kind": "utility",
+          "site": "https://fcpud.com/"
+        },
+        {
+          "name": "Ferry County Health (Ferry County Public Hospital District No. 1)",
+          "kind": "hospital",
+          "site": "https://www.fcphd.org/"
+        }
+      ]
     },
     "Franklin": {
       "site": "https://franklincountywa.gov/",
-      "boards": "https://franklincountywa.gov/261/Boards-Commissions"
+      "boards": "https://franklincountywa.gov/261/Boards-Commissions",
+      "districts": [
+        {
+          "name": "ESD 123",
+          "kind": "esd",
+          "site": "https://www.esd123.org/"
+        },
+        {
+          "name": "Port of Pasco",
+          "kind": "port",
+          "site": "https://www.portofpasco.org/"
+        },
+        {
+          "name": "Franklin PUD (Public Utility District No. 1 of Franklin County)",
+          "kind": "utility",
+          "site": "https://www.franklinpud.com/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Kahlotus School District",
+          "site": "https://www.kahlotussd.org/"
+        }
+      ]
     },
     "Garfield": {
       "site": "https://www.garfieldcountywa.gov/",
       "boards": "https://www.garfieldcountywa.gov/bc",
-      "meetings": "https://www.garfieldcountywa.gov/bocc/page/board-county-commissioners"
+      "meetings": "https://www.garfieldcountywa.gov/bocc/page/board-county-commissioners",
+      "districts": [
+        {
+          "name": "ESD 123",
+          "kind": "esd",
+          "site": "https://www.esd123.org/"
+        },
+        {
+          "name": "Port of Garfield",
+          "kind": "port",
+          "site": "https://www.portofgarfield.com/"
+        },
+        {
+          "name": "Pomeroy (Denny Ashby) Library",
+          "kind": "library",
+          "site": "https://www.pomeroy.lib.wa.us/"
+        },
+        {
+          "name": "Garfield County Hospital District (Garfield County Public Hospital District No. 1)",
+          "kind": "hospital",
+          "site": "https://www.garfieldcountyhospital.com/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Pomeroy School District",
+          "site": "https://psd.wednet.edu/"
+        }
+      ]
     },
     "Grant": {
       "site": "https://www.grantcountywa.gov/",
-      "boards": "https://www.grantcountywa.gov/27/Boards-Commissions-Districts"
+      "boards": "https://www.grantcountywa.gov/27/Boards-Commissions-Districts",
+      "districts": [
+        {
+          "name": "North Central ESD 171",
+          "kind": "esd",
+          "site": "https://www.ncesd.org/"
+        },
+        {
+          "name": "Port of Ephrata",
+          "kind": "port",
+          "site": "https://portofephrata.gov/"
+        },
+        {
+          "name": "Port of Mattawa",
+          "kind": "port",
+          "site": "https://www.portofmattawa.org/"
+        },
+        {
+          "name": "Port of Moses Lake",
+          "kind": "port",
+          "site": "https://www.portofmoseslake.com/"
+        },
+        {
+          "name": "Port of Quincy",
+          "kind": "port",
+          "site": "https://www.portofquincy.org/"
+        },
+        {
+          "name": "Port of Warden",
+          "kind": "port",
+          "site": "https://www.portofwarden.com/"
+        },
+        {
+          "name": "North Central Regional Library",
+          "kind": "library",
+          "site": "https://www.ncrl.org/"
+        },
+        {
+          "name": "Grant PUD (Public Utility District No. 2 of Grant County)",
+          "kind": "utility",
+          "site": "https://www.grantpud.org/"
+        },
+        {
+          "name": "Grant Transit Authority",
+          "kind": "transit",
+          "site": "https://www.granttransit.com/"
+        },
+        {
+          "name": "Columbia Basin Hospital (Grant County Public Hospital District No. 3)",
+          "kind": "hospital",
+          "site": "https://www.columbiabasinhospital.org/"
+        },
+        {
+          "name": "Coulee Medical Center (Douglas, Grant, Lincoln and Okanogan Counties Public Hospital District No. 6)",
+          "kind": "hospital",
+          "site": "https://cmccares.org/"
+        },
+        {
+          "name": "Mattawa Community Medical Clinic (Grant County Public Hospital District No. 5)",
+          "kind": "hospital",
+          "site": "https://mattawacommunitymedicalclinic.org/"
+        },
+        {
+          "name": "McKay Healthcare and Rehabilitation Center (Grant County Public Hospital District No. 4)",
+          "kind": "hospital",
+          "site": "https://www.mckayhealthcare.net/"
+        },
+        {
+          "name": "Quincy Valley Medical Center (Grant County Public Hospital District No. 2)",
+          "kind": "hospital",
+          "site": "https://quincyhospital.org/"
+        },
+        {
+          "name": "Samaritan Healthcare (Grant County Public Hospital District No. 1)",
+          "kind": "hospital",
+          "site": "https://wearesamaritan.org/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Coulee-Hartline School District",
+          "site": "https://sites.google.com/view/coulee-hartline-sd/coulee-hartline-sd"
+        },
+        {
+          "name": "Ephrata School District",
+          "site": "https://ephrataschools.org/"
+        }
+      ]
     },
     "Grays Harbor": {
       "site": "https://www.graysharbor.gov/",
       "boards": "https://www.graysharbor.gov/departments/boards-committees/",
-      "meetings": "https://www.graysharbor.gov/government/commissioners/meetings-agendas/"
+      "meetings": "https://www.graysharbor.gov/government/commissioners/meetings-agendas/",
+      "districts": [
+        {
+          "name": "Capital Region ESD 113",
+          "kind": "esd",
+          "site": "https://www.esd113.org/"
+        },
+        {
+          "name": "Port of Grays Harbor",
+          "kind": "port",
+          "site": "https://www.portofgraysharbor.com/"
+        },
+        {
+          "name": "Public Utility District No. 1 of Grays Harbor County",
+          "kind": "utility",
+          "site": "https://www.ghpud.org/"
+        },
+        {
+          "name": "Grays Harbor Transportation Authority (Grays Harbor Transit)",
+          "kind": "transit",
+          "site": "https://ghtransit.com/"
+        },
+        {
+          "name": "Harbor Regional Health (Grays Harbor County Public Hospital District No. 2)",
+          "kind": "hospital",
+          "site": "https://www.ghcares.org/"
+        },
+        {
+          "name": "Summit Pacific Medical Center (Grays Harbor County Public Hospital District No. 1)",
+          "kind": "hospital",
+          "site": "https://summitpacificmedicalcenter.org/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Elma School District",
+          "site": "https://www.eagles.edu/"
+        },
+        {
+          "name": "North River School District",
+          "site": "https://www.nr.k12.wa.us/"
+        },
+        {
+          "name": "Oakville School District",
+          "site": "https://www.oakvilleschools.org/"
+        }
+      ]
     },
     "Island": {
       "site": "https://www.islandcountywa.gov/",
-      "boards": "https://www.islandcountywa.gov/567/Boards-and-Commissions"
+      "boards": "https://www.islandcountywa.gov/567/Boards-and-Commissions",
+      "districts": [
+        {
+          "name": "Northwest ESD 189",
+          "kind": "esd",
+          "site": "https://www.nwesd.org/"
+        },
+        {
+          "name": "Port of Coupeville",
+          "kind": "port",
+          "site": "https://portoc.org/"
+        },
+        {
+          "name": "Port of South Whidbey Island",
+          "kind": "port",
+          "site": "https://portofsouthwhidbey.com/"
+        },
+        {
+          "name": "Island Transit",
+          "kind": "transit",
+          "site": "https://www.islandtransit.org/"
+        },
+        {
+          "name": "WhidbeyHealth (Whidbey Island Public Hospital District)",
+          "kind": "hospital",
+          "site": "https://whidbeyhealth.org/"
+        }
+      ]
     },
     "Jefferson": {
       "site": "https://www.co.jefferson.wa.us/",
-      "boards": "https://www.co.jefferson.wa.us/1908/Boards-and-Commissions"
+      "boards": "https://www.co.jefferson.wa.us/1908/Boards-and-Commissions",
+      "schools": [
+        {
+          "name": "Quilcene School District",
+          "site": "https://www.qsd48.org/"
+        }
+      ],
+      "districts": [
+        {
+          "name": "Olympic ESD 114",
+          "kind": "esd",
+          "site": "https://www.oesd114.org/"
+        },
+        {
+          "name": "Jefferson County Rural Library District",
+          "kind": "library",
+          "site": "https://www.jclibrary.info/"
+        },
+        {
+          "name": "Public Utility District No. 1 of Jefferson County",
+          "kind": "utility",
+          "site": "http://www.jeffpud.org"
+        },
+        {
+          "name": "Jefferson Transit Authority",
+          "kind": "transit",
+          "site": "https://www.jeffersontransit.com/"
+        },
+        {
+          "name": "Jefferson Healthcare (Jefferson County Public Hospital District No. 2)",
+          "kind": "hospital",
+          "site": "https://jeffersonhealthcare.org/"
+        }
+      ]
     },
     "King": {
       "site": "https://kingcounty.gov/",
-      "boards": "https://kingcounty.gov/en/independents/governance-and-leadership/boards-commissions"
+      "boards": "https://kingcounty.gov/en/independents/governance-and-leadership/boards-commissions",
+      "districts": [
+        {
+          "name": "Puget Sound ESD",
+          "kind": "esd",
+          "site": "https://www.psesd.org/"
+        },
+        {
+          "name": "Port of Seattle",
+          "kind": "port",
+          "site": "https://www.portseattle.org/"
+        },
+        {
+          "name": "King County Metro Transit",
+          "kind": "transit",
+          "site": "https://kingcounty.gov/en/categories/transit-transportation-roads"
+        },
+        {
+          "name": "Sound Transit (Central Puget Sound Regional Transit Authority)",
+          "kind": "transit",
+          "site": "https://www.soundtransit.org/"
+        },
+        {
+          "name": "EvergreenHealth (King County Public Hospital District No. 2)",
+          "kind": "hospital",
+          "site": "https://www.evergreenhealth.com/"
+        },
+        {
+          "name": "Snoqualmie Valley Health (King County Public Hospital District No. 4)",
+          "kind": "hospital",
+          "site": "https://snoqualmievalleyhealth.org/"
+        },
+        {
+          "name": "Valley Medical Center (King County Public Hospital District No. 1)",
+          "kind": "hospital",
+          "site": "https://www.valleymed.org/"
+        },
+        {
+          "name": "Vashon Health Care District (King County Public Hospital District No. 5)",
+          "kind": "hospital",
+          "site": "https://vashonhealthcare.org/"
+        }
+      ]
     },
     "Kitsap": {
       "site": "https://www.kitsap.gov/",
       "boards": "https://www.kitsap.gov/BOC_p/Pages/Advisory-Boards-.aspx",
-      "meetings": "https://www.kitsap.gov/BOC_p/Pages/default.aspx"
+      "meetings": "https://www.kitsap.gov/BOC_p/Pages/default.aspx",
+      "districts": [
+        {
+          "name": "Olympic ESD 114",
+          "kind": "esd",
+          "site": "https://www.oesd114.org/"
+        },
+        {
+          "name": "Port of Brownsville",
+          "kind": "port",
+          "site": "https://portofbrownsville.org/"
+        },
+        {
+          "name": "Port of Illahee",
+          "kind": "port",
+          "site": "https://www.portofillahee.com/"
+        },
+        {
+          "name": "Port of Indianola",
+          "kind": "port",
+          "site": "https://www.portofindianola.com/"
+        },
+        {
+          "name": "Port of Keyport",
+          "kind": "port",
+          "site": "https://portofkeyport.com/"
+        },
+        {
+          "name": "Port of Manchester",
+          "kind": "port",
+          "site": "https://portofmanchester.com/"
+        },
+        {
+          "name": "Port of Poulsbo",
+          "kind": "port",
+          "site": "https://www.portofpoulsbo.com/"
+        },
+        {
+          "name": "Port of Silverdale",
+          "kind": "port",
+          "site": "https://www.portofsilverdale.com/"
+        },
+        {
+          "name": "Port of Waterman",
+          "kind": "port",
+          "site": "https://www.portofwaterman.com/"
+        },
+        {
+          "name": "Kitsap Transit",
+          "kind": "transit",
+          "site": "https://www.kitsaptransit.com/"
+        }
+      ]
     },
     "Kittitas": {
       "site": "https://www.co.kittitas.wa.us/",
       "boards": "https://www.co.kittitas.wa.us/boards/boards-committees.aspx",
-      "meetings": "https://www.co.kittitas.wa.us/boc/about.aspx"
+      "meetings": "https://www.co.kittitas.wa.us/boc/about.aspx",
+      "districts": [
+        {
+          "name": "ESD 105",
+          "kind": "esd",
+          "site": "https://www.esd105.org/"
+        },
+        {
+          "name": "Cle Elum (Carpenter Memorial) Library",
+          "kind": "library",
+          "site": "https://cleelum.gov/library"
+        },
+        {
+          "name": "Ellensburg Public Library",
+          "kind": "library",
+          "site": "https://www.ellensburglibrary.org/"
+        },
+        {
+          "name": "Roslyn Public Library",
+          "kind": "library",
+          "site": "https://www.roslynpubliclibrary.org/"
+        },
+        {
+          "name": "Public Utility District No. 1 of Kittitas County",
+          "kind": "utility",
+          "site": "https://www.kittitaspud.com/"
+        },
+        {
+          "name": "Kittitas Valley Healthcare (Kittitas County Public Hospital District No. 1)",
+          "kind": "hospital",
+          "site": "https://www.kvhealthcare.org/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Kittitas School District",
+          "site": "https://www.ksd403.org/"
+        }
+      ]
     },
     "Klickitat": {
       "site": "https://www.klickitatcounty.gov/",
-      "boards": "https://www.klickitatcounty.gov/155/Boards-Commissions"
+      "boards": "https://www.klickitatcounty.gov/155/Boards-Commissions",
+      "districts": [
+        {
+          "name": "ESD 112",
+          "kind": "esd",
+          "site": "https://www.esd112.org/"
+        },
+        {
+          "name": "Port of Klickitat",
+          "kind": "port",
+          "site": "https://www.portofklickitat.com/"
+        },
+        {
+          "name": "Public Utility District No. 1 of Klickitat County",
+          "kind": "utility",
+          "site": "https://klickitatpud.org"
+        },
+        {
+          "name": "Klickitat Valley Health (Klickitat County Public Hospital District No. 1)",
+          "kind": "hospital",
+          "site": "https://kvhealth.net/"
+        },
+        {
+          "name": "Skyline Health (Klickitat County Public Hospital District No. 2)",
+          "kind": "hospital",
+          "site": "https://myskylinehealth.org/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Centerville School District",
+          "site": "https://www.centervilleschool.org/"
+        },
+        {
+          "name": "Glenwood School District",
+          "site": "https://www.glenwoodsd.org/"
+        },
+        {
+          "name": "Goldendale School District",
+          "site": "https://www.goldendaleschools.org/"
+        },
+        {
+          "name": "Lyle School District",
+          "site": "https://www.lyleschools.org/"
+        },
+        {
+          "name": "Trout Lake School District",
+          "site": "https://www.troutlake.k12.wa.us/"
+        }
+      ]
     },
     "Lewis": {
       "site": "https://lewiscountywa.gov/",
       "boards": "https://lewiscountywa.gov/offices/commissioners/advisory-boards-and-commissions/list-of-boards-and-commissions/",
-      "meetings": "https://lewiscountywa.gov/offices/commissioners/"
+      "meetings": "https://lewiscountywa.gov/offices/commissioners/",
+      "districts": [
+        {
+          "name": "Capital Region ESD 113",
+          "kind": "esd",
+          "site": "https://www.esd113.org/"
+        },
+        {
+          "name": "Port of Centralia",
+          "kind": "port",
+          "site": "https://portofcentralia.com/"
+        },
+        {
+          "name": "Port of Chehalis",
+          "kind": "port",
+          "site": "https://portofchehalis.com/"
+        },
+        {
+          "name": "Public Utility District No. 1 of Lewis County",
+          "kind": "utility",
+          "site": "https://www.lcpud.org/"
+        },
+        {
+          "name": "Lewis County Transit (Lewis County PTBA; formerly Twin Transit)",
+          "kind": "transit",
+          "site": "https://lewiscountytransit.org/"
+        },
+        {
+          "name": "Arbor Health (Lewis County Public Hospital District No. 1)",
+          "kind": "hospital",
+          "site": "https://www.myarborhealth.org/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Adna School District",
+          "site": "https://www.adnaschools.org/"
+        },
+        {
+          "name": "Chehalis School District",
+          "site": "https://www.chehalisschools.org/"
+        },
+        {
+          "name": "Pe Ell School District",
+          "site": "https://www.peell.k12.wa.us/"
+        },
+        {
+          "name": "Toledo School District",
+          "site": "https://www.toledoschools.us/"
+        }
+      ]
     },
     "Lincoln": {
       "site": "https://www.lincolncountywa.com/",
-      "boards": "https://www.lincolncountywa.com/435/Boards-Commissions"
+      "boards": "https://www.lincolncountywa.com/435/Boards-Commissions",
+      "districts": [
+        {
+          "name": "NorthEast Washington ESD 101",
+          "kind": "esd",
+          "site": "https://www.esd101.net/"
+        },
+        {
+          "name": "Davenport Public Library",
+          "kind": "library",
+          "site": "https://www.davenport.lib.wa.us/"
+        },
+        {
+          "name": "Harrington Public Library",
+          "kind": "library",
+          "site": "https://www.harrington.lib.wa.us/"
+        },
+        {
+          "name": "Odessa Public Library",
+          "kind": "library",
+          "site": "https://www.odessa.lib.wa.us/"
+        },
+        {
+          "name": "Reardan Memorial Library",
+          "kind": "library",
+          "site": "https://www.reardanlibrary.org/"
+        },
+        {
+          "name": "Sprague Public Library",
+          "kind": "library",
+          "site": "https://www.sprague.lib.wa.us/"
+        },
+        {
+          "name": "Wilbur (Hesseltine) Public Library",
+          "kind": "library",
+          "site": "https://www.wilburlibrary.com/"
+        },
+        {
+          "name": "Coulee Medical Center (Douglas, Grant, Lincoln and Okanogan Counties Public Hospital District No. 6)",
+          "kind": "hospital",
+          "site": "https://cmccares.org/"
+        },
+        {
+          "name": "Lincoln Hospital & Clinics (Lincoln County Public Hospital District No. 3)",
+          "kind": "hospital",
+          "site": "https://www.lincolnhospital.org:443/"
+        },
+        {
+          "name": "Odessa Memorial Healthcare Center (Lincoln County Public Hospital District No. 1)",
+          "kind": "hospital",
+          "site": "https://www.omhc.org/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Davenport School District",
+          "site": "https://www.davenportsd.org/"
+        },
+        {
+          "name": "Odessa School District",
+          "site": "https://www.odessa.wednet.edu/"
+        },
+        {
+          "name": "Sprague School District",
+          "site": "https://www.spraguelamont.org/"
+        },
+        {
+          "name": "Wilbur School District",
+          "site": "https://www.wcsd.wednet.edu/"
+        }
+      ]
     },
     "Mason": {
       "site": "https://www.masoncountywa.gov/",
       "boards": "https://www.masoncountywa.gov/government/advisory_boards/index.php",
-      "meetings": "https://www.masoncountywa.gov/government/county_commissioners/index.php"
+      "meetings": "https://www.masoncountywa.gov/government/county_commissioners/index.php",
+      "districts": [
+        {
+          "name": "Capital Region ESD 113",
+          "kind": "esd",
+          "site": "https://www.esd113.org/"
+        },
+        {
+          "name": "Port of Allyn",
+          "kind": "port",
+          "site": "https://portofallyn.com/"
+        },
+        {
+          "name": "Port of Dewatto",
+          "kind": "port",
+          "site": "https://portofdewatto.com/"
+        },
+        {
+          "name": "Port of Grapeview",
+          "kind": "port",
+          "site": "https://www.portofgrapeview.com/"
+        },
+        {
+          "name": "Port of Hoodsport",
+          "kind": "port",
+          "site": "https://portofhoodsport.us/"
+        },
+        {
+          "name": "Port of Shelton",
+          "kind": "port",
+          "site": "https://portofshelton.com/"
+        },
+        {
+          "name": "Public Utility District No. 1 of Mason County",
+          "kind": "utility",
+          "site": "https://mason-pud1.org/"
+        },
+        {
+          "name": "Public Utility District No. 3 of Mason County",
+          "kind": "utility",
+          "site": "https://www.pud3.org/"
+        },
+        {
+          "name": "Mason Transit Authority",
+          "kind": "transit",
+          "site": "https://masontransit.org/"
+        },
+        {
+          "name": "Mason County Public Hospital District No. 2",
+          "kind": "hospital",
+          "site": "https://mcphd2.org/"
+        },
+        {
+          "name": "Mason Health (Mason County Public Hospital District No. 1)",
+          "kind": "hospital",
+          "site": "https://www.masonhealth.com/"
+        }
+      ]
     },
     "Okanogan": {
       "site": "https://www.okanogancounty.gov/",
-      "boards": "https://www.okanogancounty.gov/165/Boards-Committees"
+      "boards": "https://www.okanogancounty.gov/165/Boards-Committees",
+      "schools": [
+        {
+          "name": "Grand Coulee Dam School District",
+          "site": "https://www.gcdsd.org/"
+        },
+        {
+          "name": "Methow Valley School District",
+          "site": "https://www.methow.org/en-US"
+        },
+        {
+          "name": "Nespelem School District",
+          "site": "https://nsdeagles.org/"
+        },
+        {
+          "name": "Pateros School District",
+          "site": "https://www.pateros.org/"
+        }
+      ],
+      "districts": [
+        {
+          "name": "North Central ESD 171",
+          "kind": "esd",
+          "site": "https://www.ncesd.org/"
+        },
+        {
+          "name": "North Central Regional Library",
+          "kind": "library",
+          "site": "https://www.ncrl.org/"
+        },
+        {
+          "name": "Public Utility District No. 1 of Okanogan County",
+          "kind": "utility",
+          "site": "https://www.okanoganpud.org/"
+        },
+        {
+          "name": "Coulee Medical Center (Douglas, Grant, Lincoln and Okanogan Counties Public Hospital District No. 6)",
+          "kind": "hospital",
+          "site": "https://cmccares.org/"
+        },
+        {
+          "name": "Mid-Valley Hospital & Clinic (Okanogan County Public Hospital District No. 3)",
+          "kind": "hospital",
+          "site": "https://www.mvhealth.org/"
+        },
+        {
+          "name": "North Valley Hospital (Okanogan County Public Hospital District No. 4)",
+          "kind": "hospital",
+          "site": "https://www.nvhospital.org/"
+        },
+        {
+          "name": "Three Rivers Hospital (Okanogan-Douglas Counties Public Hospital District No. 1)",
+          "kind": "hospital",
+          "site": "https://threerivershospital.net/"
+        }
+      ]
     },
     "Pacific": {
       "site": "https://www.co.pacific.wa.us/",
-      "boards": "https://www.co.pacific.wa.us/boards%20and%20commissions/index.htm"
+      "boards": "https://www.co.pacific.wa.us/boards%20and%20commissions/index.htm",
+      "districts": [
+        {
+          "name": "Capital Region ESD 113",
+          "kind": "esd",
+          "site": "https://www.esd113.org/"
+        },
+        {
+          "name": "Port of Ilwaco",
+          "kind": "port",
+          "site": "https://www.portofilwaco.com/"
+        },
+        {
+          "name": "Port of Peninsula",
+          "kind": "port",
+          "site": "https://portofpeninsula.us/"
+        },
+        {
+          "name": "Public Utility District No. 2 of Pacific County",
+          "kind": "utility",
+          "site": "https://www.pacificpud.org/"
+        },
+        {
+          "name": "Pacific Transit",
+          "kind": "transit",
+          "site": "https://pacifictransit.org/"
+        },
+        {
+          "name": "Ocean Beach Health (Pacific County Public Hospital District No. 3)",
+          "kind": "hospital",
+          "site": "https://www.oceanbeachhealth.com/"
+        },
+        {
+          "name": "Willapa Harbor Hospital (Pacific County Public Hospital District No. 2)",
+          "kind": "hospital",
+          "site": "https://willapaharborhospital.com/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Naselle-Grays River Valley School District",
+          "site": "https://www.naselle.wednet.edu/"
+        },
+        {
+          "name": "South Bend School District",
+          "site": "https://www.southbendschools.org/"
+        }
+      ]
     },
     "Pend Oreille": {
       "site": "https://www.pendoreille.gov/",
       "boards": "https://www.pendoreille.gov/board-county-commissioners",
       "appoints": true,
-      "meetings": "https://www.pendoreille.gov/board-county-commissioners"
+      "meetings": "https://www.pendoreille.gov/board-county-commissioners",
+      "districts": [
+        {
+          "name": "NorthEast Washington ESD 101",
+          "kind": "esd",
+          "site": "https://www.esd101.net/"
+        },
+        {
+          "name": "Port of Pend Oreille",
+          "kind": "port",
+          "site": "https://portofpendoreille.com/"
+        },
+        {
+          "name": "Pend Oreille County Library District",
+          "kind": "library",
+          "site": "https://pocld.org/"
+        },
+        {
+          "name": "Public Utility District No. 1 of Pend Oreille County",
+          "kind": "utility",
+          "site": "https://www.popud.org"
+        },
+        {
+          "name": "Newport Hospital & Health Services (Pend Oreille County Public Hospital District No. 1)",
+          "kind": "hospital",
+          "site": "https://newporthospitalandhealth.org/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Newport School District",
+          "site": "https://www.newportgriz.com/"
+        },
+        {
+          "name": "Selkirk School District",
+          "site": "https://www.selkirkschools.org/"
+        }
+      ]
     },
     "Pierce": {
       "site": "https://www.piercecountywa.gov/",
-      "boards": "https://www.piercecountywa.gov/89/Boards-Commissions"
+      "boards": "https://www.piercecountywa.gov/89/Boards-Commissions",
+      "districts": [
+        {
+          "name": "Puget Sound ESD",
+          "kind": "esd",
+          "site": "https://www.psesd.org/"
+        },
+        {
+          "name": "Port of Tacoma",
+          "kind": "port",
+          "site": "https://www.portoftacoma.com/"
+        },
+        {
+          "name": "Puyallup Public Library",
+          "kind": "library",
+          "site": "https://www.puyalluplibrary.org/2436/Library"
+        },
+        {
+          "name": "Sound Transit (Central Puget Sound Regional Transit Authority)",
+          "kind": "transit",
+          "site": "https://www.soundtransit.org/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Fife School District",
+          "site": "https://www.fifeschools.com/"
+        },
+        {
+          "name": "White River School District",
+          "site": "https://www.whiteriver.wednet.edu/"
+        }
+      ]
     },
     "San Juan": {
       "site": "https://www.sanjuancountywa.gov/",
-      "boards": "https://www.sanjuancountywa.gov/641/Board-Committee-Vacancies"
+      "boards": "https://www.sanjuancountywa.gov/641/Board-Committee-Vacancies",
+      "districts": [
+        {
+          "name": "Northwest ESD 189",
+          "kind": "esd",
+          "site": "https://www.nwesd.org/"
+        },
+        {
+          "name": "Port of Lopez",
+          "kind": "port",
+          "site": "https://www.portoflopez.com/"
+        },
+        {
+          "name": "Port of Orcas",
+          "kind": "port",
+          "site": "https://www.portoforcas.com/"
+        },
+        {
+          "name": "Lopez Island Hospital District (San Juan County Public Hospital District No. 2)",
+          "kind": "hospital",
+          "site": "https://lopezislandhd.org/"
+        },
+        {
+          "name": "Orcas Island Health Care District (San Juan County Public Hospital District No. 3)",
+          "kind": "hospital",
+          "site": "https://orcashealth.org/"
+        },
+        {
+          "name": "San Juan County Public Hospital District No. 1",
+          "kind": "hospital",
+          "site": "https://sjcphd1.org/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Lopez School District",
+          "site": "https://www.lopezislandschool.org/"
+        },
+        {
+          "name": "Shaw Island School District",
+          "site": "http://www.shaw.k12.wa.us/"
+        }
+      ]
     },
     "Skagit": {
       "site": "https://www.skagitcountywa.gov/",
       "boards": "https://www.skagitcountywa.gov/government/boards-and-committees/",
-      "meetings": "https://www.skagitcountywa.gov/government/board-of-county-commissioners/"
+      "meetings": "https://www.skagitcountywa.gov/government/board-of-county-commissioners/",
+      "districts": [
+        {
+          "name": "Northwest ESD 189",
+          "kind": "esd",
+          "site": "https://www.nwesd.org/"
+        },
+        {
+          "name": "Port of Anacortes",
+          "kind": "port",
+          "site": "https://www.portofanacortes.com/"
+        },
+        {
+          "name": "Port of Skagit",
+          "kind": "port",
+          "site": "https://portofskagit.com/"
+        },
+        {
+          "name": "Anacortes Public Library",
+          "kind": "library",
+          "site": "https://library.cityofanacortes.org/"
+        },
+        {
+          "name": "La Conner Regional Library",
+          "kind": "library",
+          "site": "https://www.laconnerlibrary.org/"
+        },
+        {
+          "name": "Mount Vernon City Library",
+          "kind": "library",
+          "site": "https://www.mountvernonwa.gov/library"
+        },
+        {
+          "name": "Skagit Transit",
+          "kind": "transit",
+          "site": "https://www.skagittransit.org/"
+        },
+        {
+          "name": "Island Health (Skagit County Public Hospital District No. 2)",
+          "kind": "hospital",
+          "site": "https://islandhealth.org/"
+        },
+        {
+          "name": "Skagit Regional Health (Skagit County Public Hospital District No. 1)",
+          "kind": "hospital",
+          "site": "https://www.skagitregionalhealth.org/"
+        },
+        {
+          "name": "United General District 304 (Skagit County Public Hospital District No. 304)",
+          "kind": "hospital",
+          "site": "https://unitedgeneral.org/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Anacortes School District",
+          "site": "https://www.asd103.org/"
+        }
+      ]
     },
     "Skamania": {
       "site": "https://www.skamaniacounty.gov/",
       "boards": "https://www.skamaniacounty.gov/departments-offices/commissioners",
       "appoints": true,
-      "meetings": "https://www.skamaniacounty.gov/departments-offices/commissioners"
+      "meetings": "https://www.skamaniacounty.gov/departments-offices/commissioners",
+      "districts": [
+        {
+          "name": "ESD 112",
+          "kind": "esd",
+          "site": "https://www.esd112.org/"
+        },
+        {
+          "name": "Port of Skamania County",
+          "kind": "port",
+          "site": "https://www.portofskamania.org/"
+        },
+        {
+          "name": "Public Utility District No. 1 of Skamania County",
+          "kind": "utility",
+          "site": "https://www.skamaniapud.com/"
+        },
+        {
+          "name": "Skamania EMS & Rescue (Skamania County Public Hospital District No. 1)",
+          "kind": "hospital",
+          "site": "https://skamaniaems.com/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Stevenson-Carson School District",
+          "site": "https://www.scsd303.org/"
+        }
+      ]
     },
     "Snohomish": {
       "site": "https://snohomishcountywa.gov/",
-      "boards": "https://snohomishcountywa.gov/128/Boards-Commissions"
+      "boards": "https://snohomishcountywa.gov/128/Boards-Commissions",
+      "districts": [
+        {
+          "name": "Northwest ESD 189",
+          "kind": "esd",
+          "site": "https://www.nwesd.org/"
+        },
+        {
+          "name": "Port of Edmonds",
+          "kind": "port",
+          "site": "https://portofedmonds.gov/"
+        },
+        {
+          "name": "Port of Everett",
+          "kind": "port",
+          "site": "https://www.portofeverett.com/"
+        },
+        {
+          "name": "Everett Public Library",
+          "kind": "library",
+          "site": "https://www.epls.org/"
+        },
+        {
+          "name": "Snohomish PUD (Public Utility District No. 1 of Snohomish County)",
+          "kind": "utility",
+          "site": "https://www.snopud.com/"
+        },
+        {
+          "name": "Community Transit (Snohomish County PTBA)",
+          "kind": "transit",
+          "site": "https://www.communitytransit.org/"
+        },
+        {
+          "name": "Everett Transit (City of Everett)",
+          "kind": "transit",
+          "site": "http://www.everetttransit.org/"
+        },
+        {
+          "name": "Sound Transit (Central Puget Sound Regional Transit Authority)",
+          "kind": "transit",
+          "site": "https://www.soundtransit.org/"
+        },
+        {
+          "name": "EvergreenHealth Monroe (Snohomish County Public Hospital District No. 1)",
+          "kind": "hospital",
+          "site": "https://www.evergreenhealthmonroe.com/"
+        },
+        {
+          "name": "Stilly Valley Health Connections (Snohomish County Public Hospital District No. 3)",
+          "kind": "hospital",
+          "site": "https://www.stillyvalleyhealth.org/"
+        },
+        {
+          "name": "Verdant Health Commission (Snohomish County Public Hospital District No. 2)",
+          "kind": "hospital",
+          "site": "http://www.verdanthealth.org/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Lake Stevens School District",
+          "site": "https://www.lkstevens.wednet.edu/"
+        }
+      ]
     },
     "Spokane": {
       "site": "https://www.spokanecounty.gov/",
-      "boards": "https://www.spokanecounty.gov/921/Boards-Commissions"
+      "boards": "https://www.spokanecounty.gov/921/Boards-Commissions",
+      "districts": [
+        {
+          "name": "NorthEast Washington ESD 101",
+          "kind": "esd",
+          "site": "https://www.esd101.net/"
+        },
+        {
+          "name": "Liberty Lake Municipal Library",
+          "kind": "library",
+          "site": "https://libertylakewa.gov/721/Library"
+        },
+        {
+          "name": "Spokane Transit Authority",
+          "kind": "transit",
+          "site": "http://www.spokanetransit.com"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Great Northern School District",
+          "site": "https://www.gnsd.k12.wa.us/"
+        },
+        {
+          "name": "Liberty School District",
+          "site": "https://www.libertysd.us/"
+        },
+        {
+          "name": "Medical Lake School District",
+          "site": "https://www.mlsd.org/"
+        },
+        {
+          "name": "Riverside School District",
+          "site": "https://www.riversidesd.org/"
+        }
+      ]
     },
     "Stevens": {
       "site": "https://www.stevenscountywa.gov/",
       "boards": "https://www.stevenscountywa.gov/21087/Board-of-Commissioners",
       "appoints": true,
-      "meetings": "https://www.stevenscountywa.gov/20842/commissioners"
+      "meetings": "https://www.stevenscountywa.gov/20842/commissioners",
+      "schools": [
+        {
+          "name": "Northport School District",
+          "site": "https://www.northportschools.org/"
+        },
+        {
+          "name": "Wellpinit School District",
+          "site": "https://www.wellpinit.org/en-US"
+        }
+      ],
+      "districts": [
+        {
+          "name": "NorthEast Washington ESD 101",
+          "kind": "esd",
+          "site": "https://www.esd101.net/"
+        }
+      ]
     },
     "Thurston": {
       "site": "https://www.thurstoncountywa.gov/",
-      "boards": "https://www.thurstoncountywa.gov/departments/board-county-commissioners/advisory-boards-commissions-and-committees"
+      "boards": "https://www.thurstoncountywa.gov/departments/board-county-commissioners/advisory-boards-commissions-and-committees",
+      "schools": [
+        {
+          "name": "Yelm School District",
+          "site": "https://www.ycs.wednet.edu/"
+        }
+      ],
+      "districts": [
+        {
+          "name": "Capital Region ESD 113",
+          "kind": "esd",
+          "site": "https://www.esd113.org/"
+        },
+        {
+          "name": "Intercity Transit (Thurston County PTBA)",
+          "kind": "transit",
+          "site": "https://www.intercitytransit.com/"
+        }
+      ]
     },
     "Wahkiakum": {
       "site": "https://www.co.wahkiakum.wa.us/",
       "boards": "https://www.co.wahkiakum.wa.us/274/Boards-Committees",
-      "meetings": "https://www.co.wahkiakum.wa.us/257/Board-of-County-Commissioners"
+      "meetings": "https://www.co.wahkiakum.wa.us/257/Board-of-County-Commissioners",
+      "districts": [
+        {
+          "name": "ESD 112",
+          "kind": "esd",
+          "site": "https://www.esd112.org/"
+        },
+        {
+          "name": "Cathlamet (Blanche Bradley) Library",
+          "kind": "library",
+          "site": "https://www.cathlametlibrary.com/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Wahkiakum School District",
+          "site": "https://wahksd.k12.wa.us/"
+        }
+      ]
     },
     "Walla Walla": {
       "site": "https://www.wwcowa.gov/",
       "boards": "https://www.wwcowa.gov/boards_and_committees/index.php",
-      "meetings": "https://www.wwcowa.gov/government/commissioners/index.php"
+      "meetings": "https://www.wwcowa.gov/government/commissioners/index.php",
+      "districts": [
+        {
+          "name": "ESD 123",
+          "kind": "esd",
+          "site": "https://www.esd123.org/"
+        },
+        {
+          "name": "Port of Walla Walla",
+          "kind": "port",
+          "site": "https://www.portwallawalla.com/"
+        },
+        {
+          "name": "Walla Walla Public Library",
+          "kind": "library",
+          "site": "https://www.wallawallapubliclibrary.org/"
+        },
+        {
+          "name": "Valley Transit (Walla Walla County PTBA)",
+          "kind": "transit",
+          "site": "https://www.valleytransit.com/"
+        }
+      ]
     },
     "Whatcom": {
       "site": "https://www.whatcomcounty.us/",
-      "boards": "https://www.whatcomcounty.us/210/Boards-Commissions"
+      "boards": "https://www.whatcomcounty.us/210/Boards-Commissions",
+      "districts": [
+        {
+          "name": "Northwest ESD 189",
+          "kind": "esd",
+          "site": "https://www.nwesd.org/"
+        },
+        {
+          "name": "Bellingham Public Library",
+          "kind": "library",
+          "site": "https://bellinghampubliclibrary.org/"
+        },
+        {
+          "name": "Public Utility District No. 1 of Whatcom County",
+          "kind": "utility",
+          "site": "https://www.pudwhatcom.org/"
+        },
+        {
+          "name": "Whatcom Transportation Authority",
+          "kind": "transit",
+          "site": "http://www.ridewta.com/"
+        },
+        {
+          "name": "Point Roberts Clinic (Point Roberts Public Hospital District)",
+          "kind": "hospital",
+          "site": "https://www.pointrobertsclinic.com/"
+        }
+      ]
     },
     "Whitman": {
       "site": "https://www.whitmancounty.gov/",
-      "boards": "https://www.whitmancounty.gov/366/Boards-Commissions"
+      "boards": "https://www.whitmancounty.gov/366/Boards-Commissions",
+      "districts": [
+        {
+          "name": "NorthEast Washington ESD 101",
+          "kind": "esd",
+          "site": "https://www.esd101.net/"
+        },
+        {
+          "name": "Port of Whitman County",
+          "kind": "port",
+          "site": "https://www.portwhitman.com/"
+        },
+        {
+          "name": "Pullman (Neill) Public Library",
+          "kind": "library",
+          "site": "https://www.neill-lib.org/"
+        },
+        {
+          "name": "Pullman Transit (City of Pullman)",
+          "kind": "transit",
+          "site": "https://www.pullman-wa.gov/services/transit/index.php"
+        },
+        {
+          "name": "Pullman Regional Hospital (Whitman County Public Hospital District No. 1-A)",
+          "kind": "hospital",
+          "site": "https://www.pullmanregional.org/"
+        },
+        {
+          "name": "Whitman Hospital & Medical Clinics (Whitman County Public Hospital District No. 3)",
+          "kind": "hospital",
+          "site": "https://www.whmc.org/about-us/public-hospital-district-info/"
+        },
+        {
+          "name": "Whitman Medical Clinic - Tekoa (Whitman County Public Hospital District No. 4)",
+          "kind": "hospital",
+          "site": "https://www.whmc.org/locations/whitman-medical-clinic-tekoa/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Colfax School District",
+          "site": "https://www.csd300.org/en-US"
+        },
+        {
+          "name": "Garfield-Palouse School District",
+          "site": "https://www.garpal.net/"
+        },
+        {
+          "name": "Oakesdale School District",
+          "site": "https://www.gonighthawks.net/"
+        },
+        {
+          "name": "Rosalia School District",
+          "site": "https://rosaliaschools.com/en-US"
+        },
+        {
+          "name": "St. John School District",
+          "site": "https://www.sje.wednet.edu/"
+        }
+      ]
     },
     "Yakima": {
       "site": "https://www.yakimacounty.us/",
-      "boards": "https://www.yakimacounty.us/804/Boards-Committees"
+      "boards": "https://www.yakimacounty.us/804/Boards-Committees",
+      "districts": [
+        {
+          "name": "ESD 105",
+          "kind": "esd",
+          "site": "https://www.esd105.org/"
+        },
+        {
+          "name": "Port of Grandview",
+          "kind": "port",
+          "site": "https://portofgrandview.org/"
+        },
+        {
+          "name": "Port of Sunnyside",
+          "kind": "port",
+          "site": "https://portofsunnyside.com/"
+        },
+        {
+          "name": "Yakima Valley Regional Library",
+          "kind": "library",
+          "site": "https://www.yvl.org/"
+        },
+        {
+          "name": "Yakima Transit (City of Yakima)",
+          "kind": "transit",
+          "site": "https://yakimatransit.org/"
+        }
+      ],
+      "schools": [
+        {
+          "name": "Wapato School District",
+          "site": "https://www.wapatosd.org/"
+        },
+        {
+          "name": "Zillah School District",
+          "site": "https://www.zillahschools.org/"
+        }
+      ]
     }
   },
   "cities": {
+    "Airway Heights": {
+      "county": "Spokane",
+      "site": "https://cawh.org/"
+    },
+    "Algona": {
+      "county": "King",
+      "site": "https://www.algonawa.gov/"
+    },
+    "Almira": {
+      "county": "Lincoln",
+      "site": "https://almirawa.gov/"
+    },
+    "Asotin": {
+      "county": "Asotin",
+      "site": "https://cityofasotin.org/"
+    },
     "Auburn": {
       "county": "King",
       "site": "https://www.auburnwa.gov/",
       "boards": "https://www.auburnwa.gov/city_hall/boards_commissions"
+    },
+    "Beaux Arts Village": {
+      "county": "King",
+      "site": "https://www.beauxarts-wa.gov/"
     },
     "Bellevue": {
       "county": "King",
@@ -195,20 +1795,204 @@
       "site": "https://cob.org/",
       "boards": "https://cob.org/gov/public/bc"
     },
+    "Benton City": {
+      "county": "Benton",
+      "site": "https://www.ci.benton-city.wa.us/"
+    },
+    "Brewster": {
+      "county": "Okanogan",
+      "site": "https://www.cityofbrewsterwashington.org/"
+    },
+    "Bridgeport": {
+      "county": "Douglas",
+      "site": "https://bridgeportwashington.net/"
+    },
+    "Brier": {
+      "county": "Snohomish",
+      "site": "http://www.ci.brier.wa.us/"
+    },
+    "Bucoda": {
+      "county": "Thurston",
+      "site": "https://bucoda.us/"
+    },
     "Burien": {
       "county": "King",
       "site": "https://www.burienwa.gov/",
       "boards": "https://www.burienwa.gov/city_hall/boards_and_commissions"
+    },
+    "Carbonado": {
+      "county": "Pierce",
+      "site": "https://www.carbonado.org/"
+    },
+    "Carnation": {
+      "county": "King",
+      "site": "https://www.carnationwa.gov/"
+    },
+    "Cashmere": {
+      "county": "Chelan",
+      "site": "https://www.cityofcashmere.org/"
+    },
+    "Cathlamet": {
+      "county": "Wahkiakum",
+      "site": "https://www.townofcathlamet.com/"
+    },
+    "Chehalis": {
+      "county": "Lewis",
+      "site": "https://www.ci.chehalis.wa.us/"
+    },
+    "Clarkston": {
+      "county": "Asotin",
+      "site": "https://clarkston-wa.com/"
+    },
+    "Colfax": {
+      "county": "Whitman",
+      "site": "https://www.colfaxwa.org/"
+    },
+    "Colton": {
+      "county": "Whitman",
+      "site": "https://www.coltonwashington.us/"
+    },
+    "Colville": {
+      "county": "Stevens",
+      "site": "https://www.colville.wa.us/"
+    },
+    "Conconully": {
+      "county": "Okanogan",
+      "site": "https://www.townofconconully.com/"
+    },
+    "Connell": {
+      "county": "Franklin",
+      "site": "https://www.cityofconnell.com/"
+    },
+    "Cosmopolis": {
+      "county": "Grays Harbor",
+      "site": "https://www.cosmopoliswa.gov/"
+    },
+    "Coulee City": {
+      "county": "Grant",
+      "site": "https://www.couleecitywa.org/"
+    },
+    "Coulee Dam": {
+      "county": "Okanogan",
+      "site": "https://townofcouleedam.org/"
+    },
+    "Coupeville": {
+      "county": "Island",
+      "site": "https://townofcoupeville.org/"
+    },
+    "Creston": {
+      "county": "Lincoln",
+      "site": "https://crestonwa.gov/"
+    },
+    "Cusick": {
+      "county": "Pend Oreille",
+      "site": "https://www.townofcusick.com/"
+    },
+    "Davenport": {
+      "county": "Lincoln",
+      "site": "https://www.davenportwa.us/"
+    },
+    "Dayton": {
+      "county": "Columbia",
+      "site": "https://www.daytonwa.com/"
+    },
+    "Deer Park": {
+      "county": "Spokane",
+      "site": "https://www.cityofdeerparkwa.com/"
+    },
+    "Eatonville": {
+      "county": "Pierce",
+      "site": "https://eatonville-wa.gov/"
+    },
+    "Electric City": {
+      "county": "Grant",
+      "site": "https://www.electriccity.us/"
+    },
+    "Elma": {
+      "county": "Grays Harbor",
+      "site": "https://www.cityofelma.com/"
+    },
+    "Elmer City": {
+      "county": "Okanogan",
+      "site": "https://townofelmercity.com/"
+    },
+    "Entiat": {
+      "county": "Chelan",
+      "site": "https://www.entiatwa.us/"
     },
     "Everett": {
       "county": "Snohomish",
       "site": "https://www.everettwa.gov/",
       "boards": "https://www.everettwa.gov/1537/Boards-and-Commissions"
     },
+    "Fairfield": {
+      "county": "Spokane",
+      "site": "https://fairfieldwa.com/"
+    },
+    "Farmington": {
+      "county": "Whitman",
+      "site": "https://farmingtonwa.com/"
+    },
     "Federal Way": {
       "county": "King",
       "site": "https://www.federalwaywa.gov/",
       "boards": "https://www.federalwaywa.gov/boards-commissions"
+    },
+    "Forks": {
+      "county": "Clallam",
+      "site": "https://forkswashington.org/"
+    },
+    "Garfield": {
+      "county": "Whitman",
+      "site": "https://garfieldwa.com/"
+    },
+    "George": {
+      "county": "Grant",
+      "site": "https://www.cityofgeorge.org/"
+    },
+    "Goldendale": {
+      "county": "Klickitat",
+      "site": "https://www.ci.goldendale.wa.us/"
+    },
+    "Grand Coulee": {
+      "county": "Grant",
+      "site": "https://gccitywa.org/"
+    },
+    "Grandview": {
+      "county": "Yakima",
+      "site": "https://www.grandview.wa.us/"
+    },
+    "Granger": {
+      "county": "Yakima",
+      "site": "https://www.grangerwashington.org/"
+    },
+    "Hamilton": {
+      "county": "Skagit",
+      "site": "https://www.townofhamiltonwa.com/"
+    },
+    "Harrington": {
+      "county": "Lincoln",
+      "site": "https://www.harrington.city/"
+    },
+    "Hoquiam": {
+      "county": "Grays Harbor",
+      "site": "https://www.cityofhoquiam.com/"
+    },
+    "Hunts Point": {
+      "county": "King",
+      "site": "https://huntspoint-wa.gov/"
+    },
+    "Ilwaco": {
+      "county": "Pacific",
+      "site": "https://www.ilwaco-wa.gov/"
+    },
+    "Ione": {
+      "county": "Pend Oreille",
+      "site": "https://www.ionewa.gov/"
+    },
+    "Kalama": {
+      "county": "Cowlitz",
+      "site": "https://www.cityofkalama.com/"
     },
     "Kennewick": {
       "county": "Benton",
@@ -220,10 +2004,26 @@
       "site": "https://www.kentwa.gov/",
       "boards": "https://www.kentwa.gov/government/boards-commissions"
     },
+    "Kettle Falls": {
+      "county": "Stevens",
+      "site": "https://www.cityofkettlefalls.org/"
+    },
     "Kirkland": {
       "county": "King",
       "site": "https://www.kirklandwa.gov/",
       "boards": "https://www.kirklandwa.gov/Government/Boards-and-Commissions"
+    },
+    "Kittitas": {
+      "county": "Kittitas",
+      "site": "http://www.cityofkittitas.com/"
+    },
+    "La Conner": {
+      "county": "Skagit",
+      "site": "https://www.townoflaconner.org/"
+    },
+    "LaCrosse": {
+      "county": "Whitman",
+      "site": "http://www.lacrossewa.us/"
     },
     "Lacey": {
       "county": "Thurston",
@@ -235,20 +2035,160 @@
       "site": "https://cityoflakewood.us/",
       "boards": "https://cityoflakewood.us/commissions/"
     },
+    "Langley": {
+      "county": "Island",
+      "site": "https://www.langleywa.org/"
+    },
+    "Leavenworth": {
+      "county": "Chelan",
+      "site": "https://cityofleavenworth.com/"
+    },
+    "Long Beach": {
+      "county": "Pacific",
+      "site": "https://www.longbeachwa.gov/"
+    },
+    "Lyman": {
+      "county": "Skagit",
+      "site": "https://townoflyman.com/"
+    },
+    "Mabton": {
+      "county": "Yakima",
+      "site": "https://www.cityofmabton.com/"
+    },
+    "Mansfield": {
+      "county": "Douglas",
+      "site": "https://townofmansfield.net/"
+    },
     "Marysville": {
       "county": "Snohomish",
       "site": "https://marysvillewa.gov/",
       "boards": "https://marysvillewa.gov/195/Boards-Commissions"
+    },
+    "Mattawa": {
+      "county": "Grant",
+      "site": "https://www.cityofmattawa.com/"
+    },
+    "McCleary": {
+      "county": "Grays Harbor",
+      "site": "https://www.cityofmccleary.com/"
+    },
+    "Medical Lake": {
+      "county": "Spokane",
+      "site": "https://medical-lake.org/"
+    },
+    "Medina": {
+      "county": "King",
+      "site": "https://www.medina-wa.gov/"
+    },
+    "Metaline Falls": {
+      "county": "Pend Oreille",
+      "site": "https://metalinefalls.gov/"
+    },
+    "Millwood": {
+      "county": "Spokane",
+      "site": "https://www.millwoodwa.us/"
+    },
+    "Montesano": {
+      "county": "Grays Harbor",
+      "site": "https://cityofmontesano.com/"
+    },
+    "Mossyrock": {
+      "county": "Lewis",
+      "site": "https://www.cityofmossyrock.com/"
+    },
+    "Moxee": {
+      "county": "Yakima",
+      "site": "https://cityofmoxee.us/"
+    },
+    "Newport": {
+      "county": "Pend Oreille",
+      "site": "https://newport-wa.org/"
+    },
+    "Nooksack": {
+      "county": "Whatcom",
+      "site": "https://www.cityofnooksack.com/"
+    },
+    "Normandy Park": {
+      "county": "King",
+      "site": "https://normandyparkwa.gov/"
+    },
+    "North Bonneville": {
+      "county": "Skamania",
+      "site": "https://northbonneville.net/"
+    },
+    "Northport": {
+      "county": "Stevens",
+      "site": "http://northportwa.us/"
+    },
+    "Oakesdale": {
+      "county": "Whitman",
+      "site": "https://oakesdale.org/"
+    },
+    "Oakville": {
+      "county": "Grays Harbor",
+      "site": "http://www.oakvillecityhall.com/"
+    },
+    "Odessa": {
+      "county": "Lincoln",
+      "site": "https://odessawa.org/"
+    },
+    "Okanogan": {
+      "county": "Okanogan",
+      "site": "https://www.okanogancity.com/"
     },
     "Olympia": {
       "county": "Thurston",
       "site": "https://www.olympiawa.gov/",
       "boards": "https://www.olympiawa.gov/government/advisory_committees/index.php"
     },
+    "Oroville": {
+      "county": "Okanogan",
+      "site": "https://oroville-wa.com/"
+    },
+    "Orting": {
+      "county": "Pierce",
+      "site": "https://www.cityoforting.org/"
+    },
+    "Pacific": {
+      "county": "King",
+      "site": "https://www.pacificwa.gov/"
+    },
+    "Palouse": {
+      "county": "Whitman",
+      "site": "https://www.palousewa.gov/"
+    },
     "Pasco": {
       "county": "Franklin",
       "site": "https://www.pasco-wa.gov/",
       "boards": "https://www.pasco-wa.gov/135/Boards-Commissions"
+    },
+    "Pateros": {
+      "county": "Okanogan",
+      "site": "https://www.pateros.com/"
+    },
+    "Pe Ell": {
+      "county": "Lewis",
+      "site": "https://www.townofpeell.com/"
+    },
+    "Pomeroy": {
+      "county": "Garfield",
+      "site": "https://www.cityofpomeroy1.com/"
+    },
+    "Port Townsend": {
+      "county": "Jefferson",
+      "site": "https://cityofpt.us/"
+    },
+    "Prescott": {
+      "county": "Walla Walla",
+      "site": "https://www.cityofprescottwa.com/"
+    },
+    "Raymond": {
+      "county": "Pacific",
+      "site": "https://cityofraymond.com/"
+    },
+    "Reardan": {
+      "county": "Lincoln",
+      "site": "https://reardanwa.gov/"
     },
     "Redmond": {
       "county": "King",
@@ -260,10 +2200,42 @@
       "site": "https://www.rentonwa.gov/",
       "boards": "https://www.rentonwa.gov/Government/Boards-Committees-Commissions"
     },
+    "Republic": {
+      "county": "Ferry",
+      "site": "https://www.cityofrepublic.org/"
+    },
     "Richland": {
       "county": "Benton",
       "site": "https://www.richlandwa.gov/",
       "boards": "https://www.richlandwa.gov/government/advisory-boards-commissions-and-committees"
+    },
+    "Ritzville": {
+      "county": "Adams",
+      "site": "https://www.cityofritzville.com/"
+    },
+    "Rock Island": {
+      "county": "Douglas",
+      "site": "https://www.rockislandwa.gov:443/"
+    },
+    "Rockford": {
+      "county": "Spokane",
+      "site": "https://www.rockfordwa.com/"
+    },
+    "Rosalia": {
+      "county": "Whitman",
+      "site": "https://www.townofrosalia.net/"
+    },
+    "Roslyn": {
+      "county": "Kittitas",
+      "site": "http://www.ci.roslyn.wa.us/"
+    },
+    "Roy": {
+      "county": "Pierce",
+      "site": "https://cityofroywa.us/"
+    },
+    "Royal City": {
+      "county": "Grant",
+      "site": "https://www.royalcitywa.org/"
     },
     "Sammamish": {
       "county": "King",
@@ -275,10 +2247,30 @@
       "site": "https://www.seattle.gov/",
       "boards": "https://www.seattle.gov/boards-and-commissions"
     },
+    "Shelton": {
+      "county": "Mason",
+      "site": "https://sheltonwa.gov/"
+    },
     "Shoreline": {
       "county": "King",
       "site": "https://www.shorelinewa.gov/",
       "boards": "https://www.shorelinewa.gov/government/boards-and-commissions"
+    },
+    "Skykomish": {
+      "county": "King",
+      "site": "https://skykomishwa.gov/"
+    },
+    "Soap Lake": {
+      "county": "Grant",
+      "site": "https://www.soaplakewa.gov/"
+    },
+    "South Cle Elum": {
+      "county": "Kittitas",
+      "site": "https://southcleelum.org/"
+    },
+    "South Prairie": {
+      "county": "Pierce",
+      "site": "https://www.townofsp.com/"
     },
     "Spokane": {
       "county": "Spokane",
@@ -290,30 +2282,130 @@
       "site": "https://spokanevalleywa.gov/",
       "boards": "https://spokanevalleywa.gov/198/Commissions-Committees-Boards"
     },
+    "Sprague": {
+      "county": "Lincoln",
+      "site": "https://sprague-wa.us/"
+    },
+    "Springdale": {
+      "county": "Stevens",
+      "site": "https://town-of-springdale.com/"
+    },
+    "St. John": {
+      "county": "Whitman",
+      "site": "https://www.stjohnwa.com/"
+    },
     "Tacoma": {
       "county": "Pierce",
       "site": "https://tacoma.gov/",
       "boards": "https://tacoma.gov/government/committees-boards-and-commissions/"
+    },
+    "Tekoa": {
+      "county": "Whitman",
+      "site": "https://www.tekoawa.com/"
+    },
+    "Tenino": {
+      "county": "Thurston",
+      "site": "https://www.ci.tenino.wa.us/"
+    },
+    "Tieton": {
+      "county": "Yakima",
+      "site": "https://cityoftieton.com/"
+    },
+    "Tonasket": {
+      "county": "Okanogan",
+      "site": "https://www.tonasketcity.org/"
     },
     "Tumwater": {
       "county": "Thurston",
       "site": "https://www.ci.tumwater.wa.us/",
       "boards": "https://www.ci.tumwater.wa.us/government/commissions-advisory-boards"
     },
+    "Twisp": {
+      "county": "Okanogan",
+      "site": "https://townoftwisp.com/"
+    },
+    "Union Gap": {
+      "county": "Yakima",
+      "site": "https://uniongapwa.gov/"
+    },
+    "Uniontown": {
+      "county": "Whitman",
+      "site": "https://uniontownwa.org/"
+    },
+    "Vader": {
+      "county": "Lewis",
+      "site": "https://www.vaderwa.org/"
+    },
     "Vancouver": {
       "county": "Clark",
       "site": "https://www.cityofvancouver.us/",
       "boards": "https://www.cityofvancouver.us/government/boards-commissions/"
+    },
+    "Waitsburg": {
+      "county": "Walla Walla",
+      "site": "https://www.cityofwaitsburg.com/"
+    },
+    "Wapato": {
+      "county": "Yakima",
+      "site": "https://wapato-city.org/"
+    },
+    "Warden": {
+      "county": "Grant",
+      "site": "https://cityofwarden.org/"
+    },
+    "Washtucna": {
+      "county": "Adams",
+      "site": "https://washtucna.org/"
+    },
+    "Waterville": {
+      "county": "Douglas",
+      "site": "https://www.watervillewa.com/"
+    },
+    "Westport": {
+      "county": "Grays Harbor",
+      "site": "https://www.ci.westport.wa.us/"
+    },
+    "Wilkeson": {
+      "county": "Pierce",
+      "site": "https://www.townofwilkeson.com/"
+    },
+    "Winthrop": {
+      "county": "Okanogan",
+      "site": "http://www.townofwinthrop.com/"
+    },
+    "Woodinville": {
+      "county": "King",
+      "site": "https://www.woodinville.gov/"
+    },
+    "Woodland": {
+      "county": "Cowlitz",
+      "site": "https://www.ci.woodland.wa.us/"
+    },
+    "Woodway": {
+      "county": "Snohomish",
+      "site": "https://www.townofwoodway.com/"
+    },
+    "Yacolt": {
+      "county": "Clark",
+      "site": "https://www.townofyacolt.com/"
     },
     "Yakima": {
       "county": "Yakima",
       "site": "https://www.yakimawa.gov/",
       "boards": "https://www.yakimawa.gov/council/board/"
     },
+    "Yarrow Point": {
+      "county": "King",
+      "site": "https://yarrowpointwa.gov/"
+    },
     "Yelm": {
       "county": "Thurston",
       "site": "https://yelmwa.gov/",
       "boards": "https://yelmwa.gov/government/boards_commissions/index.php"
+    },
+    "Zillah": {
+      "county": "Yakima",
+      "site": "https://www.cityofzillah.us/"
     }
   }
 }
