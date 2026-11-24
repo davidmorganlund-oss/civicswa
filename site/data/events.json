@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T04:06:08-08:00",
+ "generated": "2026-11-24T08:52:47-08:00",
  "events": [
   {
    "id": "936875d8c75d",
@@ -31,23 +31,6 @@
    "all_day": true,
    "location": "",
    "url": "https://cityofpoulsbo.granicus.com/AgendaViewer.php?view_id=1&event_id=1464",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
-   "id": "8d86d90143b7",
-   "title": "Record of the Proceedings - Tuesday Session",
-   "host": "Skagit County",
-   "source": "skagit-county",
-   "area": "countywide",
-   "county": "Skagit",
-   "category": "other",
-   "start": "2026-11-24T00:00:00-08:00",
-   "end": null,
-   "all_day": true,
-   "location": "",
-   "url": "https://skagit.granicus.com/AgendaViewer.php?view_id=2&event_id=1078",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -2340,7 +2323,7 @@
    "all_day": false,
    "location": "City Hall, Council Chambers, 216 Prospect Street, Port Orchard",
    "url": "https://portorchardwa.portal.civicclerk.com/event/2522/overview",
-   "agenda_url": "https://portorchardwa.portal.civicclerk.com/event/2522/files/agenda/5488",
+   "agenda_url": "https://portorchardwa.portal.civicclerk.com/event/2522/files/agenda/5491",
    "note": "",
    "cancelled": false,
    "highlights": [
@@ -3535,23 +3518,6 @@
    "cancelled": false
   },
   {
-   "id": "96527a3b8708",
-   "title": "School Board Meeting",
-   "host": "Curlew School District",
-   "source": "curlew-schools",
-   "area": "Curlew",
-   "county": "Ferry",
-   "category": "school",
-   "start": "2026-11-26T17:00:00-08:00",
-   "end": "2026-11-26T18:30:00-08:00",
-   "all_day": false,
-   "location": "",
-   "url": "https://www.curlewsd.org/",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
    "id": "23e71ab0d9bb",
    "title": "Planning Commission",
    "host": "Town of Friday Harbor",
@@ -4702,6 +4668,40 @@
    "url": "https://kennewickwa.portal.civicclerk.com/event/2159/overview",
    "agenda_url": "",
    "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "149957cc83b1",
+   "title": "Community and Economic Development Commission Regular Meeting",
+   "host": "City of Sunnyside",
+   "source": "sunnyside",
+   "area": "Sunnyside",
+   "county": "Yakima",
+   "category": "council",
+   "start": "2026-12-01T12:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "",
+   "url": "https://sunnyside.primegov.com/public/portal",
+   "agenda_url": "https://sunnyside.primegov.com/Portal/Meeting?meetingTemplateId=6754",
+   "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "b1d6476431f0",
+   "title": "Metropolitan King County Council",
+   "host": "King County",
+   "source": "king-county",
+   "area": "countywide",
+   "county": "King",
+   "category": "council",
+   "start": "2026-12-01T12:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Hybrid Meeting",
+   "url": "https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12863&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59",
+   "agenda_url": "https://kingcounty.legistar1.com/kingcounty/meetings/2026/12/12863_A_Metropolitan_King_County_Council_26-12-01_Meeting_Agenda.pdf",
+   "note": "SPECIAL MEETING - WORK SESSION",
    "cancelled": false
   },
   {
@@ -7582,6 +7582,23 @@
    "all_day": false,
    "location": "147 Schoen Ln, Eastsound",
    "url": "https://sanjuancowa.portal.civicclerk.com/event/3745/overview",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "b77b7606bb7c",
+   "title": "American Lake - Lake Management District",
+   "host": "City of Lakewood",
+   "source": "lakewood",
+   "area": "Lakewood",
+   "county": "Pierce",
+   "category": "council",
+   "start": "2026-12-03T16:00:00-08:00",
+   "end": "2026-12-03T18:00:00-08:00",
+   "all_day": false,
+   "location": "6000 Main St SW, Lakewood, WA 98499, USA",
+   "url": "https://cityoflakewood.us/city-council/city-council-agendas/",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -14430,7 +14447,7 @@
    "cancelled": false
   },
   {
-   "id": "9748459f714f",
+   "id": "c64ed8059a8d",
    "title": "Regular Board Meeting",
    "host": "North Kitsap School District",
    "source": "north-kitsap-schools",
@@ -14441,7 +14458,7 @@
    "end": null,
    "all_day": false,
    "location": "18360 Caldart Ave NE, Poulsbo, WA 98370, USA",
-   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10014",
+   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10017",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -19701,6 +19718,40 @@
    "cancelled": false
   },
   {
+   "id": "3663987b2e1d",
+   "title": "Board of County Commissioners Meeting* Postponed",
+   "host": "Pend Oreille County",
+   "source": "pend-oreille-county",
+   "area": "countywide",
+   "county": "Pend Oreille",
+   "category": "council",
+   "start": "2026-12-16T13:00:00-08:00",
+   "end": "2026-12-16T14:00:00-08:00",
+   "all_day": false,
+   "location": "",
+   "url": "https://www.pendoreille.gov/",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "a0d6133ae7b8",
+   "title": "Parks & Recreation Advisory Board Monthly Meeting *Postponed",
+   "host": "Pend Oreille County",
+   "source": "pend-oreille-county",
+   "area": "countywide",
+   "county": "Pend Oreille",
+   "category": "council",
+   "start": "2026-12-16T13:00:00-08:00",
+   "end": "2026-12-16T14:00:00-08:00",
+   "all_day": false,
+   "location": "",
+   "url": "https://www.pendoreille.gov/",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "14c95ad6623d",
    "title": "Examiner's Hearing: Stryder LLC Administrative Appeal, App. 1077697",
    "host": "Pierce County",
@@ -21246,6 +21297,23 @@
    "all_day": false,
    "location": "",
    "url": "https://cityoflakewood.us/city-council/city-council-agendas/",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "f7e4c65b444c",
+   "title": "School Board Meeting",
+   "host": "Curlew School District",
+   "source": "curlew-schools",
+   "area": "Curlew",
+   "county": "Ferry",
+   "category": "school",
+   "start": "2026-12-17T17:00:00-08:00",
+   "end": "2026-12-17T18:30:00-08:00",
+   "all_day": false,
+   "location": "",
+   "url": "https://www.curlewsd.org/",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -24722,23 +24790,6 @@
    "cancelled": false
   },
   {
-   "id": "c3110ea303e3",
-   "title": "School Board Meeting",
-   "host": "Curlew School District",
-   "source": "curlew-schools",
-   "area": "Curlew",
-   "county": "Ferry",
-   "category": "school",
-   "start": "2026-12-24T17:00:00-08:00",
-   "end": "2026-12-24T18:30:00-08:00",
-   "all_day": false,
-   "location": "",
-   "url": "https://www.curlewsd.org/",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
    "id": "39a3ebbe9cba",
    "title": "Library Board of Trustees",
    "host": "Ritzville Library District",
@@ -25929,7 +25980,7 @@
    "cancelled": false
   },
   {
-   "id": "df7f65991cd2",
+   "id": "cac5cb08d6da",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -30604,7 +30655,7 @@
    "cancelled": false
   },
   {
-   "id": "abe4cccca44e",
+   "id": "be418d9922e3",
    "title": "School Connections - Kingston Middle School",
    "host": "North Kitsap School District",
    "source": "north-kitsap-schools",
@@ -30615,7 +30666,7 @@
    "end": null,
    "all_day": false,
    "location": "",
-   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10015",
+   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10012",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -37268,7 +37319,7 @@
    "cancelled": false
   },
   {
-   "id": "d3d2af7f58c8",
+   "id": "9e9270a2880c",
    "title": "Regular Board Meeting",
    "host": "North Kitsap School District",
    "source": "north-kitsap-schools",
@@ -37279,7 +37330,7 @@
    "end": null,
    "all_day": false,
    "location": "18360 Caldart Ave NE, Poulsbo, WA 98370, USA",
-   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10017",
+   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10013",
    "agenda_url": "",
    "note": "",
    "cancelled": false
