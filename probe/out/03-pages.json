@@ -1,0 +1,686 @@
+{
+"_stamp": 1,
+"kind": "pages",
+"results": [
+{
+"key": "ospi0",
+"url": "https://ospi.k12.wa.us/maps/sdmainmap.aspx",
+"status": 200,
+"final": "https://ospi.k12.wa.us/about-ospi/about-school-districts/websites-and-contact-info",
+"error": null,
+"len": 360268
+},
+{
+"key": "ospi1",
+"url": "https://ospi.k12.wa.us/maps/sdmainmap.aspx?page=1",
+"status": 200,
+"final": "https://ospi.k12.wa.us/about-ospi/about-school-districts/websites-and-contact-info?page=1",
+"error": null,
+"len": 360604
+},
+{
+"key": "ospi2",
+"url": "https://ospi.k12.wa.us/maps/sdmainmap.aspx?page=2",
+"status": 200,
+"final": "https://ospi.k12.wa.us/about-ospi/about-school-districts/websites-and-contact-info?page=2",
+"error": null,
+"len": 361039
+},
+{
+"key": "ospi3",
+"url": "https://ospi.k12.wa.us/maps/sdmainmap.aspx?page=3",
+"status": 200,
+"final": "https://ospi.k12.wa.us/about-ospi/about-school-districts/websites-and-contact-info?page=3",
+"error": null,
+"len": 360832
+},
+{
+"key": "ospi4",
+"url": "https://ospi.k12.wa.us/maps/sdmainmap.aspx?page=4",
+"status": 200,
+"final": "https://ospi.k12.wa.us/about-ospi/about-school-districts/websites-and-contact-info?page=4",
+"error": null,
+"len": 360652
+},
+{
+"key": "ospi5",
+"url": "https://ospi.k12.wa.us/maps/sdmainmap.aspx?page=5",
+"status": 200,
+"final": "https://ospi.k12.wa.us/about-ospi/about-school-districts/websites-and-contact-info?page=5",
+"error": null,
+"len": 360761
+},
+{
+"key": "ospi6",
+"url": "https://ospi.k12.wa.us/maps/sdmainmap.aspx?page=6",
+"status": 200,
+"final": "https://ospi.k12.wa.us/about-ospi/about-school-districts/websites-and-contact-info?page=6",
+"error": null,
+"len": 346507
+},
+{
+"key": "ospi7",
+"url": "https://ospi.k12.wa.us/maps/sdmainmap.aspx?page=7",
+"status": 200,
+"final": "https://ospi.k12.wa.us/about-ospi/about-school-districts/websites-and-contact-info?page=7",
+"error": null,
+"len": 324236
+},
+{
+"key": "wppa",
+"url": "https://washingtonports.org/about-our-ports",
+"status": 200,
+"final": "https://www.washingtonports.org/about-wppa/",
+"error": null,
+"len": 209243
+},
+{
+"key": "oppa",
+"url": "https://oppa.specialdistrict.org/oregon-ports",
+"status": 200,
+"final": "https://oppa.specialdistrict.org/oregon-ports",
+"error": null,
+"len": 113654
+},
+{
+"key": "ode",
+"url": "https://www.oregon.gov/ode/about-us/Pages/School-Directory.aspx",
+"status": 200,
+"final": "https://www.oregon.gov/ode/about-us/Pages/School-Directory.aspx",
+"error": null,
+"len": 93332
+},
+{
+"key": "oaesd",
+"url": "https://oaesd.org/about-esds/",
+"status": 404,
+"final": "https://www.oaesd.org/about-esds/",
+"error": null,
+"len": 50931
+},
+{
+"key": "oaesd2",
+"url": "https://oaesd.org/",
+"status": 200,
+"final": "https://www.oaesd.org/",
+"error": null,
+"len": 85903
+},
+{
+"key": "icfl_t3",
+"url": "https://libraries.idaho.gov/files/Table%203%20-%20Idaho%20Public%20Libraries%20by%20Name.pdf",
+"status": 200,
+"final": "https://libraries.idaho.gov/files/Table%203%20-%20Idaho%20Public%20Libraries%20by%20Name.pdf",
+"error": null,
+"len": 24391
+},
+{
+"key": "wpuda",
+"url": "https://wpuda.org/members",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='wpuda.org', port=443): Max retries exceeded with url: /members (Caused by SSLError(SSLCertVerificationError(1, \"[S",
+"len": 0
+},
+{
+"key": "wpuda2",
+"url": "https://wpuda.org/",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='wpuda.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CER",
+"len": 0
+},
+{
+"key": "awphd",
+"url": "https://awphd.org/?p=422",
+"status": 200,
+"final": "https://www.awphd.org/about-us/",
+"error": null,
+"len": 226471
+},
+{
+"key": "wsl_dir",
+"url": "https://www.sos.wa.gov/library/libraries-and-library-services/washington-library-directory",
+"status": 404,
+"final": "https://www.sos.wa.gov/library/libraries-and-library-services/washington-library-directory",
+"error": null,
+"len": 190250
+},
+{
+"key": "aic",
+"url": "https://idahocities.org/page/CityLinks",
+"status": 403,
+"final": "https://idahocities.org/page/CityLinks",
+"error": null,
+"len": 5565
+},
+{
+"key": "iahd",
+"url": "https://www.idahohighwaydistricts.org/",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPSConnectionPool(host='www.idahohighwaydistricts.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSC",
+"len": 0
+},
+{
+"key": "sde",
+"url": "https://www.sde.idaho.gov/school-districts/",
+"status": 200,
+"final": "https://www.sde.idaho.gov/school-districts/",
+"error": null,
+"len": 125723
+},
+{
+"key": "nces1600002",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1600002",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1600090",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1600090",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1600138",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1600138",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1600150",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1600150",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1600180",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1600180",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1600240",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1600240",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1600420",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1600420",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1600480",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1600480",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1600540",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1600540",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1600570",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1600570",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1600630",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1600630",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1600660",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1600660",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1600690",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1600690",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1600750",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1600750",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1600780",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1600780",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1600815",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1600815",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1600840",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1600840",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1600870",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1600870",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1600930",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1600930",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1600960",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1600960",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1601050",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1601050",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1601080",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1601080",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1601110",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1601110",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1601170",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1601170",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1601230",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1601230",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1601260",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1601260",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1601380",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1601380",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1601440",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1601440",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1601500",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1601500",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1601570",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1601570",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1601590",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1601590",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1601650",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1601650",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1601710",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1601710",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1601740",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1601740",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1601830",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1601830",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1601860",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1601860",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1601920",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1601920",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1601950",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1601950",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1601980",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1601980",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1602030",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1602030",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1602060",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1602060",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1602070",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1602070",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1602100",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1602100",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1602130",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1602130",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1602190",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1602190",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1602220",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1602220",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1602250",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1602250",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1602280",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1602280",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1602340",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1602340",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1602370",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1602370",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1602400",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1602400",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1602430",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1602430",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1602490",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1602490",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1602670",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1602670",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1602700",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1602700",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1602730",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1602730",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1602820",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1602820",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1603030",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1603030",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1603180",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1603180",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1603210",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1603210",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1603240",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1603240",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1603270",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1603270",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1603300",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1603300",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+},
+{
+"key": "nces1603400",
+"url": "https://nces.ed.gov/ccd/districtsearch/district_detail.asp?ID2=1603400",
+"status": "robots",
+"final": null,
+"error": null,
+"len": 0
+}
+]
+}

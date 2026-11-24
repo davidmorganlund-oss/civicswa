@@ -1,0 +1,6996 @@
+{
+"_stamp": 1,
+"kind": "guess",
+"results": [
+{
+"id": "WA-1",
+"name": "Albion",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-27",
+"name": "Cusick",
+"state": "WA",
+"url": "https://www.townofcusick.com/",
+"status": 200,
+"final": "https://www.townofcusick.com/",
+"error": null,
+"title": "Town of Cusick, WA",
+"name_hits": [
+"cusick"
+],
+"name_toks": [
+"cusick"
+],
+"state_hit": true,
+"parked": false,
+"words": 275,
+"links": [
+[
+"https://www.townofcusick.com/departments/town_council/index.php",
+"Town Council"
+],
+[
+"https://www.townofcusick.com/departments/town_council/agendas_minutes.php",
+"Agendas & Minutes"
+],
+[
+"https://www.townofcusick.com/departments/town_council/agendas_minutes.php",
+"Agendas / Minutes"
+],
+[
+"https://www.townofcusick.com/calendar.php",
+"Calendar"
+],
+[
+"https://www.townofcusick.com/departments/town_council/agendas_minutes.php",
+"Meetings"
+],
+[
+"https://www.townofcusick.com/departments/town_council/agendas_minutes.php",
+"Agendas & Minutes"
+],
+[
+"https://www.townofcusick.com/council_meetings/index.php",
+"Council Meetings"
+],
+[
+"https://www.townofcusick.com/calendar.php",
+"Full calendar"
+]
+]
+},
+{
+"id": "WA-35",
+"name": "Endicott",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-47",
+"name": "Harrah",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-48",
+"name": "Harrington",
+"state": "WA",
+"url": "https://harringtonwa.gov/",
+"status": 200,
+"final": "https://www.harrington.city/",
+"error": null,
+"title": "City of Harrington, WA \u2013 The municipal government of Harrington, WA",
+"name_hits": [
+"harrington"
+],
+"name_toks": [
+"harrington"
+],
+"state_hit": true,
+"parked": false,
+"words": 93,
+"links": [
+[
+"https://www.harrington.city/about/government/",
+"Government Expand"
+],
+[
+"https://www.harrington.city/about/government/mayor/",
+"Mayor"
+],
+[
+"https://www.harrington.city/about/government/city-council/",
+"City Council"
+],
+[
+"https://www.harrington.city/about/government/",
+"Government"
+],
+[
+"https://www.harrington.city/about/government/mayor/",
+"Mayor"
+],
+[
+"https://www.harrington.city/about/government/city-council/",
+"City Council"
+]
+]
+},
+{
+"id": "WA-49",
+"name": "Hartline",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-50",
+"name": "Hatton",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-54",
+"name": "Index",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-55",
+"name": "Ione",
+"state": "WA",
+"url": "https://ionewa.gov/",
+"status": 200,
+"final": "https://www.ionewa.gov/",
+"error": null,
+"title": "Ione WA - Official Website",
+"name_hits": [
+"ione"
+],
+"name_toks": [
+"ione"
+],
+"state_hit": true,
+"parked": false,
+"words": 408,
+"links": [
+[
+"https://www.ionewa.gov/1/Government",
+"Government"
+],
+[
+"https://www.ionewa.gov/5/Agendas-and-Minutes",
+"Agendas & Minutes"
+],
+[
+"https://www.ionewa.gov/48/town-council",
+"Town Council"
+],
+[
+"https://www.ionewa.gov/6/City-Calendar",
+"Town Calendar"
+],
+[
+"https://www.ionewa.gov/15/",
+"Council"
+],
+[
+"https://www.ionewa.gov/19/",
+"Agendas & Minutes"
+],
+[
+"https://www.ionewa.gov/agenda.aspx",
+"Agendas & Minutes"
+],
+[
+"https://www.ionewa.gov/48/town-council",
+"Town Council"
+],
+[
+"https://www.ionewa.gov/calendar/",
+"Town Calendar"
+],
+[
+"https://www.ionewa.gov/14/city-council",
+"Council"
+],
+[
+"https://www.ionewa.gov/list.aspx?categoryid=2",
+"Agendas & Minutes"
+],
+[
+"https://www.ionewa.gov/agenda.aspx",
+"Agendas & Minutes"
+],
+[
+"https://www.ionewa.gov/calendar?category_id=27",
+"Calendar"
+],
+[
+"https://www.ionewa.gov/news/13/ione-town-council-vacancy",
+"Ione Town Council - Vacancy"
+],
+[
+"https://www.ionewa.gov/calendar/1686",
+"WA State Auditor Office - Accountability Audit Exit Conference 9:00 AM"
+],
+[
+"https://www.ionewa.gov/calendar/1568",
+"Town Council Meeting 6:30 PM"
+],
+[
+"https://www.ionewa.gov/calendar/1685",
+"2027 Budget Planning Workshop 9:00 AM"
+],
+[
+"https://www.ionewa.gov/calendar/1440",
+"Town Council Meeting 6:30 PM"
+],
+[
+"https://www.ionewa.gov/calendar/1569/town-council-meeting",
+"Town Council Meeting"
+],
+[
+"https://www.ionewa.gov/calendar/1441/town-council-meeting",
+"Town Council Meeting"
+],
+[
+"https://www.ionewa.gov/calendar/1570/town-council-meeting",
+"Town Council Meeting"
+],
+[
+"https://www.ionewa.gov/calendar/1442/town-council-meeting",
+"Town Council Meeting"
+],
+[
+"https://www.ionewa.gov/calendar",
+"View All Events"
+]
+]
+},
+{
+"id": "WA-56",
+"name": "Kahlotus",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-60",
+"name": "Krupp",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-61",
+"name": "La Conner",
+"state": "WA",
+"url": "https://www.townoflaconner.org/",
+"status": 200,
+"final": "https://www.townoflaconner.org/",
+"error": null,
+"title": "La Conner, WA | Official Website",
+"name_hits": [
+"conner"
+],
+"name_toks": [
+"conner"
+],
+"state_hit": true,
+"parked": false,
+"words": 319,
+"links": [
+[
+"https://www.townoflaconner.org/AlertCenter.aspx?AID=20262027-High-Tide-Awareness-Calendar-156",
+"2026-2027 High Tide Awareness Calendar Read On..."
+],
+[
+"https://www.townoflaconner.org/27/Town-Government",
+"Town Government"
+],
+[
+"https://www.townoflaconner.org/31/Commissions",
+"Commissions"
+],
+[
+"https://www.townoflaconner.org/Calendar.aspx",
+"Town Calendar"
+],
+[
+"https://www.townoflaconner.org/AgendaCenter",
+"Agendas & Minutes"
+],
+[
+"https://www.townoflaconner.org/232/Town-Council-Communication-Committee-Mee",
+"Town Council Meeting Recordings"
+],
+[
+"https://www.townoflaconner.org/151/Town-Council-Council-Meeting-Packet",
+"Town Council Meeting Packets"
+],
+[
+"https://www.townoflaconner.org/164/Planning-Commission",
+"Planning Commission Packets & Meeting Recordings"
+],
+[
+"https://www.townoflaconner.org/Calendar.aspx?EID=1167",
+"Town Council Meeting"
+],
+[
+"https://www.townoflaconner.org/Calendar.aspx?EID=1167",
+"Town Council Meeting Read On..."
+],
+[
+"https://www.townoflaconner.org/Calendar.aspx?EID=1092",
+"Emergency Management Commission"
+],
+[
+"https://www.townoflaconner.org/Calendar.aspx?EID=1092",
+"Emergency Management Commission Read On..."
+],
+[
+"https://www.townoflaconner.org/Calendar.aspx?EID=1041",
+"Planning Commission Meeting"
+],
+[
+"https://www.townoflaconner.org/Calendar.aspx?EID=1041",
+"Planning Commission Meeting Read On..."
+],
+[
+"https://www.townoflaconner.org/Calendar.aspx?EID=1338",
+"Creative District Advisory Committee Meeting"
+],
+[
+"https://www.townoflaconner.org/Calendar.aspx?EID=1338",
+"Creative District Advisory Committee Meeting Read On..."
+],
+[
+"https://www.townoflaconner.org/Calendar.aspx?EID=1230",
+"Town Council Meeting CANCELED"
+],
+[
+"https://www.townoflaconner.org/Calendar.aspx?EID=1230",
+"Town Council Meeting CANCELED Read On..."
+],
+[
+"https://www.townoflaconner.org/Calendar.aspx?EID=1277",
+"Parks Commission Meeting"
+],
+[
+"https://www.townoflaconner.org/Calendar.aspx?EID=1277",
+"Parks Commission Meeting Read On..."
+],
+[
+"https://www.townoflaconner.org/calendar.aspx?CID=22,14",
+"View All Events"
+]
+]
+},
+{
+"id": "WA-63",
+"name": "Lamont",
+"state": "WA",
+"url": "https://www.lamontwashington.com/",
+"status": 200,
+"final": "https://www.lamontwashington.com/",
+"error": null,
+"title": "LaMont Washington",
+"name_hits": [
+"lamont"
+],
+"name_toks": [
+"lamont"
+],
+"state_hit": true,
+"parked": false,
+"words": 235,
+"links": []
+},
+{
+"id": "WA-67",
+"name": "Lind",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-71",
+"name": "Malden",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-73",
+"name": "Marcus",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-78",
+"name": "Mesa",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-79",
+"name": "Metaline",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-80",
+"name": "Metaline Falls",
+"state": "WA",
+"url": "https://www.metalinefalls.gov/",
+"status": 200,
+"final": "https://metalinefalls.gov/",
+"error": null,
+"title": "Home - Town of Metaline Falls",
+"name_hits": [
+"metaline",
+"falls"
+],
+"name_toks": [
+"metaline",
+"falls"
+],
+"state_hit": true,
+"parked": false,
+"words": 120,
+"links": [
+[
+"https://metalinefalls.gov/council-and-staff/",
+"Council and Staff"
+],
+[
+"https://metalinefalls.gov/government-documents/",
+"Documents"
+],
+[
+"https://designorbital.com/wordpress-theme/free-municipality-government-wordpress-theme-city-town/",
+"City Town Theme"
+]
+]
+},
+{
+"id": "WA-83",
+"name": "Morton",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-86",
+"name": "Nespelem",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-99",
+"name": "Palouse",
+"state": "WA",
+"url": "https://palousewa.gov/",
+"status": 200,
+"final": "https://www.palousewa.gov/",
+"error": null,
+"title": "Home - City of Palouse",
+"name_hits": [
+"palouse"
+],
+"name_toks": [
+"palouse"
+],
+"state_hit": true,
+"parked": false,
+"words": 434,
+"links": [
+[
+"https://www.palousewa.gov/pages/government/",
+""
+],
+[
+"https://www.palousewa.gov/pages/government/",
+"Government"
+],
+[
+"https://www.palousewa.gov/pages/government/",
+""
+],
+[
+"https://www.palousewa.gov/pages/government/",
+"Government"
+],
+[
+"https://www.palousewa.gov/pages/government/",
+"View Government"
+],
+[
+"https://www.palousewa.gov/council-agendas/",
+"Council Agendas"
+],
+[
+"https://www.palousewa.gov/council-meetings/",
+"Council Minutes"
+]
+]
+},
+{
+"id": "WA-106",
+"name": "Reardan",
+"state": "WA",
+"url": "https://reardanwa.gov/",
+"status": 200,
+"final": "https://reardanwa.gov/",
+"error": null,
+"title": "Town of Reardan",
+"name_hits": [
+"reardan"
+],
+"name_toks": [
+"reardan"
+],
+"state_hit": true,
+"parked": false,
+"words": 568,
+"links": [
+[
+"https://reardanwa.gov/index.asp?SEC=439DFB6B-42B2-4320-8FF3-762AA1CB52CD",
+"Town Government"
+],
+[
+"https://reardanwa.gov/council",
+"Mayor & Council"
+],
+[
+"https://reardanwa.gov/meetings",
+"Council Meetings"
+],
+[
+"https://reardanwa.gov/index.asp?SEC=CAFB0023-A480-4104-B571-668B59E2437B",
+"2026 Council Meetings"
+],
+[
+"https://reardanwa.gov/index.asp?SEC=953079BF-E16B-49D2-BDFE-6732FB7328A4",
+"2025 Council Meetings"
+],
+[
+"https://reardanwa.gov/index.asp?SEC=B96ACD21-7CCE-47A3-B19B-8D204DF47D7D",
+"Planning Commission"
+],
+[
+"https://reardanwa.gov/index.asp?SEC=FB8D3E8D-B2EE-4FD9-BF13-CC81C83288A5",
+"Planning Commission Meetings"
+],
+[
+"https://reardanwa.gov/calendar",
+"Calendar"
+],
+[
+"https://reardanwa.gov/index.asp?SEC=439DFB6B-42B2-4320-8FF3-762AA1CB52CD",
+"Town Government"
+],
+[
+"https://reardanwa.gov/council",
+"Mayor & Council"
+],
+[
+"https://reardanwa.gov/meetings",
+"Council Meetings"
+],
+[
+"https://reardanwa.gov/index.asp?SEC=CAFB0023-A480-4104-B571-668B59E2437B",
+"2026 Council Meetings"
+],
+[
+"https://reardanwa.gov/index.asp?SEC=953079BF-E16B-49D2-BDFE-6732FB7328A4",
+"2025 Council Meetings"
+],
+[
+"https://reardanwa.gov/index.asp?SEC=B96ACD21-7CCE-47A3-B19B-8D204DF47D7D",
+"Planning Commission"
+],
+[
+"https://reardanwa.gov/index.asp?SEC=FB8D3E8D-B2EE-4FD9-BF13-CC81C83288A5",
+"Planning Commission Meetings"
+],
+[
+"https://reardanwa.gov/calendar",
+"Calendar"
+],
+[
+"https://catalisgov.com",
+"Government Websites by Catalis"
+],
+[
+"https://reardanwa.gov/calendar",
+"Events Calendar"
+]
+]
+},
+{
+"id": "WA-109",
+"name": "Riverside",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-119",
+"name": "South Cle Elum",
+"state": "WA",
+"url": "https://www.southcleelum.org/",
+"status": 200,
+"final": "https://southcleelum.org/",
+"error": null,
+"title": "Town of South Cle Elum",
+"name_hits": [
+"south",
+"cle",
+"elum"
+],
+"name_toks": [
+"south",
+"cle",
+"elum"
+],
+"state_hit": true,
+"parked": false,
+"words": 538,
+"links": [
+[
+"https://southcleelum.org/town-council",
+"Town Council"
+],
+[
+"https://southcleelum.org/planning-commission",
+"Planning Commission"
+],
+[
+"https://southcleelum.org/town-council",
+"Town Council"
+],
+[
+"https://southcleelum.org/planning-commission",
+"Planning Commission"
+],
+[
+"https://southcleelum.org/town-council",
+"Town Council"
+],
+[
+"https://southcleelum.org/planning-commission",
+"Planning Commission"
+]
+]
+},
+{
+"id": "WA-121",
+"name": "Spangle",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-125",
+"name": "Starbuck",
+"state": "WA",
+"url": "https://www.starbuck.org/",
+"status": 200,
+"final": "https://www.starbuck.org/",
+"error": null,
+"title": "Starbuck's Exploring",
+"name_hits": [
+"starbuck"
+],
+"name_toks": [
+"starbuck"
+],
+"state_hit": true,
+"parked": false,
+"words": 375,
+"links": []
+},
+{
+"id": "WA-140",
+"name": "Waverly",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-227",
+"name": "Port of Royal Slope",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-228",
+"name": "Port of Mattawa",
+"state": "WA",
+"url": "https://www.portofmattawa.org/",
+"status": 200,
+"final": "https://www.portofmattawa.org/",
+"error": null,
+"title": "Port of Mattawa",
+"name_hits": [
+"mattawa"
+],
+"name_toks": [
+"mattawa"
+],
+"state_hit": true,
+"parked": false,
+"words": 162,
+"links": [
+[
+"https://www.portofmattawa.org/meetings/",
+"Meetings"
+],
+[
+"https://www.portofmattawa.org/agendas/",
+"Agendas"
+],
+[
+"https://www.portofmattawa.org/commissioners/",
+"Port of Mattawa Commissioners"
+],
+[
+"https://www.portofmattawa.org/meetings/",
+"Meetings"
+],
+[
+"https://www.portofmattawa.org/agendas/",
+"Agendas"
+],
+[
+"https://www.portofmattawa.org/commissioners/",
+"Port of Mattawa Commissioners"
+]
+]
+},
+{
+"id": "WA-229",
+"name": "Port of Grand Coulee",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-230",
+"name": "Port of Warden",
+"state": "WA",
+"url": "https://www.portofwarden.com/",
+"status": 200,
+"final": "https://www.portofwarden.com/",
+"error": null,
+"title": "Port of Warden \u2013 In the heart of the Columbia Basin",
+"name_hits": [
+"warden"
+],
+"name_toks": [
+"warden"
+],
+"state_hit": true,
+"parked": false,
+"words": 186,
+"links": [
+[
+"https://www.portofwarden.com/commissioners/",
+"Commissioners"
+],
+[
+"https://www.portofwarden.com/upcoming-meetings/",
+"Upcoming Meetings 2025"
+]
+]
+},
+{
+"id": "WA-231",
+"name": "Port of Ephrata",
+"state": "WA",
+"url": "https://www.portofephrata.gov/",
+"status": 200,
+"final": "https://portofephrata.gov/",
+"error": null,
+"title": "Home - Port of Ephrata",
+"name_hits": [
+"ephrata"
+],
+"name_toks": [
+"ephrata"
+],
+"state_hit": true,
+"parked": false,
+"words": 922,
+"links": [
+[
+"https://portofephrata.gov/tenant-dashboard/",
+"Tenant Login"
+],
+[
+"https://portofephrata.gov/tenant-dashboard/",
+"Tenant Login"
+],
+[
+"http://grantedc.com",
+"Economic Development Council"
+],
+[
+"https://portofephrata.gov/commission-meetings/",
+"Commissioners Meetings"
+],
+[
+"http://grantedc.com",
+"Economic Development Council"
+],
+[
+"https://portofephrata.gov/commission-meetings/",
+"Commissioners Meetings"
+],
+[
+"http://grantedc.com",
+"Economic Development Council"
+],
+[
+"https://portofephrata.gov/commission-meetings/",
+"Commissioners Meetings"
+],
+[
+"https://portofephrata.gov/commission-meetings/",
+""
+],
+[
+"https://portofephrata.gov/commission-meetings/",
+"Commissioners meetings"
+],
+[
+"http://grantedc.com",
+"Economic Development Council"
+],
+[
+"https://portofephrata.gov/commission-meetings/",
+"Commissioners Meetings"
+]
+]
+},
+{
+"id": "WA-232",
+"name": "Port of Coulee City",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-233",
+"name": "Port of Hartline",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-234",
+"name": "Port of Wilson Creek",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-235",
+"name": "Port of Othello",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-239",
+"name": "Port of Chelan County (Chelan Douglas Regional Port Authority)",
+"state": "WA",
+"url": "https://www.portofchelancounty.com/",
+"status": 200,
+"final": "https://www.cdrpa.org/",
+"error": null,
+"title": "CDRPA",
+"name_hits": [
+"chelan",
+"chelan",
+"douglas",
+"authority"
+],
+"name_toks": [
+"chelan",
+"chelan",
+"douglas",
+"authority"
+],
+"state_hit": true,
+"parked": false,
+"words": 527,
+"links": [
+[
+"https://www.cdrpa.org/board-of-directors",
+"Board of Directors"
+],
+[
+"https://www.cdrpa.org/board-meetings",
+"Board Meetings"
+],
+[
+"https://www.cdrpa.org/real-estate-commission-policy",
+"Real Estate Commission Policy"
+],
+[
+"https://www.cdrpa.org/board-of-directors",
+"Board of Directors"
+],
+[
+"https://www.cdrpa.org/board-meetings",
+"Board Meetings"
+],
+[
+"https://www.cdrpa.org/real-estate-commission-policy",
+"Real Estate Commission Policy"
+],
+[
+"https://ncwctc.com/",
+"Premier Meeting & Event Space"
+]
+]
+},
+{
+"id": "WA-240",
+"name": "Port of Douglas County (Chelan Douglas Regional Port Authority)",
+"state": "WA",
+"url": "https://www.portofdouglas.org/",
+"status": 200,
+"final": "https://www.cdrpa.org/",
+"error": null,
+"title": "CDRPA",
+"name_hits": [
+"douglas",
+"chelan",
+"douglas",
+"authority"
+],
+"name_toks": [
+"douglas",
+"chelan",
+"douglas",
+"authority"
+],
+"state_hit": true,
+"parked": false,
+"words": 527,
+"links": [
+[
+"https://www.cdrpa.org/board-of-directors",
+"Board of Directors"
+],
+[
+"https://www.cdrpa.org/board-meetings",
+"Board Meetings"
+],
+[
+"https://www.cdrpa.org/real-estate-commission-policy",
+"Real Estate Commission Policy"
+],
+[
+"https://www.cdrpa.org/board-of-directors",
+"Board of Directors"
+],
+[
+"https://www.cdrpa.org/board-meetings",
+"Board Meetings"
+],
+[
+"https://www.cdrpa.org/real-estate-commission-policy",
+"Real Estate Commission Policy"
+],
+[
+"https://ncwctc.com/",
+"Premier Meeting & Event Space"
+]
+]
+},
+{
+"id": "WA-242",
+"name": "Port of Vancouver",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-245",
+"name": "Port of Columbia",
+"state": "WA",
+"url": "https://www.portofcolumbia.org/",
+"status": 200,
+"final": "https://portofcolumbia.org/",
+"error": null,
+"title": "Home - Port of Columbia",
+"name_hits": [
+"columbia"
+],
+"name_toks": [
+"columbia"
+],
+"state_hit": true,
+"parked": false,
+"words": 936,
+"links": [
+[
+"https://portofcolumbia.org/port-info/commissioners-meeting-info/",
+"Commissioners & Meeting Info"
+],
+[
+"https://portofcolumbia.org/port-info/commissioners-meeting-info/meeting-agendas-minutes-recordings/",
+"Meeting Agendas, Minutes, Recordings & Resolutions"
+],
+[
+"https://portofcolumbia.org/port-info/commissioners-meeting-info/meeting-schedule/",
+"Meeting Schedule"
+],
+[
+"https://portofcolumbia.org/calendar/",
+"Calendar"
+],
+[
+"https://portofcolumbia.org/port-info/commissioners-meeting-info/meeting-agendas-minutes-recordings/",
+"Click here"
+],
+[
+"https://portofcolumbia.org/event/june-meeting/",
+""
+],
+[
+"https://portofcolumbia.org/port-info/commissioners-meeting-info/meeting-schedule/",
+"here"
+],
+[
+"https://portofcolumbia.org/calendar/",
+"here"
+],
+[
+"https://portofcolumbia.org/calendar/",
+"Calendar"
+],
+[
+"https://portofcolumbia.org/events/ceds-meeting/",
+""
+],
+[
+"https://portofcolumbia.org/events/ceds-meeting/",
+"CEDS Meeting"
+]
+]
+},
+{
+"id": "WA-250",
+"name": "Port of Kahlotus",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-251",
+"name": "Port of Garfield",
+"state": "WA",
+"url": "https://www.portofgarfield.com/",
+"status": 200,
+"final": "https://www.portofgarfield.com/",
+"error": null,
+"title": "Port of Garfield | Port District+public government business",
+"name_hits": [
+"garfield"
+],
+"name_toks": [
+"garfield"
+],
+"state_hit": true,
+"parked": false,
+"words": 178,
+"links": [
+[
+"https://www.portofgarfield.com/mission-goals",
+"Commissioners & Staff"
+]
+]
+},
+{
+"id": "WA-253",
+"name": "Port of South Whidbey Island",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-254",
+"name": "Port of Coupeville",
+"state": "WA",
+"url": "https://www.portofcoupeville.org/",
+"status": 200,
+"final": "https://portoc.org/",
+"error": null,
+"title": "Port of Coupeville | Home of the Historic Coupeville Wharf and Greenbank Farm in the Heart of Whidbey Island",
+"name_hits": [
+"coupeville"
+],
+"name_toks": [
+"coupeville"
+],
+"state_hit": true,
+"parked": false,
+"words": 1125,
+"links": [
+[
+"https://portoc.org/port-business/agendas/",
+"Meeting Agendas"
+],
+[
+"https://portoc.org/port-business/minutes-2/",
+"Meeting Minutes"
+],
+[
+"https://portoc.org/events/",
+"Event Calendar"
+],
+[
+"https://portoc.org/event/port-of-coupeville-open-public-meeting-23/",
+""
+],
+[
+"https://portoc.org/event/port-of-coupeville-open-public-meeting-24/",
+""
+],
+[
+"https://portoc.org/event/port-of-coupeville-open-public-meeting-25/",
+""
+],
+[
+"https://www.iscoedc.com/",
+"Economic Development Council of Island County"
+],
+[
+"https://www.islandcountywa.gov/503/Council-of-Governments",
+"Island County Council of Governments"
+]
+]
+},
+{
+"id": "WA-255",
+"name": "Port of Mabana",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-257",
+"name": "Port of Keyport",
+"state": "WA",
+"url": "https://www.portofkeyport.com/",
+"status": 200,
+"final": "https://portofkeyport.com/",
+"error": null,
+"title": "The Port of Keyport \u2013 Serving our seaside community in Washington State",
+"name_hits": [
+"keyport"
+],
+"name_toks": [
+"keyport"
+],
+"state_hit": true,
+"parked": false,
+"words": 285,
+"links": [
+[
+"https://portofkeyport.com/blog/meeting-minutes/",
+"Monthly Meetings"
+],
+[
+"https://portofkeyport.com/blog/meeting-minutes/",
+"Monthly Meetings"
+]
+]
+},
+{
+"id": "WA-258",
+"name": "Port of Waterman",
+"state": "WA",
+"url": "https://www.portofwaterman.com/",
+"status": 200,
+"final": "https://www.portofwaterman.com/",
+"error": null,
+"title": "Port of Waterman \u2013 Located in Port Orchard, Washington",
+"name_hits": [
+"waterman"
+],
+"name_toks": [
+"waterman"
+],
+"state_hit": true,
+"parked": false,
+"words": 239,
+"links": [
+[
+"https://www.portofwaterman.com/homepage/port-of-waterman-commissioners/",
+"Commissioners"
+],
+[
+"https://www.facebook.com/Port-of-Waterman-government-109879080512801/",
+"Facebook"
+],
+[
+"https://www.portofwaterman.com/homepage/agendas/",
+"Agendas"
+],
+[
+"https://www.portofwaterman.com/homepage/minutes/",
+"Minutes"
+]
+]
+},
+{
+"id": "WA-259",
+"name": "Port of Tracyton",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-260",
+"name": "Port of Silverdale",
+"state": "WA",
+"url": "https://www.portofsilverdale.com/",
+"status": 200,
+"final": "https://www.portofsilverdale.com/",
+"error": null,
+"title": "Port of Silverdale",
+"name_hits": [
+"silverdale"
+],
+"name_toks": [
+"silverdale"
+],
+"state_hit": true,
+"parked": false,
+"words": 572,
+"links": [
+[
+"https://www.portofsilverdale.com/port-commission-info",
+"Port Commission Info"
+],
+[
+"https://www.portofsilverdale.com/commissioners",
+"Commissioners"
+],
+[
+"https://www.portofsilverdale.com/commissioner-district-map",
+"Commissioner District Map"
+],
+[
+"https://www.portofsilverdale.com/special-meeting-notice",
+"Meeting notice"
+],
+[
+"https://www.portofsilverdale.com/port-commission-info",
+"Port Commission Info"
+],
+[
+"https://www.portofsilverdale.com/commissioners",
+"Commissioners"
+],
+[
+"https://www.portofsilverdale.com/commissioner-district-map",
+"Commissioner District Map"
+],
+[
+"https://www.portofsilverdale.com/special-meeting-notice",
+"Meeting notice"
+],
+[
+"https://www.portofsilverdale.com/port-commission",
+"Folder: Port Commission"
+],
+[
+"https://www.portofsilverdale.com/port-commission-info",
+"Port Commission Info"
+],
+[
+"https://www.portofsilverdale.com/commissioners",
+"Commissioners"
+],
+[
+"https://www.portofsilverdale.com/commissioner-district-map",
+"Commissioner District Map"
+],
+[
+"https://www.portofsilverdale.com/special-meeting-notice",
+"Meeting notice"
+]
+]
+},
+{
+"id": "WA-261",
+"name": "Port of Poulsbo",
+"state": "WA",
+"url": "https://www.portofpoulsbo.com/",
+"status": 200,
+"final": "https://www.portofpoulsbo.com/",
+"error": null,
+"title": "HOME | Port of Poulsbo",
+"name_hits": [
+"poulsbo"
+],
+"name_toks": [
+"poulsbo"
+],
+"state_hit": true,
+"parked": false,
+"words": 536,
+"links": [
+[
+"https://www.portofpoulsbo.com/port-government",
+"PORT GOVERNMENT"
+],
+[
+"https://www.portofpoulsbo.com/archived-meeting-minutes-2020",
+"ARCHIVED MEETING MINUTES 2020"
+],
+[
+"https://www.portofpoulsbo.com/archived-meeting-minutes-2021",
+"ARCHIVED MEETING MINUTES 2021"
+],
+[
+"https://www.portofpoulsbo.com/archived-meeting-minutes-2022",
+"ARCHIVED MEETING MINUTES 2022"
+],
+[
+"https://visitpoulsbo.com/poulsbo-events-calendar/",
+"POULSBO EVENTS"
+],
+[
+"https://www.portofpoulsbo.com/port-government",
+"PORT GOVERNMENT"
+],
+[
+"https://cityofpoulsbo.com/community-events-calendar/",
+"POULSBO EVENTS"
+]
+]
+},
+{
+"id": "WA-262",
+"name": "Port of Manchester",
+"state": "WA",
+"url": "https://www.portofmanchester.com/",
+"status": 200,
+"final": "https://portofmanchester.com/",
+"error": null,
+"title": "PORT OF MANCHESTER",
+"name_hits": [
+"manchester"
+],
+"name_toks": [
+"manchester"
+],
+"state_hit": true,
+"parked": false,
+"words": 495,
+"links": [
+[
+"https://portofmanchester.com/governance",
+"GOVERNANCE"
+],
+[
+"https://portofmanchester.com/public-meetings-1",
+"PUBLIC MEETINGS"
+],
+[
+"https://portofmanchester.com/meeting-minutes-1",
+"MEETING MINUTES"
+],
+[
+"https://portofmanchester.com/meetings-%26-spaces",
+"MEETINGS & SPACES"
+],
+[
+"https://portofmanchester.com/governance",
+"GOVERNANCE"
+],
+[
+"https://portofmanchester.com/public-meetings-1",
+"PUBLIC MEETINGS"
+],
+[
+"https://portofmanchester.com/meeting-minutes-1",
+"MEETING MINUTES"
+],
+[
+"https://portofmanchester.com/meetings-%26-spaces",
+"MEETINGS & SPACES"
+],
+[
+"https://portofmanchester.com/governance",
+"GOVERNANCE"
+],
+[
+"https://portofmanchester.com/public-meetings-1",
+"PUBLIC MEETINGS"
+],
+[
+"https://portofmanchester.com/meeting-minutes-1",
+"MEETING MINUTES"
+],
+[
+"https://portofmanchester.com/meetings-%26-spaces",
+"MEETINGS & SPACES"
+]
+]
+},
+{
+"id": "WA-263",
+"name": "Port of Indianola",
+"state": "WA",
+"url": "https://www.portofindianola.com/",
+"status": 200,
+"final": "https://www.portofindianola.com/",
+"error": null,
+"title": "Port Of Indianola",
+"name_hits": [
+"indianola"
+],
+"name_toks": [
+"indianola"
+],
+"state_hit": true,
+"parked": false,
+"words": 103,
+"links": []
+},
+{
+"id": "WA-264",
+"name": "Port of Illahee",
+"state": "WA",
+"url": "https://www.portofillahee.com/",
+"status": 200,
+"final": "https://www.portofillahee.com/",
+"error": null,
+"title": "Port of Illahee",
+"name_hits": [
+"illahee"
+],
+"name_toks": [
+"illahee"
+],
+"state_hit": true,
+"parked": false,
+"words": 1784,
+"links": [
+[
+"https://www.PortofIllahee.com/?page_id=36",
+"Commissioner Officers/Duties"
+],
+[
+"https://www.PortofIllahee.com/?page_id=52",
+"Commissioners Bios"
+],
+[
+"https://www.PortofIllahee.com/?page_id=48",
+"Meetings & Governance"
+],
+[
+"https://www.PortofIllahee.com/?page_id=48",
+"Meetings / Minutes"
+],
+[
+"https://www.PortofIllahee.com/?page_id=1584",
+"Meeting Agenda Packets/Correspondence"
+],
+[
+"https://www.PortofIllahee.com/?page_id=46",
+"Kitsap All Ports Meetings"
+],
+[
+"https://www.PortofIllahee.com/?p=3101",
+"Regular Meeting for November 11, 2026"
+],
+[
+"http://www.portofillahee.com/wp-content/uploads/2026/11/11-November-Agenda-Packet.pdf",
+"November Agenda Packet"
+],
+[
+"https://www.PortofIllahee.com/?cat=4",
+"Meeting Announcements"
+],
+[
+"https://www.PortofIllahee.com/?p=3093",
+"Regular Meeting for October 14, 2026"
+],
+[
+"http://www.portofillahee.com/wp-content/uploads/2026/10/10-October-Agenda-Packet.pdf",
+"October Agenda Packet"
+],
+[
+"https://www.PortofIllahee.com/?cat=4",
+"Meeting Announcements"
+],
+[
+"https://www.PortofIllahee.com/?p=3079",
+"Notice of Cancelation of Special Meeting"
+],
+[
+"https://www.PortofIllahee.com/?p=3073",
+"Regular Meeting for September 9, 2026"
+],
+[
+"http://www.portofillahee.com/wp-content/uploads/2026/09/09-September-Agenda-Packet.pdf",
+"September Agenda Packet"
+],
+[
+"https://www.PortofIllahee.com/?cat=4",
+"Meeting Announcements"
+],
+[
+"https://www.PortofIllahee.com/?p=3054",
+"Regular Meeting for August 12, 2026"
+],
+[
+"http://www.portofillahee.com/wp-content/uploads/2026/08/08-August-Agenda-Packet-1.pdf",
+"August Agenda Packet"
+],
+[
+"https://www.PortofIllahee.com/?cat=4",
+"Meeting Announcements"
+],
+[
+"https://www.PortofIllahee.com/?p=3043",
+"Regular Meeting for July 8, 2026"
+],
+[
+"http://www.portofillahee.com/wp-content/uploads/2026/07/07-July-Agenda-Packet.pdf",
+"July Agenda Packet"
+],
+[
+"https://www.PortofIllahee.com/?cat=4",
+"Meeting Announcements"
+],
+[
+"https://www.PortofIllahee.com/?p=3033",
+"Regular Meeting for June 10, 2026"
+],
+[
+"http://www.portofillahee.com/wp-content/uploads/2026/06/06-June-Agenda-Packet.pdf",
+"June Agenda Packet"
+],
+[
+"https://www.PortofIllahee.com/?cat=4",
+"Meeting Announcements"
+],
+[
+"https://www.PortofIllahee.com/?p=3027",
+"Port Commissioner Position 3 Vacancy"
+],
+[
+"https://www.PortofIllahee.com/?p=3017",
+"Regular Meeting for May 13, 2026"
+],
+[
+"http://www.portofillahee.com/wp-content/uploads/2026/05/05-May-Agenda-Packet.pdf",
+"May Agenda Packet"
+],
+[
+"https://www.PortofIllahee.com/?p=3101",
+"Regular Meeting for November 11, 2026"
+],
+[
+"https://www.PortofIllahee.com/?p=3093",
+"Regular Meeting for October 14, 2026"
+],
+[
+"https://www.PortofIllahee.com/?p=3079",
+"Notice of Cancelation of Special Meeting"
+],
+[
+"https://www.PortofIllahee.com/?p=3073",
+"Regular Meeting for September 9, 2026"
+],
+[
+"https://www.PortofIllahee.com/?cat=4",
+"Meeting Announcements"
+]
+]
+},
+{
+"id": "WA-265",
+"name": "Port of Brownsville",
+"state": "WA",
+"url": "https://www.portofbrownsville.org/",
+"status": 200,
+"final": "https://portofbrownsville.org/",
+"error": null,
+"title": "Port of Brownsville | Large marina amenities, in a quiet, peaceful setting.",
+"name_hits": [
+"brownsville"
+],
+"name_toks": [
+"brownsville"
+],
+"state_hit": true,
+"parked": false,
+"words": 798,
+"links": [
+[
+"https://portofbrownsville.org/port-commission/",
+"Port Commission"
+],
+[
+"https://portofbrownsville.org/port-commissioners/",
+"Port Commissioners"
+],
+[
+"https://portofbrownsville.org/port-commission/",
+"Port Commission Info"
+],
+[
+"https://portofbrownsville.org/commissioner-district-map/",
+"Commissioner District Map"
+],
+[
+"https://portofbrownsville.org/commissioner-meeting-minutes/",
+"Commissioner Meeting Minutes"
+],
+[
+"https://portofbrownsville.org/calendar/",
+"Calendar"
+],
+[
+"https://outlook.office365.com/owa/calendar/MeetingwiththePortManger@portofbrownsville.org/bookings/",
+"Schedule Now"
+],
+[
+"https://portofbrownsville.org/calendar/",
+"View Calendar"
+],
+[
+"https://portofbrownsville.org/event/regular-commission-meeting-11/",
+"Regular Commission Meeting"
+],
+[
+"https://portofbrownsville.org/events/",
+"View Calendar"
+]
+]
+},
+{
+"id": "WA-266",
+"name": "Port of Eglon",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-267",
+"name": "Port of Klickitat",
+"state": "WA",
+"url": "https://www.portofklickitat.com/",
+"status": 200,
+"final": "https://www.portofklickitat.com/",
+"error": null,
+"title": "Homepage Port of Klickitat",
+"name_hits": [
+"klickitat"
+],
+"name_toks": [
+"klickitat"
+],
+"state_hit": true,
+"parked": false,
+"words": 382,
+"links": [
+[
+"https://www.portofklickitat.com/commissioners",
+"Commission"
+],
+[
+"https://www.portofklickitat.com/calendar",
+"Events Calendar"
+],
+[
+"https://www.portofklickitat.com/port-commission-meetings",
+"Commission Meetings"
+],
+[
+"https://www.portofklickitat.com/port-commission-meetings",
+"Port Commission Meetings"
+],
+[
+"https://www.portofklickitat.com/calendar",
+"Calendar"
+],
+[
+"https://www.portofklickitat.com/port-welcomes-our-new-port-commissioner-for-district-2-adelle-hye",
+"Port welcomes our new Port Commissioner for District #2 Adelle Hye Read more \u00bb"
+],
+[
+"https://www.portofklickitat.com/port-commissioner-bill-schmitt-district-2-resigns",
+"Port Commissioner Bill Schmitt District #2 Resigns Bingen, Washington \u2013The Port "
+],
+[
+"https://www.portofklickitat.com/port-welcomes-our-new-port-commissioner-for-district-3-billy-gross",
+"Port welcomes our New Port Commissioner for District #3 Billy Gross Read more \u00bb"
+],
+[
+"https://www.portofklickitat.com/port-commissioner-district-3-wayne-vinyard-passes-away",
+"Port Commissioner District 3 Wayne Vinyard Passes Away Bingen, Washington \u2013 Port"
+],
+[
+"https://www.portofklickitat.com/designated-pathways",
+"Designated Pathways Watch for the new \"Path\" signs when you visit Sailboard Park"
+],
+[
+"https://www.portofklickitat.com/port-commission-meetings",
+"Port Commission Meetings"
+],
+[
+"https://www.portofklickitat.com/2026-12-01-port-commission-meeting",
+"Dec 1 2026 Port Commission Meeting Read more \u00bb"
+]
+]
+},
+{
+"id": "WA-271",
+"name": "Port of Hoodsport",
+"state": "WA",
+"url": "https://www.portofhoodsport.us/",
+"status": 200,
+"final": "https://portofhoodsport.us/",
+"error": null,
+"title": "Home | The Port Of Hoodsport | (360) 877-9350",
+"name_hits": [
+"hoodsport"
+],
+"name_toks": [
+"hoodsport"
+],
+"state_hit": true,
+"parked": false,
+"words": 321,
+"links": [
+[
+"https://portofhoodsport.us/port-of-hoodsport-agendas/",
+"What\u2019s Happening"
+],
+[
+"https://portofhoodsport.us/category/regular-port-commission-meeting-agenda/",
+"Regular Port Commission Meeting Agenda"
+],
+[
+"https://portofhoodsport.us/category/port-commission-minutes/",
+"Port Commission Minutes"
+],
+[
+"https://portofhoodsport.us/port-commissioners/",
+"Commissioners"
+],
+[
+"https://portofhoodsport.us/2026-port-of-hoodsport-regular-port-commission-meeting-dates-9/",
+"2026 Port of Hoodsport Regular Port Commission Meeting Dates"
+],
+[
+"https://portofhoodsport.us/2026-september-23-regular-port-commission-meeting-minutes/",
+"2026 September 23 Regular Port Commission Meeting Minutes"
+],
+[
+"https://portofhoodsport.us/2026-august-5-regular-port-commission-meeting-minutes/",
+"2026 August 5 Regular Port Commission Meeting Minutes"
+],
+[
+"https://portofhoodsport.us/2026-october-21-draft-agenda/",
+"2026 October 21 \u201cDRAFT\u201d Agenda"
+],
+[
+"https://portofhoodsport.us/2026-port-of-hoodsport-regular-port-commission-meeting-dates-8/",
+"2026 Port of Hoodsport Regular Port Commission Meeting Dates"
+],
+[
+"https://portofhoodsport.us/2026-july-8-regular-port-commission-meeting-minutes/",
+"2026 July 8 Regular Port Commission Meeting Minutes"
+]
+]
+},
+{
+"id": "WA-272",
+"name": "Port of Grapeview",
+"state": "WA",
+"url": "https://www.portofgrapeview.com/",
+"status": 200,
+"final": "https://www.portofgrapeview.com/",
+"error": null,
+"title": "HOME | port-of-grapeview",
+"name_hits": [
+"grapeview"
+],
+"name_toks": [
+"grapeview"
+],
+"state_hit": true,
+"parked": false,
+"words": 250,
+"links": [
+[
+"https://www.portofgrapeview.com/meeting-minutes",
+"Port Document Databases"
+],
+[
+"https://www.portofgrapeview.com/test-page",
+"Commissioner Portal (password required)"
+]
+]
+},
+{
+"id": "WA-273",
+"name": "Port of Dewatto",
+"state": "WA",
+"url": "https://www.portofdewatto.com/",
+"status": 200,
+"final": "https://portofdewatto.com/",
+"error": null,
+"title": "PORTOFDEWATTO.COM | Home | Port of Dewatto",
+"name_hits": [
+"dewatto"
+],
+"name_toks": [
+"dewatto"
+],
+"state_hit": true,
+"parked": false,
+"words": 412,
+"links": [
+[
+"https://portofdewatto.com/campground-calendar/",
+"Campground Calendar"
+],
+[
+"https://portofdewatto.com/events-calendar/",
+"Local Events & Links"
+],
+[
+"https://portofdewatto.com/events-calendar/",
+"Local Events"
+],
+[
+"https://portofdewatto.com/campground-calendar/",
+"Campground Calendar"
+],
+[
+"https://portofdewatto.com/events-calendar/",
+"Local Events"
+],
+[
+"https://portofdewatto.com/forms-records/",
+"Minutes and Public Records"
+],
+[
+"https://portofdewatto.com/blog/2023-04-22/commissioner-ray-mow-rest-in-peace/",
+""
+],
+[
+"https://portofdewatto.com/blog/2023-04-22/commissioner-ray-mow-rest-in-peace/",
+"Commissioner Ray Mow \u2014 Rest in Peace"
+]
+]
+},
+{
+"id": "WA-274",
+"name": "Port of Allyn",
+"state": "WA",
+"url": "https://www.portofallyn.com/",
+"status": 200,
+"final": "https://portofallyn.com/",
+"error": null,
+"title": "PORTOFALLYN.COM | Home | Port Of Allyn",
+"name_hits": [
+"allyn"
+],
+"name_toks": [
+"allyn"
+],
+"state_hit": true,
+"parked": false,
+"words": 580,
+"links": [
+[
+"https://portofallyn.com/meeting-documents/",
+"ALL MEETING DOCUMENTS"
+],
+[
+"https://portofallyn.com/meeting-documents/",
+"Meeting Documents"
+],
+[
+"https://portofallyn.com/videos/",
+"Meeting Videos"
+],
+[
+"https://youtube.com/playlist?list=PLvSHZ2XPXfgjYd9kfDa00Ppaz3XpHXwys",
+"Meeting Videos (MasonWebTV)"
+],
+[
+"https://portofallyn.com/./blog/zoom-meetings/",
+"Zoom Meeting Announcements"
+],
+[
+"https://portofallyn.com/poa-calendar/",
+"Calendar"
+],
+[
+"https://portofallyn.com/events-calendar/",
+"Activities Calendar"
+],
+[
+"https://portofallyn.com/meeting-documents/",
+""
+],
+[
+"https://portofallyn.com/events-calendar",
+""
+],
+[
+"https://drive.google.com/file/d/1EPiupc3qlIV2fANncqPY2xzWmIce6sD0/view",
+"Monthly Port Of Allyn Regular Meeting Time Change to 4pm each Second Monday of t"
+],
+[
+"https://portofallyn.com/tag/calendar-items/",
+"calendar items"
+]
+]
+},
+{
+"id": "WA-275",
+"name": "Port of Willapa Harbor",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-276",
+"name": "Port of Peninsula",
+"state": "WA",
+"url": "https://www.portofpeninsula.us/",
+"status": 200,
+"final": "https://portofpeninsula.us/",
+"error": null,
+"title": "Port of Peninsula \u2013 the Port at the End of the World!!",
+"name_hits": [
+"peninsula"
+],
+"name_toks": [
+"peninsula"
+],
+"state_hit": true,
+"parked": false,
+"words": 98,
+"links": [
+[
+"https://portofpeninsula.us/commission/",
+"Commission"
+],
+[
+"https://portofpeninsula.us/commission/",
+"Commission"
+]
+]
+},
+{
+"id": "WA-278",
+"name": "Port of Chinook",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-279",
+"name": "Port of Pend Oreille",
+"state": "WA",
+"url": "https://www.portofpendoreille.com/",
+"status": 200,
+"final": "https://portofpendoreille.com/",
+"error": null,
+"title": "Port of Pend Oreille",
+"name_hits": [
+"pend",
+"oreille"
+],
+"name_toks": [
+"pend",
+"oreille"
+],
+"state_hit": true,
+"parked": false,
+"words": 586,
+"links": [
+[
+"https://portofpendoreille.com/commissioners/",
+"Commissioners"
+],
+[
+"https://portofpendoreille.com/meetings/",
+"Meetings"
+],
+[
+"https://portofpendoreille.com/minutes/",
+"Minutes"
+],
+[
+"https://portofpendoreille.com/agendas/",
+"Agendas"
+],
+[
+"https://portofpendoreille.com/commissioners/",
+"Commissioners"
+],
+[
+"https://portofpendoreille.com/meetings/",
+"Meetings"
+],
+[
+"https://portofpendoreille.com/minutes/",
+"Minutes"
+],
+[
+"https://portofpendoreille.com/agendas/",
+"Agendas"
+],
+[
+"https://portofpendoreille.com/wp-content/uploads/2026/11/October-13-2026-Approved.pdf",
+"Minutes Minutes"
+],
+[
+"https://portofpendoreille.com/commissioners/",
+"Commissioners"
+],
+[
+"https://portofpendoreille.com/commissioners/",
+"Commissioners"
+],
+[
+"https://portofpendoreille.com/meetings/",
+"Meetings"
+],
+[
+"https://portofpendoreille.com/agendas/",
+"Agendas"
+],
+[
+"https://portofpendoreille.com/minutes/",
+"Minutes"
+],
+[
+"https://portofpendoreille.com/meetings/",
+"Meetings"
+],
+[
+"https://portofpendoreille.com/agendas/",
+"Agendas"
+],
+[
+"https://portofpendoreille.com/minutes/",
+"Minutes"
+]
+]
+},
+{
+"id": "WA-281",
+"name": "Port of Orcas",
+"state": "WA",
+"url": "https://www.portoforcas.com/",
+"status": 200,
+"final": "https://www.portoforcas.com/",
+"error": null,
+"title": "Port of Orcas \u2013 Gateway to the Gem of the San Juans",
+"name_hits": [
+"orcas"
+],
+"name_toks": [
+"orcas"
+],
+"state_hit": true,
+"parked": false,
+"words": 1764,
+"links": [
+[
+"http://www.portoforcas.com/dev/wp-content/uploads/2023/11/In-response-to-the-request-made-by-Orcas-Port-Commissioner-Robert-Hamilton-this-morning.pdf",
+"San Juan Airlines Noise Reduction"
+],
+[
+"https://www.portoforcas.com/2026-meetings-and-financial-reports/",
+"Public Meetings & Docs"
+],
+[
+"https://www.portoforcas.com/2026-meetings-and-financial-reports/",
+"Agendas, Minutes, Financials"
+],
+[
+"https://www.portoforcas.com/2026-meetings-and-financial-reports/",
+"2026 Agendas, Minutes, Financial and Manager Reports"
+],
+[
+"https://www.portoforcas.com/2025-minutes-and-financial-reports/",
+"2025 Agendas, Minutes, Financial and Manager Reports"
+],
+[
+"https://www.portoforcas.com/2024-agendas-minutes-financial-and-manager-reports/",
+"2024 Agendas, Minutes, Financial and Manager Reports"
+],
+[
+"https://www.portoforcas.com/2023-minutes-financial-and-manager-report/",
+"2023 Agendas, Minutes, Financial and Manager Reports"
+],
+[
+"https://www.portoforcas.com/2022-minutes-financial-and-manager-reports/",
+"2022 Minutes, Financial and Manager Reports"
+],
+[
+"https://www.portoforcas.com/2021-2/",
+"2021 Minutes, Financial and Manager Reports"
+],
+[
+"https://www.portoforcas.com/2020-minutes/",
+"2020 Minutes, Financial and Manager Reports"
+],
+[
+"https://www.portoforcas.com/2019-minutes/",
+"2019"
+],
+[
+"https://www.portoforcas.com/2018-minutes/",
+"2018"
+],
+[
+"https://www.portoforcas.com/2017-minutes/",
+"2017"
+],
+[
+"https://www.portoforcas.com/2015-minutes/",
+"2016"
+],
+[
+"https://www.portoforcas.com/2015-minutes-2/",
+"2015"
+],
+[
+"http://www.portoforcas.com/contacts/",
+"board of five elected commissioners"
+],
+[
+"https://www.portoforcas.com/2026-meetings-and-financial-reports/",
+"Agenda and access information for meetings can be found here."
+],
+[
+"http://www.portoforcas.com/dev/wp-content/uploads/2023/11/In-response-to-the-request-made-by-Orcas-Port-Commissioner-Robert-Hamilton-this-morning.pdf",
+"San Juan Airlines Noise Reduction"
+],
+[
+"https://www.portoforcas.com/2026-meetings-and-financial-reports/",
+"Public Meetings & Docs"
+],
+[
+"https://www.portoforcas.com/2026-meetings-and-financial-reports/",
+"Agendas, Minutes, Financials"
+],
+[
+"https://www.portoforcas.com/2026-meetings-and-financial-reports/",
+"2026 Agendas, Minutes, Financial and Manager Reports"
+],
+[
+"https://www.portoforcas.com/2025-minutes-and-financial-reports/",
+"2025 Agendas, Minutes, Financial and Manager Reports"
+],
+[
+"https://www.portoforcas.com/2024-agendas-minutes-financial-and-manager-reports/",
+"2024 Agendas, Minutes, Financial and Manager Reports"
+],
+[
+"https://www.portoforcas.com/2023-minutes-financial-and-manager-report/",
+"2023 Agendas, Minutes, Financial and Manager Reports"
+],
+[
+"https://www.portoforcas.com/2022-minutes-financial-and-manager-reports/",
+"2022 Minutes, Financial and Manager Reports"
+],
+[
+"https://www.portoforcas.com/2021-2/",
+"2021 Minutes, Financial and Manager Reports"
+],
+[
+"https://www.portoforcas.com/2020-minutes/",
+"2020 Minutes, Financial and Manager Reports"
+],
+[
+"https://www.portoforcas.com/2019-minutes/",
+"2019"
+],
+[
+"https://www.portoforcas.com/2018-minutes/",
+"2018"
+],
+[
+"https://www.portoforcas.com/2017-minutes/",
+"2017"
+],
+[
+"https://www.portoforcas.com/2015-minutes/",
+"2016"
+],
+[
+"https://www.portoforcas.com/2015-minutes-2/",
+"2015"
+]
+]
+},
+{
+"id": "WA-282",
+"name": "Port of Lopez",
+"state": "WA",
+"url": "https://www.portoflopez.com/",
+"status": 200,
+"final": "https://www.portoflopez.com/",
+"error": null,
+"title": "Port of Lopez \u2013 Lopez Island, WA",
+"name_hits": [
+"lopez"
+],
+"name_toks": [
+"lopez"
+],
+"state_hit": true,
+"parked": false,
+"words": 1019,
+"links": [
+[
+"https://www.portoflopez.com/commission/",
+"Commission"
+],
+[
+"https://www.portoflopez.com/calendar/",
+"Meeting Agendas 2026"
+],
+[
+"https://www.portoflopez.com/meeting-minutes/",
+"Meeting Minutes"
+],
+[
+"https://www.portoflopez.com/meeting-minutes/past-meeting-minutes/",
+"Past Meeting Minutes"
+],
+[
+"https://www.portoflopez.com/events/event/",
+"Calendar"
+],
+[
+"https://www.portoflopez.com/calendar/",
+"AGENDA"
+],
+[
+"https://www.portoflopez.com/meeting-minutes/",
+"Past Meetings \u2013 Minutes"
+],
+[
+"https://www.portoflopez.com/port-of-lopez-2027-budget-meeting/",
+"Port of Lopez 2027 Budget Meeting"
+],
+[
+"https://www.portoflopez.com/port-of-lopez-2027-budget-meeting/",
+"[Read more\u2026]"
+],
+[
+"https://www.portoflopez.com/special-meeting-thursday-october-22nd/",
+"Special Meeting Thursday, October 22nd"
+],
+[
+"https://www.portoflopez.com/special-meeting-thursday-october-22nd/",
+"[Read more\u2026]"
+],
+[
+"https://www.portoflopez.com/port-sponsored-proposition-1-to-extend-commission-term-limits-from-four-to-six-years/",
+"Port-Sponsored Proposition 1, to extend commission term-limits from four to six "
+],
+[
+"https://www.portoflopez.com/port-sponsored-proposition-1-to-extend-commission-term-limits-from-four-to-six-years/",
+"[Read more\u2026]"
+],
+[
+"https://www.portoflopez.com/special-meeting-for-executive-session-to-discuss-real-estate-acquisition/",
+"Special Meeting for Executive Session to Discuss Real Estate Acquisition"
+],
+[
+"https://www.portoflopez.com/special-meeting-for-executive-session-to-discuss-real-estate-acquisition/",
+"[Read more\u2026]"
+],
+[
+"https://www.portoflopez.com/upcoming-special-budget-update-meeting/",
+"Upcoming: Special Budget Update Meeting"
+],
+[
+"https://www.portoflopez.com/upcoming-special-budget-update-meeting/",
+"[Read more\u2026]"
+],
+[
+"https://www.portoflopez.com/port-of-lopez-public-budget-hearing-and-board-meeting-november-13th-4pm/",
+"Port Of Lopez Public Budget Hearing and Board Meeting, November 13th, 4pm."
+],
+[
+"https://www.portoflopez.com/port-of-lopez-public-budget-hearing-and-board-meeting-november-13th-4pm/",
+"[Read more\u2026]"
+]
+]
+},
+{
+"id": "WA-285",
+"name": "Port of Skamania County",
+"state": "WA",
+"url": "https://www.portofskamania.org/",
+"status": 200,
+"final": "https://www.portofskamania.org/",
+"error": null,
+"title": "Homepage Port of Skamania County",
+"name_hits": [
+"skamania"
+],
+"name_toks": [
+"skamania"
+],
+"state_hit": true,
+"parked": false,
+"words": 290,
+"links": [
+[
+"https://www.portofskamania.org/governance",
+"Governance"
+],
+[
+"https://www.portofskamania.org/port-board-of-commissioners",
+"Commission"
+],
+[
+"https://www.portofskamania.org/commission-meetings",
+"Commission Meetings"
+],
+[
+"https://www.portofskamania.org/previous-minutes",
+"Commission Minutes Archive"
+],
+[
+"https://www.portofskamania.org/previous-agendas",
+"Commission Agendas Archive"
+],
+[
+"https://www.portofskamania.org/previous-agendas",
+"Archive | Agendas"
+],
+[
+"https://www.portofskamania.org/previous-minutes",
+"Archive | Minutes"
+],
+[
+"https://www.portofskamania.org/calendar",
+"Updates"
+],
+[
+"https://www.portofskamania.org/calendar",
+"Calendar"
+],
+[
+"https://www.portofskamania.org/commission-meetings",
+"Commission Meeting Calendar"
+],
+[
+"https://www.portofskamania.org/port-board-of-commissioners",
+"Port Board of Commissioners"
+],
+[
+"https://www.portofskamania.org/calendar",
+"Calendar"
+],
+[
+"https://www.portofskamania.org/2026-12-14-commission-special-meeting",
+"Dec 14 2026 Commission Special Meeting The Port of Skamania County Board of Comm"
+],
+[
+"https://www.portofskamania.org/commission-meetings",
+"Commission Meetings"
+],
+[
+"https://www.portofskamania.org/2026-12-14-commission-special-meeting",
+"Dec 14 2026 Commission Special Meeting Read more \u00bb"
+],
+[
+"https://www.portofskamania.org/2027-01-18-commission-meeting",
+"Jan 18 2027 Commission Meeting Read more \u00bb"
+]
+]
+},
+{
+"id": "WA-288",
+"name": "Port of Wahkiakum County No. 1",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-289",
+"name": "Port of Wahkiakum County No. 2",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-293",
+"name": "Port of Grandview",
+"state": "WA",
+"url": "https://www.portofgrandview.org/",
+"status": 200,
+"final": "https://portofgrandview.org/",
+"error": null,
+"title": "Business Opportunities in Central Washington - Port of Grandview",
+"name_hits": [
+"grandview"
+],
+"name_toks": [
+"grandview"
+],
+"state_hit": true,
+"parked": false,
+"words": 340,
+"links": [
+[
+"https://portofgrandview.org/about/commissioners/",
+"Commissioners"
+],
+[
+"https://portofgrandview.org/about/meetings/",
+"Meetings"
+]
+]
+},
+{
+"id": "WA-294",
+"name": "North Central Regional Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-295",
+"name": "Everett Public Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-296",
+"name": "Yakima Valley Regional Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-297",
+"name": "Bellingham Public Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-298",
+"name": "Camas Public Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-299",
+"name": "Longview Public Library",
+"state": "WA",
+"url": "https://www.longviewlibrary.org/",
+"status": 200,
+"final": "https://www.longviewlibrary.org/743/Library",
+"error": null,
+"title": "Library | Longview, WA",
+"name_hits": [
+"longview"
+],
+"name_toks": [
+"longview"
+],
+"state_hit": true,
+"parked": false,
+"words": 559,
+"links": [
+[
+"https://www.longviewlibrary.org/m/calendar?cat=44",
+"Calendar"
+],
+[
+"https://www.longviewlibrary.org/m/calendar?searchTerms=&startDate=2026-11-24&endDate=2026-11-24&cat=44",
+"24"
+],
+[
+"https://www.longviewlibrary.org/m/calendar?searchTerms=&startDate=2026-11-25&endDate=2026-11-25&cat=44",
+"25"
+],
+[
+"https://www.longviewlibrary.org/m/calendar?searchTerms=&startDate=2026-11-26&endDate=2026-11-26&cat=44",
+"26"
+],
+[
+"https://www.longviewlibrary.org/m/calendar?searchTerms=&startDate=2026-11-27&endDate=2026-11-27&cat=44",
+"27"
+],
+[
+"https://www.longviewlibrary.org/m/calendar?searchTerms=&startDate=2026-11-28&endDate=2026-11-28&cat=44",
+"28"
+],
+[
+"https://www.longviewlibrary.org/m/calendar?searchTerms=&startDate=2026-11-30&endDate=2026-11-30&cat=44",
+"30"
+],
+[
+"https://www.longviewlibrary.org/m/calendar?searchTerms=&startDate=2026-12-01&endDate=2026-12-01&cat=44",
+"01"
+],
+[
+"https://www.longviewlibrary.org/m/calendar?searchTerms=&startDate=2026-12-02&endDate=2026-12-02&cat=44",
+"02"
+],
+[
+"https://www.longviewlibrary.org/m/calendar?searchTerms=&startDate=2026-12-03&endDate=2026-12-03&cat=44",
+"03"
+],
+[
+"https://www.longviewlibrary.org/m/calendar?searchTerms=&startDate=2026-12-04&endDate=2026-12-04&cat=44",
+"04"
+],
+[
+"https://www.longviewlibrary.org/m/calendar/event/detail/3433",
+"Baby & Me Story Time"
+],
+[
+"https://www.longviewlibrary.org/m/calendar/event/detail/3433",
+"Baby & Me Story Time Read on..."
+],
+[
+"https://www.longviewlibrary.org/m/calendar/event/detail/3576",
+"Mobile Library After School: Archie Anderson Park"
+],
+[
+"https://www.longviewlibrary.org/m/calendar/event/detail/3576",
+"Mobile Library After School: Archie Anderson Park Read on..."
+],
+[
+"https://www.longviewlibrary.org/m/calendar/event/detail/3420",
+"Toddler Time"
+],
+[
+"https://www.longviewlibrary.org/m/calendar/event/detail/3420",
+"Toddler Time Read on..."
+],
+[
+"https://www.longviewlibrary.org/m/calendar/event/detail/3270",
+"Longview Room Hours"
+],
+[
+"https://www.longviewlibrary.org/m/calendar/event/detail/3270",
+"Longview Room Hours Read on..."
+],
+[
+"https://www.longviewlibrary.org/m/calendar/event/detail/2754",
+"Books & Banter"
+],
+[
+"https://www.longviewlibrary.org/m/calendar/event/detail/2754",
+"Books & Banter Read on..."
+],
+[
+"https://www.longviewlibrary.org/m/calendar/event/detail/3630",
+"LIBRARY CLOSED: Thanksgiving"
+],
+[
+"https://www.longviewlibrary.org/m/calendar/event/detail/3630",
+"LIBRARY CLOSED: Thanksgiving Read on..."
+],
+[
+"https://www.longviewlibrary.org/m/calendar?cat=44",
+"View All Events"
+],
+[
+"https://www.longviewlibrary.org/m/calendar?searchTerms=&startDate=2026-11-24&endDate=2026-11-24&cat=44",
+"24"
+],
+[
+"https://www.longviewlibrary.org/m/calendar?searchTerms=&startDate=2026-11-25&endDate=2026-11-25&cat=44",
+"25"
+],
+[
+"https://www.longviewlibrary.org/m/calendar?searchTerms=&startDate=2026-11-26&endDate=2026-11-26&cat=44",
+"26"
+],
+[
+"https://www.longviewlibrary.org/m/calendar?searchTerms=&startDate=2026-11-27&endDate=2026-11-27&cat=44",
+"27"
+],
+[
+"https://www.longviewlibrary.org/m/calendar?searchTerms=&startDate=2026-11-28&endDate=2026-11-28&cat=44",
+"28"
+],
+[
+"https://www.longviewlibrary.org/m/calendar?searchTerms=&startDate=2026-11-30&endDate=2026-11-30&cat=44",
+"30"
+],
+[
+"https://www.longviewlibrary.org/m/calendar?searchTerms=&startDate=2026-12-01&endDate=2026-12-01&cat=44",
+"01"
+],
+[
+"https://www.longviewlibrary.org/m/calendar?searchTerms=&startDate=2026-12-02&endDate=2026-12-02&cat=44",
+"02"
+],
+[
+"https://www.longviewlibrary.org/m/calendar?searchTerms=&startDate=2026-12-03&endDate=2026-12-03&cat=44",
+"03"
+],
+[
+"https://www.longviewlibrary.org/m/calendar?searchTerms=&startDate=2026-12-04&endDate=2026-12-04&cat=44",
+"04"
+],
+[
+"https://www.longviewlibrary.org/m/calendar/event/detail/3433",
+"Baby & Me Story Time"
+],
+[
+"https://www.longviewlibrary.org/m/calendar/event/detail/3433",
+"Baby & Me Story Time Read on..."
+],
+[
+"https://www.longviewlibrary.org/m/calendar/event/detail/3576",
+"Mobile Library After School: Archie Anderson Park"
+],
+[
+"https://www.longviewlibrary.org/m/calendar/event/detail/3576",
+"Mobile Library After School: Archie Anderson Park Read on..."
+],
+[
+"https://www.longviewlibrary.org/m/calendar/event/detail/3420",
+"Toddler Time"
+],
+[
+"https://www.longviewlibrary.org/m/calendar/event/detail/3420",
+"Toddler Time Read on..."
+]
+]
+},
+{
+"id": "WA-300",
+"name": "Mount Vernon City Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-301",
+"name": "Pullman (Neill) Public Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-302",
+"name": "Puyallup Public Library",
+"state": "WA",
+"url": "https://www.puyalluplibrary.org/",
+"status": 200,
+"final": "https://www.puyalluplibrary.org/2436/Library",
+"error": null,
+"title": "Library | Puyallup, WA",
+"name_hits": [
+"puyallup"
+],
+"name_toks": [
+"puyallup"
+],
+"state_hit": true,
+"parked": false,
+"words": 449,
+"links": [
+[
+"https://www.puyalluplibrary.org/calendar.aspx?view=list&year=2026&month=11&day=24&CID=49",
+"24"
+],
+[
+"https://www.puyalluplibrary.org/calendar.aspx?view=list&year=2026&month=11&day=26&CID=49",
+"26"
+],
+[
+"https://www.puyalluplibrary.org/calendar.aspx?view=list&year=2026&month=11&day=27&CID=49",
+"27"
+],
+[
+"https://www.puyalluplibrary.org/calendar.aspx?view=list&year=2026&month=11&day=28&CID=49",
+"28"
+],
+[
+"https://www.puyalluplibrary.org/calendar.aspx?view=list&year=2026&month=11&day=30&CID=49",
+"30"
+],
+[
+"https://www.puyalluplibrary.org/calendar.aspx?view=list&year=2026&month=12&day=1&CID=49",
+"1"
+],
+[
+"https://www.puyalluplibrary.org/calendar.aspx?view=list&year=2026&month=12&day=2&CID=49",
+"2"
+],
+[
+"https://www.puyalluplibrary.org/calendar.aspx?view=list&year=2026&month=12&day=3&CID=49",
+"3"
+],
+[
+"https://www.puyalluplibrary.org/calendar.aspx?view=list&year=2026&month=12&day=5&CID=49",
+"5"
+]
+]
+},
+{
+"id": "WA-303",
+"name": "Richland Public Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-304",
+"name": "Stevens County Rural Library District",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-305",
+"name": "Walla Walla County Library District",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-306",
+"name": "Walla Walla Public Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-307",
+"name": "Anacortes Public Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-308",
+"name": "Asotin County Library",
+"state": "WA",
+"url": "https://www.asotincountylibrary.org/",
+"status": 200,
+"final": "https://www.asotincountylibrary.org/",
+"error": null,
+"title": "Home | Asotin County Library",
+"name_hits": [
+"asotin"
+],
+"name_toks": [
+"asotin"
+],
+"state_hit": true,
+"parked": false,
+"words": 935,
+"links": [
+[
+"https://www.asotincountylibrary.org/board-trustees",
+"Board of Trustees"
+],
+[
+"https://www.asotincountylibrary.org/policies",
+"Governance & Policies"
+],
+[
+"https://www.asotincountylibrary.org/board-trustees",
+"Board of Trustees"
+]
+]
+},
+{
+"id": "WA-309",
+"name": "Ellensburg Public Library",
+"state": "WA",
+"url": "https://www.ellensburglibrary.org/",
+"status": 200,
+"final": "https://www.ellensburglibrary.org/",
+"error": null,
+"title": "Ellensburg Public Library | Ellensburg, WA",
+"name_hits": [
+"ellensburg"
+],
+"name_toks": [
+"ellensburg"
+],
+"state_hit": true,
+"parked": false,
+"words": 376,
+"links": [
+[
+"https://www.ellensburglibrary.org/27/Government",
+"Government"
+],
+[
+"https://www.ellensburglibrary.org/27/Government",
+"Government"
+],
+[
+"https://www.ellensburglibrary.org/calendar.aspx?CID=23,29",
+"Events"
+],
+[
+"https://www.ellensburglibrary.org/Calendar.aspx?EID=19494",
+"Storytime"
+],
+[
+"https://www.ellensburglibrary.org/Calendar.aspx?EID=19672",
+"Pod People: Season Two"
+],
+[
+"https://www.ellensburglibrary.org/Calendar.aspx?EID=19495",
+"Storytime"
+],
+[
+"https://www.ellensburglibrary.org/Calendar.aspx?EID=19467",
+"FOL- Book Sale"
+],
+[
+"https://www.ellensburglibrary.org/Calendar.aspx?EID=19680",
+"Ellensburg Community Contra Dances"
+],
+[
+"https://www.ellensburglibrary.org/calendar.aspx?CID=23,29",
+"View All Calendar"
+],
+[
+"https://www.ellensburglibrary.org/index.aspx?nid=79",
+"Apply to Serve on a Board or Commission"
+]
+]
+},
+{
+"id": "WA-310",
+"name": "Grandview (Bleyhl Community) Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-311",
+"name": "Jefferson County Rural Library District",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-312",
+"name": "Kelso Public Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-313",
+"name": "La Conner Regional Library",
+"state": "WA",
+"url": "https://www.laconnerlibrary.org/",
+"status": 200,
+"final": "https://www.laconnerlibrary.org/",
+"error": null,
+"title": "La Conner Regional Library",
+"name_hits": [
+"conner"
+],
+"name_toks": [
+"conner"
+],
+"state_hit": true,
+"parked": false,
+"words": 102,
+"links": [
+[
+"https://www.laconnerlibrary.org/calendar/month/2026-11",
+"November"
+]
+]
+},
+{
+"id": "WA-314",
+"name": "Liberty Lake Municipal Library",
+"state": "WA",
+"url": "https://www.libertylakelibrary.com/",
+"status": 200,
+"final": "https://libertylakewa.gov/721/Library",
+"error": null,
+"title": "Library | Liberty Lake, WA - Official Website",
+"name_hits": [
+"liberty",
+"lake",
+"municipal"
+],
+"name_toks": [
+"liberty",
+"lake",
+"municipal"
+],
+"state_hit": true,
+"parked": false,
+"words": 177,
+"links": [
+[
+"https://libertylake.libcal.com/calendar?cid=-1&t=d&d=0000-00-00&cal=-1&inc=0",
+"Events"
+]
+]
+},
+{
+"id": "WA-315",
+"name": "Ocean Shores Public Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-316",
+"name": "Pend Oreille County Library District",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-317",
+"name": "Port Townsend Public Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-318",
+"name": "Cathlamet (Blanche Bradley) Library",
+"state": "WA",
+"url": "https://www.cathlametlibrary.com/",
+"status": 200,
+"final": "https://www.cathlametlibrary.com/",
+"error": null,
+"title": "Cathlamet Public Library",
+"name_hits": [
+"cathlamet",
+"blanche",
+"bradley"
+],
+"name_toks": [
+"cathlamet",
+"blanche",
+"bradley"
+],
+"state_hit": true,
+"parked": false,
+"words": 2065,
+"links": [
+[
+"https://www.cathlametlibrary.com/content/board-trustee",
+"Board of Trustees"
+],
+[
+"https://www.cathlametlibrary.com/calendar/month",
+"CALENDAR"
+]
+]
+},
+{
+"id": "WA-319",
+"name": "Columbia County Rural Library District",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-320",
+"name": "Castle Rock Public Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-321",
+"name": "Cle Elum (Carpenter Memorial) Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-322",
+"name": "Davenport Public Library",
+"state": "WA",
+"url": "https://www.davenport.lib.wa.us/",
+"status": 200,
+"final": "https://www.davenport.lib.wa.us/",
+"error": null,
+"title": "Davenport Public Library",
+"name_hits": [
+"davenport"
+],
+"name_toks": [
+"davenport"
+],
+"state_hit": true,
+"parked": false,
+"words": 430,
+"links": [
+[
+"https://www.davenport.lib.wa.us/calendar/month",
+"Calendar"
+],
+[
+"https://www.davenport.lib.wa.us/calendar/month/2026-11",
+"November"
+]
+]
+},
+{
+"id": "WA-323",
+"name": "Harrington Public Library",
+"state": "WA",
+"url": "https://www.harrington.lib.wa.us/",
+"status": 200,
+"final": "https://www.harrington.lib.wa.us/",
+"error": null,
+"title": "Harrington Public Library",
+"name_hits": [
+"harrington"
+],
+"name_toks": [
+"harrington"
+],
+"state_hit": true,
+"parked": false,
+"words": 223,
+"links": [
+[
+"https://www.harrington.lib.wa.us/calendar/month/2026-11",
+"November"
+],
+[
+"https://www.harrington.lib.wa.us/calendar/day/2026-11-06",
+"6"
+],
+[
+"https://www.harrington.lib.wa.us/calendar/day/2026-11-10",
+"10"
+],
+[
+"https://www.harrington.lib.wa.us/calendar/day/2026-11-13",
+"13"
+],
+[
+"https://www.harrington.lib.wa.us/calendar/day/2026-11-20",
+"20"
+],
+[
+"https://www.harrington.lib.wa.us/event/library-board-meeting-0",
+"Library Board Meeting"
+]
+]
+},
+{
+"id": "WA-324",
+"name": "Kalama Public Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-325",
+"name": "Kittitas Public Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-326",
+"name": "Odessa Public Library",
+"state": "WA",
+"url": "https://www.odessa.lib.wa.us/",
+"status": 200,
+"final": "https://www.odessa.lib.wa.us/",
+"error": null,
+"title": "Odessa Public Library",
+"name_hits": [
+"odessa"
+],
+"name_toks": [
+"odessa"
+],
+"state_hit": true,
+"parked": false,
+"words": 396,
+"links": [
+[
+"https://www.odessa.lib.wa.us/content/library-board-members",
+"Library Board Members"
+],
+[
+"https://www.odessa.lib.wa.us/calendar/month/2026-11",
+"November"
+]
+]
+},
+{
+"id": "WA-327",
+"name": "Pomeroy (Denny Ashby) Library",
+"state": "WA",
+"url": "https://www.pomeroy.lib.wa.us/",
+"status": 200,
+"final": "https://www.pomeroy.lib.wa.us/",
+"error": null,
+"title": "Denny Ashby Library",
+"name_hits": [
+"pomeroy",
+"denny",
+"ashby"
+],
+"name_toks": [
+"pomeroy",
+"denny",
+"ashby"
+],
+"state_hit": true,
+"parked": false,
+"words": 359,
+"links": [
+[
+"https://www.pomeroy.lib.wa.us/content/board-trustees",
+"Board of Trustees"
+],
+[
+"https://www.pomeroy.lib.wa.us/calendar/month/2026-11",
+"November"
+],
+[
+"https://www.pomeroy.lib.wa.us/calendar/day/2026-11-03",
+"3"
+],
+[
+"https://www.pomeroy.lib.wa.us/calendar/day/2026-11-05",
+"5"
+],
+[
+"https://www.pomeroy.lib.wa.us/calendar/day/2026-11-10",
+"10"
+],
+[
+"https://www.pomeroy.lib.wa.us/calendar/day/2026-11-11",
+"11"
+],
+[
+"https://www.pomeroy.lib.wa.us/calendar/day/2026-11-17",
+"17"
+],
+[
+"https://www.pomeroy.lib.wa.us/calendar/day/2026-11-19",
+"19"
+],
+[
+"https://www.pomeroy.lib.wa.us/calendar/day/2026-11-24",
+"24"
+],
+[
+"https://www.pomeroy.lib.wa.us/calendar/day/2026-11-26",
+"26"
+],
+[
+"https://www.pomeroy.lib.wa.us/calendar/day/2026-11-30",
+"30"
+],
+[
+"https://www.pomeroy.lib.wa.us/event/library-board-meeting-18",
+"Library Board Meeting"
+]
+]
+},
+{
+"id": "WA-328",
+"name": "Reardan Memorial Library",
+"state": "WA",
+"url": "https://www.reardanlibrary.org/",
+"status": 200,
+"final": "https://www.reardanlibrary.org/",
+"error": null,
+"title": "Reardan Memorial Library",
+"name_hits": [
+"reardan"
+],
+"name_toks": [
+"reardan"
+],
+"state_hit": true,
+"parked": false,
+"words": 713,
+"links": [
+[
+"https://www.reardanlibrary.org/calendar/month/2026-11",
+"November"
+]
+]
+},
+{
+"id": "WA-329",
+"name": "Roslyn Public Library",
+"state": "WA",
+"url": "https://www.roslynpubliclibrary.org/",
+"status": 200,
+"final": "https://www.roslynpubliclibrary.org/",
+"error": null,
+"title": "City of Roslyn Public Library",
+"name_hits": [
+"roslyn"
+],
+"name_toks": [
+"roslyn"
+],
+"state_hit": true,
+"parked": false,
+"words": 1578,
+"links": [
+[
+"https://www.roslynpubliclibrary.org/calendar",
+"Calendar"
+],
+[
+"https://www.roslynpubliclibrary.org/library-board",
+"Library Board"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar",
+"Calendar"
+],
+[
+"https://www.roslynpubliclibrary.org/library-board",
+"Library Board"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar",
+"Calendar"
+],
+[
+"https://www.roslynpubliclibrary.org/library-board",
+"Library Board"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/gmb3kjzwfbwsxwk-sbwmk-fp2xn-2tlpp-year4-9fb4e-7htd5",
+"Nov 24"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/gmb3kjzwfbwsxwk-sbwmk-fp2xn-2tlpp-year4-9fb4e-7htd5",
+"Pre-school Storytime and Crafts"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/gmb3kjzwfbwsxwk-sbwmk-fp2xn-2tlpp-year4-9fb4e-7htd5",
+"Read more \u2192"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/y2a45tabl95r57w-p9kb2-ja6zj",
+"Nov 24"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/y2a45tabl95r57w-p9kb2-ja6zj",
+"Lego Club"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/y2a45tabl95r57w-p9kb2-ja6zj",
+"Read more \u2192"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/thanksgiving-holiday-library-closed",
+"Nov 25"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/thanksgiving-holiday-library-closed",
+"Thanksgiving Holiday - Library Closed"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/thanksgiving-holiday-library-closed",
+"Read more \u2192"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/hck5emle4c6yf2c-z9tcs-xlck8-bf4jp-j3p6m-ywlwy-c7fpa-cdeza-smaxt-7tfhj-ekb82-2lwzf-wc2w5-rjh5z-x9yyw-aexd5-sb784-4729j-m8bgw-km69z-gs8c6",
+"Nov 25"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/hck5emle4c6yf2c-z9tcs-xlck8-bf4jp-j3p6m-ywlwy-c7fpa-cdeza-smaxt-7tfhj-ekb82-2lwzf-wc2w5-rjh5z-x9yyw-aexd5-sb784-4729j-m8bgw-km69z-gs8c6",
+"Art Meet-Up Group"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/hck5emle4c6yf2c-z9tcs-xlck8-bf4jp-j3p6m-ywlwy-c7fpa-cdeza-smaxt-7tfhj-ekb82-2lwzf-wc2w5-rjh5z-x9yyw-aexd5-sb784-4729j-m8bgw-km69z-gs8c6",
+"Read more \u2192"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/zth52gbhmwjadg8-d34n7-hwpks-bwe7z-bhntd-67kfn-sescx-l3snx-6t79r-36wr8-e66xn-7s595-xsl3a-3dcy3-4kwjb",
+"Nov 25"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/zth52gbhmwjadg8-d34n7-hwpks-bwe7z-bhntd-67kfn-sescx-l3snx-6t79r-36wr8-e66xn-7s595-xsl3a-3dcy3-4kwjb",
+"Dungeons & Dragons"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/zth52gbhmwjadg8-d34n7-hwpks-bwe7z-bhntd-67kfn-sescx-l3snx-6t79r-36wr8-e66xn-7s595-xsl3a-3dcy3-4kwjb",
+"Read more \u2192"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/dnxcbnepkhmdkzc-9cgkg-zjw4w-pscb7-f26hz-97t96-j9php-xs5tr-flk9d-jn8yp-tkahn-hsey7-ks5km-59a7h-jjkww-pldle",
+"Nov 26"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/dnxcbnepkhmdkzc-9cgkg-zjw4w-pscb7-f26hz-97t96-j9php-xs5tr-flk9d-jn8yp-tkahn-hsey7-ks5km-59a7h-jjkww-pldle",
+"Stitching Circle"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/dnxcbnepkhmdkzc-9cgkg-zjw4w-pscb7-f26hz-97t96-j9php-xs5tr-flk9d-jn8yp-tkahn-hsey7-ks5km-59a7h-jjkww-pldle",
+"Read more \u2192"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/gmb3kjzwfbwsxwk-sbwmk-fp2xn-2tlpp-year4-9fb4e-7htd5-ch9th",
+"Dec 1"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/gmb3kjzwfbwsxwk-sbwmk-fp2xn-2tlpp-year4-9fb4e-7htd5-ch9th",
+"Pre-school Storytime and Crafts"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/gmb3kjzwfbwsxwk-sbwmk-fp2xn-2tlpp-year4-9fb4e-7htd5-ch9th",
+"Read more \u2192"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/y2a45tabl95r57w-p9kb2-ja6zj-j6jll",
+"Dec 1"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/y2a45tabl95r57w-p9kb2-ja6zj-j6jll",
+"Lego Club"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/y2a45tabl95r57w-p9kb2-ja6zj-j6jll",
+"Read more \u2192"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/hck5emle4c6yf2c-z9tcs-xlck8-bf4jp-j3p6m-ywlwy-c7fpa-cdeza-smaxt-7tfhj-ekb82-2lwzf-wc2w5-rjh5z-x9yyw-aexd5-sb784-4729j-m8bgw-km69z-gs8c6-4849f",
+"Dec 2"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/hck5emle4c6yf2c-z9tcs-xlck8-bf4jp-j3p6m-ywlwy-c7fpa-cdeza-smaxt-7tfhj-ekb82-2lwzf-wc2w5-rjh5z-x9yyw-aexd5-sb784-4729j-m8bgw-km69z-gs8c6-4849f",
+"Art Meet-Up Group"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/hck5emle4c6yf2c-z9tcs-xlck8-bf4jp-j3p6m-ywlwy-c7fpa-cdeza-smaxt-7tfhj-ekb82-2lwzf-wc2w5-rjh5z-x9yyw-aexd5-sb784-4729j-m8bgw-km69z-gs8c6-4849f",
+"Read more \u2192"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/zth52gbhmwjadg8-d34n7-hwpks-bwe7z-bhntd-67kfn-sescx-l3snx-6t79r-36wr8-e66xn-7s595-xsl3a-3dcy3-4kwjb-3n5ph",
+"Dec 2"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/zth52gbhmwjadg8-d34n7-hwpks-bwe7z-bhntd-67kfn-sescx-l3snx-6t79r-36wr8-e66xn-7s595-xsl3a-3dcy3-4kwjb-3n5ph",
+"Dungeons & Dragons"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/zth52gbhmwjadg8-d34n7-hwpks-bwe7z-bhntd-67kfn-sescx-l3snx-6t79r-36wr8-e66xn-7s595-xsl3a-3dcy3-4kwjb-3n5ph",
+"Read more \u2192"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/library-closed-for-christmas-holiday",
+"Dec 24"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/library-closed-for-christmas-holiday",
+"Library Closed for Christmas Holiday"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar/library-closed-for-christmas-holiday",
+"Read more \u2192"
+],
+[
+"https://www.roslynpubliclibrary.org/calendar",
+"See all events"
+]
+]
+},
+{
+"id": "WA-330",
+"name": "Sprague Public Library",
+"state": "WA",
+"url": "https://www.sprague.lib.wa.us/",
+"status": 200,
+"final": "https://www.sprague.lib.wa.us/",
+"error": null,
+"title": "Sprague Public Library",
+"name_hits": [
+"sprague"
+],
+"name_toks": [
+"sprague"
+],
+"state_hit": true,
+"parked": false,
+"words": 309,
+"links": [
+[
+"https://www.sprague.lib.wa.us/calendar/month/2026-11",
+"November"
+],
+[
+"https://www.sprague.lib.wa.us/calendar/day/2026-11-25",
+"25"
+],
+[
+"https://www.sprague.lib.wa.us/event/city-council-meeting",
+"City Council Meeting"
+],
+[
+"https://www.sprague.lib.wa.us/event/city-council-meeting",
+"City Council Meeting"
+],
+[
+"https://www.sprague.lib.wa.us/event/city-council-meeting",
+"City Council Meeting"
+],
+[
+"https://www.sprague.lib.wa.us/event/city-council-meeting",
+"City Council Meeting"
+],
+[
+"https://www.sprague.lib.wa.us/event/city-council-meeting",
+"City Council Meeting"
+],
+[
+"https://www.sprague.lib.wa.us/event/city-council-meeting",
+"City Council Meeting"
+]
+]
+},
+{
+"id": "WA-331",
+"name": "Waitsburg (Weller) Public Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-332",
+"name": "Wilbur (Hesseltine) Public Library",
+"state": "WA",
+"url": "https://www.wilburlibrary.com/",
+"status": 200,
+"final": "https://www.wilburlibrary.com/",
+"error": null,
+"title": "Wilbur Public Library",
+"name_hits": [
+"wilbur",
+"hesseltine"
+],
+"name_toks": [
+"wilbur",
+"hesseltine"
+],
+"state_hit": true,
+"parked": false,
+"words": 595,
+"links": [
+[
+"https://www.wilburlibrary.com/content/board-directors",
+"Board of Directors"
+],
+[
+"https://www.wilburlibrary.com/calendar/month/2026-11",
+"November"
+]
+]
+},
+{
+"id": "WA-333",
+"name": "East Adams (Ritzville) Library District",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-334",
+"name": "Yale Valley Library District",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-335",
+"name": "Cowlitz County Rural Partial County Library District",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-336",
+"name": "Othello Library District #1",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-337",
+"name": "Darrington Rural Partial County Library District",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "ID-338",
+"name": "Homedale",
+"state": "ID",
+"url": "https://www.cityofhomedale.com/",
+"status": 200,
+"final": "https://cityofhomedale.org/",
+"error": null,
+"title": "Welcome to the City Of Homedale, ID | Homedale, ID Chamber of Commerce",
+"name_hits": [
+"homedale"
+],
+"name_toks": [
+"homedale"
+],
+"state_hit": true,
+"parked": false,
+"words": 831,
+"links": [
+[
+"https://cityofhomedale.org/community/",
+"GOVERNMENT"
+],
+[
+"https://cityofhomedale.org/city-council/",
+"City Council"
+],
+[
+"https://cityofhomedale.org/city-council-minutes/",
+"City Council Minutes"
+],
+[
+"https://cityofhomedale.org/community/",
+"GOVERNMENT"
+],
+[
+"https://cityofhomedale.org/city-council/",
+"City Council"
+],
+[
+"https://cityofhomedale.org/city-council-minutes/",
+"City Council Minutes"
+],
+[
+"https://cityofhomedale.org/city-hall/",
+"Government"
+],
+[
+"https://cityofhomedale.org/city-hall/",
+"Government"
+],
+[
+"https://cityofhomedale.org/city-hall/",
+"Government"
+],
+[
+"https://cityofhomedale.org/city-council-minutes/",
+"City Council Minutes"
+],
+[
+"https://cityofhomedale.org/city-hall/",
+"Government"
+],
+[
+"https://cityofhomedale.org/category/city-council-minutes/",
+"City Council Minutes"
+],
+[
+"https://cityofhomedale.org/city-council-minutes/",
+"City Council Minutes"
+]
+]
+},
+{
+"id": "ID-339",
+"name": "Filer",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-340",
+"name": "St. Maries",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-341",
+"name": "Aberdeen",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-342",
+"name": "Pinehurst",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-343",
+"name": "Shoshone",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-344",
+"name": "New Plymouth",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-345",
+"name": "Lapwai",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-346",
+"name": "Hansen",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-347",
+"name": "Genesee",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-348",
+"name": "Grace",
+"state": "ID",
+"url": "https://www.cityofgraceid.com/",
+"status": 200,
+"final": "https://www.cityofgraceid.com/",
+"error": null,
+"title": "Grace Idaho | City Government | Grace",
+"name_hits": [
+"grace"
+],
+"name_toks": [
+"grace"
+],
+"state_hit": true,
+"parked": false,
+"words": 287,
+"links": [
+[
+"http://cityofgraceid.com/cma/Meeting%20Agenda.pdf",
+"Date: Wednesday, December 2, 2026"
+],
+[
+"https://www.cityofgraceid.com/_files/ugd/e15e84_0184d9253a694ccb846e56824f6aa520.pdf",
+"Click here to view Agenda"
+],
+[
+"https://www.cityofgraceid.com/copy-of-chamber-of-commerce-1",
+"City Council"
+]
+]
+},
+{
+"id": "ID-349",
+"name": "Troy",
+"state": "ID",
+"url": "https://www.cityoftroy.net/",
+"status": 200,
+"final": "https://www.cityoftroy.net/",
+"error": null,
+"title": "Municipality | City of Troy | United States",
+"name_hits": [
+"troy"
+],
+"name_toks": [
+"troy"
+],
+"state_hit": true,
+"parked": false,
+"words": 260,
+"links": [
+[
+"https://www.cityoftroy.net/agendas-minutes",
+"AGENDAS & MINUTES"
+],
+[
+"https://www.cityoftroy.net/mayor-council",
+"MAYOR & COUNCIL"
+],
+[
+"https://www.cityoftroy.net/copy-of-mayor-council",
+"PAST MAYORS & CLERKS"
+],
+[
+"https://www.cityoftroy.net/agendas-minutes",
+"AGENDAS & MINUTES"
+],
+[
+"https://www.cityoftroy.net/_files/ugd/77f6ca_cded532855c04dd0af2ecbc258e111fb.pdf",
+"Special Agenda Nov. 4, 2026"
+],
+[
+"https://www.cityoftroy.net/agendas-minutes",
+"Agendas & Minutes"
+]
+]
+},
+{
+"id": "ID-350",
+"name": "Arco",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-351",
+"name": "Cottonwood",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-352",
+"name": "Moyie Springs",
+"state": "ID",
+"url": "https://www.cityofmoyiesprings.com/",
+"status": 200,
+"final": "https://www.cityofmoyiesprings.com/",
+"error": null,
+"title": "HOME | City @ Moyie Springs",
+"name_hits": [
+"moyie",
+"springs"
+],
+"name_toks": [
+"moyie",
+"springs"
+],
+"state_hit": true,
+"parked": false,
+"words": 111,
+"links": [
+[
+"https://www.cityofmoyiesprings.com/city-council",
+"City Council"
+],
+[
+"https://www.cityofmoyiesprings.com/meeting-agendas",
+"Documents"
+],
+[
+"https://www.cityofmoyiesprings.com/post/special-meeting-november-19th-7-30",
+"Special Meeting November 19th 7:30"
+],
+[
+"https://www.cityofmoyiesprings.com/meeting-agendas/categories/meeting-agendas",
+"MEETING AGENDAS"
+],
+[
+"https://www.cityofmoyiesprings.com/post/agenda-nov-4th-2026",
+"Agenda Nov 4th, 2026"
+],
+[
+"https://www.cityofmoyiesprings.com/meeting-agendas/categories/meeting-agendas",
+"MEETING AGENDAS"
+],
+[
+"https://www.cityofmoyiesprings.com/post/regular-meeting-agenda-october-7th-2026",
+"Regular Meeting Agenda October 7th, 2026"
+],
+[
+"https://www.cityofmoyiesprings.com/post/agenda-sept-9-2026",
+"Agenda Sept 9, 2026"
+],
+[
+"https://www.cityofmoyiesprings.com/meeting-agendas/categories/meeting-agendas",
+"MEETING AGENDAS"
+],
+[
+"https://www.cityofmoyiesprings.com/meeting-agendas/categories/public-notices",
+"\u200b Public Notices"
+],
+[
+"https://www.cityofmoyiesprings.com/meeting-agendas/categories/permit-applications",
+"Permits\u200b"
+]
+]
+},
+{
+"id": "ID-353",
+"name": "Greenleaf",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-354",
+"name": "Inkom",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-355",
+"name": "Potlatch",
+"state": "ID",
+"url": "https://www.cityofpotlatch.org/",
+"status": 200,
+"final": "https://www.cityofpotlatch.org/",
+"error": null,
+"title": "Home | City of Potlatch",
+"name_hits": [
+"potlatch"
+],
+"name_toks": [
+"potlatch"
+],
+"state_hit": true,
+"parked": false,
+"words": 286,
+"links": [
+[
+"https://www.cityofpotlatch.org",
+"City Government"
+],
+[
+"https://www.cityofpotlatch.org/agendas-minutes-1",
+"Agendas & Minutes"
+],
+[
+"https://www.cityofpotlatch.org/mayor-city-council",
+"Mayor & City Council"
+],
+[
+"https://www.cityofpotlatch.org/2026-city-council-meeting-schedule",
+"2026 City Council Meeting Schedule"
+],
+[
+"https://www.cityofpotlatch.org/agendas-minutes-1",
+""
+],
+[
+"https://www.cityofpotlatch.org/agendas-minutes-1",
+"AGENDAS & MINUTES"
+],
+[
+"https://www.cityofpotlatch.org/2026-city-council-meeting-schedule",
+""
+],
+[
+"https://www.cityofpotlatch.org/2026-city-council-meeting-schedule",
+"CITY COUNCIL MEETINGS"
+],
+[
+"https://www.cityofpotlatch.org/agendas-minutes-1",
+"Agendas & Minutes"
+]
+]
+},
+{
+"id": "ID-356",
+"name": "Dover",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-357",
+"name": "Athol",
+"state": "ID",
+"url": "https://www.cityofathol.com/",
+"status": 200,
+"final": "https://atholidaho.com/",
+"error": null,
+"title": "Home | Discover Athol",
+"name_hits": [
+"athol"
+],
+"name_toks": [
+"athol"
+],
+"state_hit": true,
+"parked": false,
+"words": 2399,
+"links": [
+[
+"https://atholidaho.com/government/agendas-minutes/",
+"Agendas & Minutes"
+],
+[
+"https://atholidaho.com/government/",
+"Government"
+],
+[
+"https://atholidaho.com/government/",
+"Government A Mayor, four council members and open meetings twice a month. Explor"
+],
+[
+"https://atholidaho.com/government/mayor-city-council/",
+"Mayor & City Council Your elected officials"
+],
+[
+"https://atholidaho.com/government/city-staff/",
+"City Staff Clerk, public works, attorney, planner"
+],
+[
+"https://atholidaho.com/government/agendas-minutes/",
+"Agendas & Minutes Upcoming meetings and past minutes"
+],
+[
+"https://atholidaho.com/government/council-recaps/",
+"Council Recaps What the council decided, in plain English"
+],
+[
+"https://atholidaho.com/government/public-notices/",
+"Public Hearings & Notices Legal notices and hearings"
+],
+[
+"https://atholidaho.com/government/documents-forms/",
+"Documents & Forms Applications, plans and reports"
+],
+[
+"https://atholidaho.com/government/budgets-financial-reports/",
+"Budgets & Financial Reports Statements and annual audits"
+],
+[
+"https://atholidaho.com/government/city-code/",
+"City Code & Ordinances The Athol City Code online"
+],
+[
+"https://atholidaho.com/government/comprehensive-plan/",
+"Comprehensive Plan Long-range plans for growth"
+],
+[
+"https://atholidaho.com/government/public-records/",
+"Public Records Request Request city records"
+],
+[
+"https://atholidaho.com/government/fee-schedule/",
+"Fee Schedule Current fees for city services"
+],
+[
+"https://atholidaho.com/community/events/",
+"Events Meetings and community events"
+],
+[
+"https://atholidaho.com/government/public-notices/",
+"Public Notices Hearings and legal notices"
+],
+[
+"https://atholidaho.com/ask/?q=When%20is%20the%20next%20council%20meeting%3F",
+"When is the next council meeting?"
+],
+[
+"https://atholidaho.com/government/agendas-minutes/",
+"Agendas & minutes Council meets the first and third Tuesday of each month at 6:0"
+],
+[
+"https://atholidaho.com/community/community-center/",
+"Rent the Community Center Main room, council room, gym and park pavilions. First"
+],
+[
+"https://atholidaho.com/government/documents-forms/",
+"Documents & forms Applications, plans, reports and the fee schedule. Browse the "
+],
+[
+"https://atholidaho.com/government/agendas-minutes/",
+"All agendas & minutes"
+],
+[
+"https://atholidaho.com/city-council-meets-tuesday-november-17-at-6-pm-agenda-posted/",
+"City Council meets Tuesday, November 17 at 6 pm: agenda posted"
+],
+[
+"https://atholidaho.com/council-recap-oct-20-new-tractor-park-restroom-awning-freemont-avenue/",
+"Council recap, Oct. 20: a new city tractor, a park restroom awning and the Freem"
+],
+[
+"https://atholidaho.com/community/events/",
+"Full calendar"
+],
+[
+"https://atholidaho.com/government/agendas-minutes/",
+"Regular City Council meeting"
+],
+[
+"https://atholidaho.com/government/fee-schedule/",
+"Fee schedule Current fees for city services."
+],
+[
+"https://atholidaho.com/government/agendas-minutes/",
+"Agendas & Minutes"
+],
+[
+"https://atholidaho.com/government/documents-forms/",
+"Documents & Forms"
+],
+[
+"https://atholidaho.com/community/events/",
+"Events Calendar"
+]
+]
+},
+{
+"id": "ID-358",
+"name": "Smelterville",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-359",
+"name": "Mullan",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-360",
+"name": "Notus",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-361",
+"name": "Melba",
+"state": "ID",
+"url": "https://www.cityofmelba.org/",
+"status": 200,
+"final": "https://cityofmelba.org/",
+"error": null,
+"title": "cityofmelba.org |",
+"name_hits": [
+"melba"
+],
+"name_toks": [
+"melba"
+],
+"state_hit": true,
+"parked": false,
+"words": 403,
+"links": [
+[
+"https://cityofmelba.org/city-council/",
+"City Council"
+],
+[
+"https://cityofmelba.org/pzcommission/",
+"Planning and Zoning Commission"
+],
+[
+"https://cityofmelba.org/historical-documents-page-1/",
+"City Council Agendas"
+]
+]
+},
+{
+"id": "ID-363",
+"name": "New Meadows",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-364",
+"name": "Dayton",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-365",
+"name": "Pierce",
+"state": "ID",
+"url": "https://www.cityofpierce.net/",
+"status": 200,
+"final": "https://www.cityofpierce.net/",
+"error": null,
+"title": "Home | City Of Pierce",
+"name_hits": [
+"pierce"
+],
+"name_toks": [
+"pierce"
+],
+"state_hit": true,
+"parked": false,
+"words": 290,
+"links": [
+[
+"https://www.cityofpierce.net/agendas-minutes-2026",
+"Agendas & Minutes 2026"
+],
+[
+"https://www.cityofpierce.net/agendasandminutes",
+"Agendas & Minutes 2025"
+],
+[
+"https://www.cityofpierce.net/agendas-minutes-2024",
+"Agendas & Minutes 2024"
+],
+[
+"https://www.cityofpierce.net/agendas-minutes-2023",
+"Agendas & Minutes 2023"
+],
+[
+"https://www.cityofpierce.net/_files/ugd/580dd8_864ece9e62ff4183b4345d33fa5d07db.pdf",
+"NOTICE OF RESCHEDULED MEETING"
+]
+]
+},
+{
+"id": "ID-366",
+"name": "Fairfield",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-367",
+"name": "Grand View",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-368",
+"name": "Mackay",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-369",
+"name": "Lewisville",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-370",
+"name": "Clifton",
+"state": "ID",
+"url": "https://www.cliftonidaho.com/",
+"status": 200,
+"final": "https://cliftonidaho.com/",
+"error": null,
+"title": "Clifton City",
+"name_hits": [
+"clifton"
+],
+"name_toks": [
+"clifton"
+],
+"state_hit": true,
+"parked": false,
+"words": 175,
+"links": [
+[
+"https://cliftonidaho.com/s/November-Agenda.pdf",
+"For the meeting agenda, click here."
+],
+[
+"https://cliftonidaho.com/clients",
+"Council Members"
+]
+]
+},
+{
+"id": "ID-371",
+"name": "Culdesac",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-372",
+"name": "Eden",
+"state": "ID",
+"url": "https://www.edenidaho.com/",
+"status": 200,
+"final": "https://www.edenspokane.com",
+"error": null,
+"title": "Top-Rated Pest Control in Spokane WA, Coeur d'Alene, & Post Falls ID",
+"name_hits": [
+"eden"
+],
+"name_toks": [
+"eden"
+],
+"state_hit": true,
+"parked": false,
+"words": 1360,
+"links": [
+[
+"https://www.edenspokane.com/commercial-pest-management/government-facilities/",
+"Government Facilities"
+],
+[
+"https://www.edenspokane.com/commercial-pest-management/government-facilities/",
+"Government Facilities"
+]
+]
+},
+{
+"id": "ID-373",
+"name": "Riggins",
+"state": "ID",
+"url": "https://www.rigginsidaho.com/",
+"status": 200,
+"final": "https://www.rigginsidaho.com/",
+"error": null,
+"title": "Salmon River Chamber of Commerce \u2013 \"Come see for yourself\"",
+"name_hits": [
+"riggins"
+],
+"name_toks": [
+"riggins"
+],
+"state_hit": true,
+"parked": false,
+"words": 228,
+"links": []
+},
+{
+"id": "ID-374",
+"name": "Lava Hot Springs",
+"state": "ID",
+"url": "https://www.lavahotspringscity.com/",
+"status": 200,
+"final": "https://www.lavahotspringscity.com/",
+"error": null,
+"title": "City of Lava Hot Springs Idaho",
+"name_hits": [
+"lava",
+"hot",
+"springs"
+],
+"name_toks": [
+"lava",
+"hot",
+"springs"
+],
+"state_hit": true,
+"parked": false,
+"words": 419,
+"links": [
+[
+"https://www.lavahotspringscity.com/city-council",
+"City Servicemembers"
+],
+[
+"https://www.lavahotspringscity.com/meeting-agendas",
+"Meeting Agendas"
+],
+[
+"https://www.lavahotspringscity.com/council-meeting-minutes",
+"Council Meeting Minutes"
+],
+[
+"https://www.lavahotspringscity.com/calendar",
+"Calendar"
+],
+[
+"https://www.lavahotspringscity.com/pzagenda",
+"P & Z Agendas"
+],
+[
+"https://www.lavahotspringscity.com/pzminutes",
+"P & Z Minutes"
+],
+[
+"https://www.lavahotspringscity.com/comprehensive-plan-agendas",
+"Comprehensive Plan"
+]
+]
+},
+{
+"id": "ID-375",
+"name": "Basalt",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-376",
+"name": "Declo",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-378",
+"name": "Mud Lake",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-379",
+"name": "Parker",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-380",
+"name": "Bliss",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-381",
+"name": "Worley",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-382",
+"name": "Rockland",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-383",
+"name": "Albion",
+"state": "ID",
+"url": "https://www.albionidaho.org/",
+"status": 200,
+"final": "https://albionidaho.gov",
+"error": null,
+"title": "City of Albion \u2013 Established 1895",
+"name_hits": [
+"albion"
+],
+"name_toks": [
+"albion"
+],
+"state_hit": true,
+"parked": false,
+"words": 484,
+"links": [
+[
+"https://albionidaho.gov/minutes/",
+"Council Minutes"
+],
+[
+"https://albionidaho.gov/governing-docs/",
+"Governing Documents"
+],
+[
+"https://albionidaho.gov/minutes/",
+"Council Minutes"
+],
+[
+"https://albionidaho.gov/governing-docs/",
+"Governing Documents"
+],
+[
+"https://albionidaho.gov/minutes/",
+"Council Minutes"
+],
+[
+"https://albionidaho.gov/governing-docs/",
+"Governing Documents"
+],
+[
+"https://albionidaho.gov/city-meeting-minutes/",
+""
+],
+[
+"https://albionidaho.gov/wp-content/uploads/2026/07/City-Council-Agenda-07-23-2026.pdf",
+"Agendas"
+],
+[
+"https://albionidaho.gov/city-meeting-minutes/",
+"HERE"
+],
+[
+"https://albionidaho.gov/wp-content/uploads/2026/11/Agenda-11-24-2026-Special-Meeting.png",
+""
+]
+]
+},
+{
+"id": "ID-384",
+"name": "East Hope",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-385",
+"name": "Oldtown",
+"state": "ID",
+"url": "https://www.oldtownidaho.com/",
+"status": 200,
+"final": "https://oldtownidaho.com/",
+"error": null,
+"title": "Transient Electrical Specialists | Power Quality | Arc Flash Reduction",
+"name_hits": [
+"oldtown"
+],
+"name_toks": [
+"oldtown"
+],
+"state_hit": true,
+"parked": false,
+"words": 722,
+"links": []
+},
+{
+"id": "ID-386",
+"name": "Onaway",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-387",
+"name": "Island Park",
+"state": "ID",
+"url": "https://www.islandparkidaho.com/",
+"status": 200,
+"final": "https://islandparkidaho.com/",
+"error": null,
+"title": "Island Park Cabin Rentals Near Yellowstone | Book Direct and Save",
+"name_hits": [
+"island",
+"park"
+],
+"name_toks": [
+"island",
+"park"
+],
+"state_hit": true,
+"parked": false,
+"words": 987,
+"links": []
+},
+{
+"id": "ID-388",
+"name": "Midvale",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-389",
+"name": "Wardner",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-390",
+"name": "Stites",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-391",
+"name": "Malta",
+"state": "ID",
+"url": "https://www.maltaidaho.org/",
+"status": 200,
+"final": "https://www.maltaidaho.org/",
+"error": null,
+"title": "Malta, Idaho History Archive",
+"name_hits": [
+"malta"
+],
+"name_toks": [
+"malta"
+],
+"state_hit": true,
+"parked": false,
+"words": 134,
+"links": [
+[
+"https://www.maltaidaho.org/city-council",
+"City Council"
+]
+]
+},
+{
+"id": "ID-392",
+"name": "Fernan Lake Village",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-393",
+"name": "Moore",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-394",
+"name": "St. Charles",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-395",
+"name": "Elk River",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-396",
+"name": "Ferdinand",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-397",
+"name": "Acequia",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-398",
+"name": "Stanley",
+"state": "ID",
+"url": "https://www.cityofstanleyid.gov/",
+"status": 200,
+"final": "https://www.cityofstanleyid.gov/",
+"error": null,
+"title": "City of Stanley Idaho | Sawtooth Mountains | 510 Eva Falls Avenue, Stanley, ID, USA",
+"name_hits": [
+"stanley"
+],
+"name_toks": [
+"stanley"
+],
+"state_hit": true,
+"parked": false,
+"words": 173,
+"links": [
+[
+"https://www.cityofstanleyid.gov/city-meetings",
+"City Meetings"
+],
+[
+"https://www.cityofstanleyid.gov/city-meetings",
+"City Meeting Schedule"
+],
+[
+"https://www.cityofstanleyid.gov/city-meetings",
+"CITY MEETINGS"
+],
+[
+"https://www.cityofstanleyid.gov/city-meetings",
+""
+],
+[
+"https://www.facebook.com/cityofstanleylocalgovernment",
+"FACEBOOK"
+]
+]
+},
+{
+"id": "ID-399",
+"name": "Murtaugh",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-400",
+"name": "Huetter",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-401",
+"name": "Hope",
+"state": "ID",
+"url": "https://www.hopeidaho.com/",
+"status": 200,
+"final": "https://www.hopeidaho.com/",
+"error": null,
+"title": "Information, Links and Real Estate in Hope, Idaho",
+"name_hits": [
+"hope"
+],
+"name_toks": [
+"hope"
+],
+"state_hit": true,
+"parked": false,
+"words": 267,
+"links": []
+},
+{
+"id": "ID-402",
+"name": "Minidoka",
+"state": "ID",
+"url": "https://www.minidoka.id.us/",
+"status": 200,
+"final": "https://www.minidoka.id.us/",
+"error": null,
+"title": "Minidoka County, ID | Official Website",
+"name_hits": [
+"minidoka"
+],
+"name_toks": [
+"minidoka"
+],
+"state_hit": true,
+"parked": false,
+"words": 346,
+"links": [
+[
+"https://www.minidoka.id.us/27/Government",
+"Government"
+],
+[
+"https://www.minidoka.id.us/calendar.aspx?view=list&year=2026&month=11&day=30&CID=14",
+"30"
+],
+[
+"https://www.minidoka.id.us/Calendar.aspx?EID=914",
+"County Commission Meeting"
+],
+[
+"https://www.minidoka.id.us/calendar.aspx?CID=14",
+"View All"
+],
+[
+"https://www.minidoka.id.us/AgendaCenter",
+"Agendas & Minutes"
+],
+[
+"https://civicplus.com/referral",
+"Government Websites by CivicPlus\u00ae"
+]
+]
+},
+{
+"id": "ID-403",
+"name": "Tensed",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-404",
+"name": "White Bird",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-405",
+"name": "Butte City",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-406",
+"name": "Reubens",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-407",
+"name": "Lost River",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-408",
+"name": "State Line",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-409",
+"name": "Spencer",
+"state": "ID",
+"url": "https://www.spenceridaho.com/",
+"status": 200,
+"final": "https://spenceridaho.weebly.com",
+"error": null,
+"title": "Spencer Idaho USA \"clean air, small town and Fun!\" - Home",
+"name_hits": [
+"spencer"
+],
+"name_toks": [
+"spencer"
+],
+"state_hit": true,
+"parked": false,
+"words": 265,
+"links": [
+[
+"https://spenceridaho.weebly.com/spencer-tarran-king-crandall-calendar.html",
+"Spencer Tarran King Crandall Calendar"
+]
+]
+},
+{
+"id": "ID-410",
+"name": "Clayton",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-411",
+"name": "Warm River",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-412",
+"name": "Atomic City",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-413",
+"name": "Hamer",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-414",
+"name": "Oxford",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-486",
+"name": "Madison Library District",
+"state": "ID",
+"url": "https://www.madisonlib.org/",
+"status": 200,
+"final": "https://www.madisonlib.org/",
+"error": null,
+"title": "",
+"name_hits": [
+"madison"
+],
+"name_toks": [
+"madison"
+],
+"state_hit": true,
+"parked": false,
+"words": 986,
+"links": [
+[
+"https://www.madisonlib.org/main-calendar/",
+"Calendar"
+]
+]
+},
+{
+"id": "ID-494",
+"name": "North Bingham County District",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-496",
+"name": "Fremont County District",
+"state": "ID",
+"url": "https://fremont.lili.org/",
+"status": 200,
+"final": "https://fremont.lili.org/",
+"error": null,
+"title": "Fremont County District Library \u2013 Welcome to Fremont District Library",
+"name_hits": [
+"fremont"
+],
+"name_toks": [
+"fremont"
+],
+"state_hit": true,
+"parked": false,
+"words": 496,
+"links": [
+[
+"https://fremont.lili.org/about-us/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://fremont.lili.org/974-2/",
+"Board Meeting Agenda"
+],
+[
+"https://fremont.lili.org/about-us/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://fremont.lili.org/974-2/",
+"Board Meeting Agenda"
+],
+[
+"https://libraries.idaho.gov/",
+"Idaho Commission for Libraries"
+]
+]
+},
+{
+"id": "ID-502",
+"name": "West Bonner District",
+"state": "ID",
+"url": "https://www.westbonnerlibrary.org/",
+"status": 200,
+"final": "https://www.westbonnerlibrary.org/",
+"error": null,
+"title": "West Bonner Library District | public library | Bonner County",
+"name_hits": [
+"west",
+"bonner"
+],
+"name_toks": [
+"west",
+"bonner"
+],
+"state_hit": true,
+"parked": false,
+"words": 263,
+"links": [
+[
+"https://www.westbonnerlibrary.org/calendar",
+"Calendar"
+],
+[
+"https://www.westbonnerlibrary.org/board-of-trustees",
+"Board Of Trustees"
+],
+[
+"https://www.westbonnerlibrary.org/calendar",
+"Calendar"
+],
+[
+"https://www.westbonnerlibrary.org/board-of-trustees",
+"Board Of Trustees"
+]
+]
+},
+{
+"id": "ID-506",
+"name": "DeMary Memorial",
+"state": "ID",
+"url": "https://demary.lili.org/",
+"status": 200,
+"final": "https://demarylibrary.org/",
+"error": null,
+"title": "DeMary Memorial Library \u2013 LIBRI Systems, Inc.",
+"name_hits": [
+"demary"
+],
+"name_toks": [
+"demary"
+],
+"state_hit": true,
+"parked": false,
+"words": 275,
+"links": [
+[
+"https://demarylibrary.org/about-us/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://demarylibrary.org/about-us/board-meeting-minutes/",
+"Board Meeting Minutes and Agenda"
+],
+[
+"https://demarylibrary.org/calendar/",
+"Events"
+],
+[
+"https://demarylibrary.org/about-us/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://demarylibrary.org/about-us/board-meeting-minutes/",
+"Board Meeting Minutes and Agenda"
+],
+[
+"https://demarylibrary.org/calendar/",
+"Events"
+],
+[
+"https://demarylibrary.org/calendar/",
+"Events Calendar"
+],
+[
+"https://libraries.idaho.gov/",
+"Idaho Commission for Libraries"
+]
+]
+},
+{
+"id": "ID-507",
+"name": "Jefferson County District",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-509",
+"name": "Benewah District",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-512",
+"name": "Weiser Public",
+"state": "ID",
+"url": "https://weiserlibrary.org/",
+"status": 200,
+"final": "https://weiserlibrary.org/",
+"error": null,
+"title": "Homepage - Weiser Public Library",
+"name_hits": [
+"weiser"
+],
+"name_toks": [
+"weiser"
+],
+"state_hit": true,
+"parked": false,
+"words": 378,
+"links": [
+[
+"https://weiserlibrary.org/events/",
+"Calendar of Events"
+]
+]
+},
+{
+"id": "ID-521",
+"name": "Wilder District",
+"state": "ID",
+"url": "https://wilder.lili.org/",
+"status": 200,
+"final": "https://wilder.lili.org/",
+"error": null,
+"title": "Wilder Public Library District",
+"name_hits": [
+"wilder"
+],
+"name_toks": [
+"wilder"
+],
+"state_hit": true,
+"parked": false,
+"words": 406,
+"links": [
+[
+"https://wilder.lili.org/friends-of-the-library/",
+"Board Meetings"
+],
+[
+"https://wilder.lili.org/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://wilder.lili.org/friends-of-the-library/",
+"Board Meetings"
+],
+[
+"https://wilder.lili.org/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://wilder.lili.org/events/",
+"View Calendar"
+],
+[
+"https://libraries.idaho.gov/",
+"Idaho Commission for Libraries"
+]
+]
+},
+{
+"id": "ID-522",
+"name": "Grangeville Centennial",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-523",
+"name": "Sherburn Smith Memorial",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-524",
+"name": "Filer Public",
+"state": "ID",
+"url": "https://filer.lili.org/",
+"status": 200,
+"final": "https://filer.lili.org/",
+"error": null,
+"title": "Filer Public Library \u2013 Welcome to Filer Public Library",
+"name_hits": [
+"filer"
+],
+"name_toks": [
+"filer"
+],
+"state_hit": true,
+"parked": false,
+"words": 306,
+"links": [
+[
+"https://filer.lili.org/board-of-trustees-meetings/",
+"Board of Trustee\u2019s Meeting Agenda"
+],
+[
+"https://filer.lili.org/about-us/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://filer.lili.org/board-of-trustees-meetings/",
+"Board of Trustee\u2019s Meeting Agenda"
+],
+[
+"https://filer.lili.org/about-us/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://libraries.idaho.gov/",
+"Idaho Commission for Libraries"
+]
+]
+},
+{
+"id": "ID-526",
+"name": "Lost Rivers District",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-528",
+"name": "Donnelly Public Library District",
+"state": "ID",
+"url": "https://donnelly.lili.org/",
+"status": 200,
+"final": "https://donnelly.lili.org/",
+"error": null,
+"title": "Donnelly Public Library",
+"name_hits": [
+"donnelly"
+],
+"name_toks": [
+"donnelly"
+],
+"state_hit": true,
+"parked": false,
+"words": 357,
+"links": [
+[
+"https://donnelly.lili.org/about-us/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://donnelly.lili.org/about-us/board-of-trustees/board-meeting-agendas-approved-minutes/",
+"Board Meeting Agendas & Approved Minutes"
+],
+[
+"https://donnelly.lili.org/about-us/board-of-trustees/elementor-page-531/",
+"Freedom To Read"
+],
+[
+"https://donnelly.lili.org/about-us/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://donnelly.lili.org/about-us/board-of-trustees/board-meeting-agendas-approved-minutes/",
+"Board Meeting Agendas & Approved Minutes"
+],
+[
+"https://donnelly.lili.org/about-us/board-of-trustees/elementor-page-531/",
+"Freedom To Read"
+],
+[
+"https://donnelly.lili.org/events",
+"Calendar"
+],
+[
+"https://donnelly.lili.org/2026/10/09/board-meetings-2025-2026/",
+"Board Meetings 2025-2026"
+],
+[
+"https://libraries.idaho.gov/",
+"Idaho Commission for Libraries"
+]
+]
+},
+{
+"id": "ID-529",
+"name": "Patricia Romanko Public",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-530",
+"name": "Council Valley District",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-536",
+"name": "Meadows Valley Public",
+"state": "ID",
+"url": "https://meadowsvalley.lili.org/",
+"status": 200,
+"final": "https://meadowsvalley.lili.org/",
+"error": null,
+"title": "Meadows Valley Public Library \u2013 Welcome to Meadows Valley Public Library",
+"name_hits": [
+"meadows",
+"valley"
+],
+"name_toks": [
+"meadows",
+"valley"
+],
+"state_hit": true,
+"parked": false,
+"words": 318,
+"links": [
+[
+"https://meadowsvalley.lili.org/library-board-meeting-news/",
+"Library Board Meeting News"
+],
+[
+"https://meadowsvalley.lili.org/library-board-meeting-news/",
+"Library Board Meeting News"
+],
+[
+"https://libraries.idaho.gov/",
+"Idaho Commission for Libraries"
+]
+]
+},
+{
+"id": "ID-537",
+"name": "Glenns Ferry Public",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-538",
+"name": "Little Wood River District",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-543",
+"name": "Richfield District",
+"state": "ID",
+"url": "https://richfield.lili.org/",
+"status": 200,
+"final": "https://richfield.lili.org/",
+"error": null,
+"title": "Richfield District Library \u2013 Welcome to the Richfield District Library",
+"name_hits": [
+"richfield"
+],
+"name_toks": [
+"richfield"
+],
+"state_hit": true,
+"parked": false,
+"words": 267,
+"links": [
+[
+"https://richfield.lili.org/board-meeting-agendas/",
+"Board Meeting Agendas"
+],
+[
+"https://richfield.lili.org/board-meeting-agendas/",
+"Board Meeting Agendas"
+],
+[
+"https://richfield.lili.org/11-11-2026-meeting-agenda/",
+"11/11/2026 Meeting Agenda"
+],
+[
+"https://richfield.lili.org/10-8-2026-meeting-agenda/",
+"10/8/2026 Meeting Agenda"
+],
+[
+"https://richfield.lili.org/9-10-2026-board-meeting-agenda/",
+"9/10/2026 Board Meeting Agenda"
+],
+[
+"https://richfield.lili.org/8-10-26-public-hearing-meeting-agenda/",
+"8/10/26 Public Hearing & Meeting Agenda"
+],
+[
+"https://libraries.idaho.gov/",
+"Idaho Commission for Libraries"
+]
+]
+},
+{
+"id": "ID-548",
+"name": "Bruneau Valley District",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-549",
+"name": "Roberts City Library",
+"state": "ID",
+"url": "https://roberts.lili.org/",
+"status": 200,
+"final": "https://roberts.lili.org/",
+"error": null,
+"title": "Roberts City Library \u2013 Enriching Our Community\u2019s Imagination, Education, and Literacy",
+"name_hits": [
+"roberts"
+],
+"name_toks": [
+"roberts"
+],
+"state_hit": true,
+"parked": false,
+"words": 355,
+"links": [
+[
+"https://roberts.lili.org/library-board/",
+"Library Board"
+],
+[
+"https://roberts.lili.org/library-board/",
+"Library Board"
+],
+[
+"https://roberts.lili.org/1123-2/",
+"Upcoming Library Board Meeting"
+],
+[
+"https://libraries.idaho.gov/",
+"Idaho Commission for Libraries"
+]
+]
+},
+{
+"id": "ID-550",
+"name": "Mullan Public",
+"state": "ID",
+"url": "https://mullan.lili.org/",
+"status": 200,
+"final": "https://mullan.lili.org/",
+"error": null,
+"title": "Mullan Public Library",
+"name_hits": [
+"mullan"
+],
+"name_toks": [
+"mullan"
+],
+"state_hit": true,
+"parked": false,
+"words": 267,
+"links": [
+[
+"https://mullan.lili.org/about-us/board-and-staff/",
+"Staff and Trustees"
+],
+[
+"https://mullan.lili.org/about-us/board-and-staff/",
+"Staff and Trustees"
+],
+[
+"https://mullan.lili.org/about-us/board-and-staff/",
+""
+],
+[
+"https://mullan.lili.org/about-us/board-and-staff/",
+"Staff and Trustees"
+],
+[
+"https://libraries.idaho.gov/",
+"Idaho Commission for Libraries"
+]
+]
+},
+{
+"id": "ID-551",
+"name": "Lewisville Public",
+"state": "ID",
+"url": "https://lewisville.lili.org/",
+"status": 200,
+"final": "https://lewisville.lili.org/",
+"error": null,
+"title": "Lewisville Legacy Library \u2013 Welcome to Our Library!",
+"name_hits": [
+"lewisville"
+],
+"name_toks": [
+"lewisville"
+],
+"state_hit": true,
+"parked": false,
+"words": 290,
+"links": [
+[
+"https://lewisville.lili.org/about/board/",
+"Board of Trustees"
+],
+[
+"https://lewisville.lili.org/about/board/meeting-agendas/",
+"Board Meeting Agendas"
+],
+[
+"https://lewisville.lili.org/about/board/meeting-minutes/",
+"Board Meeting Minutes"
+],
+[
+"https://lewisville.lili.org/about/board/",
+"Board of Trustees"
+],
+[
+"https://lewisville.lili.org/about/board/meeting-agendas/",
+"Board Meeting Agendas"
+],
+[
+"https://lewisville.lili.org/about/board/meeting-minutes/",
+"Board Meeting Minutes"
+],
+[
+"https://libraries.idaho.gov/",
+"Idaho Commission for Libraries"
+]
+]
+},
+{
+"id": "ID-555",
+"name": "Stanley District",
+"state": "ID",
+"url": "https://stanley.lili.org/",
+"status": 200,
+"final": "https://stanley.lili.org/",
+"error": null,
+"title": "Stanley Community Library \u2013 Access to the World through Books and So Much More",
+"name_hits": [
+"stanley"
+],
+"name_toks": [
+"stanley"
+],
+"state_hit": true,
+"parked": false,
+"words": 449,
+"links": [
+[
+"https://stanley.lili.org/about-us/board-of-trustees/",
+"Board of Trustees/Meetings"
+],
+[
+"https://stanley.lili.org/about-us/board-of-trustees/",
+"Board of Trustees/Meetings"
+],
+[
+"https://libraries.idaho.gov/",
+"Idaho Commission for Libraries"
+]
+]
+},
+{
+"id": "ID-556",
+"name": "Ola District",
+"state": "ID",
+"url": "https://olalibrary.org/",
+"status": 200,
+"final": "https://olalibrary.org/",
+"error": null,
+"title": "Ola District Library",
+"name_hits": [
+"ola"
+],
+"name_toks": [
+"ola"
+],
+"state_hit": true,
+"parked": false,
+"words": 237,
+"links": [
+[
+"https://olalibrary.org/library-board-and-trustees/",
+"Library Board"
+],
+[
+"https://olalibrary.org/library-board-and-trustees/",
+"Library Board"
+],
+[
+"https://olalibrary.org/library-board-and-trustees/",
+""
+],
+[
+"https://olalibrary.org/library-board-and-trustees/",
+"Library History"
+],
+[
+"https://libraries.idaho.gov/",
+"Idaho Commission for Libraries"
+]
+]
+},
+{
+"id": "ID-557",
+"name": "Elk River District",
+"state": "ID",
+"url": "https://elkriver.lili.org/",
+"status": 200,
+"final": "https://elkriver.lili.org/",
+"error": null,
+"title": "Elk River Free Library District \u2013 Community Driven Access to Information",
+"name_hits": [
+"elk",
+"river"
+],
+"name_toks": [
+"elk",
+"river"
+],
+"state_hit": true,
+"parked": false,
+"words": 250,
+"links": [
+[
+"https://elkriver.lili.org/business-information/agendas/",
+"Agendas"
+],
+[
+"https://elkriver.lili.org/business-information/minutes/",
+"Board Minutes"
+],
+[
+"https://elkriver.lili.org/about-us/library-board/",
+"Library Board"
+],
+[
+"https://elkriver.lili.org/business-information/agendas/",
+"Agendas"
+],
+[
+"https://elkriver.lili.org/business-information/minutes/",
+"Board Minutes"
+],
+[
+"https://elkriver.lili.org/about-us/library-board/",
+"Library Board"
+],
+[
+"https://elkriver.lili.org/about-us/library-board/",
+""
+],
+[
+"https://elkriver.lili.org/about-us/library-board/",
+"Library Board"
+],
+[
+"https://libraries.idaho.gov/",
+"Idaho Commission for Libraries"
+]
+]
+},
+{
+"id": "ID-558",
+"name": "Prairie District",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "OR-560",
+"name": "Adair Village",
+"state": "OR",
+"url": "https://www.adairvillage.org/",
+"status": 200,
+"final": "https://adairvillage.org/",
+"error": null,
+"title": "Adair Village | City of Adair Village, Oregon",
+"name_hits": [
+"adair"
+],
+"name_toks": [
+"adair"
+],
+"state_hit": true,
+"parked": false,
+"words": 382,
+"links": [
+[
+"https://adairvillage.org/city-council/",
+"City Council"
+],
+[
+"https://adairvillage.org/city-council/agendasminutes/",
+"Agendas/Minutes"
+],
+[
+"https://adairvillage.org/city-council/comprehensive-plan/",
+"Comprehensive Plan"
+],
+[
+"https://adairvillage.org/city-council/finances/",
+"Budget/Finances"
+],
+[
+"https://adairvillage.org/city-council/land-use-development-code/",
+"Land Use Development Code, Design Standards, and Transportation Systems Plan"
+],
+[
+"https://adairvillage.org/city-council/ordinances/",
+"Ordinances"
+],
+[
+"https://adairvillage.org/city-council/ordinances/public-nuisances-and-abatement/",
+"Public Nuisances and Abatement"
+],
+[
+"https://adairvillage.org/city-council/resolutions-2/",
+"Resolutions"
+],
+[
+"https://adairvillage.org/2026-republic-services-calendar-of-events/",
+"2026 Republic Services Calendar of Events"
+],
+[
+"https://adairvillage.org/city-council-packet-november-3-2026/",
+"City Council Packet November 3, 2026"
+],
+[
+"https://adairvillage.org/city-council-packet-october-6-2026/",
+"City Council Packet October 6, 2026"
+],
+[
+"https://adairvillage.org/transportation-system-plan-implementation-amendments-city-council-staff-report-9-18-26/",
+"City Council Hearing October 6, 2026: Staff Report 9-18-26 Transportation System"
+],
+[
+"https://adairvillage.org/planning-commission-meeting-packet-september-17-2026/",
+"Planning Commission Meeting Packet September 17, 2026"
+],
+[
+"https://adairvillage.org/city-council-packet-september-1-2026/",
+"City Council Packet September 1, 2026"
+],
+[
+"https://adairvillage.org/planning-commission-and-city-council-legislative-public-hearing-notices-planning-commission-sept-17-2026-city-council-oct-6-2026/",
+"Planning Commission and City Council Legislative Public Hearing Notices \u2013 Planni"
+],
+[
+"https://adairvillage.org/city-council-packet-august-4-2026/",
+"City Council Packet August 4, 2026"
+],
+[
+"https://adairvillage.org/city-council-packet-july-7-2026/",
+"City Council Packet July 7, 2026"
+],
+[
+"https://adairvillage.org/category/meetings/",
+"How to make public comments at public meetings: The City of Adair Village meets "
+],
+[
+"https://adairvillage.org/category/meetings/",
+"View all meetings"
+]
+]
+},
+{
+"id": "OR-561",
+"name": "Adrian",
+"state": "OR",
+"url": "https://www.adrianoregon.com/",
+"status": 200,
+"final": "https://www.adrianoregon.com/",
+"error": null,
+"title": "Adrian Oregon \u2013 Welcome to Adrian",
+"name_hits": [
+"adrian"
+],
+"name_toks": [
+"adrian"
+],
+"state_hit": true,
+"parked": false,
+"words": 744,
+"links": [
+[
+"http://www.adrianoregon.com/events/",
+"Calendar"
+],
+[
+"https://www.adrianoregon.com/submit-an-event-for-the-calendar/",
+"Submit an Event For the Calendar"
+],
+[
+"https://www.adrianoregon.com/wp-content/uploads/2021/07/Adrian_2040_Summer_Youth_Camps_calendar.pdf",
+"Obtenga un calendario de eventos imprimible"
+],
+[
+"https://sites.google.com/site/tworiverspark/owyheewatershedcouncil",
+"Owyhee Watershed Council"
+]
+]
+},
+{
+"id": "OR-562",
+"name": "Barlow",
+"state": "OR",
+"url": "https://www.barloworegon.com/",
+"status": 200,
+"final": "https://www.barloworegon.com/",
+"error": null,
+"title": "City Barlow Oregon | Barlow Oregon | Barlow",
+"name_hits": [
+"barlow"
+],
+"name_toks": [
+"barlow"
+],
+"state_hit": true,
+"parked": false,
+"words": 111,
+"links": []
+},
+{
+"id": "OR-563",
+"name": "Canyon City",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-564",
+"name": "Dayton",
+"state": "OR",
+"url": "https://www.ci.dayton.or.us/",
+"status": 200,
+"final": "https://www.daytonoregon.gov/",
+"error": null,
+"title": "Dayton, Oregon",
+"name_hits": [
+"dayton"
+],
+"name_toks": [
+"dayton"
+],
+"state_hit": true,
+"parked": false,
+"words": 386,
+"links": [
+[
+"https://www.daytonoregon.gov/page/admin_cc_agendas_minutes",
+"Agendas, Minutes, and Legislation"
+],
+[
+"https://www.daytonoregon.gov/page/admin_mayor_council",
+"Meet the Mayor and City Council"
+],
+[
+"https://www.daytonoregon.gov/page/committee_home",
+"City Committees and Commissions"
+],
+[
+"https://www.daytonoregon.gov/page/committee_planning_commission",
+"Planning Commission"
+],
+[
+"https://www.daytonoregon.gov/page/admin_cc_agendas_minutes",
+"Attend a Meeting"
+],
+[
+"https://www.daytonoregon.gov/page/calendar",
+"See all Events"
+]
+]
+},
+{
+"id": "OR-565",
+"name": "Dayville",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-566",
+"name": "Granite",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-567",
+"name": "Greenhorn",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-568",
+"name": "Helix",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-569",
+"name": "Huntington",
+"state": "OR",
+"url": "https://www.cityofhuntingtonor.gov/",
+"status": 200,
+"final": "https://www.cityofhuntingtonor.gov/",
+"error": null,
+"title": "Home Page | Huntington Oregon",
+"name_hits": [
+"huntington"
+],
+"name_toks": [
+"huntington"
+],
+"state_hit": true,
+"parked": false,
+"words": 70,
+"links": [
+[
+"https://www.cityofhuntingtonor.gov/directory",
+"Government"
+],
+[
+"https://www.cityofhuntingtonor.gov/huntington-common-council",
+"Huntington Common Council"
+],
+[
+"https://www.cityofhuntingtonor.gov/meetings",
+"Minutes and Agendas"
+],
+[
+"https://www.cityofhuntingtonor.gov/meetings",
+"Agendas & Minutes"
+],
+[
+"https://www.cityofhuntingtonor.gov/government-resources/page/city-charter-and-ordinances",
+"City Charter"
+],
+[
+"https://www.civicplus.com/",
+"Government Websites by CivicPlus\u00ae"
+]
+]
+},
+{
+"id": "OR-570",
+"name": "Idanha",
+"state": "OR",
+"url": "https://www.cityofidanha.org/",
+"status": 200,
+"final": "https://www.cityofidanha.us/",
+"error": null,
+"title": "Website for the City of Idanha, Oregon. Located along the North Santiam Highway, the City of Idanha is a gateway to natural wonders and a retreat for all who ap",
+"name_hits": [
+"idanha"
+],
+"name_toks": [
+"idanha"
+],
+"state_hit": true,
+"parked": false,
+"words": 521,
+"links": []
+},
+{
+"id": "OR-571",
+"name": "Johnson City",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-572",
+"name": "Jordan Valley",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-573",
+"name": "Lonerock",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-574",
+"name": "Metolius",
+"state": "OR",
+"url": "https://www.cityofmetolius.com/",
+"status": 200,
+"final": "https://www.cityofmetolius.com/",
+"error": null,
+"title": "Metolius, OR | Official Website",
+"name_hits": [
+"metolius"
+],
+"name_toks": [
+"metolius"
+],
+"state_hit": true,
+"parked": false,
+"words": 171,
+"links": [
+[
+"https://www.cityofmetolius.com/27/Government",
+"Government"
+],
+[
+"https://www.cityofmetolius.com/198/Agendas-and-Minutes",
+"Agendas and Meeting Info"
+],
+[
+"https://www.cityofmetolius.com/calendar.aspx?CID=14,24",
+"Calendar"
+],
+[
+"https://www.cityofmetolius.com/calendar.aspx?view=list&year=2026&month=11&day=24&CID=14,24",
+"24"
+],
+[
+"https://www.cityofmetolius.com/calendar.aspx?view=list&year=2026&month=11&day=25&CID=14,24",
+"25"
+],
+[
+"https://www.cityofmetolius.com/calendar.aspx?view=list&year=2026&month=11&day=26&CID=14,24",
+"26"
+],
+[
+"https://www.cityofmetolius.com/calendar.aspx?view=list&year=2026&month=11&day=27&CID=14,24",
+"27"
+],
+[
+"https://www.cityofmetolius.com/calendar.aspx?view=list&year=2026&month=11&day=29&CID=14,24",
+"29"
+],
+[
+"https://www.cityofmetolius.com/calendar.aspx?view=list&year=2026&month=12&day=2&CID=14,24",
+"2"
+],
+[
+"https://www.cityofmetolius.com/calendar.aspx?view=list&year=2026&month=12&day=5&CID=14,24",
+"5"
+],
+[
+"https://www.cityofmetolius.com/Calendar.aspx?EID=293",
+"Municipal Court"
+],
+[
+"https://www.cityofmetolius.com/Calendar.aspx?EID=293",
+"Municipal Court Read on..."
+],
+[
+"https://www.cityofmetolius.com/Calendar.aspx?EID=324",
+"Depot Church Rental"
+],
+[
+"https://www.cityofmetolius.com/Calendar.aspx?EID=324",
+"Depot Church Rental Read on..."
+],
+[
+"https://www.cityofmetolius.com/Calendar.aspx?EID=317",
+"Thanksgiving Day/Office Closed"
+],
+[
+"https://www.cityofmetolius.com/Calendar.aspx?EID=317",
+"Thanksgiving Day/Office Closed Read on..."
+],
+[
+"https://www.cityofmetolius.com/Calendar.aspx?EID=318",
+"Office Closed"
+],
+[
+"https://www.cityofmetolius.com/Calendar.aspx?EID=318",
+"Office Closed Read on..."
+],
+[
+"https://www.cityofmetolius.com/calendar.aspx?CID=14,24",
+"View All Events"
+]
+]
+},
+{
+"id": "OR-575",
+"name": "Monument",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-576",
+"name": "Mount Vernon",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-577",
+"name": "Powers",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-578",
+"name": "Prairie City",
+"state": "OR",
+"url": "https://prairiecityor.gov/",
+"status": 200,
+"final": "https://prairiecityor.gov/",
+"error": null,
+"title": "City of Prairie City, Oregon",
+"name_hits": [
+"prairie"
+],
+"name_toks": [
+"prairie"
+],
+"state_hit": true,
+"parked": false,
+"words": 892,
+"links": [
+[
+"https://prairiecityor.gov/minutes/",
+"Minutes"
+],
+[
+"https://files.prairiecityor.gov/council/agendas/2026-11-18-agenda-council-monthly.pdf",
+"Agenda \u2014 November 18 Meeting"
+],
+[
+"https://prairiecityor.gov/minutes/",
+"Council Meeting Minutes \u2014 Archive"
+],
+[
+"https://files.prairiecityor.gov/council/agendas/2026-11-18-agenda-council-monthly.pdf",
+"View PDF"
+],
+[
+"https://files.prairiecityor.gov/council/agendas/2026-10-14-agenda-council-monthly.pdf",
+"View PDF"
+],
+[
+"https://files.prairiecityor.gov/council/agendas/2026-09-09-agenda-council-monthly.pdf",
+"View PDF"
+],
+[
+"https://files.prairiecityor.gov/council/minutes/monthly/2026-09-09-minutes-council-monthly.pdf",
+"View PDF"
+],
+[
+"https://files.prairiecityor.gov/council/agendas/",
+"Open"
+],
+[
+"https://files.prairiecityor.gov/council/minutes/",
+"Open"
+]
+]
+},
+{
+"id": "OR-579",
+"name": "Prescott",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-580",
+"name": "Richland",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-581",
+"name": "Riddle",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-582",
+"name": "Summerville",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-583",
+"name": "Waterloo",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-603",
+"name": "Port of Alsea",
+"state": "OR",
+"url": "https://www.portofalsea.com/",
+"status": 200,
+"final": "https://www.portofalsea.com/",
+"error": null,
+"title": "Homepage Port of Alsea",
+"name_hits": [
+"alsea"
+],
+"name_toks": [
+"alsea"
+],
+"state_hit": true,
+"parked": false,
+"words": 572,
+"links": [
+[
+"https://www.portofalsea.com/board-meetings",
+"Board Meetings"
+],
+[
+"https://www.portofalsea.com/board-of-commissioners",
+"Board of Commissioners"
+],
+[
+"https://www.portofalsea.com/board-meetings",
+"Board Meetings"
+]
+]
+},
+{
+"id": "OR-604",
+"name": "Port of Arlington",
+"state": "OR",
+"url": "https://www.portofarlington.com/",
+"status": 200,
+"final": "https://www.portofarlington.com/",
+"error": null,
+"title": "Home",
+"name_hits": [
+"arlington"
+],
+"name_toks": [
+"arlington"
+],
+"state_hit": true,
+"parked": false,
+"words": 134,
+"links": [
+[
+"https://www.portofarlington.com/meeting-agendas---minutes.html",
+"Meeting Agendas & Minutes"
+],
+[
+"https://www.portofarlington.com/2023-meeting-documents.html",
+"2023 Meeting Documents"
+],
+[
+"https://www.portofarlington.com/2024-meeting-documents.html",
+"2024 Meeting Documents"
+],
+[
+"https://www.portofarlington.com/2025-meeting-documents.html",
+"2025 Meeting Documents"
+],
+[
+"https://www.portofarlington.com/2026-meeting-documents.html",
+"2026 Meeting Documents"
+],
+[
+"https://www.portofarlington.com/board-of-directors.html",
+"Board of Directors"
+],
+[
+"https://nebula.wsimg.com/8415374b9529c9e74e09402e9d17ed07?AccessKeyId=112FABA55D63C2DEEE68&disposition=0&alloworigin=1",
+"Meeting Packet\u200b"
+]
+]
+},
+{
+"id": "OR-605",
+"name": "Port of Astoria",
+"state": "OR",
+"url": "https://www.portofastoria.com/",
+"status": 200,
+"final": "https://www.portofastoria.com/",
+"error": null,
+"title": "Homepage Port of Astoria",
+"name_hits": [
+"astoria"
+],
+"name_toks": [
+"astoria"
+],
+"state_hit": true,
+"parked": false,
+"words": 530,
+"links": [
+[
+"https://www.portofastoria.com/board-members",
+"Commission"
+],
+[
+"https://www.portofastoria.com/board-members",
+"Board Members"
+],
+[
+"https://www.portofastoria.com/commission-meetings",
+"Commission Meetings"
+],
+[
+"https://www.portofastoria.com/about",
+"Welcome The Port of Astoria was established in 1910 and is governed by the rules"
+],
+[
+"https://www.portofastoria.com/commission-meetings",
+"Commission Meetings"
+],
+[
+"https://www.portofastoria.com/calendar",
+"Calendar"
+]
+]
+},
+{
+"id": "OR-606",
+"name": "Port of Bandon",
+"state": "OR",
+"url": "https://www.portofbandon.com/",
+"status": 200,
+"final": "https://www.portofbandon.com/",
+"error": null,
+"title": "Homepage Port of Bandon",
+"name_hits": [
+"bandon"
+],
+"name_toks": [
+"bandon"
+],
+"state_hit": true,
+"parked": false,
+"words": 341,
+"links": [
+[
+"https://www.portofbandon.com/governance",
+"Governance"
+],
+[
+"https://www.portofbandon.com/port-commission",
+"Port Commission"
+],
+[
+"https://www.portofbandon.com/board-of-commissioners",
+"Board of Commissioners"
+],
+[
+"https://www.portofbandon.com/commission-meetings",
+"Board Meetings"
+],
+[
+"https://www.portofbandon.com/meetings-93d8e01",
+"Additional Meetings"
+],
+[
+"https://www.portofbandon.com/boardwalk",
+"Boardwalk"
+],
+[
+"https://www.portofbandon.com/boardwalk",
+"Boardwalk The Port of Bandon Boardwalk is a vibrant part of Bandon\u2019s waterfront,"
+],
+[
+"https://www.portofbandon.com/meetings",
+"Meetings"
+],
+[
+"https://www.portofbandon.com/board-members",
+"Board Members"
+],
+[
+"https://www.portofbandon.com/port-of-bandon-commission-supports-transfer-of-waterfront-property-for-na-so-mah-memorial",
+"Port of Bandon Commission Supports Transfer of Waterfront Property for Na-So-Mah"
+],
+[
+"https://www.portofbandon.com/boardwalk",
+"Boardwalk The Port of Bandon Boardwalk is a vibrant part of Bandon\u2019s waterfront,"
+]
+]
+},
+{
+"id": "OR-607",
+"name": "Port of Brookings Harbor",
+"state": "OR",
+"url": "https://www.portofbrookingsharbor.com/",
+"status": 200,
+"final": "https://www.portofbrookingsharbor.com/",
+"error": null,
+"title": "PORT OF BROOKINGS HARBOR - Port",
+"name_hits": [
+"brookings",
+"harbor"
+],
+"name_toks": [
+"brookings",
+"harbor"
+],
+"state_hit": true,
+"parked": false,
+"words": 690,
+"links": [
+[
+"https://www.portofbrookingsharbor.com/meeting-agendas--minutes.html",
+"Meeting Agendas & Minutes >"
+],
+[
+"https://www.portofbrookingsharbor.com/commissioners.html",
+"Commissioners"
+],
+[
+"https://www.portofbrookingsharbor.com/honorary-board-of-commissioners.html",
+"Honorary Board of Commissioners"
+],
+[
+"https://www.portofbrookingsharbor.com/2026.html",
+"Commissioner Meetings"
+],
+[
+"https://www.portofbrookingsharbor.com/2025.html",
+"More Information on Commissioner Meetings"
+],
+[
+"https://www.portofbrookingsharbor.com/meeting-agendas--minutes.html",
+"Meeting Agendas & Minutes >"
+],
+[
+"https://www.portofbrookingsharbor.com/commissioners.html",
+"Commissioners"
+],
+[
+"https://www.portofbrookingsharbor.com/honorary-board-of-commissioners.html",
+"Honorary Board of Commissioners"
+]
+]
+},
+{
+"id": "OR-608",
+"name": "Port of Cascade Locks",
+"state": "OR",
+"url": "https://www.portofcascadelocks.org/",
+"status": 200,
+"final": "https://www.portofcascadelocks.gov/",
+"error": null,
+"title": "Homepage Port Of Cascade Locks",
+"name_hits": [
+"cascade",
+"locks"
+],
+"name_toks": [
+"cascade",
+"locks"
+],
+"state_hit": true,
+"parked": false,
+"words": 1124,
+"links": [
+[
+"https://www.portofcascadelocks.gov/governance",
+"Governance"
+],
+[
+"https://www.portofcascadelocks.gov/port-commission",
+"Port Commission"
+],
+[
+"https://www.portofcascadelocks.gov/commission-meetings",
+"Port Commission Meetings"
+],
+[
+"https://www.portofcascadelocks.gov/port-commission",
+"Port Commission"
+],
+[
+"https://ambientweather.net/dashboard/de7f82665aaa29478910cd366c65e88a/tiles",
+"Weather"
+],
+[
+"https://www.portofcascadelocks.gov/january-26-2021-commission-meeting-day-changed",
+"January 26, 2021 | Commission Meeting Day Changed"
+],
+[
+"https://www.portofcascadelocks.gov/commission-meetings",
+"Commission Meetings"
+],
+[
+"https://www.portofcascadelocks.gov/2026-12-15-commission-meeting",
+"Dec 15 2026 Commission Meeting Read more \u00bb"
+]
+]
+},
+{
+"id": "OR-609",
+"name": "Port of Columbia County",
+"state": "OR",
+"url": "https://www.portofcolumbiacounty.org/",
+"status": 200,
+"final": "https://www.portofcolumbiacounty.org/",
+"error": null,
+"title": "Port of Columbia County, OR | Official Website",
+"name_hits": [
+"columbia"
+],
+"name_toks": [
+"columbia"
+],
+"state_hit": true,
+"parked": false,
+"words": 323,
+"links": [
+[
+"https://www.portofcolumbiacounty.org/Calendar.aspx",
+"Calendar"
+],
+[
+"https://www.portofcolumbiacounty.org/AgendaCenter",
+"Agendas & Minutes"
+],
+[
+"https://www.portofcolumbiacounty.org/calendar.aspx?CID=14",
+"Calendar"
+],
+[
+"https://www.portofcolumbiacounty.org/calendar.aspx?view=list&year=2026&month=11&day=25&CID=14",
+"25"
+],
+[
+"https://www.portofcolumbiacounty.org/calendar.aspx?view=list&year=2026&month=11&day=26&CID=14",
+"26"
+],
+[
+"https://www.portofcolumbiacounty.org/calendar.aspx?view=list&year=2026&month=11&day=27&CID=14",
+"27"
+],
+[
+"https://www.portofcolumbiacounty.org/calendar.aspx?view=list&year=2026&month=11&day=30&CID=14",
+"30"
+],
+[
+"https://www.portofcolumbiacounty.org/calendar.aspx?view=list&year=2026&month=12&day=4&CID=14",
+"4"
+],
+[
+"https://www.portofcolumbiacounty.org/Calendar.aspx?EID=401",
+"Commission Work Session - Canceled"
+],
+[
+"https://www.portofcolumbiacounty.org/Calendar.aspx?EID=343",
+"Thanksgiving Day (Port Office Closed)"
+],
+[
+"https://www.portofcolumbiacounty.org/Calendar.aspx?EID=344",
+"Day After Thanksgiving (Port Office Closed)"
+],
+[
+"https://www.portofcolumbiacounty.org/Calendar.aspx?EID=374",
+"Airport Advisory Committee - 5:00 PM"
+],
+[
+"https://www.portofcolumbiacounty.org/calendar.aspx?CID=14",
+"View All Events"
+],
+[
+"https://www.portofcolumbiacounty.org/CivicAlerts.aspx?AID=15",
+"Port News & Notes: Port Commission Approves Private Moorage Operator for Scappoo"
+]
+]
+},
+{
+"id": "OR-610",
+"name": "Oregon International Port of Coos Bay",
+"state": "OR",
+"url": "https://www.portofcoosbay.com/",
+"status": 200,
+"final": "https://www.portofcoosbay.com/",
+"error": null,
+"title": "Homepage Oregon International Port of Coos Bay",
+"name_hits": [
+"oregon",
+"international",
+"coos",
+"bay"
+],
+"name_toks": [
+"oregon",
+"international",
+"coos",
+"bay"
+],
+"state_hit": true,
+"parked": false,
+"words": 921,
+"links": [
+[
+"https://www.portofcoosbay.com/port-board-of-commissioners",
+"Port Board Of Commissioners"
+],
+[
+"https://www.portofcoosbay.com/boards-committees-meetings",
+"Boards & Meetings"
+],
+[
+"https://www.portofcoosbay.com/port-of-coos-bay-board-of-commissioners",
+"Port of Coos Bay Board of Commissioners"
+],
+[
+"https://www.portofcoosbay.com/coos-bay-rail-line-board-of-directors",
+"Coos Bay Rail Line Board of Directors"
+],
+[
+"https://www.portofcoosbay.com/port-of-coos-bay-board-of-commissioners",
+"Board Meetings"
+],
+[
+"https://www.portofcoosbay.com/calendar-of-events",
+"Calendar of Events"
+],
+[
+"https://www.portofcoosbay.com/port-of-coos-bay-board-of-commissioners",
+"Port of Coos Bay Board of Commissioners"
+],
+[
+"https://www.portofcoosbay.com/2026-12-01-port-of-coos-bay-board-of-commissioners-pcip-regular-meeting",
+"Dec 1 2026 Port of Coos Bay Board of Commissioners PCIP Regular Meeting Read mor"
+],
+[
+"https://www.portofcoosbay.com/2026-12-02-coos-bay-harbor-safety-committee-meeting",
+"Dec 2 2026 Coos Bay Harbor Safety Committee Meeting Read more \u00bb"
+]
+]
+},
+{
+"id": "OR-611",
+"name": "Port of Coquille River",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-612",
+"name": "Port of Garibaldi",
+"state": "OR",
+"url": "https://www.portofgaribaldi.org/",
+"status": 200,
+"final": "https://www.portofgaribaldi.org/",
+"error": null,
+"title": "Homepage Port of Garibaldi",
+"name_hits": [
+"garibaldi"
+],
+"name_toks": [
+"garibaldi"
+],
+"state_hit": true,
+"parked": false,
+"words": 194,
+"links": [
+[
+"https://www.portofgaribaldi.org/port-commission-eee7562",
+"Commission"
+],
+[
+"https://www.portofgaribaldi.org/port-commission-eee7562",
+"Port Commission"
+],
+[
+"https://www.portofgaribaldi.org/commission-meetings",
+"Commission Meetings"
+],
+[
+"https://www.portofgaribaldi.org/commission-meetings",
+"Commission Meetings"
+],
+[
+"https://www.portofgaribaldi.org/government-agencies",
+"Government Agencies"
+],
+[
+"https://tillamookcoast.com/events/",
+"Event Calendar Tillamook County Weekly Events - Courtesy of Tillamook Coast Find"
+]
+]
+},
+{
+"id": "OR-613",
+"name": "Port of Gold Beach",
+"state": "OR",
+"url": "https://www.portofgoldbeach.com/",
+"status": 200,
+"final": "https://portofgoldbeach.com/",
+"error": null,
+"title": "Port of Gold Beach \u2013 For a little port in a little town \u2013 a lot happens in the Port of Gold Beach.",
+"name_hits": [
+"gold",
+"beach"
+],
+"name_toks": [
+"gold",
+"beach"
+],
+"state_hit": true,
+"parked": false,
+"words": 860,
+"links": [
+[
+"https://portofgoldbeach.com/category/port-meetings/",
+"Port Meetings"
+],
+[
+"https://www.co.curry.or.us/government/county_sheriff/hazard_mitigation_plan.php",
+"Natural Hazards Mitigation Plan"
+],
+[
+"https://portofgoldbeach.com/category/port-meetings",
+"click here to see Port Meetings"
+],
+[
+"https://portofgoldbeach.com/2026-port-meetings/",
+"2026 Port Meetings"
+],
+[
+"https://portofgoldbeach.com/2026-port-meetings/",
+"Continue reading \u2192"
+],
+[
+"https://portofgoldbeach.com/2025-port-meetings/",
+"2025 Port Meetings"
+],
+[
+"https://portofgoldbeach.com/2025-port-meetings/",
+"Continue reading \u2192"
+],
+[
+"https://portofgoldbeach.com/2024-port-meetings/",
+"2024 Port Meetings"
+],
+[
+"https://portofgoldbeach.com/2024-port-meetings/",
+"Continue reading \u2192"
+],
+[
+"https://portofgoldbeach.com/2023-port-meetings/",
+"2023 Port Meetings"
+],
+[
+"https://portofgoldbeach.com/2023-port-meetings/",
+"Continue reading \u2192"
+],
+[
+"https://portofgoldbeach.com/2022-port-meetings/",
+"2022 Port Meetings"
+],
+[
+"https://portofgoldbeach.com/2022-port-meetings/",
+"Continue reading \u2192"
+],
+[
+"https://portofgoldbeach.com/2021-port-meetings/",
+"2021 Port Meetings"
+],
+[
+"https://portofgoldbeach.com/2021-port-meetings/",
+"Continue reading \u2192"
+],
+[
+"https://portofgoldbeach.com/2020-port-meetings/",
+"2020 Port Meetings"
+],
+[
+"https://portofgoldbeach.com/2020-port-meetings/",
+"Continue reading \u2192"
+],
+[
+"https://portofgoldbeach.com/2019-port-meetings/",
+"2019 Port Meetings"
+],
+[
+"https://portofgoldbeach.com/2019-port-meetings/",
+"Continue reading \u2192"
+],
+[
+"https://portofgoldbeach.com/2018-port-meetings/",
+"2018 Port Meetings"
+],
+[
+"https://portofgoldbeach.com/2018-port-meetings/",
+"Continue reading \u2192"
+]
+]
+},
+{
+"id": "OR-614",
+"name": "Port of Hood River",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-615",
+"name": "Port of Morrow",
+"state": "OR",
+"url": "https://www.portofmorrow.com/",
+"status": 200,
+"final": "https://www.portofmorrow.com/",
+"error": null,
+"title": "Welcome to the Port of Morrow | Port of Morrow",
+"name_hits": [
+"morrow"
+],
+"name_toks": [
+"morrow"
+],
+"state_hit": true,
+"parked": false,
+"words": 269,
+"links": [
+[
+"https://www.portofmorrow.com/port-commission",
+"Port Commission"
+],
+[
+"https://www.portofmorrow.com/boardman-industrial-park",
+"Boardman Industrial Park"
+],
+[
+"https://www.portofmorrow.com/meetings",
+"Commission Meetings"
+]
+]
+},
+{
+"id": "OR-616",
+"name": "Port of Nehalem",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-617",
+"name": "Port of Newport",
+"state": "OR",
+"url": "https://www.portofnewport.com/",
+"status": 200,
+"final": "https://www.portofnewport.com/",
+"error": null,
+"title": "Homepage Port of Newport",
+"name_hits": [
+"newport"
+],
+"name_toks": [
+"newport"
+],
+"state_hit": true,
+"parked": false,
+"words": 859,
+"links": [
+[
+"https://www.portofnewport.com/commission-staff",
+"Commission & Staff"
+],
+[
+"https://www.portofnewport.com/commission-meetings",
+"Commission Meetings"
+],
+[
+"https://www.portofnewport.com/commission-who-s-who",
+"Commission Who's Who"
+],
+[
+"https://www.portofnewport.com/commission-resolutions",
+"Resolutions"
+],
+[
+"https://www.portofnewport.com/public-meetings-law-grievance-process",
+"Public Meetings Grievance Policy"
+],
+[
+"https://www.portofnewport.com/by-laws-for-the-port-of-newport-board-of-commissioners",
+"By-Laws for the Port of Newport Board of Commissioners"
+],
+[
+"https://www.portofnewport.com/commission-who-s-who",
+"Commission Who's Who"
+],
+[
+"https://www.portofnewport.com/2026-commission",
+"View Board Meetings"
+]
+]
+},
+{
+"id": "OR-618",
+"name": "Port of Port Orford",
+"state": "OR",
+"url": "https://www.portofportorford.org/",
+"status": 200,
+"final": "https://portofportorford.org/",
+"error": null,
+"title": "Port of Port Orford \u2013 Port Orford, Oregon",
+"name_hits": [
+"orford"
+],
+"name_toks": [
+"orford"
+],
+"state_hit": true,
+"parked": false,
+"words": 494,
+"links": [
+[
+"https://portofportorford.org/port-meetings-and-documents/",
+"Meetings and Docs"
+],
+[
+"https://portofportorford.org/port-staff-and-commission/",
+"Port Staff & Commission"
+],
+[
+"https://portofportorford.org/port-meetings-and-documents/",
+"Meetings and Docs"
+],
+[
+"https://portofportorford.org/port-staff-and-commission/",
+"Port Staff & Commission"
+],
+[
+"https://portofportorford.org/event/special-port-commission-meeting-november-22-2026/",
+"Special Port Commission Meeting \u2013 November 22, 2026"
+],
+[
+"https://portofportorford.org/event/special-port-commission-meeting-november-21-2026/",
+"Special Port Commission Meeting \u2013 November 21, 2026"
+],
+[
+"https://portofportorford.org/event/special-port-commission-meeting-november-19-2026/",
+"Special Port Commission Meeting \u2013 November 19, 2026"
+],
+[
+"https://mailchi.mp/portofportorford.org/port-redevelopment-committee-meeting-12855371",
+"Latest Newsletter Read More"
+],
+[
+"https://portofportorford.org/port-staff-and-commission/",
+"Port Staff Read More"
+],
+[
+"https://portofportorford.org/port-staff-and-commission/",
+"Port Staff & Commission"
+],
+[
+"https://portofportorford.org/port-meetings-and-documents/",
+"Port Meetings"
+]
+]
+},
+{
+"id": "OR-619",
+"name": "Port of Portland",
+"state": "OR",
+"url": "https://www.portofportland.com/",
+"status": 200,
+"final": "https://www.portofportland.com/",
+"error": null,
+"title": "Port of Portland - Home",
+"name_hits": [
+"portland"
+],
+"name_toks": [
+"portland"
+],
+"state_hit": true,
+"parked": false,
+"words": 395,
+"links": [
+[
+"https://www.portofportland.com/Commission",
+"Commission"
+],
+[
+"https://www.portofportland.com/Community/Events",
+"Community Calendar"
+],
+[
+"https://www.portofportland.com/newsroom/story/michael-jordan-joins-port-of-portland-commission",
+"Michael Jordan Joins Port of Portland Commission"
+]
+]
+},
+{
+"id": "OR-620",
+"name": "Port of Siuslaw",
+"state": "OR",
+"url": "https://portofsiuslaw.com/",
+"status": 200,
+"final": "https://portofsiuslaw.com/",
+"error": null,
+"title": "The Port of Siuslaw Campground and Marina | Florence, Oregon",
+"name_hits": [
+"siuslaw"
+],
+"name_toks": [
+"siuslaw"
+],
+"state_hit": true,
+"parked": false,
+"words": 489,
+"links": [
+[
+"https://portofsiuslaw.com/about-the-port/the-boardwalk/",
+"The Boardwalk"
+],
+[
+"https://portofsiuslaw.com/administration/commissioners/",
+"Commissioners"
+],
+[
+"https://portofsiuslaw.com/commissioners-rules-and-responsibilities/",
+"Commissioners Rules and Responsibilities"
+],
+[
+"https://portofsiuslaw.com/administration/meeting-agenda/",
+"Meeting Agenda"
+],
+[
+"https://portofsiuslaw.com/administration/meeting-minutes-packets/",
+"Meeting Minutes"
+],
+[
+"https://portofsiuslaw.com/administration/video-files/",
+"Video Minutes"
+],
+[
+"https://portofsiuslaw.com/12-21-22-commission-meeting-cancelled/",
+"Commission Meeting 11-18-26 7:00pm"
+],
+[
+"https://portofsiuslaw.com/12-21-22-commission-meeting-cancelled/",
+"read more"
+]
+]
+},
+{
+"id": "OR-621",
+"name": "Port of The Dalles",
+"state": "OR",
+"url": "https://www.portofthedalles.com/",
+"status": 200,
+"final": "https://www.portofthedalles.gov/",
+"error": null,
+"title": "Homepage Port of The Dalles",
+"name_hits": [
+"dalles"
+],
+"name_toks": [
+"dalles"
+],
+"state_hit": true,
+"parked": false,
+"words": 160,
+"links": [
+[
+"https://www.portofthedalles.gov/commission-staff",
+"Commission & Staff"
+],
+[
+"https://www.portofthedalles.gov/commission",
+"Meetings"
+],
+[
+"https://www.portofthedalles.gov/meetings",
+"Meetings"
+],
+[
+"https://www.portofthedalles.gov/commissioners",
+"Commissioners"
+],
+[
+"https://www.portofthedalles.gov/commission",
+"Commission"
+],
+[
+"https://www.portofthedalles.gov/2026-12-09-port-commission-meeting",
+"Dec 9 2026 Commission Meeting Read more \u00bb"
+]
+]
+},
+{
+"id": "OR-622",
+"name": "Port of Tillamook Bay",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-623",
+"name": "Port of Toledo",
+"state": "OR",
+"url": "https://www.portoftoledo.org/",
+"status": 200,
+"final": "https://www.portoftoledo.org/",
+"error": null,
+"title": "Homepage Port of Toledo",
+"name_hits": [
+"toledo"
+],
+"name_toks": [
+"toledo"
+],
+"state_hit": true,
+"parked": false,
+"words": 183,
+"links": [
+[
+"https://www.portoftoledo.org/port-commission",
+"Commissioners"
+],
+[
+"https://www.portoftoledo.org/commission-meetings",
+"Commission Meeting Minutes"
+],
+[
+"https://www.portoftoledo.org/governance-documents",
+"Governance Documents"
+],
+[
+"https://www.portoftoledo.org/georgia-pacific-containerboard-boat-contest",
+"Containerboard Boat Race - Sponsor Georgia Pacific"
+],
+[
+"https://potor.governmentwindow.com/start.html",
+"Payments"
+],
+[
+"https://www.portoftoledo.org/calendar",
+"Calendar"
+],
+[
+"https://www.portoftoledo.org/port-commission",
+"Port Commission"
+],
+[
+"https://www.portoftoledo.org/commission-meetings",
+"Commission Meetings"
+],
+[
+"https://www.portoftoledo.org/commission-meetings",
+"Commission Meetings"
+],
+[
+"https://www.portoftoledo.org/2026-12-15-commission-meeting",
+"Dec 15 2026 Commission Meeting Read more \u00bb"
+]
+]
+},
+{
+"id": "OR-624",
+"name": "Port of Umatilla",
+"state": "OR",
+"url": "https://www.portofumatilla.org/",
+"status": 200,
+"final": "https://portofumatilla.org/",
+"error": null,
+"title": "Port of Umatilla \u2013 Oregon's Inland Port",
+"name_hits": [
+"umatilla"
+],
+"name_toks": [
+"umatilla"
+],
+"state_hit": true,
+"parked": false,
+"words": 173,
+"links": [
+[
+"https://portofumatilla.org/commission/",
+"COMMISSION"
+]
+]
+},
+{
+"id": "OR-625",
+"name": "Port of Umpqua",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-722",
+"name": "The Dalles-Wasco County Library",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "ID-741",
+"name": "Port of Lewiston",
+"state": "ID",
+"url": "https://www.portoflewiston.com/",
+"status": 200,
+"final": "https://portoflewiston.com/",
+"error": null,
+"title": "- Port of Lewiston",
+"name_hits": [
+"lewiston"
+],
+"name_toks": [
+"lewiston"
+],
+"state_hit": true,
+"parked": false,
+"words": 511,
+"links": [
+[
+"https://portoflewiston.com/about-us/commission/",
+"Commission/Meetings"
+],
+[
+"https://portoflewiston.com/michelle-bly-appointed-commissioner-for-port-of-lewiston-district-1/",
+""
+],
+[
+"https://portoflewiston.com/michelle-bly-appointed-commissioner-for-port-of-lewiston-district-1/",
+"Michelle Bly Appointed Commissioner for Port of Lewiston District 1"
+],
+[
+"https://portoflewiston.com/port-seeks-applicants-to-replace-retiring-commissioner/",
+""
+],
+[
+"https://portoflewiston.com/port-seeks-applicants-to-replace-retiring-commissioner/",
+"Port Seeks Applicants to Replace Retiring Commissioner"
+]
+]
+}
+]
+}
