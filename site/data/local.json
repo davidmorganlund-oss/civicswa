@@ -26,6 +26,16 @@
           "name": "Othello Community Hospital (Adams County Public Hospital District No. 3)",
           "kind": "hospital",
           "site": "https://www.othellocommunityhospital.org/"
+        },
+        {
+          "name": "Port of Othello",
+          "kind": "port",
+          "site": "https://portofothello.com/"
+        },
+        {
+          "name": "Othello Library District #1 (Mid-Columbia Libraries, Othello branch)",
+          "kind": "library",
+          "site": "https://www.midcolumbialibraries.org/branch/othello"
         }
       ]
     },
@@ -99,6 +109,11 @@
           "name": "Two Rivers Health District (Kennewick Public Hospital District)",
           "kind": "hospital",
           "site": "https://kenkphd.com/"
+        },
+        {
+          "name": "Richland Public Library",
+          "kind": "library",
+          "site": "https://myrichlandlibrary.org"
         }
       ],
       "schools": [
@@ -241,6 +256,11 @@
           "name": "C-TRAN (Clark County PTBA)",
           "kind": "transit",
           "site": "https://www.c-tran.com/"
+        },
+        {
+          "name": "Camas Public Library",
+          "kind": "library",
+          "site": "https://www.cityofcamas.us/library"
         }
       ],
       "schools": [
@@ -324,6 +344,21 @@
           "name": "RiverCities Transit (Cowlitz Transit Authority)",
           "kind": "transit",
           "site": "https://rctransit.org/"
+        },
+        {
+          "name": "Castle Rock Public Library",
+          "kind": "library",
+          "site": "https://www.crplibrary.com/"
+        },
+        {
+          "name": "Kalama Public Library",
+          "kind": "library",
+          "site": "http://www.kalamalibrary.com/"
+        },
+        {
+          "name": "Yale Valley Library District (Fort Vancouver Regional Libraries)",
+          "kind": "library",
+          "site": "https://www.fvrl.org/locations/FV-YALE"
         }
       ],
       "schools": [
@@ -568,6 +603,11 @@
           "name": "Samaritan Healthcare (Grant County Public Hospital District No. 1)",
           "kind": "hospital",
           "site": "https://wearesamaritan.org/"
+        },
+        {
+          "name": "Port of Royal Slope",
+          "kind": "port",
+          "site": "http://www.portofroyal.com"
         }
       ],
       "schools": [
@@ -615,6 +655,11 @@
           "name": "Summit Pacific Medical Center (Grays Harbor County Public Hospital District No. 1)",
           "kind": "hospital",
           "site": "https://summitpacificmedicalcenter.org/"
+        },
+        {
+          "name": "Ocean Shores Public Library",
+          "kind": "library",
+          "site": "https://osgov.com/departments/library/"
         }
       ],
       "schools": [
@@ -668,6 +713,10 @@
       "boards": "https://www.co.jefferson.wa.us/1908/Boards-and-Commissions",
       "schools": [
         {
+          "name": "Queets-Clearwater School District",
+          "site": "https://www.qcsd20.org/"
+        },
+        {
           "name": "Quilcene School District",
           "site": "https://www.qsd48.org/"
         }
@@ -697,6 +746,11 @@
           "name": "Jefferson Healthcare (Jefferson County Public Hospital District No. 2)",
           "kind": "hospital",
           "site": "https://jeffersonhealthcare.org/"
+        },
+        {
+          "name": "Port Townsend Public Library",
+          "kind": "library",
+          "site": "https://www.cityofpt.us/library"
         }
       ]
     },
@@ -800,6 +854,11 @@
           "name": "Kitsap Transit",
           "kind": "transit",
           "site": "https://www.kitsaptransit.com/"
+        },
+        {
+          "name": "Port of Tracyton",
+          "kind": "port",
+          "site": "http://www.portoftracyton.com"
         }
       ]
     },
@@ -894,6 +953,10 @@
           "site": "https://www.lyleschools.org/"
         },
         {
+          "name": "Roosevelt School District",
+          "site": "https://www.rooseveltschooldistrict.net/"
+        },
+        {
           "name": "Trout Lake School District",
           "site": "https://www.troutlake.k12.wa.us/"
         }
@@ -939,6 +1002,10 @@
         {
           "name": "Adna School District",
           "site": "https://www.adnaschools.org/"
+        },
+        {
+          "name": "Boistfort School District",
+          "site": "https://boistfortschool.org/"
         },
         {
           "name": "Chehalis School District",
@@ -1107,6 +1174,10 @@
           "site": "https://nsdeagles.org/"
         },
         {
+          "name": "Oroville School District",
+          "site": "http://www.oroville.wednet.edu"
+        },
+        {
           "name": "Pateros School District",
           "site": "https://www.pateros.org/"
         }
@@ -1187,6 +1258,11 @@
           "name": "Willapa Harbor Hospital (Pacific County Public Hospital District No. 2)",
           "kind": "hospital",
           "site": "https://willapaharborhospital.com/"
+        },
+        {
+          "name": "Port of Willapa Harbor",
+          "kind": "port",
+          "site": "http://www.portofwillapaharbor.com"
         }
       ],
       "schools": [
@@ -1480,6 +1556,11 @@
           "name": "Verdant Health Commission (Snohomish County Public Hospital District No. 2)",
           "kind": "hospital",
           "site": "http://www.verdanthealth.org/"
+        },
+        {
+          "name": "Darrington Rural Partial County Library District (Sno-Isle Libraries, Darrington)",
+          "kind": "library",
+          "site": "https://www.sno-isle.org/locations/darrington/"
         }
       ],
       "schools": [
@@ -1548,6 +1629,11 @@
           "name": "NorthEast Washington ESD 101",
           "kind": "esd",
           "site": "https://www.esd101.net/"
+        },
+        {
+          "name": "Stevens County Rural Library District (Libraries of Stevens County)",
+          "kind": "library",
+          "site": "https://thelosc.org"
         }
       ]
     },
@@ -1587,6 +1673,16 @@
           "name": "Cathlamet (Blanche Bradley) Library",
           "kind": "library",
           "site": "https://www.cathlametlibrary.com/"
+        },
+        {
+          "name": "Port of Wahkiakum County No. 1 (Elochoman Slough Marina)",
+          "kind": "port",
+          "site": "http://www.cathlametmarina.org"
+        },
+        {
+          "name": "Port of Wahkiakum County No. 2 (Vista Park)",
+          "kind": "port",
+          "site": "https://vistaparkcampground.org/"
         }
       ],
       "schools": [
@@ -1620,6 +1716,11 @@
           "name": "Valley Transit (Walla Walla County PTBA)",
           "kind": "transit",
           "site": "https://www.valleytransit.com/"
+        },
+        {
+          "name": "Waitsburg (Weller) Public Library",
+          "kind": "library",
+          "site": "https://www.wellerpubliclibrary.com"
         }
       ]
     },
@@ -1745,6 +1846,11 @@
           "name": "Yakima Transit (City of Yakima)",
           "kind": "transit",
           "site": "https://yakimatransit.org/"
+        },
+        {
+          "name": "Grandview (Bleyhl Community) Library",
+          "kind": "library",
+          "site": "https://www.grandview.wa.us/departments/grandview-library/"
         }
       ],
       "schools": [
@@ -1916,6 +2022,10 @@
       "county": "Okanogan",
       "site": "https://townofelmercity.com/"
     },
+    "Endicott": {
+      "county": "Whitman",
+      "site": "https://endicottwa.wordpress.com"
+    },
     "Entiat": {
       "county": "Chelan",
       "site": "https://www.entiatwa.us/"
@@ -2039,6 +2149,10 @@
       "county": "Island",
       "site": "https://www.langleywa.org/"
     },
+    "Latah": {
+      "county": "Spokane",
+      "site": "https://www.latahwa.com"
+    },
     "Leavenworth": {
       "county": "Chelan",
       "site": "https://cityofleavenworth.com/"
@@ -2054,6 +2168,10 @@
     "Mabton": {
       "county": "Yakima",
       "site": "https://www.cityofmabton.com/"
+    },
+    "Malden": {
+      "county": "Whitman",
+      "site": "https://maldenwaorg.wordpress.com/"
     },
     "Mansfield": {
       "county": "Douglas",
@@ -2092,6 +2210,10 @@
       "county": "Grays Harbor",
       "site": "https://cityofmontesano.com/"
     },
+    "Morton": {
+      "county": "Lewis",
+      "site": "https://visitmorton.com/"
+    },
     "Mossyrock": {
       "county": "Lewis",
       "site": "https://www.cityofmossyrock.com/"
@@ -2099,6 +2221,10 @@
     "Moxee": {
       "county": "Yakima",
       "site": "https://cityofmoxee.us/"
+    },
+    "Nespelem": {
+      "county": "Okanogan",
+      "site": "http://townofnespelem.com/"
     },
     "Newport": {
       "county": "Pend Oreille",
@@ -2272,6 +2398,10 @@
       "county": "Pierce",
       "site": "https://www.townofsp.com/"
     },
+    "Spangle": {
+      "county": "Spokane",
+      "site": "https://www.spanglewa.com/"
+    },
     "Spokane": {
       "county": "Spokane",
       "site": "https://my.spokanecity.org/",
@@ -2294,6 +2424,10 @@
       "county": "Whitman",
       "site": "https://www.stjohnwa.com/"
     },
+    "Starbuck": {
+      "county": "Columbia",
+      "site": "https://www.starbuckwa.com"
+    },
     "Tacoma": {
       "county": "Pierce",
       "site": "https://tacoma.gov/",
@@ -2314,6 +2448,10 @@
     "Tonasket": {
       "county": "Okanogan",
       "site": "https://www.tonasketcity.org/"
+    },
+    "Toppenish": {
+      "county": "Yakima",
+      "site": "https://www.toppenish.gov/"
     },
     "Tumwater": {
       "county": "Thurston",
