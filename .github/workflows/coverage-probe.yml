@@ -1,0 +1,27 @@
+name: Coverage probe (scratch)
+# Scratch branch only: checks candidate links for the coverage expansion and
+# commits the results. Never runs on main and never deploys anything.
+on:
+  push:
+    branches: [coverage-probe]
+    paths: ["probe/in/**", "probe/job.py"]
+permissions:
+  contents: write
+concurrency: { group: coverage-probe, cancel-in-progress: false }
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests pypdf
+      - run: python probe/job.py | tee "$GITHUB_STEP_SUMMARY"
+      - run: |
+          git config user.name "civics-probe-bot"
+          git config user.email "civics-probe-bot@users.noreply.github.com"
+          git add probe/out
+          git commit -m "Probe results" || echo "nothing new"
+          git pull --rebase || true
+          git push
