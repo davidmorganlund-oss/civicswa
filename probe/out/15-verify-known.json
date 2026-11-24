@@ -1,0 +1,472 @@
+{
+"_stamp": 1,
+"kind": "verify",
+"results": [
+{
+"id": "V1",
+"name": "Yakima Valley Libraries",
+"url": "https://www.yvl.org/",
+"state": "WA",
+"status": 200,
+"final": "https://www.yvl.org/",
+"error": null,
+"title": "Home - Yakima Valley Libraries",
+"name_hits": [
+"yakima",
+"valley",
+"libraries"
+],
+"name_toks": [
+"yakima",
+"valley",
+"libraries"
+],
+"state_hit": false,
+"parked": false,
+"words": 1031,
+"links": [
+[
+"https://www.yvl.org/about-us/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://yvl.libcal.com/",
+"Calendar of Events"
+],
+[
+"https://www.yvl.org/about-us/board-of-trustees/",
+"Board of Trustees"
+]
+]
+},
+{
+"id": "V2",
+"name": "Bellingham Public Library",
+"url": "https://www.bellinghampubliclibrary.org/",
+"state": "WA",
+"status": 200,
+"final": "https://bellinghampubliclibrary.org/",
+"error": null,
+"title": "Home - Bellingham Public Library",
+"name_hits": [
+"bellingham"
+],
+"name_toks": [
+"bellingham"
+],
+"state_hit": false,
+"parked": false,
+"words": 668,
+"links": [
+[
+"https://bellinghampubliclibrary.org/using-the-library/reserve-meeting-rooms",
+"Reserve a Room"
+],
+[
+"https://bellinghampubliclibrary.libcal.com/calendar/BPL-Events",
+"Calendar"
+],
+[
+"https://bellinghampubliclibrary.org/using-the-library/reserve-meeting-rooms",
+"Reserve a Room"
+],
+[
+"https://bellinghampubliclibrary.libcal.com/calendar/BPL-Events",
+"Calendar"
+],
+[
+"https://bellingham.bibliocommons.com/user_dashboard",
+"Log in to my account"
+],
+[
+"https://bellinghampubliclibrary.libcal.com/calendar/BPL-Events?cid=20512&t=g&d=0000-00-00&cal=20512&inc=0",
+"View Library calendar"
+],
+[
+"https://bellinghampubliclibrary.org/news/library-seeks-candidates-for-board-of-trustees-position-2",
+"Library Seek Candidates for Board of Trustees A first review of applications wil"
+],
+[
+"https://bellinghampubliclibrary.org/about/board-of-trustees",
+"Board of Trustees"
+],
+[
+"https://bellinghampubliclibrary.org/using-the-library/reserve-meeting-rooms",
+"Reserve a Room"
+],
+[
+"https://bellinghampubliclibrary.libcal.com/calendar/BPL-Events",
+"Calendar"
+]
+]
+},
+{
+"id": "V3",
+"name": "Port of Vancouver",
+"url": "https://www.portvanusa.com/",
+"state": "WA",
+"status": 200,
+"final": "https://www.portvanusa.com/",
+"error": null,
+"title": "Home - Port of Vancouver USA",
+"name_hits": [
+"vancouver"
+],
+"name_toks": [
+"vancouver"
+],
+"state_hit": false,
+"parked": false,
+"words": 415,
+"links": [
+[
+"https://www.portvanusa.com/about/commission/",
+"Commission"
+],
+[
+"https://www.portvanusa.com/about/commission/commission-meeting/",
+""
+],
+[
+"https://www.portvanusa.com/about/commission/",
+""
+],
+[
+"https://www.portvanusa.com/news/port-of-vancouver-usa-board-of-commissioners-approve-budget-for-2027/",
+""
+],
+[
+"https://www.portvanusa.com/news/port-of-vancouver-usa-board-of-commissioners-approve-budget-for-2027/",
+"Port of Vancouver USA Board of Commissioners Approve Budget for 2027"
+],
+[
+"https://www.portvanusa.com/news/port-of-vancouver-usa-board-of-commissioners-approve-budget-for-2027/",
+"Read More"
+],
+[
+"https://www.portvanusa.com/about/commission/",
+"Commission"
+]
+]
+},
+{
+"id": "V4",
+"name": "Camas Public Library",
+"url": "https://www.cityofcamas.us/library",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "V5",
+"name": "Richland Public Library",
+"url": "https://www.richlandpubliclibrary.org/",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPSConnectionPool(host='www.richlandpubliclibrary.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSC"
+},
+{
+"id": "V6",
+"name": "Walla Walla Public Library",
+"url": "https://www.wallawallapubliclibrary.org/",
+"state": "WA",
+"status": 403,
+"final": "https://www.wallawallapubliclibrary.org/",
+"error": null,
+"title": "Access Denied",
+"name_hits": [
+"walla",
+"walla"
+],
+"name_toks": [
+"walla",
+"walla"
+],
+"state_hit": false,
+"parked": false,
+"words": 17,
+"links": []
+},
+{
+"id": "V7",
+"name": "Walla Walla County Rural Library District",
+"url": "https://www.wwcrld.org/",
+"state": "WA",
+"status": 403,
+"final": "https://www.wwcrld.org/",
+"error": null,
+"title": "Access Denied",
+"name_hits": [],
+"name_toks": [
+"walla",
+"walla",
+"rural"
+],
+"state_hit": false,
+"parked": false,
+"words": 17,
+"links": []
+},
+{
+"id": "V8",
+"name": "Stevens County Rural Library District",
+"url": "https://www.scrld.org/",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='www.scrld.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL:"
+},
+{
+"id": "V9",
+"name": "Pend Oreille County Library District",
+"url": "https://pocld.org/",
+"state": "WA",
+"status": 200,
+"final": "https://pocld.org/",
+"error": null,
+"title": "Pend Oreille County Library | Opportunities For Curiosity",
+"name_hits": [
+"pend",
+"oreille"
+],
+"name_toks": [
+"pend",
+"oreille"
+],
+"state_hit": false,
+"parked": false,
+"words": 445,
+"links": [
+[
+"https://pocld.org/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://pocld.org/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://pocld.org/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://pocld.org/board-of-trustees/",
+"Board of Trustees"
+]
+]
+},
+{
+"id": "V10",
+"name": "Port of South Whidbey",
+"url": "https://www.portofsouthwhidbey.com/",
+"state": "WA",
+"status": 200,
+"final": "https://portofsouthwhidbey.com/",
+"error": null,
+"title": "Home - Port of South Whidbey",
+"name_hits": [
+"south",
+"whidbey"
+],
+"name_toks": [
+"south",
+"whidbey"
+],
+"state_hit": false,
+"parked": false,
+"words": 348,
+"links": [
+[
+"https://portofsouthwhidbey.com/port-commission/",
+"Port Commission"
+],
+[
+"https://portofsouthwhidbey.com/port-commission/port-commissioners/",
+"Port Commissioners"
+],
+[
+"https://portofsouthwhidbey.com/port-commission/meeting-schedule/",
+"Meeting Schedule"
+],
+[
+"https://portofsouthwhidbey.com/port-commission/meeting-minutes/",
+"Agendas & Minutes"
+],
+[
+"https://portofsouthwhidbey.com/port-commission/documents/",
+"Documents"
+],
+[
+"http://portofsouthwhidbey.com/events/",
+"Events Calendar"
+]
+]
+},
+{
+"id": "V11",
+"name": "Port of Willapa Harbor",
+"url": "https://www.portofwillapaharbor.com/",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='www.portofwillapaharbor.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationE"
+},
+{
+"id": "V12",
+"name": "Ocean Shores Public Library",
+"url": "https://www.oslibrary.org/",
+"state": "WA",
+"status": 200,
+"final": "https://orfordsociallibrary.com",
+"error": null,
+"title": "Orford Social Library",
+"name_hits": [],
+"name_toks": [
+"ocean",
+"shores"
+],
+"state_hit": false,
+"parked": false,
+"words": 72,
+"links": []
+},
+{
+"id": "V13",
+"name": "Woodburn Public Library",
+"url": "https://www.woodburn-or.gov/library",
+"state": "OR",
+"status": 404,
+"final": "https://www.woodburn-or.gov/library",
+"error": null,
+"title": "Custom404 \u2022 Woodburn, OR \u2022 CivicEngage",
+"name_hits": [
+"woodburn"
+],
+"name_toks": [
+"woodburn"
+],
+"state_hit": true,
+"parked": false,
+"words": 127,
+"links": [
+[
+"https://www.woodburn-or.gov/193/Government",
+"Government"
+],
+[
+"https://www.woodburn-or.gov/agendacenter",
+"City Calendar, Agendas, & Minutes"
+]
+]
+},
+{
+"id": "V14",
+"name": "Sandy Public Library",
+"url": "https://www.ci.sandy.or.us/library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "V15",
+"name": "North Plains Public Library",
+"url": "https://www.northplainslibrary.org/",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPSConnectionPool(host='www.northplainslibrary.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConn"
+},
+{
+"id": "V16",
+"name": "Toledo Public Library",
+"url": "https://www.cityoftoledo.org/library",
+"state": "OR",
+"status": 404,
+"final": "https://www.cityoftoledo.org/library",
+"error": null,
+"title": "Custom404 \u2022 Toledo, OR \u2022 CivicEngage",
+"name_hits": [
+"toledo"
+],
+"name_toks": [
+"toledo"
+],
+"state_hit": true,
+"parked": false,
+"words": 116,
+"links": [
+[
+"https://www.cityoftoledo.org/1192/Local-Government",
+"Local Government"
+],
+[
+"https://toledoor.portal.civicclerk.com/",
+"Agendas & Minutes"
+],
+[
+"https://www.cityoftoledo.org/calendar",
+"Calendar"
+]
+]
+},
+{
+"id": "V17",
+"name": "Cottage Grove Public Library",
+"url": "https://www.cottagegroveor.gov/library",
+"state": "OR",
+"status": 404,
+"final": "https://www.cottagegroveor.gov/library",
+"error": null,
+"title": "Custom404 \u2022 Cottage Grove, OR \u2022 CivicEngage",
+"name_hits": [
+"cottage",
+"grove"
+],
+"name_toks": [
+"cottage",
+"grove"
+],
+"state_hit": true,
+"parked": false,
+"words": 124,
+"links": [
+[
+"https://www.cottagegroveor.gov/1192/Your-Government",
+"Your Government"
+],
+[
+"https://www.cottagegroveor.gov/agendacenter",
+"Agendas & Minutes"
+]
+]
+},
+{
+"id": "V18",
+"name": "Dallas Public Library",
+"url": "https://www.dallasor.gov/library",
+"state": "OR",
+"status": 404,
+"final": "https://www.dallasor.gov/library",
+"error": null,
+"title": "Custom404 \u2022 Dallas, OR \u2022 CivicEngage",
+"name_hits": [
+"dallas"
+],
+"name_toks": [
+"dallas"
+],
+"state_hit": true,
+"parked": false,
+"words": 112,
+"links": [
+[
+"https://www.dallasor.gov/164/Government",
+"Government"
+]
+]
+}
+]
+}
