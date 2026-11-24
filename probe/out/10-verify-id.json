@@ -1,0 +1,999 @@
+{
+"_stamp": 1,
+"kind": "verify",
+"results": [
+{
+"id": "L:ID-340",
+"url": "https://cityofstmaries.org/",
+"name": "St. Maries",
+"state": "ID",
+"status": 200,
+"final": "https://cityofstmaries.org/",
+"error": null,
+"title": "City of St. Maries - Official Website",
+"name_hits": [
+"maries"
+],
+"name_toks": [
+"maries"
+],
+"state_hit": false,
+"parked": false,
+"words": 367,
+"links": [
+[
+"https://cityofstmaries.org/upcoming-meetings",
+"Upcoming Meetings"
+],
+[
+"https://cityofstmaries.org/meeting-agendas-%26-minutes",
+"Meeting Agendas & Minutes"
+],
+[
+"https://cityofstmaries.org/upcoming-meetings",
+"Upcoming Meetings"
+],
+[
+"https://cityofstmaries.org/meeting-agendas-%26-minutes",
+"Meeting Agendas & Minutes"
+],
+[
+"https://cityofstmaries.org/upcoming-meetings",
+"Upcoming Meetings"
+],
+[
+"https://cityofstmaries.org/meeting-agendas-%26-minutes",
+"Meeting Agendas & Minutes"
+],
+[
+"https://cityofstmaries.org/meeting-agendas-%26-minutes",
+"Agendas & Minutes"
+]
+]
+},
+{
+"id": "L:ID-343",
+"url": "https://www.shoshonecityid.gov/",
+"name": "Shoshone",
+"state": "ID",
+"status": 200,
+"final": "https://www.shoshonecityid.gov/",
+"error": null,
+"title": "City of Shoshone, Idaho - City of Shoshone Idaho",
+"name_hits": [
+"shoshone"
+],
+"name_toks": [
+"shoshone"
+],
+"state_hit": true,
+"parked": false,
+"words": 596,
+"links": [
+[
+"https://www.shoshonecityid.gov/city-council.html",
+"City Council"
+],
+[
+"https://www.shoshonecityid.gov/agenda--minutes.html",
+"Agenda / Minutes"
+],
+[
+"https://www.shoshonecityid.gov/agendas--minutes.html",
+"Agendas & Minutes"
+],
+[
+"https://www.lincolncountyid.gov/",
+"Lincoln County Government"
+],
+[
+"https://www.shoshonecityid.gov/city-council.html",
+"City Council"
+],
+[
+"https://www.shoshonecityid.gov/agenda--minutes.html",
+"Agenda / Minutes"
+],
+[
+"https://www.shoshonecityid.gov/agendas--minutes.html",
+"Agendas & Minutes"
+]
+]
+},
+{
+"id": "L:ID-344",
+"url": "https://www.npidaho.com/",
+"name": "New Plymouth",
+"state": "ID",
+"status": 200,
+"final": "https://www.npidaho.com/",
+"error": null,
+"title": "Home | City of New Plymouth",
+"name_hits": [
+"new",
+"plymouth"
+],
+"name_toks": [
+"new",
+"plymouth"
+],
+"state_hit": true,
+"parked": false,
+"words": 989,
+"links": [
+[
+"https://www.npidaho.com/meeting-agendas-1",
+"Meeting Agendas"
+],
+[
+"https://www.npidaho.com/meeting-minutes-1",
+"Meeting Minutes"
+],
+[
+"https://www.npidaho.com/mayor-and-council",
+"Mayor & Council"
+],
+[
+"https://www.npidaho.com/city-council",
+"City Council"
+],
+[
+"https://www.npidaho.com/city-council-meetings-calendar",
+"City Council Meetings Calendar"
+],
+[
+"https://www.npidaho.com/meeting-agendas",
+"Meeting Agendas"
+],
+[
+"https://www.npidaho.com/meeting-minutes",
+"Meeting Minutes"
+],
+[
+"https://www.npidaho.com/news-detail?item_id=30684",
+"P&Z Meeting Canceled for Monday 12/22/2025 12/19/2025 ** Please make note that t"
+]
+]
+},
+{
+"id": "L:ID-345",
+"url": "https://cityoflapwai.gov/",
+"name": "Lapwai",
+"state": "ID",
+"status": 200,
+"final": "https://www.cityoflapwai.gov/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"lapwai"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "L:ID-346",
+"url": "https://cityofhansen.org/",
+"name": "Hansen",
+"state": "ID",
+"status": 403,
+"final": "https://www.cityofhansen.org",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"hansen"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "L:ID-347",
+"url": "https://cityofgenesee.com/",
+"name": "Genesee",
+"state": "ID",
+"status": 403,
+"final": "https://cityofgenesee.com/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"genesee"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "L:ID-350",
+"url": "https://cityofarco.municipalimpact.com/",
+"name": "Arco",
+"state": "ID",
+"status": 200,
+"final": "https://cityofarco.municipalimpact.com/",
+"error": null,
+"title": "Home | City of Arco Idaho",
+"name_hits": [
+"arco"
+],
+"name_toks": [
+"arco"
+],
+"state_hit": true,
+"parked": false,
+"words": 1049,
+"links": [
+[
+"https://cityofarco.municipalimpact.com/calendar-of-events",
+"Calendar of Events"
+],
+[
+"https://cityofarco.municipalimpact.com/holiday-and-meeting-calendar",
+"Holiday and Meeting Calendar"
+],
+[
+"https://cityofarco.municipalimpact.com/mayor-and-council",
+"Mayor & Council"
+],
+[
+"https://cityofarco.municipalimpact.com/council",
+"Council"
+],
+[
+"https://cityofarco.municipalimpact.com/boards-and-commissions",
+"Boards & Commissions"
+],
+[
+"https://cityofarco.municipalimpact.com/meetings",
+"Meetings"
+],
+[
+"https://cityofarco.municipalimpact.com/agendas",
+"Agendas"
+],
+[
+"https://cityofarco.municipalimpact.com/minutes",
+"Minutes"
+],
+[
+"https://cityofarco.municipalimpact.com/court-calendar",
+"Court Calendar"
+],
+[
+"https://cityofarco.municipalimpact.com/news-detail?item_id=36145",
+"Meeting Cancelled 10/13/2026 October 13, 2026 Regular City Council Meeting has b"
+],
+[
+"https://cityofarco.municipalimpact.com/calendar-of-events",
+"See All Upcoming Events"
+]
+]
+},
+{
+"id": "L:ID-353",
+"url": "https://greenleaf-idaho.us/",
+"name": "Greenleaf",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='greenleaf-idaho.us', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \""
+},
+{
+"id": "L:ID-363",
+"url": "https://newmeadowsidaho.us/",
+"name": "New Meadows",
+"state": "ID",
+"status": 403,
+"final": "https://newmeadowsidaho.us/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"new",
+"meadows"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "L:ID-367",
+"url": "https://www.grandview.id/",
+"name": "Grand View",
+"state": "ID",
+"status": 200,
+"final": "https://www.grandview.id/",
+"error": null,
+"title": "City of Grand View; Grand View, Idaho;",
+"name_hits": [
+"grand",
+"view"
+],
+"name_toks": [
+"grand",
+"view"
+],
+"state_hit": true,
+"parked": false,
+"words": 226,
+"links": [
+[
+"https://www.grandview.id/archived-agendas",
+"2015 Agendas"
+],
+[
+"https://www.grandview.id/governance",
+"CITY GOVERNANCE"
+],
+[
+"https://www.grandview.id/council",
+"City Council"
+],
+[
+"https://www.grandview.id/meeting-minutes",
+"Meeting Minutes"
+],
+[
+"https://www.grandview.id/agendas",
+"Agendas"
+]
+]
+},
+{
+"id": "L:ID-368",
+"url": "https://mackayidaho-city.com/",
+"name": "Mackay",
+"state": "ID",
+"status": 200,
+"final": "https://mackayidaho-city.com/",
+"error": null,
+"title": "Blank",
+"name_hits": [
+"mackay"
+],
+"name_toks": [
+"mackay"
+],
+"state_hit": false,
+"parked": false,
+"words": 374,
+"links": [
+[
+"https://mackayidaho-city.com/blank-10/",
+"City Government"
+],
+[
+"https://mackayidaho-city.com/blank-10/blank-9/",
+"Minutes"
+]
+]
+},
+{
+"id": "L:ID-373",
+"url": "https://www.rigginsidaho.org/",
+"name": "Riggins",
+"state": "ID",
+"status": 403,
+"final": "https://www.rigginsidaho.org/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"riggins"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "L:ID-392",
+"url": "https://fernanvillage.org/",
+"name": "Fernan Lake Village",
+"state": "ID",
+"status": 200,
+"final": "https://www.fernanvillage.org/",
+"error": null,
+"title": "Fernan Lake Village \u2013 The Best Kept Secret In Northern Idaho",
+"name_hits": [
+"fernan",
+"lake"
+],
+"name_toks": [
+"fernan",
+"lake"
+],
+"state_hit": true,
+"parked": false,
+"words": 550,
+"links": [
+[
+"https://www.fernanvillage.org/?page_id=818",
+"City Council"
+],
+[
+"https://www.fernanvillage.org/?page_id=6",
+"Meeting Minutes"
+],
+[
+"https://www.fernanvillage.org/?page_id=411",
+"Meeting Calendar"
+],
+[
+"https://www.fernanvillage.org/?page_id=1454",
+"Meeting Agendas"
+],
+[
+"https://www.fernanvillage.org/?page_id=1959",
+"Agendas & Minutes"
+],
+[
+"https://www.fernanvillage.org/?page_id=30",
+"Mayor and City Council Officers"
+],
+[
+"https://www.fernanvillage.org/?page_id=818",
+"City Council"
+],
+[
+"https://www.fernanvillage.org/?page_id=6",
+"Meeting Minutes"
+],
+[
+"https://www.fernanvillage.org/?page_id=411",
+"Meeting Calendar"
+],
+[
+"https://www.fernanvillage.org/?page_id=1454",
+"Meeting Agendas"
+],
+[
+"https://www.fernanvillage.org/?page_id=1959",
+"Agendas & Minutes"
+],
+[
+"https://www.fernanvillage.org/?page_id=30",
+"Mayor and City Council Officers"
+]
+]
+},
+{
+"id": "L:ID-399",
+"url": "https://sites.google.com/view/cityofmurtaugh/home",
+"name": "Murtaugh",
+"state": "ID",
+"status": 200,
+"final": "https://sites.google.com/view/cityofmurtaugh/home",
+"error": null,
+"title": "City of Murtaugh",
+"name_hits": [
+"murtaugh"
+],
+"name_toks": [
+"murtaugh"
+],
+"state_hit": true,
+"parked": false,
+"words": 252,
+"links": [
+[
+"https://sites.google.com/view/cityofmurtaugh/archives-and-reports/city-council-meeting-minutes",
+"City Council Meeting Minutes"
+],
+[
+"https://www.google.com/calendar/embed?color=%239fe1e7&src=clerk@cityofmurtaugh.org",
+""
+]
+]
+},
+{
+"id": "L:ID-484",
+"url": "https://boisepubliclibrary.org/",
+"name": "Boise Public",
+"state": "ID",
+"status": 200,
+"final": "https://boisepubliclibrary.org/",
+"error": null,
+"title": "Home | Boise Public Library",
+"name_hits": [
+"boise"
+],
+"name_toks": [
+"boise"
+],
+"state_hit": false,
+"parked": false,
+"words": 1491,
+"links": [
+[
+"https://boisepubliclibrary.org/books-plus-more/federal-collections/",
+"Government Information Access A special collection for free and equal access to "
+],
+[
+"https://boisepubliclibrary.org/using-the-library/meeting-rooms/",
+"Meeting Rooms Reserve meeting or study rooms with capacity for up to 130 people"
+],
+[
+"https://boisepubliclibrary.org/about-us/board-of-trustees/",
+"Board of Trustees Learn more about the Library's governing body including meetin"
+],
+[
+"https://www.governmentjobs.com/careers/boiseid",
+"Employment Join the library team or find other opportunities with the City of Bo"
+],
+[
+"https://boisepubliclibrary.org/using-the-library/meeting-rooms/",
+"FIND MEETING ROOMS"
+],
+[
+"https://boisepubliclibrary.org/books-plus-more/federal-collections/",
+"Government Information Access A special collection for free and equal access to "
+],
+[
+"https://boisepubliclibrary.org/using-the-library/meeting-rooms/",
+"Meeting Rooms Reserve meeting or study rooms with capacity for up to 130 people"
+],
+[
+"https://boisepubliclibrary.org/about-us/board-of-trustees/",
+"Board of Trustees Learn more about the Library's governing body including meetin"
+],
+[
+"https://www.governmentjobs.com/careers/boiseid",
+"Employment Join the library team or find other opportunities with the City of Bo"
+],
+[
+"https://boisepubliclibrary.org/using-the-library/meeting-rooms/",
+"Meeting Rooms All of our branch locations have reservable meeting or study rooms"
+],
+[
+"https://boisepubliclibrary.libcal.com/calendar/bpl",
+"See All"
+],
+[
+"https://boisepubliclibrary.libcal.com/calendar/bpl?cid=12885&t=g&d=2026-11-24&cal=12885&cm=6068&inc=0",
+"Downtown Library 1 event today Teens (12-17)"
+],
+[
+"https://boisepubliclibrary.libcal.com/calendar/bpl?cid=12885&t=g&d=2026-11-24&cal=12885&cm=6072&inc=0",
+"Library! at Bown Crossing 3 events today Babies, Toddlers, & Preschool Youth (6-"
+],
+[
+"https://boisepubliclibrary.libcal.com/calendar/bpl?cid=12885&t=g&d=2026-11-24&cal=12885&cm=6071&inc=0",
+"Library! at Cole and Ustick 4 events today Babies, Toddlers, & Preschool Teens ("
+],
+[
+"https://boisepubliclibrary.libcal.com/calendar/bpl?cid=12885&t=g&d=2026-11-24&cal=12885&cm=6069&inc=0",
+"Library! at Collister 2 events today Youth (6-11) Adults"
+],
+[
+"https://boisepubliclibrary.libcal.com/calendar/bpl?cid=12885&t=g&d=2026-11-24&cal=12885&cm=6070&inc=0",
+"Library! at Hillcrest 2 events today Babies, Toddlers, & Preschool Adults"
+],
+[
+"https://boisepubliclibrary.org/news/boise-public-library-board-of-trustees-sets-meeting-schedule-and-locations-for-year/",
+"Boise Public Library Board of Trustees Sets Meeting Schedule and Locations for Y"
+]
+]
+},
+{
+"id": "L:ID-488",
+"url": "http://www.portneuflibrary.org/",
+"name": "Portneuf District",
+"state": "ID",
+"status": 200,
+"final": "https://www.portneuflibrary.org/",
+"error": null,
+"title": "Home",
+"name_hits": [
+"portneuf"
+],
+"name_toks": [
+"portneuf"
+],
+"state_hit": false,
+"parked": false,
+"words": 276,
+"links": [
+[
+"https://www.portneuflibrary.org/library-board.html",
+"Library Board"
+],
+[
+"https://www.portneuflibrary.org/library-board.html",
+"Library Board"
+],
+[
+"https://www.portneuflibrary.org/uploads/1/0/0/4/100411128/childrenscalendar.pdf",
+"Children's Programming Calendar"
+],
+[
+"https://www.portneuflibrary.org/uploads/1/0/0/4/100411128/teen_calendar.pdf",
+"Teen Programming Calendar"
+],
+[
+"https://www.portneuflibrary.org/uploads/1/0/0/4/100411128/adult_programming_calendar.pdf",
+"Adult Programming Calendar"
+]
+]
+},
+{
+"id": "L:ID-490",
+"url": "https://www.prld.org/",
+"name": "Prairie River District",
+"state": "ID",
+"status": 200,
+"final": "https://www.prld.org/",
+"error": null,
+"title": "Local Resources | Prairie River Library District",
+"name_hits": [
+"prairie",
+"river"
+],
+"name_toks": [
+"prairie",
+"river"
+],
+"state_hit": true,
+"parked": false,
+"words": 306,
+"links": [
+[
+"https://www.prld.org/event-program-calendar",
+"Event & Program Calendar"
+],
+[
+"https://www.prld.org/board-of-trustees",
+"Board of Trustees"
+]
+]
+},
+{
+"id": "L:ID-494",
+"url": "https://nblibrary.org/",
+"name": "North Bingham County District",
+"state": "ID",
+"status": 200,
+"final": "https://nblibrary.org/",
+"error": null,
+"title": "North Bingham County District Library \u2013 Welcome to the Library Home Page",
+"name_hits": [
+"north",
+"bingham"
+],
+"name_toks": [
+"north",
+"bingham"
+],
+"state_hit": true,
+"parked": false,
+"words": 533,
+"links": [
+[
+"https://nblibrary.org/about/board-of-trustees/",
+"Board of Trustees/Board Meeting Agenda"
+],
+[
+"https://nblibrary.org/about/board-of-trustees/",
+"Board of Trustees/Board Meeting Agenda"
+],
+[
+"https://libraries.idaho.gov/",
+"Idaho Commission for Libraries"
+]
+]
+},
+{
+"id": "L:ID-497",
+"url": "https://tetons.lili.org/",
+"name": "Valley of the Tetons District",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='tetons.lili.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SS"
+},
+{
+"id": "L:ID-498",
+"url": "https://middleton.lili.org/",
+"name": "Middleton Public",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='middleton.lili.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \""
+},
+{
+"id": "L:ID-500",
+"url": "https://emmett.lili.org/",
+"name": "Emmett Public",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='emmett.lili.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SS"
+},
+{
+"id": "L:ID-501",
+"url": "https://salmon.lili.org/",
+"name": "Lemhi County District",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='salmon.lili.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SS"
+},
+{
+"id": "L:ID-504",
+"url": "https://southbannocklibrary.org/",
+"name": "South Bannock District",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='southbannocklibrary.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1"
+},
+{
+"id": "L:ID-515",
+"url": "https://stmarieslibrary.lili.org/",
+"name": "St Maries Public",
+"state": "ID",
+"status": 200,
+"final": "https://stmarieslibrary.lili.org/",
+"error": null,
+"title": "St. Maries Public Library \u2013 Welcome to St. Maries Public Library",
+"name_hits": [
+"maries"
+],
+"name_toks": [
+"maries"
+],
+"state_hit": true,
+"parked": false,
+"words": 450,
+"links": [
+[
+"https://stmarieslibrary.lili.org/about-us/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://stmarieslibrary.lili.org/about-us/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://libraries.idaho.gov/",
+"Idaho Commission for Libraries"
+]
+]
+},
+{
+"id": "L:ID-517",
+"url": "https://maladidaho.org/library",
+"name": "Oneida County District",
+"state": "ID",
+"status": 404,
+"final": "https://www.maladidaho.org/library",
+"error": null,
+"title": "Page not found \u2013 Malad City, ID",
+"name_hits": [],
+"name_toks": [
+"oneida"
+],
+"state_hit": true,
+"parked": false,
+"words": 326,
+"links": [
+[
+"https://www.maladidaho.org/city-government/",
+"City Government"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"Council Calendar"
+],
+[
+"https://www.maladidaho.org/minutes-agendas-2/",
+"Minutes & Agendas"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"City Government"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"Council Calendar"
+],
+[
+"https://www.maladidaho.org/minutes-agendas-2/",
+"Minutes & Agendas"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"Government"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"City Government"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"Council Calendar"
+],
+[
+"https://maladidaho.org/city-council-calendar/",
+"Calendars"
+],
+[
+"https://maladidaho.org/events/",
+"Events Calendar"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"City Council Calendar"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"Government"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"City Government"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"Council Calendar"
+],
+[
+"https://maladidaho.org/city-council-calendar/",
+"Calendars"
+],
+[
+"https://maladidaho.org/events/",
+"Events Calendar"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"City Council Calendar"
+],
+[
+"https://maladidaho.org/city-council-calendar/",
+"Calendars"
+],
+[
+"https://maladidaho.org/events/",
+"Events Calendar"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"City Council Calendar"
+],
+[
+"https://maladidaho.org/city-council-calendar/",
+"Calendars"
+],
+[
+"https://maladidaho.org/events/",
+"Events Calendar"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"City Council Calendar"
+],
+[
+"https://maladidaho.org/events/",
+"Event Calendar"
+],
+[
+"https://maladidaho.org/events/",
+"Event Calendar"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"City Council Calendar"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"City Government"
+],
+[
+"https://www.maladidaho.org/minutes-agendas-2/",
+"Minutes & Agendas"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"City Council Calendar"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"City Government"
+],
+[
+"https://www.maladidaho.org/minutes-agendas-2/",
+"Minutes & Agendas"
+]
+]
+},
+{
+"id": "L:ID-520",
+"url": "https://shoshone.lili.org/",
+"name": "Shoshone Public",
+"state": "ID",
+"status": 410,
+"final": "https://shoshone.lili.org/",
+"error": null,
+"title": "WordPress \u203a Error",
+"name_hits": [],
+"name_toks": [
+"shoshone"
+],
+"state_hit": false,
+"parked": false,
+"words": 10,
+"links": []
+},
+{
+"id": "L:ID-525",
+"url": "https://cityofhomedale.com/community/public_library.htm",
+"name": "Homedale Public",
+"state": "ID",
+"status": 404,
+"final": "https://cityofhomedale.com/community/public_library.htm",
+"error": null,
+"title": "404 Not Found",
+"name_hits": [],
+"name_toks": [
+"homedale"
+],
+"state_hit": false,
+"parked": false,
+"words": 32,
+"links": []
+},
+{
+"id": "L:ID-532",
+"url": "https://hsb-idaho.com/",
+"name": "Horseshoe Bend District",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPSConnectionPool(host='hsb-idaho.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='"
+},
+{
+"id": "L:ID-540",
+"url": "https://hagerman.lili.org/",
+"name": "Hagerman Public",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='hagerman.lili.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"["
+},
+{
+"id": "L:ID-546",
+"url": "https://ririelibrary.com/",
+"name": "Ririe Public",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPSConnectionPool(host='ririelibrary.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(hos"
+},
+{
+"id": "L:ID-554",
+"url": "https://www.rigginsidaho.org/",
+"name": "Salmon River Public",
+"state": "ID",
+"status": 403,
+"final": "https://www.rigginsidaho.org/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"salmon",
+"river"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+}
+]
+}

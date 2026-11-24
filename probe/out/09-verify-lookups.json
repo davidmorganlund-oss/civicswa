@@ -1,0 +1,6544 @@
+{
+"_stamp": 1,
+"kind": "verify",
+"results": [
+{
+"id": "L:WA-13",
+"url": "https://www.cityofcashmere.org/",
+"name": "Cashmere",
+"state": "WA",
+"status": 403,
+"final": "https://www.cityofcashmere.org/",
+"error": null,
+"title": "Access Denied",
+"name_hits": [
+"cashmere"
+],
+"name_toks": [
+"cashmere"
+],
+"state_hit": false,
+"parked": false,
+"words": 17,
+"links": []
+},
+{
+"id": "L:WA-15",
+"url": "https://www.ci.chehalis.wa.us/",
+"name": "Chehalis",
+"state": "WA",
+"status": 403,
+"final": "https://www.ci.chehalis.wa.us/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"chehalis"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "L:WA-20",
+"url": "https://townofconconully.com/",
+"name": "Conconully",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='townofconconully.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1,"
+},
+{
+"id": "L:WA-33",
+"url": "https://www.cityofelma.com/",
+"name": "Elma",
+"state": "WA",
+"status": 403,
+"final": "https://www.cityofelma.com/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"elma"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "L:WA-34",
+"url": "https://townofelmercity.com/",
+"name": "Elmer City",
+"state": "WA",
+"status": 200,
+"final": "https://townofelmercity.com/",
+"error": null,
+"title": "Fishing Charter Single-Page",
+"name_hits": [
+"elmer"
+],
+"name_toks": [
+"elmer"
+],
+"state_hit": true,
+"parked": false,
+"words": 672,
+"links": [
+[
+"https://townofelmercity.com/blank/",
+"2026 Meeting Minutes, click here"
+]
+]
+},
+{
+"id": "L:WA-51",
+"url": "https://www.cityofhoquiam.com/",
+"name": "Hoquiam",
+"state": "WA",
+"status": 200,
+"final": "https://www.cityofhoquiam.com/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"hoquiam"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "L:WA-57",
+"url": "https://www.cityofkalama.com/",
+"name": "Kalama",
+"state": "WA",
+"status": 200,
+"final": "https://www.cityofkalama.com/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"kalama"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "L:WA-65",
+"url": "https://www.latahwa.com/",
+"name": "Latah",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='www.latahwa.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED"
+},
+{
+"id": "L:WA-66",
+"url": "https://cityofleavenworth.com/",
+"name": "Leavenworth",
+"state": "WA",
+"status": 403,
+"final": "https://cityofleavenworth.com/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"leavenworth"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "L:WA-67",
+"url": "https://lindwa.com/",
+"name": "Lind",
+"state": "WA",
+"status": 200,
+"final": "https://lindwa.com/",
+"error": null,
+"title": "Home - Wonderings",
+"name_hits": [
+"lind"
+],
+"name_toks": [
+"lind"
+],
+"state_hit": false,
+"parked": false,
+"words": 457,
+"links": []
+},
+{
+"id": "L:WA-68",
+"url": "https://www.longbeachwa.gov/",
+"name": "Long Beach",
+"state": "WA",
+"status": 403,
+"final": "https://www.longbeachwa.gov/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"long",
+"beach"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "L:WA-70",
+"url": "https://www.cityofmabton.com/",
+"name": "Mabton",
+"state": "WA",
+"status": 403,
+"final": "https://www.cityofmabton.com/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"mabton"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "L:WA-75",
+"url": "https://www.cityofmccleary.com/",
+"name": "McCleary",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "L:WA-77",
+"url": "http://www.medina-wa.gov/",
+"name": "Medina",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "L:WA-81",
+"url": "https://www.millwoodwa.us/",
+"name": "Millwood",
+"state": "WA",
+"status": 403,
+"final": "https://www.millwoodwa.us/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"millwood"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "L:WA-89",
+"url": "https://normandyparkwa.gov/",
+"name": "Normandy Park",
+"state": "WA",
+"status": "robots",
+"final": null,
+"error": null
+},
+{
+"id": "L:WA-93",
+"url": "http://www.oakvillecityhall.com/",
+"name": "Oakville",
+"state": "WA",
+"status": 403,
+"final": "http://www.oakvillecityhall.com/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"oakville"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "L:WA-97",
+"url": "http://www.cityoforting.org/",
+"name": "Orting",
+"state": "WA",
+"status": 403,
+"final": "http://www.cityoforting.org/",
+"error": null,
+"title": "Access Denied",
+"name_hits": [
+"orting"
+],
+"name_toks": [
+"orting"
+],
+"state_hit": false,
+"parked": false,
+"words": 17,
+"links": []
+},
+{
+"id": "L:WA-103",
+"url": "https://cityofpt.us/",
+"name": "Port Townsend",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "L:WA-127",
+"url": "https://www.ci.tenino.wa.us/",
+"name": "Tenino",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectTimeout: HTTPSConnectionPool(host='www.ci.tenino.wa.us', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection("
+},
+{
+"id": "L:WA-128",
+"url": "http://cityoftieton.com/",
+"name": "Tieton",
+"state": "WA",
+"status": 403,
+"final": "https://cityoftieton.com/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"tieton"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "L:WA-129",
+"url": "https://www.tonasketcity.org/",
+"name": "Tonasket",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPSConnectionPool(host='www.tonasketcity.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection"
+},
+{
+"id": "L:WA-130",
+"url": "https://www.toppenish.gov/",
+"name": "Toppenish",
+"state": "WA",
+"status": 403,
+"final": "https://www.toppenish.gov/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"toppenish"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "L:WA-139",
+"url": "https://www.watervillewa.com/",
+"name": "Waterville",
+"state": "WA",
+"status": 403,
+"final": "https://www.watervillewa.com/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"waterville"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "L:WA-144",
+"url": "https://www.ci.woodinville.wa.us/",
+"name": "Woodinville",
+"state": "WA",
+"status": 403,
+"final": "http://www.woodinville.gov/",
+"error": null,
+"title": "Attention Required! | Cloudflare",
+"name_hits": [],
+"name_toks": [
+"woodinville"
+],
+"state_hit": false,
+"parked": false,
+"words": 127,
+"links": []
+},
+{
+"id": "L:WA-145",
+"url": "https://www.ci.woodland.wa.us/",
+"name": "Woodland",
+"state": "WA",
+"status": 403,
+"final": "https://www.ci.woodland.wa.us/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"woodland"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "L:WA-147",
+"url": "https://www.townofyacolt.com/",
+"name": "Yacolt",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "L:WA-243",
+"url": "https://ridgefieldport.com/",
+"name": "Port of Ridgefield",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPSConnectionPool(host='ridgefieldport.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(h"
+},
+{
+"id": "L:OR-563",
+"url": "https://sos.oregon.gov/blue-book/Pages/local/cities/a-d/canyon-city.aspx",
+"name": "Canyon City",
+"state": "OR",
+"status": 404,
+"final": "https://sos.oregon.gov/blue-book/Pages/local/cities/a-d/canyon-city.aspx",
+"error": null,
+"title": "Oregon Secretary of State : 404 Error - Page Not Found : State of Oregon",
+"name_hits": [],
+"name_toks": [
+"canyon"
+],
+"state_hit": true,
+"parked": false,
+"words": 395,
+"links": [
+[
+"https://sos.oregon.gov/Pages/government-relations.aspx",
+"Government Relations"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "L:OR-565",
+"url": "https://sos.oregon.gov/blue-book/Pages/local/cities/a-d/dayville.aspx",
+"name": "Dayville",
+"state": "OR",
+"status": 404,
+"final": "https://sos.oregon.gov/blue-book/Pages/local/cities/a-d/dayville.aspx",
+"error": null,
+"title": "Oregon Secretary of State : 404 Error - Page Not Found : State of Oregon",
+"name_hits": [],
+"name_toks": [
+"dayville"
+],
+"state_hit": true,
+"parked": false,
+"words": 395,
+"links": [
+[
+"https://sos.oregon.gov/Pages/government-relations.aspx",
+"Government Relations"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "L:OR-566",
+"url": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/granite.aspx",
+"name": "Granite",
+"state": "OR",
+"status": 404,
+"final": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/granite.aspx",
+"error": null,
+"title": "Oregon Secretary of State : 404 Error - Page Not Found : State of Oregon",
+"name_hits": [],
+"name_toks": [
+"granite"
+],
+"state_hit": true,
+"parked": false,
+"words": 395,
+"links": [
+[
+"https://sos.oregon.gov/Pages/government-relations.aspx",
+"Government Relations"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "L:OR-567",
+"url": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/greenhorn.aspx",
+"name": "Greenhorn",
+"state": "OR",
+"status": 404,
+"final": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/greenhorn.aspx",
+"error": null,
+"title": "Oregon Secretary of State : 404 Error - Page Not Found : State of Oregon",
+"name_hits": [],
+"name_toks": [
+"greenhorn"
+],
+"state_hit": true,
+"parked": false,
+"words": 395,
+"links": [
+[
+"https://sos.oregon.gov/Pages/government-relations.aspx",
+"Government Relations"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "L:OR-568",
+"url": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/helix.aspx",
+"name": "Helix",
+"state": "OR",
+"status": 404,
+"final": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/helix.aspx",
+"error": null,
+"title": "Oregon Secretary of State : 404 Error - Page Not Found : State of Oregon",
+"name_hits": [],
+"name_toks": [
+"helix"
+],
+"state_hit": true,
+"parked": false,
+"words": 395,
+"links": [
+[
+"https://sos.oregon.gov/Pages/government-relations.aspx",
+"Government Relations"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "L:OR-571",
+"url": "https://johnsoncityoregon.gov/",
+"name": "Johnson City",
+"state": "OR",
+"status": 200,
+"final": "https://johnsoncityoregon.gov/",
+"error": null,
+"title": "City of Johnson City, Oregon",
+"name_hits": [
+"johnson"
+],
+"name_toks": [
+"johnson"
+],
+"state_hit": true,
+"parked": false,
+"words": 338,
+"links": [
+[
+"https://johnsoncityoregon.gov/calendar.php",
+"Calendar"
+],
+[
+"https://johnsoncityoregon.gov/meetings.php",
+"Meetings"
+],
+[
+"https://johnsoncityoregon.gov/calendar.php",
+"Click here"
+]
+]
+},
+{
+"id": "L:OR-572",
+"url": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/jordan-valley.aspx",
+"name": "Jordan Valley",
+"state": "OR",
+"status": 404,
+"final": "https://sos.oregon.gov/blue-book/Pages/local/cities/e-k/jordan-valley.aspx",
+"error": null,
+"title": "Oregon Secretary of State : 404 Error - Page Not Found : State of Oregon",
+"name_hits": [],
+"name_toks": [
+"jordan",
+"valley"
+],
+"state_hit": true,
+"parked": false,
+"words": 395,
+"links": [
+[
+"https://sos.oregon.gov/Pages/government-relations.aspx",
+"Government Relations"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "L:OR-573",
+"url": "https://sos.oregon.gov/blue-book/Pages/local/cities/l-r/lonerock.aspx",
+"name": "Lonerock",
+"state": "OR",
+"status": 404,
+"final": "https://sos.oregon.gov/blue-book/Pages/local/cities/l-r/lonerock.aspx",
+"error": null,
+"title": "Oregon Secretary of State : 404 Error - Page Not Found : State of Oregon",
+"name_hits": [],
+"name_toks": [
+"lonerock"
+],
+"state_hit": true,
+"parked": false,
+"words": 395,
+"links": [
+[
+"https://sos.oregon.gov/Pages/government-relations.aspx",
+"Government Relations"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "L:OR-575",
+"url": "https://sos.oregon.gov/blue-book/Pages/local/cities/l-r/monument.aspx",
+"name": "Monument",
+"state": "OR",
+"status": 404,
+"final": "https://sos.oregon.gov/blue-book/Pages/local/cities/l-r/monument.aspx",
+"error": null,
+"title": "Oregon Secretary of State : 404 Error - Page Not Found : State of Oregon",
+"name_hits": [],
+"name_toks": [
+"monument"
+],
+"state_hit": true,
+"parked": false,
+"words": 395,
+"links": [
+[
+"https://sos.oregon.gov/Pages/government-relations.aspx",
+"Government Relations"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "L:OR-576",
+"url": "https://sos.oregon.gov/blue-book/Pages/local/cities/l-r/mt-vernon.aspx",
+"name": "Mount Vernon",
+"state": "OR",
+"status": 404,
+"final": "https://sos.oregon.gov/blue-book/Pages/local/cities/l-r/mt-vernon.aspx",
+"error": null,
+"title": "Oregon Secretary of State : 404 Error - Page Not Found : State of Oregon",
+"name_hits": [],
+"name_toks": [
+"mount",
+"vernon"
+],
+"state_hit": true,
+"parked": false,
+"words": 395,
+"links": [
+[
+"https://sos.oregon.gov/Pages/government-relations.aspx",
+"Government Relations"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "L:OR-577",
+"url": "https://sos.oregon.gov/blue-book/Pages/local/cities/l-r/powers.aspx",
+"name": "Powers",
+"state": "OR",
+"status": 404,
+"final": "https://sos.oregon.gov/blue-book/Pages/local/cities/l-r/powers.aspx",
+"error": null,
+"title": "Oregon Secretary of State : 404 Error - Page Not Found : State of Oregon",
+"name_hits": [],
+"name_toks": [
+"powers"
+],
+"state_hit": true,
+"parked": false,
+"words": 395,
+"links": [
+[
+"https://sos.oregon.gov/Pages/government-relations.aspx",
+"Government Relations"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "L:OR-579",
+"url": "https://sos.oregon.gov/blue-book/Pages/local/cities/l-r/prescott.aspx",
+"name": "Prescott",
+"state": "OR",
+"status": 404,
+"final": "https://sos.oregon.gov/blue-book/Pages/local/cities/l-r/prescott.aspx",
+"error": null,
+"title": "Oregon Secretary of State : 404 Error - Page Not Found : State of Oregon",
+"name_hits": [],
+"name_toks": [
+"prescott"
+],
+"state_hit": true,
+"parked": false,
+"words": 395,
+"links": [
+[
+"https://sos.oregon.gov/Pages/government-relations.aspx",
+"Government Relations"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "L:OR-580",
+"url": "https://sos.oregon.gov/blue-book/Pages/local/cities/l-r/richland.aspx",
+"name": "Richland",
+"state": "OR",
+"status": 404,
+"final": "https://sos.oregon.gov/blue-book/Pages/local/cities/l-r/richland.aspx",
+"error": null,
+"title": "Oregon Secretary of State : 404 Error - Page Not Found : State of Oregon",
+"name_hits": [],
+"name_toks": [
+"richland"
+],
+"state_hit": true,
+"parked": false,
+"words": 395,
+"links": [
+[
+"https://sos.oregon.gov/Pages/government-relations.aspx",
+"Government Relations"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "L:OR-581",
+"url": "https://sos.oregon.gov/blue-book/Pages/local/cities/l-r/riddle.aspx",
+"name": "Riddle",
+"state": "OR",
+"status": 404,
+"final": "https://sos.oregon.gov/blue-book/Pages/local/cities/l-r/riddle.aspx",
+"error": null,
+"title": "Oregon Secretary of State : 404 Error - Page Not Found : State of Oregon",
+"name_hits": [],
+"name_toks": [
+"riddle"
+],
+"state_hit": true,
+"parked": false,
+"words": 395,
+"links": [
+[
+"https://sos.oregon.gov/Pages/government-relations.aspx",
+"Government Relations"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "L:OR-582",
+"url": "https://sos.oregon.gov/blue-book/Pages/local/cities/s-y/summerville.aspx",
+"name": "Summerville",
+"state": "OR",
+"status": 404,
+"final": "https://sos.oregon.gov/blue-book/Pages/local/cities/s-y/summerville.aspx",
+"error": null,
+"title": "Oregon Secretary of State : 404 Error - Page Not Found : State of Oregon",
+"name_hits": [],
+"name_toks": [
+"summerville"
+],
+"state_hit": true,
+"parked": false,
+"words": 395,
+"links": [
+[
+"https://sos.oregon.gov/Pages/government-relations.aspx",
+"Government Relations"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "L:OR-583",
+"url": "https://sos.oregon.gov/blue-book/Pages/local/cities/s-y/waterloo.aspx",
+"name": "Waterloo",
+"state": "OR",
+"status": 404,
+"final": "https://sos.oregon.gov/blue-book/Pages/local/cities/s-y/waterloo.aspx",
+"error": null,
+"title": "Oregon Secretary of State : 404 Error - Page Not Found : State of Oregon",
+"name_hits": [],
+"name_toks": [
+"waterloo"
+],
+"state_hit": true,
+"parked": false,
+"words": 395,
+"links": [
+[
+"https://sos.oregon.gov/Pages/government-relations.aspx",
+"Government Relations"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "L:OR-614",
+"url": "https://www.portofhoodriver.com",
+"name": "Port of Hood River",
+"state": "OR",
+"status": 200,
+"final": "https://www.portofhoodriver.com/",
+"error": null,
+"title": "Homepage Port of Hood River",
+"name_hits": [
+"hood",
+"river"
+],
+"name_toks": [
+"hood",
+"river"
+],
+"state_hit": false,
+"parked": false,
+"words": 446,
+"links": [
+[
+"https://www.portofhoodriver.com/port-calendar",
+"Port Calendar"
+],
+[
+"https://www.portofhoodriver.com/governance-fdfa64e",
+"Governance"
+],
+[
+"https://www.portofhoodriver.com/board-meetings",
+"Board Meetings"
+],
+[
+"https://www.portofhoodriver.com/board-members-1f1274b",
+"Board Members"
+],
+[
+"https://www.portofhoodriver.com/2026-12-07-board-meeting-regular-session",
+"Dec 7 2026"
+],
+[
+"https://www.portofhoodriver.com/2026-12-07-board-meeting-regular-session",
+"Board Meeting - Regular Session"
+],
+[
+"https://www.portofhoodriver.com/board-meetings",
+"View Board Meetings"
+]
+]
+},
+{
+"id": "L:OR-622",
+"url": "https://potb.org/",
+"name": "Port of Tillamook Bay",
+"state": "OR",
+"status": 200,
+"final": "https://www.potb.org/",
+"error": null,
+"title": "Homepage Port of Tillamook Bay",
+"name_hits": [
+"tillamook",
+"bay"
+],
+"name_toks": [
+"tillamook",
+"bay"
+],
+"state_hit": true,
+"parked": false,
+"words": 448,
+"links": [
+[
+"https://www.potb.org/governance",
+"Governance"
+],
+[
+"https://www.potb.org/board-meetings",
+"Board Meetings"
+],
+[
+"https://www.potb.org/board-members",
+"Board Members"
+],
+[
+"https://www.potb.org/meeting-event-space",
+"Meeting & Event Space"
+],
+[
+"https://www.potb.org/local-government",
+"Local Government"
+],
+[
+"https://www.potb.org/meetings",
+"Board / Committee Meetings"
+],
+[
+"https://www.potb.org/meeting-event-space",
+"Meeting & Event Space The Port has multiple venues to accommodate your needs. Sm"
+],
+[
+"https://www.potb.org/board-meetings",
+"Board Meetings"
+],
+[
+"https://www.potb.org/2026-12-16-board-meeting-at-3-00-p-m",
+"Dec 16 2026 Board Meeting at 3:00 p.m. Read more \u00bb"
+]
+]
+},
+{
+"id": "L:OR-629",
+"url": "https://www.amityoregon.gov/library",
+"name": "Amity Public Library",
+"state": "OR",
+"status": 200,
+"final": "https://www.amityoregon.gov/departments/library/",
+"error": null,
+"title": "Library \u2013 OR-City of Amity",
+"name_hits": [
+"amity"
+],
+"name_toks": [
+"amity"
+],
+"state_hit": true,
+"parked": false,
+"words": 412,
+"links": [
+[
+"https://www.amityoregon.gov/government/",
+"Government"
+],
+[
+"https://www.amityoregon.gov/government/mayor-council/",
+"Mayor & Council"
+],
+[
+"https://www.amityoregon.gov/government/agendas-minutes/",
+"Agendas & Minutes"
+],
+[
+"https://www.amityoregon.gov/government/committees/",
+"Committees"
+],
+[
+"https://www.amityoregon.gov/government/",
+"Government"
+],
+[
+"https://www.amityoregon.gov/government/mayor-council/",
+"Mayor & Council"
+],
+[
+"https://www.amityoregon.gov/government/agendas-minutes/",
+"Agendas & Minutes"
+],
+[
+"https://www.amityoregon.gov/government/committees/",
+"Committees"
+]
+]
+},
+{
+"id": "L:OR-630",
+"url": "https://arlington.ploud.net/",
+"name": "Arlington Public Library",
+"state": "OR",
+"status": "robots",
+"final": null,
+"error": null
+},
+{
+"id": "L:OR-636",
+"url": "https://www.canbyoregon.gov/library",
+"name": "Canby Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "L:OR-637",
+"url": "https://ccrls.org/",
+"name": "Chemeketa Cooperative Regional Library Service",
+"state": "OR",
+"status": 200,
+"final": "https://ccrls.org/",
+"error": null,
+"title": "Home - Chemeketa Cooperative Regional Library Service",
+"name_hits": [
+"chemeketa",
+"cooperative"
+],
+"name_toks": [
+"chemeketa",
+"cooperative"
+],
+"state_hit": false,
+"parked": false,
+"words": 76,
+"links": [
+[
+"https://ccrls.org/home/ccrls-advisory-council/",
+"CCRLS Advisory Council"
+]
+]
+},
+{
+"id": "L:OR-644",
+"url": "https://www.cottagegroveor.gov/library",
+"name": "Cottage Grove Public Library",
+"state": "OR",
+"status": 404,
+"final": "https://www.cottagegroveor.gov/library",
+"error": null,
+"title": "Custom404 \u2022 Cottage Grove, OR \u2022 CivicEngage",
+"name_hits": [
+"cottage",
+"grove"
+],
+"name_toks": [
+"cottage",
+"grove"
+],
+"state_hit": true,
+"parked": false,
+"words": 124,
+"links": [
+[
+"https://www.cottagegroveor.gov/1192/Your-Government",
+"Your Government"
+],
+[
+"https://www.cottagegroveor.gov/agendacenter",
+"Agendas & Minutes"
+]
+]
+},
+{
+"id": "L:OR-647",
+"url": "https://dallasor.gov/library",
+"name": "Dallas Public Library",
+"state": "OR",
+"status": 404,
+"final": "https://www.dallasor.gov/library",
+"error": null,
+"title": "Custom404 \u2022 Dallas, OR \u2022 CivicEngage",
+"name_hits": [
+"dallas"
+],
+"name_toks": [
+"dallas"
+],
+"state_hit": true,
+"parked": false,
+"words": 112,
+"links": [
+[
+"https://www.dallasor.gov/164/Government",
+"Government"
+]
+]
+},
+{
+"id": "L:OR-655",
+"url": "http://www.eugene-or.gov/library",
+"name": "Eugene Public Library",
+"state": "OR",
+"status": 403,
+"final": "http://www.eugene-or.gov/library",
+"error": null,
+"title": "Attention Required! | Cloudflare",
+"name_hits": [],
+"name_toks": [
+"eugene"
+],
+"state_hit": false,
+"parked": false,
+"words": 127,
+"links": []
+},
+{
+"id": "L:OR-656",
+"url": "https://www.cookmemoriallibrary.org",
+"name": "F. Maxine and Thomas W. Cook Memorial Library",
+"state": "OR",
+"status": 200,
+"final": "https://www.cookmemoriallibrary.org/",
+"error": null,
+"title": "Welcome to Cook Memorial Library!",
+"name_hits": [
+"cook"
+],
+"name_toks": [
+"maxine",
+"thomas",
+"cook"
+],
+"state_hit": true,
+"parked": false,
+"words": 656,
+"links": [
+[
+"https://www.cookmemoriallibrary.org/events/",
+"Calendar of Events"
+],
+[
+"https://www.cookmemoriallibrary.org/calendar/",
+"Calendar"
+],
+[
+"https://www.cookmemoriallibrary.org/events/category/children/",
+"Children's Activity Calendar"
+],
+[
+"https://www.cookmemoriallibrary.org/library-commission/",
+"Library Commission"
+],
+[
+"https://www.cookmemoriallibrary.org/events/",
+"Calendar of Events"
+],
+[
+"https://www.cookmemoriallibrary.org/calendar/",
+"Calendar"
+],
+[
+"https://www.cookmemoriallibrary.org/events/category/children/",
+"Children's Activity Calendar"
+],
+[
+"https://www.cookmemoriallibrary.org/library-commission/",
+"Library Commission"
+],
+[
+"https://www.cookmemoriallibrary.org/events/",
+"Calendar of Events"
+],
+[
+"https://www.cookmemoriallibrary.org/events/",
+"Calendar of Events"
+],
+[
+"https://www.cookmemoriallibrary.org/calendar/",
+"Calendar"
+],
+[
+"https://www.cookmemoriallibrary.org/events/category/children/",
+"Children's Activity Calendar"
+],
+[
+"https://www.cookmemoriallibrary.org/library-commission/",
+"Library Commission"
+]
+]
+},
+{
+"id": "L:OR-662",
+"url": "https://www.clackamas.us/lib",
+"name": "Gladstone Public Library",
+"state": "OR",
+"status": 200,
+"final": "https://www.clackamas.us/lib",
+"error": null,
+"title": "County Libraries | Clackamas County",
+"name_hits": [
+"gladstone"
+],
+"name_toks": [
+"gladstone"
+],
+"state_hit": true,
+"parked": false,
+"words": 1188,
+"links": [
+[
+"https://www.clackamas.us/bcc/helm",
+"Commissioner Diana Helm"
+],
+[
+"https://www.clackamas.us/bcc/savas",
+"Commissioner Paul Savas"
+],
+[
+"https://www.clackamas.us/bcc/schrader",
+"Commissioner Martha Schrader"
+],
+[
+"https://www.clackamas.us/bcc/west/",
+"Commissioner Ben West"
+]
+]
+},
+{
+"id": "L:OR-668",
+"url": "https://www.hermiston.gov/library",
+"name": "Hermiston Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "L:OR-669",
+"url": "https://www.hillsboro-oregon.gov/our-city/departments/library",
+"name": "Hillsboro Public Library",
+"state": "OR",
+"status": 403,
+"final": "https://www.hillsboro-oregon.gov/our-city/departments/library",
+"error": null,
+"title": "Access Denied",
+"name_hits": [
+"hillsboro"
+],
+"name_toks": [
+"hillsboro"
+],
+"state_hit": false,
+"parked": false,
+"words": 17,
+"links": []
+},
+{
+"id": "L:OR-681",
+"url": "https://www.clackamas.us/lib",
+"name": "Library Information Network of Clackamas County",
+"state": "OR",
+"status": 200,
+"final": "https://www.clackamas.us/lib",
+"error": null,
+"title": "County Libraries | Clackamas County",
+"name_hits": [
+"information",
+"clackamas"
+],
+"name_toks": [
+"information",
+"network",
+"clackamas"
+],
+"state_hit": true,
+"parked": false,
+"words": 1188,
+"links": [
+[
+"https://www.clackamas.us/bcc/helm",
+"Commissioner Diana Helm"
+],
+[
+"https://www.clackamas.us/bcc/savas",
+"Commissioner Paul Savas"
+],
+[
+"https://www.clackamas.us/bcc/schrader",
+"Commissioner Martha Schrader"
+],
+[
+"https://www.clackamas.us/bcc/west/",
+"Commissioner Ben West"
+]
+]
+},
+{
+"id": "L:OR-685",
+"url": "https://www.lowelloregon.gov/library",
+"name": "Maggie Osgood Library",
+"state": "OR",
+"status": 404,
+"final": "https://www.lowelloregon.gov/library",
+"error": null,
+"title": "Custom404 \u2022 Lowell, OR \u2022 CivicEngage",
+"name_hits": [],
+"name_toks": [
+"maggie",
+"osgood"
+],
+"state_hit": true,
+"parked": false,
+"words": 119,
+"links": [
+[
+"https://www.lowelloregon.gov/1193/Government",
+"Government"
+],
+[
+"https://www.lowelloregon.gov/calendar.aspx",
+"Community Events"
+],
+[
+"https://www.lowelloregon.gov/agendacenter",
+"Agendas & Minutes"
+]
+]
+},
+{
+"id": "L:OR-687",
+"url": "https://www.mcminnvilleoregon.gov/library",
+"name": "McMinnville Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "L:OR-688",
+"url": "https://milton-freewater-or.gov/library",
+"name": "Milton-Freewater Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "L:OR-696",
+"url": "https://nplibrary.org",
+"name": "North Plains Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='nplibrary.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL:"
+},
+{
+"id": "L:OR-698",
+"url": "https://ontariolibrary.specialdistrict.org/nyssa-and-vale-libraries",
+"name": "Nyssa Public Library",
+"state": "OR",
+"status": 200,
+"final": "https://ontariolibrary.specialdistrict.org/nyssa-and-vale-libraries",
+"error": null,
+"title": "Nyssa and Vale Libraries - Ontario Library District",
+"name_hits": [
+"nyssa"
+],
+"name_toks": [
+"nyssa"
+],
+"state_hit": true,
+"parked": false,
+"words": 277,
+"links": [
+[
+"https://ontariolibrary.specialdistrict.org/governance",
+"Governance"
+],
+[
+"https://ontariolibrary.specialdistrict.org/board-meetings",
+"Board Meetings"
+],
+[
+"https://ontariolibrary.specialdistrict.org/board-members",
+"Board Members"
+],
+[
+"https://ontariolibrary.specialdistrict.org/meeting-room-rules",
+"Meeting Room"
+],
+[
+"https://ontariolibrary.specialdistrict.org/calendar",
+"Calendar"
+],
+[
+"https://www.cityofvale.com/government/departments/emma-humphrey-library/",
+"Vale City/Library Website"
+]
+]
+},
+{
+"id": "L:OR-703",
+"url": "https://www.pendletonor.gov/library",
+"name": "Pendleton Public Library",
+"state": "OR",
+"status": 200,
+"final": "https://www.pendletonor.gov/library",
+"error": null,
+"title": "Library | Pendleton OR",
+"name_hits": [
+"pendleton"
+],
+"name_toks": [
+"pendleton"
+],
+"state_hit": true,
+"parked": false,
+"words": 666,
+"links": [
+[
+"https://www.pendletonor.gov/bc",
+"Board or Committee"
+],
+[
+"https://cityofpendletonor.civicweb.net/Portal/MeetingSchedule.aspx",
+"City Meetings"
+],
+[
+"https://www.pendletonor.gov/node/5071",
+"City Council"
+],
+[
+"http://%EF%82%A7https//cityofpendletonor.civicweb.net/Portal/MeetingTypeList.aspx?field_microsite_tid_1=27",
+"City Meeting Agendas"
+],
+[
+"https://cityofpendletonor.civicweb.net/Portal/MeetingSchedule.aspx",
+"Public Meetings"
+],
+[
+"https://www.pendletonor.gov/node/80",
+"Boards & Commissions"
+],
+[
+"https://cityofpendletonor.civicweb.net/Portal/MeetingTypeList.aspx",
+"Meetings"
+],
+[
+"https://www.pendletonor.gov/node/98",
+"City Council & Mayor"
+],
+[
+"https://www.pendletonor.gov/node/5081",
+"Meetings"
+],
+[
+"https://www.pendletonor.gov/meetings",
+"Meetings Calendar"
+],
+[
+"https://www.pendletonor.gov/calendar",
+"Events Calendar"
+],
+[
+"https://www.pendletonor.gov/node/80",
+"Committees / Boards"
+],
+[
+"https://www.pendletonor.gov/library/page/library-board-meeting",
+"Library Board Meeting"
+],
+[
+"https://www.pendletonor.gov/calendar?department=2041",
+"View the Library Calendar"
+],
+[
+"https://www.civicplus.com/",
+"Government Websites by CivicPlus\u00ae"
+]
+]
+},
+{
+"id": "L:OR-704",
+"url": "https://www.cityofpilotrock.org/node/80611",
+"name": "Pilot Rock Public Library",
+"state": "OR",
+"status": 403,
+"final": "https://www.cityofpilotrock.org/node/80611",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"pilot",
+"rock"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "L:OR-707",
+"url": "https://cityofroseburg.org/departments/library",
+"name": "Roseburg Public Library",
+"state": "OR",
+"status": "robots",
+"final": null,
+"error": null
+},
+{
+"id": "L:OR-708",
+"url": "https://www.cityofsalem.net/community/library",
+"name": "Salem Public Library",
+"state": "OR",
+"status": 403,
+"final": "https://www.cityofsalem.net/community/library",
+"error": null,
+"title": "Access Denied",
+"name_hits": [
+"salem"
+],
+"name_toks": [
+"salem"
+],
+"state_hit": false,
+"parked": false,
+"words": 17,
+"links": []
+},
+{
+"id": "L:OR-711",
+"url": "https://www.sciooregon.gov/library",
+"name": "Scio Public Library",
+"state": "OR",
+"status": 403,
+"final": "https://www.sciooregon.gov/library",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"scio"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "L:OR-723",
+"url": "https://www.tigard-or.gov/your-government/departments/library",
+"name": "Tigard Public Library",
+"state": "OR",
+"status": 403,
+"final": "https://www.tigard-or.gov/your-government/departments/library",
+"error": null,
+"title": "Access Denied",
+"name_hits": [
+"tigard"
+],
+"name_toks": [
+"tigard"
+],
+"state_hit": false,
+"parked": false,
+"words": 17,
+"links": []
+},
+{
+"id": "L:OR-733",
+"url": "https://westlinnoregon.gov/library/",
+"name": "West Linn Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "S:0",
+"url": "http://www.ghpud.org",
+"name": "Public Utility District No. 1 of Grays Harbor County",
+"state": "WA",
+"status": 200,
+"final": "https://www.ghpud.org/",
+"error": null,
+"title": "Grays Harbor PUD",
+"name_hits": [
+"utility",
+"grays",
+"harbor"
+],
+"name_toks": [
+"utility",
+"grays",
+"harbor"
+],
+"state_hit": true,
+"parked": false,
+"words": 628,
+"links": [
+[
+"https://www.ghpud.org/about-us/commissioners-manager-senior-leadership/",
+"Commissioners, Manager & Senior Leadership"
+],
+[
+"https://www.ghpud.org/news-releases/pud-commissioners-approve-2027-budget/",
+"November 23, 2026 PUD Commissioners Approve 2027 Budget"
+],
+[
+"https://www.ghpud.org/news-releases/commissioners-corner-preparing-for-winter-storm-season/",
+"October 31, 2026 Commissioners Corner \u2013 Preparing for Winter Storm Season"
+],
+[
+"https://www.ghpud.org/calendar-events/notice-of-hearing-proposed-telecommunications-rate-adjustments-schedule-200/",
+"Friday, October 30, 2026 Notice of Hearing \u2013 Proposed Telecommunications Rate Ad"
+],
+[
+"https://www.ghpud.org/calendar-events/offices-closed-november-26-and-27/",
+"Thursday, November 26, 2026 Offices Closed November 26 and 27 Thursday, November"
+],
+[
+"https://www.ghpud.org/calendar-events/commission-workshop-meeting-december-7/",
+"Monday, December 7, 2026 Commission Workshop & Meeting \u2013 December 7 220 Myrtle S"
+],
+[
+"https://www.ghpud.org/calendar-events/commission-workshop-meeting-december-21/",
+"Monday, December 21, 2026 Commission Workshop & Meeting \u2013 December 21 220 Myrtle"
+],
+[
+"https://www.ghpud.org/calendar-events/offices-closed-december-24-and-25/",
+"Thursday, December 24, 2026 Offices Closed December 24 and 25 Thursday, December"
+],
+[
+"https://www.ghpud.org/about-us/commissioners-manager-senior-leadership/",
+"Commissioners, Manager & Senior Leadership"
+],
+[
+"https://www.ghpud.org/about-us/commissioners-manager-senior-leadership/",
+"Commissioners, Manager & Senior Leadership"
+]
+]
+},
+{
+"id": "S:1",
+"url": "http://www.clallampud.net",
+"name": "Public Utility District No. 1 of Clallam County",
+"state": "WA",
+"status": 200,
+"final": "https://www.clallampud.net/",
+"error": null,
+"title": "Clallam County PUD",
+"name_hits": [
+"utility",
+"clallam"
+],
+"name_toks": [
+"utility",
+"clallam"
+],
+"state_hit": true,
+"parked": false,
+"words": 629,
+"links": [
+[
+"https://www.clallampud.net/alerts/november-23rd-board-meeting-cancelled/",
+"Read More"
+],
+[
+"https://www.clallampud.net/about-us/commissioners/",
+"Commissioners"
+],
+[
+"https://www.clallampud.net/about-us/commissioners/archive-of-minutes-board-packets-and-audio/",
+"Meeting Archives"
+],
+[
+"https://www.arcgis.com/apps/dashboards/f7668423145f4b11944f933bf2aa4d14",
+"Current Fiscal Projects Map"
+],
+[
+"https://www.clallampud.net/about-us/meeting-rooms/",
+"Meeting Rooms"
+],
+[
+"https://clallampud.community.highbond.com/Portal/MeetingTypeList.aspx",
+"Commissioners Meetings"
+],
+[
+"https://www.clallampud.net/about-us/commissioners/",
+"Commissioners"
+],
+[
+"https://www.clallampud.net/about-us/commissioners/archive-of-minutes-board-packets-and-audio/",
+"Meeting Archives"
+],
+[
+"https://www.arcgis.com/apps/dashboards/f7668423145f4b11944f933bf2aa4d14",
+"Current Fiscal Projects Map"
+],
+[
+"https://www.clallampud.net/about-us/meeting-rooms/",
+"Meeting Rooms"
+]
+]
+},
+{
+"id": "S:2",
+"url": "http://www.skamaniapud.com",
+"name": "Public Utility District No. 1 of Skamania County",
+"state": "WA",
+"status": 200,
+"final": "https://www.skamaniapud.com/",
+"error": null,
+"title": "Home",
+"name_hits": [
+"utility",
+"skamania"
+],
+"name_toks": [
+"utility",
+"skamania"
+],
+"state_hit": true,
+"parked": false,
+"words": 356,
+"links": [
+[
+"https://www.skamaniapud.com/about-us/commissioners/",
+"Commissioners"
+],
+[
+"https://www.skamaniapud.com/about-us/agendas-minutes/",
+"Agendas & Minutes"
+],
+[
+"https://www.skamaniapud.com/about-us/commissioners/",
+"Commissioners"
+],
+[
+"https://www.skamaniapud.com/about-us/agendas-minutes/",
+"Agendas & Minutes"
+]
+]
+},
+{
+"id": "S:4",
+"url": "http://www.lcpud.org",
+"name": "Public Utility District No. 1 of Lewis County",
+"state": "WA",
+"status": 200,
+"final": "https://www.lcpud.org/",
+"error": null,
+"title": "Lewis County PUD",
+"name_hits": [
+"utility",
+"lewis"
+],
+"name_toks": [
+"utility",
+"lewis"
+],
+"state_hit": true,
+"parked": false,
+"words": 922,
+"links": [
+[
+"https://www.lcpud.org/about-us/meet-the-commissioners/",
+"Meet the Commissioners"
+],
+[
+"https://www.lcpud.org/news-releases/commission-meeting-and-rate-hearing-rescheduled-to-nov-24th/",
+"November 2, 2026 Commission Meeting and Rate Hearing Rescheduled to Nov. 24th"
+],
+[
+"https://www.lcpud.org/calendar-events/11-24-2026-commission-meeting/",
+"24 November 11/24/2026 Commission Meeting and Rate Hearing 345 NW Pacific Avenue"
+],
+[
+"https://www.lcpud.org/calendar-events/office-closure-thanksgiving-3/",
+"26 November to 27 November Office Closure-Thanksgiving Thursday, November 26, 20"
+],
+[
+"https://www.lcpud.org/calendar-events/12-15-2026-commission-meeting/",
+"15 December 12/15/2026 Commission Meeting 240 7th Street Morton, WA 98356 Tuesda"
+],
+[
+"https://www.lcpud.org/calendar-events/office-closure-christmas-3/",
+"25 December Office Closure-Christmas Friday, December 25, 2026"
+],
+[
+"https://www.lcpud.org/calendar-events/office-closure-new-years-day-2/",
+"01 January Office Closure-New Year\u2019s Day Friday, January 1, 2027"
+],
+[
+"https://www.lcpud.org/about-us/meetings-closures-events/",
+"View Calendar"
+],
+[
+"https://www.lcpud.org/about-us/meet-the-commissioners/",
+"Meet the Commissioners"
+]
+]
+},
+{
+"id": "S:5",
+"url": "http://www.asotinpud.org",
+"name": "Asotin County Public Utility District",
+"state": "WA",
+"status": 200,
+"final": "https://asotinpud.org/",
+"error": null,
+"title": "Asotin County PUD",
+"name_hits": [
+"asotin",
+"utility"
+],
+"name_toks": [
+"asotin",
+"utility"
+],
+"state_hit": true,
+"parked": false,
+"words": 539,
+"links": [
+[
+"https://asotinpud.org/commissioner-meeting/",
+"Commissioner Meeting - November 24th"
+],
+[
+"https://asotinpud.org/sign-up-for-service/",
+"Commissioner Meeting - TUESDAY, MARCH 10TH"
+]
+]
+},
+{
+"id": "S:6",
+"url": "http://www.douglaspud.org",
+"name": "Public Utility District No. 1 of Douglas County",
+"state": "WA",
+"status": 200,
+"final": "https://douglaspud.org/",
+"error": null,
+"title": "Home - Douglas County PUD",
+"name_hits": [
+"douglas"
+],
+"name_toks": [
+"utility",
+"douglas"
+],
+"state_hit": true,
+"parked": false,
+"words": 385,
+"links": [
+[
+"https://douglaspud.org/about-us/your-elected-commissioners/",
+"Commissioners"
+],
+[
+"https://douglaspud.org/about-us/your-elected-commissioners/",
+"Commissioners"
+],
+[
+"https://douglaspud.org/commission-meeting-report-2026-11-03/",
+"Commission Meeting Report 2026-11-03"
+],
+[
+"https://douglaspud.org/commission-meeting-report-2026-11-03/",
+"Read More \u00bb"
+],
+[
+"https://douglaspud.org/commission-meeting-report-2026-10-20/",
+"Commission Meeting Report 2026-10-20"
+],
+[
+"https://douglaspud.org/commission-meeting-report-2026-10-20/",
+"Read More \u00bb"
+],
+[
+"https://douglaspud.org/commission-meeting-report-2026-10-06/",
+"Commission Meeting Report 2026-10-06"
+],
+[
+"https://douglaspud.org/commission-meeting-report-2026-10-06/",
+"Read More \u00bb"
+]
+]
+},
+{
+"id": "S:7",
+"url": "http://www.kittitaspud.com",
+"name": "Public Utility District No. 1 of Kittitas County",
+"state": "WA",
+"status": 200,
+"final": "https://www.kittitaspud.com/",
+"error": null,
+"title": "Kittitas Public Utility District, WA | Official Website",
+"name_hits": [
+"utility",
+"kittitas"
+],
+"name_toks": [
+"utility",
+"kittitas"
+],
+"state_hit": true,
+"parked": false,
+"words": 256,
+"links": [
+[
+"https://www.kittitaspud.com/agendacenter",
+"Meetings & Agenda"
+],
+[
+"https://www.kittitaspud.com/CivicAlerts.aspx?AID=325",
+"Kittitas PUD Commissioner Meeting - November 24, 2026"
+]
+]
+},
+{
+"id": "S:8",
+"url": "http://www.grantpud.org",
+"name": "Public Utility District No. 2 of Grant County (Grant PUD)",
+"state": "WA",
+"status": 200,
+"final": "https://www.grantpud.org/",
+"error": null,
+"title": "Grant PUD - Powering our way of life",
+"name_hits": [
+"utility",
+"grant",
+"grant",
+"pud"
+],
+"name_toks": [
+"utility",
+"grant",
+"grant",
+"pud"
+],
+"state_hit": true,
+"parked": false,
+"words": 575,
+"links": [
+[
+"https://www.grantpud.org/commission-meetings",
+"Workshops/Meetings"
+],
+[
+"https://www.grantpud.org/commission-meetings-submenu",
+"Workshops and Meetings"
+]
+]
+},
+{
+"id": "S:9",
+"url": "http://www.snopud.com",
+"name": "Public Utility District No. 1 of Snohomish County (Snohomish PUD)",
+"state": "WA",
+"status": 200,
+"final": "https://www.snopud.com/",
+"error": null,
+"title": "Home - Snohomish County PUD",
+"name_hits": [
+"utility",
+"snohomish",
+"snohomish",
+"pud"
+],
+"name_toks": [
+"utility",
+"snohomish",
+"snohomish",
+"pud"
+],
+"state_hit": true,
+"parked": false,
+"words": 1149,
+"links": [
+[
+"https://www.snopud.com/about/commission-meetings/",
+"Attend a Commission meeting"
+],
+[
+"https://www.snopud.com/about/commission-meetings/",
+""
+],
+[
+"https://www.snopud.com/about/commission-meetings/",
+"Next Commission Meeting"
+],
+[
+"https://www.snopud.com/about/commission-meetings/",
+"Get details >"
+],
+[
+"https://www.snopud.com/about/commission-meetings/",
+"Commission"
+],
+[
+"https://www.snopud.com/about/commission-meetings/",
+"Commission"
+]
+]
+},
+{
+"id": "S:10",
+"url": "http://www.pudwhatcom.org",
+"name": "Public Utility District No. 1 of Whatcom County",
+"state": "WA",
+"status": 200,
+"final": "https://www.pudwhatcom.org/",
+"error": null,
+"title": "Whatcom PUD: Home",
+"name_hits": [
+"utility",
+"whatcom"
+],
+"name_toks": [
+"utility",
+"whatcom"
+],
+"state_hit": true,
+"parked": false,
+"words": 234,
+"links": [
+[
+"https://www.pudwhatcom.org/the-commission",
+"The Commission"
+],
+[
+"https://www.pudwhatcom.org/the-commission/agenda-packets-meeting-minutes-recordings",
+"Agenda Packets, Meeting Minutes, Recordings"
+],
+[
+"https://www.pudwhatcom.org/the-commission/commission-districts",
+"Commission Districts"
+],
+[
+"https://www.pudwhatcom.org/the-commission/meet-the-commissioners",
+"Meet the Commissioners"
+],
+[
+"https://www.pudwhatcom.org/the-commission/meeting-schedule",
+"Meeting Schedule"
+],
+[
+"https://www.pudwhatcom.org/the-commission/agenda-packets-meeting-minutes-recordings",
+"Meetings and Agendas"
+],
+[
+"https://www.pudwhatcom.org/the-commission/meeting-schedule/calendar?search_request=calendar_item&event_id=236095&year=2026&month=11&day=24",
+"Nov 24 Commission Meeting 8:15 am - 10:00 am"
+],
+[
+"https://www.pudwhatcom.org/the-commission/meeting-schedule/calendar?search_request=calendar_item&event_id=236096&year=2026&month=12&day=08",
+"Dec 8 Commission Meeting 8:15 am - 10:00 am"
+],
+[
+"https://www.pudwhatcom.org/the-commission/meeting-schedule/calendar?search_request=calendar_item&event_id=236095&year=2026&month=12&day=22",
+"Dec 22 Commission Meeting 8:15 am - 10:00 am"
+],
+[
+"https://www.pudwhatcom.org/the-commission/meeting-schedule/calendar",
+"View All"
+],
+[
+"https://www.pudwhatcom.org/the-commission/agenda-packets-meeting-minutes-recordings",
+"Meetings and Agendas"
+]
+]
+},
+{
+"id": "S:11",
+"url": "http://www.klickpud.com",
+"name": "Public Utility District No. 1 of Klickitat County",
+"state": "WA",
+"status": 200,
+"final": "https://klickitatpud.org",
+"error": null,
+"title": "Home - Klickitat PUD",
+"name_hits": [
+"utility",
+"klickitat"
+],
+"name_toks": [
+"utility",
+"klickitat"
+],
+"state_hit": true,
+"parked": false,
+"words": 605,
+"links": [
+[
+"https://klickitatpud.org/about-us/kpud-overview/commission-documents-reports/",
+"Commission Documents & Reports"
+],
+[
+"https://www.governmentjobs.com/careers/klickitatpud/",
+"Careers"
+],
+[
+"https://klickitatpud.org/2026/10/29/public-notice-kpud-board-of-commissioners-2027-klickitat-pud-operating-budget-hearing-december-8-2026-300pm/",
+""
+],
+[
+"https://klickitatpud.org/2026/10/29/public-notice-kpud-board-of-commissioners-2027-klickitat-pud-operating-budget-hearing-december-8-2026-300pm/",
+"PUBLIC NOTICE: KPUD BOARD OF COMMISSIONERS 2027 KLICKITAT PUD OPERATING BUDGET H"
+],
+[
+"https://klickitatpud.org/news-publications/",
+"More News, Meetings & Events"
+],
+[
+"https://www.governmentjobs.com/careers/klickitatpud/",
+"Job Opportunities"
+]
+]
+},
+{
+"id": "S:12",
+"url": "http://www.jeffpud.org",
+"name": "Public Utility District No. 1 of Jefferson County",
+"state": "WA",
+"status": 307,
+"final": "http://www.jeffpud.org/",
+"error": null,
+"title": "You are being redirected...",
+"name_hits": [],
+"name_toks": [
+"utility",
+"jefferson"
+],
+"state_hit": false,
+"parked": false,
+"words": 4,
+"links": []
+},
+{
+"id": "S:13",
+"url": "http://www.bentonpud.org",
+"name": "Public Utility District No. 1 of Benton County (Benton PUD)",
+"state": "WA",
+"status": 200,
+"final": "https://www.bentonpud.org/",
+"error": null,
+"title": "Benton PUD - Home",
+"name_hits": [
+"utility",
+"benton",
+"benton",
+"pud"
+],
+"name_toks": [
+"utility",
+"benton",
+"benton",
+"pud"
+],
+"state_hit": true,
+"parked": false,
+"words": 703,
+"links": [
+[
+"https://www.bentonpud.org/about-benton-pud/commission",
+"Commission"
+],
+[
+"https://www.bentonpud.org/about-benton-pud/commission",
+"Commission"
+]
+]
+},
+{
+"id": "S:14",
+"url": "http://www.cowlitzpud.org",
+"name": "Public Utility District No. 1 of Cowlitz County",
+"state": "WA",
+"status": 200,
+"final": "https://www.cowlitzpud.org/",
+"error": null,
+"title": "Cowlitz County Public Utility District",
+"name_hits": [
+"utility",
+"cowlitz"
+],
+"name_toks": [
+"utility",
+"cowlitz"
+],
+"state_hit": true,
+"parked": false,
+"words": 545,
+"links": [
+[
+"https://www.cowlitzpud.org/about/leadership/",
+"Board & Management"
+],
+[
+"https://www.cowlitzpud.org/about/leadership/board/",
+"Board of Commissioners"
+],
+[
+"https://www.cowlitzpud.org/about/leadership/historical-list-of-commissioners/",
+"Historical List of Commissioners"
+],
+[
+"https://www.cowlitzpud.org/about/board-meeting-minutes-agendas/",
+"Meeting Minutes & Agendas"
+],
+[
+"https://www.cowlitzpud.org/news/",
+"News, Meetings & Events"
+],
+[
+"https://www.cowlitzpud.org/news/meetings-events-closures/",
+"Meetings, Events & Closures"
+],
+[
+"https://www.cowlitzpud.org/events/cowlitz-pud-board-of-commissioners-meeting-20261124/",
+"Nov 24 Cowlitz PUD Board of Commissioners Meeting 2:00pm to 5:00pm"
+],
+[
+"https://www.cowlitzpud.org/events/cowlitz-pud-board-of-commissioners-meeting-20261208/",
+"Dec 8 Cowlitz PUD Board of Commissioners Meeting 2:00pm to 5:00pm"
+],
+[
+"https://www.cowlitzpud.org/about/meetings-events-closures/",
+"More Meetings & Events"
+],
+[
+"https://www.cowlitzpud.org/about/board-meeting-minutes-agendas/",
+"Board Meeting Minutes & Agendas"
+],
+[
+"https://www.cowlitzpud.org/about/leadership/",
+"Board & Management"
+],
+[
+"https://www.cowlitzpud.org/about/leadership/board/",
+"Board of Commissioners"
+],
+[
+"https://www.cowlitzpud.org/about/leadership/historical-list-of-commissioners/",
+"Historical List of Commissioners"
+],
+[
+"https://www.cowlitzpud.org/about/board-meeting-minutes-agendas/",
+"Meeting Minutes & Agendas"
+],
+[
+"https://www.cowlitzpud.org/news/",
+"News, Meetings & Events"
+],
+[
+"https://www.cowlitzpud.org/news/meetings-events-closures/",
+"Meetings, Events & Closures"
+]
+]
+},
+{
+"id": "S:15",
+"url": "http://www.popud.org",
+"name": "Public Utility District No. 1 of Pend Oreille County",
+"state": "WA",
+"status": 200,
+"final": "https://www.popud.org",
+"error": null,
+"title": "Home \u00bb Pend Oreille",
+"name_hits": [
+"utility",
+"pend",
+"oreille"
+],
+"name_toks": [
+"utility",
+"pend",
+"oreille"
+],
+"state_hit": true,
+"parked": false,
+"words": 791,
+"links": [
+[
+"https://www.popud.org/top-links/about-your-pud/commissioners-and-meetings",
+"Commissioners & Meetings"
+],
+[
+"https://www.popud.org/top-links/about-your-pud/commissioners-and-meetings",
+"Commissioners & Meetings"
+],
+[
+"https://www.popud.org/services/water-service/annual-water-system",
+"Annual Community Water Meetings"
+],
+[
+"https://www.popud.org/top-links/about-your-pud/commissioners-and-meetings",
+"Commissioners & Meetings"
+],
+[
+"https://www.popud.org/top-links/about-your-pud/commissioners-and-meetings/meeting-information",
+"Meeting Information"
+],
+[
+"https://www.popud.org/top-links/about-your-pud/commissioners-and-meetings/minutes",
+"Meeting Minutes"
+],
+[
+"https://www.popud.org/top-links/about-your-pud/commissioners-and-meetings/meeting-information",
+"Board Meeting Information"
+]
+]
+},
+{
+"id": "S:16",
+"url": "http://www.okanoganpud.org",
+"name": "Public Utility District No. 1 of Okanogan County",
+"state": "WA",
+"status": 200,
+"final": "https://www.okanoganpud.org/",
+"error": null,
+"title": "Okanogan County PUD",
+"name_hits": [
+"utility",
+"okanogan"
+],
+"name_toks": [
+"utility",
+"okanogan"
+],
+"state_hit": true,
+"parked": false,
+"words": 861,
+"links": [
+[
+"https://www.okanoganpud.org/customer-service/public-meeting-room/",
+"Public Meeting Room"
+],
+[
+"https://www.okanoganpud.org/about-your-pud/meet-your-commissioners/",
+"Meet Your Commissioners"
+],
+[
+"https://www.okanoganpud.org/about-your-pud/board-meetings-minutes/",
+"Board Meetings, Agendas and Minutes"
+],
+[
+"https://www.okanoganpud.org/calendar-events/board-meeting-41/",
+"December 14 Board Meeting Monday, December 14, 2026 at 3 p.m. 1331 2nd Avenue No"
+],
+[
+"https://www.okanoganpud.org/about-your-pud/board-meetings-minutes/",
+"Board Meetings"
+],
+[
+"https://www.okanoganpud.org/customer-service/public-meeting-room/",
+"Public Meeting Room"
+],
+[
+"https://www.okanoganpud.org/about-your-pud/meet-your-commissioners/",
+"Meet Your Commissioners"
+],
+[
+"https://www.okanoganpud.org/about-your-pud/board-meetings-minutes/",
+"Board Meetings, Agendas and Minutes"
+]
+]
+},
+{
+"id": "S:17",
+"url": "http://franklinpud.com",
+"name": "Public Utility District No. 1 of Franklin County (Franklin PUD)",
+"state": "WA",
+"status": 200,
+"final": "https://www.franklinpud.com/",
+"error": null,
+"title": "Home - Franklin PUD",
+"name_hits": [
+"utility",
+"franklin",
+"franklin",
+"pud"
+],
+"name_toks": [
+"utility",
+"franklin",
+"franklin",
+"pud"
+],
+"state_hit": true,
+"parked": false,
+"words": 917,
+"links": [
+[
+"https://www.franklinpud.com/about-us-contact-us/commissioners/",
+"Board of Commissioners"
+],
+[
+"https://www.franklinpud.com/commission-meeting-information/",
+"Commission Meeting Information"
+],
+[
+"https://www.franklinpud.com/about-us-contact-us/commissioners/2025-commission-meeting-documents/",
+"Commission Meeting Documents"
+],
+[
+"https://www.franklinpud.com/about-us-contact-us/commissioners/",
+"Board of Commissioners"
+],
+[
+"https://www.franklinpud.com/commission-meeting-information/",
+"Commission Meeting Information"
+],
+[
+"https://www.franklinpud.com/about-us-contact-us/commissioners/2025-commission-meeting-documents/",
+"Commission Meeting Documents"
+],
+[
+"https://www.franklinpud.com/about-us-contact-us/commissioners/",
+"About the Commissioners"
+]
+]
+},
+{
+"id": "S:18",
+"url": "http://www.pacificpud.org",
+"name": "Public Utility District No. 2 of Pacific County",
+"state": "WA",
+"status": 200,
+"final": "https://www.pacificpud.org/",
+"error": null,
+"title": "Pacific County PUD #2",
+"name_hits": [
+"utility",
+"pacific"
+],
+"name_toks": [
+"utility",
+"pacific"
+],
+"state_hit": true,
+"parked": false,
+"words": 560,
+"links": [
+[
+"https://www.pacificpud.org/about-us/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://www.pacificpud.org/about-us/board-of-commissioners/board-meetings-agenda-minutes/",
+"Meeting Agenda & Minutes"
+],
+[
+"https://www.pacificpud.org/news-releases/notice-of-special-meeting-november-2026/",
+"Notice of Public Meeting \u2013 November 2026"
+],
+[
+"https://www.pacificpud.org/calendar-events/thanksgiving-day-closure/",
+"Thanksgiving Day Closure Thursday, November 26, 2026"
+],
+[
+"https://www.pacificpud.org/about-us/events/",
+"Full Calendar"
+],
+[
+"https://www.pacificpud.org/about-us/board-of-commissioners/",
+"Board of Commissioners"
+]
+]
+},
+{
+"id": "S:19",
+"url": "http://www.fcpud.com",
+"name": "Public Utility District No. 1 of Ferry County",
+"state": "WA",
+"status": 200,
+"final": "https://fcpud.com/",
+"error": null,
+"title": "Ferry County PUD Home - Republic, WA - Ferry County PUD",
+"name_hits": [
+"utility",
+"ferry"
+],
+"name_toks": [
+"utility",
+"ferry"
+],
+"state_hit": true,
+"parked": false,
+"words": 1169,
+"links": [
+[
+"https://fcpud.com/about/governance/",
+"Governance"
+],
+[
+"https://fcpud.com/about/commissions-staff/",
+"Commissioners and Staff"
+],
+[
+"https://fcpud.com/about/board-news-minutes/",
+"Board News & Minutes"
+],
+[
+"https://fcpud.com/about/commissions-staff/",
+"Commissioners and Staff"
+],
+[
+"https://fcpud.com/about/board-news-minutes/",
+"board meeting details"
+],
+[
+"https://fcpud.com/about/board-news-minutes/",
+"\ue058"
+],
+[
+"https://fcpud.com/about/governance/",
+"\uf0e3"
+],
+[
+"https://fcpud.com/about/commissions-staff/",
+"Commissioners & Staff"
+],
+[
+"https://fcpud.com/about/board-news-minutes/",
+"Board Agenda"
+],
+[
+"https://fcpud.com/about/board-news-minutes/",
+"Board Minutes & Summary"
+]
+]
+},
+{
+"id": "S:20",
+"url": "http://www.mason-pud1.org",
+"name": "Public Utility District No. 1 of Mason County",
+"state": "WA",
+"status": 200,
+"final": "https://mason-pud1.org/",
+"error": null,
+"title": "Corporate - Mason County PUD",
+"name_hits": [
+"utility",
+"mason"
+],
+"name_toks": [
+"utility",
+"mason"
+],
+"state_hit": true,
+"parked": false,
+"words": 859,
+"links": [
+[
+"https://mason-pud1.org/commission/",
+"Commission"
+],
+[
+"https://mason-pud1.org/meetings/",
+"Meetings"
+],
+[
+"https://mason-pud1.org/wp-content/uploads/2026/11/Board-Packet-11-24-26.pdf",
+"BOARD PACKET"
+],
+[
+"https://mason-pud1.org/commission/",
+"Commission"
+],
+[
+"https://mason-pud1.org/meetings/",
+"Meetings"
+]
+]
+},
+{
+"id": "S:21",
+"url": "http://www.masonpud3.org",
+"name": "Public Utility District No. 3 of Mason County",
+"state": "WA",
+"status": 200,
+"final": "https://www.pud3.org/",
+"error": null,
+"title": "Mason County PUD No. 3",
+"name_hits": [
+"utility",
+"mason"
+],
+"name_toks": [
+"utility",
+"mason"
+],
+"state_hit": true,
+"parked": false,
+"words": 705,
+"links": [
+[
+"https://www.pud3.org/about-us/meet-your-commissioners/",
+"Commission"
+],
+[
+"https://www.pud3.org/about-us/public-meeting-room-auditorium/",
+"Public Meeting Room (Auditorium)"
+],
+[
+"https://www.governmentjobs.com/careers/mason3",
+"Careers"
+],
+[
+"https://www.pud3.org/news-releases/pud-3-commissioner-named-secretary-of-washington-pud-association/",
+"May 4, 2026 PUD 3 Commissioner Named Secretary of Washington PUD Association"
+],
+[
+"https://www.pud3.org/about-us/meet-your-commissioners/",
+"Commission"
+],
+[
+"https://www.pud3.org/about-us/public-meeting-room-auditorium/",
+"Public Meeting Room (Auditorium)"
+],
+[
+"https://www.governmentjobs.com/careers/mason3",
+"Careers"
+]
+]
+},
+{
+"id": "S:22",
+"url": "http://www.chelanpud.org",
+"name": "Public Utility District No. 1 of Chelan County (Chelan PUD)",
+"state": "WA",
+"status": 200,
+"final": "https://www.chelanpud.org/",
+"error": null,
+"title": "Home",
+"name_hits": [
+"utility",
+"chelan",
+"chelan",
+"pud"
+],
+"name_toks": [
+"utility",
+"chelan",
+"chelan",
+"pud"
+],
+"state_hit": false,
+"parked": false,
+"words": 739,
+"links": [
+[
+"https://www.chelanpud.org/about-us/our-commissioners",
+"Our Commissioners"
+],
+[
+"https://www.chelanpud.org/about-us/events-calendar",
+"Events Calendar"
+],
+[
+"https://www.chelanpud.org/about-us/events-calendar/event/2026/11/30/commission-calendar/board-workshop",
+"Board Workshop"
+],
+[
+"https://www.chelanpud.org/about-us/events-calendar/event/2026/12/02/commission-calendar/mid-c-gm-commissioners-meeting",
+"Mid-C GM & Commissioners Meeting"
+],
+[
+"https://www.chelanpud.org/about-us/events-calendar/event/2026/12/07/commission-calendar/commission-meeting",
+"Commission Meeting"
+],
+[
+"https://www.chelanpud.org/about-us/events-calendar/event/2026/12/15/commission-calendar/tri-commission-meeting",
+"Tri-Commission Meeting"
+],
+[
+"https://www.chelanpud.org/about-us/events-calendar/event/2026/12/21/commission-calendar/commission-meeting",
+"Commission Meeting"
+],
+[
+"https://www.chelanpud.org/about-us/events-calendar",
+"See All Events"
+],
+[
+"https://www.chelanpud.org/about-us/news/2026/11/12/preparing-together-local-agencies-host-wildfire-meeting-in-chelan-nov.-19",
+"Preparing together: Local agencies host wildfire meeting in Chelan Nov. 19"
+],
+[
+"https://www.chelanpud.org/about-us/our-commissioners",
+"Our Commissioners"
+],
+[
+"https://www.chelanpud.org/about-us/events-calendar",
+"Events Calendar"
+]
+]
+},
+{
+"id": "S:23",
+"url": "http://www.clarkpud.com",
+"name": "Public Utility District No. 1 of Clark County (Clark Public Utilities)",
+"state": "WA",
+"status": 200,
+"final": "https://www.clarkpublicutilities.com/",
+"error": null,
+"title": "Home - Clark Public Utilities",
+"name_hits": [
+"utility",
+"clark",
+"clark",
+"utilities"
+],
+"name_toks": [
+"utility",
+"clark",
+"clark",
+"utilities"
+],
+"state_hit": true,
+"parked": false,
+"words": 861,
+"links": [
+[
+"https://www.clarkpublicutilities.com/event/",
+"Event Calendar"
+],
+[
+"https://www.clarkpublicutilities.com/about-cpu/public-documents/commission-meeting/",
+"Commission Meeting"
+],
+[
+"https://www.clarkpublicutilities.com/about-cpu/public-documents/commission-meeting/",
+"Public Meetings"
+]
+]
+},
+{
+"id": "S:27",
+"url": "http://www.ridethevalley.org",
+"name": "Asotin County Public Transportation Benefit Area (Asotin County Transit)",
+"state": "WA",
+"status": 200,
+"final": "https://ridethevalley.org/",
+"error": null,
+"title": "Home - Lewiston Transit System & Asotin County PTBA",
+"name_hits": [
+"asotin",
+"transportation",
+"asotin",
+"transit"
+],
+"name_toks": [
+"asotin",
+"transportation",
+"benefit",
+"area",
+"asotin",
+"transit"
+],
+"state_hit": true,
+"parked": false,
+"words": 431,
+"links": []
+},
+{
+"id": "S:28",
+"url": "http://www.bft.org",
+"name": "Ben Franklin Transit",
+"state": "WA",
+"status": 200,
+"final": "https://www.bft.org/",
+"error": null,
+"title": "Home - Ben Franklin Transit",
+"name_hits": [
+"ben",
+"franklin",
+"transit"
+],
+"name_toks": [
+"ben",
+"franklin",
+"transit"
+],
+"state_hit": false,
+"parked": false,
+"words": 812,
+"links": [
+[
+"https://www.bft.org/events/",
+"Events Calendar"
+],
+[
+"https://www.bft.org/board-meetings-agendas/",
+"Board Meetings Attend in person or via Zoom."
+],
+[
+"https://www.bft.org/events/",
+"Events Calendar Check out events happening at BFT and around our community."
+],
+[
+"https://www.bft.org/board-of-directors/",
+"Board of Directors"
+],
+[
+"https://www.bft.org/board-meetings-agendas/",
+"Board Meetings & Agendas"
+],
+[
+"https://www.bft.org/interlocal-government-agreements/",
+"Interlocal Government Agreements"
+],
+[
+"https://www.bft.org/board-of-directors/",
+"Board of Directors"
+],
+[
+"https://www.bft.org/board-meetings-agendas/",
+"Board Meetings & Agendas"
+],
+[
+"https://www.bft.org/board-of-directors/",
+"Board of Directors"
+],
+[
+"https://www.bft.org/board-meetings-agendas/",
+"Board Meetings & Agendas"
+]
+]
+},
+{
+"id": "S:29",
+"url": "http://www.c-tran.com",
+"name": "C-TRAN (Clark County PTBA)",
+"state": "WA",
+"status": 200,
+"final": "https://www.c-tran.com/",
+"error": null,
+"title": "Welcome to C-TRAN",
+"name_hits": [
+"tran"
+],
+"name_toks": [
+"tran",
+"clark",
+"ptba"
+],
+"state_hit": true,
+"parked": false,
+"words": 953,
+"links": [
+[
+"https://www.c-tran.com/system-maps/downtown-portland-map",
+"Downtown Portland Boarding Map"
+],
+[
+"https://www.c-tran.com/images/Maps/Downtown_Boarding_Map_Output_2024-09b.pdf",
+"Downtown Vancouver Boarding Map"
+],
+[
+"https://www.c-tran.com/about-c-tran/c-tran-board-information/board-of-directors",
+"Board of Directors"
+],
+[
+"https://www.c-tran.com/about-c-tran/c-tran-board-information/board-meeting-documents",
+"Board Meeting Documents"
+],
+[
+"https://www.c-tran.com/about-c-tran/c-tran-board-information/board-meeting-calendar",
+"Board Meeting Calendar"
+],
+[
+"https://www.c-tran.com/about-c-tran/c-tran-board-information/board-meeting-guidelines",
+"Board Meeting Guidelines"
+],
+[
+"https://www.c-tran.com/about-c-tran/c-tran-board-information/board-policies",
+"Board Policies"
+],
+[
+"https://www.c-tran.com/about-c-tran/c-tran-board-information/2012-03-27-20-27-45",
+"RCW Applicable Provisions"
+],
+[
+"https://www.c-tran.com/images/Board/Resource_Documents/C-TRAN_Bylaws_FINAL_April_2026_Revision.pdf",
+"C-TRAN Bylaws (PDF)"
+],
+[
+"https://www.c-tran.com/about-c-tran/business/intergovernmental-agreements",
+"Intergovernmental Agreements"
+],
+[
+"https://www.c-tran.com/about-c-tran/c-tran-board-information/board-meeting-documents",
+"Board Agendas"
+],
+[
+"https://www.c-tran.com/about-c-tran/c-tran-board-information/board-of-directors",
+"Meet the Board"
+]
+]
+},
+{
+"id": "S:30",
+"url": "http://www.clallamtransit.com",
+"name": "Clallam Transit System",
+"state": "WA",
+"status": 200,
+"final": "https://www.clallamtransit.com/",
+"error": null,
+"title": "HOME",
+"name_hits": [
+"clallam",
+"transit"
+],
+"name_toks": [
+"clallam",
+"transit",
+"system"
+],
+"state_hit": true,
+"parked": false,
+"words": 644,
+"links": [
+[
+"https://www.clallamtransit.com/ourboard",
+"Our Board"
+],
+[
+"https://www.clallamtransit.com/board",
+"Board Meeting Schedule & Materials"
+]
+]
+},
+{
+"id": "S:31",
+"url": "http://www.ccptransit.org",
+"name": "Columbia County Public Transportation",
+"state": "WA",
+"status": 200,
+"final": "https://ccptransit.org/",
+"error": null,
+"title": "Columbia County Public Transportation",
+"name_hits": [
+"columbia",
+"transportation"
+],
+"name_toks": [
+"columbia",
+"transportation"
+],
+"state_hit": false,
+"parked": false,
+"words": 193,
+"links": [
+[
+"https://ccptransit.org/meetings/",
+"Board Meetings"
+],
+[
+"https://ccptransit.org/meetings/",
+"Board Meetings"
+],
+[
+"https://ccptransit.org/meetings/",
+"Board Meetings"
+],
+[
+"https://ccptransit.org/meetings/",
+"Board Meetings"
+]
+]
+},
+{
+"id": "S:32",
+"url": "http://www.communitytransit.org",
+"name": "Community Transit (Snohomish County PTBA)",
+"state": "WA",
+"status": 200,
+"final": "https://www.communitytransit.org/",
+"error": null,
+"title": "Community Transit | Snohomish County",
+"name_hits": [
+"transit",
+"snohomish"
+],
+"name_toks": [
+"transit",
+"snohomish",
+"ptba"
+],
+"state_hit": false,
+"parked": false,
+"words": 340,
+"links": []
+},
+{
+"id": "S:33",
+"url": "http://www.everetttransit.org",
+"name": "Everett Transit (City of Everett)",
+"state": "WA",
+"status": 200,
+"final": "http://www.everetttransit.org/",
+"error": null,
+"title": "Everett Transit, WA - Official Website | Official Website",
+"name_hits": [
+"everett",
+"transit",
+"everett"
+],
+"name_toks": [
+"everett",
+"transit",
+"everett"
+],
+"state_hit": true,
+"parked": false,
+"words": 215,
+"links": []
+},
+{
+"id": "S:35",
+"url": "http://www.granttransit.com",
+"name": "Grant Transit Authority",
+"state": "WA",
+"status": 200,
+"final": "https://www.granttransit.com/",
+"error": null,
+"title": "Grant Transit Authority | Home Page",
+"name_hits": [
+"grant",
+"transit",
+"authority"
+],
+"name_toks": [
+"grant",
+"transit",
+"authority"
+],
+"state_hit": true,
+"parked": false,
+"words": 367,
+"links": [
+[
+"https://gtafrdashboard.itcurves.us/FRPUBLICDASHBOARD/",
+"Where is my bus?"
+],
+[
+"https://granttransit.community.diligentoneplatform.com/Portal/",
+"Board of Directors"
+],
+[
+"https://www.granttransit.com/event-calendar",
+""
+],
+[
+"https://www.granttransit.com/intergovernmental-agreements",
+"Intergovernmental Agreements"
+],
+[
+"https://www.granttransit.com/board-agenda-minutes",
+"Board of Directors"
+]
+]
+},
+{
+"id": "S:36",
+"url": "http://www.ghtransit.com",
+"name": "Grays Harbor Transportation Authority (Grays Harbor Transit)",
+"state": "WA",
+"status": 200,
+"final": "https://ghtransit.com/",
+"error": null,
+"title": "Home - Grays Harbor Transit",
+"name_hits": [
+"grays",
+"harbor",
+"grays",
+"harbor",
+"transit"
+],
+"name_toks": [
+"grays",
+"harbor",
+"transportation",
+"authority",
+"grays",
+"harbor",
+"transit"
+],
+"state_hit": true,
+"parked": false,
+"words": 343,
+"links": [
+[
+"https://ghtransit.com/about/board/",
+"Board of Directors"
+],
+[
+"https://ghtransit.com/about/board/meetings/",
+"Board Meetings"
+],
+[
+"https://ghtransit.com/about/board/",
+"Board of Directors"
+],
+[
+"https://ghtransit.com/about/board/meetings/",
+"Board Meetings"
+]
+]
+},
+{
+"id": "S:37",
+"url": "http://www.intercitytransit.com",
+"name": "Intercity Transit (Thurston County PTBA)",
+"state": "WA",
+"status": 200,
+"final": "https://www.intercitytransit.com/",
+"error": null,
+"title": "Welcome | Intercity Transit",
+"name_hits": [
+"intercity",
+"transit"
+],
+"name_toks": [
+"intercity",
+"transit",
+"thurston",
+"ptba"
+],
+"state_hit": true,
+"parked": false,
+"words": 1603,
+"links": [
+[
+"https://www.intercitytransit.com/services/walknroll/calendar",
+"Walk N Roll Calendar"
+],
+[
+"https://www.intercitytransit.com/agency/transit-authority/meetings",
+"Transit Authority Meetings"
+],
+[
+"https://www.intercitytransit.com/agency/community-advisory-committee/meetings",
+"Community Advisory Committee Meetings"
+],
+[
+"https://www.intercitytransit.com/services/walknroll/calendar",
+"Walk N Roll Calendar"
+],
+[
+"https://www.intercitytransit.com/agency/transit-authority/meetings",
+"Transit Authority Meetings"
+],
+[
+"https://www.intercitytransit.com/agency/community-advisory-committee/meetings",
+"Community Advisory Committee Meetings"
+],
+[
+"https://www.intercitytransit.com/news/how-participate-november-18-2026-ita-meeting-and-public-hearings",
+"View full story"
+],
+[
+"https://www.intercitytransit.com/news/how-participate-october-21-2026-ita-meeting",
+"View full story"
+]
+]
+},
+{
+"id": "S:38",
+"url": "http://www.islandtransit.org",
+"name": "Island Transit",
+"state": "WA",
+"status": 200,
+"final": "https://www.islandtransit.org/",
+"error": null,
+"title": "Home | Island Transit",
+"name_hits": [
+"island",
+"transit"
+],
+"name_toks": [
+"island",
+"transit"
+],
+"state_hit": true,
+"parked": false,
+"words": 471,
+"links": [
+[
+"https://www.islandtransit.org/ExecutiveBoard",
+"BOARD OF DIRECTORS"
+],
+[
+"https://www.islandtransit.org/board-of-directors-2024",
+"2026 Island Transit Board of Directors"
+],
+[
+"https://www.islandtransit.org/Calendar",
+"Calendar and Meeting Information"
+],
+[
+"https://www.islandtransit.org/Agendas-and-Minutes",
+"Agendas, Minutes, Recordings"
+],
+[
+"https://irp-cdn.multiscreensite.com/ac3d33af/files/uploaded/Meeting%20Room%20Policy%202018.pdf",
+"MEETING ROOM POLICY"
+]
+]
+},
+{
+"id": "S:39",
+"url": "http://www.jeffersontransit.com",
+"name": "Jefferson Transit Authority",
+"state": "WA",
+"status": 200,
+"final": "https://www.jeffersontransit.com/",
+"error": null,
+"title": "Jefferson Transit Authority, WA | Official Website",
+"name_hits": [
+"jefferson",
+"transit",
+"authority"
+],
+"name_toks": [
+"jefferson",
+"transit",
+"authority"
+],
+"state_hit": true,
+"parked": false,
+"words": 438,
+"links": [
+[
+"https://www.jeffersontransit.com/AgendaCenter",
+"Public Meetings"
+],
+[
+"https://jeffersontransit.com/AgendaCenter/Jefferson-Transit-Authority-Board-2",
+"Tuesday 12/15/26 | 1:30 pm The agenda will be published by 12/10/26"
+],
+[
+"https://www.jeffersontransit.com/198/Authority-Board",
+"Wednesday 1/6/27 | 4 pm The meeting packet will be posted by 12/31/26"
+],
+[
+"https://www.jeffersontransit.com/calendar.aspx?view=list&year=2026&month=11&day=26&CID=14,22",
+"26"
+],
+[
+"https://www.jeffersontransit.com/Calendar.aspx?EID=659",
+"Holiday Closure | Thanksgiving Day"
+],
+[
+"https://www.jeffersontransit.com/calendar.aspx?CID=14,22",
+"View All Events"
+]
+]
+},
+{
+"id": "S:40",
+"url": "http://www.kingcounty.gov/transportation",
+"name": "King County Metro Transit",
+"state": "WA",
+"status": 200,
+"final": "https://kingcounty.gov/en/categories/transit-transportation-roads",
+"error": null,
+"title": "Transit, transportation, and roads - King County, Washington",
+"name_hits": [
+"king",
+"metro",
+"transit"
+],
+"name_toks": [
+"king",
+"metro",
+"transit"
+],
+"state_hit": true,
+"parked": false,
+"words": 580,
+"links": [
+[
+"https://kingcounty.gov/en/calendar",
+"Calendar"
+],
+[
+"https://kingcounty.gov/en/shared-topics/governance-leadership/elected-officials",
+"Elected officials (all)"
+],
+[
+"https://kingcounty.gov/en/dept/council/governance-leadership/county-council/councilmembers-districts",
+"King County Council members"
+],
+[
+"https://kingcounty.gov/en/dept/executive/governance-leadership/king-county-executive/cabinet-leadership",
+"King County Executive"
+],
+[
+"https://kingcounty.gov/en/categories/governance-and-leadership",
+"SEE ALL"
+],
+[
+"https://kingcounty.gov/en/shared-topics/governance-leadership/elected-officials",
+"Elected officials"
+]
+]
+},
+{
+"id": "S:41",
+"url": "http://www.kitsaptransit.com",
+"name": "Kitsap Transit",
+"state": "WA",
+"status": 200,
+"final": "https://www.kitsaptransit.com/",
+"error": null,
+"title": "Kitsap Transit | Kitsap Transit",
+"name_hits": [
+"kitsap",
+"transit"
+],
+"name_toks": [
+"kitsap",
+"transit"
+],
+"state_hit": true,
+"parked": false,
+"words": 786,
+"links": [
+[
+"https://www.kitsaptransit.com/agency-information/transit-board",
+"Transit Board"
+],
+[
+"https://www.kitsaptransit.com/agency-resources/public-meetings",
+"Public Meetings"
+],
+[
+"https://www.governmentjobs.com/careers/kitsaptransit",
+"Click Here for All Current Openings"
+],
+[
+"https://www.governmentjobs.com/careers/kitsaptransit",
+"Apply today!"
+],
+[
+"https://www.governmentjobs.com/careers/kitsaptransit",
+"Apply today!"
+],
+[
+"https://www.governmentjobs.com/careers/kitsaptransit",
+"Apply today!"
+],
+[
+"https://www.kitsaptransit.com/agency-resources/public-meetings",
+"Public Meetings"
+],
+[
+"https://www.kitsaptransit.com/agency-information/transit-board",
+"Transit Board"
+]
+]
+},
+{
+"id": "S:42",
+"url": "http://www.linktransit.com",
+"name": "Link Transit (Chelan-Douglas PTBA)",
+"state": "WA",
+"status": 200,
+"final": "https://www.linktransit.com/",
+"error": null,
+"title": "Home - Link TransitLink Transit",
+"name_hits": [
+"link",
+"transit"
+],
+"name_toks": [
+"link",
+"transit",
+"chelan",
+"douglas",
+"ptba"
+],
+"state_hit": true,
+"parked": false,
+"words": 593,
+"links": [
+[
+"https://www.linktransit.com/about-us/our-board/",
+"Our Board"
+],
+[
+"https://www.linktransit.com/about-us/public-hearings-and-board-meetings-calendar/",
+"Public Hearings and Board Meetings Calendar"
+],
+[
+"https://www.linktransit.com/about-us/our-board/",
+"Our Board"
+],
+[
+"https://www.linktransit.com/about-us/public-hearings-and-board-meetings-calendar/",
+"Public Hearings and Board Meetings Calendar"
+]
+]
+},
+{
+"id": "S:43",
+"url": "http://www.masontransit.org",
+"name": "Mason Transit Authority",
+"state": "WA",
+"status": 200,
+"final": "https://masontransit.org/",
+"error": null,
+"title": "Mason Transit \u2013 Providing public transit to Mason County and beyond since 1992!",
+"name_hits": [
+"mason",
+"transit",
+"authority"
+],
+"name_toks": [
+"mason",
+"transit",
+"authority"
+],
+"state_hit": true,
+"parked": false,
+"words": 469,
+"links": [
+[
+"https://masontransit.org/authorityboardoverview/",
+"Overview"
+],
+[
+"https://masontransit.org/boardmeetings/",
+"Board Meetings"
+],
+[
+"https://masontransit.org/authorityboardminutes/",
+"Minutes"
+],
+[
+"https://masontransit.org/authorityboardresolutions/",
+"Resolutions"
+]
+]
+},
+{
+"id": "S:44",
+"url": "http://www.pacifictransit.org",
+"name": "Pacific Transit",
+"state": "WA",
+"status": 200,
+"final": "https://pacifictransit.org/",
+"error": null,
+"title": "Pacific Transit \u2013 It's all about community",
+"name_hits": [
+"pacific",
+"transit"
+],
+"name_toks": [
+"pacific",
+"transit"
+],
+"state_hit": true,
+"parked": false,
+"words": 718,
+"links": [
+[
+"https://pacifictransit.org/board/",
+"About"
+],
+[
+"https://pacifictransit.org/board/",
+"Board"
+],
+[
+"https://pacifictransit.org/board/",
+"About"
+],
+[
+"https://pacifictransit.org/board/",
+"Board"
+]
+]
+},
+{
+"id": "S:45",
+"url": "http://www.piercetransit.org",
+"name": "Pierce Transit",
+"state": "WA",
+"status": 200,
+"final": "https://piercetransit.org/",
+"error": null,
+"title": "Pierce Transit - Connecting you with life in Pierce County",
+"name_hits": [
+"pierce",
+"transit"
+],
+"name_toks": [
+"pierce",
+"transit"
+],
+"state_hit": true,
+"parked": false,
+"words": 4334,
+"links": [
+[
+"https://piercetransit.org/data-dashboards/",
+"Data Dashboards"
+],
+[
+"https://piercetransit.org/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://www.governmentjobs.com/careers/piercetransit/jobs/5399564/heavy-duty-diesel-technician?pagetype=jobOpportunitiesJobs",
+"Job Details"
+]
+]
+},
+{
+"id": "S:46",
+"url": "http://www.pullmantransit.com",
+"name": "Pullman Transit (City of Pullman)",
+"state": "WA",
+"status": 200,
+"final": "https://www.pullman-wa.gov/services/transit/index.php",
+"error": null,
+"title": "Pullman Transit",
+"name_hits": [
+"pullman",
+"transit",
+"pullman"
+],
+"name_toks": [
+"pullman",
+"transit",
+"pullman"
+],
+"state_hit": true,
+"parked": false,
+"words": 2364,
+"links": [
+[
+"https://www.pullman-wa.gov/government/index.php",
+"Government"
+],
+[
+"https://www.pullman-wa.gov/government/mayor.php",
+"Mayor"
+],
+[
+"https://www.pullman-wa.gov/government/city_council/index.php",
+"City Council"
+],
+[
+"https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingTypeList.aspx",
+"Agendas & Minutes"
+],
+[
+"https://www.pullman-wa.gov/government/city_council/goals_and_legislative_priorities.php",
+"Goals and Legislative Priorities"
+],
+[
+"https://www.pullman-wa.gov/government/city_council/2026-2027_goal_setting.php",
+"2026-2027 Goal Setting Process"
+],
+[
+"https://www.pullman-wa.gov/government/city_council/public_comment.php",
+"Public Comment"
+],
+[
+"https://www.pullman-wa.gov/government/city_council/2022_ward_redistricting.php",
+"Ward Redistricting"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/index.php",
+"Boards, Commissions & Committees"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/airport_board.php",
+"Airport Board"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/arts_commission.php",
+"Arts Commission"
+],
+[
+"https://www.pullman-wa.gov/government/boards,_commissions___committees/volunteer_firefighters_reserve_officers.php",
+"Board for Volunteer Firefighters & Reserve Officers"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/cemetery_committee.php",
+"Cemetery Committee"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/civil_service_commission.php",
+"Civil Service Commission"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/diversity_equity_inclusion_belonging_committee.php",
+"Diversity, Equity, Inclusion & Belonging Committee"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/environmental_resilience_commission.php",
+"Environmental Resilience Commission"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/hearing_examiner.php",
+"Hearing Examiner"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/historic_preservation_commission.php",
+"Historic Preservation Commission"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/leoff_disability_board.php",
+"LEOFF Disability Board"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/library_board_of_trustees.php",
+"Library Board of Trustees"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/lodging_tax_advisory_commission.php",
+"Lodging Tax Advisory Commission"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/metropolitan_parks_district.php",
+"Metropolitan Parks District"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/palouse_basin_aquifer_committee.php",
+"Palouse Basin Aquifer Committee"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/parks___recreation_commission.php",
+"Parks & Recreation Commission"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/planning_commission.php",
+"Planning Commission"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/police_advisory_committee.php",
+"Police Advisory Committee"
+],
+[
+"https://www.pullman-wa.gov/government/city_code.php",
+"City Code"
+],
+[
+"https://www.pullman-wa.gov/calendar.php?calendar=7",
+"Calendar"
+],
+[
+"https://www.pullman-wa.gov/services/transit/service_calendar.php",
+"Service Calendar"
+],
+[
+"https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingTypeList.aspx",
+"Council Agendas & Minutes"
+],
+[
+"https://www.pullman-wa.gov/services/transit/service_calendar.php",
+"Service Calendar"
+],
+[
+"https://www.pullman-wa.gov/government/city_council/index.php",
+"City Council"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/index.php",
+"Getting Involved"
+]
+]
+},
+{
+"id": "S:47",
+"url": "http://www.rctransit.org",
+"name": "RiverCities Transit (Cowlitz Transit Authority)",
+"state": "WA",
+"status": 200,
+"final": "https://rctransit.org/",
+"error": null,
+"title": "RiverCities Transit \u2013 We are here, to get you there.",
+"name_hits": [
+"rivercities",
+"transit",
+"cowlitz",
+"transit",
+"authority"
+],
+"name_toks": [
+"rivercities",
+"transit",
+"cowlitz",
+"transit",
+"authority"
+],
+"state_hit": true,
+"parked": false,
+"words": 377,
+"links": [
+[
+"https://www.governmentjobs.com/careers/longviewwa",
+"Employment"
+],
+[
+"https://rctransit.org/cta-board-meeting-october-14-2026/",
+"CTA Board Meeting and Public Hearing, Wednesday, December 9, 2026"
+],
+[
+"https://www.governmentjobs.com/careers/longviewwa",
+"Employment"
+]
+]
+},
+{
+"id": "S:48",
+"url": "http://www.skagittransit.org",
+"name": "Skagit Transit",
+"state": "WA",
+"status": 200,
+"final": "https://www.skagittransit.org/",
+"error": null,
+"title": "Public Transportation Skagit County, Bus Routes and Schedules | Skagit Transit",
+"name_hits": [
+"skagit",
+"transit"
+],
+"name_toks": [
+"skagit",
+"transit"
+],
+"state_hit": true,
+"parked": false,
+"words": 768,
+"links": [
+[
+"https://www.skagittransit.org/events/",
+"Calendar of Events"
+],
+[
+"https://www.skagittransit.org/about-us/board-of-directors/",
+"Board of Directors"
+],
+[
+"https://www.skagittransit.org/about-us/board-of-directors/",
+"BoD Information"
+],
+[
+"https://www.skagittransit.org/about-us/bod-minutes/",
+"Agendas & Minutes"
+],
+[
+"https://www.skagittransit.org/about-us/public-meeting-calendar-agenda/",
+"Public Meeting Calendar & Agendas"
+],
+[
+"https://www.skagittransit.org/events/skagit-transit-board-of-directors-november-special-meeting/",
+"Skagit Transit Board of Directors November Special Meeting"
+],
+[
+"https://www.skagittransit.org/events/board-of-directors-meeting/?F_d=12-16-2026",
+"Board of Director's Meeting"
+],
+[
+"https://www.skagittransit.org/events/month/?F_d=11%2f24%2f2026",
+"View Full Calendar"
+]
+]
+},
+{
+"id": "S:49",
+"url": "http://www.soundtransit.org",
+"name": "Sound Transit (Central Puget Sound Regional Transit Authority)",
+"state": "WA",
+"status": 200,
+"final": "https://www.soundtransit.org/",
+"error": null,
+"title": "Sound Transit",
+"name_hits": [
+"sound",
+"transit",
+"sound",
+"transit"
+],
+"name_toks": [
+"sound",
+"transit",
+"central",
+"puget",
+"sound",
+"transit",
+"authority"
+],
+"state_hit": false,
+"parked": false,
+"words": 724,
+"links": [
+[
+"https://www.soundtransit.org/get-to-know-us/board-directors",
+"The Sound Transit Board of Directors"
+],
+[
+"https://www.soundtransit.org/get-to-know-us/documents-reports/board-directors",
+"Board documents"
+],
+[
+"https://soundtransitvideo.photoshelter.com/galleries/C0000J7QIdQYw0SI/Board-Committee-Videos",
+"PhotoShelter"
+],
+[
+"https://www.soundtransit.org/get-to-know-us/news-events/calendar/rider-experience-operations-committee-meeting-2026-12-03",
+"Rider Experience and Operations Committee Meeting"
+],
+[
+"https://www.soundtransit.org/get-to-know-us/news-events/calendar/community-oversight-panel-meeting-2026-12-09",
+"Community Oversight Panel Meeting"
+],
+[
+"https://www.soundtransit.org/get-to-know-us/news-events/calendar/executive-committee-meeting-2026-12-10",
+"Executive Committee Meeting"
+],
+[
+"https://www.soundtransit.org/get-to-know-us/news-events/calendar/system-expansion-committee-meeting-2026-12-10",
+"System Expansion Committee Meeting"
+],
+[
+"https://www.soundtransit.org/get-to-know-us/news-events/calendar/",
+"See all events"
+],
+[
+"https://www.soundtransit.org/get-to-know-us/board-directors",
+"Board of Directors"
+]
+]
+},
+{
+"id": "S:50",
+"url": "http://www.spokanetransit.com",
+"name": "Spokane Transit Authority",
+"state": "WA",
+"status": 403,
+"final": "https://www.spokanetransit.com/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"spokane",
+"transit",
+"authority"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "S:52",
+"url": "http://www.twintransit.org",
+"name": "Lewis County Transit (Lewis County PTBA; formerly Twin Transit)",
+"state": "WA",
+"status": 200,
+"final": "https://lewiscountytransit.org/",
+"error": null,
+"title": "Lewis County Transit",
+"name_hits": [
+"lewis",
+"transit",
+"lewis",
+"transit"
+],
+"name_toks": [
+"lewis",
+"transit",
+"lewis",
+"ptba",
+"formerly",
+"twin",
+"transit"
+],
+"state_hit": true,
+"parked": false,
+"words": 823,
+"links": [
+[
+"https://lewiscountytransit.org/authority-board/?e-filter-5395d63-media_type=2025-minutes",
+"Authority Board"
+],
+[
+"https://lewiscountytransit.org/authority-board/?e-filter-5395d63-media_type=2025-minutes",
+"Authority Board"
+],
+[
+"https://lewiscountytransit.org/authority-board/?e-filter-5395d63-media_type=2025-minutes",
+"Authority Board"
+]
+]
+},
+{
+"id": "S:53",
+"url": "http://www.valleytransit.com",
+"name": "Valley Transit (Walla Walla County PTBA)",
+"state": "WA",
+"status": 200,
+"final": "https://www.valleytransit.com/",
+"error": null,
+"title": "Home - Valley Transit",
+"name_hits": [
+"valley",
+"transit",
+"walla",
+"walla"
+],
+"name_toks": [
+"valley",
+"transit",
+"walla",
+"walla",
+"ptba"
+],
+"state_hit": true,
+"parked": false,
+"words": 611,
+"links": [
+[
+"https://www.valleytransit.com/about-us/board-of-directors/",
+"Board Members"
+],
+[
+"https://www.valleytransit.com/about-us/public-meetings/",
+"Public Meetings"
+]
+]
+},
+{
+"id": "S:54",
+"url": "http://www.ridewta.com",
+"name": "Whatcom Transportation Authority",
+"state": "WA",
+"status": 200,
+"final": "http://www.ridewta.com/",
+"error": null,
+"title": "Home | WTA",
+"name_hits": [
+"whatcom"
+],
+"name_toks": [
+"whatcom",
+"transportation",
+"authority"
+],
+"state_hit": false,
+"parked": false,
+"words": 140,
+"links": []
+},
+{
+"id": "S:55",
+"url": "http://www.yakimatransit.org",
+"name": "Yakima Transit (City of Yakima)",
+"state": "WA",
+"status": 200,
+"final": "https://yakimatransit.org/",
+"error": null,
+"title": "Yakima Transit",
+"name_hits": [
+"yakima",
+"transit",
+"yakima"
+],
+"name_toks": [
+"yakima",
+"transit",
+"yakima"
+],
+"state_hit": true,
+"parked": false,
+"words": 192,
+"links": []
+},
+{
+"id": "S:56",
+"url": "https://www.earh.org/",
+"name": "Adams County Public Hospital District No. 2 (East Adams Rural Healthcare)",
+"state": "WA",
+"status": 200,
+"final": "https://www.earh.org/",
+"error": null,
+"title": "Ritzville Hospital | East Adam Rural Healthcare",
+"name_hits": [
+"adams",
+"hospital",
+"east",
+"adams",
+"rural",
+"healthcare"
+],
+"name_toks": [
+"adams",
+"hospital",
+"east",
+"adams",
+"rural",
+"healthcare"
+],
+"state_hit": true,
+"parked": false,
+"words": 549,
+"links": [
+[
+"https://www.earh.org/governing-board",
+"Governing Board"
+],
+[
+"https://www.earh.org/wp-content/uploads/2026/11/Board-Notice-11.19.26.pdf",
+"Board Notice 11.19.26"
+],
+[
+"https://www.earh.org/wp-content/uploads/2026/11/11.19.2026-Board-Agenda.pdf",
+"Board Agenda 11.19.26"
+]
+]
+},
+{
+"id": "S:57",
+"url": "http://www.othellocommunityhospital.org/",
+"name": "Adams County Public Hospital District No. 3 (Othello Community Hospital)",
+"state": "WA",
+"status": 200,
+"final": "https://www.othellocommunityhospital.org/",
+"error": null,
+"title": "Home | Othello Community Hospital",
+"name_hits": [
+"adams",
+"hospital",
+"othello",
+"hospital"
+],
+"name_toks": [
+"adams",
+"hospital",
+"othello",
+"hospital"
+],
+"state_hit": true,
+"parked": false,
+"words": 376,
+"links": [
+[
+"https://www.othellocommunityhospital.org/regular-board-meetings",
+"Regular Board Meetings"
+],
+[
+"https://www.othellocommunityhospital.org/special-board-meetings",
+"Special Board Meetings"
+],
+[
+"https://www.othellocommunityhospital.org/board-of-commissioners",
+"Board of Commissioners"
+],
+[
+"https://www.othellocommunityhospital.org/for-board-members-only",
+"For Board Members Only"
+]
+]
+},
+{
+"id": "S:58",
+"url": "https://cascademedical.org/",
+"name": "Chelan County Public Hospital District No. 1 (Cascade Medical)",
+"state": "WA",
+"status": 200,
+"final": "https://cascademedical.org/",
+"error": null,
+"title": "Homepage | Cascade Medical",
+"name_hits": [
+"hospital",
+"cascade",
+"medical"
+],
+"name_toks": [
+"chelan",
+"hospital",
+"cascade",
+"medical"
+],
+"state_hit": true,
+"parked": false,
+"words": 469,
+"links": [
+[
+"https://cascademedical.org/about-us/board-commissioners",
+"Board of Commissioners"
+],
+[
+"https://cascademedical.org/about-us/calendar",
+"Event Calendar"
+]
+]
+},
+{
+"id": "S:59",
+"url": "https://lakechelanhealth.org/",
+"name": "Chelan County Public Hospital District No. 2 (Lake Chelan Health)",
+"state": "WA",
+"status": 200,
+"final": "https://lakechelanhealth.org/",
+"error": null,
+"title": "Lake Chelan Community Hospital \u2013 Hospital Lake Chelan",
+"name_hits": [
+"chelan",
+"hospital",
+"lake",
+"chelan",
+"health"
+],
+"name_toks": [
+"chelan",
+"hospital",
+"lake",
+"chelan",
+"health"
+],
+"state_hit": false,
+"parked": false,
+"words": 637,
+"links": [
+[
+"https://lakechelanhealth.org/patient-family-advisory-council/",
+"PFAC (PATIENT FAMILY ADVISORY COUNCIL)"
+],
+[
+"https://lakechelanhealth.org/events/",
+"EVENTS CALENDAR"
+],
+[
+"https://lakechelanhealth.org/board-of-commissioners/",
+"BOARD OF COMMISSIONERS"
+],
+[
+"https://lakechelanhealth.org/about-us/board-of-commissioners/",
+""
+],
+[
+"https://lakechelanhealth.org/about-us/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://lakechelanhealth.org/event/monthly-lch-hospital-board-meeting/2026-11-24/",
+"Monthly LCH Hospital Board Meeting November 24 @ 1:30 pm - 5:00 pm Lake Chelan H"
+],
+[
+"https://lakechelanhealth.org/from-your-board-of-commissioners-annual-letter/",
+""
+],
+[
+"https://lakechelanhealth.org/from-your-board-of-commissioners-annual-letter/",
+"FROM YOUR BOARD OF COMMISSIONERS | ANNUAL LETTER"
+],
+[
+"https://lakechelanhealth.org/patient-family-advisory-council/",
+"\"JOIN PFAC\""
+]
+]
+},
+{
+"id": "S:60",
+"url": "http://www.forkshospital.org/",
+"name": "Clallam County Public Hospital District No. 1 (Forks Community Hospital)",
+"state": "WA",
+"status": 200,
+"final": "https://www.forkshospital.org/",
+"error": null,
+"title": "Forks Community Hospital",
+"name_hits": [
+"hospital",
+"forks",
+"hospital"
+],
+"name_toks": [
+"clallam",
+"hospital",
+"forks",
+"hospital"
+],
+"state_hit": true,
+"parked": false,
+"words": 2379,
+"links": [
+[
+"https://www.forkshospital.org/service/patient-family-advisory-council/",
+"Patient Family Advisory Council"
+],
+[
+"https://www.forkshospital.org/service/patient-family-advisory-council/",
+"Patient Family Advisory Council"
+],
+[
+"https://www.forkshospital.org/service/patient-family-advisory-council/",
+"Patient Family Advisory Council"
+],
+[
+"https://www.forkshospital.org/service/patient-family-advisory-council/",
+"Patient Family Advisory Council"
+],
+[
+"https://www.forkshospital.org/service/patient-family-advisory-council/",
+"Patient Family Advisory Council"
+],
+[
+"https://www.forkshospital.org/service/patient-family-advisory-council/",
+"Patient Family Advisory Council"
+],
+[
+"https://www.forkshospital.org/service/patient-family-advisory-council/",
+"Patient Family Advisory Council"
+],
+[
+"https://www.forkshospital.org/service/patient-family-advisory-council/",
+"Patient Family Advisory Council"
+],
+[
+"https://www.forkshospital.org/board-information",
+"Board"
+]
+]
+},
+{
+"id": "S:61",
+"url": "http://www.olympicmedical.org/",
+"name": "Clallam County Public Hospital District No. 2 (Olympic Medical Center)",
+"state": "WA",
+"status": 200,
+"final": "https://www.olympicmedical.org:443/",
+"error": null,
+"title": "Home | Olympic Medical Center",
+"name_hits": [
+"clallam",
+"hospital",
+"olympic",
+"medical",
+"center"
+],
+"name_toks": [
+"clallam",
+"hospital",
+"olympic",
+"medical",
+"center"
+],
+"state_hit": true,
+"parked": false,
+"words": 481,
+"links": [
+[
+"https://www.olympicmedical.org/about-us/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://www.olympicmedical.org/patients-visitors/patient-experience/patient-and-family-advisory-council/",
+"Patient and Family Advisory Council"
+],
+[
+"https://www.olympicmedical.org/calendar/",
+"Calendar"
+],
+[
+"https://www.olympicmedical.org/calendar/",
+"Events"
+],
+[
+"https://www.olympicmedical.org/calendar/events/you-and-your-new-baby-support-group/?calendardate=20261130120000",
+"Nov 30, 2026 You and Your New Baby Support Group Olympic Memorial Hospital, 939 "
+]
+]
+},
+{
+"id": "S:62",
+"url": "http://www.cchd-wa.org/",
+"name": "Columbia County Public Hospital District No. 1 (Columbia County Health System)",
+"state": "WA",
+"status": 200,
+"final": "https://cchd-wa.org/",
+"error": null,
+"title": "Whole Person-Centered Care | Columbia County Health System",
+"name_hits": [
+"columbia",
+"hospital",
+"columbia",
+"health",
+"system"
+],
+"name_toks": [
+"columbia",
+"hospital",
+"columbia",
+"health",
+"system"
+],
+"state_hit": true,
+"parked": false,
+"words": 795,
+"links": [
+[
+"https://cchd-wa.org/board-of-directors/",
+"Leadership"
+],
+[
+"https://cchd-wa.org/board-of-directors/",
+"Board of Directors"
+],
+[
+"https://cchd-wa.org/board-of-directors/",
+"Board of Directors"
+],
+[
+"https://cchd-wa.org/board-of-directors/",
+"Board of Directors"
+],
+[
+"https://cchd-wa.org/board-of-directors/",
+"Board of Directors"
+]
+]
+},
+{
+"id": "S:63",
+"url": "http://www.cmccares.org/",
+"name": "Douglas, Grant, Lincoln and Okanogan Counties Public Hospital District No. 6 (Coulee Medical Center)",
+"state": "WA",
+"status": 200,
+"final": "https://cmccares.org/",
+"error": null,
+"title": "Your Healthcare Comes First at Coulee Medical Center",
+"name_hits": [
+"hospital",
+"coulee",
+"medical",
+"center"
+],
+"name_toks": [
+"douglas",
+"grant",
+"lincoln",
+"okanogan",
+"counties",
+"hospital",
+"coulee",
+"medical",
+"center"
+],
+"state_hit": true,
+"parked": false,
+"words": 1298,
+"links": [
+[
+"https://cmccares.org/staff/commissioners/",
+"Commissioners"
+],
+[
+"https://cmccares.org/about-cmc/board-meetings-agendas/",
+"Board Meetings & Agendas"
+],
+[
+"https://cmccares.org/calendar-embed/XkCODhEYGLH/",
+"Events Calendar"
+],
+[
+"https://cmccares.org/staff/commissioners/",
+"Commissioners"
+],
+[
+"https://cmccares.org/about-cmc/board-meetings-agendas/",
+"Board Meetings & Agendas"
+],
+[
+"https://cmccares.org/calendar-embed/XkCODhEYGLH/",
+"Events Calendar"
+],
+[
+"https://cmccares.org/staff/commissioners/",
+"Commissioners"
+],
+[
+"https://cmccares.org/about-cmc/board-meetings-agendas/",
+"Board Meetings & Agendas"
+],
+[
+"https://cmccares.org/calendar-embed/XkCODhEYGLH/",
+"Events Calendar"
+],
+[
+"https://cmccares.org/staff/commissioners/",
+"Commissioners"
+],
+[
+"https://cmccares.org/about-cmc/board-meetings-agendas/",
+"Board Meetings & Agendas"
+],
+[
+"https://cmccares.org/calendar-embed/XkCODhEYGLH/",
+"Events Calendar"
+]
+]
+},
+{
+"id": "S:65",
+"url": "http://www.fcphd.org/",
+"name": "Ferry County Public Hospital District No. 1 (Ferry County Health)",
+"state": "WA",
+"status": 200,
+"final": "https://www.fcphd.org/",
+"error": null,
+"title": "FCPHD Home",
+"name_hits": [
+"ferry",
+"hospital",
+"ferry",
+"health"
+],
+"name_toks": [
+"ferry",
+"hospital",
+"ferry",
+"health"
+],
+"state_hit": true,
+"parked": false,
+"words": 1389,
+"links": [
+[
+"https://www.fcphd.org/board.html",
+"Board of Commissioners"
+],
+[
+"https://www.fcphd.org/calendar.html",
+"Calendar"
+],
+[
+"https://www.fcphd.org/PDF_Files/Ferry 2020 - Board-GIQtfA.pdf",
+"Click here to view audited statement"
+],
+[
+"https://www.fcphd.org/PDF_Files/Ferry 2018 - Board.pdf",
+"Click here to view audited statement"
+],
+[
+"http://www.inlandimaging.com/physicians",
+"Inland Imaging's staff of board-certified radiologists"
+],
+[
+"https://www.fcphd.org/board.html",
+"Board of Commissioners"
+],
+[
+"https://www.fcphd.org/calendar.html",
+"Calendar"
+]
+]
+},
+{
+"id": "S:67",
+"url": "https://www.garfieldcountyhospital.com/",
+"name": "Garfield County Public Hospital District No. 1 (Garfield County Hospital District)",
+"state": "WA",
+"status": 200,
+"final": "https://www.garfieldcountyhospital.com/",
+"error": null,
+"title": "Garfield County Hospital District",
+"name_hits": [
+"garfield",
+"hospital",
+"garfield",
+"hospital"
+],
+"name_toks": [
+"garfield",
+"hospital",
+"garfield",
+"hospital"
+],
+"state_hit": true,
+"parked": false,
+"words": 186,
+"links": [
+[
+"https://www.garfieldcountyhospital.com/board-of-commissioners",
+"BOARD OF COMMISSIONERS"
+]
+]
+},
+{
+"id": "S:68",
+"url": "http://www.samaritanhealthcare.com/",
+"name": "Grant County Public Hospital District No. 1 (Samaritan Healthcare)",
+"state": "WA",
+"status": 200,
+"final": "https://wearesamaritan.org/",
+"error": null,
+"title": "Samaritan | Moses Lake, WA",
+"name_hits": [
+"grant",
+"hospital",
+"samaritan",
+"healthcare"
+],
+"name_toks": [
+"grant",
+"hospital",
+"samaritan",
+"healthcare"
+],
+"state_hit": true,
+"parked": false,
+"words": 908,
+"links": [
+[
+"https://wearesamaritan.org/board-of-commissioners/",
+"Board of Commissioners"
+]
+]
+},
+{
+"id": "S:69",
+"url": "http://quincyhospital.org/",
+"name": "Grant County Public Hospital District No. 2 (Quincy Valley Medical Center)",
+"state": "WA",
+"status": 200,
+"final": "https://quincyhospital.org/",
+"error": null,
+"title": "Home - Quincy Valley Medical Center",
+"name_hits": [
+"quincy",
+"valley",
+"medical",
+"center"
+],
+"name_toks": [
+"grant",
+"hospital",
+"quincy",
+"valley",
+"medical",
+"center"
+],
+"state_hit": true,
+"parked": false,
+"words": 622,
+"links": [
+[
+"https://quincyhospital.org/about-us/board/",
+"Our Board"
+],
+[
+"https://quincyhospital.org/about-us/commissioner-meetings/",
+"Commissioner Meetings"
+]
+]
+},
+{
+"id": "S:70",
+"url": "http://www.columbiabasinhospital.org/",
+"name": "Grant County Public Hospital District No. 3 (Columbia Basin Hospital)",
+"state": "WA",
+"status": 200,
+"final": "https://www.columbiabasinhospital.org/",
+"error": null,
+"title": "Home | Columbia Basin Hospital Family Medicine",
+"name_hits": [
+"hospital",
+"columbia",
+"basin",
+"hospital"
+],
+"name_toks": [
+"grant",
+"hospital",
+"columbia",
+"basin",
+"hospital"
+],
+"state_hit": true,
+"parked": false,
+"words": 677,
+"links": [
+[
+"https://www.columbiabasinhospital.org/aboutus",
+"Board Meetings"
+],
+[
+"https://www.columbiabasinhospital.org/eventcalendar",
+"Event Calendar"
+],
+[
+"https://www.columbiabasinhospital.org/aboutus",
+"Board Meetings"
+],
+[
+"https://www.columbiabasinhospital.org/eventcalendar",
+"Event Calendar"
+],
+[
+"https://www.columbiabasinhospital.org/aboutus",
+"Board Meetings"
+],
+[
+"https://www.columbiabasinhospital.org/eventcalendar",
+"Event Calendar"
+],
+[
+"https://www.columbiabasinhospital.org/aboutus",
+"Board Meetings"
+],
+[
+"https://www.columbiabasinhospital.org/eventcalendar",
+"Event Calendar"
+],
+[
+"https://www.columbiabasinhospital.org/aboutus",
+"Board Meetings"
+],
+[
+"https://www.columbiabasinhospital.org/eventcalendar",
+"Event Calendar"
+]
+]
+},
+{
+"id": "S:71",
+"url": "http://mckayhealthcare.net/",
+"name": "Grant County Public Hospital District No. 4 (McKay Healthcare and Rehabilitation Center)",
+"state": "WA",
+"status": 200,
+"final": "https://www.mckayhealthcare.net/",
+"error": null,
+"title": "",
+"name_hits": [],
+"name_toks": [
+"grant",
+"hospital",
+"mckay",
+"healthcare",
+"rehabilitation",
+"center"
+],
+"state_hit": false,
+"parked": false,
+"words": 32,
+"links": []
+},
+{
+"id": "S:72",
+"url": "https://mattawacommunitymedicalclinic.org/",
+"name": "Grant County Public Hospital District No. 5 (Mattawa Community Medical Clinic)",
+"state": "WA",
+"status": 200,
+"final": "https://mattawacommunitymedicalclinic.org/",
+"error": null,
+"title": "Mattawa Community Medical Clinic",
+"name_hits": [
+"hospital",
+"mattawa",
+"medical",
+"clinic"
+],
+"name_toks": [
+"grant",
+"hospital",
+"mattawa",
+"medical",
+"clinic"
+],
+"state_hit": true,
+"parked": false,
+"words": 568,
+"links": [
+[
+"https://mattawacommunitymedicalclinic.org/about/board",
+"Board"
+],
+[
+"https://mattawacommunitymedicalclinic.org/board-meeting-minutes",
+"Board meeting minutes & agendas"
+],
+[
+"https://mattawacommunitymedicalclinic.org/about/board",
+"Board"
+],
+[
+"https://mattawacommunitymedicalclinic.org/board-meeting-minutes",
+"Board meeting minutes & agendas"
+]
+]
+},
+{
+"id": "S:74",
+"url": "https://summitpacificmedicalcenter.org/",
+"name": "Grays Harbor County Public Hospital District No. 1 (Summit Pacific Medical Center)",
+"state": "WA",
+"status": 200,
+"final": "https://summitpacificmedicalcenter.org/",
+"error": null,
+"title": "Home - Summit Pacific",
+"name_hits": [
+"grays",
+"harbor",
+"hospital",
+"summit",
+"pacific",
+"medical",
+"center"
+],
+"name_toks": [
+"grays",
+"harbor",
+"hospital",
+"summit",
+"pacific",
+"medical",
+"center"
+],
+"state_hit": false,
+"parked": false,
+"words": 519,
+"links": [
+[
+"https://summitpacificmedicalcenter.org/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://summitpacificmedicalcenter.org/board-of-commissioners/meeting-information/",
+"Board of Commissioners Meeting Minutes & Information"
+],
+[
+"https://summitpacificmedicalcenter.org/foundation/foundation-board-of-directors/",
+"Foundation Board of Directors"
+],
+[
+"https://summitpacificmedicalcenter.org/events-and-classes/",
+"Events Calendar"
+],
+[
+"https://summitpacificmedicalcenter.org/board-of-commissioners/meeting-information/",
+"Board Commissioners Meetings"
+]
+]
+},
+{
+"id": "S:75",
+"url": "https://www.ghcares.org/",
+"name": "Grays Harbor County Public Hospital District No. 2 (Harbor Regional Health)",
+"state": "WA",
+"status": 200,
+"final": "https://www.ghcares.org/",
+"error": null,
+"title": "Harbor Regional Health - Grays Harbor County Washington",
+"name_hits": [
+"grays",
+"harbor",
+"hospital",
+"harbor",
+"health"
+],
+"name_toks": [
+"grays",
+"harbor",
+"hospital",
+"harbor",
+"health"
+],
+"state_hit": true,
+"parked": false,
+"words": 1008,
+"links": []
+},
+{
+"id": "S:76",
+"url": "https://jeffersonhealthcare.org/",
+"name": "Jefferson County Public Hospital District No. 2 (Jefferson Healthcare)",
+"state": "WA",
+"status": 200,
+"final": "https://jeffersonhealthcare.org/",
+"error": null,
+"title": "Welcome to Jefferson Healthcare | Port Townsend, Washington",
+"name_hits": [
+"jefferson",
+"hospital",
+"jefferson",
+"healthcare"
+],
+"name_toks": [
+"jefferson",
+"hospital",
+"jefferson",
+"healthcare"
+],
+"state_hit": true,
+"parked": false,
+"words": 778,
+"links": [
+[
+"https://jeffersonhealthcare.org/hospital-commission/",
+"Hospital Commission"
+]
+]
+},
+{
+"id": "S:77",
+"url": "https://kenkphd.com/",
+"name": "Kennewick Public Hospital District (Two Rivers Health District)",
+"state": "WA",
+"status": 200,
+"final": "https://kenkphd.com/",
+"error": null,
+"title": "Kennewick Public Hospital District in Kennewick, Washington",
+"name_hits": [
+"kennewick",
+"hospital",
+"health"
+],
+"name_toks": [
+"kennewick",
+"hospital",
+"two",
+"rivers",
+"health"
+],
+"state_hit": true,
+"parked": false,
+"words": 190,
+"links": [
+[
+"https://kenkphd.com/meetings",
+"NOVEMBER MEETING CANCELLED"
+],
+[
+"https://kenkphd.com/meetings",
+"Meetings"
+],
+[
+"https://kenkphd.com/commissioners",
+"Commissioners"
+],
+[
+"https://kenkphd.com/meetings",
+"Meetings"
+],
+[
+"https://kenkphd.com/commissioners",
+"Commissioners"
+],
+[
+"https://kenkphd.com/meetings",
+"Meetings"
+],
+[
+"https://kenkphd.com/commissioners",
+"Commissioners"
+],
+[
+"https://kenkphd.com/meetings",
+"Meeting Info"
+],
+[
+"https://kenkphd.com/meetings",
+"Meeting Info"
+],
+[
+"https://kenkphd.com/meetings",
+"Meetings"
+],
+[
+"https://kenkphd.com/commissioners",
+"Commissioners"
+],
+[
+"https://kenkphd.com/commissioner-resources",
+"Commissioner Resources"
+]
+]
+},
+{
+"id": "S:78",
+"url": "http://www.valleymed.org/",
+"name": "King County Public Hospital District No. 1 (Valley Medical Center)",
+"state": "WA",
+"status": 200,
+"final": "https://www.valleymed.org/",
+"error": null,
+"title": "Valley Medical Center & Clinics",
+"name_hits": [
+"king",
+"valley",
+"medical",
+"center"
+],
+"name_toks": [
+"king",
+"hospital",
+"valley",
+"medical",
+"center"
+],
+"state_hit": true,
+"parked": false,
+"words": 541,
+"links": []
+},
+{
+"id": "S:79",
+"url": "https://www.evergreenhealth.com/",
+"name": "King County Public Hospital District No. 2 (EvergreenHealth)",
+"state": "WA",
+"status": 403,
+"final": "https://www.evergreenhealth.com/",
+"error": null,
+"title": "Access Denied",
+"name_hits": [
+"evergreenhealth"
+],
+"name_toks": [
+"king",
+"hospital",
+"evergreenhealth"
+],
+"state_hit": false,
+"parked": false,
+"words": 17,
+"links": []
+},
+{
+"id": "S:80",
+"url": "http://www.snoqualmiehospital.org/",
+"name": "King County Public Hospital District No. 4 (Snoqualmie Valley Health)",
+"state": "WA",
+"status": 200,
+"final": "https://snoqualmievalleyhealth.org/",
+"error": null,
+"title": "Home - Snoqualmie Valley Health",
+"name_hits": [
+"king",
+"hospital",
+"snoqualmie",
+"valley",
+"health"
+],
+"name_toks": [
+"king",
+"hospital",
+"snoqualmie",
+"valley",
+"health"
+],
+"state_hit": true,
+"parked": false,
+"words": 927,
+"links": [
+[
+"https://snoqualmievalleyhealth.org/about/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://snoqualmievalleyhealth.org/about/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://snoqualmievalleyhealth.org/trustees/",
+"Trustees"
+],
+[
+"https://snoqualmievalleyhealth.org/about/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://snoqualmievalleyhealth.org/trustees/",
+"Trustees"
+]
+]
+},
+{
+"id": "S:81",
+"url": "https://vashonhealthcare.org/",
+"name": "King County Public Hospital District No. 5 (Vashon Health Care District)",
+"state": "WA",
+"status": 200,
+"final": "https://vashonhealthcare.org/",
+"error": null,
+"title": "Home - Vashon Health Care District",
+"name_hits": [
+"king",
+"hospital",
+"vashon",
+"health",
+"care"
+],
+"name_toks": [
+"king",
+"hospital",
+"vashon",
+"health",
+"care"
+],
+"state_hit": true,
+"parked": false,
+"words": 658,
+"links": [
+[
+"https://vashonhealthcare.org/staff-commissioners/",
+"Staff & Commissioners"
+],
+[
+"https://vashonhealthcare.org/staff-commissioners/",
+"Staff & Commissioners"
+],
+[
+"https://vashonhealthcare.org/staff-commissioners/",
+"Staff & Commissioners"
+],
+[
+"https://vashonhealthcare.org/staff-commissioners/",
+"Staff & Commissioners"
+],
+[
+"https://us06web.zoom.us/j/82699377083",
+"Monthly Board Meeting"
+],
+[
+"https://vashonhealthcare.org/wp-content/uploads/2026/11/VHCD-Special-Meeting-Budget-Adoption-Associated-Docs.pdf",
+"Agenda & Budget"
+],
+[
+"https://vashonhealthcare.org/staff-commissioners/",
+"Staff & Commissioners"
+]
+]
+},
+{
+"id": "S:82",
+"url": "https://www.kvhealthcare.org/",
+"name": "Kittitas County Public Hospital District No. 1 (Kittitas Valley Healthcare)",
+"state": "WA",
+"status": 200,
+"final": "https://www.kvhealthcare.org/",
+"error": null,
+"title": "KV Healthcare \u2013 Your Home for Health",
+"name_hits": [
+"kittitas",
+"hospital",
+"kittitas",
+"valley",
+"healthcare"
+],
+"name_toks": [
+"kittitas",
+"hospital",
+"kittitas",
+"valley",
+"healthcare"
+],
+"state_hit": true,
+"parked": false,
+"words": 1028,
+"links": [
+[
+"https://www.kvhealthcare.org/hospital-services/family-birthing/ed/calendar/",
+"Class/Event Calendar"
+],
+[
+"https://www.kvhealthcare.org/about-us/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://www.kvhealthcare.org/foundation/board-of-directors/",
+"The Foundation Board of Directors"
+],
+[
+"https://www.kvhealthcare.org/about-us/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://www.kvhealthcare.org/foundation/board-of-directors/",
+"The Foundation Board of Directors"
+],
+[
+"https://www.kvhealthcare.org/about-us/board-of-commissioners/",
+"Board of Commissioners"
+]
+]
+},
+{
+"id": "S:84",
+"url": "http://www.kvhealth.net/",
+"name": "Klickitat County Public Hospital District No. 1 (Klickitat Valley Health)",
+"state": "WA",
+"status": 200,
+"final": "https://kvhealth.net/",
+"error": null,
+"title": "Klickitat Valley Health | Making a Healthy Change",
+"name_hits": [
+"klickitat",
+"hospital",
+"klickitat",
+"valley",
+"health"
+],
+"name_toks": [
+"klickitat",
+"hospital",
+"klickitat",
+"valley",
+"health"
+],
+"state_hit": true,
+"parked": false,
+"words": 821,
+"links": [
+[
+"https://kvhealth.net/index.php/kvh/pages/board-of-Commissioners",
+"Board of Commissioners"
+],
+[
+"https://kvhealth.net/index.php/kvh/pages/board-of-directors-foundation",
+"Board of Directors"
+]
+]
+},
+{
+"id": "S:85",
+"url": "https://myskylinehealth.org/",
+"name": "Klickitat County Public Hospital District No. 2 (Skyline Health)",
+"state": "WA",
+"status": 200,
+"final": "https://myskylinehealth.org/",
+"error": null,
+"title": "Health Care in the Columbia River Gorge | Skyline Health",
+"name_hits": [
+"klickitat",
+"hospital",
+"skyline",
+"health"
+],
+"name_toks": [
+"klickitat",
+"hospital",
+"skyline",
+"health"
+],
+"state_hit": true,
+"parked": false,
+"words": 611,
+"links": [
+[
+"https://myskylinehealth.org/about-us/board-of-directors/",
+"Board of Directors"
+],
+[
+"https://myskylinehealth.org/about-us/board-of-directors/archived-board-meeting-minutes/",
+"Archived Board Meeting Minutes"
+],
+[
+"https://myskylinehealth.org/foundation/foundation-board-of-directors/",
+"Foundation Board of Directors"
+]
+]
+},
+{
+"id": "S:86",
+"url": "https://www.myarborhealth.org/",
+"name": "Lewis County Public Hospital District No. 1 (Arbor Health)",
+"state": "WA",
+"status": 200,
+"final": "https://www.myarborhealth.org/",
+"error": null,
+"title": "Home | Arbor Health",
+"name_hits": [
+"hospital",
+"arbor",
+"health"
+],
+"name_toks": [
+"lewis",
+"hospital",
+"arbor",
+"health"
+],
+"state_hit": false,
+"parked": false,
+"words": 767,
+"links": [
+[
+"https://www.myarborhealth.org/about-us/commissioners-and-leadership/",
+"Commissioners and Leadership"
+],
+[
+"https://www.myarborhealth.org/calendar/",
+"Calendar"
+],
+[
+"https://www.myarborhealth.org/calendar/events/lunch-n-learn-defeating-diabetes/",
+"Free Lunch & Learn\u2014Defeating Diabetes"
+],
+[
+"https://www.myarborhealth.org/calendar/",
+"Calendar/Menu"
+]
+]
+},
+{
+"id": "S:87",
+"url": "http://www.omhc.org/",
+"name": "Lincoln County Public Hospital District No. 1 (Odessa Memorial Healthcare Center)",
+"state": "WA",
+"status": 200,
+"final": "https://www.omhc.org/",
+"error": null,
+"title": "Odessa Memorial Health Center | Odessa, WA",
+"name_hits": [
+"hospital",
+"odessa",
+"healthcare",
+"center"
+],
+"name_toks": [
+"lincoln",
+"hospital",
+"odessa",
+"healthcare",
+"center"
+],
+"state_hit": true,
+"parked": false,
+"words": 626,
+"links": [
+[
+"https://www.omhc.org/about-us/governing-board/",
+"Governing Board"
+],
+[
+"https://www.omhc.org/about-us/governing-board/",
+"Governing Board"
+],
+[
+"https://www.omhc.org/about-us/governing-board/",
+"Governing Board"
+],
+[
+"https://www.omhc.org/about-us/governing-board/",
+"Governing Board"
+]
+]
+},
+{
+"id": "S:88",
+"url": "http://www.lincolnhospital.org/",
+"name": "Lincoln County Public Hospital District No. 3 (Lincoln Hospital & Clinics)",
+"state": "WA",
+"status": 200,
+"final": "https://www.lincolnhospital.org:443/",
+"error": null,
+"title": "Home | Lincoln Hospital",
+"name_hits": [
+"lincoln",
+"hospital",
+"lincoln",
+"hospital",
+"clinics"
+],
+"name_toks": [
+"lincoln",
+"hospital",
+"lincoln",
+"hospital",
+"clinics"
+],
+"state_hit": true,
+"parked": false,
+"words": 354,
+"links": [
+[
+"https://www.lincolnhospital.org/about-us/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://www.lincolnhospital.org/calendar/",
+"Calendar"
+],
+[
+"https://www.lincolnhospital.org/calendar/events/meeting-of-the-board-of-commissioners/?calendardate=20270121160000",
+"Jan 21 Meeting of the Board of Commissioners"
+],
+[
+"https://www.lincolnhospital.org/calendar/events/heart-month/?calendardate=20270201000000",
+"Feb 1 Heart Month"
+],
+[
+"https://www.lincolnhospital.org/calendar/events/national-cancer-prevention-month/?calendardate=20270201000000",
+"Feb 1 National Cancer Prevention Month"
+],
+[
+"https://www.lincolnhospital.org/calendar/",
+"View more events"
+]
+]
+},
+{
+"id": "S:89",
+"url": "http://www.masongeneral.com/",
+"name": "Mason County Public Hospital District No. 1 (Mason Health)",
+"state": "WA",
+"status": 200,
+"final": "https://www.masonhealth.com/",
+"error": null,
+"title": "Mason Health",
+"name_hits": [
+"mason",
+"hospital",
+"mason",
+"health"
+],
+"name_toks": [
+"mason",
+"hospital",
+"mason",
+"health"
+],
+"state_hit": true,
+"parked": false,
+"words": 1156,
+"links": [
+[
+"https://www.masonhealth.com/board-of-commissioners",
+"Board of Commissioners"
+],
+[
+"https://www.masonhealth.com/board-of-commissioners-meeting-agenda",
+"Board of Commissioners Meeting Agenda"
+]
+]
+},
+{
+"id": "S:90",
+"url": "https://mcphd2.org/",
+"name": "Mason County Public Hospital District No. 2",
+"state": "WA",
+"status": 200,
+"final": "https://mcphd2.org/",
+"error": null,
+"title": "Mason County Public Hospital District 2 \u2013 North Mason",
+"name_hits": [
+"mason",
+"hospital"
+],
+"name_toks": [
+"mason",
+"hospital"
+],
+"state_hit": true,
+"parked": false,
+"words": 786,
+"links": [
+[
+"https://mcphd2.org/meetings-and-recordings/",
+"Document Center"
+],
+[
+"https://mcphd2.org/commission-and-staff/",
+"Commission and Staff"
+],
+[
+"https://www.pchsweb.org/events-calendar/",
+"click here"
+],
+[
+"https://mcphd2.org/meetings-and-recordings/",
+"Document Center"
+],
+[
+"https://mcphd2.org/commission-and-staff/",
+"Commission and Staff"
+]
+]
+},
+{
+"id": "S:91",
+"url": "https://www.mvhealth.org/",
+"name": "Okanogan County Public Hospital District No. 3 (Mid-Valley Hospital & Clinic)",
+"state": "WA",
+"status": 200,
+"final": "https://www.mvhealth.org/",
+"error": null,
+"title": "Mid Valley Hospital \u2013 Redefining exceptional service through compassionate care to our neighbors.",
+"name_hits": [
+"okanogan",
+"hospital",
+"mid",
+"valley",
+"hospital",
+"clinic"
+],
+"name_toks": [
+"okanogan",
+"hospital",
+"mid",
+"valley",
+"hospital",
+"clinic"
+],
+"state_hit": true,
+"parked": false,
+"words": 520,
+"links": [
+[
+"https://www.mvhealth.org/about-us/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://www.mvhealth.org/about-us/board-of-commissioners/",
+"Board of Commissioners"
+]
+]
+},
+{
+"id": "S:92",
+"url": "http://www.nvhospital.org/",
+"name": "Okanogan County Public Hospital District No. 4 (North Valley Hospital)",
+"state": "WA",
+"status": 200,
+"final": "https://www.nvhospital.org/",
+"error": null,
+"title": "North Valley Hospital",
+"name_hits": [
+"hospital",
+"north",
+"valley",
+"hospital"
+],
+"name_toks": [
+"okanogan",
+"hospital",
+"north",
+"valley",
+"hospital"
+],
+"state_hit": true,
+"parked": false,
+"words": 457,
+"links": [
+[
+"https://www.nvhospital.org/board-members",
+"Board Members"
+],
+[
+"https://www.nvhospital.org/board-meeting-agendas",
+"Board Meeting Agendas"
+],
+[
+"https://www.nvhospital.org/board-minutes",
+"Board Meeting Minutes"
+],
+[
+"https://www.nvhospital.org/board-of-commissioners-bylaw",
+"By-Laws governing Commissioners"
+],
+[
+"https://www.nvhospital.org/board-meetings",
+"Board Meetings"
+],
+[
+"https://www.nvhospital.org/calendar",
+"Calendar"
+],
+[
+"https://www.nvhospital.org/board-members",
+"Board Members"
+],
+[
+"https://www.nvhospital.org/board-meeting-agendas",
+"Board Meeting Agendas"
+],
+[
+"https://www.nvhospital.org/board-minutes",
+"Board Meeting Minutes"
+],
+[
+"https://www.nvhospital.org/board-of-commissioners-bylaw",
+"By-Laws governing Commissioners"
+],
+[
+"https://www.nvhospital.org/board-meetings",
+"Board Meetings"
+],
+[
+"https://www.nvhospital.org/calendar",
+"Calendar"
+],
+[
+"https://www.nvhospital.org/s/NVHD-Notice_Canceled-Sp-Mtg-Dates-2026.pdf",
+"Notice of Board of Commissioners meeting date changes nov-dec"
+]
+]
+},
+{
+"id": "S:93",
+"url": "http://www.threerivershospital.net/",
+"name": "Okanogan-Douglas Counties Public Hospital District No. 1 (Three Rivers Hospital)",
+"state": "WA",
+"status": 200,
+"final": "https://threerivershospital.net/",
+"error": null,
+"title": "Home - Three Rivers Hospital",
+"name_hits": [
+"okanogan",
+"douglas",
+"counties",
+"hospital",
+"three",
+"rivers",
+"hospital"
+],
+"name_toks": [
+"okanogan",
+"douglas",
+"counties",
+"hospital",
+"three",
+"rivers",
+"hospital"
+],
+"state_hit": true,
+"parked": false,
+"words": 614,
+"links": [
+[
+"https://threerivershospital.net/patients-visitors/government/",
+"Government Resources"
+],
+[
+"https://threerivershospital.net/patients-visitors/government/child-abuse-and-neglect-reporting/",
+"Child Abuse and Neglect Reporting"
+],
+[
+"https://threerivershospital.net/our_team/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://threerivershospital.net/our_team/board-of-commissioners/board-meetings-and-minutes/",
+"Board Meetings and Minutes"
+]
+]
+},
+{
+"id": "S:94",
+"url": "http://www.willapaharborhospital.com/",
+"name": "Pacific County Public Hospital District No. 2 (Willapa Harbor Hospital)",
+"state": "WA",
+"status": 200,
+"final": "https://willapaharborhospital.com/",
+"error": null,
+"title": "Willapa Harbor Hospital",
+"name_hits": [
+"pacific",
+"hospital",
+"willapa",
+"harbor",
+"hospital"
+],
+"name_toks": [
+"pacific",
+"hospital",
+"willapa",
+"harbor",
+"hospital"
+],
+"state_hit": true,
+"parked": false,
+"words": 1295,
+"links": [
+[
+"https://willapaharborhospital.com/about/board-agendas-minutes-financials/",
+"Board Agendas, Minutes & Financials"
+],
+[
+"https://willapaharborhospital.com/willapa-harbor-hospital-launches-patient-and-family-advisory-council/",
+""
+],
+[
+"https://willapaharborhospital.com/willapa-harbor-hospital-launches-patient-and-family-advisory-council/",
+"Willapa Harbor Hospital Launches Patient and Family Advisory Council"
+]
+]
+},
+{
+"id": "S:95",
+"url": "http://www.oceanbeachhospital.net/",
+"name": "Pacific County Public Hospital District No. 3 (Ocean Beach Health)",
+"state": "WA",
+"status": 200,
+"final": "https://www.oceanbeachhealth.com/",
+"error": null,
+"title": "Ocean Beach Health - Ocean Beach Hospital - SW Washington Healthcare, Ilwaco, Naselle, Ocean Park",
+"name_hits": [
+"pacific",
+"hospital",
+"ocean",
+"beach",
+"health"
+],
+"name_toks": [
+"pacific",
+"hospital",
+"ocean",
+"beach",
+"health"
+],
+"state_hit": true,
+"parked": false,
+"words": 1056,
+"links": [
+[
+"https://www.oceanbeachhealth.com/board/",
+"Board Information"
+],
+[
+"https://www.oceanbeachhealth.com/events/list/",
+"Events Calendar"
+],
+[
+"https://www.oceanbeachhealth.com/news/november-2026-board-meeting/",
+""
+]
+]
+},
+{
+"id": "S:96",
+"url": "https://newporthospitalandhealth.org/",
+"name": "Pend Oreille County Public Hospital District No. 1 (Newport Hospital & Health Services)",
+"state": "WA",
+"status": 200,
+"final": "https://newporthospitalandhealth.org/",
+"error": null,
+"title": "Newport Hospital & Health Services | Newport, WA",
+"name_hits": [
+"pend",
+"oreille",
+"hospital",
+"newport",
+"hospital",
+"health",
+"services"
+],
+"name_toks": [
+"pend",
+"oreille",
+"hospital",
+"newport",
+"hospital",
+"health",
+"services"
+],
+"state_hit": true,
+"parked": false,
+"words": 1017,
+"links": [
+[
+"https://newporthospitalandhealth.org/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://newporthospitalandhealth.org/foundation-board/",
+"Foundation Board"
+],
+[
+"https://newporthospitalandhealth.org/board-of-commissioners/",
+"Board of Commissioners"
+]
+]
+},
+{
+"id": "S:97",
+"url": "http://pointrobertsclinic.com/",
+"name": "Point Roberts Public Hospital District (Point Roberts Clinic)",
+"state": "WA",
+"status": 200,
+"final": "https://www.pointrobertsclinic.com/",
+"error": null,
+"title": "Point Roberts Clinic | Point Roberts Clinic",
+"name_hits": [
+"point",
+"roberts",
+"hospital",
+"point",
+"roberts",
+"clinic"
+],
+"name_toks": [
+"point",
+"roberts",
+"hospital",
+"point",
+"roberts",
+"clinic"
+],
+"state_hit": true,
+"parked": false,
+"words": 899,
+"links": []
+},
+{
+"id": "S:98",
+"url": "http://www.prosserhealth.org/",
+"name": "Prosser Public Hospital District (Prosser Memorial Health)",
+"state": "WA",
+"status": 200,
+"final": "https://www.prosserhealth.org:443/",
+"error": null,
+"title": "Home | Prosser Memorial Health",
+"name_hits": [
+"prosser",
+"hospital",
+"prosser",
+"health"
+],
+"name_toks": [
+"prosser",
+"hospital",
+"prosser",
+"health"
+],
+"state_hit": true,
+"parked": false,
+"words": 879,
+"links": [
+[
+"https://www.prosserhealth.org:443/about-us/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://www.prosserhealth.org:443/about-us/board-meetings-ceo-reports/",
+"Board meetings & CEO reports"
+],
+[
+"https://www.prosserhealth.org:443/calendar/",
+"Calendar"
+],
+[
+"https://www.prosserhealth.org:443/calendar/events/photos-with-santa/?calendardate=20261128100000",
+"Nov 28 Photos with Santa 11/28/26, 10:00 AM"
+],
+[
+"https://www.prosserhealth.org:443/calendar/events/childbirth-education-class-dec-2026/?calendardate=20261207170000",
+"Dec 7 Childbirth Education Class 12/07/26, 5:00 PM"
+],
+[
+"https://www.prosserhealth.org:443/calendar/events/blood-drive/?calendardate=20261229090000",
+"Dec 29 Blood Drive 12/29/26, 9:00 AM"
+],
+[
+"https://www.prosserhealth.org:443/calendar/",
+"View events"
+]
+]
+},
+{
+"id": "S:99",
+"url": "https://sjcphd.org/",
+"name": "San Juan County Public Hospital District No. 1",
+"state": "WA",
+"status": 200,
+"final": "https://sjcphd1.org/",
+"error": null,
+"title": "San Juan County Public Hospital District #1 \u2013 Caring. Healing. Serving.",
+"name_hits": [
+"san",
+"juan",
+"hospital"
+],
+"name_toks": [
+"san",
+"juan",
+"hospital"
+],
+"state_hit": true,
+"parked": false,
+"words": 772,
+"links": [
+[
+"https://sjcphd1.org/meeting/",
+"Meetings Expand"
+],
+[
+"https://sjcphd1.org/meeting/",
+"About SJCPHD#1 Meetings"
+],
+[
+"https://sjcphd1.org/meeting/meetings-2026/",
+"2026 Meeting Docs"
+],
+[
+"https://sjcphd1.org/meeting/meetings-2025/",
+"2025 Meeting Docs"
+],
+[
+"https://sjcphd1.org/meeting/meetings-2024/",
+"2024 Meeting Docs"
+],
+[
+"https://sjcphd1.org/meeting/meetings-2023/",
+"2023 Meeting Docs"
+],
+[
+"https://sjcphd1.org/meeting/meetings-2022/",
+"2022 Meeting Docs"
+],
+[
+"https://sjcphd1.org/meeting/2021mtgs/",
+"2021 Meeting Docs"
+],
+[
+"https://sjcphd1.org/meeting/2020mtgs/",
+"2020 Meeting Docs"
+],
+[
+"https://sjcphd1.org/meeting/2019mtgs/",
+"2019 Meeting Docs"
+],
+[
+"https://sjcphd1.org/meeting/meetings-2018/",
+"2018 Meeting Docs"
+],
+[
+"https://sjcphd1.org/meeting/2014to2017/",
+"2014 \u2013 2017 Meeting Docs"
+],
+[
+"https://sjcphd1.org/contactus/board/",
+"District Commissioners"
+],
+[
+"https://sjcphd1.org/regular-board-meeting-december-16-2026-at-400-pm/",
+"Regular Board Meeting December 16, 2026, at 4:00 PM"
+],
+[
+"https://sjcphd1.org/regular-board-meeting-december-16-2026-at-400-pm/",
+"FULL DETAILS Regular Board Meeting December 16, 2026, at 4:00 PM"
+],
+[
+"https://sjcphd1.org/regular-board-meeting-november-18-2026-at-400-pm/",
+"Regular Board Meeting November 18, 2026, at 4:00 PM"
+],
+[
+"https://sjcphd1.org/regular-board-meeting-november-18-2026-at-400-pm/",
+"FULL DETAILS Regular Board Meeting November 18, 2026, at 4:00 PM"
+],
+[
+"https://sjcphd1.org/regular-board-meeting-october-28th-2026-at-400-pm/",
+"Regular Board Meeting & Budget Hearing October 28th, 2026, at 4:00 PM"
+],
+[
+"https://sjcphd1.org/regular-board-meeting-october-28th-2026-at-400-pm/",
+"FULL DETAILS Regular Board Meeting & Budget Hearing October 28th, 2026, at 4:00 "
+],
+[
+"https://sjcphd1.org/regular-board-meeting-september-23rd-2026-at-400-pm/",
+"Regular Board Meeting September 23rd, 2026, at 4:00 PM"
+],
+[
+"https://sjcphd1.org/regular-board-meeting-september-23rd-2026-at-400-pm/",
+"FULL DETAILS Regular Board Meeting September 23rd, 2026, at 4:00 PM"
+],
+[
+"https://sjcphd1.org/meeting/",
+"Meetings"
+],
+[
+"https://sjcphd1.org/meeting/",
+"Meeting Documents"
+],
+[
+"https://sjcphd1.org/meeting/",
+"Meetings"
+],
+[
+"https://sjcphd1.org/meeting/",
+"About SJCPHD#1 Meetings"
+],
+[
+"https://sjcphd1.org/meeting/meetings-2026/",
+"2026 Meeting Docs"
+],
+[
+"https://sjcphd1.org/meeting/meetings-2025/",
+"2025 Meeting Docs"
+],
+[
+"https://sjcphd1.org/meeting/meetings-2024/",
+"2024 Meeting Docs"
+],
+[
+"https://sjcphd1.org/meeting/meetings-2023/",
+"2023 Meeting Docs"
+],
+[
+"https://sjcphd1.org/meeting/meetings-2022/",
+"2022 Meeting Docs"
+],
+[
+"https://sjcphd1.org/meeting/2021mtgs/",
+"2021 Meeting Docs"
+],
+[
+"https://sjcphd1.org/meeting/2020mtgs/",
+"2020 Meeting Docs"
+],
+[
+"https://sjcphd1.org/meeting/2019mtgs/",
+"2019 Meeting Docs"
+],
+[
+"https://sjcphd1.org/meeting/meetings-2018/",
+"2018 Meeting Docs"
+],
+[
+"https://sjcphd1.org/meeting/2014to2017/",
+"2014 \u2013 2017 Meeting Docs"
+],
+[
+"https://sjcphd1.org/contactus/board/",
+"District Commissioners"
+]
+]
+},
+{
+"id": "S:100",
+"url": "https://www.lopezislandhd.org/",
+"name": "San Juan County Public Hospital District No. 2 (Lopez Island Hospital District)",
+"state": "WA",
+"status": 200,
+"final": "https://lopezislandhd.org/",
+"error": null,
+"title": "Lopez Island Healthcare District \u2013 Dedicated to our Mission to ensure high-quality, island appropriate care.",
+"name_hits": [
+"san",
+"juan",
+"hospital",
+"lopez",
+"island",
+"hospital"
+],
+"name_toks": [
+"san",
+"juan",
+"hospital",
+"lopez",
+"island",
+"hospital"
+],
+"state_hit": true,
+"parked": false,
+"words": 725,
+"links": [
+[
+"https://lopezislandhd.org/news/",
+"News & Meetings"
+],
+[
+"https://lopezislandhd.sharepoint.com/:f:/s/LIHDBoardofCommissioners/Et8xqc-M09NHtW4dG6DHbvcBfBRLXyyUB6oDl_8y-Bq0LQ?e=W0lV4c",
+"Health Matters 2.0"
+],
+[
+"https://lopezislandhd.sharepoint.com/:f:/s/LIHDBoardofCommissioners/Eh6WzmiOZ95HlG2eMMuUtvIBg-X4KKPn99NYTcS9zTvh0Q?e=LxS7GM",
+"Documents"
+],
+[
+"https://lopezislandhd.org/commissioners/",
+"Commissioners & Staff"
+],
+[
+"https://lopezislandhd.org/meetings/",
+"Board Meetings"
+],
+[
+"https://lopezislandhd.org/meetings",
+"Calendar"
+],
+[
+"https://lopezislandhd.sharepoint.com/:f:/s/LIHDBoardofCommissioners/Ek_8mu-ksJJNqlPPsaBCyigB_YM_mjEtmfaDhJzIKU7krQ?e=3DMEmI",
+"Documents"
+],
+[
+"https://lopezislandhd.org/notice-of-commissioner-vacancy-and-call-for-nominations/",
+"Notice of Commissioner Vacancy and Call for Nominations"
+],
+[
+"https://lopezislandhd.org/notice-of-commissioner-vacancy-and-call-for-nominations/",
+"Read More Notice of Commissioner Vacancy and Call for Nominations Continue"
+],
+[
+"https://lopezislandhd.org/category/meetings/",
+"Meetings"
+],
+[
+"https://lopezislandhd.org/november-11-budget-hearing-and-regular-board-meeting/",
+"November 11 Budget Hearing and Regular Board Meeting"
+],
+[
+"https://lopezislandhd.org/november-11-budget-hearing-and-regular-board-meeting/",
+"Read More November 11 Budget Hearing and Regular Board Meeting Continue"
+],
+[
+"https://lopezislandhd.org/category/meetings/",
+"Meetings"
+],
+[
+"https://lopezislandhd.org/november-11-budget-hearing-and-regular-board-meeting/",
+"November 11 Budget Hearing and Regular Board Meeting"
+],
+[
+"https://lopezislandhd.org/november-11-budget-hearing-and-regular-board-meeting/",
+"Read More November 11 Budget Hearing and Regular Board Meeting Continue"
+],
+[
+"https://lopezislandhd.org/category/meetings/",
+"Meetings"
+],
+[
+"https://lopezislandhd.org/news/",
+"News & Meetings"
+],
+[
+"https://lopezislandhd.sharepoint.com/:f:/s/LIHDBoardofCommissioners/Et8xqc-M09NHtW4dG6DHbvcBfBRLXyyUB6oDl_8y-Bq0LQ?e=W0lV4c",
+"Health Matters 2.0"
+],
+[
+"https://lopezislandhd.sharepoint.com/:f:/s/LIHDBoardofCommissioners/Eh6WzmiOZ95HlG2eMMuUtvIBg-X4KKPn99NYTcS9zTvh0Q?e=LxS7GM",
+"Documents"
+],
+[
+"https://lopezislandhd.org/commissioners/",
+"Commissioners & Staff"
+],
+[
+"https://lopezislandhd.org/meetings/",
+"Board Meetings"
+]
+]
+},
+{
+"id": "S:101",
+"url": "https://orcashealth.org/",
+"name": "San Juan County Public Hospital District No. 3 (Orcas Island Health Care District)",
+"state": "WA",
+"status": 429,
+"final": "https://orcashealth.org/",
+"error": null
+},
+{
+"id": "S:102",
+"url": "https://www.skagitregionalhealth.org/",
+"name": "Skagit County Public Hospital District No. 1 (Skagit Regional Health)",
+"state": "WA",
+"status": 403,
+"final": "https://www.skagitregionalhealth.org/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"skagit",
+"hospital",
+"skagit",
+"health"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "S:103",
+"url": "https://islandhealth.org/",
+"name": "Skagit County Public Hospital District No. 2 (Island Health)",
+"state": "WA",
+"status": 200,
+"final": "https://islandhealth.org/",
+"error": null,
+"title": "Island Health - Care Courageously - IslandHealth.org",
+"name_hits": [
+"skagit",
+"hospital",
+"island",
+"health"
+],
+"name_toks": [
+"skagit",
+"hospital",
+"island",
+"health"
+],
+"state_hit": true,
+"parked": false,
+"words": 1474,
+"links": []
+},
+{
+"id": "S:104",
+"url": "https://unitedgeneral.org/",
+"name": "Skagit County Public Hospital District No. 304 (United General District 304)",
+"state": "WA",
+"status": 200,
+"final": "https://unitedgeneral.org/",
+"error": null,
+"title": "Home - United General District 304",
+"name_hits": [
+"skagit",
+"hospital",
+"united",
+"general"
+],
+"name_toks": [
+"skagit",
+"hospital",
+"united",
+"general"
+],
+"state_hit": true,
+"parked": false,
+"words": 762,
+"links": [
+[
+"https://childrenscouncilofskagitcounty.org/",
+"Children\u2019s Council"
+],
+[
+"https://unitedgeneral.org/board/",
+"Governance"
+],
+[
+"https://unitedgeneral.org/board/",
+"Meet Our Board Members"
+]
+]
+},
+{
+"id": "S:105",
+"url": "https://skamaniaems.com/",
+"name": "Skamania County Public Hospital District No. 1 (Skamania EMS & Rescue)",
+"state": "WA",
+"status": 200,
+"final": "https://skamaniaems.com/",
+"error": null,
+"title": "Skamania County EMS & Rescue | Website for Skamania County Emergency Medical Services & Rescue",
+"name_hits": [
+"skamania",
+"skamania",
+"ems",
+"rescue"
+],
+"name_toks": [
+"skamania",
+"hospital",
+"skamania",
+"ems",
+"rescue"
+],
+"state_hit": true,
+"parked": false,
+"words": 526,
+"links": [
+[
+"https://skamaniaems.com/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://skamaniaems.com/board-of-commissioners/levy-information/",
+"Levy Information"
+],
+[
+"https://skamaniaems.com/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://skamaniaems.com/board-of-commissioners/levy-information/",
+"Levy Information"
+]
+]
+},
+{
+"id": "S:106",
+"url": "https://www.evergreenhealthmonroe.com/",
+"name": "Snohomish County Public Hospital District No. 1 (EvergreenHealth Monroe)",
+"state": "WA",
+"status": 403,
+"final": "https://www.evergreenhealthmonroe.com/",
+"error": null,
+"title": "Access Denied",
+"name_hits": [
+"evergreenhealth",
+"monroe"
+],
+"name_toks": [
+"snohomish",
+"hospital",
+"evergreenhealth",
+"monroe"
+],
+"state_hit": false,
+"parked": false,
+"words": 17,
+"links": []
+},
+{
+"id": "S:107",
+"url": "http://www.verdanthealth.org/",
+"name": "Snohomish County Public Hospital District No. 2 (Verdant Health Commission)",
+"state": "WA",
+"status": 403,
+"final": "http://www.verdanthealth.org/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"snohomish",
+"hospital",
+"verdant",
+"health",
+"commission"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "S:108",
+"url": "https://www.stillyvalleyhealth.org/",
+"name": "Snohomish County Public Hospital District No. 3 (Stilly Valley Health Connections)",
+"state": "WA",
+"status": 200,
+"final": "https://www.stillyvalleyhealth.org/",
+"error": null,
+"title": "Community Health Programs & Services | Arlington & Darrington, WA",
+"name_hits": [
+"snohomish",
+"stilly",
+"valley",
+"health",
+"connections"
+],
+"name_toks": [
+"snohomish",
+"hospital",
+"stilly",
+"valley",
+"health",
+"connections"
+],
+"state_hit": true,
+"parked": false,
+"words": 1387,
+"links": [
+[
+"https://www.stillyvalleyhealth.org/programs-and-services/arlington-youth-coalition/meetings/",
+"Coalition Meetings"
+],
+[
+"https://www.stillyvalleyhealth.org/programs-and-services/arlington-youth-coalition/meetings/",
+"Coalition Meetings"
+],
+[
+"https://www.stillyvalleyhealth.org/about/governance/",
+"Governance"
+],
+[
+"https://www.stillyvalleyhealth.org/about/governance/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://www.stillyvalleyhealth.org/about/governance/public-meetings/",
+"Public Meetings"
+],
+[
+"https://www.stillyvalleyhealth.org/about/governance/history/",
+"PHD #3 History"
+],
+[
+"https://www.stillyvalleyhealth.org/about/governance/surplus/",
+"Surplus"
+],
+[
+"https://www.stillyvalleyhealth.org/about/governance/",
+"Governance"
+],
+[
+"https://www.stillyvalleyhealth.org/about/governance/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://www.stillyvalleyhealth.org/about/governance/public-meetings/",
+"Public Meetings"
+],
+[
+"https://www.stillyvalleyhealth.org/about/governance/history/",
+"PHD#3 History"
+],
+[
+"https://www.stillyvalleyhealth.org/about/governance/surplus/",
+"Surplus"
+],
+[
+"https://www.stillyvalleyhealth.org/event/mended-hearts-group-meeting/2026-12-03/",
+""
+],
+[
+"https://www.stillyvalleyhealth.org/event/mended-hearts-group-meeting/2026-12-03/",
+"Mended Hearts North Sound Chapter \u2013 Monthly Meeting"
+],
+[
+"https://www.stillyvalleyhealth.org/event/mended-hearts-group-meeting/2026-12-03/",
+"Register"
+],
+[
+"https://www.stillyvalleyhealth.org/event/arlington-coalition-for-healthy-and-resilient-youth-monthly-meeting/2026-12-10/",
+""
+],
+[
+"https://www.stillyvalleyhealth.org/event/arlington-coalition-for-healthy-and-resilient-youth-monthly-meeting/2026-12-10/",
+"Arlington Coalition for Healthy and Resilient Youth \u2013 Monthly Meeting"
+],
+[
+"https://www.stillyvalleyhealth.org/event/arlington-coalition-for-healthy-and-resilient-youth-monthly-meeting/2026-12-10/",
+"Register"
+],
+[
+"https://www.stillyvalleyhealth.org/event/board-of-commissioners-regular-meeting-5/2026-12-16/",
+""
+],
+[
+"https://www.stillyvalleyhealth.org/event/board-of-commissioners-regular-meeting-5/2026-12-16/",
+"Board of Commissioners Regular Meeting"
+],
+[
+"https://www.stillyvalleyhealth.org/event/board-of-commissioners-regular-meeting-5/2026-12-16/",
+"Register"
+],
+[
+"https://www.stillyvalleyhealth.org/about/governance/",
+"Governance"
+]
+]
+},
+{
+"id": "S:109",
+"url": "https://whidbeyhealth.org/",
+"name": "Whidbey Island Public Hospital District (WhidbeyHealth)",
+"state": "WA",
+"status": 200,
+"final": "https://whidbeyhealth.org/",
+"error": null,
+"title": "HOME - WhidbeyHealth",
+"name_hits": [
+"whidbey",
+"island",
+"hospital",
+"whidbeyhealth"
+],
+"name_toks": [
+"whidbey",
+"island",
+"hospital",
+"whidbeyhealth"
+],
+"state_hit": true,
+"parked": false,
+"words": 919,
+"links": [
+[
+"https://whidbeyhealth.org/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://whidbeyhealth.org/events/",
+"Events Calendar"
+],
+[
+"https://whidbeyhealth.org/board-of-commissioners/",
+"Board of Commissioners"
+],
+[
+"https://whidbeyhealth.org/events/",
+"Events Calendar"
+]
+]
+},
+{
+"id": "S:110",
+"url": "http://www.pullmanregional.org/",
+"name": "Whitman County Public Hospital District No. 1-A (Pullman Regional Hospital)",
+"state": "WA",
+"status": 200,
+"final": "https://www.pullmanregional.org/",
+"error": null,
+"title": "Homepage | Pullman Regional Hospital",
+"name_hits": [
+"hospital",
+"pullman",
+"hospital"
+],
+"name_toks": [
+"whitman",
+"hospital",
+"pullman",
+"hospital"
+],
+"state_hit": false,
+"parked": false,
+"words": 429,
+"links": [
+[
+"https://www.pullmanregional.org/about-us/hospital-board",
+"Hospital Board"
+],
+[
+"https://www.pullmanregional.org/about-us/hospital-board",
+"Hospital Board"
+]
+]
+},
+{
+"id": "S:111",
+"url": "https://www.whmc.org/about-us/public-hospital-district-info/",
+"name": "Whitman County Public Hospital District No. 3 (Whitman Hospital & Medical Clinics)",
+"state": "WA",
+"status": 200,
+"final": "https://www.whmc.org/about-us/public-hospital-district-info/",
+"error": null,
+"title": "Public Hospital District Info | Whitman Hospital & Medical Clinics",
+"name_hits": [
+"whitman",
+"hospital",
+"whitman",
+"hospital",
+"medical",
+"clinics"
+],
+"name_toks": [
+"whitman",
+"hospital",
+"whitman",
+"hospital",
+"medical",
+"clinics"
+],
+"state_hit": true,
+"parked": false,
+"words": 324,
+"links": [
+[
+"https://www.whmc.org/about-us/governance/",
+"Governance"
+],
+[
+"https://www.whmc.org/calendar/",
+"Classes and events"
+]
+]
+},
+{
+"id": "S:112",
+"url": "https://www.whmc.org/locations/whitman-medical-clinic-tekoa/",
+"name": "Whitman County Public Hospital District No. 4 (Whitman Medical Clinic - Tekoa)",
+"state": "WA",
+"status": 200,
+"final": "https://www.whmc.org/locations/whitman-medical-clinic-tekoa/",
+"error": null,
+"title": "Whitman Medical Clinic - Tekoa | Whitman Hospital & Medical Clinics",
+"name_hits": [
+"whitman",
+"hospital",
+"whitman",
+"medical",
+"clinic",
+"tekoa"
+],
+"name_toks": [
+"whitman",
+"hospital",
+"whitman",
+"medical",
+"clinic",
+"tekoa"
+],
+"state_hit": true,
+"parked": false,
+"words": 314,
+"links": [
+[
+"https://www.whmc.org/about-us/governance/",
+"Governance"
+]
+]
+}
+]
+}

@@ -1,0 +1,3456 @@
+{
+"_stamp": 1,
+"kind": "verify",
+"results": [
+{
+"id": "ORS:Adel School District",
+"url": "https://www.lakeesd.k12.or.us/",
+"name": "Adel ",
+"state": "OR",
+"status": 200,
+"final": "https://www.lakeesd.k12.or.us/",
+"error": null,
+"title": "",
+"name_hits": [
+"adel"
+],
+"name_toks": [
+"adel"
+],
+"state_hit": false,
+"parked": false,
+"words": 175,
+"links": [
+[
+"https://www.lakeesd.k12.or.us/PublicJustificationofInstructionalMinutes",
+"Public Justification of Instructional Minutes"
+],
+[
+"https://www.lakeesd.k12.or.us/26-27 Calendar",
+"26-27 Calendar"
+],
+[
+"https://www.lakeesd.k12.or.us/BoardInformation",
+"Board Information"
+],
+[
+"https://www.lakeesd.k12.or.us/Board of Directors",
+"Board of Directors"
+],
+[
+"https://www.lakeesd.k12.or.us/BoardPolicies",
+"Board Policies"
+],
+[
+"https://www.lakeesd.k12.or.us/MeetingInformation",
+"Meeting Information"
+],
+[
+"https://www.lakeesd.k12.or.us/MeetingInfo-PastYears",
+"Meeting Info - Past Years"
+]
+]
+},
+{
+"id": "ORS:Alsea School District 7J",
+"url": "https://www.alsea.k12.or.us/",
+"name": "Alsea  7J",
+"state": "OR",
+"status": 200,
+"final": "https://www.alsea.k12.or.us/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"alsea"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "ORS:Arock School District",
+"url": "https://www.malesd.org/",
+"name": "Arock ",
+"state": "OR",
+"status": 200,
+"final": "https://www.malesd.org/",
+"error": null,
+"title": "Home",
+"name_hits": [],
+"name_toks": [
+"arock"
+],
+"state_hit": true,
+"parked": false,
+"words": 555,
+"links": [
+[
+"https://www.malesd.org/home/board-of-directors-budget-information",
+"Board of Directors & Budget Information"
+],
+[
+"https://www.malesd.org/districts/district-calendars",
+"District Calendars"
+],
+[
+"https://www.malesd.org/home/board-of-directors-budget-information",
+"Board of Directors & Budget Information"
+],
+[
+"https://www.malesd.org/districts/district-calendars",
+"District Calendars"
+],
+[
+"https://www.malesd.org/home/board-of-directors-budget-information",
+"Board of Directors & Budget Information"
+],
+[
+"https://www.malesd.org/districts/district-calendars",
+"District Calendars"
+],
+[
+"https://calendar.google.com/calendar/u/0?cid=Y18xODhhZHA3MTJpbm5lZzBsbDFiMWw2YjNmNTNzZUByZXNvdXJjZS5jYWxlbmRhci5nb29nbGUuY29t",
+"Leggitt (Large) Conference Room Calendar"
+],
+[
+"https://calendar.google.com/calendar/u/0?cid=Y18xODhhaHQ1ZG9tdmg2Z2FpbXE4bnJkdXNjOXR0NkByZXNvdXJjZS5jYWxlbmRhci5nb29nbGUuY29t",
+"Harrod (Small) Conference Room Calendar"
+]
+]
+},
+{
+"id": "ORS:Crow-Applegate-Lorane School District",
+"url": "https://www.cal.k12.or.us/",
+"name": "Crow-Applegate-Lorane ",
+"state": "OR",
+"status": 200,
+"final": "https://www.cal.k12.or.us/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"crow",
+"applegate",
+"lorane"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "ORS:Days Creek School District 15",
+"url": "https://www.dayscreekschools.com/",
+"name": "Days Creek  15",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='www.dayscreekschools.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: U"
+},
+{
+"id": "ORS:Diamond School District",
+"url": "https://www.harneyesd.k12.or.us/",
+"name": "Diamond ",
+"state": "OR",
+"status": 200,
+"final": "https://harneyesd.k12.or.us/",
+"error": null,
+"title": "Harney ESD \u2013 Making the Difference!",
+"name_hits": [
+"diamond"
+],
+"name_toks": [
+"diamond"
+],
+"state_hit": true,
+"parked": false,
+"words": 534,
+"links": [
+[
+"https://harneyesd.k12.or.us/board-of-directors/",
+"Board of Directors"
+],
+[
+"https://harneyesd.k12.or.us/events/",
+"Events & Meetings"
+],
+[
+"https://harneyesd.k12.or.us/series/suntex-school-board-meeting/",
+""
+],
+[
+"https://harneyesd.k12.or.us/event/suntex-board-meeting/2026-12-03/",
+"Suntex School Board Meeting"
+],
+[
+"https://harneyesd.k12.or.us/series/pine-creek-school-board-meeting/",
+""
+],
+[
+"https://harneyesd.k12.or.us/event/pine-creek-school-board-meeting/2026-12-08/",
+"Pine Creek School Board Meeting"
+],
+[
+"https://harneyesd.k12.or.us/series/drewsey-school-district-board-meeting/",
+""
+],
+[
+"https://harneyesd.k12.or.us/event/drewsey-school-district-board-meeting/2026-12-09/",
+"Drewsey School Board Meeting"
+],
+[
+"https://harneyesd.k12.or.us/series/harney-esd-board-meeting/",
+""
+],
+[
+"https://harneyesd.k12.or.us/event/harney-esd-2-2/2026-12-16/",
+"Harney ESD Board Meeting"
+],
+[
+"https://harneyesd.k12.or.us/series/harney-esd-board-meeting/",
+""
+],
+[
+"https://harneyesd.k12.or.us/event/harney-esd-2-2-3/2026-12-16/",
+"Harney ESD Board Meeting"
+],
+[
+"https://harneyesd.k12.or.us/events/",
+"View Calendar"
+],
+[
+"https://harneyesd.k12.or.us/board-of-directors/",
+"Board of Directors"
+],
+[
+"https://harneyesd.k12.or.us/events/",
+"Events & Meetings"
+],
+[
+"https://harneyesd.k12.or.us/board-of-directors/",
+"Board of Directors"
+],
+[
+"https://harneyesd.k12.or.us/events/",
+"Events & Meetings"
+]
+]
+},
+{
+"id": "ORS:Frenchglen School District",
+"url": "https://frenchglen.school/",
+"name": "Frenchglen ",
+"state": "OR",
+"status": 200,
+"final": "https://frenchglen.school/",
+"error": null,
+"title": "Frenchglen School",
+"name_hits": [
+"frenchglen"
+],
+"name_toks": [
+"frenchglen"
+],
+"state_hit": true,
+"parked": false,
+"words": 636,
+"links": [
+[
+"https://frenchglen.school/calendars",
+"Calendars"
+],
+[
+"https://frenchglen.school/school-board-and-staff",
+"School Board and Staff"
+],
+[
+"https://frenchglen.school/calendars",
+"Calendars"
+],
+[
+"https://frenchglen.school/school-board-and-staff",
+"School Board and Staff"
+],
+[
+"https://frenchglen.school/calendars",
+"Calendars"
+],
+[
+"https://frenchglen.school/school-board-and-staff",
+"School Board and Staff"
+]
+]
+},
+{
+"id": "ORS:Ione School District 2",
+"url": "https://www.ione.k12.or.us/",
+"name": "Ione  2",
+"state": "OR",
+"status": 200,
+"final": "https://www.ione.k12.or.us/",
+"error": null,
+"title": "Ione School District - Home",
+"name_hits": [
+"ione"
+],
+"name_toks": [
+"ione"
+],
+"state_hit": true,
+"parked": false,
+"words": 849,
+"links": [
+[
+"https://www.ione.k12.or.us/102803",
+"Board Policies"
+],
+[
+"https://www.ione.k12.or.us/calendars",
+"Calendars"
+],
+[
+"https://www.ione.k12.or.us/school-board",
+"School Board"
+],
+[
+"https://www.ione.k12.or.us/boardbook",
+"Ione School District Board Meetings"
+],
+[
+"https://www.ione.k12.or.us/agendas",
+"Agendas"
+],
+[
+"https://www.ione.k12.or.us/minutes",
+"Minutes"
+],
+[
+"https://www.ione.k12.or.us/board-policies-2",
+"Board Policies"
+],
+[
+"https://www.ione.k12.or.us/recorded-board-meetings",
+"Recorded Board Meetings"
+],
+[
+"https://www.ione.k12.or.us/page/page_calendar?calID=152340&accessibility=enabled",
+""
+],
+[
+"https://www.ione.k12.or.us/page/page_calendar?calID=152340",
+"View Full Calendar"
+],
+[
+"https://www.ione.k12.or.us/105780?articleID=82673",
+"International Club Informational Meeting"
+],
+[
+"https://www.ione.k12.or.us/calendars",
+"Calendar"
+]
+]
+},
+{
+"id": "ORS:Jewell School District",
+"url": "https://www.jewell.k12.or.us/",
+"name": "Jewell ",
+"state": "OR",
+"status": 200,
+"final": "https://www.jewell.k12.or.us/",
+"error": null,
+"title": "Jewell School | Home",
+"name_hits": [
+"jewell"
+],
+"name_toks": [
+"jewell"
+],
+"state_hit": true,
+"parked": false,
+"words": 928,
+"links": [
+[
+"https://www.jewell.k12.or.us/page/school-board-information",
+"School Board Information"
+],
+[
+"https://www.jewell.k12.or.us/page/jewell-school-board-district-policy",
+"Jewell School Board District Policy"
+],
+[
+"https://www.jewell.k12.or.us/o/jewell-school-district-8/page/school-board-information",
+"School board"
+]
+]
+},
+{
+"id": "ORS:Juntura School District",
+"url": "https://www.malesd.org/",
+"name": "Juntura ",
+"state": "OR",
+"status": 200,
+"final": "https://www.malesd.org/",
+"error": null,
+"title": "Home",
+"name_hits": [],
+"name_toks": [
+"juntura"
+],
+"state_hit": true,
+"parked": false,
+"words": 555,
+"links": [
+[
+"https://www.malesd.org/home/board-of-directors-budget-information",
+"Board of Directors & Budget Information"
+],
+[
+"https://www.malesd.org/districts/district-calendars",
+"District Calendars"
+],
+[
+"https://www.malesd.org/home/board-of-directors-budget-information",
+"Board of Directors & Budget Information"
+],
+[
+"https://www.malesd.org/districts/district-calendars",
+"District Calendars"
+],
+[
+"https://www.malesd.org/home/board-of-directors-budget-information",
+"Board of Directors & Budget Information"
+],
+[
+"https://www.malesd.org/districts/district-calendars",
+"District Calendars"
+],
+[
+"https://calendar.google.com/calendar/u/0?cid=Y18xODhhZHA3MTJpbm5lZzBsbDFiMWw2YjNmNTNzZUByZXNvdXJjZS5jYWxlbmRhci5nb29nbGUuY29t",
+"Leggitt (Large) Conference Room Calendar"
+],
+[
+"https://calendar.google.com/calendar/u/0?cid=Y18xODhhaHQ1ZG9tdmg2Z2FpbXE4bnJkdXNjOXR0NkByZXNvdXJjZS5jYWxlbmRhci5nb29nbGUuY29t",
+"Harrod (Small) Conference Room Calendar"
+]
+]
+},
+{
+"id": "ORS:Long Creek School District",
+"url": "https://www.longcreekschool.com/",
+"name": "Long Creek ",
+"state": "OR",
+"status": 200,
+"final": "https://www.longcreekschool.com/",
+"error": null,
+"title": "Home | Long Creek School",
+"name_hits": [
+"long",
+"creek"
+],
+"name_toks": [
+"long",
+"creek"
+],
+"state_hit": true,
+"parked": false,
+"words": 696,
+"links": [
+[
+"https://www.longcreekschool.com/staff-board",
+"Joan Walczyk, Superintendent/Principal"
+],
+[
+"https://www.longcreekschool.com/calendar",
+"Calendar"
+],
+[
+"https://www.longcreekschool.com/staff-board",
+"Staff"
+],
+[
+"https://www.longcreekschool.com/calendar",
+"SCHOOL CALENDAR"
+],
+[
+"https://www.longcreekschool.com/calendar",
+"Book now"
+],
+[
+"https://www.longcreekschool.com/_files/ugd/312247_60ecfce13f974bbc8bd9a575386ea870.pdf",
+"October 26 Regular meeting ( On Monday at 11:30 am, please note )"
+]
+]
+},
+{
+"id": "ORS:Roseburg Public Schools",
+"url": "https://www.roseburg.k12.or.us/",
+"name": "Roseburg ",
+"state": "OR",
+"status": 200,
+"final": "https://www.roseburg.k12.or.us/",
+"error": null,
+"title": "Roseburg Public Schools - Home",
+"name_hits": [
+"roseburg"
+],
+"name_toks": [
+"roseburg"
+],
+"state_hit": true,
+"parked": false,
+"words": 1150,
+"links": [
+[
+"https://www.roseburg.k12.or.us/430123_2",
+"Employee Calendars"
+],
+[
+"https://www.roseburg.k12.or.us/schoolcalendars",
+"School Calendars"
+],
+[
+"https://www.roseburg.k12.or.us/board",
+"Board"
+],
+[
+"https://www.roseburg.k12.or.us/meetings",
+"Meetings"
+],
+[
+"https://www.roseburg.k12.or.us/section-ab-board-governance",
+"Section A/B - Board Governance"
+],
+[
+"https://www.roseburg.k12.or.us/schoolcalendars",
+"School Calendars"
+],
+[
+"https://www.roseburg.k12.or.us/430123_2",
+"Employee Calendars"
+],
+[
+"https://www.roseburg.k12.or.us/schoolcalendars",
+"School Calendars"
+],
+[
+"https://www.roseburg.k12.or.us/board",
+"Board"
+],
+[
+"https://www.roseburg.k12.or.us/meetings",
+"Meetings"
+],
+[
+"https://www.roseburg.k12.or.us/section-ab-board-governance",
+"Section A/B - Board Governance"
+],
+[
+"http://www.roseburg.k12.or.us/199913_2",
+"Calendar"
+],
+[
+"https://www.roseburg.k12.or.us/257444_2?articleID=85538",
+"Board Meeting"
+],
+[
+"https://www.roseburg.k12.or.us/page/page_calendar?calID=137657&accessibility=enabled",
+""
+],
+[
+"http://www.roseburg.k12.or.us/257430_2",
+"View Full Calendar"
+]
+]
+},
+{
+"id": "ORS:South Harney School District",
+"url": "https://www.harneyesd.k12.or.us/",
+"name": "South Harney ",
+"state": "OR",
+"status": 200,
+"final": "https://harneyesd.k12.or.us/",
+"error": null,
+"title": "Harney ESD \u2013 Making the Difference!",
+"name_hits": [
+"south",
+"harney"
+],
+"name_toks": [
+"south",
+"harney"
+],
+"state_hit": true,
+"parked": false,
+"words": 534,
+"links": [
+[
+"https://harneyesd.k12.or.us/board-of-directors/",
+"Board of Directors"
+],
+[
+"https://harneyesd.k12.or.us/events/",
+"Events & Meetings"
+],
+[
+"https://harneyesd.k12.or.us/series/suntex-school-board-meeting/",
+""
+],
+[
+"https://harneyesd.k12.or.us/event/suntex-board-meeting/2026-12-03/",
+"Suntex School Board Meeting"
+],
+[
+"https://harneyesd.k12.or.us/series/pine-creek-school-board-meeting/",
+""
+],
+[
+"https://harneyesd.k12.or.us/event/pine-creek-school-board-meeting/2026-12-08/",
+"Pine Creek School Board Meeting"
+],
+[
+"https://harneyesd.k12.or.us/series/drewsey-school-district-board-meeting/",
+""
+],
+[
+"https://harneyesd.k12.or.us/event/drewsey-school-district-board-meeting/2026-12-09/",
+"Drewsey School Board Meeting"
+],
+[
+"https://harneyesd.k12.or.us/series/harney-esd-board-meeting/",
+""
+],
+[
+"https://harneyesd.k12.or.us/event/harney-esd-2-2/2026-12-16/",
+"Harney ESD Board Meeting"
+],
+[
+"https://harneyesd.k12.or.us/series/harney-esd-board-meeting/",
+""
+],
+[
+"https://harneyesd.k12.or.us/event/harney-esd-2-2-3/2026-12-16/",
+"Harney ESD Board Meeting"
+],
+[
+"https://harneyesd.k12.or.us/events/",
+"View Calendar"
+],
+[
+"https://harneyesd.k12.or.us/board-of-directors/",
+"Board of Directors"
+],
+[
+"https://harneyesd.k12.or.us/events/",
+"Events & Meetings"
+],
+[
+"https://harneyesd.k12.or.us/board-of-directors/",
+"Board of Directors"
+],
+[
+"https://harneyesd.k12.or.us/events/",
+"Events & Meetings"
+]
+]
+},
+{
+"id": "WA-13",
+"url": "https://www.cityofcashmere.org/",
+"name": "Cashmere",
+"state": "WA",
+"status": 403,
+"final": "https://www.cityofcashmere.org/",
+"error": null,
+"title": "Access Denied",
+"name_hits": [
+"cashmere"
+],
+"name_toks": [
+"cashmere"
+],
+"state_hit": false,
+"parked": false,
+"words": 17,
+"links": []
+},
+{
+"id": "WA-13#alt",
+"url": "http://www.cityofcashmere.org/",
+"name": "Cashmere",
+"state": "WA",
+"status": 403,
+"final": "http://www.cityofcashmere.org/",
+"error": null,
+"title": "Access Denied",
+"name_hits": [
+"cashmere"
+],
+"name_toks": [
+"cashmere"
+],
+"state_hit": false,
+"parked": false,
+"words": 17,
+"links": []
+},
+{
+"id": "WA-15",
+"url": "https://www.ci.chehalis.wa.us/",
+"name": "Chehalis",
+"state": "WA",
+"status": 403,
+"final": "https://www.ci.chehalis.wa.us/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"chehalis"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-15#alt",
+"url": "http://www.ci.chehalis.wa.us/",
+"name": "Chehalis",
+"state": "WA",
+"status": 403,
+"final": "http://www.ci.chehalis.wa.us/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"chehalis"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-33",
+"url": "https://www.cityofelma.com/",
+"name": "Elma",
+"state": "WA",
+"status": 403,
+"final": "https://www.cityofelma.com/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"elma"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-33#alt",
+"url": "http://www.cityofelma.com/",
+"name": "Elma",
+"state": "WA",
+"status": 403,
+"final": "https://www.cityofelma.com/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"elma"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-34",
+"url": "https://townofelmercity.com/",
+"name": "Elmer City",
+"state": "WA",
+"status": 200,
+"final": "https://townofelmercity.com/",
+"error": null,
+"title": "Fishing Charter Single-Page",
+"name_hits": [
+"elmer"
+],
+"name_toks": [
+"elmer"
+],
+"state_hit": true,
+"parked": false,
+"words": 672,
+"links": [
+[
+"https://townofelmercity.com/blank/",
+"2026 Meeting Minutes, click here"
+]
+]
+},
+{
+"id": "WA-34#alt",
+"url": "http://townofelmercity.com/",
+"name": "Elmer City",
+"state": "WA",
+"status": 200,
+"final": "https://townofelmercity.com/",
+"error": null,
+"title": "Fishing Charter Single-Page",
+"name_hits": [
+"elmer"
+],
+"name_toks": [
+"elmer"
+],
+"state_hit": true,
+"parked": false,
+"words": 672,
+"links": [
+[
+"https://townofelmercity.com/blank/",
+"2026 Meeting Minutes, click here"
+]
+]
+},
+{
+"id": "WA-65",
+"url": "https://www.latahwa.com/",
+"name": "Latah",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='www.latahwa.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED"
+},
+{
+"id": "WA-65#alt",
+"url": "http://www.latahwa.com/",
+"name": "Latah",
+"state": "WA",
+"status": 403,
+"final": "http://www.latahwa.com/",
+"error": null,
+"title": "",
+"name_hits": [],
+"name_toks": [
+"latah"
+],
+"state_hit": false,
+"parked": false,
+"words": 7,
+"links": []
+},
+{
+"id": "WA-66",
+"url": "https://cityofleavenworth.com/",
+"name": "Leavenworth",
+"state": "WA",
+"status": 403,
+"final": "https://cityofleavenworth.com/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"leavenworth"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-66#alt",
+"url": "http://cityofleavenworth.com/",
+"name": "Leavenworth",
+"state": "WA",
+"status": 403,
+"final": "https://cityofleavenworth.com/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"leavenworth"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-68",
+"url": "https://www.longbeachwa.gov/",
+"name": "Long Beach",
+"state": "WA",
+"status": 403,
+"final": "https://www.longbeachwa.gov/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"long",
+"beach"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-68#alt",
+"url": "http://www.longbeachwa.gov/",
+"name": "Long Beach",
+"state": "WA",
+"status": 403,
+"final": "https://www.longbeachwa.gov/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"long",
+"beach"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-70",
+"url": "https://www.cityofmabton.com/",
+"name": "Mabton",
+"state": "WA",
+"status": 403,
+"final": "https://www.cityofmabton.com/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"mabton"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-70#alt",
+"url": "http://www.cityofmabton.com/",
+"name": "Mabton",
+"state": "WA",
+"status": 403,
+"final": "https://www.cityofmabton.com/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"mabton"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-75",
+"url": "https://www.cityofmccleary.com/",
+"name": "McCleary",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "WA-75#alt",
+"url": "http://www.cityofmccleary.com/",
+"name": "McCleary",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "WA-77",
+"url": "http://www.medina-wa.gov/",
+"name": "Medina",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "WA-77#alt",
+"url": "https://www.medina-wa.gov/",
+"name": "Medina",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "WA-81",
+"url": "https://www.millwoodwa.us/",
+"name": "Millwood",
+"state": "WA",
+"status": 403,
+"final": "https://www.millwoodwa.us/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"millwood"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-81#alt",
+"url": "http://www.millwoodwa.us/",
+"name": "Millwood",
+"state": "WA",
+"status": 403,
+"final": "http://www.millwoodwa.us/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"millwood"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-93",
+"url": "http://www.oakvillecityhall.com/",
+"name": "Oakville",
+"state": "WA",
+"status": 403,
+"final": "http://www.oakvillecityhall.com/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"oakville"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-93#alt",
+"url": "https://www.oakvillecityhall.com/",
+"name": "Oakville",
+"state": "WA",
+"status": 403,
+"final": "https://www.oakvillecityhall.com/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"oakville"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-97",
+"url": "http://www.cityoforting.org/",
+"name": "Orting",
+"state": "WA",
+"status": 403,
+"final": "http://www.cityoforting.org/",
+"error": null,
+"title": "Access Denied",
+"name_hits": [
+"orting"
+],
+"name_toks": [
+"orting"
+],
+"state_hit": false,
+"parked": false,
+"words": 17,
+"links": []
+},
+{
+"id": "WA-97#alt",
+"url": "https://www.cityoforting.org/",
+"name": "Orting",
+"state": "WA",
+"status": 403,
+"final": "https://www.cityoforting.org/",
+"error": null,
+"title": "Access Denied",
+"name_hits": [
+"orting"
+],
+"name_toks": [
+"orting"
+],
+"state_hit": false,
+"parked": false,
+"words": 17,
+"links": []
+},
+{
+"id": "WA-103",
+"url": "https://cityofpt.us/",
+"name": "Port Townsend",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "WA-103#alt",
+"url": "http://cityofpt.us/",
+"name": "Port Townsend",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "WA-127",
+"url": "https://www.ci.tenino.wa.us/",
+"name": "Tenino",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectTimeout: HTTPSConnectionPool(host='www.ci.tenino.wa.us', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection("
+},
+{
+"id": "WA-127#alt",
+"url": "http://www.ci.tenino.wa.us/",
+"name": "Tenino",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectTimeout: HTTPConnectionPool(host='www.ci.tenino.wa.us', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(hos"
+},
+{
+"id": "WA-128",
+"url": "http://cityoftieton.com/",
+"name": "Tieton",
+"state": "WA",
+"status": 403,
+"final": "https://cityoftieton.com/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"tieton"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-128#alt",
+"url": "https://cityoftieton.com/",
+"name": "Tieton",
+"state": "WA",
+"status": 403,
+"final": "https://cityoftieton.com/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"tieton"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-129",
+"url": "https://www.tonasketcity.org/",
+"name": "Tonasket",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPSConnectionPool(host='www.tonasketcity.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection"
+},
+{
+"id": "WA-129#alt",
+"url": "http://www.tonasketcity.org/",
+"name": "Tonasket",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPConnectionPool(host='www.tonasketcity.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(ho"
+},
+{
+"id": "WA-130",
+"url": "https://www.toppenish.gov/",
+"name": "Toppenish",
+"state": "WA",
+"status": 403,
+"final": "https://www.toppenish.gov/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"toppenish"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-130#alt",
+"url": "http://www.toppenish.gov/",
+"name": "Toppenish",
+"state": "WA",
+"status": 403,
+"final": "https://www.toppenish.gov/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"toppenish"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-139",
+"url": "https://www.watervillewa.com/",
+"name": "Waterville",
+"state": "WA",
+"status": 403,
+"final": "https://www.watervillewa.com/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"waterville"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-139#alt",
+"url": "http://www.watervillewa.com/",
+"name": "Waterville",
+"state": "WA",
+"status": 403,
+"final": "http://www.watervillewa.com/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"waterville"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-144",
+"url": "https://www.ci.woodinville.wa.us/",
+"name": "Woodinville",
+"state": "WA",
+"status": 403,
+"final": "http://www.woodinville.gov/",
+"error": null,
+"title": "Attention Required! | Cloudflare",
+"name_hits": [],
+"name_toks": [
+"woodinville"
+],
+"state_hit": false,
+"parked": false,
+"words": 127,
+"links": []
+},
+{
+"id": "WA-144#alt",
+"url": "http://www.ci.woodinville.wa.us/",
+"name": "Woodinville",
+"state": "WA",
+"status": 403,
+"final": "http://www.woodinville.gov/",
+"error": null,
+"title": "Attention Required! | Cloudflare",
+"name_hits": [],
+"name_toks": [
+"woodinville"
+],
+"state_hit": false,
+"parked": false,
+"words": 127,
+"links": []
+},
+{
+"id": "WA-145",
+"url": "https://www.ci.woodland.wa.us/",
+"name": "Woodland",
+"state": "WA",
+"status": 403,
+"final": "https://www.ci.woodland.wa.us/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"woodland"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-145#alt",
+"url": "http://www.ci.woodland.wa.us/",
+"name": "Woodland",
+"state": "WA",
+"status": 403,
+"final": "http://www.ci.woodland.wa.us/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"woodland"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "WA-147",
+"url": "https://www.townofyacolt.com/",
+"name": "Yacolt",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "WA-147#alt",
+"url": "http://www.townofyacolt.com/",
+"name": "Yacolt",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "WA-243",
+"url": "https://ridgefieldport.com/",
+"name": "Port of Ridgefield",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPSConnectionPool(host='ridgefieldport.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(h"
+},
+{
+"id": "WA-243#alt",
+"url": "http://ridgefieldport.com/",
+"name": "Port of Ridgefield",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPConnectionPool(host='ridgefieldport.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host"
+},
+{
+"id": "ID-488",
+"url": "https://qwestoffice.net",
+"name": "Portneuf District",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPSConnectionPool(host='qwestoffice.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host"
+},
+{
+"id": "ID-488#alt",
+"url": "http://qwestoffice.net",
+"name": "Portneuf District",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPConnectionPool(host='qwestoffice.net', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='q"
+},
+{
+"id": "ID-490",
+"url": "https://prairieriver.lili.org",
+"name": "Prairie River District",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='prairieriver.lili.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1"
+},
+{
+"id": "ID-490#alt",
+"url": "http://prairieriver.lili.org",
+"name": "Prairie River District",
+"state": "ID",
+"status": 403,
+"final": "http://prairieriver.lili.org/",
+"error": null,
+"title": "",
+"name_hits": [],
+"name_toks": [
+"prairie",
+"river"
+],
+"state_hit": false,
+"parked": false,
+"words": 0,
+"links": []
+},
+{
+"id": "ID-497",
+"url": "https://tetons.lili.org",
+"name": "Valley of the Tetons District",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='tetons.lili.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SS"
+},
+{
+"id": "ID-497#alt",
+"url": "http://tetons.lili.org",
+"name": "Valley of the Tetons District",
+"state": "ID",
+"status": 403,
+"final": "http://tetons.lili.org/",
+"error": null,
+"title": "",
+"name_hits": [],
+"name_toks": [
+"valley",
+"tetons"
+],
+"state_hit": false,
+"parked": false,
+"words": 0,
+"links": []
+},
+{
+"id": "ID-498",
+"url": "https://middleton.lili.org",
+"name": "Middleton Public",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='middleton.lili.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \""
+},
+{
+"id": "ID-498#alt",
+"url": "http://middleton.lili.org",
+"name": "Middleton Public",
+"state": "ID",
+"status": 403,
+"final": "http://middleton.lili.org/",
+"error": null,
+"title": "",
+"name_hits": [],
+"name_toks": [
+"middleton"
+],
+"state_hit": false,
+"parked": false,
+"words": 0,
+"links": []
+},
+{
+"id": "ID-500",
+"url": "https://emmett.lili.org",
+"name": "Emmett Public",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='emmett.lili.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SS"
+},
+{
+"id": "ID-500#alt",
+"url": "http://emmett.lili.org",
+"name": "Emmett Public",
+"state": "ID",
+"status": 403,
+"final": "http://emmett.lili.org/",
+"error": null,
+"title": "",
+"name_hits": [],
+"name_toks": [
+"emmett"
+],
+"state_hit": false,
+"parked": false,
+"words": 0,
+"links": []
+},
+{
+"id": "ID-501",
+"url": "https://salmon.lili.org",
+"name": "Lemhi County District",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='salmon.lili.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SS"
+},
+{
+"id": "ID-501#alt",
+"url": "http://salmon.lili.org",
+"name": "Lemhi County District",
+"state": "ID",
+"status": 403,
+"final": "http://salmon.lili.org/",
+"error": null,
+"title": "",
+"name_hits": [],
+"name_toks": [
+"lemhi"
+],
+"state_hit": false,
+"parked": false,
+"words": 0,
+"links": []
+},
+{
+"id": "ID-504",
+"url": "https://southbannocklibrary.org",
+"name": "South Bannock District",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='southbannocklibrary.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1"
+},
+{
+"id": "ID-504#alt",
+"url": "http://southbannocklibrary.org",
+"name": "South Bannock District",
+"state": "ID",
+"status": 200,
+"final": "https://www.southbannocklibrary.org/",
+"error": null,
+"title": "South Bannock Stage \u2013 Welcome to South Bannock Library District Website",
+"name_hits": [
+"south",
+"bannock"
+],
+"name_toks": [
+"south",
+"bannock"
+],
+"state_hit": true,
+"parked": false,
+"words": 761,
+"links": [
+[
+"https://www.southbannocklibrary.org/library-board-meeting-agenda/",
+"Library Board Information and Meeting Agenda"
+],
+[
+"https://www.southbannocklibrary.org/library-board-meeting-agenda/",
+"Library Board Information and Meeting Agenda"
+],
+[
+"https://libraries.idaho.gov/",
+"Idaho Commission for Libraries"
+]
+]
+},
+{
+"id": "ID-515",
+"url": "https://stmariesidaho.com/library",
+"name": "St Maries Public",
+"state": "ID",
+"status": 403,
+"final": "https://sallyallenorganizer.com/",
+"error": null,
+"title": "Suspected Phishing | Cloudflare",
+"name_hits": [],
+"name_toks": [
+"maries"
+],
+"state_hit": false,
+"parked": false,
+"words": 57,
+"links": []
+},
+{
+"id": "ID-515#alt",
+"url": "http://stmariesidaho.com/library",
+"name": "St Maries Public",
+"state": "ID",
+"status": 403,
+"final": "https://sallyallenorganizer.com/",
+"error": null,
+"title": "Suspected Phishing | Cloudflare",
+"name_hits": [],
+"name_toks": [
+"maries"
+],
+"state_hit": false,
+"parked": false,
+"words": 57,
+"links": []
+},
+{
+"id": "ID-517",
+"url": "https://maladidaho.org/library",
+"name": "Oneida County District",
+"state": "ID",
+"status": 404,
+"final": "https://www.maladidaho.org/library",
+"error": null,
+"title": "Page not found \u2013 Malad City, ID",
+"name_hits": [],
+"name_toks": [
+"oneida"
+],
+"state_hit": true,
+"parked": false,
+"words": 326,
+"links": [
+[
+"https://www.maladidaho.org/city-government/",
+"City Government"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"Council Calendar"
+],
+[
+"https://www.maladidaho.org/minutes-agendas-2/",
+"Minutes & Agendas"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"City Government"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"Council Calendar"
+],
+[
+"https://www.maladidaho.org/minutes-agendas-2/",
+"Minutes & Agendas"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"Government"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"City Government"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"Council Calendar"
+],
+[
+"https://maladidaho.org/city-council-calendar/",
+"Calendars"
+],
+[
+"https://maladidaho.org/events/",
+"Events Calendar"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"City Council Calendar"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"Government"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"City Government"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"Council Calendar"
+],
+[
+"https://maladidaho.org/city-council-calendar/",
+"Calendars"
+],
+[
+"https://maladidaho.org/events/",
+"Events Calendar"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"City Council Calendar"
+],
+[
+"https://maladidaho.org/city-council-calendar/",
+"Calendars"
+],
+[
+"https://maladidaho.org/events/",
+"Events Calendar"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"City Council Calendar"
+],
+[
+"https://maladidaho.org/city-council-calendar/",
+"Calendars"
+],
+[
+"https://maladidaho.org/events/",
+"Events Calendar"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"City Council Calendar"
+],
+[
+"https://maladidaho.org/events/",
+"Event Calendar"
+],
+[
+"https://maladidaho.org/events/",
+"Event Calendar"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"City Council Calendar"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"City Government"
+],
+[
+"https://www.maladidaho.org/minutes-agendas-2/",
+"Minutes & Agendas"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"City Council Calendar"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"City Government"
+],
+[
+"https://www.maladidaho.org/minutes-agendas-2/",
+"Minutes & Agendas"
+]
+]
+},
+{
+"id": "ID-517#alt",
+"url": "http://maladidaho.org/library",
+"name": "Oneida County District",
+"state": "ID",
+"status": 404,
+"final": "https://www.maladidaho.org/library",
+"error": null,
+"title": "Page not found \u2013 Malad City, ID",
+"name_hits": [],
+"name_toks": [
+"oneida"
+],
+"state_hit": true,
+"parked": false,
+"words": 326,
+"links": [
+[
+"https://www.maladidaho.org/city-government/",
+"City Government"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"Council Calendar"
+],
+[
+"https://www.maladidaho.org/minutes-agendas-2/",
+"Minutes & Agendas"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"City Government"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"Council Calendar"
+],
+[
+"https://www.maladidaho.org/minutes-agendas-2/",
+"Minutes & Agendas"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"Government"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"City Government"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"Council Calendar"
+],
+[
+"https://maladidaho.org/city-council-calendar/",
+"Calendars"
+],
+[
+"https://maladidaho.org/events/",
+"Events Calendar"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"City Council Calendar"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"Government"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"City Government"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"Council Calendar"
+],
+[
+"https://maladidaho.org/city-council-calendar/",
+"Calendars"
+],
+[
+"https://maladidaho.org/events/",
+"Events Calendar"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"City Council Calendar"
+],
+[
+"https://maladidaho.org/city-council-calendar/",
+"Calendars"
+],
+[
+"https://maladidaho.org/events/",
+"Events Calendar"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"City Council Calendar"
+],
+[
+"https://maladidaho.org/city-council-calendar/",
+"Calendars"
+],
+[
+"https://maladidaho.org/events/",
+"Events Calendar"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"City Council Calendar"
+],
+[
+"https://maladidaho.org/events/",
+"Event Calendar"
+],
+[
+"https://maladidaho.org/events/",
+"Event Calendar"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"City Council Calendar"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"City Government"
+],
+[
+"https://www.maladidaho.org/minutes-agendas-2/",
+"Minutes & Agendas"
+],
+[
+"https://www.maladidaho.org/city-council-calendar/",
+"City Council Calendar"
+],
+[
+"https://www.maladidaho.org/city-government/",
+"City Government"
+],
+[
+"https://www.maladidaho.org/minutes-agendas-2/",
+"Minutes & Agendas"
+]
+]
+},
+{
+"id": "ID-520",
+"url": "https://shoshone.lili.org",
+"name": "Shoshone Public",
+"state": "ID",
+"status": 410,
+"final": "https://shoshone.lili.org/",
+"error": null,
+"title": "WordPress \u203a Error",
+"name_hits": [],
+"name_toks": [
+"shoshone"
+],
+"state_hit": false,
+"parked": false,
+"words": 10,
+"links": []
+},
+{
+"id": "ID-520#alt",
+"url": "http://shoshone.lili.org",
+"name": "Shoshone Public",
+"state": "ID",
+"status": 410,
+"final": "https://shoshone.lili.org/",
+"error": null,
+"title": "WordPress \u203a Error",
+"name_hits": [],
+"name_toks": [
+"shoshone"
+],
+"state_hit": false,
+"parked": false,
+"words": 10,
+"links": []
+},
+{
+"id": "ID-525",
+"url": "https://cityofhomedale.com/community/public_library.htm",
+"name": "Homedale Public",
+"state": "ID",
+"status": 404,
+"final": "https://cityofhomedale.com/community/public_library.htm",
+"error": null,
+"title": "404 Not Found",
+"name_hits": [],
+"name_toks": [
+"homedale"
+],
+"state_hit": false,
+"parked": false,
+"words": 32,
+"links": []
+},
+{
+"id": "ID-525#alt",
+"url": "http://cityofhomedale.com/community/public_library.htm",
+"name": "Homedale Public",
+"state": "ID",
+"status": 404,
+"final": "http://cityofhomedale.com/community/public_library.htm",
+"error": null,
+"title": "404 Not Found",
+"name_hits": [],
+"name_toks": [
+"homedale"
+],
+"state_hit": false,
+"parked": false,
+"words": 32,
+"links": []
+},
+{
+"id": "ID-532",
+"url": "https://hsb-idaho.com",
+"name": "Horseshoe Bend District",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPSConnectionPool(host='hsb-idaho.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='"
+},
+{
+"id": "ID-532#alt",
+"url": "http://hsb-idaho.com",
+"name": "Horseshoe Bend District",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPConnectionPool(host='hsb-idaho.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='hsb"
+},
+{
+"id": "ID-540",
+"url": "https://hagerman.lili.org",
+"name": "Hagerman Public",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='hagerman.lili.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"["
+},
+{
+"id": "ID-540#alt",
+"url": "http://hagerman.lili.org",
+"name": "Hagerman Public",
+"state": "ID",
+"status": 403,
+"final": "http://hagerman.lili.org/",
+"error": null,
+"title": "",
+"name_hits": [],
+"name_toks": [
+"hagerman"
+],
+"state_hit": false,
+"parked": false,
+"words": 0,
+"links": []
+},
+{
+"id": "ID-546",
+"url": "https://ririelibrary.com",
+"name": "Ririe Public",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPSConnectionPool(host='ririelibrary.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(hos"
+},
+{
+"id": "ID-546#alt",
+"url": "http://ririelibrary.com",
+"name": "Ririe Public",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPConnectionPool(host='ririelibrary.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='"
+},
+{
+"id": "ID-554",
+"url": "https://rigginsidaho.org/library.html",
+"name": "Salmon River Public",
+"state": "ID",
+"status": 403,
+"final": "https://rigginsidaho.org/library.html",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"salmon",
+"river"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "ID-554#alt",
+"url": "http://rigginsidaho.org/library.html",
+"name": "Salmon River Public",
+"state": "ID",
+"status": 403,
+"final": "http://rigginsidaho.org/library.html",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"salmon",
+"river"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "OR-629",
+"url": "https://www.cityofamityoregon.org/library",
+"name": "Amity Public Library",
+"state": "OR",
+"status": 404,
+"final": "https://www.cityofamityoregon.org/library",
+"error": null,
+"title": "Page not found \u2013 OR-City of Amity",
+"name_hits": [
+"amity"
+],
+"name_toks": [
+"amity"
+],
+"state_hit": true,
+"parked": false,
+"words": 200,
+"links": [
+[
+"https://www.amityoregon.gov/government/",
+"Government"
+],
+[
+"https://www.amityoregon.gov/government/mayor-council/",
+"Mayor & Council"
+],
+[
+"https://www.amityoregon.gov/government/agendas-minutes/",
+"Agendas & Minutes"
+],
+[
+"https://www.amityoregon.gov/government/committees/",
+"Committees"
+],
+[
+"https://www.amityoregon.gov/government/",
+"Government"
+],
+[
+"https://www.amityoregon.gov/government/mayor-council/",
+"Mayor & Council"
+],
+[
+"https://www.amityoregon.gov/government/agendas-minutes/",
+"Agendas & Minutes"
+],
+[
+"https://www.amityoregon.gov/government/committees/",
+"Committees"
+]
+]
+},
+{
+"id": "OR-629#alt",
+"url": "http://www.cityofamityoregon.org/library",
+"name": "Amity Public Library",
+"state": "OR",
+"status": 404,
+"final": "https://www.cityofamityoregon.org/library",
+"error": null,
+"title": "Page not found \u2013 OR-City of Amity",
+"name_hits": [
+"amity"
+],
+"name_toks": [
+"amity"
+],
+"state_hit": true,
+"parked": false,
+"words": 200,
+"links": [
+[
+"https://www.amityoregon.gov/government/",
+"Government"
+],
+[
+"https://www.amityoregon.gov/government/mayor-council/",
+"Mayor & Council"
+],
+[
+"https://www.amityoregon.gov/government/agendas-minutes/",
+"Agendas & Minutes"
+],
+[
+"https://www.amityoregon.gov/government/committees/",
+"Committees"
+],
+[
+"https://www.amityoregon.gov/government/",
+"Government"
+],
+[
+"https://www.amityoregon.gov/government/mayor-council/",
+"Mayor & Council"
+],
+[
+"https://www.amityoregon.gov/government/agendas-minutes/",
+"Agendas & Minutes"
+],
+[
+"https://www.amityoregon.gov/government/committees/",
+"Committees"
+]
+]
+},
+{
+"id": "OR-636",
+"url": "http://www.canbylibrary.org",
+"name": "Canby Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "OR-636#alt",
+"url": "https://www.canbylibrary.org",
+"name": "Canby Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "OR-643",
+"url": "https://www.cityofcoquille.org/coquille_public_library/index.php",
+"name": "Coquille Public Library",
+"state": "OR",
+"status": 404,
+"final": "https://www.cityofcoquille.org/coquille_public_library/index.php",
+"error": null,
+"title": "Custom404 \u2022 Coquille, OR \u2022 CivicEngage",
+"name_hits": [
+"coquille"
+],
+"name_toks": [
+"coquille"
+],
+"state_hit": true,
+"parked": false,
+"words": 144,
+"links": [
+[
+"https://www.cityofcoquille.org/27/Government",
+"Government"
+],
+[
+"https://www.cityofcoquille.org/AgendaCenter",
+"Minutes & Agendas"
+]
+]
+},
+{
+"id": "OR-643#alt",
+"url": "http://www.cityofcoquille.org/coquille_public_library/index.php",
+"name": "Coquille Public Library",
+"state": "OR",
+"status": 404,
+"final": "https://www.cityofcoquille.org/coquille_public_library/index.php",
+"error": null,
+"title": "Custom404 \u2022 Coquille, OR \u2022 CivicEngage",
+"name_hits": [
+"coquille"
+],
+"name_toks": [
+"coquille"
+],
+"state_hit": true,
+"parked": false,
+"words": 144,
+"links": [
+[
+"https://www.cityofcoquille.org/27/Government",
+"Government"
+],
+[
+"https://www.cityofcoquille.org/AgendaCenter",
+"Minutes & Agendas"
+]
+]
+},
+{
+"id": "OR-647",
+"url": "https://www.dallasor.gov/library",
+"name": "Dallas Public Library",
+"state": "OR",
+"status": 404,
+"final": "https://www.dallasor.gov/library",
+"error": null,
+"title": "Custom404 \u2022 Dallas, OR \u2022 CivicEngage",
+"name_hits": [
+"dallas"
+],
+"name_toks": [
+"dallas"
+],
+"state_hit": true,
+"parked": false,
+"words": 112,
+"links": [
+[
+"https://www.dallasor.gov/164/Government",
+"Government"
+]
+]
+},
+{
+"id": "OR-647#alt",
+"url": "http://www.dallasor.gov/library",
+"name": "Dallas Public Library",
+"state": "OR",
+"status": 404,
+"final": "https://www.dallasor.gov/library",
+"error": null,
+"title": "Custom404 \u2022 Dallas, OR \u2022 CivicEngage",
+"name_hits": [
+"dallas"
+],
+"name_toks": [
+"dallas"
+],
+"state_hit": true,
+"parked": false,
+"words": 112,
+"links": [
+[
+"https://www.dallasor.gov/164/Government",
+"Government"
+]
+]
+},
+{
+"id": "OR-655",
+"url": "http://www.eugene-or.gov/library",
+"name": "Eugene Public Library",
+"state": "OR",
+"status": 403,
+"final": "http://www.eugene-or.gov/library",
+"error": null,
+"title": "Attention Required! | Cloudflare",
+"name_hits": [],
+"name_toks": [
+"eugene"
+],
+"state_hit": false,
+"parked": false,
+"words": 127,
+"links": []
+},
+{
+"id": "OR-655#alt",
+"url": "https://www.eugene-or.gov/library",
+"name": "Eugene Public Library",
+"state": "OR",
+"status": 403,
+"final": "https://www.eugene-or.gov/library",
+"error": null,
+"title": "Attention Required! | Cloudflare",
+"name_hits": [],
+"name_toks": [
+"eugene"
+],
+"state_hit": false,
+"parked": false,
+"words": 127,
+"links": []
+},
+{
+"id": "OR-657",
+"url": "https://www.ci.myrtlepoint.or.us/general/page/flora-m-laird-memorial-library",
+"name": "Flora M. Laird Memorial Library",
+"state": "OR",
+"status": 404,
+"final": "https://www.ci.myrtlepoint.or.us/general/page/flora-m-laird-memorial-library",
+"error": null
+},
+{
+"id": "OR-657#alt",
+"url": "http://www.ci.myrtlepoint.or.us/general/page/flora-m-laird-memorial-library",
+"name": "Flora M. Laird Memorial Library",
+"state": "OR",
+"status": 404,
+"final": "https://www.ci.myrtlepoint.or.us/general/page/flora-m-laird-memorial-library",
+"error": null
+},
+{
+"id": "OR-662",
+"url": "http://gladstonepubliclibrary.org/",
+"name": "Gladstone Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPConnectionPool(host='gladstonepubliclibrary.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnect"
+},
+{
+"id": "OR-662#alt",
+"url": "https://gladstonepubliclibrary.org/",
+"name": "Gladstone Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPSConnectionPool(host='gladstonepubliclibrary.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConn"
+},
+{
+"id": "OR-666",
+"url": "http://www.ci.harrisburg.or.us/library",
+"name": "Harrisburg Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "OR-666#alt",
+"url": "https://www.ci.harrisburg.or.us/library",
+"name": "Harrisburg Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "OR-668",
+"url": "http://www.hermistonlibrary.us",
+"name": "Hermiston Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "OR-668#alt",
+"url": "https://www.hermistonlibrary.us",
+"name": "Hermiston Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "OR-669",
+"url": "https://www.hillsboro-oregon.gov/our-city/departments/library",
+"name": "Hillsboro Public Library",
+"state": "OR",
+"status": 403,
+"final": "https://www.hillsboro-oregon.gov/our-city/departments/library",
+"error": null,
+"title": "Access Denied",
+"name_hits": [
+"hillsboro"
+],
+"name_toks": [
+"hillsboro"
+],
+"state_hit": false,
+"parked": false,
+"words": 17,
+"links": []
+},
+{
+"id": "OR-669#alt",
+"url": "http://www.hillsboro-oregon.gov/our-city/departments/library",
+"name": "Hillsboro Public Library",
+"state": "OR",
+"status": 403,
+"final": "http://www.hillsboro-oregon.gov/our-city/departments/library",
+"error": null,
+"title": "Access Denied",
+"name_hits": [
+"hillsboro"
+],
+"name_toks": [
+"hillsboro"
+],
+"state_hit": false,
+"parked": false,
+"words": 17,
+"links": []
+},
+{
+"id": "OR-685",
+"url": "https://ci.lowell.or.us/library",
+"name": "Maggie Osgood Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "OR-685#alt",
+"url": "http://ci.lowell.or.us/library",
+"name": "Maggie Osgood Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "OR-687",
+"url": "https://www.mcminnvilleoregon.gov/library",
+"name": "McMinnville Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "OR-687#alt",
+"url": "http://www.mcminnvilleoregon.gov/library",
+"name": "McMinnville Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "OR-688",
+"url": "http://www.mfcity.com/library",
+"name": "Milton-Freewater Public Library",
+"state": "OR",
+"status": 520,
+"final": "http://www.mfcity.com/library",
+"error": null,
+"title": "mfcity.com | 520: Web server is returning an unknown error",
+"name_hits": [],
+"name_toks": [
+"milton",
+"freewater"
+],
+"state_hit": false,
+"parked": false,
+"words": 168,
+"links": []
+},
+{
+"id": "OR-688#alt",
+"url": "https://www.mfcity.com/library",
+"name": "Milton-Freewater Public Library",
+"state": "OR",
+"status": 520,
+"final": "https://www.mfcity.com/library",
+"error": null,
+"title": "mfcity.com | 520: Web server is returning an unknown error",
+"name_hits": [],
+"name_toks": [
+"milton",
+"freewater"
+],
+"state_hit": false,
+"parked": false,
+"words": 168,
+"links": []
+},
+{
+"id": "OR-691",
+"url": "https://mtangelpubliclibrary.com/",
+"name": "Mt. Angel Public Library",
+"state": "OR",
+"status": 200,
+"final": "https://mtangelpubliclibrary.com/",
+"error": null,
+"title": "Mt. Angel Public Library \u2013 Empowering our community to learn, explore, create and connect",
+"name_hits": [
+"angel"
+],
+"name_toks": [
+"angel"
+],
+"state_hit": true,
+"parked": false,
+"words": 417,
+"links": [
+[
+"https://mtangelpubliclibrary.com/wp-content/uploads/2026/11/November2026.pdf",
+"Printable Calendar"
+],
+[
+"https://mtangelpubliclibrary.com/wp-content/uploads/2026/11/Noviembre2026.pdf",
+"Calendario Espa\u00f1ol"
+],
+[
+"https://mtangelpubliclibrary.com/volunteer/library-advisory-board/",
+"Library Advisory Board"
+],
+[
+"https://mtangelpubliclibrary.com/events/",
+"View Calendar"
+]
+]
+},
+{
+"id": "OR-691#alt",
+"url": "http://mtangelpubliclibrary.com/",
+"name": "Mt. Angel Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ReadTimeout: HTTPSConnectionPool(host='mtangelpubliclibrary.com', port=443): Read timed out. (read timeout=45)"
+},
+{
+"id": "OR-696",
+"url": "https://www.northplains.org/library",
+"name": "North Plains Public Library",
+"state": "OR",
+"status": 404,
+"final": "https://northplains.org/library",
+"error": null,
+"title": "northplains.org",
+"name_hits": [
+"north",
+"plains"
+],
+"name_toks": [
+"north",
+"plains"
+],
+"state_hit": false,
+"parked": false,
+"words": 69,
+"links": []
+},
+{
+"id": "OR-696#alt",
+"url": "http://www.northplains.org/library",
+"name": "North Plains Public Library",
+"state": "OR",
+"status": 404,
+"final": "https://northplains.org/library",
+"error": null,
+"title": "northplains.org",
+"name_hits": [
+"north",
+"plains"
+],
+"name_toks": [
+"north",
+"plains"
+],
+"state_hit": false,
+"parked": false,
+"words": 69,
+"links": []
+},
+{
+"id": "OR-698",
+"url": "http://www.nyssacity.org/nyssa-library.html",
+"name": "Nyssa Public Library",
+"state": "OR",
+"status": 404,
+"final": "http://nyssacity.org/nyssa-library.html",
+"error": null,
+"title": "Page not found \u2013 City of Nyssa, OR",
+"name_hits": [
+"nyssa"
+],
+"name_toks": [
+"nyssa"
+],
+"state_hit": true,
+"parked": false,
+"words": 104,
+"links": [
+[
+"https://nyssacity.org/index.php/council-minutes-budget/",
+"Council Minutes/Budget"
+],
+[
+"https://nyssacity.org/wp-content/uploads/2026/11/20261105meetingmin.pdf",
+"Minutes"
+],
+[
+"https://nyssacity.org/index.php/council-minutes-budget/",
+"Council Minutes/Budget"
+],
+[
+"https://nyssacity.org/wp-content/uploads/2026/11/20261105meetingmin.pdf",
+"Minutes"
+]
+]
+},
+{
+"id": "OR-698#alt",
+"url": "https://www.nyssacity.org/nyssa-library.html",
+"name": "Nyssa Public Library",
+"state": "OR",
+"status": 404,
+"final": "https://nyssacity.org/nyssa-library.html",
+"error": null,
+"title": "Page not found \u2013 City of Nyssa, OR",
+"name_hits": [
+"nyssa"
+],
+"name_toks": [
+"nyssa"
+],
+"state_hit": true,
+"parked": false,
+"words": 104,
+"links": [
+[
+"https://nyssacity.org/index.php/council-minutes-budget/",
+"Council Minutes/Budget"
+],
+[
+"https://nyssacity.org/wp-content/uploads/2026/11/20261105meetingmin.pdf",
+"Minutes"
+],
+[
+"https://nyssacity.org/index.php/council-minutes-budget/",
+"Council Minutes/Budget"
+],
+[
+"https://nyssacity.org/wp-content/uploads/2026/11/20261105meetingmin.pdf",
+"Minutes"
+]
+]
+},
+{
+"id": "OR-700",
+"url": "http://www.ci.oakridge.or.us/",
+"name": "Oakridge Public Library",
+"state": "OR",
+"status": 403,
+"final": "http://www.ci.oakridge.or.us/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"oakridge"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "OR-700#alt",
+"url": "https://www.ci.oakridge.or.us/",
+"name": "Oakridge Public Library",
+"state": "OR",
+"status": 403,
+"final": "https://www.ci.oakridge.or.us/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"oakridge"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "OR-703",
+"url": "https://pendleton.or.us/library",
+"name": "Pendleton Public Library",
+"state": "OR",
+"status": 403,
+"final": "https://pendleton.or.us/library",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"pendleton"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "OR-703#alt",
+"url": "http://pendleton.or.us/library",
+"name": "Pendleton Public Library",
+"state": "OR",
+"status": 403,
+"final": "https://pendleton.or.us/library",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"pendleton"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "OR-704",
+"url": "http://www.pilotrockpubliclibrary.weebly.com",
+"name": "Pilot Rock Public Library",
+"state": "OR",
+"status": 404,
+"final": "http://pilotrockpubliclibrary.weebly.com/",
+"error": null,
+"title": "404 - Page Not Found",
+"name_hits": [],
+"name_toks": [
+"pilot",
+"rock"
+],
+"state_hit": false,
+"parked": false,
+"words": 24,
+"links": []
+},
+{
+"id": "OR-704#alt",
+"url": "https://www.pilotrockpubliclibrary.weebly.com",
+"name": "Pilot Rock Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='www.pilotrockpubliclibrary.weebly.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1"
+},
+{
+"id": "OR-708",
+"url": "http://www.salemlibrary.org",
+"name": "Salem Public Library",
+"state": "OR",
+"status": 403,
+"final": "https://www.cityofsalem.net/community/library",
+"error": null,
+"title": "Access Denied",
+"name_hits": [
+"salem"
+],
+"name_toks": [
+"salem"
+],
+"state_hit": false,
+"parked": false,
+"words": 17,
+"links": []
+},
+{
+"id": "OR-708#alt",
+"url": "https://www.salemlibrary.org",
+"name": "Salem Public Library",
+"state": "OR",
+"status": 403,
+"final": "https://www.cityofsalem.net/community/library",
+"error": null,
+"title": "Access Denied",
+"name_hits": [
+"salem"
+],
+"name_toks": [
+"salem"
+],
+"state_hit": false,
+"parked": false,
+"words": 17,
+"links": []
+},
+{
+"id": "OR-709",
+"url": "http://www.ci.sandy.or.us/library",
+"name": "Sandy Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "OR-709#alt",
+"url": "https://www.ci.sandy.or.us/library",
+"name": "Sandy Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "OR-711",
+"url": "http://ci.scio.or.us/library.htm",
+"name": "Scio Public Library",
+"state": "OR",
+"status": 404,
+"final": "http://ci.scio.or.us/library.htm",
+"error": null,
+"title": "File Not Found",
+"name_hits": [],
+"name_toks": [
+"scio"
+],
+"state_hit": false,
+"parked": false,
+"words": 24,
+"links": []
+},
+{
+"id": "OR-711#alt",
+"url": "https://ci.scio.or.us/library.htm",
+"name": "Scio Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='ci.scio.or.us', port=443): Max retries exceeded with url: /library.htm (Caused by SSLError(SSLCertVerificationErro"
+},
+{
+"id": "OR-723",
+"url": "http://www.tigard-or.gov/library",
+"name": "Tigard Public Library",
+"state": "OR",
+"status": 403,
+"final": "http://www.tigard-or.gov/library",
+"error": null,
+"title": "Access Denied",
+"name_hits": [
+"tigard"
+],
+"name_toks": [
+"tigard"
+],
+"state_hit": false,
+"parked": false,
+"words": 17,
+"links": []
+},
+{
+"id": "OR-723#alt",
+"url": "https://www.tigard-or.gov/library",
+"name": "Tigard Public Library",
+"state": "OR",
+"status": 403,
+"final": "https://www.tigard-or.gov/library",
+"error": null,
+"title": "Access Denied",
+"name_hits": [
+"tigard"
+],
+"name_toks": [
+"tigard"
+],
+"state_hit": false,
+"parked": false,
+"words": 17,
+"links": []
+},
+{
+"id": "OR-724",
+"url": "http://tillabook.org/",
+"name": "Tillamook County Library",
+"state": "OR",
+"status": 200,
+"final": "https://www.tillabook.org/",
+"error": null,
+"title": "Tillamook County Library - Home Page | Tillamook County Libraries",
+"name_hits": [
+"tillamook"
+],
+"name_toks": [
+"tillamook"
+],
+"state_hit": true,
+"parked": false,
+"words": 239,
+"links": [
+[
+"https://tillabook.libcal.com/calendar/Events",
+"Events"
+]
+]
+},
+{
+"id": "OR-724#alt",
+"url": "https://tillabook.org/",
+"name": "Tillamook County Library",
+"state": "OR",
+"status": 200,
+"final": "https://www.tillabook.org/",
+"error": null,
+"title": "Tillamook County Library - Home Page | Tillamook County Libraries",
+"name_hits": [
+"tillamook"
+],
+"name_toks": [
+"tillamook"
+],
+"state_hit": true,
+"parked": false,
+"words": 239,
+"links": [
+[
+"https://tillabook.libcal.com/calendar/Events",
+"Events"
+]
+]
+},
+{
+"id": "OR-725",
+"url": "http://www.cityoftoledo.org/library/",
+"name": "Toledo Public Library",
+"state": "OR",
+"status": 404,
+"final": "https://www.cityoftoledo.org/library/",
+"error": null,
+"title": "Custom404 \u2022 Toledo, OR \u2022 CivicEngage",
+"name_hits": [
+"toledo"
+],
+"name_toks": [
+"toledo"
+],
+"state_hit": true,
+"parked": false,
+"words": 116,
+"links": [
+[
+"https://www.cityoftoledo.org/1192/Local-Government",
+"Local Government"
+],
+[
+"https://toledoor.portal.civicclerk.com/",
+"Agendas & Minutes"
+],
+[
+"https://www.cityoftoledo.org/calendar",
+"Calendar"
+]
+]
+},
+{
+"id": "OR-725#alt",
+"url": "https://www.cityoftoledo.org/library/",
+"name": "Toledo Public Library",
+"state": "OR",
+"status": 404,
+"final": "https://www.cityoftoledo.org/library/",
+"error": null,
+"title": "Custom404 \u2022 Toledo, OR \u2022 CivicEngage",
+"name_hits": [
+"toledo"
+],
+"name_toks": [
+"toledo"
+],
+"state_hit": true,
+"parked": false,
+"words": 116,
+"links": [
+[
+"https://www.cityoftoledo.org/1192/Local-Government",
+"Local Government"
+],
+[
+"https://toledoor.portal.civicclerk.com/",
+"Agendas & Minutes"
+],
+[
+"https://www.cityoftoledo.org/calendar",
+"Calendar"
+]
+]
+},
+{
+"id": "OR-728",
+"url": "https://cityofunion.com/directory/city-library/",
+"name": "Union Carnegie Public Library",
+"state": "OR",
+"status": 404,
+"final": "https://www.cityofunionor.gov/directory/city-library/",
+"error": null,
+"title": "Facebook",
+"name_hits": [],
+"name_toks": [
+"carnegie"
+],
+"state_hit": true,
+"parked": false,
+"words": 119,
+"links": [
+[
+"https://www.cityofunionor.gov/agendas",
+"Agendas & Minutes"
+]
+]
+},
+{
+"id": "OR-728#alt",
+"url": "http://cityofunion.com/directory/city-library/",
+"name": "Union Carnegie Public Library",
+"state": "OR",
+"status": 404,
+"final": "https://www.cityofunionor.gov/directory/city-library/",
+"error": null,
+"title": "Facebook",
+"name_hits": [],
+"name_toks": [
+"carnegie"
+],
+"state_hit": true,
+"parked": false,
+"words": 119,
+"links": [
+[
+"https://www.cityofunionor.gov/agendas",
+"Agendas & Minutes"
+]
+]
+},
+{
+"id": "OR-730",
+"url": "http://www.waldportlibrary.org",
+"name": "Waldport Public Library",
+"state": "OR",
+"status": 429,
+"final": "https://waldportlibrary.org/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"waldport"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "OR-730#alt",
+"url": "https://www.waldportlibrary.org",
+"name": "Waldport Public Library",
+"state": "OR",
+"status": 429,
+"final": "https://waldportlibrary.org/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"waldport"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+},
+{
+"id": "OR-733",
+"url": "http://westlinnoregon.gov/library/",
+"name": "West Linn Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "OR-733#alt",
+"url": "https://westlinnoregon.gov/library/",
+"name": "West Linn Public Library",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "OR-738",
+"url": "https://www.woodburn-or.gov/library",
+"name": "Woodburn Public Library",
+"state": "OR",
+"status": 404,
+"final": "https://www.woodburn-or.gov/library",
+"error": null,
+"title": "Custom404 \u2022 Woodburn, OR \u2022 CivicEngage",
+"name_hits": [
+"woodburn"
+],
+"name_toks": [
+"woodburn"
+],
+"state_hit": true,
+"parked": false,
+"words": 127,
+"links": [
+[
+"https://www.woodburn-or.gov/193/Government",
+"Government"
+],
+[
+"https://www.woodburn-or.gov/agendacenter",
+"City Calendar, Agendas, & Minutes"
+]
+]
+},
+{
+"id": "OR-738#alt",
+"url": "http://www.woodburn-or.gov/library",
+"name": "Woodburn Public Library",
+"state": "OR",
+"status": 404,
+"final": "https://www.woodburn-or.gov/library",
+"error": null,
+"title": "Custom404 \u2022 Woodburn, OR \u2022 CivicEngage",
+"name_hits": [
+"woodburn"
+],
+"name_toks": [
+"woodburn"
+],
+"state_hit": true,
+"parked": false,
+"words": 127,
+"links": [
+[
+"https://www.woodburn-or.gov/193/Government",
+"Government"
+],
+[
+"https://www.woodburn-or.gov/agendacenter",
+"City Calendar, Agendas, & Minutes"
+]
+]
+},
+{
+"id": "OR-740",
+"url": "https://yoncalla-library.business.site",
+"name": "Yoncalla Public Library",
+"state": "OR",
+"status": 404,
+"final": "https://yoncalla-library.business.site/",
+"error": null,
+"title": "Error 404 (Not Found)!!1",
+"name_hits": [],
+"name_toks": [
+"yoncalla"
+],
+"state_hit": false,
+"parked": false,
+"words": 21,
+"links": []
+},
+{
+"id": "OR-740#alt",
+"url": "http://yoncalla-library.business.site",
+"name": "Yoncalla Public Library",
+"state": "OR",
+"status": 404,
+"final": "https://yoncalla-library.business.site/",
+"error": null,
+"title": "Error 404 (Not Found)!!1",
+"name_hits": [],
+"name_toks": [
+"yoncalla"
+],
+"state_hit": false,
+"parked": false,
+"words": 21,
+"links": []
+},
+{
+"id": "WA-152",
+"url": "http://www.aasd.wednet.edu/",
+"name": "Asotin-Anatone",
+"state": "WA",
+"status": 200,
+"final": "https://www.aasd.wednet.edu/",
+"error": null,
+"title": "Asotin-Anatone School District - Home",
+"name_hits": [
+"asotin",
+"anatone"
+],
+"name_toks": [
+"asotin",
+"anatone"
+],
+"state_hit": true,
+"parked": false,
+"words": 941,
+"links": [
+[
+"https://www.aasd.wednet.edu/46466_2",
+"School Board"
+],
+[
+"https://www.aasd.wednet.edu/197311_3",
+"Calendars"
+],
+[
+"https://www.aasd.wednet.edu/329455_2",
+"At-A-Glance Calendar 26-27"
+],
+[
+"https://www.aasd.wednet.edu/329469_2",
+"At-A-Glance Calendar 27-28"
+],
+[
+"https://www.aasd.wednet.edu/districtcalendar",
+"District Calendar"
+],
+[
+"https://www.aasd.wednet.edu/46438_2",
+"School Board"
+],
+[
+"https://aasd.wednet.edu/districtcalendar",
+""
+],
+[
+"https://calendar.google.com/calendar/embed?src=c_501fc66e1af55497728dbbaa839307bae0616b7bdca2cb5f182955ab433bef4b%40group.calendar.google.com&ctz=America%2FLos_Angeles",
+""
+],
+[
+"https://www.aasd.wednet.edu/page/page_calendar?calID=128319&accessibility=enabled",
+""
+],
+[
+"https://www.aasd.wednet.edu/page/page_calendar?calID=128319",
+"View Full Calendar"
+]
+]
+},
+{
+"id": "WA-152#alt",
+"url": "https://www.aasd.wednet.edu/",
+"name": "Asotin-Anatone",
+"state": "WA",
+"status": 200,
+"final": "https://www.aasd.wednet.edu/",
+"error": null,
+"title": "Asotin-Anatone School District - Home",
+"name_hits": [
+"asotin",
+"anatone"
+],
+"name_toks": [
+"asotin",
+"anatone"
+],
+"state_hit": true,
+"parked": false,
+"words": 941,
+"links": [
+[
+"https://www.aasd.wednet.edu/46466_2",
+"School Board"
+],
+[
+"https://www.aasd.wednet.edu/197311_3",
+"Calendars"
+],
+[
+"https://www.aasd.wednet.edu/329455_2",
+"At-A-Glance Calendar 26-27"
+],
+[
+"https://www.aasd.wednet.edu/329469_2",
+"At-A-Glance Calendar 27-28"
+],
+[
+"https://www.aasd.wednet.edu/districtcalendar",
+"District Calendar"
+],
+[
+"https://www.aasd.wednet.edu/46438_2",
+"School Board"
+],
+[
+"https://aasd.wednet.edu/districtcalendar",
+""
+],
+[
+"https://calendar.google.com/calendar/embed?src=c_501fc66e1af55497728dbbaa839307bae0616b7bdca2cb5f182955ab433bef4b%40group.calendar.google.com&ctz=America%2FLos_Angeles",
+""
+],
+[
+"https://www.aasd.wednet.edu/page/page_calendar?calID=128319&accessibility=enabled",
+""
+],
+[
+"https://www.aasd.wednet.edu/page/page_calendar?calID=128319",
+"View Full Calendar"
+]
+]
+},
+{
+"id": "WA-184",
+"url": "http://www.monte.wednet.edu/",
+"name": "Montesano",
+"state": "WA",
+"status": 402,
+"final": "https://www.monte.wednet.edu/",
+"error": null,
+"title": "Deployment Paused",
+"name_hits": [],
+"name_toks": [
+"montesano"
+],
+"state_hit": false,
+"parked": false,
+"words": 8,
+"links": []
+},
+{
+"id": "WA-184#alt",
+"url": "https://www.monte.wednet.edu/",
+"name": "Montesano",
+"state": "WA",
+"status": 402,
+"final": "https://www.monte.wednet.edu/",
+"error": null,
+"title": "Deployment Paused",
+"name_hits": [],
+"name_toks": [
+"montesano"
+],
+"state_hit": false,
+"parked": false,
+"words": 8,
+"links": []
+},
+{
+"id": "WA-196",
+"url": "http://www.garpal.wednet.edu/",
+"name": "Palouse",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPConnectionPool(host='www.garpal.wednet.edu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(h"
+},
+{
+"id": "WA-196#alt",
+"url": "https://www.garpal.wednet.edu/",
+"name": "Palouse",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPSConnectionPool(host='www.garpal.wednet.edu', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnectio"
+},
+{
+"id": "ID-433",
+"url": "https://www.culsch.org/",
+"name": "Culdesac Joint School District",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='www.culsch.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL"
+},
+{
+"id": "ID-433#alt",
+"url": "http://www.culsch.org/",
+"name": "Culdesac Joint School District",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+},
+{
+"id": "WA-144#x",
+"url": "https://www.woodinvillewa.gov/",
+"name": "Woodinville",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPSConnectionPool(host='www.woodinvillewa.gov', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnectio"
+},
+{
+"id": "WA-130#x",
+"url": "https://www.cityoftoppenish.us/",
+"name": "Toppenish",
+"state": "WA",
+"status": 403,
+"final": "https://www.cityoftoppenish.us/",
+"error": null,
+"title": "Just a moment...",
+"name_hits": [],
+"name_toks": [
+"toppenish"
+],
+"state_hit": false,
+"parked": false,
+"words": 3,
+"links": []
+}
+]
+}

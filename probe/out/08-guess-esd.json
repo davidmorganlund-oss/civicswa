@@ -1,0 +1,654 @@
+{
+"_stamp": 1,
+"kind": "guess",
+"results": [
+{
+"id": "OR-ESD-0",
+"name": "Columbia Gorge ESD",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-ESD-1",
+"name": "Grant County ESD",
+"state": "OR",
+"url": "https://www.grantesd.k12.or.us/",
+"status": 200,
+"final": "https://grantesd.org/",
+"error": null,
+"title": "Grant County ESD | Home",
+"name_hits": [
+"grant"
+],
+"name_toks": [
+"grant"
+],
+"state_hit": true,
+"parked": false,
+"words": 250,
+"links": [
+[
+"https://grantesd.org/board-of-directors",
+"Board of Directors"
+],
+[
+"https://grantesd.org/board-of-directors",
+"Board of Directors"
+],
+[
+"https://grantesd.org/board-of-directors",
+"Board of Directors"
+]
+]
+},
+{
+"id": "OR-ESD-2",
+"name": "Harney ESD",
+"state": "OR",
+"url": "https://www.harneyesd.k12.or.us/",
+"status": 200,
+"final": "https://harneyesd.k12.or.us/",
+"error": null,
+"title": "Harney ESD \u2013 Making the Difference!",
+"name_hits": [
+"harney"
+],
+"name_toks": [
+"harney"
+],
+"state_hit": true,
+"parked": false,
+"words": 534,
+"links": [
+[
+"https://harneyesd.k12.or.us/board-of-directors/",
+"Board of Directors"
+],
+[
+"https://harneyesd.k12.or.us/events/",
+"Events & Meetings"
+],
+[
+"https://harneyesd.k12.or.us/series/suntex-school-board-meeting/",
+""
+],
+[
+"https://harneyesd.k12.or.us/event/suntex-board-meeting/2026-12-03/",
+"Suntex School Board Meeting"
+],
+[
+"https://harneyesd.k12.or.us/series/pine-creek-school-board-meeting/",
+""
+],
+[
+"https://harneyesd.k12.or.us/event/pine-creek-school-board-meeting/2026-12-08/",
+"Pine Creek School Board Meeting"
+],
+[
+"https://harneyesd.k12.or.us/series/drewsey-school-district-board-meeting/",
+""
+],
+[
+"https://harneyesd.k12.or.us/event/drewsey-school-district-board-meeting/2026-12-09/",
+"Drewsey School Board Meeting"
+],
+[
+"https://harneyesd.k12.or.us/series/harney-esd-board-meeting/",
+""
+],
+[
+"https://harneyesd.k12.or.us/event/harney-esd-2-2/2026-12-16/",
+"Harney ESD Board Meeting"
+],
+[
+"https://harneyesd.k12.or.us/series/harney-esd-board-meeting/",
+""
+],
+[
+"https://harneyesd.k12.or.us/event/harney-esd-2-2-3/2026-12-16/",
+"Harney ESD Board Meeting"
+],
+[
+"https://harneyesd.k12.or.us/events/",
+"View Calendar"
+],
+[
+"https://harneyesd.k12.or.us/board-of-directors/",
+"Board of Directors"
+],
+[
+"https://harneyesd.k12.or.us/events/",
+"Events & Meetings"
+],
+[
+"https://harneyesd.k12.or.us/board-of-directors/",
+"Board of Directors"
+],
+[
+"https://harneyesd.k12.or.us/events/",
+"Events & Meetings"
+]
+]
+},
+{
+"id": "OR-ESD-3",
+"name": "High Desert ESD",
+"state": "OR",
+"url": "https://www.hdesd.org/",
+"status": 200,
+"final": "https://www.hdesd.org/",
+"error": null,
+"title": "High Desert Education Service District | Improving student outcomes with excellence, equity and efficiency.",
+"name_hits": [
+"desert"
+],
+"name_toks": [
+"desert"
+],
+"state_hit": true,
+"parked": false,
+"words": 1124,
+"links": [
+[
+"https://www.hdesd.org/about/board/",
+"Board of Directors"
+],
+[
+"https://www.hdesd.org/about/board/policies/",
+"ESD Policies"
+],
+[
+"http://www.osba.org/",
+"Oregon School Boards Association"
+]
+]
+},
+{
+"id": "OR-ESD-4",
+"name": "InterMountain ESD",
+"state": "OR",
+"url": "https://www.imesd.k12.or.us/",
+"status": 200,
+"final": "https://www.imesd.k12.or.us/",
+"error": null,
+"title": "InterMountain ESD - Home",
+"name_hits": [
+"intermountain"
+],
+"name_toks": [
+"intermountain"
+],
+"state_hit": true,
+"parked": false,
+"words": 1157,
+"links": [
+[
+"https://www.imesd.k12.or.us/board-of-directors",
+"Board of Directors"
+],
+[
+"https://www.imesd.k12.or.us/meet-our-board",
+"Meet our Board"
+],
+[
+"https://www.imesd.k12.or.us/board-meetings",
+"Board Meetings"
+],
+[
+"https://www.imesd.k12.or.us/pd-events-calendar",
+"PD Events Calendar"
+],
+[
+"https://www.imesd.k12.or.us/events-calendar",
+"Events Calendar"
+],
+[
+"https://www.imesd.k12.or.us/board-of-directors",
+"Board of Directors"
+],
+[
+"https://www.imesd.k12.or.us/meet-our-board",
+"Meet our Board"
+],
+[
+"https://www.imesd.k12.or.us/board-meetings",
+"Board Meetings"
+],
+[
+"https://www.imesd.k12.or.us/pd-events-calendar",
+"PD Events Calendar"
+],
+[
+"https://www.imesd.k12.or.us/events-calendar",
+"Events Calendar"
+],
+[
+"https://www.imesd.k12.or.us/97209?articleID=82109",
+"IMESD Board Appoints Aimee VanNice as Next Superintendent"
+],
+[
+"https://www.imesd.k12.or.us/page/page_calendar?calID=144684&accessibility=enabled",
+""
+],
+[
+"https://events.imesd.k12.or.us/",
+"View Full Calendar"
+]
+]
+},
+{
+"id": "OR-ESD-5",
+"name": "Jefferson County ESD",
+"state": "OR",
+"url": "https://www.jcesd.k12.or.us/",
+"status": 200,
+"final": "https://jcesd.k12.or.us/",
+"error": null,
+"title": "JCESD | Jefferson County Education Service District",
+"name_hits": [
+"jefferson"
+],
+"name_toks": [
+"jefferson"
+],
+"state_hit": true,
+"parked": false,
+"words": 373,
+"links": [
+[
+"https://jcesd.k12.or.us/board/",
+"Board"
+],
+[
+"https://jcesd.k12.or.us/board/",
+"Board of Directors"
+],
+[
+"https://jcesd.k12.or.us/board/meeting-agendas-and-minutes/",
+"Board Agendas and Minutes"
+],
+[
+"https://jcesd.k12.or.us/board/calendar/",
+"Board Calendar"
+]
+]
+},
+{
+"id": "OR-ESD-6",
+"name": "Lake ESD",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-ESD-7",
+"name": "Linn Benton Lincoln ESD",
+"state": "OR",
+"url": "https://www.lblesd.k12.or.us/",
+"status": 200,
+"final": "https://www.lblesd.gov/",
+"error": null,
+"title": "Linn Benton Lincoln Education Service District (LBLESD)",
+"name_hits": [
+"linn",
+"benton",
+"lincoln"
+],
+"name_toks": [
+"linn",
+"benton",
+"lincoln"
+],
+"state_hit": true,
+"parked": false,
+"words": 1756,
+"links": [
+[
+"https://www.lblesd.gov/training-calendar/",
+"Training Events"
+],
+[
+"https://www.lblesd.gov/training-calendar/",
+"Training Events"
+],
+[
+"https://www.lblesd.gov/cyber-safety/board-preparedness-guide/",
+"Board Preparedness Guide"
+],
+[
+"https://www.lblesd.gov/board/",
+"Board"
+],
+[
+"https://www.lblesd.gov/training-calendar/",
+"Training Events"
+],
+[
+"https://lblstatus.com/",
+"Dashboard"
+],
+[
+"https://www.lblesd.gov/training-calendar/",
+"Training Events"
+],
+[
+"https://www.lblesd.gov/policies/",
+"Board Policies"
+],
+[
+"https://www.lblesd.gov/cyber-safety/board-preparedness-guide/",
+"Board Preparedness Guide"
+],
+[
+"https://www.lblesd.gov/board/",
+"Board"
+],
+[
+"https://www.lblesd.gov/training-calendar/",
+"Training Events"
+],
+[
+"https://www.lblesd.gov/training-calendar/",
+"Training Events"
+],
+[
+"https://www.lblesd.gov/training-calendar/",
+"Training Events"
+]
+]
+},
+{
+"id": "OR-ESD-8",
+"name": "Malheur ESD",
+"state": "OR",
+"url": "https://www.malesd.org/",
+"status": 200,
+"final": "https://www.malesd.org/",
+"error": null,
+"title": "Home",
+"name_hits": [
+"malheur"
+],
+"name_toks": [
+"malheur"
+],
+"state_hit": true,
+"parked": false,
+"words": 555,
+"links": [
+[
+"https://www.malesd.org/home/board-of-directors-budget-information",
+"Board of Directors & Budget Information"
+],
+[
+"https://www.malesd.org/districts/district-calendars",
+"District Calendars"
+],
+[
+"https://www.malesd.org/home/board-of-directors-budget-information",
+"Board of Directors & Budget Information"
+],
+[
+"https://www.malesd.org/districts/district-calendars",
+"District Calendars"
+],
+[
+"https://www.malesd.org/home/board-of-directors-budget-information",
+"Board of Directors & Budget Information"
+],
+[
+"https://www.malesd.org/districts/district-calendars",
+"District Calendars"
+],
+[
+"https://calendar.google.com/calendar/u/0?cid=Y18xODhhZHA3MTJpbm5lZzBsbDFiMWw2YjNmNTNzZUByZXNvdXJjZS5jYWxlbmRhci5nb29nbGUuY29t",
+"Leggitt (Large) Conference Room Calendar"
+],
+[
+"https://calendar.google.com/calendar/u/0?cid=Y18xODhhaHQ1ZG9tdmg2Z2FpbXE4bnJkdXNjOXR0NkByZXNvdXJjZS5jYWxlbmRhci5nb29nbGUuY29t",
+"Harrod (Small) Conference Room Calendar"
+]
+]
+},
+{
+"id": "OR-ESD-9",
+"name": "North Central ESD",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-ESD-10",
+"name": "Northwest Regional ESD",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-ESD-11",
+"name": "Region 18 ESD (Wallowa)",
+"state": "OR",
+"url": "https://www.r18esd.org/",
+"status": 200,
+"final": "https://www.r18esd.org/",
+"error": null,
+"title": "WCESD",
+"name_hits": [
+"region",
+"wallowa"
+],
+"name_toks": [
+"region",
+"wallowa"
+],
+"state_hit": true,
+"parked": false,
+"words": 388,
+"links": [
+[
+"https://www.r18esd.org/home/wcesd-board",
+"WCESD Board"
+],
+[
+"https://www.r18esd.org/home/wcesd-board",
+"WCESD Board"
+],
+[
+"https://www.r18esd.org/home/wcesd-board",
+"WCESD Board"
+]
+]
+},
+{
+"id": "OR-ESD-12",
+"name": "South Coast ESD",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-ESD-13",
+"name": "Southern Oregon ESD",
+"state": "OR",
+"url": "https://www.soesd.k12.or.us/",
+"status": 200,
+"final": "https://www.soesd.k12.or.us/",
+"error": null,
+"title": "Home - Southern Oregon Education Service District",
+"name_hits": [
+"southern",
+"oregon"
+],
+"name_toks": [
+"southern",
+"oregon"
+],
+"state_hit": true,
+"parked": false,
+"words": 646,
+"links": [
+[
+"https://www.soesd.k12.or.us/notice-of-budget-committee-meeting-6/",
+"NOTICE OF BUDGET COMMITTEE MEETING"
+],
+[
+"https://www.soesd.k12.or.us/notice-of-budget-committee-meeting-6/",
+"Read Article"
+]
+]
+},
+{
+"id": "OR-ESD-14",
+"name": "Willamette ESD",
+"state": "OR",
+"url": "https://www.wesd.org/",
+"status": 200,
+"final": "https://www.wesd.org/",
+"error": null,
+"title": "Home - Willamette Education Service District",
+"name_hits": [
+"willamette"
+],
+"name_toks": [
+"willamette"
+],
+"state_hit": true,
+"parked": false,
+"words": 1761,
+"links": [
+[
+"https://www.wesd.org/departments/sis/teaching-and-learning/regional-willamette-school-improvement-leaders-meeting",
+"Willamette School Improvement"
+],
+[
+"https://www.wesd.org/departments/hr/contracts-employee-handbook-and-salary-schedules/employment-calendars",
+"Employment Calendars"
+],
+[
+"https://www.wesd.org/staff-resources/wellness/current-activities/calendar",
+"Current Activities"
+],
+[
+"https://www.wesd.org/staff-resources/wellness/current-activities/calendar",
+"Wellness Event Calendar"
+],
+[
+"https://www.wesd.org/staff-resources/wellness/current-activities/20-minutes-of-wellness",
+"20 Minutes of Wellness"
+],
+[
+"https://www.wesd.org/about/board",
+"Board of Directors"
+],
+[
+"https://www.wesd.org/about/wesd-board-policies",
+"WESD Board Policies"
+],
+[
+"https://www.wesd.org/link-3",
+"Calendar"
+],
+[
+"https://www.wesd.org/about/board",
+"Board of Directors"
+],
+[
+"https://www.wesd.org/about/wesd-board-policies",
+"WESD Board Policies"
+],
+[
+"https://www.wesd.org/link-3",
+"Calendar"
+],
+[
+"https://www.wesd.org/departments/sis/teaching-and-learning/regional-willamette-school-improvement-leaders-meeting",
+"Willamette School Improvement"
+],
+[
+"https://www.wesd.org/departments/hr/contracts-employee-handbook-and-salary-schedules/employment-calendars",
+"Employment Calendars"
+],
+[
+"https://www.wesd.org/news/default-board-post-page/~board/news/post/sped-specialist-spotlight-helping-students-move-learn-and-participate",
+""
+],
+[
+"https://www.wesd.org/news/default-board-post-page/~board/news/post/sped-specialist-spotlight-helping-students-move-learn-and-participate",
+"SPED Specialist Spotlight: Helping Students Move, Learn, and Participate"
+],
+[
+"https://www.wesd.org/news/default-board-post-page/~board/news/post/sped-specialist-spotlight-helping-students-move-learn-and-participate",
+"Read More about SPED Specialist Spotlight: Helping Students Move, Learn, and Par"
+],
+[
+"https://www.wesd.org/news/default-board-post-page/~board/news/post/staff-spotlight-lisa-barnard-helps-students-build-skills-and-explore-whats-next",
+""
+],
+[
+"https://www.wesd.org/news/default-board-post-page/~board/news/post/staff-spotlight-lisa-barnard-helps-students-build-skills-and-explore-whats-next",
+"SPED Specialist Spotlight: Lisa Barnard Helps Students Build Skills and Explore "
+],
+[
+"https://www.wesd.org/news/default-board-post-page/~board/news/post/staff-spotlight-lisa-barnard-helps-students-build-skills-and-explore-whats-next",
+"Read More about SPED Specialist Spotlight: Lisa Barnard Helps Students Build Ski"
+],
+[
+"https://www.wesd.org/news/default-board-post-page/~board/news/post/cascade-high-schools-tyler-woodral-named-oregon-high-school-assistant-principal-of-the-year",
+""
+],
+[
+"https://www.wesd.org/news/default-board-post-page/~board/news/post/cascade-high-schools-tyler-woodral-named-oregon-high-school-assistant-principal-of-the-year",
+"Cascade High School's Tyler Woodral Named Oregon High School Assistant Principal"
+],
+[
+"https://www.wesd.org/news/default-board-post-page/~board/news/post/cascade-high-schools-tyler-woodral-named-oregon-high-school-assistant-principal-of-the-year",
+"Read More about Cascade High School's Tyler Woodral Named Oregon High School Ass"
+],
+[
+"https://www.wesd.org/news/default-board-post-page/~board/news/post/sped-specialist-spotlight-supporting-students-who-are-deaf-and-hard-of-hearing",
+""
+],
+[
+"https://www.wesd.org/news/default-board-post-page/~board/news/post/sped-specialist-spotlight-supporting-students-who-are-deaf-and-hard-of-hearing",
+"SPED Specialist Spotlight: Supporting Students Who Are Deaf and Hard of Hearing"
+],
+[
+"https://www.wesd.org/news/default-board-post-page/~board/news/post/sped-specialist-spotlight-supporting-students-who-are-deaf-and-hard-of-hearing",
+"Read More about SPED Specialist Spotlight: Supporting Students Who Are Deaf and "
+],
+[
+"https://www.wesd.org/news/default-board-post-page/~board/news/post/brennan-young-named-2026-27-regional-teacher-of-the-year",
+""
+],
+[
+"https://www.wesd.org/news/default-board-post-page/~board/news/post/brennan-young-named-2026-27-regional-teacher-of-the-year",
+"Brennan Young Named 2026-27 Regional Teacher of the Year"
+],
+[
+"https://www.wesd.org/news/default-board-post-page/~board/news/post/brennan-young-named-2026-27-regional-teacher-of-the-year",
+"Read More about Brennan Young Named 2026-27 Regional Teacher of the Year"
+],
+[
+"https://www.wesd.org/news/default-board-post-page/~board/news/post/theyre-not-alone-meet-discovery-academy-peer-mentor-nic-ceaser",
+""
+],
+[
+"https://www.wesd.org/news/default-board-post-page/~board/news/post/theyre-not-alone-meet-discovery-academy-peer-mentor-nic-ceaser",
+"\u201cThey\u2019re Not Alone\u201d: Meet Discovery Academy Peer Mentor Nic Ceaser"
+],
+[
+"https://www.wesd.org/news/default-board-post-page/~board/news/post/theyre-not-alone-meet-discovery-academy-peer-mentor-nic-ceaser",
+"Read More about \u201cThey\u2019re Not Alone\u201d: Meet Discovery Academy Peer Mentor Nic Ceas"
+],
+[
+"https://www.wesd.org/fs/pages/422",
+"View Full Calendar"
+],
+[
+"https://www.wesd.org/about/wesd-board-policies/non-discrimination-policy",
+"Non-Discrimination"
+],
+[
+"https://www.wesd.org/about/wesd-board-policies/complaint-procedure",
+"Public Complaint Procedure"
+]
+]
+}
+]
+}
