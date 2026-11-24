@@ -1,0 +1,247 @@
+sources:
+- id: olympia
+  name: City of Olympia
+  type: legistar
+  client: olympia
+  area: Olympia
+  homepage: https://olympia.legistar.com/Calendar.aspx
+- id: seattle
+  name: City of Seattle
+  type: legistar
+  client: seattle
+  county: King
+  area: Seattle
+  homepage: https://seattle.legistar.com/Calendar.aspx
+- id: bellevue
+  name: City of Bellevue
+  type: legistar
+  client: bellevue
+  county: King
+  area: Bellevue
+  homepage: https://bellevue.legistar.com/Calendar.aspx
+- id: king-county
+  name: King County
+  type: legistar
+  client: kingcounty
+  county: King
+  area: countywide
+  homepage: https://kingcounty.legistar.com/Calendar.aspx
+- id: snohomish-county
+  name: Snohomish County
+  type: legistar
+  client: snohomish
+  county: Snohomish
+  area: countywide
+  homepage: https://snohomish.legistar.com/Calendar.aspx
+- id: auburn
+  name: City of Auburn
+  type: civicclerk
+  tenant: auburnwa
+  county: King
+  area: Auburn
+  homepage: https://auburnwa.portal.civicclerk.com/
+- id: kent
+  name: City of Kent
+  type: govaccess_rss
+  url: https://www.kentwa.gov/Home/Components/RssFeeds/RssFeed/View?ctID=6
+  county: King
+  area: Kent
+  default_category: council
+  homepage: https://www.kentwa.gov/
+- id: renton
+  name: City of Renton
+  type: primegov
+  tenant: renton
+  county: King
+  area: Renton
+  homepage: https://renton.primegov.com/public/portal
+- id: spokane
+  name: City of Spokane
+  type: spokane_council
+  url: https://my.spokanecity.org/citycouncil/meetings/
+  county: Spokane
+  area: Spokane
+  default_category: council
+  homepage: https://my.spokanecity.org/citycouncil/meetings/
+- id: pasco
+  name: City of Pasco
+  type: civicplus
+  site: https://www.pasco-wa.gov
+  categories:
+  - 23
+  county: Franklin
+  area: Pasco
+  drop_uncategorized: true
+  homepage: https://www.pasco-wa.gov/Calendar.aspx
+- id: yakima-county
+  name: Yakima County
+  type: civicplus
+  site: https://www.yakimacounty.us
+  categories: &id001
+  - 54
+  county: Yakima
+  area: countywide
+  drop_uncategorized: true
+  homepage: https://www.yakimacounty.us/Calendar.aspx
+- id: yakima
+  name: City of Yakima
+  county: Yakima
+  area: Yakima
+  type: ics
+  url: https://www.yakimawa.gov/media/calendar/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://www.yakimawa.gov/media/calendar/
+- id: kirkland
+  name: City of Kirkland
+  type: primegov
+  tenant: kirklandwa
+  county: King
+  area: Kirkland
+  homepage: https://kirklandwa.primegov.com/public/portal
+- id: kirkland-council
+  name: City of Kirkland City Council
+  type: granicus
+  tenant: kirkland
+  view_id: 3
+  county: King
+  area: Kirkland
+  homepage: https://www.kirklandwa.gov/Government/City-Council
+- id: gold-bar
+  name: City of Gold Bar
+  county: Snohomish
+  area: Gold Bar
+  type: ics
+  url: https://cityofgoldbar.us/events/?ical=1
+  include: council|commission|board|committee|hearing|meeting|session|workshop
+  homepage: https://cityofgoldbar.us/
+- id: wenatchee
+  name: City of Wenatchee
+  county: Chelan
+  area: Wenatchee
+  type: govaccess_rss
+  url: https://www.wenatcheewa.gov/Home/Components/RssFeeds/RssFeed/View?ctID=6
+  default_category: council
+  homepage: https://www.wenatcheewa.gov/get-involved/city-calendar
+- id: liberty-lake
+  name: City of Liberty Lake
+  county: Spokane
+  area: Liberty Lake
+  type: civicclerk
+  tenant: libertylakewa
+  homepage: https://libertylakewa.portal.civicclerk.com/
+- id: covington
+  name: City of Covington
+  county: King
+  area: Covington
+  type: primegov
+  tenant: covingtonwa
+  homepage: https://covingtonwa.primegov.com/public/portal
+- id: tumwater-schools
+  name: Tumwater School District
+  type: civicweb
+  base: https://tumwaterk12.community.diligentoneplatform.com
+  county: Thurston
+  area: Tumwater
+  category: school
+  homepage: https://www.tumwater.k12.wa.us/leadership/board-of-directors/school-board-meetings
+- id: north-kitsap-schools
+  name: North Kitsap School District
+  county: Kitsap
+  area: Poulsbo
+  category: school
+  type: civicweb
+  base: https://nkschools.community.diligentoneplatform.com
+  homepage: https://nkschools.community.diligentoneplatform.com/Portal/
+  exclude: quorum
+- id: chimacum-schools
+  name: Chimacum School District
+  county: Jefferson
+  area: Chimacum
+  category: school
+  type: apptegy
+  org: 31234
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference
+  homepage: http://csd49.org/
+- id: creston-schools
+  name: Creston School District
+  county: Lincoln
+  area: Creston
+  category: school
+  type: apptegy
+  org: 24695
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference
+  homepage: https://wcsd.wednet.edu/
+- id: entiat-schools
+  name: Entiat School District
+  county: Chelan
+  area: Entiat
+  category: school
+  type: apptegy
+  org: 28172
+  include: \bboard\b|school board|directors
+  exclude: \bpta\b|ptsa|appreciation|booster|foundation|board games?|boardwalk|on board|onboard|skateboard|snowboard|keyboard|athletic|staff meeting|conference
+  homepage: http://www.entiatschools.org/
+- id: wenatchee-all
+  name: City of Wenatchee
+  county: Chelan
+  area: Wenatchee
+  type: govaccess_rss
+  url: https://www.wenatcheewa.gov/Home/Components/RssFeeds/RssFeed/View?ctID=6
+  default_category: council
+  homepage: https://www.wenatcheewa.gov/get-involved/city-calendar
+- id: kent-norules
+  name: City of Kent
+  type: govaccess_rss
+  url: https://www.kentwa.gov/Home/Components/RssFeeds/RssFeed/View?ctID=6
+  county: King
+  area: Kent
+  default_category: council
+  homepage: https://www.kentwa.gov/
+- id: yakima-norules
+  name: City of Yakima
+  county: Yakima
+  area: Yakima
+  type: ics
+  url: https://www.yakimawa.gov/media/calendar/?ical=1
+  homepage: https://www.yakimawa.gov/media/calendar/
+- id: gold-bar-norules
+  name: City of Gold Bar
+  county: Snohomish
+  area: Gold Bar
+  type: ics
+  url: https://cityofgoldbar.us/events/?ical=1
+  homepage: https://cityofgoldbar.us/
+- id: chimacum-schools-norules
+  name: Chimacum School District
+  county: Jefferson
+  area: Chimacum
+  category: school
+  type: apptegy
+  org: 31234
+  homepage: http://csd49.org/
+- id: creston-schools-norules
+  name: Creston School District
+  county: Lincoln
+  area: Creston
+  category: school
+  type: apptegy
+  org: 24695
+  homepage: https://wcsd.wednet.edu/
+- id: entiat-schools-norules
+  name: Entiat School District
+  county: Chelan
+  area: Entiat
+  category: school
+  type: apptegy
+  org: 28172
+  homepage: http://www.entiatschools.org/
+- id: yakima-county-norules
+  name: Yakima County
+  type: civicplus
+  site: https://www.yakimacounty.us
+  categories: *id001
+  county: Yakima
+  area: countywide
+  homepage: https://www.yakimacounty.us/Calendar.aspx
