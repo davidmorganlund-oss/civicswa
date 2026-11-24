@@ -1,0 +1,2212 @@
+{
+"_stamp": 1,
+"kind": "guess",
+"results": [
+{
+"id": "BB:OR-563",
+"name": "Canyon City",
+"state": "OR",
+"url": "https://sos.oregon.gov/blue-book/government/Pages/canyon-city.aspx",
+"status": 200,
+"final": "https://sos.oregon.gov/blue-book/government/Pages/canyon-city.aspx",
+"error": null,
+"title": "Oregon Secretary of State : Incorporated Cities: Canyon City : Government : State of Oregon",
+"name_hits": [
+"canyon"
+],
+"name_toks": [
+"canyon"
+],
+"state_hit": true,
+"parked": false,
+"words": 458,
+"links": [
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government Home"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government",
+"Government Starting template used for provisioning Oregon agency sites"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-senators.aspx",
+"U.S. Senators"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-representatives.aspx",
+"U.S. Representatives"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-officials.aspx",
+"U.S. Officials"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-tribes.aspx",
+"Tribal Governments"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-political-parties.aspx",
+"Political Parties"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-consular-corps.aspx",
+"Consular Corps"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-agencies.aspx",
+"State Agencies, Boards & Commissions, A-Z"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-executive.aspx",
+"Executive Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-legislative.aspx",
+"Legislative Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-judicial.aspx",
+"Judicial Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-constitution.aspx",
+"Constitution of Oregon"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-buildings.aspx",
+"State Buildings"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-cities.aspx",
+"City Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-county.aspx",
+"County Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-other.aspx",
+"Other Local Government Entities"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-taxes.aspx",
+"Taxes"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-related.aspx",
+"Related Resources"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/grant.aspx",
+"Grant"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "BB:OR-565",
+"name": "Dayville",
+"state": "OR",
+"url": "https://sos.oregon.gov/blue-book/government/Pages/dayville.aspx",
+"status": 200,
+"final": "https://sos.oregon.gov/blue-book/government/Pages/dayville.aspx",
+"error": null,
+"title": "Oregon Secretary of State : Incorporated Cities: Dayville : Government : State of Oregon",
+"name_hits": [
+"dayville"
+],
+"name_toks": [
+"dayville"
+],
+"state_hit": true,
+"parked": false,
+"words": 453,
+"links": [
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government Home"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government",
+"Government Starting template used for provisioning Oregon agency sites"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-senators.aspx",
+"U.S. Senators"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-representatives.aspx",
+"U.S. Representatives"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-officials.aspx",
+"U.S. Officials"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-tribes.aspx",
+"Tribal Governments"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-political-parties.aspx",
+"Political Parties"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-consular-corps.aspx",
+"Consular Corps"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-agencies.aspx",
+"State Agencies, Boards & Commissions, A-Z"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-executive.aspx",
+"Executive Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-legislative.aspx",
+"Legislative Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-judicial.aspx",
+"Judicial Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-constitution.aspx",
+"Constitution of Oregon"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-buildings.aspx",
+"State Buildings"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-cities.aspx",
+"City Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-county.aspx",
+"County Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-other.aspx",
+"Other Local Government Entities"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-taxes.aspx",
+"Taxes"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-related.aspx",
+"Related Resources"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/grant.aspx",
+"Grant"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "BB:OR-566",
+"name": "Granite",
+"state": "OR",
+"url": "https://sos.oregon.gov/blue-book/government/Pages/granite.aspx",
+"status": 200,
+"final": "https://sos.oregon.gov/blue-book/government/Pages/granite.aspx",
+"error": null,
+"title": "Oregon Secretary of State : Incorporated Cities: Granite : Government : State of Oregon",
+"name_hits": [
+"granite"
+],
+"name_toks": [
+"granite"
+],
+"state_hit": true,
+"parked": false,
+"words": 459,
+"links": [
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government Home"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government",
+"Government Starting template used for provisioning Oregon agency sites"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-senators.aspx",
+"U.S. Senators"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-representatives.aspx",
+"U.S. Representatives"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-officials.aspx",
+"U.S. Officials"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-tribes.aspx",
+"Tribal Governments"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-political-parties.aspx",
+"Political Parties"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-consular-corps.aspx",
+"Consular Corps"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-agencies.aspx",
+"State Agencies, Boards & Commissions, A-Z"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-executive.aspx",
+"Executive Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-legislative.aspx",
+"Legislative Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-judicial.aspx",
+"Judicial Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-constitution.aspx",
+"Constitution of Oregon"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-buildings.aspx",
+"State Buildings"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-cities.aspx",
+"City Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-county.aspx",
+"County Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-other.aspx",
+"Other Local Government Entities"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-taxes.aspx",
+"Taxes"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-related.aspx",
+"Related Resources"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/grant.aspx",
+"Grant"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "BB:OR-567",
+"name": "Greenhorn",
+"state": "OR",
+"url": "https://sos.oregon.gov/blue-book/government/Pages/greenhorn.aspx",
+"status": 200,
+"final": "https://sos.oregon.gov/blue-book/government/Pages/greenhorn.aspx",
+"error": null,
+"title": "Oregon Secretary of State : Incorporated Cities: Greenhorn : Government : State of Oregon",
+"name_hits": [
+"greenhorn"
+],
+"name_toks": [
+"greenhorn"
+],
+"state_hit": true,
+"parked": false,
+"words": 464,
+"links": [
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government Home"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government",
+"Government Starting template used for provisioning Oregon agency sites"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-senators.aspx",
+"U.S. Senators"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-representatives.aspx",
+"U.S. Representatives"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-officials.aspx",
+"U.S. Officials"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-tribes.aspx",
+"Tribal Governments"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-political-parties.aspx",
+"Political Parties"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-consular-corps.aspx",
+"Consular Corps"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-agencies.aspx",
+"State Agencies, Boards & Commissions, A-Z"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-executive.aspx",
+"Executive Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-legislative.aspx",
+"Legislative Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-judicial.aspx",
+"Judicial Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-constitution.aspx",
+"Constitution of Oregon"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-buildings.aspx",
+"State Buildings"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-cities.aspx",
+"City Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-county.aspx",
+"County Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-other.aspx",
+"Other Local Government Entities"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-taxes.aspx",
+"Taxes"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-related.aspx",
+"Related Resources"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/baker.aspx",
+"Baker"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "BB:OR-568",
+"name": "Helix",
+"state": "OR",
+"url": "https://sos.oregon.gov/blue-book/government/Pages/helix.aspx",
+"status": 200,
+"final": "https://sos.oregon.gov/blue-book/government/Pages/helix.aspx",
+"error": null,
+"title": "Oregon Secretary of State : Incorporated Cities: Helix : Government : State of Oregon",
+"name_hits": [
+"helix"
+],
+"name_toks": [
+"helix"
+],
+"state_hit": true,
+"parked": false,
+"words": 451,
+"links": [
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government Home"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government",
+"Government Starting template used for provisioning Oregon agency sites"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-senators.aspx",
+"U.S. Senators"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-representatives.aspx",
+"U.S. Representatives"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-officials.aspx",
+"U.S. Officials"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-tribes.aspx",
+"Tribal Governments"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-political-parties.aspx",
+"Political Parties"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-consular-corps.aspx",
+"Consular Corps"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-agencies.aspx",
+"State Agencies, Boards & Commissions, A-Z"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-executive.aspx",
+"Executive Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-legislative.aspx",
+"Legislative Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-judicial.aspx",
+"Judicial Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-constitution.aspx",
+"Constitution of Oregon"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-buildings.aspx",
+"State Buildings"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-cities.aspx",
+"City Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-county.aspx",
+"County Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-other.aspx",
+"Other Local Government Entities"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-taxes.aspx",
+"Taxes"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-related.aspx",
+"Related Resources"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/umatilla.aspx",
+"Umatilla"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "BB:OR-572",
+"name": "Jordan Valley",
+"state": "OR",
+"url": "https://sos.oregon.gov/blue-book/government/Pages/jordan-valley.aspx",
+"status": 200,
+"final": "https://sos.oregon.gov/blue-book/government/Pages/jordan-valley.aspx",
+"error": null,
+"title": "Oregon Secretary of State : Incorporated Cities: Jordan Valley : Government : State of Oregon",
+"name_hits": [
+"jordan",
+"valley"
+],
+"name_toks": [
+"jordan",
+"valley"
+],
+"state_hit": true,
+"parked": false,
+"words": 469,
+"links": [
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government Home"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government",
+"Government Starting template used for provisioning Oregon agency sites"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-senators.aspx",
+"U.S. Senators"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-representatives.aspx",
+"U.S. Representatives"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-officials.aspx",
+"U.S. Officials"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-tribes.aspx",
+"Tribal Governments"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-political-parties.aspx",
+"Political Parties"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-consular-corps.aspx",
+"Consular Corps"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-agencies.aspx",
+"State Agencies, Boards & Commissions, A-Z"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-executive.aspx",
+"Executive Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-legislative.aspx",
+"Legislative Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-judicial.aspx",
+"Judicial Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-constitution.aspx",
+"Constitution of Oregon"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-buildings.aspx",
+"State Buildings"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-cities.aspx",
+"City Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-county.aspx",
+"County Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-other.aspx",
+"Other Local Government Entities"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-taxes.aspx",
+"Taxes"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-related.aspx",
+"Related Resources"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/malheur.aspx",
+"Malheur"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "BB:OR-573",
+"name": "Lonerock",
+"state": "OR",
+"url": "https://sos.oregon.gov/blue-book/government/Pages/lonerock.aspx",
+"status": 200,
+"final": "https://sos.oregon.gov/blue-book/government/Pages/lonerock.aspx",
+"error": null,
+"title": "Oregon Secretary of State : Incorporated Cities: Lonerock : Government : State of Oregon",
+"name_hits": [
+"lonerock"
+],
+"name_toks": [
+"lonerock"
+],
+"state_hit": true,
+"parked": false,
+"words": 453,
+"links": [
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government Home"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government",
+"Government Starting template used for provisioning Oregon agency sites"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-senators.aspx",
+"U.S. Senators"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-representatives.aspx",
+"U.S. Representatives"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-officials.aspx",
+"U.S. Officials"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-tribes.aspx",
+"Tribal Governments"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-political-parties.aspx",
+"Political Parties"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-consular-corps.aspx",
+"Consular Corps"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-agencies.aspx",
+"State Agencies, Boards & Commissions, A-Z"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-executive.aspx",
+"Executive Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-legislative.aspx",
+"Legislative Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-judicial.aspx",
+"Judicial Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-constitution.aspx",
+"Constitution of Oregon"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-buildings.aspx",
+"State Buildings"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-cities.aspx",
+"City Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-county.aspx",
+"County Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-other.aspx",
+"Other Local Government Entities"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-taxes.aspx",
+"Taxes"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-related.aspx",
+"Related Resources"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/gilliam.aspx",
+"Gilliam"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "BB:OR-575",
+"name": "Monument",
+"state": "OR",
+"url": "https://sos.oregon.gov/blue-book/government/Pages/monument.aspx",
+"status": 200,
+"final": "https://sos.oregon.gov/blue-book/government/Pages/monument.aspx",
+"error": null,
+"title": "Oregon Secretary of State : Incorporated Cities: Monument : Government : State of Oregon",
+"name_hits": [
+"monument"
+],
+"name_toks": [
+"monument"
+],
+"state_hit": true,
+"parked": false,
+"words": 450,
+"links": [
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government Home"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government",
+"Government Starting template used for provisioning Oregon agency sites"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-senators.aspx",
+"U.S. Senators"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-representatives.aspx",
+"U.S. Representatives"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-officials.aspx",
+"U.S. Officials"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-tribes.aspx",
+"Tribal Governments"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-political-parties.aspx",
+"Political Parties"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-consular-corps.aspx",
+"Consular Corps"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-agencies.aspx",
+"State Agencies, Boards & Commissions, A-Z"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-executive.aspx",
+"Executive Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-legislative.aspx",
+"Legislative Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-judicial.aspx",
+"Judicial Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-constitution.aspx",
+"Constitution of Oregon"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-buildings.aspx",
+"State Buildings"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-cities.aspx",
+"City Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-county.aspx",
+"County Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-other.aspx",
+"Other Local Government Entities"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-taxes.aspx",
+"Taxes"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-related.aspx",
+"Related Resources"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/grant.aspx",
+"Grant"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "BB:OR-576",
+"name": "Mount Vernon",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "BB:OR-577",
+"name": "Powers",
+"state": "OR",
+"url": "https://sos.oregon.gov/blue-book/government/Pages/powers.aspx",
+"status": 200,
+"final": "https://sos.oregon.gov/blue-book/government/Pages/powers.aspx",
+"error": null,
+"title": "Oregon Secretary of State : Incorporated Cities: Powers : Government : State of Oregon",
+"name_hits": [
+"powers"
+],
+"name_toks": [
+"powers"
+],
+"state_hit": true,
+"parked": false,
+"words": 453,
+"links": [
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government Home"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government",
+"Government Starting template used for provisioning Oregon agency sites"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-senators.aspx",
+"U.S. Senators"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-representatives.aspx",
+"U.S. Representatives"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-officials.aspx",
+"U.S. Officials"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-tribes.aspx",
+"Tribal Governments"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-political-parties.aspx",
+"Political Parties"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-consular-corps.aspx",
+"Consular Corps"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-agencies.aspx",
+"State Agencies, Boards & Commissions, A-Z"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-executive.aspx",
+"Executive Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-legislative.aspx",
+"Legislative Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-judicial.aspx",
+"Judicial Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-constitution.aspx",
+"Constitution of Oregon"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-buildings.aspx",
+"State Buildings"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-cities.aspx",
+"City Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-county.aspx",
+"County Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-other.aspx",
+"Other Local Government Entities"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-taxes.aspx",
+"Taxes"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-related.aspx",
+"Related Resources"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/coos.aspx",
+"Coos"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "BB:OR-579",
+"name": "Prescott",
+"state": "OR",
+"url": "https://sos.oregon.gov/blue-book/government/Pages/prescott.aspx",
+"status": 200,
+"final": "https://sos.oregon.gov/blue-book/government/Pages/prescott.aspx",
+"error": null,
+"title": "Oregon Secretary of State : Incorporated Cities: Prescott : Government : State of Oregon",
+"name_hits": [
+"prescott"
+],
+"name_toks": [
+"prescott"
+],
+"state_hit": true,
+"parked": false,
+"words": 458,
+"links": [
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government Home"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government",
+"Government Starting template used for provisioning Oregon agency sites"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-senators.aspx",
+"U.S. Senators"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-representatives.aspx",
+"U.S. Representatives"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-officials.aspx",
+"U.S. Officials"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-tribes.aspx",
+"Tribal Governments"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-political-parties.aspx",
+"Political Parties"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-consular-corps.aspx",
+"Consular Corps"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-agencies.aspx",
+"State Agencies, Boards & Commissions, A-Z"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-executive.aspx",
+"Executive Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-legislative.aspx",
+"Legislative Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-judicial.aspx",
+"Judicial Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-constitution.aspx",
+"Constitution of Oregon"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-buildings.aspx",
+"State Buildings"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-cities.aspx",
+"City Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-county.aspx",
+"County Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-other.aspx",
+"Other Local Government Entities"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-taxes.aspx",
+"Taxes"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-related.aspx",
+"Related Resources"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/columbia.aspx",
+"Columbia"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "BB:OR-580",
+"name": "Richland",
+"state": "OR",
+"url": "https://sos.oregon.gov/blue-book/government/Pages/richland.aspx",
+"status": 200,
+"final": "https://sos.oregon.gov/blue-book/government/Pages/richland.aspx",
+"error": null,
+"title": "Oregon Secretary of State : Incorporated Cities: Richland : Government : State of Oregon",
+"name_hits": [
+"richland"
+],
+"name_toks": [
+"richland"
+],
+"state_hit": true,
+"parked": false,
+"words": 461,
+"links": [
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government Home"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government",
+"Government Starting template used for provisioning Oregon agency sites"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-senators.aspx",
+"U.S. Senators"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-representatives.aspx",
+"U.S. Representatives"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-officials.aspx",
+"U.S. Officials"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-tribes.aspx",
+"Tribal Governments"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-political-parties.aspx",
+"Political Parties"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-consular-corps.aspx",
+"Consular Corps"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-agencies.aspx",
+"State Agencies, Boards & Commissions, A-Z"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-executive.aspx",
+"Executive Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-legislative.aspx",
+"Legislative Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-judicial.aspx",
+"Judicial Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-constitution.aspx",
+"Constitution of Oregon"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-buildings.aspx",
+"State Buildings"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-cities.aspx",
+"City Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-county.aspx",
+"County Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-other.aspx",
+"Other Local Government Entities"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-taxes.aspx",
+"Taxes"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-related.aspx",
+"Related Resources"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/baker.aspx",
+"Baker"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "BB:OR-581",
+"name": "Riddle",
+"state": "OR",
+"url": "https://sos.oregon.gov/blue-book/government/Pages/riddle.aspx",
+"status": 200,
+"final": "https://sos.oregon.gov/blue-book/government/Pages/riddle.aspx",
+"error": null,
+"title": "Oregon Secretary of State : Incorporated Cities: Riddle : Government : State of Oregon",
+"name_hits": [
+"riddle"
+],
+"name_toks": [
+"riddle"
+],
+"state_hit": true,
+"parked": false,
+"words": 456,
+"links": [
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government Home"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government",
+"Government Starting template used for provisioning Oregon agency sites"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-senators.aspx",
+"U.S. Senators"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-representatives.aspx",
+"U.S. Representatives"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-officials.aspx",
+"U.S. Officials"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-tribes.aspx",
+"Tribal Governments"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-political-parties.aspx",
+"Political Parties"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-consular-corps.aspx",
+"Consular Corps"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-agencies.aspx",
+"State Agencies, Boards & Commissions, A-Z"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-executive.aspx",
+"Executive Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-legislative.aspx",
+"Legislative Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-judicial.aspx",
+"Judicial Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-constitution.aspx",
+"Constitution of Oregon"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-buildings.aspx",
+"State Buildings"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-cities.aspx",
+"City Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-county.aspx",
+"County Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-other.aspx",
+"Other Local Government Entities"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-taxes.aspx",
+"Taxes"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-related.aspx",
+"Related Resources"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/douglas.aspx",
+"Douglas"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "BB:OR-582",
+"name": "Summerville",
+"state": "OR",
+"url": "https://sos.oregon.gov/blue-book/government/Pages/summerville.aspx",
+"status": 200,
+"final": "https://sos.oregon.gov/blue-book/government/Pages/summerville.aspx",
+"error": null,
+"title": "Oregon Secretary of State : Incorporated Cities: Summerville : Government : State of Oregon",
+"name_hits": [
+"summerville"
+],
+"name_toks": [
+"summerville"
+],
+"state_hit": true,
+"parked": false,
+"words": 447,
+"links": [
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government Home"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government",
+"Government Starting template used for provisioning Oregon agency sites"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-senators.aspx",
+"U.S. Senators"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-representatives.aspx",
+"U.S. Representatives"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-officials.aspx",
+"U.S. Officials"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-tribes.aspx",
+"Tribal Governments"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-political-parties.aspx",
+"Political Parties"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-consular-corps.aspx",
+"Consular Corps"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-agencies.aspx",
+"State Agencies, Boards & Commissions, A-Z"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-executive.aspx",
+"Executive Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-legislative.aspx",
+"Legislative Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-judicial.aspx",
+"Judicial Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-constitution.aspx",
+"Constitution of Oregon"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-buildings.aspx",
+"State Buildings"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-cities.aspx",
+"City Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-county.aspx",
+"County Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-other.aspx",
+"Other Local Government Entities"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-taxes.aspx",
+"Taxes"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-related.aspx",
+"Related Resources"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/union.aspx",
+"Union"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+},
+{
+"id": "BB:OR-583",
+"name": "Waterloo",
+"state": "OR",
+"url": "https://sos.oregon.gov/blue-book/government/Pages/waterloo.aspx",
+"status": 200,
+"final": "https://sos.oregon.gov/blue-book/government/Pages/waterloo.aspx",
+"error": null,
+"title": "Oregon Secretary of State : Incorporated Cities: Waterloo : Government : State of Oregon",
+"name_hits": [
+"waterloo"
+],
+"name_toks": [
+"waterloo"
+],
+"state_hit": true,
+"parked": false,
+"words": 458,
+"links": [
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government Home"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government",
+"Government Starting template used for provisioning Oregon agency sites"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/default.aspx",
+"Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national.aspx",
+"National, International & Tribal"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-senators.aspx",
+"U.S. Senators"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-representatives.aspx",
+"U.S. Representatives"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-officials.aspx",
+"U.S. Officials"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-tribes.aspx",
+"Tribal Governments"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-political-parties.aspx",
+"Political Parties"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/national-consular-corps.aspx",
+"Consular Corps"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-agencies.aspx",
+"State Agencies, Boards & Commissions, A-Z"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-executive.aspx",
+"Executive Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-legislative.aspx",
+"Legislative Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-judicial.aspx",
+"Judicial Branch"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-constitution.aspx",
+"Constitution of Oregon"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-elections.aspx",
+"Elections Process & History"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/state-buildings.aspx",
+"State Buildings"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-cities.aspx",
+"City Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-county.aspx",
+"County Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/local-other.aspx",
+"Other Local Government Entities"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/facts-finance.aspx",
+"Government Finance"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-state.aspx",
+"State Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-local.aspx",
+"Local Government"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-taxes.aspx",
+"Taxes"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/finance-related.aspx",
+"Related Resources"
+],
+[
+"https://sos.oregon.gov/blue-book/government/Pages/linn.aspx",
+"Linn"
+],
+[
+"https://sos.oregon.gov/Pages/public-calendar.aspx",
+"Public Meeting Calendar"
+]
+]
+}
+]
+}

@@ -1,0 +1,140 @@
+{
+"_stamp": 1,
+"kind": "verify",
+"results": [
+{
+"id": "E:Columbia Gorge ESD",
+"url": "https://www.cgesd.k12.or.us/",
+"name": "Columbia Gorge ESD",
+"state": "OR",
+"status": 200,
+"final": "https://www.cgesd.k12.or.us/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"columbia",
+"gorge"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "E:Lake ESD",
+"url": "https://www.lakeesd.k12.or.us/",
+"name": "Lake ESD",
+"state": "OR",
+"status": 200,
+"final": "https://www.lakeesd.k12.or.us/",
+"error": null,
+"title": "",
+"name_hits": [
+"lake"
+],
+"name_toks": [
+"lake"
+],
+"state_hit": false,
+"parked": false,
+"words": 175,
+"links": [
+[
+"https://www.lakeesd.k12.or.us/PublicJustificationofInstructionalMinutes",
+"Public Justification of Instructional Minutes"
+],
+[
+"https://www.lakeesd.k12.or.us/26-27 Calendar",
+"26-27 Calendar"
+],
+[
+"https://www.lakeesd.k12.or.us/BoardInformation",
+"Board Information"
+],
+[
+"https://www.lakeesd.k12.or.us/Board of Directors",
+"Board of Directors"
+],
+[
+"https://www.lakeesd.k12.or.us/BoardPolicies",
+"Board Policies"
+],
+[
+"https://www.lakeesd.k12.or.us/MeetingInformation",
+"Meeting Information"
+],
+[
+"https://www.lakeesd.k12.or.us/MeetingInfo-PastYears",
+"Meeting Info - Past Years"
+]
+]
+},
+{
+"id": "E:North Central ESD",
+"url": "https://www.ncesd.k12.or.us/",
+"name": "North Central ESD",
+"state": "OR",
+"status": 200,
+"final": "https://www.ncesd.k12.or.us/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"north",
+"central"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "E:Northwest Regional ESD",
+"url": "https://www.nwresd.k12.or.us/",
+"name": "Northwest Regional ESD",
+"state": "OR",
+"status": null,
+"final": null,
+"error": "ConnectTimeout: HTTPSConnectionPool(host='www.nwresd.k12.or.us', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection"
+},
+{
+"id": "E:South Coast ESD",
+"url": "https://www.scesd.k12.or.us/",
+"name": "South Coast ESD",
+"state": "OR",
+"status": 200,
+"final": "https://www.scesd.k12.or.us/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"south",
+"coast"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "E:Days Creek",
+"url": "http://www.dayscreekschools.com/",
+"name": "Days Creek",
+"state": "OR",
+"status": 403,
+"final": "http://www.dayscreekschools.com/",
+"error": null,
+"title": "",
+"name_hits": [],
+"name_toks": [
+"days",
+"creek"
+],
+"state_hit": false,
+"parked": false,
+"words": 7,
+"links": []
+}
+]
+}
