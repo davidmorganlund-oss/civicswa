@@ -1635,7 +1635,9 @@ sources:
 
   # These two post each meeting shortly before it happens, so they can read
   # "quiet" (answering, nothing listed) between meetings.
-  - {id: liberty-lake, name: City of Liberty Lake, county: Spokane, area: Liberty Lake, type: civicclerk, tenant: libertylakewa, homepage: 'https://libertylakewa.portal.civicclerk.com/'}
+  # Liberty Lake's CivicClerk portal lists nothing; its website calendar
+  # ("Meetings Calendar" and "Planning & Building") carries the meetings.
+  - {id: liberty-lake, name: City of Liberty Lake, county: Spokane, area: Liberty Lake, type: civicplus, site: 'https://www.libertylakewa.gov', categories: [14, 27], default_category: council, homepage: 'https://www.libertylakewa.gov/Calendar.aspx'}
 
   - {id: covington, name: City of Covington, county: King, area: Covington, type: primegov, tenant: covingtonwa, homepage: 'https://covingtonwa.primegov.com/public/portal'}
 
@@ -3992,3 +3994,44 @@ sources:
 #   stay out, so these districts are not read there. Olympia and Everett are
 #   covered from their own district sites instead. Still without a source:
 #   Northshore, Puyallup, Federal Way, Edmonds and Kent.
+
+  # ---------- Special districts ----------
+  # Ports, public utility districts, transit, health boards and fire
+  # commissions. Added November 2026 after a probe of 113 districts; each of
+  # these returned upcoming board or commission meetings in a trial.
+  # tools/districts.tsv has the full list probed, and
+  # tools/candidates-districts-guess.yml the feeds that were tried.
+
+  - {area: Port Townsend, county: Jefferson, default_category: council, exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair, homepage: 'https://portofpt.com/', id: port-of-port-townsend, include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council, name: Port of Port Townsend, type: ics, url: 'https://portofpt.com/events/?ical=1'}
+
+  - {area: Kingston, county: Kitsap, default_category: council, exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair, homepage: 'https://portofkingston.org/', id: port-of-kingston, include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council, name: Port of Kingston, type: ics, url: 'https://portofkingston.org/events/?ical=1'}
+
+  - {area: Friday Harbor, county: San Juan, default_category: council, exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair, homepage: 'https://www.portfridayharbor.org/', id: port-of-friday-harbor, include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council, name: Port of Friday Harbor, type: ics, url: 'https://calendar.google.com/calendar/ical/01g9lu10be80t47qfni7pdlhik%40group.calendar.google.com/public/basic.ics'}
+
+  - {area: Bellingham, categories: [22], county: Whatcom, default_category: council, homepage: 'https://www.portofbellingham.com/Calendar.aspx', id: port-of-bellingham, name: Port of Bellingham, site: 'https://www.portofbellingham.com', type: civicplus}
+
+  - {area: Bremerton, categories: [23], county: Kitsap, default_category: council, homepage: 'https://www.portofbremerton.org/Calendar.aspx', id: port-of-bremerton, name: Port of Bremerton, site: 'https://www.portofbremerton.org', type: civicplus}
+
+  - {area: countywide, county: Whatcom, default_category: council, exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair, homepage: 'https://www.pudwhatcom.org/', id: whatcom-pud, include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council, name: Whatcom PUD, type: ics, url: 'https://www.pudwhatcom.org/ics/8749'}
+
+  - {area: countywide, categories: [22], county: Kittitas, default_category: council, homepage: 'https://www.kittitaspud.com/Calendar.aspx', id: kittitas-county-pud, name: Kittitas County PUD, site: 'https://www.kittitaspud.com', type: civicplus}
+
+  - {area: countywide, base: 'https://clallampud.community.diligentoneplatform.com', county: Clallam, default_category: council, homepage: 'https://www.clallampud.net/', id: clallam-county-pud, name: Clallam County PUD, type: civicweb}
+
+  - {area: countywide, county: Benton, default_category: council, exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair, homepage: 'https://www.bft.org/', id: ben-franklin-transit, include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council, name: Ben Franklin Transit, type: ics, url: 'https://www.bft.org/calendar/?ical=1'}
+
+  - {area: countywide, county: Pierce, default_category: council, exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair, homepage: 'https://www.piercetransit.org/', id: pierce-transit, include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council, name: Pierce Transit, type: ics, url: 'https://piercetransit.org/events/?ical=1'}
+
+  - {area: countywide, categories: [23, 24], county: Jefferson, default_category: council, homepage: 'https://jeffersontransit.com/Calendar.aspx', id: jefferson-transit, name: Jefferson Transit, site: 'https://jeffersontransit.com', type: civicplus}
+
+  - {area: countywide, county: King, default_category: council, homepage: 'https://www.psrc.org/', id: psrc, name: Puget Sound Regional Council, tenant: psrc2, type: granicus, view_id: 1}
+
+  - {area: countywide, county: Pierce, default_category: council, exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair, homepage: 'https://tpchd.org/', id: tacoma-pierce-county-health-department, include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council, name: Tacoma-Pierce County Health Department, type: ics, url: 'https://tpchd.org/events/?ical=1'}
+
+  - {area: countywide, categories: [27], county: Snohomish, default_category: council, homepage: 'https://www.snohd.org/Calendar.aspx', id: snohomish-county-health-department, name: Snohomish County Health Department, site: 'https://www.snohd.org', type: civicplus}
+
+  - {area: countywide, county: Pierce, default_category: council, exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair, homepage: 'https://www.westpierce.org/', id: west-pierce-fire-rescue, include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council, name: West Pierce Fire & Rescue, type: ics, url: 'https://www.westpierce.org/events/?ical=1'}
+
+  - {area: countywide, county: King, default_category: council, exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair, homepage: 'https://southkingfire.org/', id: south-king-fire, include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council, name: South King Fire, type: ics, url: 'https://www.southkingfire.org/events/?ical=1'}
+
+  - {area: countywide, county: Pierce, default_category: council, exclude: closed|holiday|chamber|rotary|festival|concert|market|parade|tour|webinar|class|training|ribbon|fundraiser|luncheon|career|job fair, homepage: 'https://www.centralpiercefire.org/', id: central-pierce-fire-rescue, include: commission|commissioner|board|meeting|hearing|workshop|study session|work session|council, name: Central Pierce Fire & Rescue, type: ics, url: 'https://www.centralpiercefire.org/events/?ical=1'}
