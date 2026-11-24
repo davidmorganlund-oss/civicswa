@@ -39,7 +39,7 @@
           li.appendChild(name);
           var ok = s.state === 'ok' || s.state === 'quiet';
           li.appendChild(el('span', 'cov-state' + (ok ? '' : ' warn'),
-            ok ? ' · read ' + day(s.last_success || s.checked) : ' · couldn’t reach since ' + day(s.failing_since || s.checked) + '; showing what it listed before'));
+            ok ? ' · read ' + day(s.last_success || s.checked) + (s.state === 'quiet' ? ', no meetings listed right now' : '') : ' · couldn’t reach since ' + day(s.failing_since || s.checked) + '; showing what it listed before'));
           ul.appendChild(li);
         });
         box.appendChild(ul);

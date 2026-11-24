@@ -104,6 +104,12 @@ def make_event(src, *, title, start, end=None, all_day=False, location="", url="
     # Some calendars put HTML or stray separators in the location field.
     location = re.sub(r"<[^>]+>", " ", location or "")
     location = re.sub(r"^[\s\-–,]+|[\s\-–,]+$", "", " ".join(location.split()))
+    # Room-booking codes ("ATR_Board_Rm_110") read better with spaces, and a
+    # placeholder ("TBD") is no place at all.
+    if "_" in location and " " not in location:
+        location = location.replace("_", " ")
+    if re.fullmatch(r"t\.?b\.?[da]\.?|to be (?:determined|announced)|n/?a|none", location, re.I):
+        location = ""
     # Some feeds give a partial address ("/common/modules/..."), which is not a
     # link anyone can open. Fall back to the host's own page.
     url = web_url(url) or web_url(src.get("homepage", ""))
@@ -298,12 +304,16 @@ def fetch_legistar(src, start_day, end_day, tz):
 CIVICCLERK_LEADING_DATE = re.compile(r"^\s*[A-Z][a-z]+\.? \d{1,2},? \d{4},?\s*[-–:]?\s*")
 GENERIC_MEETING = re.compile(
     r"^(?:(?:regular|special|study|work|joint|emergency)\s+)*(?:meeting|session|workshop|hearing)s?$", re.I)
+# The portal's own event type, left in the name field: it says nothing about the meeting.
+CIVICCLERK_EVENT_TYPE = re.compile(r"^(?:(?:one[- ]time|special|recurring)\s+)?event$", re.I)
 
 
 def civicclerk_title(r) -> str:
     name = (r.get("eventName") or "").strip()
     body = (r.get("categoryName") or "").strip()
     rest = CIVICCLERK_LEADING_DATE.sub("", name).strip()
+    if body and CIVICCLERK_EVENT_TYPE.match(rest) and not CIVICCLERK_EVENT_TYPE.match(body):
+        return body
     if body and (not rest or GENERIC_MEETING.match(rest)) and body.lower() not in name.lower():
         return f"{body} {rest}".strip()
     return name or body or "Public meeting"
@@ -1268,14 +1278,20 @@ def write_ics(events, path: Path, stamp: datetime, name: str = "Washington"):
 
 def merge_duplicates(events):
     """Hosts sometimes post the same meeting twice (two calendar entries for
-    one council meeting). Keep one per title and start time, preferring the
-    copy with an agenda, agenda items and a place."""
+    one council meeting). Keep one per title and start time, preferring a
+    cancellation notice, then the copy with an agenda, agenda items and a place."""
     def detail(e):
-        return (bool(e.get("agenda_url")), len(e.get("highlights") or []), len(e.get("bills") or []),
-                bool(e.get("location")), len(e.get("note") or ""))
+        # A cancellation is posted on purpose, so when one copy says cancelled
+        # and its twin doesn't, the cancelled copy is the one to believe.
+        return (e["cancelled"], bool(e.get("agenda_url")), len(e.get("highlights") or []),
+                len(e.get("bills") or []), bool(e.get("location")), len(e.get("note") or ""))
     best, order = {}, []
     for e in events:
-        key = (" ".join(e["title"].lower().split()), e["start"], e["cancelled"])
+        # The same words in another order are the same meeting: a joint meeting
+        # is often posted once per body ("Arts Council and Parks Commission
+        # Joint Meeting", "Parks Commission and Arts Council Joint Meeting").
+        words = frozenset(re.findall(r"[a-z0-9]+", e["title"].lower())) - {"and", "the", "of", "a"}
+        key = (words or e["title"].lower(), e["start"])
         if key not in best:
             order.append(key)
             best[key] = e
@@ -1349,11 +1365,21 @@ def main() -> int:
             status.update(ok=True, count=len(found), last_success=status["checked"], error="", failing_since="")
             # A source that answers but lists nothing is suspicious, not fine.
             status["state"] = "ok" if found else "quiet"
+            # Remember when it went quiet and how many meetings it last listed,
+            # so a calendar that silently stops listing gets a person's attention
+            # (alerts.py) instead of looking healthy forever.
+            before = previous.get(src["id"], {})
+            status["quiet_since"] = "" if found else (before.get("quiet_since") or now.date().isoformat())
+            status["last_listed"] = now.date().isoformat() if found else before.get("last_listed", "")
+            if src.get("quiet_ok"):
+                status["quiet_ok"] = True
         except Exception as exc:  # one bad source must not sink the rest
             # Keep showing what we had, so a one-night outage doesn't blank a city.
             found = [e for e in old_events if e["source"] == src["id"]
                      and datetime.fromisoformat(e["start"]).date() >= start_day]
             status.update(ok=False, count=len(found), state="failing",
+                          quiet_since=previous.get(src["id"], {}).get("quiet_since", ""),
+                          last_listed=previous.get(src["id"], {}).get("last_listed", ""),
                           failing_since=previous.get(src["id"], {}).get("failing_since") or now.date().isoformat(),
                           last_success=previous.get(src["id"], {}).get("last_success", ""),
                           error=f"{type(exc).__name__}: {exc}"[:300])

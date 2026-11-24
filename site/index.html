@@ -18,8 +18,6 @@
 <link rel="alternate" hreflang="en" href="https://civicswa.org/">
 <link rel="alternate" hreflang="es" href="https://civicswa.org/es/">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
@@ -62,6 +60,7 @@
 <link rel="icon" type="image/png" href="/icons/favicon-48.png">
 <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
 <meta name="apple-mobile-web-app-title" content="CivicsWA">
+<noscript><style>.js-only { display: none; }</style></noscript>
 </head>
 <body>
 <a class="skip" href="#events">Skip to events</a>
@@ -116,7 +115,8 @@
       <input id="q" type="search" placeholder="A topic, board, place or bill: housing, school board, Lacey, HB 1001" autocomplete="off">
     </div>
     <div class="chips" role="group" aria-label="Filter by type" id="chips"></div>
-    <div class="list" id="list" aria-live="polite"><p class="empty">Loading events…</p></div>
+    <div class="list" id="list" aria-live="polite"><p class="empty js-only">Loading events…</p></div>
+    <noscript><p class="empty">This list needs JavaScript, which is turned off in your browser. Your city, county and school district post their meetings on their own websites, and the Legislature posts its committee meetings at <a href="https://app.leg.wa.gov/committeeschedules/">app.leg.wa.gov/committeeschedules</a>.</p></noscript>
     <button class="more" id="more" type="button" hidden>Show two more weeks</button>
   </main>
 

@@ -1,9 +1,9 @@
 // CivicsWA service worker. Network first for everything, so people always
 // see tonight's refresh when they're online; the last copy is kept so the
 // app still opens, with the meetings it last loaded, when they're offline.
-var CACHE = 'civicswa-v3';
+var CACHE = 'civicswa-v4';
 var SHELL = ['/', '/index.html', '/hearings.html', '/styles.css', '/app.js', '/hearings.js', '/local.js', '/pwa.js', '/spotlight.js',
-  '/data/events.json', '/icons/icon-192.png', '/barnone-phoenix.png'];
+  '/data/events.json', '/fonts/montserrat-latin-wght-normal.woff2', '/icons/icon-192.png', '/barnone-phoenix.png'];
 
 self.addEventListener('install', function (event) {
   event.waitUntil(caches.open(CACHE).then(function (c) { return c.addAll(SHELL); }).then(function () { return self.skipWaiting(); }));

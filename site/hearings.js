@@ -217,6 +217,11 @@
 
   function emptyMessage() {
     var t = todayKey();
+    // Between sessions no agenda carries bills, so a bill number can't match.
+    if (state.q && /^(?:[a-z]{0,3}[hs]b|[hs]j[rm]|[hs]cr)\s*\d{3,4}$/i.test(state.q) &&
+        !state.events.some(function (e) { return e.bills && e.bills.length; })) {
+      return 'No committee agenda lists bills right now. Bill hearings show up here once the Legislature schedules them, mostly during the session that starts each January.';
+    }
     if (filtering()) return 'No upcoming committee meetings match. Try another word or topic, or check back as committees post their agendas.';
     var msg = 'No committee meetings are scheduled ' + (state.day === t ? 'today' : 'on this day') + '.';
     if (t < SESSION_START) msg += ' Between sessions, committees meet only a few days a month. The 2027 session starts Monday, January 11, and most committees meet every weekday after that.';

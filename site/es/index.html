@@ -18,8 +18,6 @@
 <link rel="alternate" hreflang="en" href="https://civicswa.org/">
 <link rel="alternate" hreflang="es" href="https://civicswa.org/es/">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
@@ -62,6 +60,7 @@
 <link rel="icon" type="image/png" href="/icons/favicon-48.png">
 <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
 <meta name="apple-mobile-web-app-title" content="CivicsWA">
+<noscript><style>.js-only { display: none; }</style></noscript>
 </head>
 <body>
 <a class="skip" href="#events">Ir a las reuniones</a>
@@ -116,7 +115,8 @@
       <input id="q" type="search" placeholder="Un tema, junta, lugar o proyecto de ley: vivienda, Lacey, HB 1001" autocomplete="off">
     </div>
     <div class="chips" role="group" aria-label="Filtrar por tipo" id="chips"></div>
-    <div class="list" id="list" aria-live="polite"><p class="empty">Cargando reuniones…</p></div>
+    <div class="list" id="list" aria-live="polite"><p class="empty js-only">Cargando reuniones…</p></div>
+    <noscript><p class="empty">Esta lista necesita JavaScript, que está desactivado en su navegador. Las reuniones de comités de la Legislatura están en <a href="https://app.leg.wa.gov/committeeschedules/">app.leg.wa.gov/committeeschedules</a> (en inglés).</p></noscript>
     <button class="more" id="more" type="button" hidden>Mostrar dos semanas más</button>
   </main>
 

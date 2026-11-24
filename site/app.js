@@ -27,6 +27,9 @@
       'El condado publica sus reuniones y agendas en su propio sitio web. Hasta que podamos agregarlas aquí, consulte ese sitio.',
     'See what the calendar covers': 'Vea qué cubre el calendario',
     'The calendar could not be loaded. Please try again later.': 'No se pudo cargar el calendario. Inténtelo más tarde.',
+    'No committee agenda lists bills right now. Bill hearings show up here once the Legislature schedules them, mostly during the session that starts each January.':
+      'Ninguna agenda de comité incluye proyectos de ley en este momento. Las audiencias aparecerán aquí cuando la Legislatura las programe, sobre todo durante la sesión que comienza cada enero.',
+    'Look up any bill on the Legislature’s site': 'Busque cualquier proyecto de ley en el sitio de la Legislatura',
     'bill': 'proyecto de ley', 'bills': 'proyectos de ley', 'on this agenda': 'en esta agenda'
   };
   function T(s) { return LANG === 'es' && ES[s] ? ES[s] : s; }
@@ -108,6 +111,36 @@
     return q.toLowerCase().split(/\s+/).filter(Boolean).every(function (w) { return hay.indexOf(w) !== -1; });
   }
   var SCHEDULE_PREFIX = 'From the regular meeting schedule';
+
+  // "HB 1001", "sb5002", "ESSB 5187", "HJR 4200": a search for one bill.
+  function looksLikeBill(q) { return /^(?:[a-z]{0,3}[hs]b|[hs]j[rm]|[hs]cr)\s*\d{3,4}$/i.test(q.trim()); }
+  // Between sessions no agenda carries bills, so a bill search can't match.
+  // Say that plainly instead of "no meetings match".
+  function noBillsYet() {
+    var p = el('p', 'empty', T('No committee agenda lists bills right now. Bill hearings show up here once the Legislature schedules them, mostly during the session that starts each January.') + ' ');
+    var a = el('a', null, T('Look up any bill on the Legislature’s site'));
+    a.href = 'https://app.leg.wa.gov/billinfo/'; a.rel = 'noopener';
+    p.appendChild(a);
+    p.appendChild(document.createTextNode('.'));
+    return p;
+  }
+
+  // Keep the place, filter and search in the address bar so the view can be
+  // shared or bookmarked ("?county=King&city=Seattle"). Nothing is sent
+  // anywhere: the address only changes in this browser.
+  function syncUrl() {
+    if (!window.history || !history.replaceState) return;
+    var qs = [];
+    var add = function (k, v) { if (v) qs.push(k + '=' + encodeURIComponent(v).replace(/%20/g, '+')); };
+    add('county', state.county); add('city', state.city);
+    add('cat', state.cat !== 'all' ? state.cat : ''); add('q', state.q);
+    try { history.replaceState(null, '', location.pathname + (qs.length ? '?' + qs.join('&') : '')); } catch (e) { /* file: pages */ }
+  }
+  function param(name) {
+    var m = new RegExp('[?&]' + name + '=([^&#]*)').exec(location.search);
+    if (!m) return null;
+    try { return decodeURIComponent(m[1].replace(/\+/g, ' ')).trim(); } catch (e) { return null; }
+  }
 
   function icsLink(e) {
     var p = parts(e.start);
@@ -251,6 +284,9 @@
 
     if (state.county && state.connected && !state.connected[state.county]) {
       list.appendChild(notConnected());
+    } else if (!rows.length && state.q && looksLikeBill(state.q) && state.events.length &&
+               !state.events.some(function (e) { return e.bills && e.bills.length; })) {
+      list.appendChild(noBillsYet());
     } else if (!rows.length) {
       list.appendChild(el('p', 'empty', state.events.length
         ? (state.q ? (LANG === 'es' ? 'Ninguna reunión coincide con “' + state.q + '” en estas fechas. Pruebe otra palabra, un área más amplia o más semanas.'
@@ -303,23 +339,23 @@
     var q = $('q'), timer;
     q.addEventListener('input', function () {
       clearTimeout(timer);
-      timer = setTimeout(function () { state.q = q.value.trim(); render(); }, 200);
+      timer = setTimeout(function () { state.q = q.value.trim(); syncUrl(); render(); }, 200);
     });
     CATEGORIES.forEach(function (c) {
       var b = el('button', 'chip', T(c.label));
       b.type = 'button';
       b.dataset.cat = c.id;
-      b.addEventListener('click', function () { state.cat = c.id; render(); });
+      b.addEventListener('click', function () { state.cat = c.id; syncUrl(); render(); });
       $('chips').appendChild(b);
     });
     $('more').addEventListener('click', function () { state.days += 14; render(); });
     $('county').addEventListener('change', function () {
       state.county = $('county').value; state.city = '';
-      savePlace({ county: state.county }); fillCities(); render();
+      savePlace({ county: state.county }); fillCities(); syncUrl(); render();
     });
     $('city').addEventListener('change', function () {
       state.city = $('city').value;
-      savePlace({ county: state.county, city: state.city }); render();
+      savePlace({ county: state.county, city: state.city }); syncUrl(); render();
     });
   }
 
@@ -385,6 +421,11 @@
   if (wanted && CATEGORIES.some(function (c) { return c.id === wanted; })) state.cat = wanted;
   state.county = place.county || '';
   state.city = place.city || '';
+  // A shared link names its own place and search; it wins over what this
+  // browser had saved, without replacing the saved place.
+  var linkCounty = param('county'), linkCity = param('city'), linkQ = param('q');
+  if (linkCounty !== null) { state.county = linkCounty; state.city = linkCity || ''; }
+  if (linkQ) { state.q = linkQ; $('q').value = linkQ; }
   setup();
   Promise.all([
     fetch(BASE + 'data/events.json').then(function (r) { return r.json(); }),
@@ -395,6 +436,12 @@
     state.events = (res[0].events || []).map(function (e) { e.county = e.county || 'Thurston'; return e; });
     state.status = res[1];
     state.sources = res[1].sources || [];
+    // Links are forgiving about capitals: "?county=king" finds King.
+    var same = function (a, b) { return String(a).toLowerCase() === String(b).toLowerCase(); };
+    if (linkCounty) {
+      Object.keys(state.local.counties || {}).forEach(function (c) { if (same(c, state.county.replace(/\s+county$/i, ''))) state.county = c; });
+      state.events.some(function (e) { if (e.county === state.county && same(e.area, state.city)) { state.city = e.area; return true; } return false; });
+    }
     fillCounties();
     // A shared link to one meeting: show it, whatever place or filter this
     // browser had saved, and bring it into view.
