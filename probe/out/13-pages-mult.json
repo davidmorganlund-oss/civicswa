@@ -1,0 +1,54 @@
+{
+"_stamp": 1,
+"kind": "pages",
+"results": [
+{
+"key": "mc_rss_none",
+"url": "https://gateway.bibliocommons.com/v2/libraries/multcolib/rss/events",
+"status": 504,
+"final": "https://gateway.bibliocommons.com/v2/libraries/multcolib/rss/events",
+"error": null,
+"len": 92
+},
+{
+"key": "mc_rss_civic",
+"url": "https://gateway.bibliocommons.com/v2/libraries/multcolib/rss/events?q=civic&page=1",
+"status": 504,
+"final": "https://gateway.bibliocommons.com/v2/libraries/multcolib/rss/events?q=civic&page=1",
+"error": null,
+"len": 92
+},
+{
+"key": "mc_rss_cit",
+"url": "https://gateway.bibliocommons.com/v2/libraries/multcolib/rss/events?q=citizenship&page=1",
+"status": 504,
+"final": "https://gateway.bibliocommons.com/v2/libraries/multcolib/rss/events?q=citizenship&page=1",
+"error": null,
+"len": 92
+},
+{
+"key": "mc_json",
+"url": "https://gateway.bibliocommons.com/v2/libraries/multcolib/events?q=voter",
+"status": 403,
+"final": "https://gateway.bibliocommons.com/v2/libraries/multcolib/events?q=voter",
+"error": null,
+"len": 87
+},
+{
+"key": "mc_json2",
+"url": "https://gateway.bibliocommons.com/v2/libraries/multcolib/events?page=1&limit=10",
+"status": 403,
+"final": "https://gateway.bibliocommons.com/v2/libraries/multcolib/events?page=1&limit=10",
+"error": null,
+"len": 87
+},
+{
+"key": "wc_rss",
+"url": "https://gateway.bibliocommons.com/v2/libraries/wccls/rss/events?q=voter&page=1",
+"status": 200,
+"final": "https://gateway.bibliocommons.com/v2/libraries/wccls/rss/events?q=voter&page=1",
+"error": null,
+"len": 604
+}
+]
+}
