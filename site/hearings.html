@@ -16,14 +16,13 @@
 <meta property="og:image:alt" content="CivicsWA: Find out what your community is deciding this week.">
 <link rel="canonical" href="https://civicswa.org/hearings.html">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 <link rel="manifest" href="/manifest.webmanifest">
 <meta name="theme-color" content="#1D5A3B">
 <link rel="icon" type="image/png" href="/icons/favicon-48.png">
 <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
 <meta name="apple-mobile-web-app-title" content="CivicsWA">
+<noscript><style>.js-only { display: none; }</style></noscript>
 </head>
 <body>
 <a class="skip" href="#hearings">Skip to the meetings</a>
@@ -60,7 +59,8 @@
       <p class="topics-label" id="topics-label">Follow a topic</p>
       <div class="chips scroll" role="group" aria-labelledby="topics-label" id="topics"></div>
     </div>
-    <div class="list" id="list" aria-live="polite"><p class="empty">Loading committee meetings…</p></div>
+    <div class="list" id="list" aria-live="polite"><p class="empty js-only">Loading committee meetings…</p></div>
+    <noscript><p class="empty">This list needs JavaScript, which is turned off in your browser. The Legislature posts every committee meeting at <a href="https://app.leg.wa.gov/committeeschedules/">app.leg.wa.gov/committeeschedules</a>.</p></noscript>
   </main>
 
   <aside class="side">

@@ -658,3 +658,51 @@ def test_boarddocs_stale_snapshot_ignored(tmp_path, monkeypatch):
     monkeypatch.setattr(build, "BOARDDOCS_SNAPSHOT", path)
     monkeypatch.setattr(build, "_bd_cache", {})
     assert build.boarddocs_snapshot(now=datetime(2026, 11, 23, tzinfo=TZ)) is None
+
+
+def test_cancelled_copy_wins_over_its_twin():
+    src = {"id": "fh", "name": "Town of Friday Harbor", "area": "Friday Harbor", "homepage": "https://example.org"}
+    when = datetime(2026, 12, 10, 17, 30, tzinfo=TZ)
+    live = build.make_event(src, title="Planning Commission", start=when, uid="1", location="Town Hall",
+                            agenda_url="https://example.org/agenda.pdf")
+    gone = build.make_event(src, title="Planning Commission", start=when, uid="2", note="Cancellation Notice")
+    (kept,) = build.merge_duplicates([live, gone])
+    assert kept["id"] == gone["id"] and kept["cancelled"]
+
+
+def test_joint_meeting_posted_once_per_body_is_one_meeting():
+    src = {"id": "mi", "name": "City of Mercer Island", "area": "Mercer Island", "homepage": "https://example.org"}
+    when = datetime(2026, 12, 7, 17, 0, tzinfo=TZ)
+    a = build.make_event(src, title="Arts Council, Parks & Rec Commission, and Open Space Conservancy Trust Special Joint Hybrid Meeting", start=when, uid="1")
+    b = build.make_event(src, title="Parks & Rec Commission, Open Space Conservancy Trust and Arts Council Special Joint Hybrid Meeting", start=when, uid="2")
+    c = build.make_event(src, title="Planning Commission", start=when, uid="3")
+    assert len(build.merge_duplicates([a, b, c])) == 2
+
+
+def test_room_codes_and_placeholder_locations_are_tidied():
+    src = {"id": "tc", "name": "Thurston County", "area": "countywide", "homepage": "https://example.org"}
+    when = datetime(2026, 12, 1, 9, 0, tzinfo=TZ)
+    assert build.make_event(src, title="Board Work Session", start=when, location="ATR_Board_Rm_110")["location"] == "ATR Board Rm 110"
+    assert build.make_event(src, title="Board Work Session", start=when, location="TBD")["location"] == ""
+    assert build.make_event(src, title="Board Work Session", start=when, location="Room 1_A, City Hall")["location"] == "Room 1_A, City Hall"
+
+
+def test_civicclerk_event_type_is_not_a_title():
+    r = {"eventName": "One Time Event", "categoryName": "Parks Board"}
+    assert build.civicclerk_title(r) == "Parks Board"
+    assert build.civicclerk_title({"eventName": "One Time Event", "categoryName": "One Time Event"}) == "One Time Event"
+    assert build.civicclerk_title({"eventName": "One Time Event", "categoryName": ""}) == "One Time Event"
+
+
+def test_quiet_sources_are_flagged_after_two_weeks():
+    sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "pipeline"))
+    import alerts
+    today = date(2026, 12, 20)
+    status = {"sources": [
+        {"name": "A", "state": "quiet", "quiet_since": "2026-12-01"},
+        {"name": "B", "state": "quiet", "quiet_since": "2026-12-15"},
+        {"name": "C", "state": "quiet", "quiet_since": "2026-12-01", "quiet_ok": True},
+        {"name": "D", "state": "ok", "quiet_since": ""},
+        {"name": "E", "state": "quiet"}]}
+    assert [s["name"] for s in alerts.quiet_sources(status, today)] == ["A"]
+    assert "nothing listed since 2026-12-01" in alerts.body([], alerts.quiet_sources(status, today))

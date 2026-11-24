@@ -14,6 +14,10 @@ server, database or paid service.
 - **Alerts** (`pipeline/alerts.py`): when a calendar has failed three nights in a row,
   the run opens or updates the GitHub issue "Calendar sources need attention", and
   closes it when everything reads again. Watch the repository to get those emails.
+- **Quiet calendars:** a calendar that answers but lists no meetings is marked "quiet".
+  After 14 quiet nights in a row it is added to the same issue, because that usually
+  means the site changed its layout or moved its calendar. If a source really is
+  empty for long stretches, add `quiet_ok: true` to its entry in `pipeline/sources.yml`.
 - When a calendar can't be read, the site keeps showing what it listed the last time
   it worked, and the coverage page says so.
 - `build.py` reads up to 8 calendars at once but never sends one website more than
@@ -45,6 +49,12 @@ November 2026).
 
 ## Pages that need a hand edit
 
+- `site/404.html`: the "page not found" page GitHub Pages serves for a bad address.
+  It uses root-relative links (`/index.html`) because it can appear at any path.
+  If the header or footer changes, change it here too.
+- Fonts: Montserrat is served from `site/fonts/` (SIL Open Font License, in
+  `site/fonts/OFL.txt`), not from Google, so no visitor data goes to a font host.
+
 - `site/sitemap.xml`: add a line when you add a page.
 - `site/data/local.json`: county and city links for the "Near you" boxes.
 
@@ -59,6 +69,12 @@ November 2026).
 - Domain: civicswa.org at Namecheap. Keep auto-renew on.
 - Security: code scanning, Dependabot alerts, secret scanning and private
   vulnerability reporting are on (Settings > Advanced Security).
+
+## Links to a place or a search
+
+The calendar keeps the visitor's county, city, filter and search in the address
+(`/?county=King&city=Seattle&cat=school&q=budget`), so any view can be shared.
+A shared link doesn't change the place the recipient's browser had saved.
 
 ## Spotlight banner (outside opportunities)
 

@@ -15,14 +15,13 @@
 <meta property="og:site_name" content="CivicsWA">
 <link rel="canonical" href="https://civicswa.org/coverage.html">
 <meta name="description" content="Which Washington counties, cities, school districts and library boards CivicsWA reads, and when each calendar was last read.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 <link rel="manifest" href="/manifest.webmanifest">
 <meta name="theme-color" content="#1D5A3B">
 <link rel="icon" type="image/png" href="/icons/favicon-48.png">
 <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
 <meta name="apple-mobile-web-app-title" content="CivicsWA">
+<noscript><style>.js-only { display: none; }</style></noscript>
 </head>
 <body>
 <a class="skip" href="#coverage">Skip to content</a>
@@ -44,8 +43,9 @@
 </div></section>
 
 <main class="wrap guide-body" id="coverage" style="padding-block: 32px 64px; display: flex; flex-direction: column; gap: 16px; max-width: 760px">
-  <p id="cov-summary" class="muted">Loading…</p>
+  <p id="cov-summary" class="muted js-only">Loading…</p>
   <div id="cov-list"></div>
+  <noscript><p class="muted">This list needs JavaScript, which is turned off in your browser.</p></noscript>
   <p class="muted">Don’t see your city, school district or library? It may not publish a calendar online that we can read yet. <a href="about.html">About the listings</a>.</p>
 
 </main>
