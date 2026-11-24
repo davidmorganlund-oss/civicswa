@@ -1,0 +1,30 @@
+{
+"_stamp": 1,
+"kind": "pages",
+"results": [
+{
+"key": "oaesd_esds",
+"url": "https://www.oaesd.org/about/esds/",
+"status": 200,
+"final": "https://www.oaesd.org/about/esds/",
+"error": null,
+"len": 157860
+},
+{
+"key": "wppa_county",
+"url": "https://www.washingtonports.org/wppa-member-ports-by-county/",
+"status": 200,
+"final": "https://www.washingtonports.org/wppa-member-ports-by-county/",
+"error": null,
+"len": 137330
+},
+{
+"key": "ode_pdf",
+"url": "https://www.oregon.gov/ode/about-us/Documents/CombinedDirectory_20261110_010505.pdf",
+"status": 200,
+"final": "https://www.oregon.gov/ode/about-us/Documents/CombinedDirectory_20261110_010505.pdf",
+"error": null,
+"len": 434355
+}
+]
+}

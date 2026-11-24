@@ -1,0 +1,7769 @@
+{
+"_stamp": 1,
+"kind": "verify",
+"results": [
+{
+"id": "WA-150",
+"url": "http://www.adnaschools.org/",
+"name": "Adna",
+"state": "WA",
+"status": 200,
+"final": "https://www.adnaschools.org/",
+"error": null,
+"title": "Home | Adna School District",
+"name_hits": [
+"adna"
+],
+"name_toks": [
+"adna"
+],
+"state_hit": true,
+"parked": false,
+"words": 219,
+"links": [
+[
+"https://www.adnaschools.org/page/school-calendar",
+"School Calendar"
+],
+[
+"https://www.adnaschools.org/page/school-board",
+"School Board"
+],
+[
+"https://aptg.co/jyklxB",
+"School Calendar"
+]
+]
+},
+{
+"id": "WA-151",
+"url": "http://www.asd103.org/",
+"name": "Anacortes",
+"state": "WA",
+"status": 200,
+"final": "https://www.asd103.org/",
+"error": null,
+"title": "Anacortes School District",
+"name_hits": [
+"anacortes"
+],
+"name_toks": [
+"anacortes"
+],
+"state_hit": false,
+"parked": false,
+"words": 50,
+"links": []
+},
+{
+"id": "WA-152",
+"url": "http://www.aasd.wednet.edu/",
+"name": "Asotin-Anatone",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ReadTimeout: HTTPSConnectionPool(host='www.aasd.wednet.edu', port=443): Read timed out. (read timeout=25)"
+},
+{
+"id": "WA-155",
+"url": "http://www.centervilleschool.org/",
+"name": "Centerville",
+"state": "WA",
+"status": 200,
+"final": "https://www.centervilleschool.org/",
+"error": null,
+"title": "Centerville School District",
+"name_hits": [
+"centerville"
+],
+"name_toks": [
+"centerville"
+],
+"state_hit": false,
+"parked": false,
+"words": 47,
+"links": []
+},
+{
+"id": "WA-156",
+"url": "http://chehalisschools.org/",
+"name": "Chehalis",
+"state": "WA",
+"status": 200,
+"final": "https://www.chehalisschools.org/",
+"error": null,
+"title": "Chehalis School District Home",
+"name_hits": [
+"chehalis"
+],
+"name_toks": [
+"chehalis"
+],
+"state_hit": true,
+"parked": false,
+"words": 852,
+"links": [
+[
+"https://www.chehalisschools.org/26886_1",
+"Board of Directors"
+],
+[
+"https://www.chehalisschools.org/schoolboard",
+"Board of Directors"
+],
+[
+"https://www.chehalisschools.org/191679_2",
+"Board Policies"
+],
+[
+"https://www.chehalisschools.org/193756_2",
+"Board Meetings and Minutes"
+],
+[
+"https://chehalisschools.org/26950",
+"School & District Calendars"
+],
+[
+"https://www.chehalisschools.org/26886_1",
+"Board of Directors"
+],
+[
+"https://www.chehalisschools.org/schoolboard",
+"Board of Directors"
+],
+[
+"https://www.chehalisschools.org/191679_2",
+"Board Policies"
+],
+[
+"https://www.chehalisschools.org/193756_2",
+"Board Meetings and Minutes"
+],
+[
+"https://www.chehalisschools.org/page/page_calendar?calID=132601&accessibility=enabled",
+""
+],
+[
+"https://www.chehalisschools.org/page/page_calendar?calID=132601",
+"View Full Calendar"
+],
+[
+"https://chehalisschools.org/26950",
+"Calendars"
+]
+]
+},
+{
+"id": "WA-157",
+"url": "http://www.colfax.k12.wa.us/",
+"name": "Colfax",
+"state": "WA",
+"status": 200,
+"final": "https://www.csd300.org/en-US",
+"error": null,
+"title": "Home - Colfax School District",
+"name_hits": [
+"colfax"
+],
+"name_toks": [
+"colfax"
+],
+"state_hit": true,
+"parked": false,
+"words": 756,
+"links": [
+[
+"https://www.csd300.org/en-US/pages/3acdfa92-71a3-4202-8f91-33ecf058bf5c",
+"School Board"
+],
+[
+"https://www.csd300.org/en-US/pages/3acdfa92-71a3-4202-8f91-33ecf058bf5c",
+"School Board"
+],
+[
+"https://drive.google.com/file/d/1vpHuByyaI3It_2589yJ7-qjukSdkUI5z/view?usp=sharing",
+"2026-27 School Calendar"
+]
+]
+},
+{
+"id": "WA-158",
+"url": "https://sites.google.com/view/coulee-hartline-sd/coulee-hartline-sd",
+"name": "Coulee-Hartline",
+"state": "WA",
+"status": 200,
+"final": "https://sites.google.com/view/coulee-hartline-sd/coulee-hartline-sd",
+"error": null,
+"title": "Welcome to CHSD 151",
+"name_hits": [
+"coulee",
+"hartline"
+],
+"name_toks": [
+"coulee",
+"hartline"
+],
+"state_hit": true,
+"parked": false,
+"words": 508,
+"links": [
+[
+"http://www.google.com/url?q=http%3A%2F%2Fwww.achsd.org%2Fk-8%2Fdistrictcalendar.pdf&sa=D&sntz=1&usg=AOvVaw0pc6jbhEcawu47wgYtN5u4",
+"District School Year Calendar"
+],
+[
+"https://drive.google.com/drive/folders/1Qwz5lyKdKnLCxD9IrNbRlLrNxlM_OO4T?usp=sharing",
+"School Board Information"
+],
+[
+"https://www.google.com/calendar/embed?color=%23932440&src=almirasd.org_v43hhfvh12fqae68c2qnipirp8@group.calendar.google.com",
+""
+]
+]
+},
+{
+"id": "WA-159",
+"url": "http://www.crescentschooldistrict.org/",
+"name": "Crescent",
+"state": "WA",
+"status": 200,
+"final": "https://www.crescentschooldistrict.org/",
+"error": null,
+"title": "Crescent School District - Home",
+"name_hits": [
+"crescent"
+],
+"name_toks": [
+"crescent"
+],
+"state_hit": true,
+"parked": false,
+"words": 863,
+"links": [
+[
+"https://www.crescentschooldistrict.org/school-year-calendar",
+"School Year Calendar"
+],
+[
+"https://www.crescentschooldistrict.org/141660_2",
+"School Board"
+],
+[
+"https://www.crescentschooldistrict.org/43798_1",
+"District Calendar"
+],
+[
+"https://crescentschooldistrict.org/141666_2",
+"Calendar of Events"
+],
+[
+"https://www.crescentschooldistrict.org/school-year-calendar",
+"School Year Calendar"
+],
+[
+"https://www.crescentschooldistrict.org/141660_2",
+"School Board"
+],
+[
+"https://www.crescentschooldistrict.org/43798_1",
+"District Calendar"
+],
+[
+"https://www.crescentschooldistrict.org/141666_2",
+"Event Calendar"
+],
+[
+"https://crescentschooldistrict.org/board-meetings",
+"--> More Info"
+],
+[
+"https://www.crescentschooldistrict.org/page/page_calendar?calID=135427&accessibility=enabled",
+""
+],
+[
+"https://www.crescentschooldistrict.org/page/page_calendar?calID=135427",
+"View Full Calendar"
+],
+[
+"https://crescentschooldistrict.org/141666_2",
+"Events Calendar"
+],
+[
+"https://crescentschooldistrict.org/141638_2",
+"Governing Board"
+]
+]
+},
+{
+"id": "WA-160",
+"url": "https://www.davenportsd.org/",
+"name": "Davenport",
+"state": "WA",
+"status": 200,
+"final": "https://www.davenportsd.org/",
+"error": null,
+"title": "Home - Davenport School District",
+"name_hits": [
+"davenport"
+],
+"name_toks": [
+"davenport"
+],
+"state_hit": true,
+"parked": false,
+"words": 1914,
+"links": [
+[
+"https://www.davenportsd.org/calendar",
+"Calendar"
+],
+[
+"https://www.davenportsd.org/our_district/school_board",
+"School Board"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/board_policies",
+"Board Policies"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2026_meeting_dates",
+"2026 Meeting Dates"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2026_meeting_packets",
+"2026 Meeting Packets"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2026_meeting_packets/january_26_-_regular",
+"January 26 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2026_meeting_packets/february_23_-_regular",
+"February 23 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2026_meeting_packets/march_30_-_regular",
+"March 30 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2026_meeting_packets/april_27_-_regular",
+"April 27 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2026_meeting_packets/may_26_-_regular",
+"May 26 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2026_meeting_packets/june_22_-_regular",
+"June 22 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2026_meeting_packets/july_27_-_regular",
+"July 27 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2026_meeting_packets/august_19_-_regular",
+"August 19 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2026_meeting_packets/september_9_-_special",
+"September 9 - Special"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2026_meeting_packets/september_28_-_regular",
+"September 28 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2026_meeting_packets/october_26_-_regular",
+"October 26 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2025_meeting_packets",
+"2025 Meeting Packets"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2025_meeting_packets/january_27_-_regular",
+"January 27 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2025_meeting_packets/february_24_-_regular",
+"February 24 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2025_meeting_packets/march_20_-_special",
+"March 20 - Special"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2025_meeting_packets/march_31_-_regular",
+"March 31 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2025_meeting_packets/april_28_-_regular",
+"April 28 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2025_meeting_packets/may_27_-_regular",
+"May 27 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2025_meeting_packets/june_30_-_regular",
+"June 30 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2025_meeting_packets/july_21_-_regular",
+"July 21 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2025_meeting_packets/august_20_-_regular",
+"August 20 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2025_meeting_packets/september_29_-_regular",
+"September 29 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2025_meeting_packets/october_27_-_regular",
+"October 27 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2025_meeting_packets/november_24_-_regular",
+"November 24 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2025_meeting_packets/december_15_-_regular",
+"December 15 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2024_meeting_packets",
+"2024 Meeting Packets"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2024_meeting_packets/january_29_-_regular",
+"January 29 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2024_meeting_packets/february_15_-_special",
+"February 15 - Special"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2024_meeting_packets/february_26_-_regular",
+"February 26 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2024_meeting_packets/march_25_-_regular",
+"March 25 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2024_meeting_packets/april_29_-_regular",
+"April 29 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2024_meeting_packets/may_13_-_budget_planning",
+"May 13 - Budget Planning"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2024_meeting_packets/may_28_-_regular",
+"May 28 - Regular"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2024_meeting_packets/june_10_-_budget_planning",
+"June 10 - Budget Planning"
+],
+[
+"https://www.davenportsd.org/our_district/school_board/2024_meeting_packets/june_20_-_regular",
+"June 20 - Regular"
+]
+]
+},
+{
+"id": "WA-161",
+"url": "https://www.eagles.edu/",
+"name": "Elma",
+"state": "WA",
+"status": 200,
+"final": "https://www.eagles.edu/",
+"error": null,
+"title": "Home - Elma School District 68",
+"name_hits": [
+"elma"
+],
+"name_toks": [
+"elma"
+],
+"state_hit": true,
+"parked": false,
+"words": 895,
+"links": [
+[
+"https://www.eagles.edu/our-district/school-board-of-directors",
+"School Board of Directors"
+],
+[
+"https://www.eagles.edu/our-district/calendar",
+"Calendar"
+],
+[
+"https://www.eagles.edu/departments/facilities/facilities-dashboard",
+"Facilities Dashboard"
+],
+[
+"https://www.eagles.edu/for-families-students/calendar",
+"Calendar"
+],
+[
+"https://www.eagles.edu/our-district/school-board-of-directors",
+"School Board of Directors"
+],
+[
+"https://www.eagles.edu/our-district/calendar",
+"Calendar"
+],
+[
+"https://www.eagles.edu/for-families-students/calendar",
+"Calendar"
+],
+[
+"https://www.eagles.edu/default-board-post-page/~board/district-news-board/post/2026-elma-food-bowl",
+""
+],
+[
+"https://www.eagles.edu/default-board-post-page/~board/district-news-board/post/2026-elma-food-bowl",
+"2026 Elma Food Bowl"
+],
+[
+"https://www.eagles.edu/fs/pages/613",
+"View Full Calendar"
+],
+[
+"https://www.eagles.edu/our-district/calendar",
+"Calendar"
+]
+]
+},
+{
+"id": "WA-162",
+"url": "http://ephrataschools.org/",
+"name": "Ephrata",
+"state": "WA",
+"status": 200,
+"final": "https://ephrataschools.org/",
+"error": null,
+"title": "EPHRATA SCHOOL DISTRICT - Home",
+"name_hits": [
+"ephrata"
+],
+"name_toks": [
+"ephrata"
+],
+"state_hit": true,
+"parked": false,
+"words": 1735,
+"links": [
+[
+"https://ephrataschools.org/community-engagement-board",
+"Community Engagement Board"
+],
+[
+"https://ephrataschools.org/schoolboard-section",
+"School Board"
+],
+[
+"https://ephrataschools.org/minutes-and-agendas-2",
+"Minutes and Agendas"
+],
+[
+"https://ephrataschools.org/employee-calendar",
+"Work Year Calendar"
+],
+[
+"https://ephrataschools.org/calendar",
+"Calendar"
+],
+[
+"https://ephrataschools.org/calendar-district",
+"District Calendar"
+],
+[
+"https://ephrataschools.org/facility-use-calendar",
+"District Facility Use Calendar"
+],
+[
+"https://ephrataschools.org/community-engagement-board",
+"Community Engagement Board"
+],
+[
+"https://ephrataschools.org/schoolboard-section",
+"School Board"
+],
+[
+"https://ephrataschools.org/minutes-and-agendas-2",
+"Minutes and Agendas"
+],
+[
+"https://ephrataschools.org/employee-calendar",
+"Work Year Calendar"
+],
+[
+"https://ephrataschools.org/calendar",
+"Calendar"
+],
+[
+"https://ephrataschools.org/calendar-district",
+"District Calendar"
+],
+[
+"https://ephrataschools.org/facility-use-calendar",
+"District Facility Use Calendar"
+],
+[
+"https://www.ephrataschools.org/calendar",
+"District Calendar"
+],
+[
+"https://ephrataschools.org/333036_2?articleID=86182",
+"Board of Directors Notice of Attendance - WSSDA Conference (November 19 - Novemb"
+],
+[
+"https://ephrataschools.org/333036_2?articleID=84378",
+"School Board Highlights: October 26"
+],
+[
+"https://ephrataschools.org/page/page_calendar?calID=142538&accessibility=enabled",
+""
+],
+[
+"https://www.ephrataschools.org/351261_2",
+"View Full Calendar"
+]
+]
+},
+{
+"id": "WA-163",
+"url": "https://www.fifeschools.com/",
+"name": "Fife",
+"state": "WA",
+"status": 200,
+"final": "https://www.fifeschools.com/",
+"error": null,
+"title": "Home - Fife Public Schools",
+"name_hits": [
+"fife"
+],
+"name_toks": [
+"fife"
+],
+"state_hit": true,
+"parked": false,
+"words": 1639,
+"links": [
+[
+"https://www.fifeschools.com/district/departments/food-services/wellness-policy-board-policies",
+"Wellness Policy Board Policies"
+],
+[
+"https://docs.google.com/document/d/11se5ItZnMc3vx45Ps7T2luZc3fWX8vi5X7tefA5PQ4M/edit?usp=sharing",
+"Induction Calendar (opens in new window/tab)"
+],
+[
+"https://www.fifeschools.com/district/national-board-certified-staff",
+"National Board Certified Staff"
+],
+[
+"https://www.fifeschools.com/district/school-board",
+"School Board"
+],
+[
+"https://www.fifeschools.com/district/school-board/board-members",
+"Board of Directors"
+],
+[
+"https://www.fifeschools.com/district/school-board/meetings",
+"Meetings"
+],
+[
+"https://www.fifeschools.com/district/school-board/agendas-and-minutes",
+"Agendas, Minutes & Recordings"
+],
+[
+"https://www.fifeschools.com/district/school-board/role-of-school-board",
+"Role of School Board"
+],
+[
+"https://www.fifeschools.com/district/school-board/student-representative-application-process",
+"Student Representative Application Process"
+],
+[
+"https://www.fifeschools.com/district/national-board-certified-staff",
+"National Board Certified Staff"
+],
+[
+"https://www.fifeschools.com/district/school-board",
+"School Board"
+],
+[
+"https://www.fifeschools.com/calendar",
+"Student Calendar"
+],
+[
+"https://www.fifeschools.com/district/district-information/calendars",
+"Calendars - Multi-Year"
+],
+[
+"https://www.fifeschools.com/~board/fife-public-schools-news/post/veterans-day-wednesday-november-11",
+""
+],
+[
+"https://www.fifeschools.com/~board/fife-public-schools-news/post/veterans-day-wednesday-november-11",
+"Veterans Day - Wednesday, November 11"
+],
+[
+"https://www.fifeschools.com/~board/fife-public-schools-news/post/veterans-day-wednesday-november-11",
+"Read More about Veterans Day - Wednesday, November 11"
+],
+[
+"https://www.fifeschools.com/~board/fife-public-schools-news/post/its-time-for-fall-conferences-1794244841796",
+""
+],
+[
+"https://www.fifeschools.com/~board/fife-public-schools-news/post/its-time-for-fall-conferences-1794244841796",
+"It's Time for Fall Conferences!"
+],
+[
+"https://www.fifeschools.com/~board/fife-public-schools-news/post/its-time-for-fall-conferences-1794244841796",
+"Read More about It's Time for Fall Conferences!"
+],
+[
+"https://www.fifeschools.com/~board/fife-public-schools-news/post/first-day-of-school",
+""
+],
+[
+"https://www.fifeschools.com/~board/fife-public-schools-news/post/first-day-of-school",
+"First Day of School"
+],
+[
+"https://www.fifeschools.com/~board/fife-public-schools-news/post/first-day-of-school",
+"Read More about First Day of School"
+],
+[
+"https://www.fifeschools.com/~board/fife-public-schools-news/post/summer-office-hours-1781887374636",
+""
+],
+[
+"https://www.fifeschools.com/~board/fife-public-schools-news/post/summer-office-hours-1781887374636",
+"Summer Office Hours"
+],
+[
+"https://www.fifeschools.com/~board/fife-public-schools-news/post/summer-office-hours-1781887374636",
+"Read More about Summer Office Hours"
+],
+[
+"https://www.fifeschools.com/~board/fife-public-schools-news/post/fhs-class-of-2026-graduation-live-stream-friday-june-13-630-pm-1781013138047",
+""
+],
+[
+"https://www.fifeschools.com/~board/fife-public-schools-news/post/fhs-class-of-2026-graduation-live-stream-friday-june-13-630-pm-1781013138047",
+"FHS Class of 2026 Graduation Live Stream - Tuesday, June 9 @ 6:30 pm"
+],
+[
+"https://www.fifeschools.com/~board/fife-public-schools-news/post/fhs-class-of-2026-graduation-live-stream-friday-june-13-630-pm-1781013138047",
+"Read More about FHS Class of 2026 Graduation Live Stream - Tuesday, June 9 @ 6:3"
+],
+[
+"https://www.fifeschools.com/~board/fife-public-schools-news/post/22nd-annual-district-art-show",
+""
+],
+[
+"https://www.fifeschools.com/~board/fife-public-schools-news/post/22nd-annual-district-art-show",
+"22nd Annual District Art Show"
+],
+[
+"https://www.fifeschools.com/~board/fife-public-schools-news/post/22nd-annual-district-art-show",
+"Read More about 22nd Annual District Art Show"
+],
+[
+"https://calendar.google.com/calendar/embed?src=calendar-district%40fifeschools.com&ctz=America%2FLos_Angeles",
+"View Full Calendar"
+],
+[
+"https://www.fifeschools.com/district/district-information/calendars",
+"Calendars"
+]
+]
+},
+{
+"id": "WA-164",
+"url": "https://www.garpal.net/",
+"name": "Garfield-Palouse",
+"state": "WA",
+"status": 200,
+"final": "https://www.garpal.net/",
+"error": null,
+"title": "Home - GARFIELD-PALOUSE SCHOOLS",
+"name_hits": [
+"garfield",
+"palouse"
+],
+"name_toks": [
+"garfield",
+"palouse"
+],
+"state_hit": true,
+"parked": false,
+"words": 755,
+"links": [
+[
+"https://www.garpal.net/administration/gar-pal-school-boards/welcome",
+"Gar-Pal School Boards"
+],
+[
+"https://www.garpal.net/administration/gar-pal-school-boards/welcome",
+"Welcome"
+],
+[
+"https://docs.google.com/document/d/1xt9JFU1NexeMeQxRiTJnFQiuqZgu2FRi/edit?usp=sharing&ouid=100870131688701109565&rtpof=true&sd=true",
+"Garfield and Palouse School Boards - Board Operation Procedures"
+],
+[
+"https://www.garpal.net/administration/gar-pal-school-boards/meeting-schedule",
+"Meeting Schedule"
+],
+[
+"https://www.garpal.net/administration/gar-pal-school-boards/meeting-agendas",
+"Meeting Agendas"
+],
+[
+"https://www.garpal.net/administration/gar-pal-school-boards/minutes",
+"Minutes"
+],
+[
+"https://www.garpal.net/administration/administration/gar-pal-school-boards/board-policies",
+"Board Policies"
+],
+[
+"https://www.garpal.net/administration/administration/gar-pal-school-boards/board-policies/1000-series",
+"1000 Series"
+],
+[
+"https://www.garpal.net/administration/administration/gar-pal-school-boards/board-policies/2000-series",
+"2000 Series"
+],
+[
+"https://www.garpal.net/administration/gar-pal-school-boards/board-policies/3000-series",
+"3000 Series"
+],
+[
+"https://www.garpal.net/administration/administration/gar-pal-school-boards/board-policies/4000-series",
+"4000 Series"
+],
+[
+"https://www.garpal.net/administration/administration/gar-pal-school-boards/board-policies/5000-series",
+"5000 Series"
+],
+[
+"https://www.garpal.net/administration/administration/gar-pal-school-boards/board-policies/6000-series",
+"6000 Series"
+],
+[
+"https://www.garpal.net/administration/gar-pal-school-boards/board-meeting-broadcasts",
+"Board Meeting Broadcasts"
+],
+[
+"https://www.garpal.net/calendar/calendar-of-events",
+"Calendar"
+],
+[
+"https://www.garpal.net/administration/gar-pal-school-boards/welcome",
+"Gar-Pal School Boards"
+],
+[
+"https://www.garpal.net/calendar/calendar-of-events",
+"Calendar"
+],
+[
+"https://www.garpal.net/news-and-events/post-details/~board/garfield-palouse-schools-news/post/a-message-from-dr-jeff-hardesty-our-incoming-palouse-schools-superintendent",
+""
+],
+[
+"https://www.garpal.net/news-and-events/post-details/~board/garfield-palouse-schools-news/post/a-message-from-dr-jeff-hardesty-our-incoming-palouse-schools-superintendent",
+"A Message from Dr. Jeff Hardesty, Our Incoming Palouse Schools Superintendent"
+],
+[
+"https://www.garpal.net/news-and-events/post-details/~board/garfield-palouse-schools-news/post/a-message-from-dr-jeff-hardesty-our-incoming-palouse-schools-superintendent",
+"Read More about A Message from Dr. Jeff Hardesty, Our Incoming Palouse Schools S"
+],
+[
+"https://www.garpal.net/fs/pages/1193",
+"View Full Calendar"
+]
+]
+},
+{
+"id": "WA-165",
+"url": "https://www.glenwoodsd.org/",
+"name": "Glenwood",
+"state": "WA",
+"status": 200,
+"final": "https://www.glenwoodsd.org/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"glenwood"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "WA-166",
+"url": "http://www.goldendaleschools.org",
+"name": "Goldendale",
+"state": "WA",
+"status": 200,
+"final": "https://www.goldendaleschools.org/",
+"error": null,
+"title": "Home - Goldendale School District 404",
+"name_hits": [
+"goldendale"
+],
+"name_toks": [
+"goldendale"
+],
+"state_hit": true,
+"parked": false,
+"words": 641,
+"links": [
+[
+"https://www.goldendaleschools.org/about/school-board",
+"School Board"
+],
+[
+"https://www.goldendaleschools.org/about/school-board/board-meeting-schedule",
+"Board Meeting Schedule"
+],
+[
+"https://meetings.boardbook.org/Public/Organization/780",
+"Board Agendas & Minutes (opens in new window/tab)"
+],
+[
+"https://www.goldendaleschools.org/about/school-board/board-meeting-procedures",
+"Board Meeting Procedures"
+],
+[
+"https://www.goldendaleschools.org/about/school-board/board-operating-protocols",
+"Board Operating Protocols"
+],
+[
+"https://www.goldendaleschools.org/about/school-board/board-archives-agendas-minutes",
+"Board Archives - Agendas & Minutes"
+],
+[
+"https://www.goldendaleschools.org/calendar",
+"Calendar"
+],
+[
+"https://www.goldendaleschools.org/about/school-board",
+"School Board"
+],
+[
+"https://www.goldendaleschools.org/calendar",
+"Calendar"
+],
+[
+"https://www.goldendaleschools.org/calendar",
+"Calendar"
+],
+[
+"https://www.goldendaleschools.org/fs/pages/1108",
+"View Full Calendar"
+],
+[
+"https://www.goldendaleschools.org/calendar",
+"Calendar"
+]
+]
+},
+{
+"id": "WA-167",
+"url": "http://www.gcdsd.org/",
+"name": "Grand Coulee Dam",
+"state": "WA",
+"status": 200,
+"final": "https://www.gcdsd.org/",
+"error": null,
+"title": "Home - Grand Coulee Dam School District 301-J",
+"name_hits": [
+"grand",
+"coulee",
+"dam"
+],
+"name_toks": [
+"grand",
+"coulee",
+"dam"
+],
+"state_hit": true,
+"parked": false,
+"words": 1075,
+"links": [
+[
+"https://www.gcdsd.org/programs/lake-roosevelt-indian-education-programs/meeting-notes",
+"Meeting Notes"
+],
+[
+"https://www.gcdsd.org/athletics/athletics-calendar",
+"Athletics Calendar"
+],
+[
+"https://www.gcdsd.org/administration/employment/administration/employment/calendar",
+"Calendar"
+],
+[
+"https://www.gcdsd.org/administration/forms-and-policies/board-policy-series-0000-strategic-planning",
+"Board Policy Series 0000 Strategic Planning"
+],
+[
+"https://www.gcdsd.org/administration/forms-and-policies/board-policy-series-1000-board-of-directors",
+"Board Policy Series 1000 Board of Directors"
+],
+[
+"https://www.gcdsd.org/administration/forms-and-policies/board-policy-series-2000-instruction",
+"Board Policy Series 2000 Instruction"
+],
+[
+"https://www.gcdsd.org/administration/forms-and-policies/board-policy-series-3000-students",
+"Board Policy Series 3000 Students"
+],
+[
+"https://www.gcdsd.org/administration/forms-and-policies/board-policy-series-4000-communication",
+"Board Policy Series 4000 Communication"
+],
+[
+"https://www.gcdsd.org/administration/forms-and-policies/board-policy-series-5000-personnel",
+"Board Policy Series 5000 Personnel"
+],
+[
+"https://www.gcdsd.org/administration/forms-and-policies/board-policy-series-6000-administration",
+"Board Policy Series 6000 Administration"
+],
+[
+"https://www.gcdsd.org/administration/school-board",
+"School Board"
+],
+[
+"https://www.gcdsd.org/administration/school-board",
+"Home"
+],
+[
+"https://www.gcdsd.org/administration/school-board/agendas",
+"Agendas"
+],
+[
+"https://www.gcdsd.org/administration/school-board/school-board-meeting-mins",
+"Board Meeting Minutes"
+],
+[
+"https://www.gcdsd.org/administration/school-board/administration/school-board/esser",
+"ESSER"
+],
+[
+"https://www.gcdsd.org/administration/school-board/financial-report",
+"Financial Report"
+],
+[
+"https://www.gcdsd.org/for-parents/for-parents-calendar",
+"For Parents Calendar"
+],
+[
+"https://www.gcdsd.org/fs/resource-manager/view/1271fdac-011a-4790-8810-fe0ddc2420e1",
+"2026-27 Calendar (opens in new window/tab)"
+],
+[
+"https://www.gcdsd.org/fs/resource-manager/view/1271fdac-011a-4790-8810-fe0ddc2420e1",
+"2026-27 Calendar (opens in new window/tab)"
+],
+[
+"https://www.gcdsd.org/athletics/athletics-calendar",
+"Athletics Calendar"
+],
+[
+"https://www.gcdsd.org/administration/school-board",
+"School Board"
+],
+[
+"https://www.gcdsd.org/for-parents/for-parents-calendar",
+"For Parents Calendar"
+],
+[
+"https://www.gcdsd.org/calendar2",
+"Calendar"
+],
+[
+"https://www.gcdsd.org/calendar2",
+"Calendar"
+]
+]
+},
+{
+"id": "WA-168",
+"url": "http://www.gnsd.k12.wa.us/",
+"name": "Great Northern",
+"state": "WA",
+"status": 200,
+"final": "https://www.gnsd.k12.wa.us/",
+"error": null,
+"title": "A great place to learn!",
+"name_hits": [
+"great",
+"northern"
+],
+"name_toks": [
+"great",
+"northern"
+],
+"state_hit": true,
+"parked": false,
+"words": 494,
+"links": [
+[
+"https://www.gnsd.k12.wa.us/school-board",
+"School Board"
+],
+[
+"https://www.gnsd.k12.wa.us/school-board/school-board",
+"School Board"
+],
+[
+"https://www.gnsd.k12.wa.us/school-board/policies-and-procedures",
+"Policies and Procedures"
+],
+[
+"https://www.gnsd.k12.wa.us/school-board/superintendent",
+"Superintendent"
+],
+[
+"https://www.gnsd.k12.wa.us/school-board",
+"School Board"
+],
+[
+"https://www.gnsd.k12.wa.us/school-board/school-board",
+"School Board"
+],
+[
+"https://www.gnsd.k12.wa.us/school-board/policies-and-procedures",
+"Policies and Procedures"
+],
+[
+"https://www.gnsd.k12.wa.us/school-board/superintendent",
+"Superintendent"
+],
+[
+"https://www.gnsd.k12.wa.us/school-board",
+"School Board"
+],
+[
+"https://www.gnsd.k12.wa.us/school-board/school-board",
+"School Board"
+],
+[
+"https://www.gnsd.k12.wa.us/school-board/policies-and-procedures",
+"Policies and Procedures"
+],
+[
+"https://www.gnsd.k12.wa.us/school-board/superintendent",
+"Superintendent"
+],
+[
+"https://docs.google.com/spreadsheets/d/1KxaSqRYpNQVACA0xBbvN25PaDWqcaxmb/edit?usp=sharing&ouid=116925633379803688778&rtpof=true&sd=true",
+"2026-2027 Calendar"
+]
+]
+},
+{
+"id": "WA-169",
+"url": "http://www.inchelium.wednet.edu/",
+"name": "Inchelium",
+"state": "WA",
+"status": 200,
+"final": "https://www.inchelium.wednet.edu/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"inchelium"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "WA-170",
+"url": "http://www.kahlotussd.org/",
+"name": "Kahlotus",
+"state": "WA",
+"status": 200,
+"final": "https://www.kahlotussd.org/",
+"error": null,
+"title": "K-12 | Kahlotus School District | Kahlotus",
+"name_hits": [
+"kahlotus"
+],
+"name_toks": [
+"kahlotus"
+],
+"state_hit": true,
+"parked": false,
+"words": 405,
+"links": [
+[
+"https://www.kahlotussd.org/community",
+"School Board"
+],
+[
+"https://www.kahlotussd.org/general-5",
+"Board Policies"
+],
+[
+"https://www.kahlotussd.org/calendar",
+"Calendar & Events"
+],
+[
+"https://www.kahlotussd.org/_files/ugd/e24612_9605d608ee1b4dad86982ca4c11aa7ca.docx?dn=KSD%20Board%20Meeting%20Agenda%2011-17-26.docx",
+"Meeting Agenda"
+],
+[
+"https://www.kahlotussd.org/calendar",
+"Chat"
+],
+[
+"https://www.kahlotussd.org/calendar",
+"News"
+]
+]
+},
+{
+"id": "WA-171",
+"url": "http://kalamaschools.org/",
+"name": "Kalama",
+"state": "WA",
+"status": 200,
+"final": "https://www.kalamaschools.org/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"kalama"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "WA-172",
+"url": "http://www.keller.k12.wa.us/",
+"name": "Keller",
+"state": "WA",
+"status": 200,
+"final": "https://www.keller.k12.wa.us/",
+"error": null,
+"title": "KELLER SCHOOL DISTRICT #3",
+"name_hits": [
+"keller"
+],
+"name_toks": [
+"keller"
+],
+"state_hit": false,
+"parked": false,
+"words": 46,
+"links": []
+},
+{
+"id": "WA-173",
+"url": "http://www.ksd403.org/",
+"name": "Kittitas",
+"state": "WA",
+"status": 200,
+"final": "https://www.ksd403.org/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"kittitas"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "WA-174",
+"url": "http://www.lacenterschools.org/",
+"name": "La Center",
+"state": "WA",
+"status": 200,
+"final": "https://lacenterschools.org/",
+"error": null,
+"title": "La Center School District | Learning and Excellence",
+"name_hits": [
+"center"
+],
+"name_toks": [
+"center"
+],
+"state_hit": true,
+"parked": false,
+"words": 2224,
+"links": [
+[
+"https://docs.google.com/forms/d/e/1FAIpQLSc6-lIeUY6K9p7YMeY8eMjnRo2ENVEzumm8z82Wr2x020ALbw/viewform",
+"Link to the Calendar Survey"
+],
+[
+"http://lacentersd.tandem.co/",
+"District Events Calendar"
+],
+[
+"https://docs.google.com/spreadsheets/d/1RO3JOLk9NTNanl6QEFYMr_ZRr_-Elb2b6eV46-dOYgE/edit?usp=sharing",
+"2026-2027 School Year Calendar"
+],
+[
+"https://lacenterschools.org/school-board-minutes-and-agendas/",
+"Board Meetings and Workshops"
+],
+[
+"https://lacenterschools.org/school-board/",
+"School Board Information Page"
+],
+[
+"https://lacenterschools.org/school-board-minutes-and-agendas/",
+"School Board Meeting Schedule and Information"
+],
+[
+"https://ci.lacenter.wa.us/community/la-center-junior-council/",
+"La Center Junior Council"
+],
+[
+"https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSc6-lIeUY6K9p7YMeY8eMjnRo2ENVEzumm8z82Wr2x020ALbw%2Fviewform&h=AUBKNzDKnwKW4cZMe8hF70xYU7_tutrn-kzpeuOMYiV_8PYA7LcDQXhP_p4kWMXsC7tigRI79c8jRqgWB2mYLrlaE1na2rZ0PHRsNrlOaBKHlEp8YLwIpf5gRJNJt8Gu&s=1",
+"2027-2028 Calendar Survey"
+]
+]
+},
+{
+"id": "WA-175",
+"url": "https://www.chelanschools.org/",
+"name": "Lake Chelan",
+"state": "WA",
+"status": 200,
+"final": "https://www.chelanschools.org/",
+"error": null,
+"title": "Lake Chelan School District",
+"name_hits": [
+"lake",
+"chelan"
+],
+"name_toks": [
+"lake",
+"chelan"
+],
+"state_hit": true,
+"parked": false,
+"words": 2419,
+"links": [
+[
+"https://www.chelanschools.org/calendars/",
+"Calendars"
+],
+[
+"https://app.eduportal.com/documents/view/812327",
+"Club Meeting Calendar 22-23"
+],
+[
+"https://app.eduportal.com/share/17acb65c-c2b3-11ed-a999-06c64aa3b8d4",
+"ASB Executive Meeting Minutes"
+],
+[
+"https://app.eduportal.com/share/17acb65c-c2b3-11ed-a999-06c64aa3b8d4",
+"ASB General Assembly Minutes"
+],
+[
+"https://www.chelanschools.org/calendars/",
+"Calendars"
+],
+[
+"https://app.eduportal.com/share/a90d5c74-8371-11f0-9ba6-06c64aa3b8d4",
+"A/B Day Calendar"
+],
+[
+"https://www.chelanschools.org/calendars/",
+"Calendars"
+],
+[
+"https://www.chelanschools.org/calendars/",
+"Calendars"
+],
+[
+"https://www.chelanschools.org/calendars/",
+"Calendars"
+],
+[
+"https://www.chelanschools.org/calendars/",
+"Calendars"
+],
+[
+"https://app.eduportal.com/share/37a2cace8c56452a",
+"Board Policy"
+],
+[
+"https://app.eduportal.com/share/7eabc573c30a3d75",
+"Board Procedure"
+],
+[
+"https://www.chelanschools.org/calendars/",
+"Calendars"
+],
+[
+"https://www.chelanschools.org/district/school-board/",
+"The School Board"
+],
+[
+"https://www.chelanschools.org/calendars/",
+"Calendars"
+],
+[
+"https://app.eduportal.com/documents/view/812327",
+"Club Meeting Calendar"
+],
+[
+"https://www.chelanschools.org/calendars/",
+"Calendars"
+],
+[
+"https://lakechelan-wa.finalforms.com/?forward_path=%2Fdashboard",
+"FinalForms"
+],
+[
+"https://app.eduportal.com/share/a90d5c74-8371-11f0-9ba6-06c64aa3b8d4",
+"A/B Day Calendar"
+],
+[
+"https://www.chelanschools.org/calendars/",
+"Calendars"
+],
+[
+"https://app.eduportal.com/share/17acb65c-c2b3-11ed-a999-06c64aa3b8d4",
+"ASB General Assembly Minutes"
+],
+[
+"https://lakechelan-wa.finalforms.com/?forward_path=%2Fdashboard",
+"FinalForms"
+],
+[
+"https://www.chelanschools.org/calendars/",
+"Calendars"
+],
+[
+"https://www.chelanschools.org/calendars/",
+"Calendars"
+],
+[
+"https://www.chelanschools.org/calendars/",
+"Calendars"
+],
+[
+"https://www.chelanschools.org/calendars/",
+"Calendars"
+],
+[
+"https://www.chelanschools.org/calendars/",
+"Calendars"
+],
+[
+"https://www.chelanschools.org/calendars/",
+"Calendars"
+],
+[
+"https://www.chelanschools.org/district/school-board/",
+"The School Board"
+],
+[
+"https://app.eduportal.com/share/37a2cace8c56452a",
+"Board Policy"
+],
+[
+"https://app.eduportal.com/share/7eabc573c30a3d75",
+"Board Procedure"
+],
+[
+"https://www.chelanschools.org/calendars/",
+"District Calendars"
+],
+[
+"https://www.chelanschools.org/calendars/",
+"District Calendars"
+],
+[
+"https://www.chelanschools.org/calendars/",
+"District Calendars"
+],
+[
+"https://www.chelanschools.org/calendars/",
+"District Calendars"
+],
+[
+"https://www.chelanschools.org/calendars/",
+"SEE CALENDAR"
+],
+[
+"https://chelanschools.org/calendars/",
+"SEE EVENTS"
+],
+[
+"https://chelanschools.org/calendars/",
+"SEE CALENDAR"
+],
+[
+"https://chelanschools.org/calendars/",
+"SEE CALENDAR"
+],
+[
+"https://www.chelanschools.org/lake-chelan-school-district-celebrates-national-board-certified-teachers/",
+"Lake Chelan School District Celebrates National Board Certified Teachers"
+]
+]
+},
+{
+"id": "WA-176",
+"url": "http://www.lkstevens.wednet.edu/",
+"name": "Lake Stevens",
+"state": "WA",
+"status": 200,
+"final": "https://www.lkstevens.wednet.edu/",
+"error": null,
+"title": "Home - Lake Stevens School District",
+"name_hits": [
+"lake",
+"stevens"
+],
+"name_toks": [
+"lake",
+"stevens"
+],
+"state_hit": true,
+"parked": false,
+"words": 1798,
+"links": [
+[
+"https://www.lkstevens.wednet.edu/our-district/board-of-directors",
+"Board of Directors"
+],
+[
+"https://www.lkstevens.wednet.edu/our-district/board-of-directors/board-meeting-calendar",
+"Board Meeting Calendar"
+],
+[
+"https://www.lkstevens.wednet.edu/our-district/board-of-directors/board-meeting-videos",
+"Board Meeting Videos"
+],
+[
+"https://www.lkstevens.wednet.edu/our-district/board-of-directors/meeting-agendas-minutes",
+"Meeting Agendas & Minutes"
+],
+[
+"https://www.lkstevens.wednet.edu/our-district/board-of-directors/saco",
+"Student Advisory Council (SACo)"
+],
+[
+"https://secure.smore.com/u/StudentAdvisoryCouncil",
+"SACo Newsletter (opens in new window/tab)"
+],
+[
+"https://www.lkstevens.wednet.edu/our-district/district-calendar",
+"District Calendar"
+],
+[
+"https://www.lkstevens.wednet.edu/our-district/district-policy-library/1000-series-board",
+"1000 Series - Board"
+],
+[
+"https://www.lkstevens.wednet.edu/departments/communications/blackboard",
+"Blackboard"
+],
+[
+"https://www.lkstevens.wednet.edu/departments/transportation/trip-calendar",
+"Trip Calendar"
+],
+[
+"https://www.lkstevens.wednet.edu/our-district/district-calendar",
+"District Calendar"
+],
+[
+"https://www.lkstevens.wednet.edu/our-district/district-calendar",
+"District Calendar"
+],
+[
+"https://www.lkstevens.wednet.edu/our-district/board-of-directors",
+"Board of Directors"
+],
+[
+"https://www.lkstevens.wednet.edu/our-district/district-calendar",
+"District Calendar"
+],
+[
+"https://www.lkstevens.wednet.edu/our-district/district-calendar",
+"District Calendar"
+],
+[
+"https://www.lkstevens.wednet.edu/fs/pages/448",
+"View Full Calendar"
+]
+]
+},
+{
+"id": "WA-177",
+"url": "http://www.libertysd.us/",
+"name": "Liberty",
+"state": "WA",
+"status": 200,
+"final": "https://www.libertysd.us/",
+"error": null,
+"title": "Home - Liberty School District #362",
+"name_hits": [
+"liberty"
+],
+"name_toks": [
+"liberty"
+],
+"state_hit": true,
+"parked": false,
+"words": 628,
+"links": [
+[
+"https://www.libertysd.us/district-header/calendar",
+"Calendar - District"
+],
+[
+"https://www.libertysd.us/district-header/school-board/about-the-board",
+"School Board"
+],
+[
+"https://www.libertysd.us/district-header/school-board/about-the-board",
+"Board Information"
+],
+[
+"https://www.libertysd.us/district-header/school-board/meeting-dates-agendas",
+"Board Meetings"
+],
+[
+"https://www.libertysd.us/district-header/school-board/board-policies-procedures",
+"Board Policies & Procedures"
+],
+[
+"https://www.libertysd.us/academics-programs/music/music-calendar",
+"Music Calendar"
+],
+[
+"https://www.libertysd.us/athletics/liberty-athletics-calendar",
+"Athletics Calendar"
+],
+[
+"https://www.libertysd.us/departments/healthschool-nurse/departments/healthschool-nurse/covid-dashboard",
+"COVID Dashboard"
+],
+[
+"https://www.libertysd.us/district-header/calendar",
+"Calendar"
+],
+[
+"https://www.libertysd.us/fs/pages/3804",
+"View Full Calendar"
+],
+[
+"https://www.libertysd.us/fs/pages/3853",
+"Liberty School Board: Providing a safe, nurturing, and rigorous learning environ"
+]
+]
+},
+{
+"id": "WA-178",
+"url": "https://www.longviewschools.com/",
+"name": "Longview",
+"state": "WA",
+"status": 200,
+"final": "https://www.longviewschools.com/",
+"error": null,
+"title": "Home - Longview School District",
+"name_hits": [
+"longview"
+],
+"name_toks": [
+"longview"
+],
+"state_hit": true,
+"parked": false,
+"words": 683,
+"links": [
+[
+"https://www.longviewschools.com/about/district-calendar",
+"Calendar"
+],
+[
+"https://www.longviewschools.com/about/district-calendar",
+"District Calendar"
+],
+[
+"https://www.longviewschools.com/school-board",
+"School Board"
+],
+[
+"https://www.longviewschools.com/about/district-calendar",
+"District Calendar"
+],
+[
+"https://www.longviewschools.com/school-board",
+"School Board"
+],
+[
+"https://www.longviewschools.com/about/district-calendar",
+"Calendar"
+],
+[
+"https://www.longviewschools.com/post-detail/~board/superintendent-newsletter/post/announcing-our-new-strategic-plan",
+""
+],
+[
+"https://www.longviewschools.com/post-detail/~board/superintendent-newsletter/post/announcing-our-new-strategic-plan",
+"Our Promise: Every Student. Every Day. Learning Today, Leading Tomorrow."
+],
+[
+"https://www.longviewschools.com/post-detail/~board/main-featured-post/post/longview-schools-launches-new-mobile-app",
+""
+],
+[
+"https://www.longviewschools.com/post-detail/~board/main-featured-post/post/longview-schools-launches-new-mobile-app",
+"Stay Connected with the Longview Public Schools App"
+],
+[
+"https://www.longviewschools.com/post-detail/~board/district-news/post/thanksgiving-break-nov-25-27-2026",
+""
+],
+[
+"https://www.longviewschools.com/post-detail/~board/district-news/post/thanksgiving-break-nov-25-27-2026",
+"Thanksgiving Break, Nov. 25-27, 2026"
+],
+[
+"https://www.longviewschools.com/post-detail/~board/district-news/post/celebrating-our-education-support-professionals",
+""
+],
+[
+"https://www.longviewschools.com/post-detail/~board/district-news/post/celebrating-our-education-support-professionals",
+"Celebrating Our Education Support Professionals"
+],
+[
+"https://www.longviewschools.com/post-detail/~board/district-news/post/mt-solo-middle-schools-pink-out-day-supports-local-cancer-care",
+""
+],
+[
+"https://www.longviewschools.com/post-detail/~board/district-news/post/mt-solo-middle-schools-pink-out-day-supports-local-cancer-care",
+"Mt. Solo Middle School\u2019s Pink Out Day Supports Local Cancer Care"
+],
+[
+"https://www.longviewschools.com/post-detail/~board/district-news/post/inspiring-connection-celebrating-our-school-psychologists",
+""
+],
+[
+"https://www.longviewschools.com/post-detail/~board/district-news/post/inspiring-connection-celebrating-our-school-psychologists",
+"Inspiring Connection: Celebrating Our School Psychologists"
+],
+[
+"https://www.longviewschools.com/post-detail/~board/district-news/post/welcome-2026-27-student-representatives-to-the-school-board",
+""
+],
+[
+"https://www.longviewschools.com/post-detail/~board/district-news/post/welcome-2026-27-student-representatives-to-the-school-board",
+"Welcome 2026-27 Student Representatives to the School Board"
+],
+[
+"https://www.longviewschools.com/post-detail/~board/mid-term-posts/post/longview-public-schools-is-seeking-paraeducators-and-substitute-paraeducators",
+""
+],
+[
+"https://www.longviewschools.com/post-detail/~board/mid-term-posts/post/longview-public-schools-is-seeking-paraeducators-and-substitute-paraeducators",
+"Longview Public Schools Seeking Paraeducators"
+]
+]
+},
+{
+"id": "WA-179",
+"url": "http://www.lopezislandschool.org/",
+"name": "Lopez",
+"state": "WA",
+"status": 200,
+"final": "https://www.lopezislandschool.org/",
+"error": null,
+"title": "Home - Lopez Island School District",
+"name_hits": [
+"lopez"
+],
+"name_toks": [
+"lopez"
+],
+"state_hit": true,
+"parked": false,
+"words": 683,
+"links": [
+[
+"https://www.lopezislandschool.org/district_information/calendars",
+"Calendars"
+],
+[
+"https://www.lopezislandschool.org/district_information/school_board",
+"School Board"
+],
+[
+"https://www.lopezislandschool.org/district_information/calendars",
+"Calendars"
+],
+[
+"https://www.lopezislandschool.org/district_information/school_board",
+"School Board"
+],
+[
+"https://www.lopezislandschool.org/district_information/calendars/SchoolCalendar",
+"Calendar"
+],
+[
+"https://www.lopezislandschool.org/cms/one.aspx?portalId=176917&pageId=967684&objectId.72535=110370908&contextId.72535=967686&parentId.72535=967687&localStartDate=2026-12-08T17:30&localEndDate=2026-12-08T19:30&ref=mesTP9fg96fVsgzpWYeogCfpY1BC38C2MBRv7Y5AYrw%3d",
+"School Board Meeting"
+],
+[
+"https://lopezislandsd.ss19.sharpschool.com/district_information/calendars/SchoolCalendar",
+"More Events >"
+]
+]
+},
+{
+"id": "WA-180",
+"url": "http://www.lyleschools.org/",
+"name": "Lyle",
+"state": "WA",
+"status": 200,
+"final": "https://www.lyleschools.org/",
+"error": null,
+"title": "Lyle School District - Home",
+"name_hits": [
+"lyle"
+],
+"name_toks": [
+"lyle"
+],
+"state_hit": true,
+"parked": false,
+"words": 1575,
+"links": [
+[
+"https://www.lyleschools.org/school-board",
+"School Board"
+],
+[
+"https://www.lyleschools.org/school-board-home",
+"School Board Home"
+],
+[
+"https://www.lyleschools.org/meet-the-board",
+"Meet the Board"
+],
+[
+"https://www.lyleschools.org/board-agendas",
+"Board Agendas"
+],
+[
+"https://www.lyleschools.org/supporting-documents",
+"Board Meeting Supporting Documents"
+],
+[
+"https://www.lyleschools.org/board-minutes",
+"Board Minutes"
+],
+[
+"https://www.lyleschools.org/event-calendar",
+"Event Calendar"
+],
+[
+"https://www.lyleschools.org/calendar-2026-27",
+"2026/27 Calendar"
+],
+[
+"https://www.lyleschools.org/calendar-2026-27",
+"School Year Calendar"
+],
+[
+"https://www.lyleschools.org/school-board",
+"School Board"
+],
+[
+"https://www.lyleschools.org/school-board-home",
+"School Board Home"
+],
+[
+"https://www.lyleschools.org/meet-the-board",
+"Meet the Board"
+],
+[
+"https://www.lyleschools.org/board-agendas",
+"Board Agendas"
+],
+[
+"https://www.lyleschools.org/supporting-documents",
+"Board Meeting Supporting Documents"
+],
+[
+"https://www.lyleschools.org/board-minutes",
+"Board Minutes"
+],
+[
+"https://www.lyleschools.org/event-calendar",
+"Event Calendar"
+],
+[
+"https://www.lyleschools.org/calendar-2026-27",
+"2026/27 Calendar"
+],
+[
+"https://www.lyleschools.org/index.php?pageID=smartSiteFeed&psqFeed=true&articleID=95937701",
+"School Board Director District #1 Vacancy"
+],
+[
+"https://www.lyleschools.org/page/page_calendar?calID=147046",
+"View Full Calendar"
+]
+]
+},
+{
+"id": "WA-181",
+"url": "http://www.mansfield.wednet.edu/",
+"name": "Mansfield",
+"state": "WA",
+"status": 200,
+"final": "https://www.mansfield.wednet.edu/",
+"error": null,
+"title": "Home - Mansfield School District 207",
+"name_hits": [
+"mansfield"
+],
+"name_toks": [
+"mansfield"
+],
+"state_hit": true,
+"parked": false,
+"words": 1416,
+"links": [
+[
+"https://www.mansfield.wednet.edu/about-us/school-board",
+"School Board"
+],
+[
+"https://www.mansfield.wednet.edu/about-us/equity-analysis-tool/calendar",
+"Calendar"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/district-calendars",
+"District Calendars"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/district-calendars/2026-27-district-calendar",
+"2026-27 District Calendar"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/district-calendars/2025-26-district-calendar",
+"2025-26 District Calendar"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/district-calendars/2024-25-district-calendar",
+"2024-25 District Calendar"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/district-calendars/2023-24-district-calendar",
+"2023-24 District Calendar"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/district-calendars/2022-23-district-calendar",
+"2022-23 District Calendar"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/district-calendars/2021-22-district-calendar",
+"2021-22 District Calendar"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/district-calendars/updated-2020-21-calendar",
+"2020-21 Revised District Calendar"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/district-calendars/2019-20-district-calendar",
+"2019-20 District Calendar"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/district-calendars/2018-19-district-calendar",
+"2018-19 District Calendar"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/district-calendars/2017-2018-calendar",
+"2017-18 District Calendar"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/school-board-minutes-agendas",
+"School Board Minutes & Agendas"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/school-board-minutes-agendas/2026-27-board-meetings-agenda",
+"2026-27 Board Meetings & Agenda"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/school-board-minutes-agendas/2025-26-board-minutes-agendas",
+"2025-26 Board Minutes & Agendas"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/school-board-minutes-agendas/2023-clone",
+"2024-25 Board Minutes & Agenda"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/school-board-minutes-agendas/2023",
+"2023-24 Board Minutes & Agenda"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/school-board-minutes-agendas/2022",
+"2022-23 Board Minutes & Agendas"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/school-board-minutes-agendas/2021-22",
+"2021-22 Board Minutes & Agendas"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/school-board-minutes-agendas/2020",
+"2020-21 Board Minutes & Agendas"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/school-board-policies",
+"School Board Policies"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/school-board-policies/0000-series-planning",
+"0000 Series - Planning"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/school-board-policies/1000-series-board-of-directors",
+"1000 Series - Board of Directors"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/school-board-policies/2000-series-instruction",
+"2000 Series- Instruction"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/school-board-policies/3000-series-student",
+"3000 Series- Student"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/school-board-policies/4000-series-community-relations",
+"4000 Series- Community Relations"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/school-board-policies/5000-series-personnel",
+"5000 Series- Personnel"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/school-board-policies/6000-series-management-support",
+"6000 Series- Management & Support"
+],
+[
+"https://www.mansfield.wednet.edu/the-classrooms/mr-hall-ss-history/calendar",
+"Calendar"
+],
+[
+"https://www.mansfield.wednet.edu/the-classrooms/mr-lamkin-english/calendar",
+"Calendar"
+],
+[
+"https://www.mansfield.wednet.edu/the-classrooms/miss-steele-ffa-agriculture/ffa-event-calendar",
+"FFA Event Calendar"
+],
+[
+"https://www.mansfield.wednet.edu/the-classrooms/miss-steele-ffa-agriculture/weekly-calendar",
+"Weekly Calendar"
+],
+[
+"https://www.mansfield.wednet.edu/the-classrooms/miss-steele-ffa-agriculture/weekly-calendar7",
+"Weekly Calendar7"
+],
+[
+"https://www.mansfield.wednet.edu/the-classrooms/miss-steele-ffa-agriculture/weekly-calendar11",
+"Weekly Calendar11"
+],
+[
+"https://www.mansfield.wednet.edu/athletics/schedules/jh-sports-season-calendar",
+"JH Sports Season Calendar"
+],
+[
+"https://www.mansfield.wednet.edu/about-us/school-board",
+"School Board"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/district-calendars",
+"District Calendars"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/school-board-minutes-agendas",
+"School Board Minutes & Agendas"
+],
+[
+"https://www.mansfield.wednet.edu/district-info/school-board-policies",
+"School Board Policies"
+]
+]
+},
+{
+"id": "WA-182",
+"url": "http://www.mlsd.org/",
+"name": "Medical Lake",
+"state": "WA",
+"status": 200,
+"final": "https://www.mlsd.org/",
+"error": null,
+"title": "Medical Lake School District",
+"name_hits": [
+"medical",
+"lake"
+],
+"name_toks": [
+"medical",
+"lake"
+],
+"state_hit": true,
+"parked": false,
+"words": 933,
+"links": [
+[
+"https://www.mlsd.org/apps/pages/index.jsp?uREC_ID=4371208&type=d&pREC_ID=2573528",
+"Data Dashboards"
+],
+[
+"https://www.mlsd.org/apps/pages/index.jsp?uREC_ID=596083&type=d&pREC_ID=1080165",
+"School Board"
+],
+[
+"https://4.files.edl.io/8a32/11/09/26/204018-551d87a8-af5c-4224-b64a-a09b1ca4d78a.pdf",
+"2026-2027 School Calendar"
+],
+[
+"https://www.mlsd.org/apps/pages/index.jsp?uREC_ID=4371208&type=d&pREC_ID=2573528",
+"Data Dashboards"
+],
+[
+"https://www.mlsd.org/apps/pages/index.jsp?uREC_ID=596083&type=d&pREC_ID=1080165",
+"School Board"
+],
+[
+"https://4.files.edl.io/8a32/11/09/26/204018-551d87a8-af5c-4224-b64a-a09b1ca4d78a.pdf",
+"2026-2027 School Calendar"
+],
+[
+"https://www.mlsd.org/apps/events",
+"School Calendar"
+],
+[
+"https://www.mlsd.org/apps/events",
+"School Calendar"
+],
+[
+"https://www.mlsd.org/apps/events/2026/11/24/53523643/?REC_ID=53523643&id=0&d=2026-11-24",
+"Regular Board Meeting ~ Medical Lake School District Administration Office"
+],
+[
+"https://www.mlsd.org/apps/pages/index.jsp?uREC_ID=596083&type=d&pREC_ID=1080165",
+"School Board Information"
+],
+[
+"https://mlsd.edlioadmin.com/apps/login/?redirectUrl=/apps/dashboard/",
+"Staff Login"
+]
+]
+},
+{
+"id": "WA-183",
+"url": "http://www.methow.org/",
+"name": "Methow Valley",
+"state": "WA",
+"status": 200,
+"final": "https://www.methow.org/en-US",
+"error": null,
+"title": "Home - Methow Valley School District",
+"name_hits": [
+"methow",
+"valley"
+],
+"name_toks": [
+"methow",
+"valley"
+],
+"state_hit": true,
+"parked": false,
+"words": 5327,
+"links": [
+[
+"https://drive.google.com/file/d/1-oTIF-pAKj8uNX3cwOAOXv3hp-zv1k_x/view?usp=drive_link",
+"District Calendar"
+],
+[
+"https://drive.google.com/file/d/1-oTIF-pAKj8uNX3cwOAOXv3hp-zv1k_x/view?usp=drive_link",
+"District Calendar"
+],
+[
+"https://drive.google.com/file/d/17EEp8AAirow9QoOGkYdOGWe14FcxDuND/view?usp=sharing",
+"Listen to the Board Technology/Cybersecurity/AI Study Session"
+]
+]
+},
+{
+"id": "WA-184",
+"url": "http://www.monte.wednet.edu/",
+"name": "Montesano",
+"state": "WA",
+"status": 402,
+"final": "https://www.monte.wednet.edu/",
+"error": null,
+"title": "Deployment Paused",
+"name_hits": [],
+"name_toks": [
+"montesano"
+],
+"state_hit": false,
+"parked": false,
+"words": 8,
+"links": []
+},
+{
+"id": "WA-185",
+"url": "http://www.naselle.wednet.edu/",
+"name": "Naselle-Grays River Valley",
+"state": "WA",
+"status": 200,
+"final": "https://www.naselle.wednet.edu/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"naselle",
+"grays",
+"river",
+"valley"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "WA-186",
+"url": "http://www.nsdeagles.org/",
+"name": "Nespelem",
+"state": "WA",
+"status": 200,
+"final": "https://nsdeagles.org/",
+"error": null,
+"title": "Nespelem School Dist #14",
+"name_hits": [
+"nespelem"
+],
+"name_toks": [
+"nespelem"
+],
+"state_hit": true,
+"parked": false,
+"words": 1145,
+"links": [
+[
+"https://nsdeagles.org/board-information",
+"Board Information"
+],
+[
+"https://nsdeagles.org/board-meetings",
+"Board Meetings"
+],
+[
+"https://nsdeagles.org/board-information",
+"Board Information"
+],
+[
+"https://nsdeagles.org/board-meetings",
+"Board Meetings"
+],
+[
+"https://nsdeagles.org/board-information",
+"Board Information"
+],
+[
+"https://nsdeagles.org/board-meetings",
+"Board Meetings"
+],
+[
+"https://zoom.us/join?ampDeviceId=5c0c040f-1444-478b-9df7-38e675fe5223&ampSessionId=1794617714772&_ics=1794617717222&irclickid=%7E9a52XRKMRIDyzsnfhi-g901X18bci%7Ecbhmqgh9%7E83UNEByokeda3&_gl=1*x25f5g*_gcl_au*NzY3MTA4MzMwLjE3OTQ2MTc3MTI.",
+"Nespelem School District Regular Board Meeting Zoom Link"
+]
+]
+},
+{
+"id": "WA-187",
+"url": "https://www.newportgriz.com/",
+"name": "Newport",
+"state": "WA",
+"status": 200,
+"final": "https://www.newportgriz.com/",
+"error": null,
+"title": "Home - Newport School District",
+"name_hits": [
+"newport"
+],
+"name_toks": [
+"newport"
+],
+"state_hit": true,
+"parked": false,
+"words": 1406,
+"links": [
+[
+"https://www.newportgriz.com/departments/finance/staff-job-calendars",
+"Staff Job Calendars"
+],
+[
+"https://newportwednetedu.finalsite.com/fs/resource-manager/view/b1dbef29-7898-492d-ba27-4f002019d11e",
+"Board Policy 2022 (opens in new window/tab)"
+],
+[
+"https://www.newportgriz.com/programs/alumni-association/board-members",
+"Board Members"
+],
+[
+"https://www.newportgriz.com/programs/grizzly-discovery-center/gdc-calendar",
+"GDC Calendar"
+],
+[
+"https://www.newportgriz.com/programs/title-1/title-i-events-calendar",
+"Title I Events Calendar"
+],
+[
+"https://www.newportgriz.com/school-board",
+"School Board"
+],
+[
+"https://www.newportgriz.com/school-board/board-members",
+"Board Members"
+],
+[
+"https://www.newportgriz.com/school-board/board-goals",
+"Board Goals"
+],
+[
+"https://www.newportgriz.com/school-board/agendas-minutes",
+"Board Agendas & Minutes"
+],
+[
+"https://www.newportgriz.com/school-board/agendas-minutes/packets",
+"Packets"
+],
+[
+"https://www.newportgriz.com/school-board/agendas-minutes/packets/2017-2018-board-packets",
+"2017-2018 Board Packets"
+],
+[
+"https://www.newportgriz.com/school-board/agendas-minutes/packets/2017-2018-approved-minutes",
+"2017-2018 Approved Minutes"
+],
+[
+"https://www.newportgriz.com/school-board/agendas-minutes/packets/2016-2017-board-packets",
+"2016-2017 Board Packets"
+],
+[
+"https://www.newportgriz.com/school-board/agendas-minutes/packets/2016-2017-approved-minutes",
+"2016-2017 Approved Minutes"
+],
+[
+"https://www.newportgriz.com/school-board/agendas-minutes/packets/2015-2016-board-packets",
+"2015-2016 Board Packets"
+],
+[
+"https://www.newportgriz.com/school-board/agendas-minutes/packets/2015-2016-approved-minutes",
+"2015-2016 Approved Minutes"
+],
+[
+"https://www.newportgriz.com/school-board/public-records-request",
+"Public Records Request"
+],
+[
+"https://www.newportgriz.com/school-board/policy-and-procedures",
+"Policy and Procedures"
+],
+[
+"https://www.newportgriz.com/school-board/policy-and-procedures/policy-and-procedures",
+"Policy and Procedures"
+],
+[
+"https://www.newportgriz.com/school-board/policy-and-procedures/1000-board-of-directors",
+"1000 - Board Of Directors"
+],
+[
+"https://www.newportgriz.com/school-board/policy-and-procedures/2000-instruction",
+"2000 - Instruction"
+],
+[
+"https://www.newportgriz.com/school-board/policy-and-procedures/3000-students",
+"3000 - Students"
+],
+[
+"https://www.newportgriz.com/school-board/policy-and-procedures/4000-community-relations",
+"4000 - Community Relations"
+],
+[
+"https://www.newportgriz.com/school-board/policy-and-procedures/5000-personnel",
+"5000 - Personnel"
+],
+[
+"https://www.newportgriz.com/school-board/policy-and-procedures/6000-management-support",
+"6000 - Management Support"
+],
+[
+"https://www.newportgriz.com/school-board/policy-and-procedures/7000-special-finance-support",
+"7000 - Special Finance Support"
+],
+[
+"https://www.newportgriz.com/school-board/legal-notifications",
+"Legal Notifications"
+],
+[
+"https://www.newportgriz.com/school-board/non-discrimination-statement-and-complaint-procedure",
+"Non-Discrimination Statement and Complaint Procedure"
+],
+[
+"https://www.newportgriz.com/school-board/district-area-map-and-director-boundaries",
+"District Area Map and Director Boundaries"
+],
+[
+"https://www.newportgriz.com/school-board/newport-school-district-report-card-misc",
+"Newport School District Report Card Misc"
+],
+[
+"https://www.newportgriz.com/school-board/newport-school-district-report-card-misc/complaint-procedures-for-federal-programs",
+"Complaint Procedures for Federal Programs"
+],
+[
+"https://www.newportgriz.com/school-board",
+"School Board"
+],
+[
+"https://www.newportgriz.com/school-board/board-members",
+"Board Members"
+],
+[
+"https://www.newportgriz.com/school-board/board-goals",
+"Board Goals"
+],
+[
+"https://www.newportgriz.com/school-board/agendas-minutes",
+"Board Agendas & Minutes"
+],
+[
+"https://www.newportgriz.com/school-board/public-records-request",
+"Public Records Request"
+],
+[
+"https://www.newportgriz.com/school-board/policy-and-procedures",
+"Policy and Procedures"
+],
+[
+"https://www.newportgriz.com/school-board/legal-notifications",
+"Legal Notifications"
+],
+[
+"https://www.newportgriz.com/school-board/non-discrimination-statement-and-complaint-procedure",
+"Non-Discrimination Statement and Complaint Procedure"
+],
+[
+"https://www.newportgriz.com/school-board/district-area-map-and-director-boundaries",
+"District Area Map and Director Boundaries"
+]
+]
+},
+{
+"id": "WA-188",
+"url": "http://www.nr.k12.wa.us/",
+"name": "North River",
+"state": "WA",
+"status": 200,
+"final": "https://www.nr.k12.wa.us/",
+"error": null,
+"title": "HOME | North River School",
+"name_hits": [
+"north",
+"river"
+],
+"name_toks": [
+"north",
+"river"
+],
+"state_hit": true,
+"parked": false,
+"words": 197,
+"links": [
+[
+"https://www.nr.k12.wa.us/about-1",
+"BOARD of DIRECTORS"
+],
+[
+"https://www.nr.k12.wa.us/about-us-1",
+"BOARD POLICIES"
+],
+[
+"https://www.nr.k12.wa.us/_files/ugd/a9ae09_fbccddc9e9424edcbf55e89d85e02f71.docx?dn=11-17-26%20Special%20Regular%20Board%20Agenda.docx",
+"Click here for Agenda"
+],
+[
+"https://www.nr.k12.wa.us/_files/ugd/a9ae09_cfd0d75a5a1948e8b30467cfc361e949.pdf",
+"Click for Board Packet"
+]
+]
+},
+{
+"id": "WA-189",
+"url": "http://www.northportschools.org/",
+"name": "Northport",
+"state": "WA",
+"status": 200,
+"final": "https://www.northportschools.org/",
+"error": null,
+"title": "Home - Northport School District",
+"name_hits": [
+"northport"
+],
+"name_toks": [
+"northport"
+],
+"state_hit": true,
+"parked": false,
+"words": 663,
+"links": [
+[
+"https://www.northportschools.org/about_us/programs_services/title_1_part_a-_annual_parent_meeting",
+"Title 1 Part A- Annual Parent Meeting"
+],
+[
+"https://www.northportschools.org/about_us/school_board",
+"School Board"
+],
+[
+"https://www.northportschools.org/about_us/school_board/board_agendas_minutes",
+"Board Agendas & Minutes"
+],
+[
+"https://www.northportschools.org/calendar",
+"Calendar"
+],
+[
+"https://www.northportschools.org/about_us/programs_services/title_1_part_a-_annual_parent_meeting",
+"Title 1 Part A- Annual Parent Meeting"
+],
+[
+"https://www.northportschools.org/about_us/school_board",
+"School Board"
+],
+[
+"https://www.northportschools.org/about_us/school_board/board_agendas_minutes",
+"Board Agendas & Minutes"
+],
+[
+"https://www.northportschools.org/calendar",
+"Calendar"
+],
+[
+"https://www.northportschools.org/UserFiles/Servers/Server_4591298/File/2026-2027/2026-2027%20Northport%20School%20Academic%20Calendar.pdf",
+"2026-2027 Northport School Academic Calendar"
+],
+[
+"https://www.northportschools.org/calendar",
+"More..."
+]
+]
+},
+{
+"id": "WA-190",
+"url": "http://gonighthawks.net/",
+"name": "Oakesdale",
+"state": "WA",
+"status": 200,
+"final": "https://www.gonighthawks.net/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"oakesdale"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "WA-191",
+"url": "http://www.oakvilleschools.org/",
+"name": "Oakville",
+"state": "WA",
+"status": 200,
+"final": "https://www.oakvilleschools.org/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"oakville"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "WA-192",
+"url": "http://www.odessa.wednet.edu/",
+"name": "Odessa",
+"state": "WA",
+"status": 200,
+"final": "https://www.odessa.wednet.edu/",
+"error": null,
+"title": "Home - Odessa School District 105-157-166-J",
+"name_hits": [
+"odessa"
+],
+"name_toks": [
+"odessa"
+],
+"state_hit": true,
+"parked": false,
+"words": 701,
+"links": [
+[
+"https://www.odessa.wednet.edu/district12/school-board",
+"School Board Information"
+],
+[
+"https://www.odessa.wednet.edu/odessa-school-district-calendar",
+"Activities Calendar"
+],
+[
+"https://www.odessa.wednet.edu/link-one",
+"Board Members"
+],
+[
+"https://www.odessa.wednet.edu/link-three",
+"District Calendar"
+],
+[
+"https://www.odessa.wednet.edu/link-one",
+"Board Members"
+],
+[
+"https://www.odessa.wednet.edu/link-three",
+"District Calendar"
+],
+[
+"https://www.odessa.wednet.edu/district12/school-board",
+"School Board Information"
+],
+[
+"https://www.odessa.wednet.edu/odessa-school-district-calendar",
+"Activities Calendar"
+],
+[
+"https://www.odessa.wednet.edu/fs/pages/775",
+"View Full Calendar"
+],
+[
+"https://www.odessa.wednet.edu/odessa-school-district-calendar",
+"Calendar"
+]
+]
+},
+{
+"id": "WA-193",
+"url": "http://www.orientsd.org/",
+"name": "Orient No 65",
+"state": "WA",
+"status": 200,
+"final": "https://orientsd.org/",
+"error": null,
+"title": "Home - Orient School District",
+"name_hits": [
+"orient"
+],
+"name_toks": [
+"orient"
+],
+"state_hit": true,
+"parked": false,
+"words": 980,
+"links": [
+[
+"https://orientsd.org/calendar/",
+"Early Release"
+],
+[
+"https://orientsd.org/calendar/",
+"Thanksgiving \u2013 No School"
+],
+[
+"https://orientsd.org/calendar/",
+"PLC \u2013 Early Release"
+],
+[
+"https://orientsd.org/calendar/",
+"PLC \u2013 Early Release"
+],
+[
+"https://orientsd.org/calendar/",
+"PLC \u2013 Early Release"
+],
+[
+"https://orientsd.org/calendar/",
+"Christmas Break \u2013 No School"
+],
+[
+"https://orientsd.org/calendar/",
+"New Years \u2013 No School"
+],
+[
+"https://orientsd.org/info/calendar/",
+"Full Calendar"
+]
+]
+},
+{
+"id": "WA-194",
+"url": "https://sites.google.com/a/oroville.wednet.edu/oroville-school-district/",
+"name": "Oroville",
+"state": "WA",
+"status": 200,
+"final": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/a/oroville.wednet.edu/oroville-school-district/&followup=https://sites.google.com/a/oroville.wednet.edu/oroville-school-district/&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S705935042:1795539304405414",
+"error": null,
+"title": "Google Drive: Sign-in",
+"name_hits": [],
+"name_toks": [
+"oroville"
+],
+"state_hit": false,
+"parked": false,
+"words": 135,
+"links": []
+},
+{
+"id": "WA-195",
+"url": "http://www.othello.wednet.edu/",
+"name": "Othello",
+"state": "WA",
+"status": "robots",
+"final": null,
+"error": null
+},
+{
+"id": "WA-196",
+"url": "http://www.garpal.wednet.edu/",
+"name": "Palouse",
+"state": "WA",
+"status": null,
+"final": null,
+"error": "ConnectionError: HTTPConnectionPool(host='www.garpal.wednet.edu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(h"
+},
+{
+"id": "WA-197",
+"url": "http://www.pateros.org/",
+"name": "Pateros",
+"state": "WA",
+"status": 200,
+"final": "https://www.pateros.org/",
+"error": null,
+"title": "Pateros School District",
+"name_hits": [
+"pateros"
+],
+"name_toks": [
+"pateros"
+],
+"state_hit": false,
+"parked": false,
+"words": 58,
+"links": []
+},
+{
+"id": "WA-198",
+"url": "http://www.patersonschool.org/",
+"name": "Paterson",
+"state": "WA",
+"status": 200,
+"final": "https://www.patersonschool.org/",
+"error": null,
+"title": "Paterson School District - Home",
+"name_hits": [
+"paterson"
+],
+"name_toks": [
+"paterson"
+],
+"state_hit": true,
+"parked": false,
+"words": 1292,
+"links": [
+[
+"https://www.patersonschool.org/board-of-directors",
+"Board of Directors"
+],
+[
+"https://www.patersonschool.org/our-school-board",
+"Our School Board"
+],
+[
+"https://www.patersonschool.org/agendas-and-minutes",
+"Agendas and Minutes"
+],
+[
+"https://www.patersonschool.org/board-meetings",
+"Board Meetings"
+],
+[
+"https://www.patersonschool.org/35133_4",
+"1000 - Board of Directors"
+],
+[
+"https://www.patersonschool.org/calendar",
+"Calendar"
+],
+[
+"https://www.patersonschool.org/board-of-directors",
+"Board of Directors"
+],
+[
+"https://www.patersonschool.org/our-school-board",
+"Our School Board"
+],
+[
+"https://www.patersonschool.org/agendas-and-minutes",
+"Agendas and Minutes"
+],
+[
+"https://www.patersonschool.org/board-meetings",
+"Board Meetings"
+],
+[
+"https://www.patersonschool.org/35133_4",
+"1000 - Board of Directors"
+],
+[
+"https://www.patersonschool.org/calendar",
+"Calendar"
+],
+[
+"https://patersonschool.org/159890_2",
+"Calendar"
+]
+]
+},
+{
+"id": "WA-199",
+"url": "http://www.peell.k12.wa.us/",
+"name": "Pe Ell",
+"state": "WA",
+"status": 200,
+"final": "https://www.peell.k12.wa.us/",
+"error": null,
+"title": "Home",
+"name_hits": [
+"ell"
+],
+"name_toks": [
+"ell"
+],
+"state_hit": true,
+"parked": false,
+"words": 402,
+"links": [
+[
+"https://www.peell.k12.wa.us/athletics",
+"Athletics Calendar & Sports Listing"
+],
+[
+"https://www.peell.k12.wa.us/schoolboard",
+"School Board"
+],
+[
+"https://www.peell.k12.wa.us/athletics",
+"Athletics Calendar & Sports Listing"
+],
+[
+"https://www.peell.k12.wa.us/schoolboard",
+"School Board"
+],
+[
+"https://www.peell.k12.wa.us/sys/content/newspost/6b88061e44d04390a4cc29be909f777f",
+"OPEN - PE ELL SCHOOL BOARD POSITION"
+],
+[
+"https://www.peell.k12.wa.us/sys/calendar/searchlinks/48c0dc76cb2a466e929bddb4f4ec84ac/Calendar",
+"Calendar Links"
+]
+]
+},
+{
+"id": "WA-200",
+"url": "http://www.psd.wednet.edu/",
+"name": "Pomeroy",
+"state": "WA",
+"status": 200,
+"final": "https://psd.wednet.edu/",
+"error": null,
+"title": "Pomeroy School District 110",
+"name_hits": [
+"pomeroy"
+],
+"name_toks": [
+"pomeroy"
+],
+"state_hit": true,
+"parked": false,
+"words": 400,
+"links": [
+[
+"https://psd.wednet.edu/apps/pages/index.jsp?uREC_ID=1651255&type=d&pREC_ID=2720486",
+"Athletic Calendar"
+],
+[
+"https://psd.wednet.edu/apps/events/?id=0",
+"PSD Calendar"
+],
+[
+"https://psd.wednet.edu/apps/pages/index.jsp?uREC_ID=1651740&type=d&pREC_ID=1796863",
+"School Board"
+],
+[
+"https://psd.wednet.edu/apps/events/",
+"School Year Calendar"
+],
+[
+"https://psd.wednet.edu/apps/events/",
+"Calendar"
+]
+]
+},
+{
+"id": "WA-202",
+"url": "https://www.qsd48.org/",
+"name": "Quilcene",
+"state": "WA",
+"status": 200,
+"final": "https://www.qsd48.org/",
+"error": null,
+"title": "Quilcene School District - Home",
+"name_hits": [
+"quilcene"
+],
+"name_toks": [
+"quilcene"
+],
+"state_hit": true,
+"parked": false,
+"words": 1279,
+"links": [
+[
+"https://www.qsd48.org/current-calendar",
+"Current Calendar"
+],
+[
+"https://www.qsd48.org/202138_2",
+"Digital Reader Board Submission Form"
+],
+[
+"https://www.qsd48.org/school-board",
+"School Board"
+],
+[
+"https://www.qsd48.org/school-board-members",
+"School Board Members"
+],
+[
+"https://www.qsd48.org/board-meeting-calendar",
+"Board Meeting Calendar"
+],
+[
+"https://www.qsd48.org/board-meeting-registration-link",
+"Board Meeting Zoom Registration"
+],
+[
+"https://www.qsd48.org/board-agenda",
+"Board Agenda"
+],
+[
+"https://www.qsd48.org/board-minutes",
+"Board Minutes"
+],
+[
+"https://www.qsd48.org/202148_2",
+"Board Meeting Recordings"
+],
+[
+"https://www.qsd48.org/board-policies",
+"Board Policies"
+],
+[
+"https://www.qsd48.org/series-1000-board-of-directors",
+"Series 1000 - Board of Directors"
+],
+[
+"https://www.qsd48.org/202191_2",
+"Current Calendar"
+],
+[
+"https://qsd48.org/202006_2",
+"School Board Meeting Registration"
+],
+[
+"https://www.qsd48.org/current-calendar",
+"Current Calendar"
+],
+[
+"https://www.qsd48.org/202138_2",
+"Digital Reader Board Submission Form"
+],
+[
+"https://www.qsd48.org/school-board",
+"School Board"
+],
+[
+"https://www.qsd48.org/school-board-members",
+"School Board Members"
+],
+[
+"https://www.qsd48.org/board-meeting-calendar",
+"Board Meeting Calendar"
+],
+[
+"https://www.qsd48.org/board-meeting-registration-link",
+"Board Meeting Zoom Registration"
+],
+[
+"https://www.qsd48.org/board-agenda",
+"Board Agenda"
+],
+[
+"https://www.qsd48.org/board-minutes",
+"Board Minutes"
+],
+[
+"https://www.qsd48.org/202148_2",
+"Board Meeting Recordings"
+],
+[
+"https://www.qsd48.org/board-policies",
+"Board Policies"
+],
+[
+"https://www.qsd48.org/series-1000-board-of-directors",
+"Series 1000 - Board of Directors"
+],
+[
+"https://www.qsd48.org/202191_2",
+"Current Calendar"
+],
+[
+"https://www.qsd48.org/current-calendar",
+"Calendar"
+],
+[
+"https://www.qsd48.org/index.php?pageID=smartSiteFeed&psqFeed=true&articleID=95229986",
+"Possible School Board Quorum 11/18/26 - 11/21/26"
+],
+[
+"https://www.qsd48.org/page/page_calendar?calID=139977&accessibility=enabled",
+""
+],
+[
+"https://www.qsd48.org/page/page_calendar?calID=139977",
+"View Full Calendar"
+]
+]
+},
+{
+"id": "WA-203",
+"url": "http://www.riversidesd.org/",
+"name": "Riverside",
+"state": "WA",
+"status": 200,
+"final": "https://www.riversidesd.org/",
+"error": null,
+"title": "Riverside School District",
+"name_hits": [
+"riverside"
+],
+"name_toks": [
+"riverside"
+],
+"state_hit": true,
+"parked": false,
+"words": 380,
+"links": [
+[
+"https://www.riversidesd.org/apps/pages/index.jsp?uREC_ID=2791104&type=d&pREC_ID=2309548",
+"School Board"
+],
+[
+"https://4.files.edl.io/ce6f/02/19/26/204957-2af51c69-c787-4854-aa4d-99a27ac001c5.pdf",
+"2026-2027 School Calendar"
+],
+[
+"https://www.riversidesd.org/apps/events/",
+"Calendar"
+],
+[
+"https://www.riversidesd.org/apps/events/2026/12/7/35761073/?REC_ID=35761073&id=0",
+"Special Board Meeting"
+],
+[
+"https://www.riversidesd.org/apps/events/2026/12/16/35761076/?REC_ID=35761076&id=0",
+"Regular Board Meeting"
+],
+[
+"https://www.riversidesd.org/apps/events/2027/1/1/54143681/?REC_ID=54143681&id=0",
+"School Board Appreication Month"
+],
+[
+"https://www.riversidesd.org/apps/events/2027/1/2/54143681/?REC_ID=54143681&id=0",
+"School Board Appreication Month"
+],
+[
+"https://www.riversidesd.org/apps/events/2027/1/3/54143681/?REC_ID=54143681&id=0",
+"School Board Appreication Month"
+]
+]
+},
+{
+"id": "WA-205",
+"url": "https://rosaliaschools.com/en-US",
+"name": "Rosalia",
+"state": "WA",
+"status": 200,
+"final": "https://rosaliaschools.com/en-US",
+"error": null,
+"title": "Home - Rosalia School District",
+"name_hits": [
+"rosalia"
+],
+"name_toks": [
+"rosalia"
+],
+"state_hit": true,
+"parked": false,
+"words": 1790,
+"links": [
+[
+"https://rosaliaschools.com/en-US/pages/e4748f71-0823-458a-9f3a-0e581163c3fc",
+"School Board"
+],
+[
+"https://rosaliaschools.com/en-US/pages/e4748f71-0823-458a-9f3a-0e581163c3fc",
+"School Board"
+]
+]
+},
+{
+"id": "WA-206",
+"url": "https://www.selkirkschools.org/",
+"name": "Selkirk",
+"state": "WA",
+"status": 200,
+"final": "https://www.selkirkschools.org/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"selkirk"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "WA-207",
+"url": "http://www.shaw.k12.wa.us/",
+"name": "Shaw Island",
+"state": "WA",
+"status": "robots",
+"final": null,
+"error": null
+},
+{
+"id": "WA-208",
+"url": "http://www.southbend.wednet.edu/",
+"name": "South Bend",
+"state": "WA",
+"status": 200,
+"final": "https://www.southbendschools.org/",
+"error": null,
+"title": "Home - South Bend School District",
+"name_hits": [
+"south",
+"bend"
+],
+"name_toks": [
+"south",
+"bend"
+],
+"state_hit": true,
+"parked": false,
+"words": 960,
+"links": [
+[
+"https://www.southbendschools.org/schools-1/calendar",
+"Calendar"
+],
+[
+"https://www.southbendschools.org/our-district/school-board",
+"School Board"
+],
+[
+"https://www.southbendschools.org/our-district/school-board/approved-meeting-minutes",
+"Approved Meeting Minutes"
+],
+[
+"https://www.southbendschools.org/our-district/school-board/school-board-members",
+"School Board Members"
+],
+[
+"https://www.southbendschools.org/our-district/school-board/agendas-2022-23",
+"Agendas"
+],
+[
+"https://www.southbendschools.org/our-district/south-bend-school-foundation/community-calendar",
+"Community Calendar"
+],
+[
+"https://www.southbendschools.org/departments/counseling/gear-up-calendar",
+"GEAR UP Calendar"
+],
+[
+"https://www.southbendschools.org/calendar-1",
+"Calendar"
+],
+[
+"https://www.southbendschools.org/schools-1/calendar",
+"Calendar"
+],
+[
+"https://www.southbendschools.org/our-district/school-board",
+"School Board"
+],
+[
+"https://www.southbendschools.org/calendar-1",
+"Calendar"
+],
+[
+"https://www.southbendschools.org/calendar-1",
+"Event Calendar"
+],
+[
+"https://www.southbendschools.org/link-one/academic-calendar",
+"Academic Calendar"
+],
+[
+"https://www.southbendschools.org/our-district/school-board",
+"School Board"
+],
+[
+"https://www.southbendschools.org/calendar-1",
+"Event Calendar"
+],
+[
+"https://www.southbendschools.org/link-one/academic-calendar",
+"Academic Calendar"
+],
+[
+"https://www.southbendschools.org/our-district/school-board",
+"School Board"
+],
+[
+"https://www.southbendschools.org/calendar-1",
+"Calendar (opens in new window/tab)"
+],
+[
+"https://www.southbendschools.org/fs/pages/1103",
+"View Full Calendar"
+],
+[
+"https://sbhs.southbendschools.org/news/~board/south-bend-district-office-news/post/2026-27-newsletter",
+""
+],
+[
+"https://sbhs.southbendschools.org/news/~board/south-bend-district-office-news/post/2026-27-newsletter",
+"2026-27 Newsletter"
+],
+[
+"https://www.southbendschools.org/calendar-1",
+"Calendar"
+]
+]
+},
+{
+"id": "WA-209",
+"url": "http://www.spraguelamont.org/",
+"name": "Sprague",
+"state": "WA",
+"status": 200,
+"final": "https://www.spraguelamont.org/",
+"error": null,
+"title": "Sprague-Lamont School District",
+"name_hits": [
+"sprague"
+],
+"name_toks": [
+"sprague"
+],
+"state_hit": true,
+"parked": false,
+"words": 449,
+"links": [
+[
+"https://www.spraguelamont.org/school-board",
+"School Board"
+],
+[
+"https://www.spraguelamont.org/school-board/recordings",
+"Recordings"
+],
+[
+"https://drive.google.com/file/d/16liE6QdmfpnFTb6DjTUGeDhkvft7PFtp/view?usp=drive_link",
+"2026-27 Calendar"
+],
+[
+"https://docs.google.com/document/d/1C1WCHD8r1PFgP4ueHLpaaIqlrjFJLVbp/edit?usp=drive_link&ouid=102131796173605312105&rtpof=true&sd=true",
+"November Board Agenda"
+],
+[
+"https://www.spraguelamont.org/sports",
+"Sports Calendars"
+],
+[
+"https://www.spraguelamont.org/school-board/sprague-school-board",
+"Sprague School Board"
+],
+[
+"https://www.spraguelamont.org/school-board/lamont-school-board",
+"Lamont School Board"
+]
+]
+},
+{
+"id": "WA-210",
+"url": "http://www.sje.wednet.edu/",
+"name": "St. John",
+"state": "WA",
+"status": 200,
+"final": "https://www.sje.wednet.edu/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"john"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "WA-212",
+"url": "http://stehekinschool.org/",
+"name": "Stehekin",
+"state": "WA",
+"status": 200,
+"final": "https://stehekinschool.org/",
+"error": null,
+"title": "Stehekin School \u2013 Stehekin WA",
+"name_hits": [
+"stehekin"
+],
+"name_toks": [
+"stehekin"
+],
+"state_hit": true,
+"parked": false,
+"words": 245,
+"links": [
+[
+"https://stehekinschool.org/school-life/school-calendar/",
+"School Life"
+],
+[
+"https://stehekinschool.org/school-life/school-calendar",
+"School Calendar"
+],
+[
+"https://stehekinschool.org/staff/board-members",
+"Board Members"
+]
+]
+},
+{
+"id": "WA-213",
+"url": "http://www.scsd303.org/",
+"name": "Stevenson-Carson",
+"state": "WA",
+"status": 200,
+"final": "https://www.scsd303.org/",
+"error": null,
+"title": "Stevenson-Carson School District 303 - Home",
+"name_hits": [
+"stevenson",
+"carson"
+],
+"name_toks": [
+"stevenson",
+"carson"
+],
+"state_hit": true,
+"parked": false,
+"words": 773,
+"links": [
+[
+"https://www.scsd303.org/25324_1",
+"School Board"
+],
+[
+"https://www.scsd303.org/25327_1",
+"Calendars"
+],
+[
+"https://www.scsd303.org/84408_2",
+"District-Wide Calendar"
+],
+[
+"https://www.scsd303.org/84443_2",
+"School Year Calendar"
+],
+[
+"https://www.scsd303.org/57736_3",
+"SCSD Board Policy - 3205 Sexual Harassment of Students Prohibited"
+],
+[
+"https://www.scsd303.org/57737_3",
+"SCSD Board Policy Procedure - 3205P Sexual Harassment of Students Prohibited"
+],
+[
+"https://www.scsd303.org/25327_1",
+"Calendar"
+],
+[
+"https://www.scsd303.org/25324_1",
+"School Board"
+],
+[
+"https://www.scsd303.org/25327_1",
+"Calendars"
+],
+[
+"https://www.scsd303.org/84408_2",
+"District-Wide Calendar"
+],
+[
+"https://www.scsd303.org/84443_2",
+"School Year Calendar"
+],
+[
+"https://www.scsd303.org/57736_3",
+"SCSD Board Policy - 3205 Sexual Harassment of Students Prohibited"
+],
+[
+"https://www.scsd303.org/57737_3",
+"SCSD Board Policy Procedure - 3205P Sexual Harassment of Students Prohibited"
+],
+[
+"https://www.scsd303.org/25333?articleID=25024",
+"Reminder - November 20th, 2026 School Board Meeting Agenda"
+],
+[
+"https://www.scsd303.org/page/page_calendar?calID=130820&accessibility=enabled",
+""
+],
+[
+"https://www.scsd303.org/page/page_calendar?calID=130820",
+"View Full Calendar"
+]
+]
+},
+{
+"id": "WA-214",
+"url": "http://www.toledoschools.us/",
+"name": "Toledo",
+"state": "WA",
+"status": 200,
+"final": "https://www.toledoschools.us/",
+"error": null,
+"title": "Home - Toledo School District",
+"name_hits": [
+"toledo"
+],
+"name_toks": [
+"toledo"
+],
+"state_hit": true,
+"parked": false,
+"words": 493,
+"links": [
+[
+"https://www.toledoschools.us/toledo_school_board",
+"Toledo School Board"
+],
+[
+"https://www.toledoschools.us/toledo_school_board/BoardDocs",
+"Board Docs"
+],
+[
+"https://www.toledoschools.us/toledo_school_board",
+"Toledo School Board"
+],
+[
+"https://www.toledoschools.us/toledo_school_board/BoardDocs",
+"Board Docs"
+],
+[
+"https://www.toledoschools.us/UserFiles/Servers/Server_732297/File/Forms%20and%20Links/Website%20Public%20Docs/tsd-calendar-2026-27.pdf",
+"2026-2027 School Calendar"
+]
+]
+},
+{
+"id": "WA-215",
+"url": "https://www.troutlake.k12.wa.us",
+"name": "Trout Lake",
+"state": "WA",
+"status": 200,
+"final": "https://www.troutlake.k12.wa.us/",
+"error": null,
+"title": "Home - Trout Lake School District R-400",
+"name_hits": [
+"trout",
+"lake"
+],
+"name_toks": [
+"trout",
+"lake"
+],
+"state_hit": true,
+"parked": false,
+"words": 961,
+"links": [
+[
+"https://www.troutlake.k12.wa.us/calendar",
+"Calendar"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board",
+"School Board"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board/school-board-members",
+"School Board Members"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board/2026-board-agendas",
+"2026 Board Agendas"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board/2026-board-minutes",
+"2026 Board Minutes"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board/2025-board-agendas",
+"2025 Board Agendas"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board/2025-board-minutes",
+"2025 Board Minutes"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board/2024-board-agendas",
+"2024 Board Agendas"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board/2024-board-minutes",
+"2024 Board Minutes"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board/district-news/school-board/2023-board-minutes",
+"2023 Board Minutes"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board/2023-board-agendas",
+"2023 Board Agendas"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board/2022-board-agendas",
+"2022 Board Agendas"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board/2022-board-minutes",
+"2022 Board Minutes"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board/board-policies",
+"Board Policies"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board/board-policies/1000",
+"1000 Series Board of Directors / Governance"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board/board-policies/2000",
+"2000 Series Instruction / Curriculum & Instruction"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board/board-policies/3000",
+"3000 Series Students / Student Services"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board/board-policies/4000",
+"4000 Series Community Relations / Community & School Relations"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board/board-policies/5000",
+"5000 Series Personnel / Human Resources"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board/board-policies/6000",
+"6000 Series Administration / District Operations & Support Services"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board/operating-principles",
+"Operating Principles"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/trout-lake-times-daily-bulletin/calendar",
+"Calendar"
+],
+[
+"https://www.troutlake.k12.wa.us/calendar",
+"Calendar"
+],
+[
+"https://www.troutlake.k12.wa.us/district-news/school-board",
+"School Board"
+],
+[
+"https://www.troutlake.k12.wa.us/calendar",
+"Calendar"
+],
+[
+"https://www.troutlake.k12.wa.us/fs/pages/534",
+"View Full Calendar"
+]
+]
+},
+{
+"id": "WA-216",
+"url": "http://wahksd.k12.wa.us/",
+"name": "Wahkiakum",
+"state": "WA",
+"status": 200,
+"final": "https://wahksd.k12.wa.us/",
+"error": null,
+"title": "Wahkiakum School District",
+"name_hits": [
+"wahkiakum"
+],
+"name_toks": [
+"wahkiakum"
+],
+"state_hit": false,
+"parked": false,
+"words": 53,
+"links": []
+},
+{
+"id": "WA-217",
+"url": "http://www.wapatosd.org/",
+"name": "Wapato",
+"state": "WA",
+"status": 200,
+"final": "https://www.wapatosd.org/",
+"error": null,
+"title": "Wapato School District - Home",
+"name_hits": [
+"wapato"
+],
+"name_toks": [
+"wapato"
+],
+"state_hit": true,
+"parked": false,
+"words": 1223,
+"links": [
+[
+"https://www.wapatosd.org/133982_2",
+"School Board"
+],
+[
+"https://www.wapatosd.org/89330_3",
+"Annual Meeting Schedule"
+],
+[
+"https://www.wapatosd.org/89331_3",
+"Agendas & Minutes"
+],
+[
+"https://www.wapatosd.org/133996_2",
+"Calendars and Activities"
+],
+[
+"https://wapatosd.org/133996_2",
+"Calendars"
+],
+[
+"https://www.wapatosd.org/133982_2",
+"School Board"
+],
+[
+"https://www.wapatosd.org/89330_3",
+"Annual Meeting Schedule"
+],
+[
+"https://www.wapatosd.org/89331_3",
+"Agendas & Minutes"
+],
+[
+"https://www.wapatosd.org/133996_2",
+"Calendars and Activities"
+],
+[
+"https://www.wapatosd.org/page/page_calendar?calID=135299&accessibility=enabled",
+""
+],
+[
+"https://www.wapatosd.org/page/page_calendar?calID=135299",
+"View Full Calendar"
+],
+[
+"https://www.wapatosd.org/46035?articleID=83995",
+"School Board Receives State Recognition"
+]
+]
+},
+{
+"id": "WA-218",
+"url": "http://www.waterville.wednet.edu/",
+"name": "Waterville",
+"state": "WA",
+"status": 200,
+"final": "https://www.waterville.wednet.edu/",
+"error": null,
+"title": "Waterville School K-12 | Watervillle, WA",
+"name_hits": [
+"waterville"
+],
+"name_toks": [
+"waterville"
+],
+"state_hit": true,
+"parked": false,
+"words": 908,
+"links": [
+[
+"https://www.q.wa-k12.net/waterv/ApplicantTracking/JobBoard/ViewJobPostings?p=4ef9340d5f0b4e13bc80fb638459979e&w=12ce86200b9c49929c05913b1ac62e36",
+"EMPLOYMENT"
+],
+[
+"https://www.waterville.wednet.edu/strategicplanboardgoals",
+"STRATEGIC PLAN/BOARD GOALS"
+],
+[
+"https://www.waterville.wednet.edu/schoolboard",
+"SCHOOL BOARD"
+],
+[
+"https://www.waterville.wednet.edu/_files/ugd/3d9d6b_8f129e8f4a5c41daac610da9a74154e6.pdf",
+"2024-2025 SCHOOL CALENDAR"
+],
+[
+"https://www.waterville.wednet.edu/_files/ugd/3d9d6b_3ce4b6ee09134353ac983596307c5d76.pdf",
+"2025-2026 SCHOOL CALENDAR"
+],
+[
+"https://www.waterville.wednet.edu/enrichmentcalendar",
+"ELEMENTARY SCHEDULE"
+]
+]
+},
+{
+"id": "WA-219",
+"url": "https://www.wellpinit.org/en-US",
+"name": "Wellpinit",
+"state": "WA",
+"status": 200,
+"final": "https://www.wellpinit.org/en-US",
+"error": null,
+"title": "Home - Wellpinit School District",
+"name_hits": [
+"wellpinit"
+],
+"name_toks": [
+"wellpinit"
+],
+"state_hit": true,
+"parked": false,
+"words": 1008,
+"links": []
+},
+{
+"id": "WA-220",
+"url": "http://www.wenatcheeschools.org/",
+"name": "Wenatchee",
+"state": "WA",
+"status": 200,
+"final": "https://www.wenatcheeschools.org/",
+"error": null,
+"title": "Wenatchee School District | Limitless Potential, Real-World Ready",
+"name_hits": [
+"wenatchee"
+],
+"name_toks": [
+"wenatchee"
+],
+"state_hit": true,
+"parked": false,
+"words": 1568,
+"links": [
+[
+"https://www.wenatcheeschools.org/sac",
+"Superintendent's Advisory Council (SAC)"
+],
+[
+"https://www.wenatcheeschools.org/board",
+"Board"
+],
+[
+"https://www.wenatcheeschools.org/school-board",
+"School Board"
+],
+[
+"https://www.wenatcheeschools.org/policy",
+"Board Policies"
+],
+[
+"https://www.wenatcheeschools.org/board-elections",
+"Board Elections"
+],
+[
+"https://www.wenatcheeschools.org/board-livestream",
+"Board Meeting Livestream"
+],
+[
+"https://files.smartsites.parentsquare.com/9838/web_student_calendar_26-27.pdf",
+"Academic Calendar"
+],
+[
+"https://www.youtube.com/@WenatcheeSchoolDistrict/videos",
+"Board Meetings"
+],
+[
+"https://www.wenatcheeschools.org/sac",
+"Superintendent's Advisory Council (SAC)"
+],
+[
+"https://www.wenatcheeschools.org/board",
+"Board"
+],
+[
+"https://www.wenatcheeschools.org/school-board",
+"School Board"
+],
+[
+"https://www.wenatcheeschools.org/policy",
+"Board Policies"
+],
+[
+"https://www.wenatcheeschools.org/board-elections",
+"Board Elections"
+],
+[
+"https://www.wenatcheeschools.org/board-livestream",
+"Board Meeting Livestream"
+],
+[
+"https://www.wenatcheeschools.org/page/page_calendar?calID=148498&accessibility=enabled",
+""
+],
+[
+"https://www.wenatcheeschools.org/page/page_calendar?calID=148498",
+"View Full Calendar"
+],
+[
+"https://files.smartsites.parentsquare.com/9838/student_academic_calendar_2026-27.pdf",
+"Academic Calendar"
+]
+]
+},
+{
+"id": "WA-221",
+"url": "http://www.whiteriver.wednet.edu/",
+"name": "White River",
+"state": "WA",
+"status": 200,
+"final": "https://www.whiteriver.wednet.edu/",
+"error": null,
+"title": "White River School District 416",
+"name_hits": [
+"white",
+"river"
+],
+"name_toks": [
+"white",
+"river"
+],
+"state_hit": true,
+"parked": false,
+"words": 578,
+"links": [
+[
+"https://www.whiteriver.wednet.edu/apps/pages/index.jsp?uREC_ID=1473160&type=d",
+"School Board"
+],
+[
+"https://www.whiteriver.wednet.edu/apps/pages/index.jsp?uREC_ID=1473103&type=d&pREC_ID=1626034",
+"Student Calendar"
+],
+[
+"https://www.whiteriver.wednet.edu/apps/pages/index.jsp?uREC_ID=1473160&type=d",
+"School Board"
+],
+[
+"https://www.whiteriver.wednet.edu/apps/events/2026/12/9/48363631/?REC_ID=48363631&id=0&d=2026-12-9",
+"School Board Meeting"
+],
+[
+"https://www.whiteriver.wednet.edu/apps/pages/index.jsp?uREC_ID=1473160&type=d",
+"Board"
+],
+[
+"https://www.whiteriver.wednet.edu/apps/events/",
+"Calendar"
+]
+]
+},
+{
+"id": "WA-222",
+"url": "https://wcsd.wednet.edu/",
+"name": "Wilbur",
+"state": "WA",
+"status": 200,
+"final": "https://www.wcsd.wednet.edu/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"wilbur"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "WA-223",
+"url": "http://www.ycs.wednet.edu/",
+"name": "Yelm",
+"state": "WA",
+"status": 200,
+"final": "https://www.ycs.wednet.edu/",
+"error": null,
+"title": "Home - Yelm School District",
+"name_hits": [
+"yelm"
+],
+"name_toks": [
+"yelm"
+],
+"state_hit": true,
+"parked": false,
+"words": 1338,
+"links": [
+[
+"https://www.ycs.wednet.edu/our-district/board-of-directors",
+"Board of Directors"
+],
+[
+"https://www.ycs.wednet.edu/our-district/board-of-directors/school-board-meetings",
+"School Board Meetings"
+],
+[
+"https://www.ycs.wednet.edu/our-district/board-of-directors/agendas-and-minutes",
+"Agendas and Minutes"
+],
+[
+"https://www.ycs.wednet.edu/our-district/board-of-directors/meet-the-board-of-directors",
+"Meet the Board of Directors"
+],
+[
+"https://www.ycs.wednet.edu/our-district/board-of-directors",
+"Board of Directors"
+],
+[
+"https://www.ycs.wednet.edu/our-district/board-of-directors/agendas-and-minutes",
+"Board Documents"
+],
+[
+"https://www.ycs.wednet.edu/view-all-events",
+"Calendar"
+],
+[
+"https://www.ycs.wednet.edu/post-details/~board/announcements/post/yhs-students-make-a-difference-through-annual-tree-planting-event",
+""
+],
+[
+"https://www.ycs.wednet.edu/post-details/~board/announcements/post/yhs-students-make-a-difference-through-annual-tree-planting-event",
+"YHS Students Make a Difference Through Annual Tree Planting Event"
+],
+[
+"https://www.ycs.wednet.edu/post-details/~board/announcements/post/yhs-students-make-a-difference-through-annual-tree-planting-event",
+"Read More about YHS Students Make a Difference Through Annual Tree Planting Even"
+],
+[
+"https://www.ycs.wednet.edu/post-details/~board/announcements/post/november-3-2026-levy-results",
+"November 3, 2026 Levy Results"
+],
+[
+"https://www.ycs.wednet.edu/post-details/~board/announcements/post/november-3-2026-levy-results",
+"Read More about November 3, 2026 Levy Results"
+],
+[
+"https://www.ycs.wednet.edu/post-details/~board/announcements/post/fall-conference-scheduling-opens-november-9",
+""
+],
+[
+"https://www.ycs.wednet.edu/post-details/~board/announcements/post/fall-conference-scheduling-opens-november-9",
+"Fall Conference Scheduling Opens November 9"
+],
+[
+"https://www.ycs.wednet.edu/post-details/~board/announcements/post/fall-conference-scheduling-opens-november-9",
+"Read More about Fall Conference Scheduling Opens November 9"
+],
+[
+"https://www.ycs.wednet.edu/post-details/~board/announcements/post/ospi-binding-conditions-correspondence",
+""
+],
+[
+"https://www.ycs.wednet.edu/post-details/~board/announcements/post/ospi-binding-conditions-correspondence",
+"OSPI Binding Conditions Correspondence"
+],
+[
+"https://www.ycs.wednet.edu/post-details/~board/announcements/post/ospi-binding-conditions-correspondence",
+"Read More about OSPI Binding Conditions Correspondence"
+],
+[
+"https://www.ycs.wednet.edu/fs/pages/3668",
+"View Full Calendar"
+],
+[
+"https://www.ycs.wednet.edu/view-all-events",
+"Calendar"
+]
+]
+},
+{
+"id": "WA-224",
+"url": "http://www.zillahschools.org/",
+"name": "Zillah",
+"state": "WA",
+"status": 200,
+"final": "https://www.zillahschools.org/",
+"error": null,
+"title": "Zillah School District",
+"name_hits": [
+"zillah"
+],
+"name_toks": [
+"zillah"
+],
+"state_hit": true,
+"parked": false,
+"words": 243,
+"links": [
+[
+"https://www.zillahschools.org/apps/pages/index.jsp?uREC_ID=1799147&type=d&pREC_ID=1968914",
+"Board"
+],
+[
+"https://www.zillahschools.org/apps/events/",
+"Calendar"
+],
+[
+"https://www.zillahschools.org/apps/events/",
+"Calendar"
+],
+[
+"https://www.zillahschools.org/apps/pages/index.jsp?uREC_ID=1799147&type=d",
+"Board"
+],
+[
+"https://www.zillahschools.org/apps/events/",
+"Calendar"
+]
+]
+},
+{
+"id": "ID-415",
+"url": "https://asd58.us/",
+"name": "Aberdeen School District",
+"state": "ID",
+"status": 200,
+"final": "https://asd58.us/",
+"error": null,
+"title": "Aberdeen School District #58 \u2013 Aberdeen, Idaho 83210",
+"name_hits": [
+"aberdeen"
+],
+"name_toks": [
+"aberdeen"
+],
+"state_hit": true,
+"parked": false,
+"words": 372,
+"links": [
+[
+"https://asd58.us/?page_id=115",
+"School Board"
+],
+[
+"https://asd58.us/?page_id=56",
+"Agenda"
+],
+[
+"https://asd58.us/?page_id=120",
+"Minutes"
+],
+[
+"https://asd58.us/?page_id=1261",
+"Calendars"
+],
+[
+"https://asd58.us/?p=6433",
+"NOTICE OF BOARD WORK SESSION"
+]
+]
+},
+{
+"id": "ID-416",
+"url": "https://www.sd381.k12.id.us/",
+"name": "American Falls Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.sd381.k12.id.us/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"american",
+"falls"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "ID-417",
+"url": "http://www.arbonvalley.com/school-district/",
+"name": "Arbon Elementary School District",
+"state": "ID",
+"status": 200,
+"final": "https://arbonvalley.com/school-district/",
+"error": null,
+"title": "School District | Arbon Valley, Idaho",
+"name_hits": [
+"arbon"
+],
+"name_toks": [
+"arbon"
+],
+"state_hit": true,
+"parked": false,
+"words": 149,
+"links": [
+[
+"https://arbonvalley.com/school-district/school-board-2/",
+"School Board"
+],
+[
+"https://arbonvalley.com/school-district/school-calendar/",
+"School Calendar"
+]
+]
+},
+{
+"id": "ID-418",
+"url": "http://www.sd394.com/",
+"name": "Avery School District",
+"state": "ID",
+"status": 200,
+"final": "https://sd394.com/",
+"error": null,
+"title": "School District | Calder, ID \u00e2\u0080\u0093 Avery School District 394",
+"name_hits": [
+"avery"
+],
+"name_toks": [
+"avery"
+],
+"state_hit": true,
+"parked": false,
+"words": 893,
+"links": [
+[
+"https://sd394.com/school-board/",
+"School Board"
+],
+[
+"https://sd394.com/school-board/",
+"School Board"
+]
+]
+},
+{
+"id": "ID-419",
+"url": "https://basinschools.net/",
+"name": "Basin School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.basinschools.net/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"basin"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "ID-420",
+"url": "https://www.blsd.net/",
+"name": "Bear Lake County School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.blsd.net/en-US",
+"error": null,
+"title": "Home - Bear Lake School District",
+"name_hits": [
+"bear",
+"lake"
+],
+"name_toks": [
+"bear",
+"lake"
+],
+"state_hit": true,
+"parked": false,
+"words": 994,
+"links": [
+[
+"https://docs.google.com/document/d/133L21r4rMS-ATaK5x6DB5euebDPGtzf5_V_Nholil8I/edit?usp=sharing",
+"Board Procedure and Proctol"
+],
+[
+"https://docs.google.com/document/d/1IRkdFGaBbN1COSe_eHVJYkmLfwFx4qhi6moEfzuw5Vs/edit?usp=sharing",
+"2026-2027 School Calendar"
+]
+]
+},
+{
+"id": "ID-421",
+"url": "https://www.bliss234.org/",
+"name": "Bliss Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://bliss234.org/",
+"error": null,
+"title": "Home",
+"name_hits": [
+"bliss"
+],
+"name_toks": [
+"bliss"
+],
+"state_hit": true,
+"parked": false,
+"words": 270,
+"links": [
+[
+"https://bliss234.org/board-agenda",
+"View Board Agenda"
+],
+[
+"https://img1.wsimg.com/blobby/go/5dda1d52-95b8-40a0-9d50-fa1547db2406/downloads/1e6aa1c6-92d6-4433-86f4-c198a738f610/District%20Calendar%2026.27%20Final.pdf?ver=1794332258918",
+"Download"
+]
+]
+},
+{
+"id": "ID-422",
+"url": "http://www.bcsd101.com/",
+"name": "Boundary County School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.bcsd101.com/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"boundary"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "ID-423",
+"url": "http://www.buhlschools.org/",
+"name": "Buhl Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.buhlschools.org/",
+"error": null,
+"title": "Buhl School District",
+"name_hits": [
+"buhl"
+],
+"name_toks": [
+"buhl"
+],
+"state_hit": true,
+"parked": false,
+"words": 409,
+"links": [
+[
+"https://www.buhlschools.org/district-calendar",
+"Calendar"
+],
+[
+"https://www.buhlschools.org/district-calendar",
+"Calendar"
+],
+[
+"https://www.buhlschools.org/school-board",
+"School Board"
+],
+[
+"https://www.buhlschools.org/bhs-calendar",
+"Calendar"
+],
+[
+"https://www.buhlschools.org/bms-calendar",
+"Calendar"
+],
+[
+"https://www.buhlschools.org/pes-calendar",
+"Calendar"
+],
+[
+"https://www.buhlschools.org/district-calendar",
+"VIEW CALENDAR"
+],
+[
+"https://www.buhlschools.org/bhs-athletics",
+"Handbooks, information, and calendars are located here."
+],
+[
+"https://www.buhlschools.org/post/district-and-athletic-calendars",
+"District and Athletic Calendars"
+],
+[
+"https://www.buhlschools.org/_files/ugd/d463c0_c1c19c364d2b4445a389ff0520e49193.pdf",
+"View Calendar"
+],
+[
+"https://www.buhlschools.org/school-board",
+"School Board"
+],
+[
+"https://www.buhlschools.org/district-calendar",
+"VIEW CALENDAR"
+]
+]
+},
+{
+"id": "ID-424",
+"url": "https://www.camascountyschools.org",
+"name": "Camas County School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.camascountyschools.org/",
+"error": null,
+"title": "CCSD #121",
+"name_hits": [
+"camas"
+],
+"name_toks": [
+"camas"
+],
+"state_hit": true,
+"parked": false,
+"words": 265,
+"links": [
+[
+"https://drive.google.com/file/d/1ioz7mDqm3l0u7Lo2kElmru65IfpG6_v_/view?usp=sharing",
+"2026-27 District Calendar"
+]
+]
+},
+{
+"id": "ID-425",
+"url": "http://www.cambridge432.org/",
+"name": "Cambridge Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.cambridge432.org/",
+"error": null,
+"title": "Cambridge Jr/Sr High School",
+"name_hits": [
+"cambridge"
+],
+"name_toks": [
+"cambridge"
+],
+"state_hit": true,
+"parked": false,
+"words": 232,
+"links": [
+[
+"https://www.cambridge432.org/calendar",
+"Calendars"
+],
+[
+"https://www.cambridge432.org/activities-calendar",
+"Activities Calendar"
+],
+[
+"https://www.cambridge432.org/state-board-requirements",
+"State Board Requirements"
+],
+[
+"https://www.cambridge432.org/_files/ugd/a3fb29_dc49d9a09c654715b99f9da2b5b6b720.pdf",
+"2026/2027 School Calendar"
+]
+]
+},
+{
+"id": "ID-426",
+"url": "http://www.cascadeschools.org/",
+"name": "Cascade School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.cascadeschools.org/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"cascade"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "ID-427",
+"url": "https://www.cassiaschools.org/",
+"name": "Cassia County Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.cassiaschools.org/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"cassia"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "ID-428",
+"url": "https://castlefordschools.wordpress.com/",
+"name": "Castleford School District",
+"state": "ID",
+"status": 200,
+"final": "https://castlefordschools.wordpress.com/",
+"error": null,
+"title": "Castleford School District \u2013 Home of the Wolves",
+"name_hits": [
+"castleford"
+],
+"name_toks": [
+"castleford"
+],
+"state_hit": true,
+"parked": false,
+"words": 837,
+"links": [
+[
+"https://castlefordschools.wordpress.com/calendar/",
+"Calendar"
+],
+[
+"https://castlefordschools.wordpress.com/board-of-trustees/",
+"School Board"
+],
+[
+"https://castlefordschools.wordpress.com/board-of-trustees/board-meeting-agendas/",
+"Board Meeting Agendas"
+],
+[
+"https://castlefordschools.wordpress.com/board-of-trustees/board-trustee-members/",
+"Board Trustees"
+],
+[
+"https://castlefordschools.wordpress.com/board-of-trustees/district-map/",
+"District Map"
+],
+[
+"https://castlefordschools.wordpress.com/board-of-trustees/board-meeting-notes/",
+"Meeting Minutes/Bill Lists"
+],
+[
+"https://castlefordschools.wordpress.com/board-of-trustees/bills/",
+"School Board Policies"
+],
+[
+"https://castlefordschools.wordpress.com/calendar/",
+"Calendar"
+],
+[
+"https://castlefordschools.wordpress.com/board-of-trustees/",
+"School Board"
+],
+[
+"https://castlefordschools.wordpress.com/board-of-trustees/board-meeting-agendas/",
+"Board Meeting Agendas"
+],
+[
+"https://castlefordschools.wordpress.com/board-of-trustees/board-trustee-members/",
+"Board Trustees"
+],
+[
+"https://castlefordschools.wordpress.com/board-of-trustees/district-map/",
+"District Map"
+],
+[
+"https://castlefordschools.wordpress.com/board-of-trustees/board-meeting-notes/",
+"Meeting Minutes/Bill Lists"
+],
+[
+"https://castlefordschools.wordpress.com/board-of-trustees/bills/",
+"School Board Policies"
+]
+]
+},
+{
+"id": "ID-429",
+"url": "https://www.d181.k12.id.us/",
+"name": "Challis Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.d181.k12.id.us/",
+"error": null,
+"title": "Home - Challis School District",
+"name_hits": [
+"challis"
+],
+"name_toks": [
+"challis"
+],
+"state_hit": true,
+"parked": false,
+"words": 635,
+"links": [
+[
+"https://www.d181.k12.id.us/district/trustees/trustee-directory",
+"Trustees"
+],
+[
+"https://www.d181.k12.id.us/district/trustees/meeting-agendas",
+"Meeting Agendas"
+],
+[
+"https://www.d181.k12.id.us/district/trustees/2017-2018-meeting-minutes",
+"2017-2018 Meeting Minutes"
+],
+[
+"https://www.d181.k12.id.us/district/trustees/2018-2019-meeting-minutes",
+"2018-2019 Meeting Minutes"
+],
+[
+"https://www.d181.k12.id.us/district/trustees/2019-2020-meeting-minutes",
+"2019-2020 Meeting Minutes"
+],
+[
+"https://www.d181.k12.id.us/district/trustees/2020-2021-meeting-minutes",
+"2020-2021 Meeting Minutes"
+],
+[
+"https://www.d181.k12.id.us/district/trustees/2021-2022-meeting-minutes",
+"2021-2022 Meeting Minutes"
+],
+[
+"https://www.d181.k12.id.us/district/trustees/2022-2023-meeting-minutes",
+"2022-2023 Meeting Minutes"
+],
+[
+"https://www.d181.k12.id.us/district/trustees/2023-2024-meeting-minutes",
+"2023-2024 Meeting Minutes"
+],
+[
+"https://www.d181.k12.id.us/district/trustees/2024-2025-meeting-minutes",
+"2024-2025 Meeting Minutes"
+],
+[
+"https://www.d181.k12.id.us/district/trustees/2025-2026-meeting-minutes",
+"2025-2026 Meeting Minutes"
+],
+[
+"https://www.d181.k12.id.us/district/trustees/2026-2027-meeting-minutes",
+"2026-2027 Meeting Minutes"
+],
+[
+"https://www.d181.k12.id.us/district/trustees/trustee-directory",
+"Trustee Directory"
+],
+[
+"https://www.d181.k12.id.us/district/public-information/meeting-times-and-places-notice",
+"Meeting Times and Places Notice"
+],
+[
+"https://www.d181.k12.id.us/view-all-events",
+"Calendar"
+],
+[
+"https://www.d181.k12.id.us/district/trustees/trustee-directory",
+"Trustees"
+],
+[
+"https://www.d181.k12.id.us/view-all-events",
+"Calendar"
+],
+[
+"https://www.d181.k12.id.us/fs/pages/730",
+"View Full Calendar"
+],
+[
+"https://www.d181.k12.id.us/calendar",
+"Calendar"
+]
+]
+},
+{
+"id": "ID-430",
+"url": "http://www.clarkcountyschools161.org/",
+"name": "Clark County School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.clarkcountyschools161.org/",
+"error": null,
+"title": "Home - Clark Co School District 161",
+"name_hits": [
+"clark"
+],
+"name_toks": [
+"clark"
+],
+"state_hit": true,
+"parked": false,
+"words": 957,
+"links": [
+[
+"https://www.clarkcountyschools161.org/about-us/academic-calendar",
+"Academic Calendar"
+],
+[
+"https://www.clarkcountyschools161.org/school-board",
+"School Board"
+],
+[
+"https://www.clarkcountyschools161.org/school-board/board-of-trustees",
+"Board of Trustees"
+],
+[
+"https://www.clarkcountyschools161.org/school-board/board-policies-and-zones",
+"Board Policies"
+],
+[
+"https://www.clarkcountyschools161.org/school-board/board-meetings",
+"Board Meetings"
+],
+[
+"https://www.clarkcountyschools161.org/school-board/policy-and-procedure-manuel",
+"Federal Policy and Procedure Manual"
+],
+[
+"https://www.clarkcountyschools161.org/school-board/continuous-improvement-plan",
+"Continuous Improvement Plan"
+],
+[
+"https://www.clarkcountyschools161.org/school-board/college-career-and-mentoring-program",
+"College Career and Mentoring Program"
+],
+[
+"https://www.clarkcountyschools161.org/school-board/literacy-intervention-plan",
+"Literacy Intervention Plan"
+],
+[
+"https://www.clarkcountyschools161.org/about-us/academic-calendar",
+"Academic Calendar"
+],
+[
+"https://www.clarkcountyschools161.org/school-board",
+"School Board"
+],
+[
+"https://www.clarkcountyschools161.org/school-board/board-of-trustees",
+"Board of Trustees"
+],
+[
+"https://www.clarkcountyschools161.org/school-board/board-policies-and-zones",
+"Board Policies"
+],
+[
+"https://www.clarkcountyschools161.org/school-board/board-meetings",
+"Board Meetings"
+],
+[
+"https://www.clarkcountyschools161.org/school-board/policy-and-procedure-manuel",
+"Federal Policy and Procedure Manual"
+],
+[
+"https://www.clarkcountyschools161.org/school-board/continuous-improvement-plan",
+"Continuous Improvement Plan"
+],
+[
+"https://www.clarkcountyschools161.org/school-board/college-career-and-mentoring-program",
+"College Career and Mentoring Program"
+],
+[
+"https://www.clarkcountyschools161.org/school-board/literacy-intervention-plan",
+"Literacy Intervention Plan"
+],
+[
+"https://calendar.google.com/calendar/u/0/embed?src=ccsd161@gmail.com&ctz=America/Denver",
+"Monthly Calendar (opens in new window/tab)"
+],
+[
+"https://www.clarkcountyschools161.org/transparent-idaho/~board/all-news-and-announcement-posts/post/ccsd-parent-square",
+""
+],
+[
+"https://www.clarkcountyschools161.org/transparent-idaho/~board/all-news-and-announcement-posts/post/ccsd-parent-square",
+"ParentSquare"
+],
+[
+"https://www.clarkcountyschools161.org/transparent-idaho/~board/all-news-and-announcement-posts/post/seetellnow",
+""
+],
+[
+"https://www.clarkcountyschools161.org/transparent-idaho/~board/all-news-and-announcement-posts/post/seetellnow",
+"SeeTellNow!"
+],
+[
+"https://www.clarkcountyschools161.org/transparent-idaho/~board/all-news-and-announcement-posts/post/bus-driver",
+""
+],
+[
+"https://www.clarkcountyschools161.org/transparent-idaho/~board/all-news-and-announcement-posts/post/bus-driver",
+"Bus Driver"
+],
+[
+"https://www.clarkcountyschools161.org/transparent-idaho/~board/all-news-and-announcement-posts/post/news-announcements-substitutes",
+""
+],
+[
+"https://www.clarkcountyschools161.org/transparent-idaho/~board/all-news-and-announcement-posts/post/news-announcements-substitutes",
+"Substitutes"
+],
+[
+"https://www.clarkcountyschools161.org/transparent-idaho/~board/all-news-and-announcement-posts/post/powerschool-cybersecurity-incident-notice",
+""
+],
+[
+"https://www.clarkcountyschools161.org/transparent-idaho/~board/all-news-and-announcement-posts/post/powerschool-cybersecurity-incident-notice",
+"PowerSchool Cybersecurity Incident Notice"
+],
+[
+"https://calendar.google.com/calendar/embed?src=ccsd161%40gmail.com&ctz=America%2FDenver",
+"View Full Calendar"
+],
+[
+"https://www.clarkcountyschools161.org/",
+"Calendar"
+]
+]
+},
+{
+"id": "ID-431",
+"url": "https://www.sd242.org/",
+"name": "Cottonwood Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://sd242.org/",
+"error": null,
+"title": "Welcome - Cottonwood Joint School District #242",
+"name_hits": [
+"cottonwood"
+],
+"name_toks": [
+"cottonwood"
+],
+"state_hit": true,
+"parked": false,
+"words": 2154,
+"links": [
+[
+"https://sd242.org/school-board/",
+"School Board"
+],
+[
+"https://sd242.org/school-board/",
+"School Board Home"
+],
+[
+"https://sd242.org/school-board-meetings/",
+"School Board Meeting Agendas & Minutes"
+],
+[
+"http://sd242.org/wp-content/uploads/2025/12/2026-2027-School-Calendar.pdf",
+"Calendar 2026-2027"
+],
+[
+"http://sd242.org/wp-content/uploads/2026/03/Kindergarten-Calendar-2026-2027.pdf",
+"Kindergarten Calendar 2026-2027"
+],
+[
+"http://www.idsba.org/",
+"Idaho School Board Association"
+]
+]
+},
+{
+"id": "ID-432",
+"url": "https://www.csd13.org/",
+"name": "Council School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.csd13.org/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"council"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "ID-433",
+"url": "https://www.culsch.org/",
+"name": "Culdesac Joint School District",
+"state": "ID",
+"status": null,
+"final": null,
+"error": "SSLError: HTTPSConnectionPool(host='www.culsch.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL"
+},
+{
+"id": "ID-434",
+"url": "https://district.dietrichschools.org/",
+"name": "Dietrich School District",
+"state": "ID",
+"status": 200,
+"final": "https://district.dietrichschools.org/",
+"error": null,
+"title": "Home",
+"name_hits": [
+"dietrich"
+],
+"name_toks": [
+"dietrich"
+],
+"state_hit": true,
+"parked": false,
+"words": 262,
+"links": [
+[
+"https://district.dietrichschools.org/schoolboard",
+"School Board"
+],
+[
+"https://district.dietrichschools.org/districtcalendar",
+"District Calendar"
+],
+[
+"https://district.dietrichschools.org/sys/calendar/searchlinks/8822ec054f5d4737b973e4572b62bab9/Calendar",
+"Calendar Links"
+],
+[
+"https://district.dietrichschools.org/districtcalendar",
+"District Calendar"
+]
+]
+},
+{
+"id": "ID-435",
+"url": "https://filerschools.org/",
+"name": "Filer School District",
+"state": "ID",
+"status": 200,
+"final": "https://filerschools.org/",
+"error": null,
+"title": "High Quality Education | Filer School District",
+"name_hits": [
+"filer"
+],
+"name_toks": [
+"filer"
+],
+"state_hit": true,
+"parked": false,
+"words": 1453,
+"links": [
+[
+"https://filerschools.org/calendars/",
+"Calendars"
+],
+[
+"https://filerschools.org/calendars/fhs-activities-calendar/",
+"FHS Activities Calendar"
+],
+[
+"https://filerschools.org/calendars/master-calendar/",
+"Master Calendar"
+],
+[
+"https://filerschools.org/wp-content/uploads/2026/08/2026-2027-Calendar-Final.pdf",
+"26-27 District Calendar"
+],
+[
+"https://filerschools.org/school-board/",
+"School Board"
+],
+[
+"https://filerschools.org/school-board/",
+"Board Members"
+],
+[
+"https://filerschools.org/school-board/board-meetings/",
+"Agendas & Minutes"
+],
+[
+"https://drive.google.com/drive/folders/1rGgYeY0kJw12_3kc2FFQorD5bdnSB6kr",
+"Board Documents (opens in a new tab)"
+],
+[
+"https://filerschools.org/school-board/zone-maps",
+"Trustee Zones (opens in a new tab)"
+],
+[
+"https://drive.google.com/drive/folders/1G26xHGs7H4-4D0oC65s-pZKdMuks7-vu?usp=drive_link",
+"Board Policy (opens in a new tab)"
+],
+[
+"https://filerschools.org/school-board/",
+"School Board"
+],
+[
+"https://filerschools.org/school-board/board-meetings/",
+"School Board Information (opens in a new tab)"
+],
+[
+"https://filerschools.org/school-board/",
+"School Board"
+],
+[
+"https://filerschools.org/school-board/board-meetings/",
+"Agendas & Minutes"
+],
+[
+"https://filerschools.org/calendars/fhs-activities-calendar/",
+"FHS Activities Calendar"
+],
+[
+"https://filerschools.org/calendars/master-calendar/",
+"Master Calendar"
+],
+[
+"https://filerschools.org/wp-content/uploads/2026/08/2026-2027-Calendar-Final.pdf",
+"26-27 District Calendar"
+],
+[
+"https://filerschools.org/calendars/fhs-activities-calendar/",
+"FHS Activities Calendar"
+],
+[
+"https://filerschools.org/calendars/master-calendar/",
+"Master Calendar"
+],
+[
+"https://filerschools.org/wp-content/uploads/2026/08/2026-2027-Calendar-Final.pdf",
+"26-27 District Calendar"
+],
+[
+"https://filerschools.org/calendars/fhs-activities-calendar/",
+"FHS Activities Calendar"
+],
+[
+"https://filerschools.org/calendars/master-calendar/",
+"Master Calendar"
+],
+[
+"https://filerschools.org/wp-content/uploads/2026/08/2026-2027-Calendar-Final.pdf",
+"26-27 District Calendar"
+],
+[
+"https://filerschools.org/calendars/fhs-activities-calendar/",
+"FHS Activities Calendar"
+],
+[
+"https://filerschools.org/calendars/master-calendar/",
+"Master Calendar"
+],
+[
+"https://filerschools.org/wp-content/uploads/2026/08/2026-2027-Calendar-Final.pdf",
+"26-27 District Calendar"
+],
+[
+"https://filerschools.org/calendars/fhs-activities-calendar/",
+"FHS Activities Calendar"
+],
+[
+"https://filerschools.org/calendars/master-calendar/",
+"Master Calendar"
+],
+[
+"https://filerschools.org/wp-content/uploads/2026/08/2026-2027-Calendar-Final.pdf",
+"26-27 District Calendar"
+],
+[
+"https://filerschools.org/calendars/fhs-activities-calendar/",
+"FHS Activities Calendar"
+],
+[
+"https://filerschools.org/calendars/master-calendar/",
+"Master Calendar"
+],
+[
+"https://filerschools.org/wp-content/uploads/2026/08/2026-2027-Calendar-Final.pdf",
+"26-27 District Calendar"
+],
+[
+"https://filerschools.org/calendars/fhs-activities-calendar/",
+"FHS Activities Calendar"
+],
+[
+"https://filerschools.org/calendars/master-calendar/",
+"Master Calendar"
+],
+[
+"https://filerschools.org/wp-content/uploads/2026/08/2026-2027-Calendar-Final.pdf",
+"26-27 District Calendar"
+],
+[
+"https://filerschools.org/calendars/fhs-activities-calendar/",
+"FHS Activities Calendar"
+],
+[
+"https://filerschools.org/calendars/master-calendar/",
+"Master Calendar"
+],
+[
+"https://filerschools.org/wp-content/uploads/2026/08/2026-2027-Calendar-Final.pdf",
+"26-27 District Calendar"
+],
+[
+"https://filerschools.org/calendars/",
+"Calendars"
+],
+[
+"https://filerschools.org/calendars/fhs-activities-calendar/",
+"FHS Activities Calendar"
+]
+]
+},
+{
+"id": "ID-436",
+"url": "https://sites.google.com/d59.k12.id.us/fsd/our-district",
+"name": "Firth School District",
+"state": "ID",
+"status": 200,
+"final": "https://sites.google.com/d59.k12.id.us/fsd/our-district",
+"error": null,
+"title": "Firth School District #59 - Our District",
+"name_hits": [
+"firth"
+],
+"name_toks": [
+"firth"
+],
+"state_hit": true,
+"parked": false,
+"words": 430,
+"links": [
+[
+"https://sites.google.com/d59.k12.id.us/fsd/our-district/school-board-information",
+"School Board Information"
+],
+[
+"https://sites.google.com/d59.k12.id.us/fsd/our-district/school-board-information/district-boundaries",
+"District Boundaries"
+],
+[
+"https://sites.google.com/d59.k12.id.us/fsd/our-district/school-board-information/board-meetings",
+"Board Meetings"
+],
+[
+"https://sites.google.com/d59.k12.id.us/fsd/our-district/school-board-information",
+"School Board Information"
+],
+[
+"https://sites.google.com/d59.k12.id.us/fsd/our-district/school-board-information/district-boundaries",
+"District Boundaries"
+],
+[
+"https://sites.google.com/d59.k12.id.us/fsd/our-district/school-board-information/board-meetings",
+"Board Meetings"
+],
+[
+"https://sites.google.com/d59.k12.id.us/fsd/our-district/school-board-information",
+"School Board Information"
+],
+[
+"https://sites.google.com/d59.k12.id.us/fsd/our-district/school-board-information/district-boundaries",
+"District Boundaries"
+],
+[
+"https://sites.google.com/d59.k12.id.us/fsd/our-district/school-board-information/board-meetings",
+"Board Meetings"
+],
+[
+"https://sites.google.com/d59.k12.id.us/fsd/our-district/school-board-information",
+"\u2696\ufe0f School Board Information"
+],
+[
+"https://sites.google.com/d59.k12.id.us/fsd/our-district/school-board-information",
+"\ud83d\uddc2\ufe0f Policies"
+],
+[
+"https://sites.google.com/d59.k12.id.us/fsd/our-district/school-board-information/district-boundaries",
+"\ud83d\uddfa\ufe0fDistrict Boundaries"
+],
+[
+"https://drive.google.com/file/d/1TJ3oe7pVJ00nADDr56MJdvevPshTm01Q/view?usp=sharing",
+"2027-2028 School Calendar"
+]
+]
+},
+{
+"id": "ID-437",
+"url": "https://www.gvsd.net/",
+"name": "Garden Valley School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.gvsd.net/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"garden",
+"valley"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "ID-438",
+"url": "https://www.glennsferryschools.org/",
+"name": "Glenns Ferry Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.glennsferryschools.org/",
+"error": null,
+"title": "Glenns Ferry School District",
+"name_hits": [
+"glenns",
+"ferry"
+],
+"name_toks": [
+"glenns",
+"ferry"
+],
+"state_hit": true,
+"parked": false,
+"words": 440,
+"links": []
+},
+{
+"id": "ID-439",
+"url": "https://gsd231.org/",
+"name": "Gooding Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://gsd231.org/",
+"error": null,
+"title": "Gooding School District \u2014 Home of the Senators",
+"name_hits": [
+"gooding"
+],
+"name_toks": [
+"gooding"
+],
+"state_hit": true,
+"parked": false,
+"words": 905,
+"links": [
+[
+"https://gsd231.org/board-agendas/",
+"Board Agendas"
+],
+[
+"https://gsd231.org/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://gsd231.org/calendars/",
+"Calendars"
+],
+[
+"https://gsd231.org/submit-a-request-to-post-information-on-the-reader-board-on-main-street/",
+"Reader Board Posting Request"
+],
+[
+"https://gsd231.org/board-agendas/",
+"Board Agendas"
+],
+[
+"https://gsd231.org/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://gsd231.org/calendars/",
+"Calendars"
+],
+[
+"https://gsd231.org/submit-a-request-to-post-information-on-the-reader-board-on-main-street/",
+"Reader Board Posting Request"
+],
+[
+"https://gsd231.org/board-agendas/",
+"Board Agendas"
+],
+[
+"https://gsd231.org/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://gsd231.org/calendars/",
+"Calendars"
+],
+[
+"https://gsd231.org/submit-a-request-to-post-information-on-the-reader-board-on-main-street/",
+"Reader Board Posting Request"
+]
+]
+},
+{
+"id": "ID-440",
+"url": "http://www.hjsd.org/",
+"name": "Hagerman Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.hjsd.org/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"hagerman"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "ID-441",
+"url": "https://www.hansenschools.org/",
+"name": "Hansen School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.hansenschools.org/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"hansen"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "ID-442",
+"url": "http://www.sd305.k12.id.us/",
+"name": "Highland Joint School District",
+"state": "ID",
+"status": 200,
+"final": "http://www.sd305.k12.id.us/",
+"error": null,
+"title": "Highland Joint School District #305",
+"name_hits": [
+"highland"
+],
+"name_toks": [
+"highland"
+],
+"state_hit": true,
+"parked": false,
+"words": 318,
+"links": [
+[
+"http://www.sd305.org/board/board.php",
+"Board of Trustees"
+],
+[
+"http://www.sd305.org/board/board.php",
+"Policy/Handbooks"
+],
+[
+"http://www.sd305.org/calendars/calendars.php",
+"Calendars"
+],
+[
+"http://www.sd305.org/board/2026-2027%20Highland%20Elementary%20Handbook.pdf",
+"Handbook - Elementary Student"
+],
+[
+"http://www.sd305.org/board/2026-2027%20Highland%20Secondary%20Handbook.pdf",
+"Handbook - High School Student"
+],
+[
+"https://sites.google.com/a/sd305.org/music-department-event-calendar/home",
+"Music Department Calendar"
+],
+[
+"http://www.sd305.k12.id.us/board/400-policy/448.3%20Student%20Data%20Privacy%20and%20Security.pdf",
+"Student Data Privacy and Security"
+],
+[
+"http://www.sd305.org/board/wellness_policy.php",
+"Wellness"
+],
+[
+"http://www.sd305.org/board/500-policy/505%20Parent%20and%20Family%20Engagement.pdf",
+"Family and Parent Engagement Policy"
+],
+[
+"http://www.sd305.org/board/board.php",
+"Continuous Improvement Plan"
+],
+[
+"http://www.sd305.k12.id.us/calendars/calendars.php",
+"Calendars"
+],
+[
+"http://www.sd305.k12.id.us/board/agenda/agenda%202026-11-4-6%20quorum%20present.pdf",
+"Notice of Quorum - November 4-6, 2026"
+],
+[
+"http://www.sd305.k12.id.us/board/agenda/agenda-2026-11.pdf",
+"Board Meeting Agenda - November 9, 2026"
+],
+[
+"http://www.sd305.org/board/packets/packet-2026-11.pdf",
+"Packet"
+],
+[
+"http://www.sd305.k12.id.us/board/Highland_trustee_zone_map.pdf",
+"Trustee Zone Map"
+]
+]
+},
+{
+"id": "ID-443",
+"url": "https://www.hsbschools.org/",
+"name": "Horseshoe Bend School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.hsbschools.org/",
+"error": null,
+"title": "Home - Horseshoe Bend School District #73",
+"name_hits": [
+"horseshoe",
+"bend"
+],
+"name_toks": [
+"horseshoe",
+"bend"
+],
+"state_hit": true,
+"parked": false,
+"words": 1637,
+"links": [
+[
+"https://www.hsbschools.org/calendar",
+"Calendar"
+],
+[
+"https://www.hsbschools.org/calendar/district_calendar",
+"District Calendar"
+],
+[
+"https://www.hsbschools.org/calendar/sports_calendar",
+"Sports Calendar"
+],
+[
+"https://www.hsbschools.org/calendar/facility_use",
+"Facility Use"
+],
+[
+"https://www.hsbschools.org/calendar/november_lunch_menu",
+"November Lunch Menu"
+],
+[
+"https://www.hsbschools.org/school_board",
+"District"
+],
+[
+"https://www.hsbschools.org/school_board/agendas",
+"Board Meeting Agendas/Packets"
+],
+[
+"https://www.hsbschools.org/school_board/minutes",
+"Board Meeting Minutes"
+],
+[
+"https://www.hsbschools.org/school_board/curriculum",
+"Curriculum"
+],
+[
+"https://www.hsbschools.org/school_board/declaration_and_petition_of_candidacy_for_school_trustee",
+"Declaration and Petition of Candidacy for School Trustee"
+],
+[
+"https://www.hsbschools.org/school_board/district_financial",
+"Financials"
+],
+[
+"https://www.hsbschools.org/school_board/legal_notices",
+"Legal Notices"
+],
+[
+"https://www.hsbschools.org/school_board/negotiations",
+"Negotiations"
+],
+[
+"https://www.hsbschools.org/school_board/open_enrollment",
+"Open Enrollment"
+],
+[
+"https://www.hsbschools.org/school_board/state-_required_plans",
+"Plans / Reports"
+],
+[
+"https://www.hsbschools.org/school_board/district_policy",
+"Policy"
+],
+[
+"https://www.hsbschools.org/school_board/public_notices",
+"Public Notices"
+],
+[
+"https://www.hsbschools.org/school_board/report_card_-_elementary_school",
+"Report Card - Elementary School"
+],
+[
+"https://www.hsbschools.org/school_board/report_card_-_middle__high_school",
+"Report Card - Middle/High School"
+],
+[
+"https://www.hsbschools.org/school_board/request_to_appear_before_the_board",
+"Request to Appear Before the Board"
+],
+[
+"https://www.hsbschools.org/school_board/staff_handbook",
+"Staff Handbook"
+],
+[
+"https://www.hsbschools.org/school_board/staff_handbook/mission___vision___core_values___student_outcomes",
+"Mission / Vision / Core Values / Student Outcomes"
+],
+[
+"https://www.hsbschools.org/school_board/staff_handbook/2026-27_master_contract",
+"2026-27 Master Contract"
+],
+[
+"https://www.hsbschools.org/school_board/staff_handbook/2026-27_calendar",
+"2026-27 Calendar"
+],
+[
+"https://www.hsbschools.org/school_board/staff_handbook/association",
+"Association"
+],
+[
+"https://www.hsbschools.org/school_board/staff_handbook/athletics",
+"Athletics"
+],
+[
+"https://www.hsbschools.org/school_board/staff_handbook/c_a_r_e_team_a",
+"CARE Team"
+],
+[
+"https://www.hsbschools.org/school_board/staff_handbook/corporal_punishment",
+"Corporal Punishment"
+],
+[
+"https://www.hsbschools.org/school_board/staff_handbook/curriculum",
+"Curriculum"
+],
+[
+"https://www.hsbschools.org/school_board/staff_handbook/discipline___discharge",
+"Discipline / Discharge"
+],
+[
+"https://www.hsbschools.org/school_board/staff_handbook/dress_code",
+"Dress Code"
+],
+[
+"https://www.hsbschools.org/school_board/staff_handbook/tobacco-_free_environment",
+"Drug, Alcohol, and Tobacco Use"
+],
+[
+"https://www.hsbschools.org/school_board/staff_handbook/email___electronic_communications",
+"Email / Electronic Communications"
+],
+[
+"https://www.hsbschools.org/school_board/staff_handbook/equal_employment___non-_discrimination",
+"Equal Employment / Non-Discrimination"
+],
+[
+"https://www.hsbschools.org/school_board/staff_handbook/field_trips",
+"Field Trips"
+],
+[
+"https://www.hsbschools.org/school_board/staff_handbook/forms",
+"Forms"
+],
+[
+"https://www.hsbschools.org/school_board/staff_handbook/fundraising",
+"Fundraising"
+],
+[
+"https://www.hsbschools.org/school_board/staff_handbook/grades",
+"Grades"
+],
+[
+"https://www.hsbschools.org/school_board/staff_handbook/grievances___complaints",
+"Grievances / Complaints"
+],
+[
+"https://www.hsbschools.org/school_board/staff_handbook/guest_speakers",
+"Guest Speakers"
+]
+]
+},
+{
+"id": "ID-444",
+"url": "https://www.jeromeschools.org/",
+"name": "Jerome Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.jeromeschools.org/",
+"error": null,
+"title": "HOME | Jerome SD #261",
+"name_hits": [
+"jerome"
+],
+"name_toks": [
+"jerome"
+],
+"state_hit": true,
+"parked": false,
+"words": 936,
+"links": [
+[
+"https://docs.google.com/file/d/1e9o7sQClwE6JIR-Gqg7vEkLa4q8aktiu/view",
+"26-27 Academic Calendar"
+],
+[
+"https://www.jeromeschools.org/schoolboard",
+"School Board Trustees"
+],
+[
+"https://www.jeromeschools.org/boardmeetings",
+"Board Agendas & Minutes"
+],
+[
+"https://drive.google.com/file/d/1CHB_cBWOCWE7zeJOJuepax6SlLrVrzLo/view",
+"Trustee Zone Map"
+],
+[
+"https://www.jeromeschools.org/post/26-27-jsd-school-calendar",
+"26-27 JSD School Calendar"
+],
+[
+"https://www.jeromeschools.org/post/title-programs-advisory-council-consejo-asesor-de-los-programas-del-t\u00edtulo",
+"Title Programs Advisory Council/Consejo Asesor de los Programas del T\u00edtulo"
+]
+]
+},
+{
+"id": "ID-445",
+"url": "https://kamiahsd.org/",
+"name": "Kamiah Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://kamiahsd.org/",
+"error": null,
+"title": "Home - Kamiah School District",
+"name_hits": [
+"kamiah"
+],
+"name_toks": [
+"kamiah"
+],
+"state_hit": true,
+"parked": false,
+"words": 745,
+"links": [
+[
+"https://kamiahsd.org/board-of-trustees/2026-board-meeting-schedule/",
+"2026 Board and Board Meeting Schedule"
+],
+[
+"https://kamiahsd.org/board-of-trustees/public-notices-and-board-meeting-agendas/",
+"Public Notices & Board Meeting Agendas"
+],
+[
+"https://kamiahsd.org/board-of-trustees/policy-4210f-facility-use-application-form/",
+"Policy 4210- Facility Use Form"
+],
+[
+"https://kamiahsd.org/board-of-trustees/board-minutes/",
+"Board Minutes"
+],
+[
+"https://kamiahsd.org/board-of-trustees/board-policy/",
+"Board Policy"
+],
+[
+"https://kamiahsd.org/calendar",
+"Calendar"
+],
+[
+"https://kamiahsd.org/board-of-trustees/2026-board-meeting-schedule/",
+"2026 Board and Board Meeting Schedule"
+],
+[
+"https://kamiahsd.org/board-of-trustees/public-notices-and-board-meeting-agendas/",
+"Public Notices & Board Meeting Agendas"
+],
+[
+"https://kamiahsd.org/board-of-trustees/policy-4210f-facility-use-application-form/",
+"Policy 4210- Facility Use Form"
+],
+[
+"https://kamiahsd.org/board-of-trustees/board-minutes/",
+"Board Minutes"
+],
+[
+"https://kamiahsd.org/board-of-trustees/board-policy/",
+"Board Policy"
+],
+[
+"https://kamiahsd.org/calendar",
+"Calendar"
+],
+[
+"https://kamiahsd.org/board-of-trustees/2026-board-meeting-schedule/",
+"2026 Board and Board Meeting Schedule"
+],
+[
+"https://kamiahsd.org/board-of-trustees/public-notices-and-board-meeting-agendas/",
+"Public Notices & Board Meeting Agendas"
+],
+[
+"https://kamiahsd.org/board-of-trustees/policy-4210f-facility-use-application-form/",
+"Policy 4210- Facility Use Form"
+],
+[
+"https://kamiahsd.org/board-of-trustees/board-minutes/",
+"Board Minutes"
+],
+[
+"https://kamiahsd.org/board-of-trustees/board-policy/",
+"Board Policy"
+],
+[
+"https://kamiahsd.org/calendar",
+"Calendar"
+],
+[
+"https://kamiahsd.org/board-of-trustees/policy-4210f-facility-use-application-form/",
+"HERE"
+],
+[
+"https://kamiahsd.org/wp-content/uploads/2026/07/2026-2027-Calendar.pdf",
+""
+],
+[
+"https://kamiahsd.org/board-of-trustees/2026-board-meeting-schedule/",
+"2026 Board and Board Meeting Schedule"
+],
+[
+"https://kamiahsd.org/board-of-trustees/public-notices-and-board-meeting-agendas/",
+"Public Notices & Board Meeting Agendas"
+],
+[
+"https://kamiahsd.org/board-of-trustees/policy-4210f-facility-use-application-form/",
+"Policy 4210- Facility Use Form"
+],
+[
+"https://kamiahsd.org/board-of-trustees/board-minutes/",
+"Board Minutes"
+],
+[
+"https://kamiahsd.org/board-of-trustees/board-policy/",
+"Board Policy"
+],
+[
+"https://kamiahsd.org/calendar",
+"Calendar"
+],
+[
+"https://kamiahsd.org/board-of-trustees/2026-board-meeting-schedule/",
+"2026 Board and Board Meeting Schedule"
+],
+[
+"https://kamiahsd.org/board-of-trustees/public-notices-and-board-meeting-agendas/",
+"Public Notices & Board Meeting Agendas"
+],
+[
+"https://kamiahsd.org/board-of-trustees/policy-4210f-facility-use-application-form/",
+"Policy 4210- Facility Use Form"
+],
+[
+"https://kamiahsd.org/board-of-trustees/board-minutes/",
+"Board Minutes"
+],
+[
+"https://kamiahsd.org/board-of-trustees/board-policy/",
+"Board Policy"
+],
+[
+"https://kamiahsd.org/calendar",
+"Calendar"
+]
+]
+},
+{
+"id": "ID-446",
+"url": "https://www.kelloggschools.org/",
+"name": "Kellogg Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.kelloggschools.org/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"kellogg"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "ID-447",
+"url": "http://www.kimberly.edu/",
+"name": "Kimberly School District",
+"state": "ID",
+"status": 200,
+"final": "http://www.kimberly.edu/",
+"error": null,
+"title": "Home | Kimberly School District",
+"name_hits": [
+"kimberly"
+],
+"name_toks": [
+"kimberly"
+],
+"state_hit": false,
+"parked": false,
+"words": 35,
+"links": []
+},
+{
+"id": "ID-448",
+"url": "https://www.sd274.com/",
+"name": "Kootenai Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.sd274.com/",
+"error": null,
+"title": "Home - Kootenai Joint School District",
+"name_hits": [
+"kootenai"
+],
+"name_toks": [
+"kootenai"
+],
+"state_hit": true,
+"parked": false,
+"words": 275,
+"links": [
+[
+"https://www.sd274.com/school_board",
+"School Board"
+],
+[
+"https://www.sd274.com/school_board/kootenai_school_board",
+"Kootenai School Board"
+],
+[
+"https://www.sd274.com/school_board/board_meetings",
+"Board Meetings"
+],
+[
+"https://www.sd274.com/school_board/policies",
+"Policies"
+],
+[
+"https://www.sd274.com/school_board/state_board_reports",
+"State Board Reports"
+],
+[
+"https://www.sd274.com/school_board",
+"School Board"
+],
+[
+"https://www.sd274.com/school_board/kootenai_school_board",
+"Kootenai School Board"
+],
+[
+"https://www.sd274.com/school_board/board_meetings",
+"Board Meetings"
+],
+[
+"https://www.sd274.com/school_board/policies",
+"Policies"
+],
+[
+"https://www.sd274.com/school_board/state_board_reports",
+"State Board Reports"
+]
+]
+},
+{
+"id": "ID-449",
+"url": "http://www.lapwai.org/",
+"name": "Lapwai School District",
+"state": "ID",
+"status": 200,
+"final": "http://www.lapwai.org/",
+"error": null,
+"title": "Lapwai School District #341",
+"name_hits": [
+"lapwai"
+],
+"name_toks": [
+"lapwai"
+],
+"state_hit": true,
+"parked": false,
+"words": 428,
+"links": [
+[
+"http://www.lapwai.org/board/board.php",
+"Board of Trustees"
+],
+[
+"http://www.lapwai.org/calendars/calendars.php",
+"Calendars"
+],
+[
+"http://www.lapwai.org/board/board.php",
+"Continuous Improvement Plan"
+],
+[
+"http://www.lapwai.org/board/finance/finance.php",
+"Finance"
+],
+[
+"http://www.lapwai.org/board/finance/finance.php",
+"Master Agreement"
+],
+[
+"http://www.lapwai.org/board/board.php",
+"Policy"
+],
+[
+"http://www.lapwai.org/board/agendas/agenda%202026-11-4-6%20quorum%20present.pdf",
+"Notice of Quorum Present - November 4-6, 2026"
+],
+[
+"http://www.lapwai.org/board/agendas/agenda-2026-11.pdf",
+"Board Meeting - Agenda - November 16, 2026"
+],
+[
+"http://www.lapwai.org/board/finance/2026-2027/341%20FY%202027%20Budget.pdf",
+"Adopted 2026-2027 Budget"
+],
+[
+"http://www.lapwai.org/board/board.php",
+"Continuous Improvement Plan"
+],
+[
+"http://www.lapwai.org/board/finance/finance.php",
+"Finance"
+],
+[
+"http://www.lapwai.org/board/policy/700/703.3%20Wellness.pdf",
+"Wellness Policy"
+],
+[
+"http://www.lapwai.org/board/finance/finance.php",
+"Master Agreement"
+]
+]
+},
+{
+"id": "ID-450",
+"url": "http://www.mvsd21.org/",
+"name": "Marsh Valley Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.mvsd21.org/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"marsh",
+"valley"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "ID-451",
+"url": "http://www.mvsd11.org/",
+"name": "Meadows Valley School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.mvsd11.org/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"meadows",
+"valley"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "ID-452",
+"url": "https://msd136.org/",
+"name": "Melba Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://msd136.org/",
+"error": null,
+"title": "Home - Melba School District",
+"name_hits": [
+"melba"
+],
+"name_toks": [
+"melba"
+],
+"state_hit": true,
+"parked": false,
+"words": 413,
+"links": [
+[
+"https://msd136.org/school-board/",
+"School Board"
+],
+[
+"https://msd136.org/school-board/",
+"School Board"
+],
+[
+"https://msd136.org/calendar/",
+"Calendar"
+],
+[
+"https://msd136.org/calendar/",
+"Calendar"
+]
+]
+},
+{
+"id": "ID-453",
+"url": "http://www.midvaleschools.org/",
+"name": "Midvale School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.midvaleschools.org/",
+"error": null,
+"title": "Midvaleschools.org",
+"name_hits": [
+"midvale"
+],
+"name_toks": [
+"midvale"
+],
+"state_hit": true,
+"parked": false,
+"words": 707,
+"links": [
+[
+"https://www.midvaleschools.org/board-minutes-2/",
+"Board of Trustees"
+],
+[
+"https://simbli.eboardsolutions.com/id/midvale",
+"Board Meetings, Minutes & Agendas"
+],
+[
+"https://simbli.eboardsolutions.com/id/midvale",
+"MSD Policy Manual"
+],
+[
+"https://www.midvaleschools.org/minutes/",
+"Past Minutes"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2025/04/2025Feb3-spcmeetingmin.doc",
+"Feb. 3, 2025"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2024/04/January-2024-minutes.pdf",
+"Jan. 22, 2024"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2024/04/February-2024-Minutes.pdf",
+"Feb. 26, 2024"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2023/08/January-23-2023-Minutes.pdf",
+"Jan. 23, 2023"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2023/08/March-2-2023-Minutes.pdf",
+"March 2, 2023"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2023/08/March-27-2023-Minutes.pdf",
+"March 27, 2023"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2023/08/April-24-2023-Minutes.pdf",
+"April 24, 2023"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2023/08/May-22-2023-Minutes-1.pdf",
+"May 22, 2023"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2023/08/June-26-2023-Minutes.pdf",
+"June 26, 2023"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2023/12/July-24-2023-minutes.pdf",
+"July 24, 2023"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2023/12/August-28-2023-Minutes-1.pdf",
+"Aug. 28, 2023"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2023/12/September-25-2023-Minutes-1.pdf",
+"Sept. 25, 2023"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2023/12/October-23-2023-Minutes-1.pdf",
+"Oct. 23, 2023"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2024/04/November-2023-Minutes.pdf",
+"Nov. 27, 2023"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2024/04/December-2023-Minutes.pdf",
+"Dec. 18, 2023"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2022/11/September-26-2022-Minutes.pdf",
+"Sept. 26, 2022"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2023/01/October-24-2022-Minutes.pdf",
+"Oct. 24, 2022"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2023/01/Nov-28-2022-minutes.pdf",
+"Nov. 28, 2022"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2023/01/December-19-2022-Minutes.pdf",
+"Dec. 19, 2022"
+],
+[
+"https://www.midvaleschools.org/calendars-notices/",
+"Calendars/Notices"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2026/09/9-14-26-Special-Meeting-Agenda.pdf",
+"9/14/26 Special Meeting Agenda"
+],
+[
+"https://www.midvaleschools.org/wp-content/uploads/2026/02/2026-27-School-Calendar-Option-1.pdf",
+"Dist. Calendar 26/27"
+],
+[
+"https://www.midvaleschools.org/extra-curricular-activities/student-council/",
+"Student Council"
+]
+]
+},
+{
+"id": "ID-454",
+"url": "http://www.mtnhomesd.org/",
+"name": "Mountain Home School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.mtnhomesd.org/",
+"error": null,
+"title": "Home - Mountain Home School District #193",
+"name_hits": [
+"mountain",
+"home"
+],
+"name_toks": [
+"mountain",
+"home"
+],
+"state_hit": true,
+"parked": false,
+"words": 775,
+"links": [
+[
+"https://www.mtnhomesd.org/about-us/mhsd-history/trustee-history",
+"Trustee History"
+],
+[
+"https://www.mtnhomesd.org/departments/school-board",
+"School Board"
+],
+[
+"https://www.mtnhomesd.org/departments/school-board/board-meeting-agendas-minutes",
+"Board Meeting Agendas & Minutes"
+],
+[
+"https://www.mtnhomesd.org/departments/school-board/trustee-contact-information",
+"Trustee Contact Information"
+],
+[
+"https://www.mtnhomesd.org/departments/school-board/open-enrollment-information",
+"Open Enrollment Information"
+],
+[
+"https://www.mtnhomesd.org/departments/school-board/trustee-zones",
+"Trustee Zones"
+],
+[
+"https://www.mtnhomesd.org/departments/school-board/calendar",
+"Calendar"
+],
+[
+"https://www.mtnhomesd.org/departments/school-board/continuous-improvement-plan-essr-lea-arp-plan",
+"Continuous Improvement Plan & ESSR LEA ARP Plan"
+],
+[
+"https://www.mtnhomesd.org/departments/school-board/public-input",
+"Public Input"
+],
+[
+"https://www.mtnhomesd.org/departments/school-board/election-information",
+"Election Information"
+],
+[
+"https://www.mtnhomesd.org/departments/school-board/negotiations-and-master-agreement",
+"Negotiations and Master Agreement"
+],
+[
+"https://www.mtnhomesd.org/departments/school-board/officers-of-the-board",
+"Officers of the Board"
+],
+[
+"https://www.mtnhomesd.org/departments/policies-and-procedures/board-policy",
+"Board Policy"
+],
+[
+"https://www.mtnhomesd.org/employees/employee-calendars",
+"Employee Calendars"
+],
+[
+"https://www.mtnhomesd.org/calendar",
+"Calendar"
+],
+[
+"https://www.mtnhomesd.org/departments/school-board",
+"School Board"
+],
+[
+"https://www.mtnhomesd.org/employees/employee-calendars",
+"Employee Calendars"
+],
+[
+"https://www.mtnhomesd.org/calendar",
+"Calendar"
+],
+[
+"https://www.mtnhomesd.org/fs/pages/1755",
+"View Full Calendar"
+],
+[
+"https://www.mtnhomesd.org/calendar",
+"Calendar"
+]
+]
+},
+{
+"id": "ID-456",
+"url": "https://www.mullanschools.com/",
+"name": "Mullan School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.mullanschools.com/",
+"error": null,
+"title": "Mullan School District #392",
+"name_hits": [
+"mullan"
+],
+"name_toks": [
+"mullan"
+],
+"state_hit": true,
+"parked": false,
+"words": 365,
+"links": [
+[
+"https://www.mullanschools.com/school-board",
+"School Board"
+],
+[
+"https://www.mullanschools.com/calendar",
+"Calendar"
+]
+]
+},
+{
+"id": "ID-457",
+"url": "http://www.murtaugh.k12.id.us/",
+"name": "Murtaugh Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.murtaugh.k12.id.us/",
+"error": null,
+"title": "Home - Murtaugh School District #418",
+"name_hits": [
+"murtaugh"
+],
+"name_toks": [
+"murtaugh"
+],
+"state_hit": true,
+"parked": false,
+"words": 626,
+"links": [
+[
+"https://www.murtaugh.k12.id.us/calendar",
+"Calendar"
+],
+[
+"https://www.murtaugh.k12.id.us/calendar/2627calendar",
+"Approved School Calendar for 2026-27"
+],
+[
+"https://www.murtaugh.k12.id.us/calendar/SchoolCalendar27-28",
+"Proposed School Calendar for 2027-28"
+],
+[
+"https://www.murtaugh.k12.id.us/schools/district/Schoolboard",
+"School Board"
+],
+[
+"https://www.murtaugh.k12.id.us/schools/calendar",
+"Calendar"
+],
+[
+"https://www.murtaugh.k12.id.us/school_board",
+"School Board"
+],
+[
+"https://www.murtaugh.k12.id.us/calendar",
+"Calendar"
+],
+[
+"https://www.murtaugh.k12.id.us/calendar/2627calendar",
+"Approved School Calendar for 2026-27"
+],
+[
+"https://www.murtaugh.k12.id.us/calendar/SchoolCalendar27-28",
+"Proposed School Calendar for 2027-28"
+],
+[
+"https://www.murtaugh.k12.id.us/schools/district/Schoolboard",
+"School Board"
+],
+[
+"https://www.murtaugh.k12.id.us/schools/calendar",
+"Calendar"
+],
+[
+"https://www.murtaugh.k12.id.us/school_board",
+"School Board"
+],
+[
+"https://drive.google.com/drive/folders/0B5RxK78ZKA9Ubk1rRUJIRU4yWms?resourcekey=0-0dhvQYfeJuTkeH9S8hOE7g",
+"School Board Info"
+]
+]
+},
+{
+"id": "ID-458",
+"url": "http://www.npschools.us/",
+"name": "New Plymouth School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.npschools.us/",
+"error": null,
+"title": "New Plymouth School District #372",
+"name_hits": [
+"new",
+"plymouth"
+],
+"name_toks": [
+"new",
+"plymouth"
+],
+"state_hit": true,
+"parked": false,
+"words": 387,
+"links": [
+[
+"javascript:;",
+"Board of Trustees"
+],
+[
+"https://www.npschools.us/apps/pages/index.jsp?uREC_ID=2221552&type=d",
+"Board of Trustees"
+],
+[
+"https://www.npschools.us/apps/pages/index.jsp?uREC_ID=2222116&type=d",
+"Minutes / Agendas / Notices"
+],
+[
+"https://www.npschools.us/apps/pages/index.jsp?uREC_ID=2225897&type=d&pREC_ID=2198907",
+"Meeting Dates / Information"
+],
+[
+"javascript:;",
+"Calendar"
+],
+[
+"https://4.files.edl.io/74f9/03/30/26/194543-b61d3b90-38dd-4e94-bb7e-ca14ef34e96a.pdf",
+"Calendar 26-27"
+],
+[
+"https://4.files.edl.io/b58a/01/15/26/191128-5d18299a-d860-4f82-8607-621e4e1f33a0.pdf",
+"Request to Address the Board Form"
+],
+[
+"https://www.npschools.us/apps/events/2026/12/14/9398038/?REC_ID=9398038&id=0&d=2026-12-14",
+"NP School Board Meeting"
+],
+[
+"https://www.npschools.us/apps/events/2027/1/11/9398038/?REC_ID=9398038&id=0&d=2027-1-11",
+"NP School Board Meeting"
+],
+[
+"https://www.npschools.us/apps/events/2027/2/8/9398038/?REC_ID=9398038&id=0&d=2027-2-8",
+"NP School Board Meeting"
+],
+[
+"https://www.npschools.us/apps/events/2027/3/8/9398038/?REC_ID=9398038&id=0&d=2027-3-8",
+"NP School Board Meeting"
+],
+[
+"https://www.npschools.us/apps/events/2027/4/12/9398038/?REC_ID=9398038&id=0&d=2027-4-12",
+"NP School Board Meeting"
+],
+[
+"https://www.npschools.us/apps/events/",
+"Calendar"
+],
+[
+"https://www.npschools.us/",
+"Board"
+]
+]
+},
+{
+"id": "ID-459",
+"url": "https://sites.google.com/nezpercesd.us/school",
+"name": "Nezperce Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://sites.google.com/nezpercesd.us/school",
+"error": null,
+"title": "Nezperce Schools",
+"name_hits": [
+"nezperce"
+],
+"name_toks": [
+"nezperce"
+],
+"state_hit": true,
+"parked": false,
+"words": 456,
+"links": [
+[
+"https://sites.google.com/nezpercesd.us/school/district/facility-use-calendar",
+"Facility Use Calendar"
+],
+[
+"https://sites.google.com/nezpercesd.us/school/district/facility-use-calendar",
+"Facility Use Calendar"
+],
+[
+"https://sites.google.com/nezpercesd.us/school/district/facility-use-calendar",
+"Facility Use Calendar"
+],
+[
+"https://drive.google.com/file/d/1Kr5YGZYuIA81bK6dJVWiQt1LTDX99P_R/view?usp=sharing",
+"Annual Calendar 2026-2027"
+],
+[
+"https://www.google.com/calendar/embed?src=nezpercesd.us_4oqqdkkvp85b60b6e3a7e63e08@group.calendar.google.com&src=nezpercesd.us_8f2k1dm9d2v2b7ml5gehif4s04@group.calendar.google.com&src=nezpercesd.us_9d6vt9n1jrj89shr235pno3rc4@group.calendar.google.com&src=nezpercesd.us_bpg4sbiknsn6rddu7hhtvqej8o@group.calendar.google.com&src=nezpercesd.us_j4pl4luiu4grk40spcjstpat0o@group.calendar.google.com&src=nezpercesd.us_l6l5nlv1buefd3752u3vk2uaf0@group.calendar.google.com&src=nezpercesd.us_m5jahsag18h9kpp5s4jdklnvao@group.calendar.google.com&src=nezpercesd.us_v047k4otv6mqj3p1ebo9mp0c6g@group.calendar.google.com",
+""
+]
+]
+},
+{
+"id": "ID-460",
+"url": "https://www.sd149.com/",
+"name": "North Gem School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.sd149.com/en-US",
+"error": null,
+"title": "Home - North Gem School District",
+"name_hits": [
+"north",
+"gem"
+],
+"name_toks": [
+"north",
+"gem"
+],
+"state_hit": true,
+"parked": false,
+"words": 892,
+"links": [
+[
+"https://www.sd149.com/calendar",
+"Calendar"
+]
+]
+},
+{
+"id": "ID-461",
+"url": "https://oneidaschooldistrict.com/",
+"name": "Oneida County School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.oneidaschooldistrict.org/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"oneida"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "ID-462",
+"url": "http://www.sd171.k12.id.us/",
+"name": "Orofino Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.sd171.k12.id.us/",
+"error": null,
+"title": "Home",
+"name_hits": [
+"orofino"
+],
+"name_toks": [
+"orofino"
+],
+"state_hit": true,
+"parked": false,
+"words": 174,
+"links": [
+[
+"https://www.sd171.k12.id.us/trusteezonemap",
+"Trustee Zone Map"
+],
+[
+"https://www.sd171.k12.id.us/districtcalendar",
+"District Calendar"
+],
+[
+"https://docs.google.com/document/d/13uNblPClnVsb1CE72JJ9rweqMpuzQPuG64lI4PrPKCs/edit?usp=sharing",
+"Board Mission/Vision/Goals"
+],
+[
+"https://www.sd171.k12.id.us/boardinfo",
+"Dates & Locations"
+],
+[
+"https://www.sd171.k12.id.us/board-members",
+"Board Members"
+],
+[
+"https://www.sd171.k12.id.us/agendasminutes",
+"Agendas and Minutes"
+]
+]
+},
+{
+"id": "ID-463",
+"url": "http://www.parmaschools.org/",
+"name": "Parma School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.parmaschools.org/home",
+"error": null,
+"title": "District Home - Parma School District #137",
+"name_hits": [
+"parma"
+],
+"name_toks": [
+"parma"
+],
+"state_hit": false,
+"parked": false,
+"words": 1155,
+"links": [
+[
+"http://www.parmaschools.org/menu/137-calendar",
+"Calendars"
+],
+[
+"http://www.parmaschools.org/school-board/current-school-board-members",
+"Current School Board Members"
+],
+[
+"http://www.parmaschools.org/school-board/meeting-schedule",
+"Meeting Schedule"
+],
+[
+"https://parmaschools.diligent.community/Portal/default.aspx",
+"Agenda Postings & Minutes"
+],
+[
+"http://www.parmaschools.org/school-board/zone-maps",
+"Zone Maps"
+],
+[
+"http://www.parmaschools.org/school-board/elections",
+"Elections"
+],
+[
+"http://www.parmaschools.org/news-details/~board/district-info/post/certified-master-contract",
+"Certified Master Contract"
+],
+[
+"http://www.parmaschools.org/news-details/~board/district-info/post/non-certified-employee-handbook",
+"Non-Certified Employee Handbook"
+],
+[
+"http://www.parmaschools.org/news-details/~board/district-info/post/strategic-cip-plan",
+"Strategic Planning"
+],
+[
+"https://www.parmaschools.org/news-details/~board/announcements/post/weekly-announcements",
+"Announcements (opens in new window/tab)"
+],
+[
+"https://www.parmaschools.org/news-details/~board/all-lunch-menus/post/lunch-menus",
+""
+],
+[
+"https://www.parmaschools.org/news-details/~board/all-lunch-menus/post/lunch-menus",
+"Lunch Menus"
+],
+[
+"https://www.parmaschools.org/fs/resource-manager/view/617e3c4a-7c7c-40ba-957b-92cfd9462cbd",
+"2026 - 2027 Calendar"
+],
+[
+"https://www.parmaschools.org/news-details/~board/bell-schedules/post/2026-2027-bell-schedules",
+"Bell Schedules"
+],
+[
+"https://www.parmaschools.org/fs/resource-manager/view/118c6c2c-1675-4310-b8f9-23d07a0b04e1",
+"2026 - 2027 PLC Calendar"
+],
+[
+"https://www.parmaschools.org/fs/pages/884",
+"Full Calendar"
+],
+[
+"https://www.parmaschools.org/news-details/~board/district-office-feed/post/one-app-one-place-stay-connected",
+""
+],
+[
+"https://www.parmaschools.org/news-details/~board/district-office-feed/post/one-app-one-place-stay-connected",
+"One App. One Place. Stay Connected."
+],
+[
+"https://www.parmaschools.org/news-details/~board/district-office-feed/post/one-app-one-place-stay-connected",
+"Read More about One App. One Place. Stay Connected."
+],
+[
+"https://www.parmaschools.org/news-details/~board/district-office-feed/post/grins-on-the-go",
+""
+],
+[
+"https://www.parmaschools.org/news-details/~board/district-office-feed/post/grins-on-the-go",
+"Parma Middle School Grins on the Go!"
+],
+[
+"https://www.parmaschools.org/news-details/~board/district-office-feed/post/grins-on-the-go",
+"Read More about Parma Middle School Grins on the Go!"
+],
+[
+"https://www.parmaschools.org/news-details/~board/district-office-feed/post/parent-teacher-conferences",
+""
+],
+[
+"https://www.parmaschools.org/news-details/~board/district-office-feed/post/parent-teacher-conferences",
+"Parent Teacher Conferences"
+],
+[
+"https://www.parmaschools.org/news-details/~board/district-office-feed/post/parent-teacher-conferences",
+"Read More about Parent Teacher Conferences"
+],
+[
+"https://www.parmaschools.org/news-details/~board/district-office-feed/post/mje-fun-run",
+""
+],
+[
+"https://www.parmaschools.org/news-details/~board/district-office-feed/post/mje-fun-run",
+"MJE Fun Run"
+],
+[
+"https://www.parmaschools.org/news-details/~board/district-office-feed/post/mje-fun-run",
+"Read More about MJE Fun Run"
+],
+[
+"https://www.parmaschools.org/news-details/~board/district-office-feed/post/go-panthers",
+""
+],
+[
+"https://www.parmaschools.org/news-details/~board/district-office-feed/post/go-panthers",
+"Go Panthers!!"
+],
+[
+"https://www.parmaschools.org/news-details/~board/district-office-feed/post/go-panthers",
+"Read More about Go Panthers!!"
+],
+[
+"https://www.parmaschools.org/news-details/~board/parma-middle-school-message/post/claws-order-october-news-from-mr-zogg-1794593858289",
+""
+],
+[
+"https://www.parmaschools.org/news-details/~board/parma-middle-school-message/post/claws-order-october-news-from-mr-zogg-1794593858289",
+"Claws & Order: November News from Mr. Zogg"
+],
+[
+"https://www.parmaschools.org/news-details/~board/parma-middle-school-message/post/claws-order-october-news-from-mr-zogg-1794593858289",
+"Read More about Claws & Order: November News from Mr. Zogg"
+],
+[
+"https://www.parmaschools.org/news-details/~board/maxine-johnson-elementary-message/post/the-pounce-family-newsletter-november",
+""
+],
+[
+"https://www.parmaschools.org/news-details/~board/maxine-johnson-elementary-message/post/the-pounce-family-newsletter-november",
+"The Pounce Family Newsletter - November"
+],
+[
+"https://www.parmaschools.org/news-details/~board/maxine-johnson-elementary-message/post/the-pounce-family-newsletter-november",
+"Read More about The Pounce Family Newsletter - November"
+],
+[
+"https://www.parmaschools.org/news-details/~board/parma-sd-137/post/drivers-education-1773767652497",
+""
+],
+[
+"https://www.parmaschools.org/news-details/~board/parma-sd-137/post/drivers-education-1773767652497",
+"Federal Programs"
+],
+[
+"https://www.parmaschools.org/news-details/~board/parma-sd-137/post/drivers-education",
+""
+]
+]
+},
+{
+"id": "ID-465",
+"url": "https://www.pwsd.com/",
+"name": "Plummer-Worley Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.pwsd.com/",
+"error": null,
+"title": "Home - Plummer/Worley School District #44",
+"name_hits": [
+"plummer",
+"worley"
+],
+"name_toks": [
+"plummer",
+"worley"
+],
+"state_hit": true,
+"parked": false,
+"words": 339,
+"links": [
+[
+"https://www.pwsd.com/district/district-calendars",
+"District Calendars"
+],
+[
+"https://www.pwsd.com/district/board-of-education",
+"School Board"
+],
+[
+"https://www.pwsd.com/district/board-of-education/meeting-minutes",
+"Meeting Minutes"
+],
+[
+"https://www.pwsd.com/district/board-of-education/elections",
+"School Board Elections"
+],
+[
+"https://www.pwsd.com/district/board-of-education/policy-manual",
+"Policy Manual"
+],
+[
+"https://www.pwsd.com/athletics/all-athletic-calendars",
+"Athletic Calendars"
+],
+[
+"https://www.pwsd.com/district/district-calendars",
+"Calendar"
+],
+[
+"https://www.pwsd.com/district/district-calendars",
+"District Calendars"
+],
+[
+"https://www.pwsd.com/district/board-of-education",
+"School Board"
+],
+[
+"https://www.pwsd.com/athletics/all-athletic-calendars",
+"Athletic Calendars"
+],
+[
+"https://resources.finalsite.net/images/v1795212439/pwsd44com/kc9ofndjta4t9cesy5mg/zoom2627academic-year-calendar.pdf",
+""
+],
+[
+"https://www.pwsd.com/calendar11",
+"Calendar"
+]
+]
+},
+{
+"id": "ID-466",
+"url": "https://www.psd285.org/",
+"name": "Potlatch School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.psd285.org/",
+"error": null,
+"title": "Potlatch School District #285 - Home",
+"name_hits": [
+"potlatch"
+],
+"name_toks": [
+"potlatch"
+],
+"state_hit": true,
+"parked": false,
+"words": 729,
+"links": [
+[
+"https://www.psd285.org/district-event-calendar",
+"District Event Calendar"
+],
+[
+"https://www.psd285.org/board-of-trustees",
+"Board of Trustees"
+],
+[
+"https://www.psd285.org/acedemic-calendars",
+"Academic Calendars"
+],
+[
+"https://psd285.org/390296_2",
+"Academic Calendars"
+],
+[
+"https://www.psd285.org/district-event-calendar",
+"District Event Calendar"
+],
+[
+"https://www.psd285.org/board-of-trustees",
+"Board of Trustees"
+],
+[
+"https://www.psd285.org/acedemic-calendars",
+"Academic Calendars"
+],
+[
+"https://psd285.org/acedemic-calendars",
+"Academic Calendars"
+],
+[
+"https://www.psd285.org/page/page_calendar?calID=147932",
+"View Full Calendar"
+]
+]
+},
+{
+"id": "ID-467",
+"url": "http://www.prairie191k8.org/",
+"name": "Prairie Elementary School District",
+"state": "ID",
+"status": 200,
+"final": "https://prairie191k8.org/",
+"error": null,
+"title": "Home",
+"name_hits": [],
+"name_toks": [
+"prairie"
+],
+"state_hit": false,
+"parked": false,
+"words": 1,
+"links": []
+},
+{
+"id": "ID-468",
+"url": "https://www.richfieldsd.org/",
+"name": "Richfield School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.richfieldsd.org/",
+"error": null,
+"title": "Richfield School #316",
+"name_hits": [
+"richfield"
+],
+"name_toks": [
+"richfield"
+],
+"state_hit": true,
+"parked": false,
+"words": 288,
+"links": [
+[
+"https://www.richfieldsd.org/district/board-meetings",
+"Board Meetings"
+],
+[
+"https://www.richfieldsd.org/district/board-of-trustees",
+"Board of Trustees"
+],
+[
+"https://www.richfieldsd.org/district/school-calendars",
+"School Calendars"
+],
+[
+"https://www.richfieldsd.org/events-calendar",
+"Events Calendar"
+],
+[
+"https://www.richfieldsd.org/district/board-meetings",
+"Board Meetings"
+],
+[
+"https://www.richfieldsd.org/district/board-of-trustees",
+"Board of Trustees"
+],
+[
+"https://www.richfieldsd.org/district/school-calendars",
+"School Calendars"
+],
+[
+"https://www.richfieldsd.org/events-calendar",
+"Events Calendar"
+],
+[
+"https://www.richfieldsd.org/district/board-meetings",
+"Board Meetings"
+],
+[
+"https://www.richfieldsd.org/district/board-of-trustees",
+"Board of Trustees"
+],
+[
+"https://www.richfieldsd.org/district/school-calendars",
+"School Calendars"
+],
+[
+"https://www.richfieldsd.org/events-calendar",
+"Events Calendar"
+]
+]
+},
+{
+"id": "ID-469",
+"url": "https://sites.google.com/ririe252.org/ririeschooldistrict252/home",
+"name": "Ririe Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://sites.google.com/ririe252.org/ririeschooldistrict252/home",
+"error": null,
+"title": "Ririe School District #252",
+"name_hits": [
+"ririe"
+],
+"name_toks": [
+"ririe"
+],
+"state_hit": true,
+"parked": false,
+"words": 583,
+"links": [
+[
+"https://sites.google.com/ririe252.org/ririeschooldistrict252/school-district/school-board",
+"School Board"
+],
+[
+"https://sites.google.com/ririe252.org/ririeschooldistrict252/parentsstudents/calendars",
+"Calendars"
+],
+[
+"https://sites.google.com/ririe252.org/ririeschooldistrict252/school-district/school-board",
+"School Board"
+],
+[
+"https://sites.google.com/ririe252.org/ririeschooldistrict252/parentsstudents/calendars",
+"Calendars"
+],
+[
+"https://sites.google.com/ririe252.org/ririeschooldistrict252/school-district/school-board",
+"School Board"
+],
+[
+"https://sites.google.com/ririe252.org/ririeschooldistrict252/parentsstudents/calendars",
+"Calendars"
+],
+[
+"https://docs.google.com/document/d/1H8iIWyLDyBITWW-bwGlvyWGLVZgFex7SMX4mkFeRkfU/edit",
+"School Board Policy"
+],
+[
+"https://docs.google.com/document/d/15319lrTXHO7zrUMnv_rddS42YlkX8ZTS59Op_kG1rNc/edit?usp=sharing",
+"School Board Policies Under Review"
+]
+]
+},
+{
+"id": "ID-470",
+"url": "https://www.rbulldogs.org/",
+"name": "Rockland School District",
+"state": "ID",
+"status": 200,
+"final": "https://rbulldogs.org/",
+"error": null,
+"title": "Rockland School Dist. 382 - Public School - Rockland, Idaho",
+"name_hits": [
+"rockland"
+],
+"name_toks": [
+"rockland"
+],
+"state_hit": true,
+"parked": false,
+"words": 510,
+"links": [
+[
+"https://rbulldogs.org/school-calendars",
+"School Calendars"
+],
+[
+"https://rbulldogs.org/school-calendars",
+"School Calendars"
+],
+[
+"https://rbulldogs.org/school-calendars",
+"School Calendars"
+],
+[
+"https://outlook.office365.com/owa/calendar/051711c326b548ceb92319f7bcc1cee3@rbulldogs.org/9f0d9c4069de4d24b0da266a834fd1622522814624458690087/calendar.ics",
+"Rockland School Calendar"
+]
+]
+},
+{
+"id": "ID-471",
+"url": "http://jsd243.org/",
+"name": "Salmon River School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.jsd243.org/",
+"error": null,
+"title": "Salmon River Joint School District #243 \"From Small beginnings come great things\"",
+"name_hits": [
+"salmon",
+"river"
+],
+"name_toks": [
+"salmon",
+"river"
+],
+"state_hit": false,
+"parked": false,
+"words": 492,
+"links": [
+[
+"https://www.jsd243.org/board-of-trustees",
+"Board Trustees & Info"
+],
+[
+"https://www.jsd243.org/agendas-minutes",
+"Agendas & Minutes"
+],
+[
+"https://www.jsd243.org/legal-policies",
+"Legal & Board Policies"
+],
+[
+"https://www.jsd243.org/district-calendar",
+"District Calendar"
+],
+[
+"https://www.jsd243.org/district-calendar",
+"District Calendar"
+],
+[
+"https://www.jsd243.org/board-of-trustees",
+"Board Trustees & Info"
+],
+[
+"https://www.jsd243.org/agendas-minutes",
+"Agendas & Minutes"
+],
+[
+"https://www.jsd243.org/legal-policies",
+"Legal & Board Policies"
+],
+[
+"https://www.jsd243.org/district-calendar",
+"District Calendar"
+],
+[
+"https://www.jsd243.org/district-calendar",
+"District Calendar"
+],
+[
+"https://www.jsd243.org/Board-Of-Trustees",
+"Folder: Board Of Trustees"
+],
+[
+"https://www.jsd243.org/board-of-trustees",
+"Board Trustees & Info"
+],
+[
+"https://www.jsd243.org/agendas-minutes",
+"Agendas & Minutes"
+],
+[
+"https://www.jsd243.org/legal-policies",
+"Legal & Board Policies"
+],
+[
+"https://www.jsd243.org/district-calendar",
+"District Calendar"
+],
+[
+"https://www.jsd243.org/district-calendar",
+"District Calendar"
+],
+[
+"https://www.jsd243.org/agendas-minutes",
+"Board Agendas"
+],
+[
+"https://www.jsd243.org/district-calendar",
+"District Calendar"
+],
+[
+"https://calendar.google.com/calendar/u/0?cid=anNkMjQzLm9yZ19rY2hzMnF0N2xwbGFzODB1dHA3YW02a2c3NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+"Upcoming Events Google Calendar"
+]
+]
+},
+{
+"id": "ID-472",
+"url": "https://www.salmon291.org/en-US",
+"name": "Salmon School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.salmon291.org/en-US",
+"error": null,
+"title": "Home - Salmon School District",
+"name_hits": [
+"salmon"
+],
+"name_toks": [
+"salmon"
+],
+"state_hit": true,
+"parked": false,
+"words": 155,
+"links": [
+[
+"https://salmon291.org/en-US/school-board-33cc5142",
+"School Board"
+],
+[
+"https://www.youtube.com/@Salmon291SchoolBoard",
+"School Board Live Stream"
+],
+[
+"https://www.salmon291.org/calendar",
+""
+],
+[
+"https://salmon291.org/en-US/school-board-33cc5142",
+"School Board"
+],
+[
+"https://www.youtube.com/@Salmon291SchoolBoard",
+"School Board Live Stream"
+]
+]
+},
+{
+"id": "ID-473",
+"url": "https://shoshonesd.org/",
+"name": "Shoshone Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://shoshonesd.org/",
+"error": null,
+"title": "Shoshone School District",
+"name_hits": [
+"shoshone"
+],
+"name_toks": [
+"shoshone"
+],
+"state_hit": true,
+"parked": false,
+"words": 235,
+"links": [
+[
+"https://shoshonesd.org/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://shoshonesd.org/agendas/",
+"Agendas"
+],
+[
+"https://shoshonesd.org/minutes/",
+"Minutes"
+],
+[
+"https://shoshonesd.org/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://shoshonesd.org/agendas/",
+"Agendas"
+],
+[
+"https://shoshonesd.org/minutes/",
+"Minutes"
+],
+[
+"https://shoshonesd.org/school-board-meeting-tuesday-october-13-2026/",
+""
+],
+[
+"https://shoshonesd.org/school-board-meeting-tuesday-november-10-2026/",
+""
+],
+[
+"https://shoshonesd.org/calendars/",
+""
+]
+]
+},
+{
+"id": "ID-474",
+"url": "https://www.sodaschools.org/",
+"name": "Soda Springs Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.sodaschools.org/",
+"error": null,
+"title": "Soda Springs Joint School District #150",
+"name_hits": [
+"soda",
+"springs"
+],
+"name_toks": [
+"soda",
+"springs"
+],
+"state_hit": true,
+"parked": false,
+"words": 509,
+"links": [
+[
+"javascript:;",
+"School Board"
+],
+[
+"https://www.sodaschools.org/apps/pages/index.jsp?uREC_ID=3792686&type=d&pREC_ID=2437038",
+"School Board"
+],
+[
+"https://www.sodaschools.org/apps/pages/index.jsp?uREC_ID=3792686&type=d&pREC_ID=2437709",
+"Board Meetings"
+],
+[
+"https://www.sodaschools.org/apps/pages/index.jsp?uREC_ID=3792686&type=d&pREC_ID=2437769",
+"School Board Policy"
+],
+[
+"javascript:;",
+"Calendars"
+],
+[
+"https://www.sodaschools.org/apps/pages/index.jsp?uREC_ID=3752403&type=d&pREC_ID=2574953",
+"2026-2027 TMS/SSHS Revised Calendar"
+],
+[
+"https://www.sodaschools.org/apps/pages/index.jsp?uREC_ID=3752403&type=d&pREC_ID=2766325",
+"2026-2027 Thirkill Revised Calendar"
+],
+[
+"https://4.files.edl.io/8bc6/09/28/26/131923-80121c34-b4d2-433f-8583-b3545aaa6630.pdf",
+"Notice of Trustee Vacancy"
+],
+[
+"https://www.sodaschools.org/apps/events/",
+"District Calendar"
+],
+[
+"https://www.sodaschools.org/apps/events",
+"Calendar"
+]
+]
+},
+{
+"id": "ID-475",
+"url": "http://leadoreschool.org/",
+"name": "South Lemhi School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.leadoreschool.org/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"south",
+"lemhi"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "ID-478",
+"url": "https://tsd401.org/",
+"name": "Teton County School District",
+"state": "ID",
+"status": "robots",
+"final": null,
+"error": null
+},
+{
+"id": "ID-480",
+"url": "https://www.valley262.org/",
+"name": "Valley School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.valley262.org/",
+"error": null,
+"title": "Home | Valley262",
+"name_hits": [
+"valley"
+],
+"name_toks": [
+"valley"
+],
+"state_hit": false,
+"parked": false,
+"words": 397,
+"links": [
+[
+"https://www.valley262.org/calendars",
+"Calendar"
+],
+[
+"https://www.valley262.org/calendars",
+"District Calendar"
+],
+[
+"https://www.valley262.org/calendars",
+"Calendars"
+],
+[
+"https://www.valley262.org/board-meetings",
+"Board Meetings"
+]
+]
+},
+{
+"id": "ID-481",
+"url": "https://www.wsd393.org/",
+"name": "Wallace School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.wsd393.org/",
+"error": null,
+"title": "Client Challenge",
+"name_hits": [],
+"name_toks": [
+"wallace"
+],
+"state_hit": false,
+"parked": false,
+"words": 37,
+"links": []
+},
+{
+"id": "ID-482",
+"url": "http://www.sd232.k12.id.us/",
+"name": "Wendell School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.sd232.k12.id.us/",
+"error": null,
+"title": "Home",
+"name_hits": [
+"wendell"
+],
+"name_toks": [
+"wendell"
+],
+"state_hit": true,
+"parked": false,
+"words": 233,
+"links": [
+[
+"https://www.sd232.k12.id.us/schoolboard",
+"School Board"
+],
+[
+"https://sd232-k12.community.highbond.com/Portal/",
+"School Board Meeting Agenda and Minutes"
+],
+[
+"https://www.wendellschools.org/calendar",
+"2026-2027 Calendar"
+],
+[
+"https://www.wendellschools.org/calendar",
+"Wendell Calendars"
+],
+[
+"https://www.sd232.k12.id.us/sys/calendar/searchlinks/1cdf1db4c49e407fb93d399102427220/Calendar",
+"Calendar Links"
+]
+]
+},
+{
+"id": "ID-483",
+"url": "http://www.wjsd.org/",
+"name": "West Jefferson School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.wjsd.org/",
+"error": null,
+"title": "Home | West Jefferson",
+"name_hits": [
+"west",
+"jefferson"
+],
+"name_toks": [
+"west",
+"jefferson"
+],
+"state_hit": true,
+"parked": false,
+"words": 294,
+"links": [
+[
+"https://www.wjsd.org/events",
+"WJ Events Calendar"
+],
+[
+"https://www.wjsd.org/events",
+"WJ Events Calendar"
+],
+[
+"https://www.wjsd.org/o/wjsd/page/approved-district-calendar",
+"District Calendar"
+],
+[
+"https://www.wjsd.org/page/board-of-trustees",
+"Board of Trustees"
+],
+[
+"https://www.wjsd.org/page/school-board-meeting-schedule",
+"School Board Meeting Schedule"
+],
+[
+"https://www.wjsd.org/page/board-policies",
+"Board Policies"
+],
+[
+"https://www.wjsd.org/page/board-member-history-and-election-schedule",
+"Board Member History and Election Schedule"
+],
+[
+"https://wjsd.diligent.community/Portal/default.aspx",
+"Community Portal (School Board Hub)"
+],
+[
+"https://www.youtube.com/channel/UChUg8rBomFjCL5GLd7CicbQ/videos?view=57",
+"School Board Meeting Livestream and On Demand Videos"
+],
+[
+"https://www.wjsd.org/page/request-to-address-the-board",
+"Request to Address the Board"
+],
+[
+"https://wjsd.diligent.community/Portal/default.aspx",
+"Board Meeting Agendas & Minutes"
+],
+[
+"https://www.wjsd.org/page/archived-board-meeting-agendas-and-minutes-4-16-20-and-before",
+"Archived Board Meeting Agendas & Minutes (4/16/20 and before)"
+]
+]
+},
+{
+"id": "ID-464",
+"url": "http://pleasantvalleyschools.org/",
+"name": "Pleasant Valley Elementary School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.pleasantvalleyschools.org/",
+"error": null,
+"title": "PVSD 364",
+"name_hits": [
+"pleasant",
+"valley"
+],
+"name_toks": [
+"pleasant",
+"valley"
+],
+"state_hit": false,
+"parked": false,
+"words": 141,
+"links": [
+[
+"https://www.pleasantvalleyschools.org/board-of-trustees",
+"Board of Trustees"
+],
+[
+"https://www.pleasantvalleyschools.org/calendar",
+"Calendar"
+],
+[
+"https://www.pleasantvalleyschools.org/board-policies",
+"Board Policies"
+],
+[
+"https://www.pleasantvalleyschools.org/board-of-trustees",
+"Board of Trustees"
+],
+[
+"https://www.pleasantvalleyschools.org/calendar",
+"Calendar"
+],
+[
+"https://www.pleasantvalleyschools.org/board-policies",
+"Board Policies"
+],
+[
+"https://www.pleasantvalleyschools.org/board-of-trustees",
+"Board of Trustees"
+],
+[
+"https://www.pleasantvalleyschools.org/calendar",
+"Calendar"
+],
+[
+"https://www.pleasantvalleyschools.org/board-policies",
+"Board Policies"
+]
+]
+},
+{
+"id": "ID-476",
+"url": "https://www.sugarsalem.org/",
+"name": "Sugar-Salem Joint School District",
+"state": "ID",
+"status": 200,
+"final": "https://www.sugarsalem.org/",
+"error": null,
+"title": "Sugar Salem School District #322 - Home",
+"name_hits": [
+"sugar",
+"salem"
+],
+"name_toks": [
+"sugar",
+"salem"
+],
+"state_hit": true,
+"parked": false,
+"words": 967,
+"links": [
+[
+"https://www.sugarsalem.org/schoolboard",
+"School Board"
+],
+[
+"https://www.sugarsalem.org/school-board",
+"School Board"
+],
+[
+"https://www.sugarsalem.org/boardpolicyportal",
+"Board Policy Portal"
+],
+[
+"https://www.sugarsalem.org/boardoftrustees1000",
+"1000 \u2013 Board of Trustees"
+],
+[
+"https://www.sugarsalem.org/143578_3",
+"Board Agendas"
+],
+[
+"https://www.sugarsalem.org/79966_4",
+"2026/27 Board Agendas"
+],
+[
+"https://www.sugarsalem.org/46396_4",
+"2025/26 Board Agendas"
+],
+[
+"https://www.sugarsalem.org/46397_4",
+"2024/25 Board Agendas"
+],
+[
+"https://www.sugarsalem.org/46398_4",
+"2023/24 Board Agendas"
+],
+[
+"https://www.sugarsalem.org/boardcontracts",
+"Board Contracts"
+],
+[
+"https://www.sugarsalem.org/calendar",
+"Calendars"
+],
+[
+"https://www.sugarsalem.org/56825_3",
+"PD Calendar"
+],
+[
+"https://www.sugarsalem.org/calendar/",
+"Calendar"
+],
+[
+"https://www.sugarsalem.org/schoolboard",
+"School Board"
+],
+[
+"https://www.sugarsalem.org/school-board",
+"School Board"
+],
+[
+"https://www.sugarsalem.org/boardpolicyportal",
+"Board Policy Portal"
+],
+[
+"https://www.sugarsalem.org/boardoftrustees1000",
+"1000 \u2013 Board of Trustees"
+],
+[
+"https://www.sugarsalem.org/143578_3",
+"Board Agendas"
+],
+[
+"https://www.sugarsalem.org/79966_4",
+"2026/27 Board Agendas"
+],
+[
+"https://www.sugarsalem.org/46396_4",
+"2025/26 Board Agendas"
+],
+[
+"https://www.sugarsalem.org/46397_4",
+"2024/25 Board Agendas"
+],
+[
+"https://www.sugarsalem.org/46398_4",
+"2023/24 Board Agendas"
+],
+[
+"https://www.sugarsalem.org/boardcontracts",
+"Board Contracts"
+],
+[
+"https://www.sugarsalem.org/calendar",
+"Calendars"
+],
+[
+"https://www.sugarsalem.org/56825_3",
+"PD Calendar"
+],
+[
+"http://www.sugarsalem.org/calendar",
+"Calendar"
+],
+[
+"https://hs.sugarsalem.org/sportscalendars",
+"Athletics"
+],
+[
+"https://www.sugarsalem.org/page/page_calendar?calID=128704&accessibility=enabled",
+""
+],
+[
+"https://www.sugarsalem.org/page/page_calendar?calID=128704",
+"View Full Calendar"
+]
+]
+},
+{
+"id": "ID-477",
+"url": "http://sd92.k12.id.us/",
+"name": "Swan Valley Elementary School District",
+"state": "ID",
+"status": 200,
+"final": "https://sd92.k12.id.us/",
+"error": null,
+"title": "About Us - Swan Valley Elementary School",
+"name_hits": [
+"swan",
+"valley"
+],
+"name_toks": [
+"swan",
+"valley"
+],
+"state_hit": true,
+"parked": false,
+"words": 685,
+"links": [
+[
+"https://sd92.k12.id.us/board-of-trustees.php",
+"Board of Trustees"
+],
+[
+"https://sd92.k12.id.us/calendar.php",
+"Calendar"
+],
+[
+"https://sd92.k12.id.us/school_board_minutes.php",
+"School Board Meeting Minutes"
+],
+[
+"https://sd92.k12.id.us/school_board_agendas.php",
+"School Board Meeting Agendas"
+],
+[
+"https://sd92.k12.id.us/use_images/pdfs/2025-2026schoolcalendar4dayweek.pdf",
+"2025-2026 School Calendar"
+],
+[
+"https://sd92.k12.id.us/use_images/pdfs/2026-27schoolcalendar4dayweekupdatedmay2026.pdf",
+"2026-2027 School Calendar"
+]
+]
+}
+]
+}
