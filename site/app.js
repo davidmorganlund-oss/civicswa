@@ -309,17 +309,17 @@
       var b = el('button', 'chip', T(c.label));
       b.type = 'button';
       b.dataset.cat = c.id;
-      b.addEventListener('click', function () { state.cat = c.id; render(); });
+      b.addEventListener('click', function () { state.cat = c.id; syncUrl(); render(); });
       $('chips').appendChild(b);
     });
     $('more').addEventListener('click', function () { state.days += 14; render(); });
     $('county').addEventListener('change', function () {
       state.county = $('county').value; state.city = '';
-      savePlace({ county: state.county }); fillCities(); render();
+      savePlace({ county: state.county }); fillCities(); syncUrl(); render();
     });
     $('city').addEventListener('change', function () {
       state.city = $('city').value;
-      savePlace({ county: state.county, city: state.city }); render();
+      savePlace({ county: state.county, city: state.city }); syncUrl(); render();
     });
   }
 
@@ -383,8 +383,25 @@
   var place = loadPlace();
   var wanted = (location.search.match(/[?&]cat=([a-z]+)/) || [])[1];
   if (wanted && CATEGORIES.some(function (c) { return c.id === wanted; })) state.cat = wanted;
-  state.county = place.county || '';
-  state.city = place.city || '';
+  // The address bar carries the county, city and filter, so a view can be
+  // copied and shared. Nothing here is personal: it's a place name at most.
+  function syncUrl() {
+    var bits = [];
+    if (state.county) bits.push('county=' + encodeURIComponent(state.county));
+    if (state.city) bits.push('city=' + encodeURIComponent(state.city));
+    if (state.cat && state.cat !== 'all') bits.push('cat=' + state.cat);
+    try { history.replaceState(null, '', bits.length ? '?' + bits.join('&') : location.pathname); } catch (e) { /* file:// */ }
+  }
+  // A shared link's county and city win for this visit, without replacing the
+  // place this browser has saved.
+  function param(name) {
+    var m = new RegExp('[?&]' + name + '=([^&]*)').exec(location.search);
+    if (!m) return null;
+    try { return decodeURIComponent(m[1].replace(/\+/g, ' ')).slice(0, 60); } catch (e) { return null; }
+  }
+  var linkCounty = param('county');
+  state.county = linkCounty != null ? linkCounty : (place.county || '');
+  state.city = linkCounty != null ? (param('city') || '') : (place.city || '');
   setup();
   Promise.all([
     fetch(BASE + 'data/events.json').then(function (r) { return r.json(); }),
@@ -409,6 +426,7 @@
       $('county').value = state.county;
     }
     fillCities();
+    if (!hit) syncUrl();   // a link to one meeting keeps its own address
     render();
     if (hit) {
       var node = document.getElementById('m-' + hit.id);
