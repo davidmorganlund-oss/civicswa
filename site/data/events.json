@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T08:52:47-08:00",
+ "generated": "2026-11-24T12:14:02-08:00",
  "events": [
   {
    "id": "936875d8c75d",
@@ -220,7 +220,7 @@
    "location": "Jackson Board Room - 8th Floor Robert J. Drewel Building & Remote Meeting",
    "url": "https://snohomish.legistar.com/MeetingDetail.aspx?LEGID=2819&GID=820&G=7E123241-A7A2-415D-A3B9-89AF5345CDE5",
    "agenda_url": "https://snohomish.legistar1.com/snohomish/meetings/2026/11/2819_A_Administrative_Session_26-11-24_Agenda.pdf",
-   "note": "Webinar Link: https://zoom.us/j/94846850772",
+   "note": "",
    "cancelled": false,
    "highlights": [
     "Resolution 26-055, recognizing the Food Coalition and Food Security this Thanksgiving season in Snohomish County",
@@ -280,9 +280,9 @@
    "note": "HYBRID MEETING - ADJOURNS BY 12:30 PM (PARTICIPATE IN-PERSON, SEE REMOTE JOIN INSTRUCTIONS AT www.whatcomcounty.us/joinvirtualcouncil, OR CALL 360.778.5010); AGENDA REVISION 11.19.2026",
    "cancelled": false,
    "highlights": [
-    "Discussion of pending litigation with Civil Deputy Prosecutor Jesse Corkern regarding Richard Arthur Kirkham, Plaintiff vs. Bill Elfo et\u2026",
-    "Request authorization for the County Executive to enter into an interlocal agreement between Whatcom County and Whatcom Conservation\u2026",
-    "Request authorization for the County Executive to enter into an interlocal agreement between Whatcom County and the County Road\u2026"
+    "Request authorization for the County Executive to enter into a contract amendment between Whatcom County and Northwest Youth Services to\u2026",
+    "Request authorization for the County Executive to enter into a contract between Whatcom County and Opportunity Council to support people\u2026",
+    "Request authorization for the County Executive to enter into a contract between Whatcom County and Northwest Youth Services to provide\u2026"
    ],
    "highlights_more": 44
   },
@@ -522,7 +522,7 @@
    "location": "Jackson Board Room - 8th Floor Robert J. Drewel Building & Remote Meeting",
    "url": "https://snohomish.legistar.com/MeetingDetail.aspx?LEGID=2846&GID=820&G=7E123241-A7A2-415D-A3B9-89AF5345CDE5",
    "agenda_url": "https://snohomish.legistar1.com/snohomish/meetings/2026/11/2846_A_Finance%2C_Budget_and_Administration_Committee_26-11-24_Agenda.pdf",
-   "note": "Webinar Link: https://zoom.us/j/94846850772",
+   "note": "",
    "cancelled": false,
    "highlights": [
     "Ordinance 26-077, establishing the 2027 Pay Plan",
@@ -596,7 +596,7 @@
    "location": "Jackson Board Room - 8th Floor Robert J. Drewel Building & Remote Meeting",
    "url": "https://snohomish.legistar.com/MeetingDetail.aspx?LEGID=2847&GID=820&G=7E123241-A7A2-415D-A3B9-89AF5345CDE5",
    "agenda_url": "https://snohomish.legistar1.com/snohomish/meetings/2026/11/2847_A_Health_and_Community_Services_Committee_26-11-24_Agenda.pdf",
-   "note": "Webinar Link: https://zoom.us/j/94846850772",
+   "note": "",
    "cancelled": false,
    "highlights": [
     "Motion 26-413, authorizing approval of Amendment No. 1 to Professional Services Agreement PS-HS-25-32 with TMD Law, PLLC, for CASA Attorney\u2026",
@@ -604,6 +604,23 @@
     "Motion 26-419, authorizing the Executive to sign Amendment No. 3 with ODAT Services LLC for substance use peer navigation support"
    ],
    "highlights_more": 4
+  },
+  {
+   "id": "73366c238a4c",
+   "title": "Human Services Commission",
+   "host": "City of Lynnwood",
+   "source": "lynnwood",
+   "area": "Lynnwood",
+   "county": "Snohomish",
+   "category": "council",
+   "start": "2026-11-24T11:15:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "",
+   "url": "https://lynnwoodwa.granicus.com/AgendaViewer.php?view_id=1&clip_id=1150",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
   },
   {
    "id": "2813bc1da133",
@@ -885,23 +902,6 @@
    "all_day": false,
    "location": "",
    "url": "https://cob.org/events/tourism-commission-meeting-10",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
-   "id": "145e7a31c9e6",
-   "title": "Civil Service Commission Meeting",
-   "host": "City of Des Moines",
-   "source": "des-moines",
-   "area": "Des Moines",
-   "county": "King",
-   "category": "council",
-   "start": "2026-11-24T15:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "21630 11th Ave S., Suite D, Des Moines",
-   "url": "https://desmoineswa.portal.civicclerk.com/event/3174/overview",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -2742,9 +2742,9 @@
    "highlights": [
     "Resolution 26-056, recognizing Saturday, November 28, 2026, as Small Business Saturday in Snohomish County",
     "Motion 26-470, authorizing the Chair of the Council to sign Certification of 2027 Tax Levy Estimates",
-    "Motion 26-477, approving Administrative Matters presented at General Legislative Session on November 25, 2026"
+    "Motion 26-413, authorizing approval of Amendment No. 1 to Professional Services Agreement PS-HS-25-32 with TMD Law, PLLC, for CASA Attorney\u2026"
    ],
-   "highlights_more": 9
+   "highlights_more": 30
   },
   {
    "id": "e206ec27f164",
@@ -4167,9 +4167,15 @@
    "all_day": false,
    "location": "",
    "url": "https://sumnerwa.portal.civicclerk.com/event/2133/overview",
-   "agenda_url": "",
+   "agenda_url": "https://sumnerwa.portal.civicclerk.com/event/2133/files/agenda/5230",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Ordinance No. 2982 - 2027/2028 Biennial Budget",
+    "Ordinance 2988 - Vacating a portion of Kincaid Avenue",
+    "Ordinance No. 2983 - Amending the 2025/2026 Biennial Budget"
+   ],
+   "highlights_more": 1
   },
   {
    "id": "f0785f5958a1",
@@ -4303,7 +4309,7 @@
    "all_day": false,
    "location": "Burkett Conference Room",
    "url": "https://sequimwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=443",
-   "agenda_url": "",
+   "agenda_url": "https://sequimwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=443",
    "note": "",
    "cancelled": false
   },
@@ -5085,6 +5091,23 @@
    "cancelled": false
   },
   {
+   "id": "b429697be484",
+   "title": "Special City Council Meeting",
+   "host": "City of Spokane Valley",
+   "source": "spokane-valley",
+   "area": "Spokane Valley",
+   "county": "Spokane",
+   "category": "council",
+   "start": "2026-12-01T17:00:00-08:00",
+   "end": "2026-12-01T23:59:00-08:00",
+   "all_day": false,
+   "location": "City Hall 10210 E Sprague Ave Spokane Valley WA 99206",
+   "url": "https://www.spokanevalleywa.gov/Calendar.aspx",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "5c31b75f05d0",
    "title": "City Council Workshop",
    "host": "City of Chelan",
@@ -5556,9 +5579,15 @@
    "all_day": false,
    "location": "City Hall, Council Chambers, 216 Prospect Street, Port Orchard",
    "url": "https://portorchardwa.portal.civicclerk.com/event/2614/overview",
-   "agenda_url": "",
+   "agenda_url": "https://portorchardwa.portal.civicclerk.com/event/2614/files/agenda/5493",
    "note": "",
-   "cancelled": false
+   "cancelled": false,
+   "highlights": [
+    "Welcome and Introduction",
+    "Family Burial Grounds",
+    "Boundary Line Adjustments"
+   ],
+   "highlights_more": 2
   },
   {
    "id": "abc5cee994b5",
@@ -5624,23 +5653,6 @@
    "all_day": false,
    "location": "105 Cedar Avenue Snohomish WA 98290",
    "url": "https://www.snohomishwa.gov/Calendar.aspx",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
-   "id": "ce84b3707ae2",
-   "title": "City Council Meeting",
-   "host": "City of Spokane Valley",
-   "source": "spokane-valley",
-   "area": "Spokane Valley",
-   "county": "Spokane",
-   "category": "council",
-   "start": "2026-12-01T18:00:00-08:00",
-   "end": "2026-12-01T23:59:00-08:00",
-   "all_day": false,
-   "location": "City Hall 10210 E Sprague Ave Spokane Valley WA 99206",
-   "url": "https://www.spokanevalleywa.gov/Calendar.aspx",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -5868,7 +5880,7 @@
   },
   {
    "id": "0b5a82071128",
-   "title": "Planning Commission Meeting of Tuesday, ____________",
+   "title": "Planning Commission Meeting",
    "host": "City of Kenmore",
    "source": "kenmore",
    "area": "Kenmore",
@@ -6360,7 +6372,7 @@
    "all_day": false,
    "location": "Council Chamber, City Hall 600 4th Avenue Seattle, WA 98104",
    "url": "https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6935&GID=393&G=FFE3B678-CEF6-4197-84AC-5204EA4CFC0C",
-   "agenda_url": "",
+   "agenda_url": "https://legistar2.granicus.com/seattle/meetings/2026/12/6935_A_Parks_and_City_Light_Committee_26-12-02_Committee_Agenda.pdf",
    "note": "Cancellation Notice",
    "cancelled": true
   },
@@ -6706,7 +6718,7 @@
    "all_day": false,
    "location": "District Office, 210 N Park Street",
    "url": "https://chewelahsd.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=137",
-   "agenda_url": "",
+   "agenda_url": "https://chewelahsd.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=137",
    "note": "",
    "cancelled": false
   },
@@ -7429,7 +7441,7 @@
    "all_day": false,
    "location": "",
    "url": "https://sanjuancowa.portal.civicclerk.com/event/4417/overview",
-   "agenda_url": "",
+   "agenda_url": "https://sanjuancowa.portal.civicclerk.com/event/4417/files/agenda/6437",
    "note": "",
    "cancelled": false
   },
@@ -7840,6 +7852,29 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
+  },
+  {
+   "id": "ecf78715fa54",
+   "title": "Community Policing Board",
+   "host": "City of Olympia",
+   "source": "olympia",
+   "area": "Olympia",
+   "county": "Thurston",
+   "category": "council",
+   "start": "2026-12-03T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Council Chambers",
+   "url": "https://olympia.legistar.com/MeetingDetail.aspx?LEGID=7292&GID=218&G=19510D34-31FB-48B8-9C02-4D026953451C",
+   "agenda_url": "https://legistar.granicus.com/olympia/meetings/2026/12/7292_A_Community_Policing_Board__26-12-03_Meeting_Agenda.pdf",
+   "note": "",
+   "cancelled": false,
+   "highlights": [
+    "Police Department Complaint and Misconduct Investigations Process Briefing",
+    "Approval of Draft OIR Group Review Comment Letter",
+    "Approval of the Community Policing Board Update for City Council"
+   ],
+   "highlights_more": 0
   },
   {
    "id": "2cb60a74d67d",
@@ -10590,6 +10625,23 @@
    "cancelled": false
   },
   {
+   "id": "0b48d78ce2f1",
+   "title": "Peninsula School District Board of Directors Study Session",
+   "host": "Peninsula School District",
+   "source": "peninsula-schools",
+   "area": "Gig Harbor",
+   "county": "Pierce",
+   "category": "school",
+   "start": "2026-12-08T15:30:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "Location: Swift Water Elementary Library, 10811 Harbor Hill Dr., Gig Harbor, WA 98332",
+   "url": "https://psd401.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=99",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "8ee881481c83",
    "title": "Public Safety Committee Meeting",
    "host": "City of Bonney Lake",
@@ -11673,23 +11725,6 @@
    "all_day": false,
    "location": "Location: Swift Water Elementary, 10811 Harbor Hill Dr., Gig Harbor, WA 98332 Community Room",
    "url": "https://psd401.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=96",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
-   "id": "4c323dc0cc65",
-   "title": "Peninsula School District Board of Directors Study Session",
-   "host": "Peninsula School District",
-   "source": "peninsula-schools",
-   "area": "Gig Harbor",
-   "county": "Pierce",
-   "category": "school",
-   "start": "2026-12-08T18:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "Location: Swift Water Elementary, 10811 Harbor Hill Dr., Gig Harbor, WA 98332 Community Room",
-   "url": "https://psd401.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=99",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -14447,7 +14482,7 @@
    "cancelled": false
   },
   {
-   "id": "c64ed8059a8d",
+   "id": "04a7ad387ba9",
    "title": "Regular Board Meeting",
    "host": "North Kitsap School District",
    "source": "north-kitsap-schools",
@@ -14458,7 +14493,7 @@
    "end": null,
    "all_day": false,
    "location": "18360 Caldart Ave NE, Poulsbo, WA 98370, USA",
-   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10017",
+   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10010",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -16854,7 +16889,7 @@
    "cancelled": false
   },
   {
-   "id": "938ac28122fa",
+   "id": "ffe375aeb8f4",
    "title": "School Board Meeting - Study Session",
    "host": "Sultan School District",
    "source": "sultan-schools",
@@ -17092,6 +17127,23 @@
    "cancelled": false
   },
   {
+   "id": "fd5092f8b03d",
+   "title": "City Council Regular Meeting",
+   "host": "City of Kenmore",
+   "source": "kenmore",
+   "area": "Kenmore",
+   "county": "King",
+   "category": "council",
+   "start": "2026-12-14T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "",
+   "url": "https://kenmorewa.portal.civicclerk.com/event/1752/overview",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": true
+  },
+  {
    "id": "1c132884726b",
    "title": "City Council Meeting (study session)",
    "host": "City of Lakewood",
@@ -17296,7 +17348,7 @@
    "cancelled": false
   },
   {
-   "id": "da8a66de7fd5",
+   "id": "026b0a83f417",
    "title": "School Connections - Vinland Elementary",
    "host": "North Kitsap School District",
    "source": "north-kitsap-schools",
@@ -17307,7 +17359,7 @@
    "end": null,
    "all_day": false,
    "location": "",
-   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10016",
+   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10000",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -18579,6 +18631,23 @@
    "cancelled": false
   },
   {
+   "id": "0ce7804d0911",
+   "title": "Planning Commission",
+   "host": "City of Cle Elum",
+   "source": "cle-elum",
+   "area": "Cle Elum",
+   "county": "Kittitas",
+   "category": "council",
+   "start": "2026-12-15T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "City Council Chambers, 119 West First Street, Cle Elum",
+   "url": "https://cleelumwa.portal.civicclerk.com/event/1268/overview",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "a8eeedcd3433",
    "title": "Planning Commission",
    "host": "City of College Place",
@@ -19257,6 +19326,23 @@
    "agenda_url": "",
    "note": "3rd Tuesdays of each month at 7:00pm",
    "cancelled": false
+  },
+  {
+   "id": "084ed1577d5f",
+   "title": "Planning Commission Meeting",
+   "host": "City of Kenmore",
+   "source": "kenmore",
+   "area": "Kenmore",
+   "county": "King",
+   "category": "council",
+   "start": "2026-12-15T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "",
+   "url": "https://kenmorewa.portal.civicclerk.com/event/1818/overview",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": true
   },
   {
    "id": "e72617785307",
@@ -22427,6 +22513,23 @@
    "cancelled": false
   },
   {
+   "id": "3f92e4f04831",
+   "title": "Work Session Meeting & Regular Board Meeting",
+   "host": "Brewster School District",
+   "source": "brewster-schools",
+   "area": "Brewster",
+   "county": "Okanogan",
+   "category": "school",
+   "start": "2026-12-21T18:00:00-08:00",
+   "end": "2026-12-21T19:00:00-08:00",
+   "all_day": false,
+   "location": "Transportation Building",
+   "url": "https://www.brewsterbears.org/",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "08e13fddfcc6",
    "title": "School Board Meeting",
    "host": "Cashmere School District",
@@ -22608,7 +22711,7 @@
    "end": null,
    "all_day": false,
    "location": "Alternates between Harrah and White Swan; see the district's schedule",
-   "url": "http://www.mtadams.wednet.edu/",
+   "url": "https://www.masd209.org/",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go. Holidays and district events move some meetings off the third Monday.",
    "cancelled": false
@@ -22816,6 +22919,23 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
+  },
+  {
+   "id": "7b5ba720c53d",
+   "title": "City Council Regular Meeting",
+   "host": "City of Kenmore",
+   "source": "kenmore",
+   "area": "Kenmore",
+   "county": "King",
+   "category": "council",
+   "start": "2026-12-21T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "",
+   "url": "https://kenmorewa.portal.civicclerk.com/event/1765/overview",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": true
   },
   {
    "id": "605ff0f847eb",
@@ -24331,6 +24451,23 @@
    "cancelled": false
   },
   {
+   "id": "20c06a029866",
+   "title": "Data Center Advisory Committee",
+   "host": "City of Cle Elum",
+   "source": "cle-elum",
+   "area": "Cle Elum",
+   "county": "Kittitas",
+   "category": "council",
+   "start": "2026-12-23T16:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "119 West First Street, Cle Elum",
+   "url": "https://cleelumwa.portal.civicclerk.com/event/1240/overview",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "19c4a0e6e89d",
    "title": "City Council Meeting",
    "host": "City of Mount Vernon",
@@ -25504,23 +25641,6 @@
    "cancelled": false
   },
   {
-   "id": "e3471394f87f",
-   "title": "Board Meeting",
-   "host": "Brewster School District",
-   "source": "brewster-schools",
-   "area": "Brewster",
-   "county": "Okanogan",
-   "category": "school",
-   "start": "2026-12-28T18:00:00-08:00",
-   "end": "2026-12-28T19:00:00-08:00",
-   "all_day": false,
-   "location": "Transportation Facility",
-   "url": "https://www.brewsterbears.org/",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
    "id": "2440096dc2cd",
    "title": "Board Meeting",
    "host": "Bridgeport School District",
@@ -25893,6 +26013,23 @@
    "agenda_url": "",
    "note": "",
    "cancelled": false
+  },
+  {
+   "id": "7c356d84015d",
+   "title": "City Council Regular Meeting",
+   "host": "City of Kenmore",
+   "source": "kenmore",
+   "area": "Kenmore",
+   "county": "King",
+   "category": "council",
+   "start": "2026-12-28T19:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "",
+   "url": "https://kenmorewa.portal.civicclerk.com/event/1778/overview",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": true
   },
   {
    "id": "d5a950663610",
@@ -28071,8 +28208,8 @@
    "cancelled": false
   },
   {
-   "id": "2ad28d47ce1b",
-   "title": "Planning Commission 1st Tuesday",
+   "id": "4c4a95aef3e4",
+   "title": "Planning Commission",
    "host": "City of Cle Elum",
    "source": "cle-elum",
    "area": "Cle Elum",
@@ -28081,10 +28218,10 @@
    "start": "2027-01-05T18:00:00-08:00",
    "end": null,
    "all_day": false,
-   "location": "119 West First Street, City Council Chambers, Cle Elum",
-   "url": "https://cleelumwa.portal.civicclerk.com/event/1139/overview",
+   "location": "City Council Chambers, 119 West First Street, Cle Elum",
+   "url": "https://cleelumwa.portal.civicclerk.com/event/1280/overview",
    "agenda_url": "",
-   "note": "Planning Commission Meeting",
+   "note": "",
    "cancelled": false
   },
   {
@@ -29358,6 +29495,23 @@
    "all_day": false,
    "location": "",
    "url": "https://www.portfridayharbor.org/",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
+   "id": "bbc065929d81",
+   "title": "Fire Advisory Committee",
+   "host": "City of Cle Elum",
+   "source": "cle-elum",
+   "area": "Cle Elum",
+   "county": "Kittitas",
+   "category": "council",
+   "start": "2027-01-08T13:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "119 West First Street, Cle Elum",
+   "url": "https://cleelumwa.portal.civicclerk.com/event/1250/overview",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -30655,7 +30809,7 @@
    "cancelled": false
   },
   {
-   "id": "be418d9922e3",
+   "id": "11d97d656f1b",
    "title": "School Connections - Kingston Middle School",
    "host": "North Kitsap School District",
    "source": "north-kitsap-schools",
@@ -30666,7 +30820,7 @@
    "end": null,
    "all_day": false,
    "location": "",
-   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10012",
+   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10011",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -31557,7 +31711,7 @@
   },
   {
    "id": "5063f58ba19d",
-   "title": "City Council Business Meeting 2nd Tuesday",
+   "title": "City Council Business Meeting",
    "host": "City of Bainbridge Island",
    "source": "bainbridge-island",
    "area": "Bainbridge Island",
@@ -33154,23 +33308,6 @@
    "cancelled": false
   },
   {
-   "id": "a3017aaf0154",
-   "title": "Public Safety & Health Special Meeting",
-   "host": "City of Cle Elum",
-   "source": "cle-elum",
-   "area": "Cle Elum",
-   "county": "Kittitas",
-   "category": "other",
-   "start": "2027-01-14T08:30:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "119 West First Street, City Council Chambers, Cle Elum",
-   "url": "https://cleelumwa.portal.civicclerk.com/event/1127/overview",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
    "id": "2c06521113f4",
    "title": "Fair Board",
    "host": "San Juan County",
@@ -33205,35 +33342,18 @@
    "cancelled": false
   },
   {
-   "id": "d7247cfd9466",
-   "title": "Special Meeting Public Safety & Health",
+   "id": "91f156a5facb",
+   "title": "Public Safety & Health Committee",
    "host": "City of Cle Elum",
    "source": "cle-elum",
    "area": "Cle Elum",
    "county": "Kittitas",
-   "category": "other",
+   "category": "council",
    "start": "2027-01-14T10:00:00-08:00",
    "end": null,
    "all_day": false,
    "location": "119 West First Street, City Council Chambers, Cle Elum",
-   "url": "https://cleelumwa.portal.civicclerk.com/event/1106/overview",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
-   "id": "b45812a79758",
-   "title": "Public Safety & Health Special Meeting",
-   "host": "City of Cle Elum",
-   "source": "cle-elum",
-   "area": "Cle Elum",
-   "county": "Kittitas",
-   "category": "other",
-   "start": "2027-01-14T11:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "119 West First Street, City Council Chambers, Cle Elum",
-   "url": "https://cleelumwa.portal.civicclerk.com/event/1118/overview",
+   "url": "https://cleelumwa.portal.civicclerk.com/event/1241/overview",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -33251,23 +33371,6 @@
    "all_day": false,
    "location": "625 S College Avenue, College Place",
    "url": "https://collegeplacewa.portal.civicclerk.com/event/104/overview",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
-  {
-   "id": "fdf593cb55a1",
-   "title": "Special Meeting Public Safety & Health",
-   "host": "City of Cle Elum",
-   "source": "cle-elum",
-   "area": "Cle Elum",
-   "county": "Kittitas",
-   "category": "other",
-   "start": "2027-01-14T13:00:00-08:00",
-   "end": null,
-   "all_day": false,
-   "location": "119 West First Street , City Council Chambers, Cle Elum",
-   "url": "https://cleelumwa.portal.civicclerk.com/event/1078/overview",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -35313,6 +35416,23 @@
    "cancelled": false
   },
   {
+   "id": "8c818fd4dab4",
+   "title": "Planning Commission",
+   "host": "City of Cle Elum",
+   "source": "cle-elum",
+   "area": "Cle Elum",
+   "county": "Kittitas",
+   "category": "council",
+   "start": "2027-01-19T18:00:00-08:00",
+   "end": null,
+   "all_day": false,
+   "location": "City Council Chambers, 119 West First Street, Cle Elum",
+   "url": "https://cleelumwa.portal.civicclerk.com/event/1269/overview",
+   "agenda_url": "",
+   "note": "",
+   "cancelled": false
+  },
+  {
    "id": "2219f5c1b989",
    "title": "Planning Commission",
    "host": "City of College Place",
@@ -35511,7 +35631,7 @@
    "end": null,
    "all_day": false,
    "location": "Alternates between Harrah and White Swan; see the district's schedule",
-   "url": "http://www.mtadams.wednet.edu/",
+   "url": "https://www.masd209.org/",
    "agenda_url": "",
    "note": "From the regular meeting schedule the host publishes. Meetings can be cancelled or moved, so check the host's page before you go. The regular date falls on a holiday, so state law moves the meeting to the next business day. The host may set a different date. Holidays and district events move some meetings off the third Monday.",
    "cancelled": false
@@ -37319,7 +37439,7 @@
    "cancelled": false
   },
   {
-   "id": "9e9270a2880c",
+   "id": "50b5553e2385",
    "title": "Regular Board Meeting",
    "host": "North Kitsap School District",
    "source": "north-kitsap-schools",
@@ -37330,7 +37450,7 @@
    "end": null,
    "all_day": false,
    "location": "18360 Caldart Ave NE, Poulsbo, WA 98370, USA",
-   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10013",
+   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10007",
    "agenda_url": "",
    "note": "",
    "cancelled": false
