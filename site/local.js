@@ -8,6 +8,17 @@
   var KEY = 'civicswa.place';
   var STATE_BOARDS = 'https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve';
   var OSPI_DIRECTORY = 'https://eds.ospi.k12.wa.us/DirectoryEDS.aspx';
+  // Other local governments in the county (data/local.json "districts"), by kind.
+  var DISTRICT_NOTES = {
+    esd: 'Educational service district: serves the school districts in this area. Board meetings and agendas.',
+    port: 'Port district: elected commissioners. Meetings, agendas and how to comment.',
+    library: 'Library: board of trustees meetings and agendas.',
+    utility: 'Public utility district: elected commissioners set rates. Meetings and agendas.',
+    transit: 'Transit agency: board meetings, agendas and service changes.',
+    hospital: 'Public hospital district: elected commissioners. Meetings and agendas.',
+    fire: 'Fire district or authority: elected commissioners. Meetings and agendas.',
+    other: 'Board meetings and agendas are on its website.'
+  };
 
   function base() {
     var s = document.querySelector('script[src$="local.js"]');
@@ -47,7 +58,8 @@
     var city = place.city && data.cities[place.city];
     show.forEach(function (kind) {
       if (kind === 'boards') {
-        if (city) item(ul, city.boards, 'City of ' + place.city + ' boards and commissions', 'Openings, applications and what each board does.');
+        if (city && city.boards) item(ul, city.boards, 'City of ' + place.city + ' boards and commissions', 'Openings, applications and what each board does.');
+        else if (city) item(ul, city.site, 'City of ' + place.city, 'The city does not list its boards on one page we could link. Look under City Hall or Government on its website, or ask the city clerk about openings.');
         if (county) item(ul, county.boards, county.appoints ? place.county + ' County commissioners' : place.county + ' County boards and commissions',
           county.appoints ? 'This county does not list its boards on one page. The commissioners make appointments, so ask their office about openings.' : 'County advisory boards, openings and how to apply.');
         item(ul, STATE_BOARDS, 'State boards and commissions', 'Apply to the Governor’s office any time.');
@@ -59,7 +71,14 @@
       if (kind === 'schools') {
         if (place.county) item(ul, base() + 'index.html?cat=school', 'School board meetings in ' + place.county + ' County',
           'The CivicsWA calendar, filtered to school boards. If your district isn’t there yet, use its website.');
+        ((county && county.schools) || []).forEach(function (d) {
+          item(ul, d.site, d.name, 'District website: school board meetings, agendas and elections.');
+        });
         item(ul, OSPI_DIRECTORY, 'Find your school district', 'OSPI’s directory of every district, with its address and superintendent’s contact.');
+      }
+      if (kind === 'districts') {
+        var list = (county && county.districts) || [];
+        list.forEach(function (d) { item(ul, d.site, d.name, DISTRICT_NOTES[d.kind] || DISTRICT_NOTES.other); });
       }
       if (kind === 'meetings') {
         if (place.county) item(ul, base() + 'index.html', 'Public meetings in ' + place.county + ' County', 'The CivicsWA calendar, set to your county.');

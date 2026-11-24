@@ -3088,13 +3088,13 @@ sources:
     area: White Swan
     category: school
     default_category: school
-    homepage: http://www.mtadams.wednet.edu/
+    homepage: https://www.masd209.org/
     meetings:
       - title: School Board Meeting
         when: 3rd Monday
         time: "18:00"
         location: "Alternates between Harrah and White Swan; see the district's schedule"
-        url: http://www.mtadams.wednet.edu/
+        url: https://www.masd209.org/
         note: "Holidays and district events move some meetings off the third Monday."
 
   # Adopted 2026-27 meeting dates from the district's published board calendar.
