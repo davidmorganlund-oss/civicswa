@@ -8,55 +8,47 @@ sources:
   base: https://nkschools.community.diligentoneplatform.com
   homepage: https://nkschools.community.diligentoneplatform.com/Portal/
   exclude: quorum
-- id: tumwater-schools
-  name: Tumwater School District
-  type: civicweb
-  base: https://tumwaterk12.community.diligentoneplatform.com
-  county: Thurston
-  area: Tumwater
-  category: school
-  homepage: https://www.tumwater.k12.wa.us/leadership/board-of-directors/school-board-meetings
-- id: auburn
-  name: City of Auburn
-  type: civicclerk
-  tenant: auburnwa
-  county: King
-  area: Auburn
-  homepage: https://auburnwa.portal.civicclerk.com/
-- id: liberty-lake
+- id: yakima-county-main
+  name: Yakima County
+  type: civicplus
+  site: https://www.yakimacounty.us
+  categories:
+  - 14
+  county: Yakima
+  area: countywide
+  drop_uncategorized: true
+  homepage: https://www.yakimacounty.us/Calendar.aspx
+- id: yakima-county-more
+  name: Yakima County
+  type: civicplus
+  site: https://www.yakimacounty.us
+  categories:
+  - 14
+  - 27
+  - 34
+  - 41
+  - 49
+  - 65
+  county: Yakima
+  area: countywide
+  homepage: https://www.yakimacounty.us/Calendar.aspx
+- id: yakima-granicus
+  name: City of Yakima
+  county: Yakima
+  area: Yakima
+  type: granicus
+  tenant: yakimawa
+  view_id: 1
+  default_category: council
+  homepage: https://www.yakimawa.gov/
+- id: liberty-lake-cp
   name: City of Liberty Lake
   county: Spokane
   area: Liberty Lake
-  type: civicclerk
-  tenant: libertylakewa
-  homepage: https://libertylakewa.portal.civicclerk.com/
-- id: kirkland-council
-  name: City of Kirkland City Council
-  type: granicus
-  tenant: kirkland
-  view_id: 3
-  county: King
-  area: Kirkland
-  homepage: https://www.kirklandwa.gov/Government/City-Council
-- id: wenatchee
-  name: City of Wenatchee
-  county: Chelan
-  area: Wenatchee
-  type: govaccess_rss
-  url: https://www.wenatcheewa.gov/Home/Components/RssFeeds/RssFeed/View?ctID=6
+  type: civicplus
+  site: https://www.libertylakewa.gov
+  categories:
+  - 14
+  - 27
   default_category: council
-  homepage: https://www.wenatcheewa.gov/get-involved/city-calendar
-- id: renton
-  name: City of Renton
-  type: primegov
-  tenant: renton
-  county: King
-  area: Renton
-  homepage: https://renton.primegov.com/public/portal
-- id: covington
-  name: City of Covington
-  county: King
-  area: Covington
-  type: primegov
-  tenant: covingtonwa
-  homepage: https://covingtonwa.primegov.com/public/portal
+  homepage: https://www.libertylakewa.gov/Calendar.aspx

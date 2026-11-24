@@ -757,9 +757,15 @@ def normalize_civicweb(src, rows, tz):
     events = []
     for r in rows:
         raw = r.get("MeetingDateTime") or ""
-        if not raw:
+        if raw:
+            start = datetime.strptime(raw[:16], "%Y-%m-%d %H:%M").replace(tzinfo=tz)
+        elif r.get("MeetingDate"):
+            # Some portals leave the combined field blank and give the day and
+            # the clock time separately ("2026-10-29", "01:30 PM").
+            clock = parse_clock(r.get("MeetingTime") or "")
+            start = datetime.combine(date.fromisoformat(r["MeetingDate"][:10]), clock or time(0, 0), tz)
+        else:
             continue
-        start = datetime.strptime(raw[:16], "%Y-%m-%d %H:%M").replace(tzinfo=tz)
         # Names end with the date ("Planning Commission - Dec 17 2026"); the site shows its own.
         name = CIVICWEB_DATE.sub("", r.get("Name") or "").strip()
         events.append(make_event(
