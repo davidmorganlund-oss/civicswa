@@ -256,3 +256,7 @@ noscript .empty a { font-weight: 600; }
   #chips { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 6px; margin-inline: -16px; padding-inline: 16px; scrollbar-width: thin; }
   #chips .chip { flex: 0 0 auto; }
 }
+
+/* "Every district you live in" list on the address lookup */
+.districts { list-style: none; margin: 0; padding: 0 !important; gap: 10px !important; }
+.district .muted { display: block; font-size: 14px; }

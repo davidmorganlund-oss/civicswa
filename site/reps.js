@@ -1,8 +1,9 @@
 /* CivicsWA "Who represents you" lookup.
    The address goes straight from the visitor's browser to the U.S. Census
-   Bureau geocoder, which returns the districts it sits in. CivicsWA has no
-   server, so it never receives or stores the address. Names come from
-   data/officials.json, rebuilt nightly. */
+   Bureau geocoder, which returns the districts it sits in. districts.js then
+   sends only the map point (not the address) to state map services for
+   special districts. CivicsWA has no server, so it never receives or stores
+   the address. Names come from data/officials.json, rebuilt nightly. */
 (function () {
   'use strict';
 
@@ -58,6 +59,69 @@
     var key = Object.keys(geographies).filter(function (k) { return pattern.test(k); })[0];
     var rows = key ? geographies[key] : null;
     return rows && rows[0] ? rows[0].BASENAME : '';
+  }
+
+  // Full names ("Olympia School District") from every layer that matches.
+  function names(geographies, pattern) {
+    var out = [];
+    Object.keys(geographies).filter(function (k) { return pattern.test(k); }).forEach(function (k) {
+      (geographies[k] || []).forEach(function (row) {
+        if (row.NAME && out.indexOf(row.NAME) < 0) out.push(row.NAME);
+      });
+    });
+    return out;
+  }
+
+  function districtItem(list, d) {
+    var li = el('li', 'district');
+    li.appendChild(el('strong', null, d.label + ': '));
+    li.appendChild(document.createTextNode(d.name));
+    if (d.note) li.appendChild(el('span', 'muted', d.note));
+    list.appendChild(li);
+  }
+
+  // One card listing every district the address sits in. The districts the
+  // Census lookup already named show right away; special districts and
+  // transit come from two more map services, which get only the map point.
+  function districtsCard(g, match, parts) {
+    var card = section('Your districts', 'Every district you live in');
+    var list = el('ul', 'districts');
+    card.appendChild(list);
+    var add = function (d) { districtItem(list, d); };
+    if (parts.cd) add({ label: 'U.S. House', name: 'Congressional District ' + parts.cd });
+    if (parts.ld) add({ label: 'State Legislature', name: 'Legislative District ' + parts.ld, note: 'You elect one state senator and two state representatives from this district.' });
+    if (parts.county) add({ label: 'County', name: parts.county + ' County' });
+    add({ label: 'City', name: parts.city ? 'City of ' + parts.city : 'Unincorporated (outside city limits)' });
+    names(g, /School Districts/).forEach(function (n) {
+      add({ label: 'School district', name: n, note: 'Elected school board directors run your public schools.' });
+    });
+    var D = window.CivicsWADistricts;
+    var coa = D && parts.county ? D.courtOfAppeals(parts.county) : null;
+    if (coa) add(coa);
+    names(g, /American Indian Reservations|Off-Reservation Trust Lands/).forEach(function (n) {
+      add({ label: 'Tribal land', name: n, note: 'This address is on tribal land. The tribe’s own government serves its members here.' });
+    });
+
+    var status = el('p', 'muted', 'Looking up fire, library, port, utility, transit and other special districts…');
+    card.appendChild(status);
+    var c = match.coordinates || {};
+    if (!D || typeof c.x !== 'number' || typeof c.y !== 'number') {
+      status.textContent = 'We could not look up special districts for this address.';
+      return card;
+    }
+    D.lookup(c.x, c.y, parts.county).then(function (r) {
+      (r.transit || []).forEach(add);
+      var sp = r.special;
+      (sp ? sp.districts : []).forEach(add);
+      status.textContent = '';
+      if (!sp || !r.transit) {
+        status.appendChild(document.createTextNode('Part of the special district lookup did not respond, so this list may be missing some districts. Try again in a few minutes.'));
+      } else {
+        status.appendChild(document.createTextNode('Special districts come from the Washington Department of Revenue’s ' + sp.year + ' taxing district maps' + (sp.taxCodeArea ? ' (tax code area ' + sp.taxCodeArea + ', the number on a property tax statement)' : '') + ' and transit agencies from WSDOT.'));
+      }
+      card.appendChild(el('p', 'muted', 'Not listed here: county commissioner or council districts, city council districts, voting precincts and conservation districts. Your county elections office can tell you those.'));
+    });
+    return card;
   }
 
   function person(p) {
@@ -132,6 +196,7 @@
     var cd = layer(g, /Congressional Districts/);
 
     out.appendChild(el('p', 'muted', 'Showing results for ' + match.matchedAddress + '.'));
+    out.appendChild(districtsCard(g, match, { city: city, county: county, ld: ld, cd: cd }));
     if (window.CivicsWALocal && county) {
       // Remember only the county and city, so the Engage guides can show local links.
       window.CivicsWALocal.save({ county: county, city: localData && localData.cities[city] ? city : '' });
