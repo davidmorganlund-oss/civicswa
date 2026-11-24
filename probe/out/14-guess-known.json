@@ -1,0 +1,1315 @@
+{
+"_stamp": 1,
+"kind": "guess",
+"results": [
+{
+"id": "WA-294",
+"name": "North Central Regional Library",
+"state": "WA",
+"url": "https://www.ncrl.org/",
+"status": 200,
+"final": "https://www.ncwlibraries.org/",
+"error": null,
+"title": "NCW libraries - books, community events, local resources, & more!",
+"name_hits": [
+"north",
+"central"
+],
+"name_toks": [
+"north",
+"central"
+],
+"state_hit": true,
+"parked": false,
+"words": 955,
+"links": [
+[
+"https://www.ncwlibraries.org/meeting-rooms",
+"Book a Space"
+],
+[
+"https://ncwlibraries.libcal.com/calendar/?cid=-1&t=w&d=0000-00-00&cal=-1&inc=0",
+"VIEW ALL"
+],
+[
+"https://www.ncwlibraries.org/boardoftrustees/",
+"Board of Trustees"
+]
+]
+},
+{
+"id": "WA-295",
+"name": "Everett Public Library",
+"state": "WA",
+"url": "https://www.epls.org/",
+"status": 200,
+"final": "https://www.epls.org/",
+"error": null,
+"title": "Everett Library, WA | Official Website",
+"name_hits": [
+"everett"
+],
+"name_toks": [
+"everett"
+],
+"state_hit": true,
+"parked": false,
+"words": 182,
+"links": []
+},
+{
+"id": "WA-296",
+"name": "Yakima Valley Libraries",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-297",
+"name": "Bellingham Public Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-298",
+"name": "Camas Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-299",
+"name": "Mount Vernon Library",
+"state": "WA",
+"url": "https://www.mountvernonwa.gov/library",
+"status": 200,
+"final": "https://www.mountvernonwa.gov/175/Library",
+"error": null,
+"title": "Library | Mount Vernon, WA - Official Website",
+"name_hits": [
+"mount",
+"vernon"
+],
+"name_toks": [
+"mount",
+"vernon"
+],
+"state_hit": true,
+"parked": false,
+"words": 510,
+"links": [
+[
+"http://www.governmentjobs.com/careers/mtvernonwa",
+"Employment"
+]
+]
+},
+{
+"id": "WA-300",
+"name": "Neill Library",
+"state": "WA",
+"url": "https://www.neill-lib.org/",
+"status": 200,
+"final": "https://www.pullman-wa.gov/services/neill_public_library/index.php",
+"error": null,
+"title": "Neill Public Library",
+"name_hits": [
+"neill"
+],
+"name_toks": [
+"neill"
+],
+"state_hit": true,
+"parked": false,
+"words": 1143,
+"links": [
+[
+"https://www.pullman-wa.gov/government/index.php",
+"Government"
+],
+[
+"https://www.pullman-wa.gov/government/mayor.php",
+"Mayor"
+],
+[
+"https://www.pullman-wa.gov/government/city_council/index.php",
+"City Council"
+],
+[
+"https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingTypeList.aspx",
+"Agendas & Minutes"
+],
+[
+"https://www.pullman-wa.gov/government/city_council/goals_and_legislative_priorities.php",
+"Goals and Legislative Priorities"
+],
+[
+"https://www.pullman-wa.gov/government/city_council/2026-2027_goal_setting.php",
+"2026-2027 Goal Setting Process"
+],
+[
+"https://www.pullman-wa.gov/government/city_council/public_comment.php",
+"Public Comment"
+],
+[
+"https://www.pullman-wa.gov/government/city_council/2022_ward_redistricting.php",
+"Ward Redistricting"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/index.php",
+"Boards, Commissions & Committees"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/airport_board.php",
+"Airport Board"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/arts_commission.php",
+"Arts Commission"
+],
+[
+"https://www.pullman-wa.gov/government/boards,_commissions___committees/volunteer_firefighters_reserve_officers.php",
+"Board for Volunteer Firefighters & Reserve Officers"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/cemetery_committee.php",
+"Cemetery Committee"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/civil_service_commission.php",
+"Civil Service Commission"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/diversity_equity_inclusion_belonging_committee.php",
+"Diversity, Equity, Inclusion & Belonging Committee"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/environmental_resilience_commission.php",
+"Environmental Resilience Commission"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/hearing_examiner.php",
+"Hearing Examiner"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/historic_preservation_commission.php",
+"Historic Preservation Commission"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/leoff_disability_board.php",
+"LEOFF Disability Board"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/library_board_of_trustees.php",
+"Library Board of Trustees"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/lodging_tax_advisory_commission.php",
+"Lodging Tax Advisory Commission"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/metropolitan_parks_district.php",
+"Metropolitan Parks District"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/palouse_basin_aquifer_committee.php",
+"Palouse Basin Aquifer Committee"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/parks___recreation_commission.php",
+"Parks & Recreation Commission"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/planning_commission.php",
+"Planning Commission"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/police_advisory_committee.php",
+"Police Advisory Committee"
+],
+[
+"https://www.pullman-wa.gov/government/city_code.php",
+"City Code"
+],
+[
+"https://www.pullman-wa.gov/calendar.php?calendar=7",
+"Calendar"
+],
+[
+"https://www.pullman-wa.gov/services/transit/service_calendar.php",
+"Service Calendar"
+],
+[
+"https://pullman-wa.community.diligentoneplatform.com/Portal/MeetingTypeList.aspx",
+"Council Agendas & Minutes"
+],
+[
+"https://www.pullman-wa.gov/calendar.php?calendar=7",
+"Calendar"
+],
+[
+"https://www.pullman-wa.gov/calendar.php?calendar=7",
+"See All Events"
+],
+[
+"https://www.pullman-wa.gov/government/city_council/index.php",
+"City Council"
+],
+[
+"https://www.pullman-wa.gov/government/boards_commissions___committees/index.php",
+"Getting Involved"
+]
+]
+},
+{
+"id": "WA-303",
+"name": "Richland Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-304",
+"name": "Stevens County Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-305",
+"name": "Walla Walla County Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-306",
+"name": "Walla Walla Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-307",
+"name": "Anacortes Library",
+"state": "WA",
+"url": "https://library.cityofanacortes.org/",
+"status": 200,
+"final": "https://www.anacorteswa.gov/220/Library",
+"error": null,
+"title": "Library Home | Anacortes, WA",
+"name_hits": [
+"anacortes"
+],
+"name_toks": [
+"anacortes"
+],
+"state_hit": true,
+"parked": false,
+"words": 611,
+"links": [
+[
+"https://www.anacorteswa.gov/27/Government",
+"Government"
+],
+[
+"https://www.anacorteswa.gov/calendar.aspx",
+"Event Calendar"
+],
+[
+"https://www.anacorteswa.gov/1070/Reserve-The-Meeting-Room",
+"Reserve The Meeting Room"
+],
+[
+"https://www.anacorteswa.gov/222/Events-Calendars-Newsletters",
+"Events and Calendars"
+],
+[
+"https://www.anacorteswa.gov/2203/Library-Board-of-Trustees",
+"Library Board of Trustees"
+],
+[
+"https://www.anacorteswa.gov/calendar.aspx?CID=32",
+"Calendar"
+],
+[
+"https://www.anacorteswa.gov/Calendar.aspx?EID=12216",
+"LEGO at the Library"
+],
+[
+"https://www.anacorteswa.gov/Calendar.aspx?EID=12136",
+"Teen Writing Group"
+],
+[
+"https://www.anacorteswa.gov/Calendar.aspx?EID=12220",
+"Family Storytime"
+],
+[
+"https://www.anacorteswa.gov/Calendar.aspx?EID=12224",
+"Family Storytime"
+],
+[
+"https://www.anacorteswa.gov/Calendar.aspx?EID=12138",
+"Madrona Poetry Series"
+],
+[
+"https://www.anacorteswa.gov/Calendar.aspx?EID=12217",
+"LEGO at the Library"
+],
+[
+"https://www.anacorteswa.gov/Calendar.aspx?EID=12213",
+"Teen Writing Group"
+],
+[
+"https://www.anacorteswa.gov/Calendar.aspx?EID=12228",
+"Maker Space: Stuffed Animal Ornaments and Gifts"
+],
+[
+"https://www.anacorteswa.gov/calendar.aspx?CID=32",
+"View All Events"
+],
+[
+"https://www.cityofanacortes.org/calendar.aspx?CID=32&showPastEvents=false",
+"Event Calendar"
+],
+[
+"https://www.anacorteswa.gov/calendar.aspx",
+"Calendar"
+],
+[
+"https://www.anacorteswa.gov/700/Meeting-Documents-and-Video",
+"Meetings"
+]
+]
+},
+{
+"id": "WA-308",
+"name": "Bleyhl Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-309",
+"name": "Jefferson County Library",
+"state": "WA",
+"url": "https://www.jclibrary.info/",
+"status": 200,
+"final": "https://www.jclibrary.info/",
+"error": null,
+"title": "Home | Jefferson County Library",
+"name_hits": [
+"jefferson"
+],
+"name_toks": [
+"jefferson"
+],
+"state_hit": true,
+"parked": false,
+"words": 752,
+"links": [
+[
+"https://www.jclibrary.info/events",
+"Program Calendar"
+],
+[
+"https://www.jclibrary.info/board-of-trustees",
+"Board of Trustees"
+],
+[
+"https://investors.valueline.com/Users/Account/barcode?urlid=2eca84d5-e232-4d83-96d5-2ddde33516cc&=2&o=research&lp=secure%2fdashboard",
+"Value Line"
+]
+]
+},
+{
+"id": "WA-310",
+"name": "Kelso Library",
+"state": "WA",
+"url": "https://www.kelso.gov/library",
+"status": 200,
+"final": "https://www.kelso.gov/library",
+"error": null,
+"title": "Library | Kelso, WA",
+"name_hits": [
+"kelso"
+],
+"name_toks": [
+"kelso"
+],
+"state_hit": true,
+"parked": false,
+"words": 185,
+"links": [
+[
+"https://www.kelso.gov/calendar.aspx?CID=23",
+"Calendar"
+],
+[
+"https://www.kelso.gov/calendar.aspx?view=list&year=2026&month=11&day=21&CID=23",
+"21"
+],
+[
+"https://www.kelso.gov/calendar.aspx?view=list&year=2026&month=11&day=22&CID=23",
+"22"
+],
+[
+"https://www.kelso.gov/calendar.aspx?view=list&year=2026&month=11&day=23&CID=23",
+"23"
+],
+[
+"https://www.kelso.gov/calendar.aspx?view=list&year=2026&month=11&day=24&CID=23",
+"24"
+],
+[
+"https://www.kelso.gov/calendar.aspx?view=list&year=2026&month=11&day=25&CID=23",
+"25"
+],
+[
+"https://www.kelso.gov/calendar.aspx?view=list&year=2026&month=11&day=26&CID=23",
+"26"
+],
+[
+"https://www.kelso.gov/calendar.aspx?view=list&year=2026&month=11&day=27&CID=23",
+"27"
+],
+[
+"https://www.kelso.gov/calendar.aspx?view=list&year=2026&month=11&day=28&CID=23",
+"28"
+],
+[
+"https://www.kelso.gov/calendar.aspx?view=list&year=2026&month=11&day=29&CID=23",
+"29"
+],
+[
+"https://www.kelso.gov/calendar.aspx?view=list&year=2026&month=11&day=30&CID=23",
+"30"
+],
+[
+"https://www.kelso.gov/calendar.aspx?view=list&year=2026&month=12&day=1&CID=23",
+"1"
+],
+[
+"https://www.kelso.gov/calendar.aspx?view=list&year=2026&month=12&day=2&CID=23",
+"2"
+],
+[
+"https://www.kelso.gov/calendar.aspx?view=list&year=2026&month=12&day=3&CID=23",
+"3"
+],
+[
+"https://www.kelso.gov/calendar.aspx?view=list&year=2026&month=12&day=4&CID=23",
+"4"
+],
+[
+"https://www.kelso.gov/calendar.aspx?view=list&year=2026&month=12&day=5&CID=23",
+"5"
+],
+[
+"https://www.kelso.gov/Calendar.aspx?EID=1889",
+"Wrapping Station"
+],
+[
+"https://www.kelso.gov/Calendar.aspx?EID=974",
+"Thanksgiving"
+],
+[
+"https://www.kelso.gov/calendar.aspx?CID=23",
+"View All Events"
+]
+]
+},
+{
+"id": "WA-311",
+"name": "Ocean Shores Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-312",
+"name": "Pend Oreille County Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-314",
+"name": "Columbia County Library",
+"state": "WA",
+"url": "https://www.ccrld.org/",
+"status": 200,
+"final": "https://ccrld.org/",
+"error": null,
+"title": "Columbia County Rural Library District | Public library serving Dayton, WA and unincorporated Columbia County.",
+"name_hits": [
+"columbia"
+],
+"name_toks": [
+"columbia"
+],
+"state_hit": true,
+"parked": false,
+"words": 377,
+"links": [
+[
+"https://ccrld.org/meetings/",
+"Delany Building"
+],
+[
+"https://ccrld.org/calendar-2/",
+"Events"
+],
+[
+"https://ccrld.org/library-board/",
+"Library Board"
+],
+[
+"https://ccrld.org/calendar-2",
+"All Events"
+],
+[
+"https://ccrld.org/meetings/",
+"Delany Building"
+],
+[
+"https://ccrld.org/calendar-2/",
+"Events"
+],
+[
+"https://ccrld.org/library-board/",
+"Library Board"
+]
+]
+},
+{
+"id": "WA-315",
+"name": "Castle Rock Library",
+"state": "WA",
+"url": "https://www.ci.castle-rock.wa.us/",
+"status": 200,
+"final": "https://www.ci.castle-rock.wa.us/",
+"error": null,
+"title": "City of Castle Rock, Washington | Home | Gateway to Mount St. Helens",
+"name_hits": [
+"castle",
+"rock"
+],
+"name_toks": [
+"castle",
+"rock"
+],
+"state_hit": true,
+"parked": false,
+"words": 593,
+"links": [
+[
+"https://www.ci.castle-rock.wa.us/planning-commission.htm",
+"Planning Commission Meetings"
+],
+[
+"https://www.ci.castle-rock.wa.us/government.htm",
+"Government"
+],
+[
+"https://www.ci.castle-rock.wa.us/government.htm",
+"Council Agendas & Minutes"
+],
+[
+"https://www.ci.castle-rock.wa.us/planning-commission.htm",
+"Planning Commission Meetings"
+]
+]
+},
+{
+"id": "WA-316",
+"name": "Carpenter Memorial Library",
+"state": "WA",
+"url": "https://cleelum.gov/library",
+"status": 200,
+"final": "https://cleelum.gov/city-services/library/",
+"error": null,
+"title": "Library - City of Cle Elum",
+"name_hits": [
+"carpenter"
+],
+"name_toks": [
+"carpenter"
+],
+"state_hit": true,
+"parked": false,
+"words": 433,
+"links": [
+[
+"https://cleelum.gov/boards-commissioners/library-board/",
+"Friends of the Library"
+],
+[
+"https://cleelum.gov/boards-commissioners/planning-commission/",
+"Planning Commission"
+],
+[
+"https://cleelum.gov/city-government/",
+"City Government"
+],
+[
+"https://cleelum.gov/city-council/",
+"City Council"
+],
+[
+"https://cleelumwa.portal.civicclerk.com/",
+"Agendas and Minutes Council & Committees"
+],
+[
+"https://cleelumwa.civicclerk.com/boardview",
+"Council Members Portal"
+],
+[
+"https://cleelum.gov/city-council/agenda-and-minutes/",
+"Past Minutes"
+],
+[
+"https://cleelum.gov/city-council/interlocal-cooperative-agreements/",
+"Interlocal Agreements"
+],
+[
+"https://cleelum.gov/city-council/council-appointment/",
+"Apply for City Council"
+],
+[
+"https://cleelum.gov/boards-commissioners/",
+"Boards / Commissions"
+],
+[
+"https://cleelum.gov/boards-commissioners/civil-service-commission/",
+"Civil Service"
+],
+[
+"https://cleelum.gov/boards-commissioners/coal-mines-trail/",
+"Coal Mines Trail"
+],
+[
+"https://cleelum.gov/boards-commissioners/planning-commission/",
+"Planning"
+],
+[
+"https://cleelumwa.portal.civicclerk.com/",
+"Planning Agendas and Minutes"
+],
+[
+"https://cleelum.gov/boards-commissioners/planning-commission/planning-commission-meeting-agenda-and-minutes/",
+"Past Minutes"
+],
+[
+"https://cleelum.gov/boards-commissioners/historic-preservation-commission/",
+"Historic Preservation"
+],
+[
+"https://cleelum.gov/boards-commissioners/lodging-tax-events/",
+"Lodging Tax and Events"
+],
+[
+"https://cleelum.gov/boards-commissioners/public-works-and-community-development-committee/",
+"Public Works and Community Development"
+],
+[
+"https://cleelum.gov/boards-commissioners/general-government/",
+"General Government"
+],
+[
+"https://cleelum.gov/boards-commissioners/library-board-of-trustees/",
+"Library Board of Trustees"
+],
+[
+"https://cleelum.gov/boards-commissioners/library-board/",
+"Friends of the Library"
+],
+[
+"https://cleelum.gov/boards-commissioners/tree-board/",
+"Tree Board"
+],
+[
+"https://cleelum.gov/salary-commission/",
+"Salary Commission"
+],
+[
+"https://cleelumwa.portal.civicclerk.com/",
+"Agendas and Minutes"
+],
+[
+"https://cleelum.gov/boards-commissioners/library-board-of-trustees/",
+"Library Board of Trustees"
+],
+[
+"https://cleelum.gov/boards-commissioners/library-board/",
+"Friends of the Library"
+]
+]
+},
+{
+"id": "WA-317",
+"name": "Kalama Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-319",
+"name": "Weller Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-320",
+"name": "East Adams Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-321",
+"name": "Yale Valley Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-322",
+"name": "Cowlitz County Library",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-242",
+"name": "Port of Vancouver",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-243",
+"name": "Port of Ridgefield",
+"state": "WA",
+"url": "https://portridgefield.org/",
+"status": 200,
+"final": "https://portridgefield.org/",
+"error": null,
+"title": "Port of Ridgefield - Community and Economic Prosperity",
+"name_hits": [
+"ridgefield"
+],
+"name_toks": [
+"ridgefield"
+],
+"state_hit": true,
+"parked": false,
+"words": 330,
+"links": [
+[
+"https://portridgefield.org/public-meetings",
+"Public Meetings"
+],
+[
+"https://portridgefield.org/public-meetings",
+"Public Meetings"
+],
+[
+"https://portridgefield.org/public-meetings",
+"Public Meetings"
+]
+]
+},
+{
+"id": "WA-253",
+"name": "Port of South Whidbey",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-275",
+"name": "Port of Willapa Harbor",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-276",
+"name": "Port of Chinook",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-229",
+"name": "Port of Royal Slope",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "WA-235",
+"name": "Port of Othello",
+"state": "WA",
+"status": "notfound"
+},
+{
+"id": "OR-NP",
+"name": "North Plains Library",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-SA",
+"name": "Sandy Library",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-TD",
+"name": "Wasco County Library",
+"state": "OR",
+"url": "https://www.wascocountylibrary.com/",
+"status": 200,
+"final": "https://www.wascocountylibrary.com/",
+"error": null,
+"title": "Home | Wasco County Library District",
+"name_hits": [
+"wasco"
+],
+"name_toks": [
+"wasco"
+],
+"state_hit": true,
+"parked": false,
+"words": 4206,
+"links": [
+[
+"https://www.wascocountylibrary.com/board-trustees",
+"Board of Trustees"
+],
+[
+"https://catalog.sage.eou.edu/eg/opac/results?qtype=keyword&locg=199&detail_record_view=1&query=The+Cardboard+Kingdom+%233%3A+Snow+and+Sorcery",
+"The Cardboard Kingdom #3: Snow and Sorcery The kids of the Cardboard Kingdom go "
+]
+]
+},
+{
+"id": "OR-HB",
+"name": "Harrisburg Library",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-OK",
+"name": "Oakridge Library",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-WP",
+"name": "Waldport Library",
+"state": "OR",
+"url": "https://www.waldportlibrary.org/",
+"status": 200,
+"final": "https://waldportlibrary.org/",
+"error": null,
+"title": "Catalog Home | Waldport Public Library",
+"name_hits": [
+"waldport"
+],
+"name_toks": [
+"waldport"
+],
+"state_hit": true,
+"parked": false,
+"words": 162,
+"links": [
+[
+"https://waldport.aspendiscovery.org/Events/Calendar",
+"Events Calendar"
+],
+[
+"https://waldport.aspendiscovery.org/board",
+"Board of Trustees"
+],
+[
+"https://waldport.aspendiscovery.org/Events/Calendar",
+"Library Programs"
+],
+[
+"https://waldport.aspendiscovery.org/board",
+"Board"
+]
+]
+},
+{
+"id": "OR-WI",
+"name": "Winston Library",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-CG",
+"name": "Cottage Grove Library",
+"state": "OR",
+"url": "https://www.cottagegroveor.gov/",
+"status": 200,
+"final": "https://www.cottagegroveor.gov/",
+"error": null,
+"title": "Cottage Grove, OR | Official Website",
+"name_hits": [
+"cottage",
+"grove"
+],
+"name_toks": [
+"cottage",
+"grove"
+],
+"state_hit": true,
+"parked": false,
+"words": 235,
+"links": [
+[
+"https://www.cottagegroveor.gov/1192/Your-Government",
+"Your Government"
+],
+[
+"https://www.cottagegroveor.gov/agendacenter",
+"Agendas & Minutes"
+],
+[
+"https://www.cottagegroveor.gov/calendar.aspx?CID=23",
+"City Meetings Calendar"
+],
+[
+"https://www.cottagegroveor.gov/calendar.aspx?CID=23",
+"View All Events"
+],
+[
+"https://www.cottagegroveor.gov/1255/Ward-2-City-Councilor---Vacant",
+"City Councilor Ward 2 - Applications for Appointment"
+]
+]
+},
+{
+"id": "OR-DA",
+"name": "Dallas Library",
+"state": "OR",
+"url": "https://www.dallasor.gov/185/Library",
+"status": 200,
+"final": "https://www.dallasor.gov/185/Councilor-Kim-Fitzgerald",
+"error": null,
+"title": "Councilor Kim Fitzgerald | Dallas, OR",
+"name_hits": [
+"dallas"
+],
+"name_toks": [
+"dallas"
+],
+"state_hit": true,
+"parked": false,
+"words": 181,
+"links": [
+[
+"https://www.dallasor.gov/164/Government",
+"Government"
+],
+[
+"https://www.dallasor.gov/AgendaCenter/City-Council-3",
+"Agendas and Minutes"
+],
+[
+"https://www.dallasor.gov/170/Council-Goals",
+"Council Goals"
+],
+[
+"https://www.dallasor.gov/171/City-Council-Meetings",
+"City Council Meetings"
+],
+[
+"https://www.dallasor.gov/178/Guide-for-Remote-Meeting-Access",
+"Guide for Remote Meeting Access"
+],
+[
+"https://www.dallasor.gov/164/Government",
+"Government"
+],
+[
+"https://www.dallasor.gov/168/City-Council",
+"City Council"
+],
+[
+"https://www.dallasor.gov/calendar.aspx?CID=14",
+"Calendar"
+],
+[
+"https://www.dallasor.gov/Calendar.aspx?EID=637",
+"Christmas Day"
+],
+[
+"https://www.dallasor.gov/Calendar.aspx?EID=632",
+"New Year's Day"
+],
+[
+"https://www.dallasor.gov/Calendar.aspx?EID=661",
+"Juneteenth"
+],
+[
+"https://www.dallasor.gov/calendar.aspx?CID=14",
+"View All Events"
+]
+]
+},
+{
+"id": "OR-WB",
+"name": "Woodburn Library",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "OR-TO",
+"name": "Toledo Library",
+"state": "OR",
+"status": "notfound"
+},
+{
+"id": "ID-L1",
+"name": "Teton Library",
+"state": "ID",
+"url": "https://valleyofthetetonslibrary.org/",
+"status": 200,
+"final": "https://valleyofthetetonslibrary.org/",
+"error": null,
+"title": "Home - Valley of the Tetons Library",
+"name_hits": [
+"teton"
+],
+"name_toks": [
+"teton"
+],
+"state_hit": true,
+"parked": false,
+"words": 1198,
+"links": [
+[
+"https://valleyofthetetonslibrary.libcal.com/calendar?cid=23326",
+"Upcoming Events"
+],
+[
+"https://valleyofthetetonslibrary.org/about/the-library/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://valleyofthetetonslibrary.libcal.com/calendar?cid=23326",
+"connect"
+],
+[
+"https://valleyofthetetonslibrary.libcal.com/calendar?cid=23326",
+"Programs & Events"
+],
+[
+"https://valleyofthetetonslibrary.libcal.com/calendar?cid=23326",
+"View All Events"
+],
+[
+"https://valleyofthetetonslibrary.libcal.com/calendar?cid=23326",
+"Upcoming Events"
+]
+]
+},
+{
+"id": "ID-L2",
+"name": "Middleton Library",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-L3",
+"name": "Emmett Library",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-L4",
+"name": "Lemhi Library",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-L5",
+"name": "Grangeville Library",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-L6",
+"name": "Homedale Library",
+"state": "ID",
+"url": "https://homedale.lili.org/",
+"status": 200,
+"final": "https://homedale.lili.org/",
+"error": null,
+"title": "Gypsy Jackson Memorial Library \u2013 Welcome to the Homedale Library District",
+"name_hits": [
+"homedale"
+],
+"name_toks": [
+"homedale"
+],
+"state_hit": true,
+"parked": false,
+"words": 551,
+"links": [
+[
+"https://homedale.lili.org/about-us/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://homedale.lili.org/board-meeting-agendas/",
+"Board Meeting Agendas"
+],
+[
+"https://homedale.lili.org/about-us/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://homedale.lili.org/board-meeting-agendas/",
+"Board Meeting Agendas"
+],
+[
+"https://homedale.lili.org/events/",
+"View Calendar"
+],
+[
+"https://libraries.idaho.gov/",
+"Idaho Commission for Libraries"
+]
+]
+},
+{
+"id": "ID-L7",
+"name": "Glenns Ferry Library",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-L8",
+"name": "Ririe Library",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-L9",
+"name": "Bruneau Library",
+"state": "ID",
+"url": "https://bruneau.lili.org/",
+"status": 200,
+"final": "https://bruneau.lili.org/",
+"error": null,
+"title": "Bruneau Valley Library",
+"name_hits": [
+"bruneau"
+],
+"name_toks": [
+"bruneau"
+],
+"state_hit": true,
+"parked": false,
+"words": 105,
+"links": [
+[
+"https://libraries.idaho.gov/",
+"Idaho Commission for Libraries"
+]
+]
+},
+{
+"id": "ID-L10",
+"name": "Council Library",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-L11",
+"name": "Horseshoe Bend Library",
+"state": "ID",
+"url": "https://horseshoebend.lili.org/",
+"status": 200,
+"final": "https://horseshoebend.lili.org/",
+"error": null,
+"title": "Horseshoe Bend District Library",
+"name_hits": [
+"horseshoe",
+"bend"
+],
+"name_toks": [
+"horseshoe",
+"bend"
+],
+"state_hit": true,
+"parked": false,
+"words": 138,
+"links": [
+[
+"https://horseshoebend.lili.org/about-us/board-of-trustees/",
+"Board of Trustees"
+],
+[
+"https://horseshoebend.lili.org/agenda/",
+"Agenda"
+],
+[
+"https://horseshoebend.lili.org/meeting-minutes/",
+"Minutes"
+],
+[
+"https://horseshoebend.lili.org/agenda/",
+"https://horseshoebend.lili.org/agenda/"
+],
+[
+"https://horseshoebend.lili.org/meeting-minutes/",
+"https://horseshoebend.lili.org/meeting-minutes/"
+],
+[
+"https://libraries.idaho.gov",
+"Idaho Commission for Libraries"
+]
+]
+},
+{
+"id": "ID-L12",
+"name": "Lost Rivers Library",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-L13",
+"name": "Parma Library",
+"state": "ID",
+"status": "notfound"
+},
+{
+"id": "ID-L14",
+"name": "Oneida Library",
+"state": "ID",
+"url": "https://www.oneidacountylibrary.org/",
+"status": 200,
+"final": "https://www.oneidacountylibrary.org/",
+"error": null,
+"title": "Home | Oneida County Librar",
+"name_hits": [
+"oneida"
+],
+"name_toks": [
+"oneida"
+],
+"state_hit": true,
+"parked": false,
+"words": 337,
+"links": [
+[
+"https://www.oneidacountylibrary.org",
+"Calendar"
+],
+[
+"https://www.oneidacountylibrary.org",
+"Calendar"
+],
+[
+"https://www.oneidacountylibrary.org/governance",
+"Governance"
+]
+]
+},
+{
+"id": "ID-L15",
+"name": "Carey Library",
+"state": "ID",
+"status": "notfound"
+}
+]
+}
