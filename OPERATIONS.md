@@ -60,6 +60,13 @@ November 2026).
   `site/fonts/OFL.txt`), not from Google, so no visitor data goes to a font host.
 
 - `site/sitemap.xml`: add a line when you add a page.
+- Spanish pages live in `site/es/`, with the same file names as the English pages
+  (the About page is `es/acerca.html`). When you change an English page, change its
+  Spanish twin too, and have a fluent speaker check the Spanish. Each pair links to
+  the other ("Español" / "English") and lists both in `hreflang` tags. A new page
+  needs both, plus a sitemap line for each. The shared scripts (`app.js`,
+  `hearings.js`, `coverage.js`, `reps.js`, `districts.js`, `local.js`) read
+  `<html lang>` and keep their Spanish text next to the English.
 - `site/data/local.json`: county and city links for the "Near you" boxes.
 
 ## Accounts and renewals

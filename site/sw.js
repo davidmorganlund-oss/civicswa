@@ -1,8 +1,8 @@
 // CivicsWA service worker. Network first for everything, so people always
 // see tonight's refresh when they're online; the last copy is kept so the
 // app still opens, with the meetings it last loaded, when they're offline.
-var CACHE = 'civicswa-v7';
-var SHELL = ['/', '/index.html', '/hearings.html', '/styles.css', '/app.js', '/hearings.js', '/local.js', '/pwa.js', '/spotlight.js',
+var CACHE = 'civicswa-v8';
+var SHELL = ['/', '/index.html', '/hearings.html', '/es/', '/es/index.html', '/es/hearings.html', '/styles.css', '/app.js', '/hearings.js', '/local.js', '/pwa.js', '/spotlight.js',
   '/data/calendar.json', '/fonts/montserrat-latin-wght-normal.woff2', '/icons/icon-192.png', '/barnone-phoenix.png'];
 
 self.addEventListener('install', function (event) {
@@ -33,7 +33,11 @@ self.addEventListener('fetch', function (event) {
   }).catch(function () {
     return caches.match(req, { ignoreSearch: req.mode === 'navigate' }).then(function (hit) {
       if (hit) return hit;
-      if (req.mode === 'navigate') return caches.match('/index.html');
+      // Offline on a Spanish page: fall back to the Spanish calendar.
+      if (req.mode === 'navigate') {
+        if (url.pathname.indexOf('/es/') !== 0) return caches.match('/index.html');
+        return caches.match('/es/index.html').then(function (es) { return es || caches.match('/index.html'); });
+      }
       return Response.error();
     });
   }));
