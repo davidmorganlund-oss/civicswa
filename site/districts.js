@@ -72,7 +72,7 @@
     PKR: { label: 'Parks and recreation', name: function (n, c) { return c + ' County Park and Recreation District No. ' + n; },
       note: 'Elected commissioners run local parks and recreation programs.' },
     CEM: { label: 'Cemetery', name: function (n, c) { return c + ' County Cemetery District No. ' + n; },
-      note: 'Commissioners appointed by the county look after local cemeteries.' },
+      note: 'Elected commissioners look after local cemeteries.' },
     AIR: { label: 'Airport', name: function (n, c) { return c + ' County airport district'; },
       note: 'Runs a local public airport.' },
     FLD: { label: 'Flood control', name: function (n, c) { return c + ' County flood control district'; },
