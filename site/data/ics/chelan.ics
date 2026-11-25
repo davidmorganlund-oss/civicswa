@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Chelan County
 BEGIN:VEVENT
 UID:c3a46fc00c7c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261124T170000Z
 DTEND:20261124T180000Z
 SUMMARY:Board of County Commissioners (Chelan County)
@@ -13,7 +13,7 @@ URL:https://www.co.chelan.wa.us/board-of-commissioners/pages/weekly-commissioner
 END:VEVENT
 BEGIN:VEVENT
 UID:8697219f6b15@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261125T011500Z
 DTEND:20261125T021500Z
 SUMMARY:City Council Meeting (City of Chelan)
@@ -22,7 +22,7 @@ URL:https://chelanwa.portal.civicclerk.com/event/3240/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:92c3d3c09669@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261130T170000Z
 DTEND:20261130T180000Z
 SUMMARY:Board of County Commissioners (Chelan County)
@@ -31,7 +31,7 @@ URL:https://www.co.chelan.wa.us/board-of-commissioners/pages/weekly-commissioner
 END:VEVENT
 BEGIN:VEVENT
 UID:5508c677e048@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261201T003000Z
 DTEND:20261201T020000Z
 SUMMARY:Board of Directors Meeting (Manson School District)
@@ -40,7 +40,7 @@ URL:http://www.manson.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:2b9ce51ff000@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261201T170000Z
 DTEND:20261201T180000Z
 SUMMARY:Board of County Commissioners (Chelan County)
@@ -49,7 +49,7 @@ URL:https://www.co.chelan.wa.us/board-of-commissioners/pages/weekly-commissioner
 END:VEVENT
 BEGIN:VEVENT
 UID:5c31b75f05d0@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T011500Z
 DTEND:20261202T021500Z
 SUMMARY:City Council Workshop (City of Chelan)
@@ -58,7 +58,7 @@ URL:https://chelanwa.portal.civicclerk.com/event/3241/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:63bedd41bfd9@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261207T150000Z
 DTEND:20261207T160000Z
 SUMMARY:School Board Work Session (Cashmere School District)
@@ -67,7 +67,7 @@ URL:https://www.cashmere.wednet.edu/
 END:VEVENT
 BEGIN:VEVENT
 UID:218736460642@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261207T170000Z
 DTEND:20261207T180000Z
 SUMMARY:Board of County Commissioners (Chelan County)
@@ -76,7 +76,7 @@ URL:https://www.co.chelan.wa.us/board-of-commissioners/pages/weekly-commissioner
 END:VEVENT
 BEGIN:VEVENT
 UID:5bef654fe7c0@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261208T170000Z
 DTEND:20261208T180000Z
 SUMMARY:Board of County Commissioners (Chelan County)
@@ -85,7 +85,7 @@ URL:https://www.co.chelan.wa.us/board-of-commissioners/pages/weekly-commissioner
 END:VEVENT
 BEGIN:VEVENT
 UID:d8043614fda5@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T011500Z
 DTEND:20261209T021500Z
 SUMMARY:City Council Meeting (City of Chelan)
@@ -94,7 +94,7 @@ URL:https://chelanwa.portal.civicclerk.com/event/3242/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2587d691af0a@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261210T003000Z
 DTEND:20261210T020000Z
 SUMMARY:Board of Directors Meeting (Manson School District)
@@ -103,7 +103,7 @@ URL:http://www.manson.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:7c7a454df190@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261214T170000Z
 DTEND:20261214T180000Z
 SUMMARY:Board of County Commissioners (Chelan County)
@@ -112,7 +112,7 @@ URL:https://www.co.chelan.wa.us/board-of-commissioners/pages/weekly-commissioner
 END:VEVENT
 BEGIN:VEVENT
 UID:a417476985f1@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261215T030000Z
 DTEND:20261215T050000Z
 SUMMARY:School Board Meeting (Cascade School District)
@@ -121,7 +121,7 @@ URL:http://www.cascadesd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:929a5de0e9dc@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261215T170000Z
 DTEND:20261215T180000Z
 SUMMARY:Board of County Commissioners (Chelan County)
@@ -130,7 +130,7 @@ URL:https://www.co.chelan.wa.us/board-of-commissioners/pages/weekly-commissioner
 END:VEVENT
 BEGIN:VEVENT
 UID:fcf6c48b8643@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261217T210000Z
 DTEND:20261217T220000Z
 SUMMARY:Library Board of Trustees (NCW Libraries (North Central Regional Library))
@@ -139,7 +139,7 @@ URL:https://www.ncwlibraries.org/boardoftrustees/
 END:VEVENT
 BEGIN:VEVENT
 UID:7e751313bb2d@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261221T170000Z
 DTEND:20261221T180000Z
 SUMMARY:Board of County Commissioners (Chelan County)
@@ -148,7 +148,7 @@ URL:https://www.co.chelan.wa.us/board-of-commissioners/pages/weekly-commissioner
 END:VEVENT
 BEGIN:VEVENT
 UID:08e13fddfcc6@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261222T020000Z
 DTEND:20261222T030000Z
 SUMMARY:School Board Meeting (Cashmere School District)
@@ -157,7 +157,7 @@ URL:https://www.cashmere.wednet.edu/
 END:VEVENT
 BEGIN:VEVENT
 UID:3333b81109b4@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261222T170000Z
 DTEND:20261222T180000Z
 SUMMARY:Board of County Commissioners (Chelan County)
@@ -166,7 +166,7 @@ URL:https://www.co.chelan.wa.us/board-of-commissioners/pages/weekly-commissioner
 END:VEVENT
 BEGIN:VEVENT
 UID:fd666417460f@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261228T170000Z
 DTEND:20261228T180000Z
 SUMMARY:Board of County Commissioners (Chelan County)
@@ -175,7 +175,7 @@ URL:https://www.co.chelan.wa.us/board-of-commissioners/pages/weekly-commissioner
 END:VEVENT
 BEGIN:VEVENT
 UID:09c7d6a7c9e4@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261229T170000Z
 DTEND:20261229T180000Z
 SUMMARY:Board of County Commissioners (Chelan County)
@@ -184,7 +184,7 @@ URL:https://www.co.chelan.wa.us/board-of-commissioners/pages/weekly-commissioner
 END:VEVENT
 BEGIN:VEVENT
 UID:578234a8ecf4@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270104T150000Z
 DTEND:20270104T160000Z
 SUMMARY:School Board Work Session (Cashmere School District)
@@ -193,7 +193,7 @@ URL:https://www.cashmere.wednet.edu/
 END:VEVENT
 BEGIN:VEVENT
 UID:303475740f51@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270104T170000Z
 DTEND:20270104T180000Z
 SUMMARY:Board of County Commissioners (Chelan County)
@@ -202,7 +202,7 @@ URL:https://www.co.chelan.wa.us/board-of-commissioners/pages/weekly-commissioner
 END:VEVENT
 BEGIN:VEVENT
 UID:3040848f9b59@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270105T170000Z
 DTEND:20270105T180000Z
 SUMMARY:Board of County Commissioners (Chelan County)
@@ -211,7 +211,7 @@ URL:https://www.co.chelan.wa.us/board-of-commissioners/pages/weekly-commissioner
 END:VEVENT
 BEGIN:VEVENT
 UID:d7bf1f6461de@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270111T170000Z
 DTEND:20270111T180000Z
 SUMMARY:Board of County Commissioners (Chelan County)
@@ -220,7 +220,7 @@ URL:https://www.co.chelan.wa.us/board-of-commissioners/pages/weekly-commissioner
 END:VEVENT
 BEGIN:VEVENT
 UID:00a3b7d3ab6d@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270112T030000Z
 DTEND:20270112T050000Z
 SUMMARY:School Board Meeting (Cascade School District)
@@ -229,7 +229,7 @@ URL:http://www.cascadesd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:04b677e4348b@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270112T170000Z
 DTEND:20270112T180000Z
 SUMMARY:Board of County Commissioners (Chelan County)
@@ -238,7 +238,7 @@ URL:https://www.co.chelan.wa.us/board-of-commissioners/pages/weekly-commissioner
 END:VEVENT
 BEGIN:VEVENT
 UID:f85afb0b2b17@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270119T170000Z
 DTEND:20270119T180000Z
 SUMMARY:Board of County Commissioners (Chelan County)
@@ -247,7 +247,7 @@ URL:https://www.co.chelan.wa.us/board-of-commissioners/pages/weekly-commissioner
 END:VEVENT
 BEGIN:VEVENT
 UID:8033ee8535a7@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270120T020000Z
 DTEND:20270120T030000Z
 SUMMARY:School Board Meeting (Cashmere School District)
@@ -256,7 +256,7 @@ URL:https://www.cashmere.wednet.edu/
 END:VEVENT
 BEGIN:VEVENT
 UID:9118462bfcf1@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270121T210000Z
 DTEND:20270121T220000Z
 SUMMARY:Library Board of Trustees (NCW Libraries (North Central Regional Library))

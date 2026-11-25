@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA King County
 BEGIN:VEVENT
 UID:b33675ce16bd@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261124T173000Z
 DTEND:20261124T183000Z
 SUMMARY:CANCELLED: Public Safety Committee (City of Seattle)
@@ -13,7 +13,7 @@ URL:https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6927&GID=393&G=FFE3B67
 END:VEVENT
 BEGIN:VEVENT
 UID:8c52da5a4a7c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261124T173000Z
 DTEND:20261124T183000Z
 SUMMARY:CANCELLED: Committee of the Whole (King County)
@@ -22,7 +22,7 @@ URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12846&GID=111&G=D64
 END:VEVENT
 BEGIN:VEVENT
 UID:0c44e9a6114c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261124T180000Z
 DTEND:20261124T190000Z
 SUMMARY:Metropolitan King County Council (King County)
@@ -30,8 +30,17 @@ LOCATION:Hybrid Meeting
 URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12853&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59
 END:VEVENT
 BEGIN:VEVENT
+UID:c00899fe5a1d@civicswa
+DTSTAMP:20261125T075936Z
+DTSTART:20261124T210000Z
+DTEND:20261124T220000Z
+SUMMARY:Civil Service Commission Special Meeting (City of Mercer Island)
+LOCATION:
+URL:https://mercerislandwa.portal.civicclerk.com/event/1532/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:25ec8c5d0591@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261124T220000Z
 DTEND:20261124T230000Z
 SUMMARY:CANCELLED: City Council (City of Seattle)
@@ -40,7 +49,7 @@ URL:https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6932&GID=393&G=FFE3B67
 END:VEVENT
 BEGIN:VEVENT
 UID:966115260cda@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261125T000000Z
 DTEND:20261125T010000Z
 SUMMARY:Board Work Study (Riverview School District)
@@ -49,7 +58,7 @@ URL:https://rsd407.community.diligentoneplatform.com/Portal/MeetingInformation.a
 END:VEVENT
 BEGIN:VEVENT
 UID:f47b34105014@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261125T003000Z
 DTEND:20261125T013000Z
 SUMMARY:CANCELLED: Committee of the Whole - Parks and Environmental Sustainability (City of Redmond)
@@ -58,7 +67,7 @@ URL:https://redmond.legistar.com/MeetingDetail.aspx?LEGID=3286&GID=652&G=4D25B8F
 END:VEVENT
 BEGIN:VEVENT
 UID:6a2978c2c412@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261125T010000Z
 DTEND:20261125T020000Z
 SUMMARY:Finance\, Economic Development and Regional Affairs Committee (City of Federal Way)
@@ -66,17 +75,8 @@ LOCATION:Federal Way City Hall\, 33325 8th Ave. S.
 URL:https://www.federalwaywa.gov/page/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
-UID:0d1295584a7b@civicswa
-DTSTAMP:20261124T201402Z
-DTSTART:20261125T010000Z
-DTEND:20261125T020000Z
-SUMMARY:Board of Fire Commissioners Meeting - November 2026 (South King Fire)
-LOCATION:Station 68\, 1405 SW 312 St\, Federal Way\, WA\, 98023\, United States
-URL:https://www.southkingfire.org/event/board-of-fire-commissioners-meeting-november-2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:1bfce6340066@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261125T020000Z
 DTEND:20261125T030000Z
 SUMMARY:CANCELLED: City Council Regular Meeting (City of Bellevue)
@@ -85,7 +85,7 @@ URL:https://bellevue.legistar.com/MeetingDetail.aspx?LEGID=2908&GID=437&G=AFBA31
 END:VEVENT
 BEGIN:VEVENT
 UID:5adfb43569b4@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261125T020000Z
 DTEND:20261125T030000Z
 SUMMARY:CANCELLED: Council Study Session (City of Clyde Hill)
@@ -94,7 +94,7 @@ URL:https://clydehill.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=443
 END:VEVENT
 BEGIN:VEVENT
 UID:eacf5ba7bb0b@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261125T020000Z
 DTEND:20261125T030000Z
 SUMMARY:City Council Regular Meeting (City of SeaTac)
@@ -103,7 +103,7 @@ URL:https://www.seatacwa.gov/Council-and-departments/City-Council/Upcoming-Counc
 END:VEVENT
 BEGIN:VEVENT
 UID:0b52f53745ca@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261125T020000Z
 DTEND:20261125T030000Z
 SUMMARY:Board of Directors (Riverview School District)
@@ -112,16 +112,16 @@ URL:https://rsd407.community.diligentoneplatform.com/Portal/MeetingInformation.a
 END:VEVENT
 BEGIN:VEVENT
 UID:db9a6fca2335@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261125T020000Z
 DTEND:20261125T040000Z
-SUMMARY:Board of Directors Regular Board Meeting (Tukwila School District)
+SUMMARY:CANCELLED: Board of Directors Regular Board Meeting (Tukwila School District)
 LOCATION:In Person and Virtually
 URL:https://www.tukwilaschools.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:934ed2a1c309@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261125T030000Z
 DTEND:20261125T040000Z
 SUMMARY:CANCELLED: City Council Workstudy (City of North Bend)
@@ -130,7 +130,7 @@ URL:https://northbendwa.portal.civicclerk.com/event/94/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:11fa4c47b4b9@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261125T030000Z
 DTEND:20261125T040000Z
 SUMMARY:CANCELLED: City Council (City of Redmond)
@@ -139,7 +139,7 @@ URL:https://redmond.legistar.com/MeetingDetail.aspx?LEGID=3285&GID=652&G=4D25B8F
 END:VEVENT
 BEGIN:VEVENT
 UID:bb312171610d@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261125T173000Z
 DTEND:20261125T183000Z
 SUMMARY:CANCELLED: Libraries\, Education\, and Neighborhoods Committee (City of Seattle)
@@ -148,7 +148,7 @@ URL:https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6919&GID=393&G=FFE3B67
 END:VEVENT
 BEGIN:VEVENT
 UID:8d564386279f@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261125T173000Z
 DTEND:20261125T183000Z
 SUMMARY:CANCELLED: Budget and Fiscal Management Committee (King County)
@@ -157,7 +157,7 @@ URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12847&GID=111&G=D64
 END:VEVENT
 BEGIN:VEVENT
 UID:886112fa63f8@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261125T213000Z
 DTEND:20261125T223000Z
 SUMMARY:CANCELLED: Employment and Administration Committee (King County)
@@ -166,7 +166,7 @@ URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12818&GID=111&G=D64
 END:VEVENT
 BEGIN:VEVENT
 UID:ed46bcc96c13@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261125T220000Z
 DTEND:20261125T230000Z
 SUMMARY:CANCELLED: Housing\, Arts\, and Civil Rights Committee (City of Seattle)
@@ -175,7 +175,7 @@ URL:https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6926&GID=393&G=FFE3B67
 END:VEVENT
 BEGIN:VEVENT
 UID:89c4c857d322@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261126T013000Z
 DTEND:20261126T023000Z
 SUMMARY:CANCELLED: Civil Service Commission (City of Kent)
@@ -184,7 +184,7 @@ URL:https://www.kentwa.gov/Home/Components/Calendar/Event/7191/
 END:VEVENT
 BEGIN:VEVENT
 UID:e501e9f3de99@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261126T020000Z
 DTEND:20261126T030000Z
 SUMMARY:CANCELLED: Planning Commission Regular Hybrid Meeting (City of Mercer Island)
@@ -193,7 +193,7 @@ URL:https://mercerislandwa.portal.civicclerk.com/event/1514/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:a47c136de4af@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261126T020000Z
 DTEND:20261126T040000Z
 SUMMARY:CANCELLED: Planning Commission Meeting (City of Newcastle)
@@ -202,7 +202,7 @@ URL:https://newcastlewa.gov/event/planning-commission-meeting-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:f4f83e3bf7b5@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261126T023000Z
 DTEND:20261126T033000Z
 SUMMARY:School Board Meeting (Skykomish School District)
@@ -211,7 +211,7 @@ URL:https://www.skykomish.wednet.edu/
 END:VEVENT
 BEGIN:VEVENT
 UID:6dfacb36330c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261126T030000Z
 DTEND:20261126T040000Z
 SUMMARY:School Board Meeting (Renton School District)
@@ -220,7 +220,7 @@ URL:https://www.rentonschools.us/
 END:VEVENT
 BEGIN:VEVENT
 UID:782cd8cefcd1@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261126T200000Z
 DTEND:20261126T210000Z
 SUMMARY:CANCELLED: Economic Development Commission Meeting (City of North Bend)
@@ -229,7 +229,7 @@ URL:https://northbendwa.portal.civicclerk.com/event/182/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8406f0a2e2f6@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261127T020000Z
 DTEND:20261127T030000Z
 SUMMARY:Planning Commission (City of Kirkland)
@@ -238,7 +238,7 @@ URL:https://kirklandwa.primegov.com/public/portal
 END:VEVENT
 BEGIN:VEVENT
 UID:e89bad06391e@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261130T210000Z
 DTEND:20261130T220000Z
 SUMMARY:Operations Committee (Seattle Public Schools)
@@ -247,7 +247,7 @@ URL:https://seattlepublicschools.community.diligentoneplatform.com/Portal/Meetin
 END:VEVENT
 BEGIN:VEVENT
 UID:bb48d6cd112a@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261130T213000Z
 DTEND:20261130T223000Z
 SUMMARY:Employment and Administration Committee (King County)
@@ -256,7 +256,7 @@ URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12854&GID=111&G=D64
 END:VEVENT
 BEGIN:VEVENT
 UID:bb0f2007b93c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261130T220000Z
 DTEND:20261130T230000Z
 SUMMARY:Pre-Meeting Questions and Board Planning (Bellevue School District)
@@ -265,7 +265,7 @@ URL:https://bsd405.community.diligentoneplatform.com/Portal/MeetingInformation.a
 END:VEVENT
 BEGIN:VEVENT
 UID:a716d301317c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261130T220000Z
 DTEND:20261130T230000Z
 SUMMARY:CANCELLED: Council Briefing (City of Seattle)
@@ -274,7 +274,7 @@ URL:https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6929&GID=393&G=FFE3B67
 END:VEVENT
 BEGIN:VEVENT
 UID:1f3c86eee3fb@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261201T013000Z
 DTEND:20261201T023000Z
 SUMMARY:City Council Special Meeting (City of Sammamish)
@@ -283,7 +283,7 @@ URL:https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4
 END:VEVENT
 BEGIN:VEVENT
 UID:77aa0121c54e@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261201T014500Z
 DTEND:20261201T030000Z
 SUMMARY:Bicycle Advisory Board (City of Kent)
@@ -292,7 +292,7 @@ URL:https://www.kentwa.gov/Home/Components/Calendar/Event/7171/
 END:VEVENT
 BEGIN:VEVENT
 UID:3005b83510fe@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261201T030000Z
 DTEND:20261201T040000Z
 SUMMARY:City Council Regular Meeting (City of Shoreline)
@@ -301,7 +301,7 @@ URL:https://www.shorelinewa.gov/government/council-meetings
 END:VEVENT
 BEGIN:VEVENT
 UID:e7b2a9bfeb9f@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261201T030000Z
 DTEND:20261201T040000Z
 SUMMARY:City Council Special Meeting (City of Snoqualmie)
@@ -310,7 +310,7 @@ URL:https://snoqualmiewa.portal.civicclerk.com/event/949/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:69be03f9249a@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261201T173000Z
 DTEND:20261201T183000Z
 SUMMARY:CANCELLED: Finance\, Native Communities\, and Tribal Governments Committee (City of Seattle)
@@ -318,8 +318,26 @@ LOCATION:Council Chamber\, City Hall 600 4th Avenue Seattle\, WA 98104
 URL:https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6930&GID=393&G=FFE3B678-CEF6-4197-84AC-5204EA4CFC0C
 END:VEVENT
 BEGIN:VEVENT
+UID:af7e0af5e3da@civicswa
+DTSTAMP:20261125T075936Z
+DTSTART:20261201T173000Z
+DTEND:20261201T183000Z
+SUMMARY:Health\, Housing\, and Human Services Committee (King County)
+LOCATION:Hybrid Meeting
+URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12815&GID=111&G=D64F10C7-C196-4013-ABF6-0DA49839DE59
+END:VEVENT
+BEGIN:VEVENT
+UID:6c711c2ba498@civicswa
+DTSTAMP:20261125T075936Z
+DTSTART:20261201T180000Z
+DTEND:20261201T190000Z
+SUMMARY:LEOFF Board Meeting 12-01-2026 (City of Auburn)
+LOCATION:25 W Main St\, Auburn
+URL:https://auburnwa.portal.civicclerk.com/event/2412/overview
+END:VEVENT
+BEGIN:VEVENT
 UID:b1d6476431f0@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261201T200000Z
 DTEND:20261201T210000Z
 SUMMARY:Metropolitan King County Council (King County)
@@ -328,7 +346,7 @@ URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12863&GID=111&G=D64
 END:VEVENT
 BEGIN:VEVENT
 UID:42ded595a7cd@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261201T200000Z
 DTEND:20261201T210000Z
 SUMMARY:Finance & Audit Committee (Seattle Public Schools)
@@ -337,7 +355,7 @@ URL:https://seattlepublicschools.community.diligentoneplatform.com/Portal/Meetin
 END:VEVENT
 BEGIN:VEVENT
 UID:e0b7ad6f8a17@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261201T223000Z
 DTEND:20261201T233000Z
 SUMMARY:Finance and Administration Committee Meeting (City of North Bend)
@@ -346,7 +364,7 @@ URL:https://northbendwa.portal.civicclerk.com/event/30/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:37725be74806@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261201T230000Z
 DTEND:20261202T000000Z
 SUMMARY:City Council Special Meeting (City of Sammamish)
@@ -354,8 +372,17 @@ LOCATION:801 228th Ave SE
 URL:https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4995
 END:VEVENT
 BEGIN:VEVENT
+UID:4172455f4bf4@civicswa
+DTSTAMP:20261125T075936Z
+DTSTART:20261202T000000Z
+DTEND:20261202T011500Z
+SUMMARY:CANCELLED: Committee of the Whole (City of Kent)
+LOCATION:
+URL:https://www.kentwa.gov/Home/Components/Calendar/Event/7381/
+END:VEVENT
+BEGIN:VEVENT
 UID:85142143ed78@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T000000Z
 DTEND:20261202T020000Z
 SUMMARY:Parks and Recreation Advisory Board Meeting (hybrid meeting) (City of Lake Forest Park)
@@ -364,7 +391,7 @@ URL:https://www.cityoflfp.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:e87066de3ebe@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T000000Z
 DTEND:20261202T010000Z
 SUMMARY:Public Health and Safety Committee Meeting (City of North Bend)
@@ -373,7 +400,7 @@ URL:https://northbendwa.portal.civicclerk.com/event/138/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7f06c9348f9f@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T010000Z
 DTEND:20261202T020000Z
 SUMMARY:City Council Regular Hybrid Meeting (City of Mercer Island)
@@ -381,8 +408,26 @@ LOCATION:8236 SE 24th St\, Mercer Island
 URL:https://mercerislandwa.portal.civicclerk.com/event/1250/overview
 END:VEVENT
 BEGIN:VEVENT
+UID:3ed3a440bd7e@civicswa
+DTSTAMP:20261125T075936Z
+DTSTART:20261202T010000Z
+DTEND:20261202T013000Z
+SUMMARY:Special Board Meeting (Tukwila School District)
+LOCATION:Virtual
+URL:https://www.tukwilaschools.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:b345a7ca81fa@civicswa
+DTSTAMP:20261125T075936Z
+DTSTART:20261202T011600Z
+DTEND:20261202T030000Z
+SUMMARY:CANCELLED: City Council Workshop (City of Kent)
+LOCATION:
+URL:https://www.kentwa.gov/Home/Components/Calendar/Event/7395/
+END:VEVENT
+BEGIN:VEVENT
 UID:dd5fac80a0af@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T013000Z
 DTEND:20261202T030000Z
 SUMMARY:Committee of the Whole Workshop (City of Duvall)
@@ -391,7 +436,7 @@ URL:https://duvallwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:f81d3ec79fb7@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T013000Z
 DTEND:20261202T023000Z
 SUMMARY:CANCELLED: City Council Work Session (City of Sammamish)
@@ -400,7 +445,7 @@ URL:https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4
 END:VEVENT
 BEGIN:VEVENT
 UID:4e9bb7929f05@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T020000Z
 DTEND:20261202T030000Z
 SUMMARY:CANCELLED: City Council Regular Meeting (City of Bellevue)
@@ -409,7 +454,7 @@ URL:https://bellevue.legistar.com/MeetingDetail.aspx?LEGID=3041&GID=437&G=AFBA31
 END:VEVENT
 BEGIN:VEVENT
 UID:79885672c823@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T020000Z
 DTEND:20261202T075900Z
 SUMMARY:City Council Regular Meeting (City of Bothell)
@@ -418,7 +463,7 @@ URL:https://www.bothellwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:e74e8a81d9c5@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T020000Z
 DTEND:20261202T030000Z
 SUMMARY:Planning Commission (City of Des Moines)
@@ -427,7 +472,7 @@ URL:https://desmoineswa.portal.civicclerk.com/event/5193/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:748c959a909f@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T023000Z
 DTEND:20261202T033000Z
 SUMMARY:City Council Regular Meeting (City of Federal Way)
@@ -436,7 +481,7 @@ URL:https://www.federalwaywa.gov/page/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
 UID:41428039667d@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T023000Z
 DTEND:20261202T033000Z
 SUMMARY:City Council Planning\, Development & Environment Committee (City of Issaquah)
@@ -445,16 +490,16 @@ URL:https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=2153
 END:VEVENT
 BEGIN:VEVENT
 UID:9b31fad3d43e@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T023000Z
 DTEND:20261202T033000Z
 SUMMARY:City Council Regular Meeting (City of Sammamish)
-LOCATION:801 228th Ave SE\, Sammamish WA
+LOCATION:801 228th Ave SE\, Sammamish\, WA
 URL:https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4964
 END:VEVENT
 BEGIN:VEVENT
 UID:e02b6e69a80c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T030000Z
 DTEND:20261202T075900Z
 SUMMARY:City Council Meeting (City of Black Diamond)
@@ -463,7 +508,7 @@ URL:https://www.blackdiamondwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:afb1db518c8c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T030000Z
 DTEND:20261202T053000Z
 SUMMARY:Duvall City Council Meeting (City of Duvall)
@@ -472,7 +517,7 @@ URL:https://duvallwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:0b5a82071128@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T030000Z
 DTEND:20261202T040000Z
 SUMMARY:Planning Commission Meeting (City of Kenmore)
@@ -481,7 +526,7 @@ URL:https://kenmorewa.portal.civicclerk.com/event/1805/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ae153d09b535@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T030000Z
 DTEND:20261202T060000Z
 SUMMARY:City Council Meeting (City of Newcastle)
@@ -490,7 +535,7 @@ URL:https://newcastlewa.gov/event/city-council-meeting-4/2026-12-01/
 END:VEVENT
 BEGIN:VEVENT
 UID:e6665f3b4f57@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T030000Z
 DTEND:20261202T040000Z
 SUMMARY:City Council Meeting (City of North Bend)
@@ -499,7 +544,7 @@ URL:https://northbendwa.portal.civicclerk.com/event/14/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f7d4bdd5435e@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART;VALUE=DATE:20261202
 SUMMARY:Central Puget Sound Economic Development District Board (Puget Sound Regional Council)
 LOCATION:
@@ -507,7 +552,7 @@ URL:https://psrc2.granicus.com/AgendaViewer.php?view_id=1&event_id=856
 END:VEVENT
 BEGIN:VEVENT
 UID:e9c5b94f2e1b@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T173000Z
 DTEND:20261202T183000Z
 SUMMARY:CANCELLED: Law and Justice Committee (King County)
@@ -516,7 +561,7 @@ URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12839&GID=111&G=D64
 END:VEVENT
 BEGIN:VEVENT
 UID:a9d601b7cf0e@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T213000Z
 DTEND:20261202T223000Z
 SUMMARY:CANCELLED: King County Flood Control District Executive Committee (King County)
@@ -525,7 +570,7 @@ URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12851&GID=111&G=D64
 END:VEVENT
 BEGIN:VEVENT
 UID:909793c5d598@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T220000Z
 DTEND:20261202T230000Z
 SUMMARY:CANCELLED: Parks and City Light Committee (City of Seattle)
@@ -534,7 +579,7 @@ URL:https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6935&GID=393&G=FFE3B67
 END:VEVENT
 BEGIN:VEVENT
 UID:85a72bb2b452@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261202T230000Z
 DTEND:20261203T000000Z
 SUMMARY:Regional Water Quality Committee (King County)
@@ -543,7 +588,7 @@ URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12858&GID=111&G=D64
 END:VEVENT
 BEGIN:VEVENT
 UID:e53f1db931cd@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261203T000000Z
 DTEND:20261203T010000Z
 SUMMARY:Arts Commission Meeting (City of Enumclaw)
@@ -552,7 +597,7 @@ URL:https://cityofenumclaw.net/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:132f7ff6589c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261203T003000Z
 DTEND:20261203T013000Z
 SUMMARY:Board Special Meeting (Seattle Public Schools)
@@ -561,7 +606,7 @@ URL:https://seattlepublicschools.community.diligentoneplatform.com/Portal/Meetin
 END:VEVENT
 BEGIN:VEVENT
 UID:4719443059e0@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261203T010000Z
 DTEND:20261203T020000Z
 SUMMARY:Civil Service Commission Meeting (City of Snoqualmie)
@@ -570,16 +615,16 @@ URL:https://snoqualmiewa.portal.civicclerk.com/event/1015/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:66d0aca97ad5@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261203T020000Z
 DTEND:20261203T050000Z
-SUMMARY:Hybrid Planning Commission Meeting (City of Bothell)
+SUMMARY:CANCELLED: Hybrid Planning Commission Meeting (City of Bothell)
 LOCATION:City Hall > Council Chambers - 18415 101st Avenue NE Bothell WA 98011
 URL:https://www.bothellwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:c60d4119119f@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261203T020000Z
 DTEND:20261203T033000Z
 SUMMARY:Library Board Meeting (City of Duvall)
@@ -588,7 +633,7 @@ URL:https://duvallwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:ca77dc58799f@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261203T020000Z
 DTEND:20261203T030000Z
 SUMMARY:BESS Subcommittee (City of Enumclaw)
@@ -597,7 +642,7 @@ URL:https://cityofenumclaw.net/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:f7a253af4d3a@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261203T020000Z
 DTEND:20261203T030000Z
 SUMMARY:Library Advisory Board Meeting (City of Enumclaw)
@@ -606,7 +651,7 @@ URL:https://cityofenumclaw.net/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:7feca5f843e3@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261203T020000Z
 DTEND:20261203T030000Z
 SUMMARY:Equity Board (City of Issaquah)
@@ -615,7 +660,7 @@ URL:https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=2148
 END:VEVENT
 BEGIN:VEVENT
 UID:d73f17c46bce@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261203T020000Z
 DTEND:20261203T030000Z
 SUMMARY:Transportation Advisory Board - Special Meeting (City of Issaquah)
@@ -624,7 +669,7 @@ URL:https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=2176
 END:VEVENT
 BEGIN:VEVENT
 UID:909f84e0ba80@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261203T023000Z
 DTEND:20261203T033000Z
 SUMMARY:Parks\, Recreation\, and Cultural Arts Advisory Board (City of Burien)
@@ -633,7 +678,7 @@ URL:https://burienwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4605
 END:VEVENT
 BEGIN:VEVENT
 UID:8d9ca342f0bf@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261203T023000Z
 DTEND:20261203T033000Z
 SUMMARY:Planning Commission Meeting (City of North Bend)
@@ -642,7 +687,7 @@ URL:https://northbendwa.portal.civicclerk.com/event/171/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e338ff86c0d4@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261203T023000Z
 DTEND:20261203T033000Z
 SUMMARY:Arts Commission (City of Sammamish)
@@ -651,7 +696,7 @@ URL:https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4
 END:VEVENT
 BEGIN:VEVENT
 UID:40264d661252@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261203T023000Z
 DTEND:20261203T033000Z
 SUMMARY:CANCELLED: Parks & Recreation Commission (City of Sammamish)
@@ -660,7 +705,7 @@ URL:https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4
 END:VEVENT
 BEGIN:VEVENT
 UID:a34e8bfc1134@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261203T030000Z
 DTEND:20261203T050000Z
 SUMMARY:Tree Board Meeting (hybrid meeting) (City of Lake Forest Park)
@@ -669,7 +714,7 @@ URL:https://www.cityoflfp.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:e9a4f931ecae@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Executive Board (Puget Sound Regional Council)
 LOCATION:
@@ -677,7 +722,7 @@ URL:https://psrc2.granicus.com/AgendaViewer.php?view_id=1&event_id=792
 END:VEVENT
 BEGIN:VEVENT
 UID:5b18c7c4848d@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Operations Committee (Puget Sound Regional Council)
 LOCATION:
@@ -685,7 +730,7 @@ URL:https://psrc2.granicus.com/AgendaViewer.php?view_id=1&event_id=731
 END:VEVENT
 BEGIN:VEVENT
 UID:8c9dbbb847f6@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261203T150000Z
 DTEND:20261203T160000Z
 SUMMARY:City Council Special Meeting (City of Issaquah)
@@ -694,7 +739,7 @@ URL:https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=2168
 END:VEVENT
 BEGIN:VEVENT
 UID:ad4f3e4c4bd0@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261203T190000Z
 DTEND:20261204T075900Z
 SUMMARY:Civil Service Commission Meeting (City of Black Diamond)
@@ -703,7 +748,7 @@ URL:https://www.blackdiamondwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:e1faff12231c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261203T200000Z
 DTEND:20261203T210000Z
 SUMMARY:Economic Development Commission Meeting (City of North Bend)
@@ -712,7 +757,7 @@ URL:https://northbendwa.portal.civicclerk.com/event/183/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2e8b0c915927@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261204T003000Z
 DTEND:20261204T013000Z
 SUMMARY:Regular Meeting of the BSD Board of Directors (Bellevue School District)
@@ -721,7 +766,7 @@ URL:https://bsd405.community.diligentoneplatform.com/Portal/MeetingInformation.a
 END:VEVENT
 BEGIN:VEVENT
 UID:8c9a45d703d2@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261204T010000Z
 DTEND:20261204T020000Z
 SUMMARY:City Council Committee of the Whole and Study Session (City of Des Moines)
@@ -730,7 +775,7 @@ URL:https://desmoineswa.portal.civicclerk.com/event/1015/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f7cc28313896@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261204T010000Z
 DTEND:20261204T020000Z
 SUMMARY:CANCELLED: Parks & Recreation Commission Regular Hybrid Meeting (City of Mercer Island)
@@ -739,7 +784,7 @@ URL:https://mercerislandwa.portal.civicclerk.com/event/1515/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:9dce2136865d@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261204T020000Z
 DTEND:20261204T030000Z
 SUMMARY:Planning Commission Special Meeting (City of Clyde Hill)
@@ -748,7 +793,7 @@ URL:https://clydehill.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=445
 END:VEVENT
 BEGIN:VEVENT
 UID:7e623b4bdde3@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261204T023000Z
 DTEND:20261204T033000Z
 SUMMARY:Planning Commission (City of Sammamish)
@@ -757,7 +802,7 @@ URL:https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4
 END:VEVENT
 BEGIN:VEVENT
 UID:2c57c404b77c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261204T170000Z
 DTEND:20261204T180000Z
 SUMMARY:Appeal Hearing APL26-007 (City of Mercer Island)
@@ -766,7 +811,7 @@ URL:https://mercerislandwa.portal.civicclerk.com/event/1530/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:86d3af529f99@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261205T003000Z
 DTEND:20261205T013000Z
 SUMMARY:Council-Administration Interaction Committee (City of Snoqualmie)
@@ -775,7 +820,7 @@ URL:https://snoqualmiewa.portal.civicclerk.com/event/956/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:d1120307bb1d@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261208T010000Z
 DTEND:20261208T020000Z
 SUMMARY:Land Use and Transportation Committee (City of Federal Way)
@@ -784,7 +829,7 @@ URL:https://www.federalwaywa.gov/page/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
 UID:1accb398369b@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261208T010000Z
 DTEND:20261208T020000Z
 SUMMARY:Parks & Rec Commission\, Open Space Conservancy Trust and Arts Council Special Joint Hybrid Meeting (City of Mercer Island)
@@ -793,7 +838,7 @@ URL:https://mercerislandwa.portal.civicclerk.com/event/1516/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:60291a2a68ca@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261208T010000Z
 DTEND:20261208T020000Z
 SUMMARY:Public Safety Commitee Meeting (City of Snoqualmie)
@@ -802,7 +847,7 @@ URL:https://snoqualmiewa.portal.civicclerk.com/event/1012/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:5ea8e60888f5@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261208T010000Z
 DTEND:20261208T020000Z
 SUMMARY:Board Study Session (Lake Washington School District)
@@ -811,7 +856,7 @@ URL:https://lwsd.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&I
 END:VEVENT
 BEGIN:VEVENT
 UID:3e98e0b4501a@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261208T013000Z
 DTEND:20261208T023000Z
 SUMMARY:City Council Regular Meeting (City of Burien)
@@ -820,7 +865,7 @@ URL:https://burienwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4523
 END:VEVENT
 BEGIN:VEVENT
 UID:470c250c59d8@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261208T020000Z
 DTEND:20261208T033000Z
 SUMMARY:Parks Advisory Commission Meeting (City of Duvall)
@@ -829,7 +874,7 @@ URL:https://duvallwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:e1437872de90@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261208T020000Z
 DTEND:20261208T030000Z
 SUMMARY:Community Development Committee Meeting (City of Snoqualmie)
@@ -838,7 +883,7 @@ URL:https://snoqualmiewa.portal.civicclerk.com/event/1009/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2b9cde9492b9@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261208T023000Z
 DTEND:20261208T033000Z
 SUMMARY:Arts Commission - Special Meeting (City of Issaquah)
@@ -847,7 +892,7 @@ URL:https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=2177
 END:VEVENT
 BEGIN:VEVENT
 UID:541b9dc8e05a@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261208T030000Z
 DTEND:20261208T040000Z
 SUMMARY:City Council Regular Meeting (City of Shoreline)
@@ -856,7 +901,7 @@ URL:https://www.shorelinewa.gov/government/council-meetings
 END:VEVENT
 BEGIN:VEVENT
 UID:66821a285c3c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261208T030000Z
 DTEND:20261208T040000Z
 SUMMARY:Planning Commission Meeting (City of Snoqualmie)
@@ -865,7 +910,7 @@ URL:https://snoqualmiewa.portal.civicclerk.com/event/994/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:bc4890a3770a@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261208T030000Z
 DTEND:20261208T040000Z
 SUMMARY:Board Meeting (Lake Washington School District)
@@ -874,7 +919,7 @@ URL:https://lwsd.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&I
 END:VEVENT
 BEGIN:VEVENT
 UID:13be1ebba52b@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261208T151500Z
 DTEND:20261208T161500Z
 SUMMARY:Special Meeting - School Board Visit to Jing Mei Elementary (Bellevue School District)
@@ -883,7 +928,7 @@ URL:https://bsd405.community.diligentoneplatform.com/Portal/MeetingInformation.a
 END:VEVENT
 BEGIN:VEVENT
 UID:dc2113f0e2ac@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261208T213000Z
 DTEND:20261208T223000Z
 SUMMARY:CANCELLED: King County Flood Control District (King County)
@@ -892,7 +937,7 @@ URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12852&GID=111&G=D64
 END:VEVENT
 BEGIN:VEVENT
 UID:f2bfad244801@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T000000Z
 DTEND:20261209T010000Z
 SUMMARY:City Council Study Session (City of SeaTac)
@@ -901,7 +946,7 @@ URL:https://www.seatacwa.gov/Council-and-departments/City-Council/Upcoming-Counc
 END:VEVENT
 BEGIN:VEVENT
 UID:c8250750b2cf@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T000000Z
 DTEND:20261209T010000Z
 SUMMARY:Board Work Study (Riverview School District)
@@ -910,7 +955,7 @@ URL:https://rsd407.community.diligentoneplatform.com/Portal/MeetingInformation.a
 END:VEVENT
 BEGIN:VEVENT
 UID:4a23ec695123@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T003000Z
 DTEND:20261209T013000Z
 SUMMARY:CANCELLED: Committee of the Whole - Finance\, Administration\, and Communications (City of Redmond)
@@ -919,7 +964,7 @@ URL:https://redmond.legistar.com/MeetingDetail.aspx?LEGID=3290&GID=652&G=4D25B8F
 END:VEVENT
 BEGIN:VEVENT
 UID:bac303f703b0@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T010000Z
 DTEND:20261209T020000Z
 SUMMARY:Parks\, Recreation\, Human Services and Public Safety Committee (City of Federal Way)
@@ -928,7 +973,7 @@ URL:https://www.federalwaywa.gov/page/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
 UID:f7a02d42f6c6@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T010000Z
 DTEND:20261209T020000Z
 SUMMARY:Parks and Public Works Committee Meeting (City of Snoqualmie)
@@ -937,7 +982,7 @@ URL:https://snoqualmiewa.portal.civicclerk.com/event/1010/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:1124e60dcacd@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T010000Z
 DTEND:20261209T020000Z
 SUMMARY:School Board Work/Study Session (Federal Way Public Schools)
@@ -946,7 +991,7 @@ URL:https://www.fwps.org/about-us/school-board/board-meeting-schedule
 END:VEVENT
 BEGIN:VEVENT
 UID:09915ddf5569@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T020000Z
 DTEND:20261209T075900Z
 SUMMARY:Council Work Session (City of Black Diamond)
@@ -955,7 +1000,7 @@ URL:https://www.blackdiamondwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:6e5d9fcf35ff@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T020000Z
 DTEND:20261209T075900Z
 SUMMARY:City Council Regular Meeting (City of Bothell)
@@ -964,7 +1009,7 @@ URL:https://www.bothellwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:4bc798256887@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:Council Meeting (City of Clyde Hill)
@@ -973,7 +1018,7 @@ URL:https://clydehill.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=440
 END:VEVENT
 BEGIN:VEVENT
 UID:b31449c1cfc9@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:CANCELLED: Utility Board Regular Hybrid Meeting (City of Mercer Island)
@@ -982,7 +1027,7 @@ URL:https://mercerislandwa.portal.civicclerk.com/event/1517/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:1dea6b16643c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:City Council Regular Meeting (City of SeaTac)
@@ -991,7 +1036,7 @@ URL:https://www.seatacwa.gov/Council-and-departments/City-Council/Upcoming-Counc
 END:VEVENT
 BEGIN:VEVENT
 UID:e802ed53e097@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:Finance and Administration Committee Meeting (City of Snoqualmie)
@@ -1000,7 +1045,7 @@ URL:https://snoqualmiewa.portal.civicclerk.com/event/1013/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:57d7f7c0cfa6@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:Board of Directors (Riverview School District)
@@ -1009,7 +1054,7 @@ URL:https://rsd407.community.diligentoneplatform.com/Portal/MeetingInformation.a
 END:VEVENT
 BEGIN:VEVENT
 UID:827d3d49be53@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T020000Z
 DTEND:20261209T040000Z
 SUMMARY:School Board Regular Meeting (Shoreline School District)
@@ -1018,7 +1063,7 @@ URL:https://www.ssd412.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:281d1c5de542@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T020000Z
 DTEND:20261209T040000Z
 SUMMARY:Board Meeting (Tukwila School District)
@@ -1027,7 +1072,7 @@ URL:https://www.tukwilaschools.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:03958f752631@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T023000Z
 DTEND:20261209T033000Z
 SUMMARY:School Board Regular Meeting (Tahoma School District)
@@ -1036,7 +1081,7 @@ URL:https://www.tahomasd.us/about/school-board
 END:VEVENT
 BEGIN:VEVENT
 UID:5a91865f2a51@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T030000Z
 DTEND:20261209T040000Z
 SUMMARY:City Council Regular Meeting (City of Issaquah)
@@ -1045,7 +1090,7 @@ URL:https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=2159
 END:VEVENT
 BEGIN:VEVENT
 UID:31a3e322a496@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T030000Z
 DTEND:20261209T050000Z
 SUMMARY:Planning Commission Meeting (hybrid meeting) (City of Lake Forest Park)
@@ -1054,7 +1099,7 @@ URL:https://www.cityoflfp.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:08a77eca1d71@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T030000Z
 DTEND:20261209T040000Z
 SUMMARY:CANCELLED: City Council (City of Redmond)
@@ -1063,7 +1108,7 @@ URL:https://redmond.legistar.com/MeetingDetail.aspx?LEGID=3289&GID=652&G=4D25B8F
 END:VEVENT
 BEGIN:VEVENT
 UID:23f168ffbf9b@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T143000Z
 DTEND:20261210T043000Z
 SUMMARY:KSD Board Meeting (Kent School District)
@@ -1072,7 +1117,7 @@ URL:http://www.kent.k12.wa.us/
 END:VEVENT
 BEGIN:VEVENT
 UID:f4d448db7987@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T200000Z
 DTEND:20261209T210000Z
 SUMMARY:Policy Committee (Seattle Public Schools)
@@ -1081,7 +1126,7 @@ URL:https://seattlepublicschools.community.diligentoneplatform.com/Portal/Meetin
 END:VEVENT
 BEGIN:VEVENT
 UID:96d217437e84@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261209T223000Z
 DTEND:20261210T000000Z
 SUMMARY:Notice of Assembly - School Board Listening Session with Staff (Issaquah School District)
@@ -1090,7 +1135,7 @@ URL:https://www.isd411.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:69ee37449641@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261210T000000Z
 DTEND:20261210T075900Z
 SUMMARY:LEOFF 1 Disability Board Meeting (City of Bothell)
@@ -1099,7 +1144,7 @@ URL:https://www.bothellwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:56d15219ea52@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261210T003000Z
 DTEND:20261210T075900Z
 SUMMARY:Special Civil Service Commission Meeting (City of Bothell)
@@ -1108,7 +1153,7 @@ URL:https://www.bothellwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:ff7b99924f3e@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261210T003000Z
 DTEND:20261210T013000Z
 SUMMARY:Human Services Commission (City of Burien)
@@ -1117,7 +1162,7 @@ URL:https://burienwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4594
 END:VEVENT
 BEGIN:VEVENT
 UID:6e63b31cecc7@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261210T013000Z
 DTEND:20261210T023000Z
 SUMMARY:Planning Commission (City of Burien)
@@ -1126,7 +1171,7 @@ URL:https://burienwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4550
 END:VEVENT
 BEGIN:VEVENT
 UID:6170f3e9beaf@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261210T013000Z
 DTEND:20261210T023000Z
 SUMMARY:Park Board Meeting (City of Enumclaw)
@@ -1135,16 +1180,16 @@ URL:https://cityofenumclaw.net/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:2c869b53e8b3@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261210T020000Z
 DTEND:20261210T050000Z
-SUMMARY:Hybrid Landmark Preservation Board Meeting (City of Bothell)
+SUMMARY:CANCELLED: Hybrid Landmark Preservation Board Meeting (City of Bothell)
 LOCATION:City Hall > Council Chambers - 18415 101st Avenue NE Bothell WA 98011
 URL:https://www.bothellwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:65a79b61dcf5@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261210T020000Z
 DTEND:20261210T030000Z
 SUMMARY:Citizens Advisory Board Meeting (City of Des Moines)
@@ -1153,7 +1198,7 @@ URL:https://desmoineswa.portal.civicclerk.com/event/5305/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:fbfe12592d6b@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261210T020000Z
 DTEND:20261210T040000Z
 SUMMARY:Planning Commission Meeting (City of Duvall)
@@ -1162,7 +1207,7 @@ URL:https://duvallwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:e9f18367e0f0@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261210T020000Z
 DTEND:20261210T040000Z
 SUMMARY:Community Activities Commission Meeting (City of Newcastle)
@@ -1171,7 +1216,7 @@ URL:https://newcastlewa.gov/event/community-activities-commission-meeting-2/2026
 END:VEVENT
 BEGIN:VEVENT
 UID:5c1d94752272@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261210T020000Z
 DTEND:20261210T040000Z
 SUMMARY:Regular School Board Meeting (Highline Public Schools)
@@ -1180,7 +1225,7 @@ URL:https://www.highlineschools.org/about/school-board
 END:VEVENT
 BEGIN:VEVENT
 UID:d0ce8c01263f@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261210T023000Z
 DTEND:20261210T033000Z
 SUMMARY:Environmental Board (City of Issaquah)
@@ -1189,7 +1234,7 @@ URL:https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=2177
 END:VEVENT
 BEGIN:VEVENT
 UID:18359b41ffb9@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261210T023000Z
 DTEND:20261210T033000Z
 SUMMARY:School Board Meeting (Skykomish School District)
@@ -1198,7 +1243,7 @@ URL:https://www.skykomish.wednet.edu/
 END:VEVENT
 BEGIN:VEVENT
 UID:46917c9058d7@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261210T030000Z
 DTEND:20261210T040000Z
 SUMMARY:School Board Meeting (Renton School District)
@@ -1206,8 +1251,17 @@ LOCATION:Administration building\, 300 SW 7th St.\, Renton
 URL:https://www.rentonschools.us/
 END:VEVENT
 BEGIN:VEVENT
+UID:e6473b51d3f9@civicswa
+DTSTAMP:20261125T075936Z
+DTSTART:20261210T100000Z
+DTEND:20261210T110000Z
+SUMMARY:CANCELLED: Human Services\, Labor\, and Economic Development Committee (City of Seattle)
+LOCATION:Council Chamber\, City Hall 600 4th Avenue Seattle\, WA 98104
+URL:https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6936&GID=393&G=FFE3B678-CEF6-4197-84AC-5204EA4CFC0C
+END:VEVENT
+BEGIN:VEVENT
 UID:9ec8aa8ccedf@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261210T190000Z
 DTEND:20261210T200000Z
 SUMMARY:Library Board of Trustees (The Seattle Public Library)
@@ -1216,7 +1270,7 @@ URL:https://www.spl.org/about-us/the-organization/leadership/library-board-meeti
 END:VEVENT
 BEGIN:VEVENT
 UID:4b9d2571d15e@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261211T000000Z
 DTEND:20261211T010000Z
 SUMMARY:Finance Committee Meeting (City of Newcastle)
@@ -1225,7 +1279,7 @@ URL:https://newcastlewa.gov/event/finance-committee-meeting-2/2026-12-10/
 END:VEVENT
 BEGIN:VEVENT
 UID:740066b3fd5a@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261211T010000Z
 DTEND:20261211T040000Z
 SUMMARY:MISD Regular School Board Meeting (Mercer Island School District)
@@ -1234,7 +1288,7 @@ URL:https://www.mercerislandschools.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:4e5a2934a8f4@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261211T010000Z
 DTEND:20261211T020000Z
 SUMMARY:School Board Meeting (Snoqualmie Valley School District)
@@ -1243,7 +1297,7 @@ URL:https://www.svsd410.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:cdf7b03d683a@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261211T020000Z
 DTEND:20261211T075900Z
 SUMMARY:Parks & Recreation Board Meeting (City of Bothell)
@@ -1252,7 +1306,7 @@ URL:https://www.bothellwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:edcbe5906350@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261211T020000Z
 DTEND:20261211T030000Z
 SUMMARY:City Council Regular Meeting (City of Des Moines)
@@ -1261,7 +1315,7 @@ URL:https://desmoineswa.portal.civicclerk.com/event/1030/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:1e2970ba85ba@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261211T020000Z
 DTEND:20261211T030000Z
 SUMMARY:City Council Work Session (hybrid meeting) (City of Lake Forest Park)
@@ -1270,7 +1324,7 @@ URL:https://www.cityoflfp.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:0693dcbd227b@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261211T020000Z
 DTEND:20261211T030000Z
 SUMMARY:Sustainability Commission (City of Sammamish)
@@ -1279,7 +1333,7 @@ URL:https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4
 END:VEVENT
 BEGIN:VEVENT
 UID:73d20caa6a56@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261211T020000Z
 DTEND:20261211T053000Z
 SUMMARY:School Board Meeting (Issaquah School District)
@@ -1288,7 +1342,7 @@ URL:https://www.isd411.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:c7f6b11b67d0@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261211T020000Z
 DTEND:20261211T030000Z
 SUMMARY:School Board Meeting (Vashon Island School District)
@@ -1297,7 +1351,7 @@ URL:https://www.vashonsd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:b9a344795529@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261211T023000Z
 DTEND:20261211T033000Z
 SUMMARY:Planning Policy Commission (City of Issaquah)
@@ -1306,7 +1360,7 @@ URL:https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=2150
 END:VEVENT
 BEGIN:VEVENT
 UID:7b8078757b9f@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261211T030000Z
 DTEND:20261211T050000Z
 SUMMARY:City Council Regular Meeting (hybrid meeting) (City of Lake Forest Park)
@@ -1315,7 +1369,7 @@ URL:https://www.cityoflfp.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:ffea9eea8b13@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261211T153000Z
 DTEND:20261211T163000Z
 SUMMARY:Business & Economic Development Partnership (City of Burien)
@@ -1324,7 +1378,7 @@ URL:https://burienwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4570
 END:VEVENT
 BEGIN:VEVENT
 UID:dd98e787e3ce@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261212T003000Z
 DTEND:20261212T013000Z
 SUMMARY:Council-Administration Interaction Committee (City of Snoqualmie)
@@ -1333,7 +1387,7 @@ URL:https://snoqualmiewa.portal.civicclerk.com/event/957/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:da139555d060@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261213T160000Z
 DTEND:20261213T170000Z
 SUMMARY:Board Extended Study Session (Lake Washington School District)
@@ -1342,7 +1396,7 @@ URL:https://lwsd.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&I
 END:VEVENT
 BEGIN:VEVENT
 UID:79e3407c8deb@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261214T220000Z
 DTEND:20261214T230000Z
 SUMMARY:Pre-Meeting Questions and Board Planning (Bellevue School District)
@@ -1351,7 +1405,7 @@ URL:https://bsd405.community.diligentoneplatform.com/Portal/MeetingInformation.a
 END:VEVENT
 BEGIN:VEVENT
 UID:a550a9118a11@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261215T000000Z
 DTEND:20261215T010000Z
 SUMMARY:Airport Advisory Committee Meeting (City of Des Moines)
@@ -1360,7 +1414,7 @@ URL:https://desmoineswa.portal.civicclerk.com/event/2058/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:a3db59c323f0@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261215T003000Z
 DTEND:20261215T010000Z
 SUMMARY:Community and Economic Development Committee Meeting (City of Enumclaw)
@@ -1369,7 +1423,7 @@ URL:https://cityofenumclaw.net/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:8521fd084df3@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261215T003000Z
 DTEND:20261215T013000Z
 SUMMARY:School Board Meeting (Northshore School District)
@@ -1378,7 +1432,7 @@ URL:https://www.nsd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:130e32a18d81@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261215T010000Z
 DTEND:20261215T020000Z
 SUMMARY:City Council Roundtable & Regular Meeting (City of Snoqualmie)
@@ -1387,7 +1441,7 @@ URL:https://snoqualmiewa.portal.civicclerk.com/event/1016/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:74071402a510@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261215T013000Z
 DTEND:20261215T030000Z
 SUMMARY:Duvall Cultural Commission Meeting (City of Duvall)
@@ -1396,7 +1450,7 @@ URL:https://duvallwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:b9f5e745f5cd@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261215T013000Z
 DTEND:20261215T020000Z
 SUMMARY:Public Works Committee Meeting (City of Enumclaw)
@@ -1405,7 +1459,7 @@ URL:https://cityofenumclaw.net/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:8892631f53b8@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261215T020000Z
 DTEND:20261215T075900Z
 SUMMARY:Planning Commission Meeting (City of Black Diamond)
@@ -1414,7 +1468,7 @@ URL:https://www.blackdiamondwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:35fcde94f5f2@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261215T023000Z
 DTEND:20261215T030000Z
 SUMMARY:Finance Committee Meeting (City of Enumclaw)
@@ -1423,7 +1477,7 @@ URL:https://cityofenumclaw.net/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:4a5bc62bb5ca@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261215T023000Z
 DTEND:20261215T033000Z
 SUMMARY:City Council Special Meeting (City of Issaquah)
@@ -1432,7 +1486,7 @@ URL:https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=2168
 END:VEVENT
 BEGIN:VEVENT
 UID:805d00d346c0@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261215T023000Z
 DTEND:20261215T050000Z
 SUMMARY:City Council Regular Meeting (City of Maple Valley)
@@ -1441,7 +1495,7 @@ URL:https://www.maplevalleywa.gov/government/city_council_meetings_agendas_and_m
 END:VEVENT
 BEGIN:VEVENT
 UID:c8ad5ef8e67a@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261215T023000Z
 DTEND:20261215T040000Z
 SUMMARY:Board Meeting (Enumclaw School District)
@@ -1450,7 +1504,7 @@ URL:http://www.enumclaw.wednet.edu/
 END:VEVENT
 BEGIN:VEVENT
 UID:6d4b1ab4a3b8@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261215T030000Z
 DTEND:20261215T050000Z
 SUMMARY:School Board Meeting (Auburn School District)
@@ -1459,7 +1513,7 @@ URL:https://www.auburn.wednet.edu/
 END:VEVENT
 BEGIN:VEVENT
 UID:af35f43df5fd@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261215T030000Z
 DTEND:20261215T050000Z
 SUMMARY:City Council Meeting (City of Enumclaw)
@@ -1468,7 +1522,7 @@ URL:https://cityofenumclaw.net/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:fd5092f8b03d@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261215T030000Z
 DTEND:20261215T040000Z
 SUMMARY:CANCELLED: City Council Regular Meeting (City of Kenmore)
@@ -1477,7 +1531,7 @@ URL:https://kenmorewa.portal.civicclerk.com/event/1752/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8e12cedd49c7@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261215T030000Z
 DTEND:20261215T040000Z
 SUMMARY:City Council Regular Meeting (City of Shoreline)
@@ -1486,7 +1540,7 @@ URL:https://www.shorelinewa.gov/government/council-meetings
 END:VEVENT
 BEGIN:VEVENT
 UID:1a6effe06e3c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261215T173000Z
 DTEND:20261215T183000Z
 SUMMARY:Transportation\, Economy\, and Environment Committee (King County)
@@ -1495,7 +1549,7 @@ URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12848&GID=111&G=D64
 END:VEVENT
 BEGIN:VEVENT
 UID:074e3b6847b1@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261215T230000Z
 DTEND:20261216T000000Z
 SUMMARY:Transportation and Public Works Committee Meeting (City of North Bend)
@@ -1504,7 +1558,7 @@ URL:https://northbendwa.portal.civicclerk.com/event/82/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:1ee55ef62842@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T000000Z
 DTEND:20261216T010000Z
 SUMMARY:Community & Economic Development Committee Meeting (City of North Bend)
@@ -1513,7 +1567,7 @@ URL:https://northbendwa.portal.civicclerk.com/event/145/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f30b8262dc60@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T003000Z
 DTEND:20261216T013000Z
 SUMMARY:CANCELLED: Committee of the Whole - Public Safety and Human Services (City of Redmond)
@@ -1522,7 +1576,7 @@ URL:https://redmond.legistar.com/MeetingDetail.aspx?LEGID=3298&GID=652&G=4D25B8F
 END:VEVENT
 BEGIN:VEVENT
 UID:51451e42ead8@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T010000Z
 DTEND:20261216T020000Z
 SUMMARY:City Council Regular Hybrid Meeting (City of Mercer Island)
@@ -1531,7 +1585,7 @@ URL:https://mercerislandwa.portal.civicclerk.com/event/1273/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e6aa63784b8a@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T013000Z
 DTEND:20261216T030000Z
 SUMMARY:Committee of the Whole Workshop (City of Duvall)
@@ -1540,7 +1594,7 @@ URL:https://duvallwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:3f50f42a8520@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T013000Z
 DTEND:20261216T023000Z
 SUMMARY:City Council Work Session (City of Sammamish)
@@ -1549,7 +1603,7 @@ URL:https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4
 END:VEVENT
 BEGIN:VEVENT
 UID:f793cfcb1a61@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T013000Z
 DTEND:20261216T023000Z
 SUMMARY:School Board Work Study Session (Tahoma School District)
@@ -1558,7 +1612,7 @@ URL:https://www.tahomasd.us/about/school-board
 END:VEVENT
 BEGIN:VEVENT
 UID:2b0d98742158@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T020000Z
 DTEND:20261216T075900Z
 SUMMARY:City Council Regular Meeting (City of Bothell)
@@ -1567,7 +1621,7 @@ URL:https://www.bothellwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:5a5530211ae4@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:Burien Airport Committee (City of Burien)
@@ -1576,7 +1630,7 @@ URL:https://burienwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4582
 END:VEVENT
 BEGIN:VEVENT
 UID:cfc206cc08e6@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:School Board Meeting (Federal Way Public Schools)
@@ -1585,7 +1639,7 @@ URL:https://www.fwps.org/about-us/school-board/board-meeting-schedule
 END:VEVENT
 BEGIN:VEVENT
 UID:ef3c4871d048@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T020000Z
 DTEND:20261216T033000Z
 SUMMARY:School Board Study Session (Shoreline School District)
@@ -1594,7 +1648,7 @@ URL:https://www.ssd412.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:ffe50cdb975e@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T023000Z
 DTEND:20261216T033000Z
 SUMMARY:City Council Regular Meeting (City of Federal Way)
@@ -1603,7 +1657,7 @@ URL:https://www.federalwaywa.gov/page/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
 UID:5f9b2351d008@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T023000Z
 DTEND:20261216T033000Z
 SUMMARY:City Council Regular Meeting (City of Sammamish)
@@ -1612,7 +1666,7 @@ URL:https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4
 END:VEVENT
 BEGIN:VEVENT
 UID:49ddc822d00c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T030000Z
 DTEND:20261216T075900Z
 SUMMARY:City Council Meeting (City of Black Diamond)
@@ -1621,7 +1675,7 @@ URL:https://www.blackdiamondwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:43f9abf798f1@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T030000Z
 DTEND:20261216T053000Z
 SUMMARY:Duvall City Council Meeting (City of Duvall)
@@ -1630,7 +1684,7 @@ URL:https://duvallwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:084ed1577d5f@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T030000Z
 DTEND:20261216T040000Z
 SUMMARY:CANCELLED: Planning Commission Meeting (City of Kenmore)
@@ -1639,7 +1693,7 @@ URL:https://kenmorewa.portal.civicclerk.com/event/1818/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:72e4931ebbb2@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T030000Z
 DTEND:20261216T060000Z
 SUMMARY:City Council Meeting (City of Newcastle)
@@ -1648,7 +1702,7 @@ URL:https://newcastlewa.gov/event/city-council-meeting-5/2026-12-15/
 END:VEVENT
 BEGIN:VEVENT
 UID:3532bf2bbe7c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T030000Z
 DTEND:20261216T040000Z
 SUMMARY:City Council Meeting (City of North Bend)
@@ -1657,7 +1711,7 @@ URL:https://northbendwa.portal.civicclerk.com/event/158/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:b4656ea981ab@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T030000Z
 DTEND:20261216T040000Z
 SUMMARY:CANCELLED: City Council (City of Redmond)
@@ -1666,7 +1720,7 @@ URL:https://redmond.legistar.com/MeetingDetail.aspx?LEGID=3297&GID=652&G=4D25B8F
 END:VEVENT
 BEGIN:VEVENT
 UID:31e1c4b9a00c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T031000Z
 DTEND:20261216T041000Z
 SUMMARY:School Board Special Meeting (Tahoma School District)
@@ -1675,7 +1729,7 @@ URL:https://www.tahomasd.us/about/school-board
 END:VEVENT
 BEGIN:VEVENT
 UID:06bd797a64ba@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T160000Z
 DTEND:20261216T170000Z
 SUMMARY:Economic Development Commission (City of Snoqualmie)
@@ -1684,7 +1738,7 @@ URL:https://snoqualmiewa.portal.civicclerk.com/event/982/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:22a818cc6cd4@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T170000Z
 DTEND:20261216T180000Z
 SUMMARY:Board Retreat (Bellevue School District)
@@ -1693,7 +1747,7 @@ URL:https://bsd405.community.diligentoneplatform.com/Portal/MeetingInformation.a
 END:VEVENT
 BEGIN:VEVENT
 UID:ed085b78d658@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T170000Z
 DTEND:20261216T180000Z
 SUMMARY:Civil Service Commission Meeting (City of Enumclaw)
@@ -1702,7 +1756,7 @@ URL:https://cityofenumclaw.net/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:3e0df2998521@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T173000Z
 DTEND:20261216T183000Z
 SUMMARY:Local Services and Land Use Committee (King County)
@@ -1711,7 +1765,7 @@ URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12849&GID=111&G=D64
 END:VEVENT
 BEGIN:VEVENT
 UID:b37eb5379b64@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261216T230000Z
 DTEND:20261217T000000Z
 SUMMARY:Regional Transit Committee (King County)
@@ -1720,7 +1774,7 @@ URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12855&GID=111&G=D64
 END:VEVENT
 BEGIN:VEVENT
 UID:9ae97844607f@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261217T003000Z
 DTEND:20261217T075900Z
 SUMMARY:Civil Service Commission Meeting (City of Bothell)
@@ -1729,7 +1783,7 @@ URL:https://www.bothellwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:4e855f7fb7f3@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261217T003000Z
 DTEND:20261217T013000Z
 SUMMARY:Regular Board Meeting (Seattle Public Schools)
@@ -1738,7 +1792,7 @@ URL:https://seattlepublicschools.community.diligentoneplatform.com/Portal/Meetin
 END:VEVENT
 BEGIN:VEVENT
 UID:343030c1539c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261217T010000Z
 DTEND:20261217T020000Z
 SUMMARY:Cemetery Board - Special Meeting (City of Issaquah)
@@ -1747,7 +1801,7 @@ URL:https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=2177
 END:VEVENT
 BEGIN:VEVENT
 UID:e4d327cca416@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261217T010000Z
 DTEND:20261217T023000Z
 SUMMARY:KCLS Board of Trustees Meeting (King County Library System)
@@ -1756,7 +1810,7 @@ URL:https://kcls.bibliocommons.com/events/696fb60f491b809c6f13eb58
 END:VEVENT
 BEGIN:VEVENT
 UID:0ade54edb4df@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261217T020000Z
 DTEND:20261217T050000Z
 SUMMARY:Hybrid Planning Commission Meeting (City of Bothell)
@@ -1765,7 +1819,7 @@ URL:https://www.bothellwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:1c1e1c7507d8@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261217T020000Z
 DTEND:20261217T030000Z
 SUMMARY:BESS Subcommittee (City of Enumclaw)
@@ -1774,7 +1828,7 @@ URL:https://cityofenumclaw.net/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:c220dacdca73@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261217T210000Z
 DTEND:20261217T220000Z
 SUMMARY:CANCELLED: Board of Health (King County)
@@ -1783,7 +1837,7 @@ URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12857&GID=111&G=D64
 END:VEVENT
 BEGIN:VEVENT
 UID:06ed6e6ece32@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261218T003000Z
 DTEND:20261218T013000Z
 SUMMARY:Regular Meeting of the BSD Board of Directors (Bellevue School District)
@@ -1792,7 +1846,7 @@ URL:https://bsd405.community.diligentoneplatform.com/Portal/MeetingInformation.a
 END:VEVENT
 BEGIN:VEVENT
 UID:a252fe164a7a@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261218T020000Z
 DTEND:20261218T033000Z
 SUMMARY:City Council Budget & Finance Committee Meeting (hybrid meeting) (City of Lake Forest Park)
@@ -1801,7 +1855,7 @@ URL:https://www.cityoflfp.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:7236a6fde372@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261218T023000Z
 DTEND:20261218T033000Z
 SUMMARY:Planning Commission (City of Sammamish)
@@ -1810,7 +1864,7 @@ URL:https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4
 END:VEVENT
 BEGIN:VEVENT
 UID:7a03a971523b@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261218T030000Z
 DTEND:20261218T040000Z
 SUMMARY:Planning Commission Meeting (City of Enumclaw)
@@ -1819,7 +1873,7 @@ URL:https://cityofenumclaw.net/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:09bda33ddd20@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261219T003000Z
 DTEND:20261219T013000Z
 SUMMARY:Council-Administration Interaction Committee (City of Snoqualmie)
@@ -1828,7 +1882,7 @@ URL:https://snoqualmiewa.portal.civicclerk.com/event/958/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:559d558bb4b7@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261222T010000Z
 DTEND:20261222T075900Z
 SUMMARY:Community Services Committee Meeting (City of Enumclaw)
@@ -1837,7 +1891,7 @@ URL:https://cityofenumclaw.net/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:eacf720a251c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261222T010000Z
 DTEND:20261222T020000Z
 SUMMARY:Arts Commission Meeting (City of Snoqualmie)
@@ -1846,7 +1900,7 @@ URL:https://snoqualmiewa.portal.civicclerk.com/event/962/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:17d4fce954b7@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261222T013000Z
 DTEND:20261222T023000Z
 SUMMARY:City Council Regular Meeting (City of Burien)
@@ -1855,7 +1909,7 @@ URL:https://burienwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4524
 END:VEVENT
 BEGIN:VEVENT
 UID:34e575bada32@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261222T020000Z
 DTEND:20261222T023000Z
 SUMMARY:Public Safety Committee Meeting (City of Enumclaw)
@@ -1864,7 +1918,7 @@ URL:https://cityofenumclaw.net/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:17da82806b1e@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261222T023000Z
 DTEND:20261222T050000Z
 SUMMARY:City Council Study Session (City of Maple Valley)
@@ -1873,7 +1927,7 @@ URL:https://www.maplevalleywa.gov/government/city_council_meetings_agendas_and_m
 END:VEVENT
 BEGIN:VEVENT
 UID:7b5ba720c53d@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261222T030000Z
 DTEND:20261222T040000Z
 SUMMARY:CANCELLED: City Council Regular Meeting (City of Kenmore)
@@ -1882,7 +1936,7 @@ URL:https://kenmorewa.portal.civicclerk.com/event/1765/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:070c77c1469e@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261222T030000Z
 DTEND:20261222T040000Z
 SUMMARY:City Council Regular Meeting (City of Shoreline)
@@ -1891,7 +1945,7 @@ URL:https://www.shorelinewa.gov/government/council-meetings
 END:VEVENT
 BEGIN:VEVENT
 UID:43d94c359305@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261222T173000Z
 DTEND:20261222T183000Z
 SUMMARY:Committee of the Whole (King County)
@@ -1900,7 +1954,7 @@ URL:https://kingcounty.legistar.com/MeetingDetail.aspx?LEGID=12850&GID=111&G=D64
 END:VEVENT
 BEGIN:VEVENT
 UID:cffffe1fb610@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261222T233000Z
 DTEND:20261223T003000Z
 SUMMARY:Civil Service Commission Meeting (City of Des Moines)
@@ -1909,7 +1963,7 @@ URL:https://desmoineswa.portal.civicclerk.com/event/2136/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:c2e739d810eb@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261223T003000Z
 DTEND:20261223T013000Z
 SUMMARY:CANCELLED: Committee of the Whole - Parks and Environmental Sustainability (City of Redmond)
@@ -1918,7 +1972,7 @@ URL:https://redmond.legistar.com/MeetingDetail.aspx?LEGID=3299&GID=652&G=4D25B8F
 END:VEVENT
 BEGIN:VEVENT
 UID:65fdf4f0f34b@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261223T010000Z
 DTEND:20261223T020000Z
 SUMMARY:Finance\, Economic Development and Regional Affairs Committee (City of Federal Way)
@@ -1927,7 +1981,7 @@ URL:https://www.federalwaywa.gov/page/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
 UID:511fae46aa3d@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:CANCELLED: Council Study Session (City of Clyde Hill)
@@ -1936,7 +1990,7 @@ URL:https://clydehill.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=443
 END:VEVENT
 BEGIN:VEVENT
 UID:f34beacaf3c7@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:City Council Regular Meeting (City of SeaTac)
@@ -1945,7 +1999,7 @@ URL:https://www.seatacwa.gov/Council-and-departments/City-Council/Upcoming-Counc
 END:VEVENT
 BEGIN:VEVENT
 UID:4858a75b0297@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261223T030000Z
 DTEND:20261223T040000Z
 SUMMARY:City Council Workstudy (City of North Bend)
@@ -1954,7 +2008,7 @@ URL:https://northbendwa.portal.civicclerk.com/event/95/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:19394d5e68e4@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261223T030000Z
 DTEND:20261223T040000Z
 SUMMARY:CANCELLED: City Council (City of Redmond)
@@ -1963,7 +2017,7 @@ URL:https://redmond.legistar.com/MeetingDetail.aspx?LEGID=3300&GID=652&G=4D25B8F
 END:VEVENT
 BEGIN:VEVENT
 UID:1ca6a75d9971@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261224T020000Z
 DTEND:20261224T040000Z
 SUMMARY:Planning Commission Meeting (City of Duvall)
@@ -1972,7 +2026,7 @@ URL:https://duvallwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:57fccaacd462@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261224T020000Z
 DTEND:20261224T030000Z
 SUMMARY:CANCELLED: Planning Commission Regular Hybrid Meeting (City of Mercer Island)
@@ -1981,7 +2035,7 @@ URL:https://mercerislandwa.portal.civicclerk.com/event/1518/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:71d3c6442e91@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261224T020000Z
 DTEND:20261224T040000Z
 SUMMARY:CANCELLED: Planning Commission Meeting (City of Newcastle)
@@ -1990,7 +2044,7 @@ URL:https://newcastlewa.gov/event/planning-commission-meeting-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:7a157256e227@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261224T030000Z
 DTEND:20261224T040000Z
 SUMMARY:School Board Meeting (Renton School District)
@@ -1999,7 +2053,7 @@ URL:https://www.rentonschools.us/
 END:VEVENT
 BEGIN:VEVENT
 UID:e28f5660ae06@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261225T010000Z
 DTEND:20261225T020000Z
 SUMMARY:School Board Meeting (Snoqualmie Valley School District)
@@ -2008,7 +2062,7 @@ URL:https://www.svsd410.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:2afd6876eee3@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261225T020000Z
 DTEND:20261225T030000Z
 SUMMARY:School Board Meeting (Vashon Island School District)
@@ -2017,7 +2071,7 @@ URL:https://www.vashonsd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:04ff2e1e0fbb@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261229T003000Z
 DTEND:20261229T010000Z
 SUMMARY:Community and Economic Development Committee Meeting (City of Enumclaw)
@@ -2026,7 +2080,7 @@ URL:https://cityofenumclaw.net/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:695bc0c30c35@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261229T013000Z
 DTEND:20261229T020000Z
 SUMMARY:Public Works Committee Meeting (City of Enumclaw)
@@ -2035,7 +2089,7 @@ URL:https://cityofenumclaw.net/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:a7d7b4a0c4bf@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261229T023000Z
 DTEND:20261229T030000Z
 SUMMARY:Finance Committee Meeting (City of Enumclaw)
@@ -2044,7 +2098,7 @@ URL:https://cityofenumclaw.net/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:ff93323ac8cc@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261229T023000Z
 DTEND:20261229T033000Z
 SUMMARY:CANCELLED: Arts Commission (City of Sammamish)
@@ -2053,7 +2107,7 @@ URL:https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4
 END:VEVENT
 BEGIN:VEVENT
 UID:e96226a5c325@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261229T030000Z
 DTEND:20261229T050000Z
 SUMMARY:City Council Meeting (City of Enumclaw)
@@ -2062,7 +2116,7 @@ URL:https://cityofenumclaw.net/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:7c356d84015d@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261229T030000Z
 DTEND:20261229T040000Z
 SUMMARY:CANCELLED: City Council Regular Meeting (City of Kenmore)
@@ -2071,7 +2125,7 @@ URL:https://kenmorewa.portal.civicclerk.com/event/1778/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e962f1b026d7@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261229T030000Z
 DTEND:20261229T040000Z
 SUMMARY:City Council Regular Meeting (City of Shoreline)
@@ -2080,7 +2134,7 @@ URL:https://www.shorelinewa.gov/government/council-meetings
 END:VEVENT
 BEGIN:VEVENT
 UID:98db1b57413a@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261229T030000Z
 DTEND:20261229T040000Z
 SUMMARY:School Board Meeting (Northshore School District)
@@ -2089,7 +2143,7 @@ URL:https://www.nsd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:e4626d538ed7@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261230T010000Z
 DTEND:20261230T020000Z
 SUMMARY:Board of Fire Commissioners Meeting - December 2026 (South King Fire)
@@ -2098,7 +2152,7 @@ URL:https://www.southkingfire.org/event/board-of-fire-commissioners-meeting-dece
 END:VEVENT
 BEGIN:VEVENT
 UID:b4d4ca32930a@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20261231T023000Z
 DTEND:20261231T033000Z
 SUMMARY:School Board Meeting (Skykomish School District)
@@ -2107,7 +2161,7 @@ URL:https://www.skykomish.wednet.edu/
 END:VEVENT
 BEGIN:VEVENT
 UID:c341d88f53c4@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270104T220000Z
 DTEND:20270104T230000Z
 SUMMARY:Pre-Meeting Questions and Board Planning (Bellevue School District)
@@ -2116,7 +2170,7 @@ URL:https://bsd405.community.diligentoneplatform.com/Portal/MeetingInformation.a
 END:VEVENT
 BEGIN:VEVENT
 UID:41e611d8fd1d@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270105T010000Z
 DTEND:20270105T020000Z
 SUMMARY:Land Use and Transportation Committee (City of Federal Way)
@@ -2125,7 +2179,7 @@ URL:https://www.federalwaywa.gov/page/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
 UID:0a1b062ba1e5@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270105T020000Z
 DTEND:20270105T033000Z
 SUMMARY:Parks Advisory Commission Meeting (City of Duvall)
@@ -2134,7 +2188,7 @@ URL:https://duvallwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:182b0d36c3c0@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270105T030000Z
 DTEND:20270105T040000Z
 SUMMARY:City Council Regular Meeting (City of Issaquah)
@@ -2143,7 +2197,7 @@ URL:https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=2173
 END:VEVENT
 BEGIN:VEVENT
 UID:c9298a5abd18@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270105T030000Z
 DTEND:20270105T040000Z
 SUMMARY:City Council Regular Meeting (City of Shoreline)
@@ -2152,7 +2206,7 @@ URL:https://www.shorelinewa.gov/government/council-meetings
 END:VEVENT
 BEGIN:VEVENT
 UID:66974113db42@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270105T030000Z
 DTEND:20270105T040000Z
 SUMMARY:Planning Commission Meeting (City of Snoqualmie)
@@ -2161,7 +2215,7 @@ URL:https://snoqualmiewa.portal.civicclerk.com/event/995/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2ec0c08ba29c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270105T220000Z
 DTEND:20270105T230000Z
 SUMMARY:CANCELLED: City Council (City of Seattle)
@@ -2170,7 +2224,7 @@ URL:https://seattle.legistar.com/MeetingDetail.aspx?LEGID=6921&GID=393&G=FFE3B67
 END:VEVENT
 BEGIN:VEVENT
 UID:ed2734328947@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270106T010000Z
 DTEND:20270106T020000Z
 SUMMARY:City Council Regular Hybrid Meeting (City of Mercer Island)
@@ -2179,7 +2233,7 @@ URL:https://mercerislandwa.portal.civicclerk.com/event/1251/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:fd373f429525@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270106T013000Z
 DTEND:20270106T030000Z
 SUMMARY:Committee of the Whole Workshop (City of Duvall)
@@ -2188,7 +2242,7 @@ URL:https://duvallwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:866b93781a4b@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270106T020000Z
 DTEND:20270106T075900Z
 SUMMARY:City Council Regular Meeting (City of Bothell)
@@ -2197,7 +2251,7 @@ URL:https://www.bothellwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:9b7584591b25@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270106T023000Z
 DTEND:20270106T033000Z
 SUMMARY:City Council Regular Meeting (City of Federal Way)
@@ -2206,7 +2260,7 @@ URL:https://www.federalwaywa.gov/page/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
 UID:4b2567bab171@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270106T023000Z
 DTEND:20270106T033000Z
 SUMMARY:City Council Planning\, Development & Environment Committee (City of Issaquah)
@@ -2215,7 +2269,7 @@ URL:https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=2169
 END:VEVENT
 BEGIN:VEVENT
 UID:965fe418cdf2@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270106T030000Z
 DTEND:20270106T075900Z
 SUMMARY:City Council Meeting (City of Black Diamond)
@@ -2224,7 +2278,7 @@ URL:https://www.blackdiamondwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:587ddce06836@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270106T030000Z
 DTEND:20270106T053000Z
 SUMMARY:Duvall City Council Meeting (City of Duvall)
@@ -2233,7 +2287,7 @@ URL:https://duvallwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:1207f9ae0ab0@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270106T030000Z
 DTEND:20270106T060000Z
 SUMMARY:City Council Meeting (City of Newcastle)
@@ -2242,7 +2296,7 @@ URL:https://newcastlewa.gov/event/city-council-meeting-4/2027-01-05/
 END:VEVENT
 BEGIN:VEVENT
 UID:3e75b1de9862@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270107T020000Z
 DTEND:20270107T050000Z
 SUMMARY:Hybrid Planning Commission Meeting (City of Bothell)
@@ -2251,7 +2305,7 @@ URL:https://www.bothellwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:17b784d9d59e@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270107T023000Z
 DTEND:20270107T033000Z
 SUMMARY:Parks & Recreation Commission (City of Sammamish)
@@ -2260,7 +2314,7 @@ URL:https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4
 END:VEVENT
 BEGIN:VEVENT
 UID:90f136ab3b6f@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270107T190000Z
 DTEND:20270108T075900Z
 SUMMARY:Civil Service Commission Meeting (City of Black Diamond)
@@ -2269,7 +2323,7 @@ URL:https://www.blackdiamondwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:646a744edbb4@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270108T003000Z
 DTEND:20270108T013000Z
 SUMMARY:Regular Meeting of the BSD Board of Directors (Bellevue School District)
@@ -2278,7 +2332,7 @@ URL:https://bsd405.community.diligentoneplatform.com/Portal/MeetingInformation.a
 END:VEVENT
 BEGIN:VEVENT
 UID:3903fb6c21ce@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270108T010000Z
 DTEND:20270108T020000Z
 SUMMARY:City Council Committee of the Whole and Study Session (City of Des Moines)
@@ -2287,7 +2341,7 @@ URL:https://desmoineswa.portal.civicclerk.com/event/5265/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:53d46bc1b0e5@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270108T010000Z
 DTEND:20270108T020000Z
 SUMMARY:Parks & Recreation Commission Regular Hybrid Meeting (City of Mercer Island)
@@ -2296,7 +2350,7 @@ URL:https://mercerislandwa.portal.civicclerk.com/event/410/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:c769c8ce9de1@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270108T153000Z
 DTEND:20270108T163000Z
 SUMMARY:Business & Economic Development Partnership (City of Burien)
@@ -2305,7 +2359,7 @@ URL:https://burienwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4653
 END:VEVENT
 BEGIN:VEVENT
 UID:49dbf3e101cc@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270112T000000Z
 DTEND:20270112T010000Z
 SUMMARY:Airport Advisory Committee Meeting (City of Des Moines)
@@ -2314,7 +2368,7 @@ URL:https://desmoineswa.portal.civicclerk.com/event/5319/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f4d936b22598@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270112T003000Z
 DTEND:20270112T013000Z
 SUMMARY:School Board Meeting (Northshore School District)
@@ -2323,7 +2377,7 @@ URL:https://www.nsd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:14cf6cb58768@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270112T010000Z
 DTEND:20270112T020000Z
 SUMMARY:City Council Roundtable & Regular Meeting (City of Snoqualmie)
@@ -2332,7 +2386,7 @@ URL:https://snoqualmiewa.portal.civicclerk.com/event/1017/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:4ff1074dcd5a@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270112T010000Z
 DTEND:20270112T020000Z
 SUMMARY:Board Study Session (Lake Washington School District)
@@ -2341,7 +2395,7 @@ URL:https://lwsd.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&I
 END:VEVENT
 BEGIN:VEVENT
 UID:6b8c58f96852@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270112T013000Z
 DTEND:20270112T023000Z
 SUMMARY:City Council Regular Meeting (City of Burien)
@@ -2350,7 +2404,7 @@ URL:https://burienwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4616
 END:VEVENT
 BEGIN:VEVENT
 UID:632215ff0284@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270112T020000Z
 DTEND:20270112T075900Z
 SUMMARY:Planning Commission Meeting (City of Black Diamond)
@@ -2359,7 +2413,7 @@ URL:https://www.blackdiamondwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:9585722cd156@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270112T023000Z
 DTEND:20270112T033000Z
 SUMMARY:City Council Committee of the Whole (City of Issaquah)
@@ -2368,7 +2422,7 @@ URL:https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=2172
 END:VEVENT
 BEGIN:VEVENT
 UID:0a88448bb255@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270112T023000Z
 DTEND:20270112T050000Z
 SUMMARY:City Council Regular Meeting (City of Maple Valley)
@@ -2377,7 +2431,7 @@ URL:https://www.maplevalleywa.gov/government/city_council_meetings_agendas_and_m
 END:VEVENT
 BEGIN:VEVENT
 UID:277b90b4cd67@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270112T030000Z
 DTEND:20270112T050000Z
 SUMMARY:School Board Meeting (Auburn School District)
@@ -2386,7 +2440,7 @@ URL:https://www.auburn.wednet.edu/
 END:VEVENT
 BEGIN:VEVENT
 UID:b7bdc4165ace@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270112T030000Z
 DTEND:20270112T040000Z
 SUMMARY:City Council Regular Meeting (City of Shoreline)
@@ -2395,7 +2449,7 @@ URL:https://www.shorelinewa.gov/government/council-meetings
 END:VEVENT
 BEGIN:VEVENT
 UID:21650237fae4@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270112T030000Z
 DTEND:20270112T040000Z
 SUMMARY:Board Meeting (Lake Washington School District)
@@ -2404,7 +2458,7 @@ URL:https://lwsd.community.highbond.com/Portal/MeetingInformation.aspx?Org=Cal&I
 END:VEVENT
 BEGIN:VEVENT
 UID:341d7be7bd30@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270112T153000Z
 DTEND:20270112T163000Z
 SUMMARY:Special Meeting - School Board Visit to Big Picture School (Bellevue School District)
@@ -2413,7 +2467,7 @@ URL:https://bsd405.community.diligentoneplatform.com/Portal/MeetingInformation.a
 END:VEVENT
 BEGIN:VEVENT
 UID:a2a21674edd2@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270113T000000Z
 DTEND:20270113T010000Z
 SUMMARY:City Council Study Session (City of SeaTac)
@@ -2422,7 +2476,7 @@ URL:https://www.seatacwa.gov/Council-and-departments/City-Council/Upcoming-Counc
 END:VEVENT
 BEGIN:VEVENT
 UID:51c851e6e052@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270113T000000Z
 DTEND:20270113T010000Z
 SUMMARY:Board Work Study (Riverview School District)
@@ -2431,7 +2485,7 @@ URL:https://rsd407.community.diligentoneplatform.com/Portal/MeetingInformation.a
 END:VEVENT
 BEGIN:VEVENT
 UID:304464adc1f0@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270113T003000Z
 DTEND:20270113T033000Z
 SUMMARY:Board Work Session (Tukwila School District)
@@ -2440,7 +2494,7 @@ URL:https://www.tukwilaschools.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:68169a0c8f70@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270113T010000Z
 DTEND:20270113T020000Z
 SUMMARY:Parks\, Recreation\, Human Services and Public Safety Committee (City of Federal Way)
@@ -2449,7 +2503,7 @@ URL:https://www.federalwaywa.gov/page/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
 UID:f6dd756d23bf@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270113T010000Z
 DTEND:20270113T020000Z
 SUMMARY:Utility Board Regular Hybrid Meeting (City of Mercer Island)
@@ -2458,7 +2512,7 @@ URL:https://mercerislandwa.portal.civicclerk.com/event/423/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:90a3dddd0b94@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270113T010000Z
 DTEND:20270113T020000Z
 SUMMARY:Parks and Events Commission Meeting (City of Snoqualmie)
@@ -2467,7 +2521,7 @@ URL:https://snoqualmiewa.portal.civicclerk.com/event/975/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:5cb4efc00dee@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270113T013000Z
 DTEND:20270113T023000Z
 SUMMARY:School Board Work Study Session (Tahoma School District)
@@ -2476,7 +2530,7 @@ URL:https://www.tahomasd.us/about/school-board
 END:VEVENT
 BEGIN:VEVENT
 UID:78bc59a5e6af@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270113T020000Z
 DTEND:20270113T075900Z
 SUMMARY:Council Work Session (City of Black Diamond)
@@ -2485,7 +2539,7 @@ URL:https://www.blackdiamondwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:4a242e9819e0@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270113T020000Z
 DTEND:20270113T075900Z
 SUMMARY:City Council Regular Meeting (City of Bothell)
@@ -2494,7 +2548,7 @@ URL:https://www.bothellwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:a58f0166783f@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270113T020000Z
 DTEND:20270113T030000Z
 SUMMARY:City Council Regular Meeting (City of SeaTac)
@@ -2503,7 +2557,7 @@ URL:https://www.seatacwa.gov/Council-and-departments/City-Council/Upcoming-Counc
 END:VEVENT
 BEGIN:VEVENT
 UID:14e4f583afa5@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270113T020000Z
 DTEND:20270113T030000Z
 SUMMARY:School Board Meeting (Federal Way Public Schools)
@@ -2512,7 +2566,7 @@ URL:https://www.fwps.org/about-us/school-board/board-meeting-schedule
 END:VEVENT
 BEGIN:VEVENT
 UID:53a5c16265ec@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270113T020000Z
 DTEND:20270113T030000Z
 SUMMARY:Board of Directors (Riverview School District)
@@ -2521,7 +2575,7 @@ URL:https://rsd407.community.diligentoneplatform.com/Portal/MeetingInformation.a
 END:VEVENT
 BEGIN:VEVENT
 UID:4620c048bce5@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270113T020000Z
 DTEND:20270113T040000Z
 SUMMARY:School Board Regular Meeting (Shoreline School District)
@@ -2530,7 +2584,7 @@ URL:https://www.ssd412.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:4888caa35782@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270113T023000Z
 DTEND:20270113T033000Z
 SUMMARY:City Council Mobility & Infrastructure Committee (City of Issaquah)
@@ -2539,7 +2593,7 @@ URL:https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=2170
 END:VEVENT
 BEGIN:VEVENT
 UID:f98ad465448c@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270113T023000Z
 DTEND:20270113T033000Z
 SUMMARY:School Board Regular Meeting (Tahoma School District)
@@ -2548,7 +2602,7 @@ URL:https://www.tahomasd.us/about/school-board
 END:VEVENT
 BEGIN:VEVENT
 UID:daec38d3f17d@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270114T000000Z
 DTEND:20270114T075900Z
 SUMMARY:LEOFF 1 Disability Board Meeting (City of Bothell)
@@ -2557,7 +2611,7 @@ URL:https://www.bothellwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:3f187f8d4484@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270114T000000Z
 DTEND:20270114T020000Z
 SUMMARY:Board Study Session (Enumclaw School District)
@@ -2566,7 +2620,7 @@ URL:http://www.enumclaw.wednet.edu/
 END:VEVENT
 BEGIN:VEVENT
 UID:ca9c2fd7779a@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270114T003000Z
 DTEND:20270114T013000Z
 SUMMARY:Human Services Commission (City of Burien)
@@ -2575,7 +2629,7 @@ URL:https://burienwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4673
 END:VEVENT
 BEGIN:VEVENT
 UID:b5dcd71dc156@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270114T004500Z
 DTEND:20270114T014500Z
 SUMMARY:School Board Special Meeting: Executive Session in accordance with the provisions of RCW 42.30.110 (Highline Public Schools)
@@ -2584,7 +2638,7 @@ URL:https://www.highlineschools.org/about/school-board
 END:VEVENT
 BEGIN:VEVENT
 UID:8317c03b23b7@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270114T013000Z
 DTEND:20270114T023000Z
 SUMMARY:Planning Commission (City of Burien)
@@ -2593,7 +2647,7 @@ URL:https://burienwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4696
 END:VEVENT
 BEGIN:VEVENT
 UID:04f7fee8a796@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270114T020000Z
 DTEND:20270114T050000Z
 SUMMARY:Hybrid Landmark Preservation Board Meeting (City of Bothell)
@@ -2602,7 +2656,7 @@ URL:https://www.bothellwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:118cfe011fec@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270114T020000Z
 DTEND:20270114T040000Z
 SUMMARY:Planning Commission Meeting (City of Duvall)
@@ -2611,7 +2665,7 @@ URL:https://duvallwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:354447b5b49b@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270114T020000Z
 DTEND:20270114T040000Z
 SUMMARY:Community Activities Commission Meeting (City of Newcastle)
@@ -2620,7 +2674,7 @@ URL:https://newcastlewa.gov/event/community-activities-commission-meeting-2/2027
 END:VEVENT
 BEGIN:VEVENT
 UID:cce2eecafde5@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270114T020000Z
 DTEND:20270114T040000Z
 SUMMARY:Regular School Board Meeting (Highline Public Schools)
@@ -2629,7 +2683,7 @@ URL:https://www.highlineschools.org/about/school-board
 END:VEVENT
 BEGIN:VEVENT
 UID:f8819e824fd6@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270114T020000Z
 DTEND:20270114T053000Z
 SUMMARY:School Board Meeting (Issaquah School District)
@@ -2638,7 +2692,7 @@ URL:https://www.isd411.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:e1a7f5d190d8@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270114T023000Z
 DTEND:20270114T033000Z
 SUMMARY:School Board Meeting (Skykomish School District)
@@ -2647,7 +2701,7 @@ URL:https://www.skykomish.wednet.edu/
 END:VEVENT
 BEGIN:VEVENT
 UID:cd25922891ef@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270114T030000Z
 DTEND:20270114T040000Z
 SUMMARY:School Board Meeting (Renton School District)
@@ -2656,7 +2710,7 @@ URL:https://www.rentonschools.us/
 END:VEVENT
 BEGIN:VEVENT
 UID:47793ffe4edc@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270115T010000Z
 DTEND:20270115T040000Z
 SUMMARY:MISD Regular School Board Meeting (Mercer Island School District)
@@ -2665,7 +2719,7 @@ URL:https://www.mercerislandschools.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:bd29422dbd6d@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270115T010000Z
 DTEND:20270115T020000Z
 SUMMARY:School Board Meeting (Snoqualmie Valley School District)
@@ -2674,7 +2728,7 @@ URL:https://www.svsd410.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:9b877d0daf22@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270115T020000Z
 DTEND:20270115T075900Z
 SUMMARY:Parks & Recreation Board Meeting (City of Bothell)
@@ -2683,7 +2737,7 @@ URL:https://www.bothellwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:481590e17b85@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270115T020000Z
 DTEND:20270115T030000Z
 SUMMARY:City Council Regular Meeting (City of Des Moines)
@@ -2692,7 +2746,7 @@ URL:https://desmoineswa.portal.civicclerk.com/event/5278/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8316a0f2616a@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270115T020000Z
 DTEND:20270115T030000Z
 SUMMARY:Sustainability Commission (City of Sammamish)
@@ -2701,7 +2755,7 @@ URL:https://sammamishwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4
 END:VEVENT
 BEGIN:VEVENT
 UID:ce3db2f86f99@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270115T020000Z
 DTEND:20270115T030000Z
 SUMMARY:School Board Meeting (Vashon Island School District)
@@ -2710,7 +2764,7 @@ URL:https://www.vashonsd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:2281fd7f30b2@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270119T010000Z
 DTEND:20270119T020000Z
 SUMMARY:Arts Commission Meeting (City of Snoqualmie)
@@ -2719,7 +2773,7 @@ URL:https://snoqualmiewa.portal.civicclerk.com/event/963/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:331a63b2be52@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270119T180000Z
 DTEND:20270120T075900Z
 SUMMARY:Lodging Tax Advisory Board Meeting (City of Bothell)
@@ -2728,7 +2782,7 @@ URL:https://www.bothellwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:a7741708b385@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270119T220000Z
 DTEND:20270119T230000Z
 SUMMARY:Pre-Meeting Questions and Board Planning (Bellevue School District)
@@ -2737,7 +2791,7 @@ URL:https://bsd405.community.diligentoneplatform.com/Portal/MeetingInformation.a
 END:VEVENT
 BEGIN:VEVENT
 UID:32df61c7b7a2@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270120T010000Z
 DTEND:20270120T020000Z
 SUMMARY:City Council Regular Hybrid Meeting (City of Mercer Island)
@@ -2746,7 +2800,7 @@ URL:https://mercerislandwa.portal.civicclerk.com/event/1274/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:4f9e31f10f39@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270120T010000Z
 DTEND:20270120T020000Z
 SUMMARY:School Board Work/Study Session (Federal Way Public Schools)
@@ -2755,7 +2809,7 @@ URL:https://www.fwps.org/about-us/school-board/board-meeting-schedule
 END:VEVENT
 BEGIN:VEVENT
 UID:34c4564bbd2d@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270120T013000Z
 DTEND:20270120T030000Z
 SUMMARY:Committee of the Whole Workshop (City of Duvall)
@@ -2764,7 +2818,7 @@ URL:https://duvallwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:0bbd3230e368@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270120T020000Z
 DTEND:20270120T075900Z
 SUMMARY:City Council Regular Meeting (City of Bothell)
@@ -2773,7 +2827,7 @@ URL:https://www.bothellwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:be835260a70e@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270120T020000Z
 DTEND:20270120T030000Z
 SUMMARY:Burien Airport Committee (City of Burien)
@@ -2782,7 +2836,7 @@ URL:https://burienwa.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=4641
 END:VEVENT
 BEGIN:VEVENT
 UID:2adbd2241b8a@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270120T023000Z
 DTEND:20270120T033000Z
 SUMMARY:City Council Regular Meeting (City of Federal Way)
@@ -2791,7 +2845,7 @@ URL:https://www.federalwaywa.gov/page/meetings-and-agendas
 END:VEVENT
 BEGIN:VEVENT
 UID:8f2fbc4b32b5@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270120T023000Z
 DTEND:20270120T050000Z
 SUMMARY:City Council Study Session (City of Maple Valley)
@@ -2800,7 +2854,7 @@ URL:https://www.maplevalleywa.gov/government/city_council_meetings_agendas_and_m
 END:VEVENT
 BEGIN:VEVENT
 UID:8bbcde194b58@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270120T023000Z
 DTEND:20270120T040000Z
 SUMMARY:Board Meeting (Enumclaw School District)
@@ -2809,7 +2863,7 @@ URL:http://www.enumclaw.wednet.edu/
 END:VEVENT
 BEGIN:VEVENT
 UID:7e7f5b7c854b@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270120T030000Z
 DTEND:20270120T075900Z
 SUMMARY:City Council Meeting (City of Black Diamond)
@@ -2818,7 +2872,7 @@ URL:https://www.blackdiamondwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:b42646bc4d83@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270120T030000Z
 DTEND:20270120T053000Z
 SUMMARY:Duvall City Council Meeting (City of Duvall)
@@ -2827,7 +2881,7 @@ URL:https://duvallwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:579038d70eba@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270120T030000Z
 DTEND:20270120T040000Z
 SUMMARY:City Council Regular Meeting (City of Issaquah)
@@ -2836,7 +2890,7 @@ URL:https://issaquah.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=2173
 END:VEVENT
 BEGIN:VEVENT
 UID:debd4fb38275@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270120T030000Z
 DTEND:20270120T060000Z
 SUMMARY:City Council Meeting (City of Newcastle)
@@ -2845,7 +2899,7 @@ URL:https://newcastlewa.gov/event/city-council-meeting-5/2027-01-19/
 END:VEVENT
 BEGIN:VEVENT
 UID:7fe060e14092@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270120T160000Z
 DTEND:20270120T170000Z
 SUMMARY:Economic Development Commission (City of Snoqualmie)
@@ -2854,7 +2908,7 @@ URL:https://snoqualmiewa.portal.civicclerk.com/event/983/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:f8ab6019c1e0@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270121T003000Z
 DTEND:20270121T075900Z
 SUMMARY:Civil Service Commission Meeting (City of Bothell)
@@ -2863,7 +2917,7 @@ URL:https://www.bothellwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:38826f98cc3d@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270121T013000Z
 DTEND:20270121T023000Z
 SUMMARY:Arts Council Regular Hybrid Meeting (City of Mercer Island)
@@ -2872,7 +2926,7 @@ URL:https://mercerislandwa.portal.civicclerk.com/event/449/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:59080b0fe60e@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270121T020000Z
 DTEND:20270121T050000Z
 SUMMARY:Hybrid Planning Commission Meeting (City of Bothell)
@@ -2881,7 +2935,7 @@ URL:https://www.bothellwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:64c038ac06c8@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270121T170000Z
 DTEND:20270121T220000Z
 SUMMARY:MISD Special School Board Meeting - Bi-Annual Study Session (Mercer Island School District)
@@ -2890,7 +2944,7 @@ URL:https://www.mercerislandschools.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:b56eb96542d4@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270122T003000Z
 DTEND:20270122T013000Z
 SUMMARY:Regular Meeting of the BSD Board of Directors (Bellevue School District)
@@ -2899,7 +2953,7 @@ URL:https://bsd405.community.diligentoneplatform.com/Portal/MeetingInformation.a
 END:VEVENT
 BEGIN:VEVENT
 UID:c73d724ce498@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270122T010000Z
 DTEND:20270122T020000Z
 SUMMARY:Open Space Conservancy Trust Regular Hybrid Meeting (City of Mercer Island)
@@ -2908,7 +2962,7 @@ URL:https://mercerislandwa.portal.civicclerk.com/event/454/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:0e0996f70db9@civicswa
-DTSTAMP:20261124T201402Z
+DTSTAMP:20261125T075936Z
 DTSTART:20270122T020000Z
 DTEND:20270122T040000Z
 SUMMARY:Arts Commission Meeting (City of Bothell)

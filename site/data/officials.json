@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T12:15:12-08:00",
+ "generated": "2026-11-25T00:02:50-08:00",
  "biennium": "2025-26",
  "legislators": {
   "20": {
@@ -47,30 +47,6 @@
      "party": "Republican",
      "phone": "(360) 786-7988",
      "email": "Hunter.Abell@leg.wa.gov"
-    }
-   ]
-  },
-  "34": {
-   "senate": [
-    {
-     "name": "Emily Alvarado",
-     "party": "Democrat",
-     "phone": "(360) 786-7667",
-     "email": "Emily.Alvarado@leg.wa.gov"
-    }
-   ],
-   "house": [
-    {
-     "name": "Brianna Thomas",
-     "party": "Democrat",
-     "phone": "(360) 786-7978",
-     "email": "THOMAS_BR@leg.wa.gov"
-    },
-    {
-     "name": "Joe Fitzgibbon",
-     "party": "Democrat",
-     "phone": "(360) 786-7952",
-     "email": "joe.fitzgibbon@leg.wa.gov"
     }
    ]
   },
@@ -602,6 +578,30 @@
     }
    ]
   },
+  "34": {
+   "senate": [
+    {
+     "name": "Emily Alvarado",
+     "party": "Democrat",
+     "phone": "(360) 786-7667",
+     "email": "Emily.Alvarado@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Brianna Thomas",
+     "party": "Democrat",
+     "phone": "(360) 786-7978",
+     "email": "THOMAS_BR@leg.wa.gov"
+    },
+    {
+     "name": "Joe Fitzgibbon",
+     "party": "Democrat",
+     "phone": "(360) 786-7952",
+     "email": "joe.fitzgibbon@leg.wa.gov"
+    }
+   ]
+  },
   "45": {
    "senate": [
     {
@@ -1106,30 +1106,6 @@
     }
    ]
   },
-  "41": {
-   "senate": [
-    {
-     "name": "Lisa Wellman",
-     "party": "Democrat",
-     "phone": "(360) 786-7641",
-     "email": "lisa.wellman@leg.wa.gov"
-    }
-   ],
-   "house": [
-    {
-     "name": "Janice Zahn",
-     "party": "Democrat",
-     "phone": "(360) 786-7894",
-     "email": "Janice.Zahn@leg.wa.gov"
-    },
-    {
-     "name": "My-Linh Thai",
-     "party": "Democrat",
-     "phone": "(360) 786-7926",
-     "email": "my-linh.thai@leg.wa.gov"
-    }
-   ]
-  },
   "49": {
    "senate": [
     {
@@ -1175,6 +1151,30 @@
      "party": "Republican",
      "phone": "(360) 786-7994",
      "email": "Kevin.Waters@leg.wa.gov"
+    }
+   ]
+  },
+  "41": {
+   "senate": [
+    {
+     "name": "Lisa Wellman",
+     "party": "Democrat",
+     "phone": "(360) 786-7641",
+     "email": "lisa.wellman@leg.wa.gov"
+    }
+   ],
+   "house": [
+    {
+     "name": "Janice Zahn",
+     "party": "Democrat",
+     "phone": "(360) 786-7894",
+     "email": "Janice.Zahn@leg.wa.gov"
+    },
+    {
+     "name": "My-Linh Thai",
+     "party": "Democrat",
+     "phone": "(360) 786-7926",
+     "email": "my-linh.thai@leg.wa.gov"
     }
    ]
   }
