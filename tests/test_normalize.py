@@ -718,3 +718,12 @@ def test_quiet_sources_are_flagged_after_two_weeks():
         {"name": "E", "state": "quiet"}]}
     assert [s["name"] for s in alerts.quiet_sources(status, today)] == ["A"]
     assert "nothing listed since 2026-12-01" in alerts.body([], alerts.quiet_sources(status, today))
+
+
+def test_link_check_lists_and_judges():
+    import links
+    urls = links.site_links()
+    assert urls and all(u.startswith(("http://", "https://")) for u in urls)
+    assert not any("civicswa.org/" in u.split("//", 1)[1][:15] for u in urls)
+    out = links.broken([("a", 404, ""), ("b", 403, ""), ("c", 0, "ConnectionError"), ("d", 0, "ReadTimeout"), ("e", -1, "robots")])
+    assert out == ["- Broken (404): a", "- Broken (ConnectionError): c"]

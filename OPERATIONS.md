@@ -14,6 +14,10 @@ server, database or paid service.
 - **Alerts** (`pipeline/alerts.py`): when a calendar has failed three nights in a row,
   the run opens or updates the GitHub issue "Calendar sources need attention", and
   closes it when everything reads again. Watch the repository to get those emails.
+- **Link check** (`.github/workflows/links.yml`, `pipeline/links.py`) runs Mondays and on
+  demand. It opens every outside link in the pages, guides and `site/data/local.json`
+  and lists clear failures (404, 410, or no answer) in the run summary. Blocks
+  (403, 429) and robots.txt exclusions are not counted as broken.
 - **Quiet calendars:** a calendar that answers but lists no meetings is marked "quiet".
   After 14 quiet nights in a row it is added to the same issue, because that usually
   means the site changed its layout or moved its calendar. If a source really is

@@ -1,0 +1,30 @@
+name: Check links
+
+# Weekly, and on demand: every outside link in the pages, the guides and the
+# county and city cards, so moved pages get fixed. Prints the broken ones in
+# the run summary. Read-only: it changes nothing and needs no secrets.
+on:
+  schedule:
+    - cron: "41 15 * * 1"   # Mondays, about 7:41 or 8:41 a.m. Pacific
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Check every outside link
+        run: python pipeline/links.py | tee "$GITHUB_STEP_SUMMARY"
