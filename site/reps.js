@@ -14,7 +14,8 @@
   var LOCAL = {
     places: {
       Olympia: { label: 'Olympia City Council', url: 'https://olympia.legistar.com/Calendar.aspx', note: 'Meetings, agendas and members' },
-      Lacey: { label: 'Lacey City Council', url: 'https://cityoflacey.org/government/lacey-city-council/', note: 'Members and meeting schedule' }
+      Lacey: { label: 'Lacey City Council', url: 'https://cityoflacey.org/government/lacey-city-council/', note: 'Members and meeting schedule' },
+      Spokane: { label: 'Spokane City Council', url: 'https://my.spokanecity.org/citycouncil/meetings', note: 'Meetings, agendas and how to take part' }
     },
     counties: {
       Thurston: { label: 'Thurston County Board of County Commissioners', url: 'https://www.thurstoncountywa.gov/departments/board-county-commissioners/meetings-public-hearings-and-work-session-agendas', note: 'Meetings and agendas' }
