@@ -9,7 +9,8 @@ Washington Secretary of State or any government agency.
 ## How it works
 
 - `pipeline/sources.yml` lists the public calendars the site reads.
-- `pipeline/build.py` reads each one and writes `site/data/events.json`,
+- `pipeline/build.py` reads each one and writes `site/data/events.json`
+  (plus a trimmed copy, `calendar.json`, that the calendar pages load),
   `site/data/status.json` and `site/data/thurston.ics`.
 - `.github/workflows/refresh.yml` runs that every night and saves the result.
 - `site/` is a plain static site that reads those files. No accounts, no tracking.

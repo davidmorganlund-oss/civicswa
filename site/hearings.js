@@ -279,7 +279,7 @@
       }, 200);
     });
 
-    fetch('data/events.json').then(function (r) { return r.json(); }).then(function (data) {
+    loadEvents('').then(function (data) {
       state.events = data.events || [];
       if (data.generated) {
         $('updated').textContent = 'Last refreshed ' + new Date(data.generated).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }) + '.';
@@ -296,5 +296,26 @@
       $('list').appendChild(el('p', 'empty', 'The meeting list didn’t load. Refresh the page, or see the Legislature’s committee schedule at leg.wa.gov.'));
     });
   }
+  // data/calendar.json leaves out fields at their default value, and an end
+  // time equal to the start (pipeline/build.py, slim_events). Fill them back in.
+  function unpack(e) {
+    var defaults = { agenda_url: '', note: '', location: '', url: '', cancelled: false, all_day: false };
+    Object.keys(defaults).forEach(function (k) { if (!(k in e)) e[k] = defaults[k]; });
+    if (!('end' in e)) e.end = e.start;
+    return e;
+  }
+  // The trimmed calendar file, or the full events.json until the nightly build has written it.
+  function loadEvents(base) {
+    return fetch(base + 'data/calendar.json').then(function (r) {
+      if (!r.ok) throw new Error('no calendar.json');
+      return r.json();
+    }).catch(function () {
+      return fetch(base + 'data/events.json').then(function (r) { return r.json(); });
+    }).then(function (data) {
+      data.events = (data.events || []).map(unpack);
+      return data;
+    });
+  }
+
   start();
 })();

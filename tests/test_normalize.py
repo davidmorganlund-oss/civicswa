@@ -727,3 +727,28 @@ def test_link_check_lists_and_judges():
     assert not any("civicswa.org/" in u.split("//", 1)[1][:15] for u in urls)
     out = links.broken([("a", 404, ""), ("b", 403, ""), ("c", 0, "ConnectionError"), ("d", 0, "ReadTimeout"), ("e", -1, "robots")])
     assert out == ["- Broken (404): a", "- Broken (ConnectionError): c"]
+
+
+def test_slim_events_round_trip():
+    full = [
+        {"id": "a", "title": "Council", "host": "City", "source": "city", "area": "X", "county": "King",
+         "category": "council", "start": "2026-12-01T00:00:00-08:00", "end": "2026-12-01T00:00:00-08:00",
+         "all_day": True, "location": "", "url": "https://example.org", "agenda_url": "", "note": "",
+         "cancelled": False},
+        {"id": "b", "title": "Hearing", "host": "Leg", "source": "leg", "area": "countywide", "county": "Statewide",
+         "category": "legislature", "start": "2026-12-02T10:00:00-08:00", "end": None, "all_day": False,
+         "location": "Room 1", "url": "", "agenda_url": "https://example.org/a", "note": "n", "cancelled": True,
+         "topics": ["x"]},
+    ]
+    slim = build.slim_events([dict(e) for e in full])
+    assert "source" not in slim[0] and "end" not in slim[0] and "note" not in slim[0]
+    assert slim[1]["end"] is None and slim[1]["cancelled"] is True and slim[1]["topics"] == ["x"]
+
+    # What app.js and hearings.js unpack() does, in Python.
+    def unpack(e):
+        for k, v in build.SLIM_DEFAULTS.items():
+            e.setdefault(k, v)
+        e.setdefault("end", e["start"])
+        return e
+    for before, after in zip(full, map(unpack, slim)):
+        assert after == {k: v for k, v in before.items() if k != "source"}

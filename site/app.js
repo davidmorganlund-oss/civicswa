@@ -335,6 +335,27 @@
     document.head.appendChild(tag);
   }
 
+  // data/calendar.json leaves out fields at their default value, and an end
+  // time equal to the start (pipeline/build.py, slim_events). Fill them back in.
+  function unpack(e) {
+    var defaults = { agenda_url: '', note: '', location: '', url: '', cancelled: false, all_day: false };
+    Object.keys(defaults).forEach(function (k) { if (!(k in e)) e[k] = defaults[k]; });
+    if (!('end' in e)) e.end = e.start;
+    return e;
+  }
+  // The trimmed calendar file, or the full events.json until the nightly build has written it.
+  function loadEvents(base) {
+    return fetch(base + 'data/calendar.json').then(function (r) {
+      if (!r.ok) throw new Error('no calendar.json');
+      return r.json();
+    }).catch(function () {
+      return fetch(base + 'data/events.json').then(function (r) { return r.json(); });
+    }).then(function (data) {
+      data.events = (data.events || []).map(unpack);
+      return data;
+    });
+  }
+
   // The search box filters as you type, so pressing Enter shouldn't reload the page.
   var searchForm = $('search');
   if (searchForm) searchForm.addEventListener('submit', function (ev) { ev.preventDefault(); });
@@ -432,7 +453,7 @@
   if (linkQ) { state.q = linkQ; $('q').value = linkQ; }
   setup();
   Promise.all([
-    fetch(BASE + 'data/events.json').then(function (r) { return r.json(); }),
+    loadEvents(BASE),
     fetch(BASE + 'data/status.json').then(function (r) { return r.json(); }).catch(function () { return { sources: [] }; }),
     fetch(BASE + 'data/local.json').then(function (r) { return r.json(); }).catch(function () { return {}; })
   ]).then(function (res) {
