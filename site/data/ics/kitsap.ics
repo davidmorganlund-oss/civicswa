@@ -3,53 +3,8 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Kitsap County
 BEGIN:VEVENT
-UID:3b09acf0ed13@civicswa
-DTSTAMP:20261125T075936Z
-DTSTART:20261124T213000Z
-DTEND:20261125T075900Z
-SUMMARY:CANCELLED: Finance\, Investment\, & Parking Committee Meeting (City of Bremerton)
-LOCATION:
-URL:http://www.bremertonwa.gov/Calendar.aspx
-END:VEVENT
-BEGIN:VEVENT
-UID:89fca0d62dae@civicswa
-DTSTAMP:20261125T075936Z
-DTSTART:20261125T003000Z
-DTEND:20261125T013000Z
-SUMMARY:Transportation Committee Meeting (City of Port Orchard)
-LOCATION:Meeting is being held via Zoom\; link to meeting is on the Agenda
-URL:https://portorchardwa.portal.civicclerk.com/event/2585/overview
-END:VEVENT
-BEGIN:VEVENT
-UID:5b981fc31707@civicswa
-DTSTAMP:20261125T075936Z
-DTSTART:20261125T004500Z
-DTEND:20261125T020000Z
-SUMMARY:Work Session (Port of Kingston)
-LOCATION:Village Green Community Center\, 26159 Dulay Road NE\, Kingston\, WA\, 98346\, United States
-URL:https://portofkingston.org/event/work-session-39/
-END:VEVENT
-BEGIN:VEVENT
-UID:f222d55230ef@civicswa
-DTSTAMP:20261125T075936Z
-DTSTART:20261125T020000Z
-DTEND:20261125T030000Z
-SUMMARY:City Council Business Meeting (City of Bainbridge Island)
-LOCATION:Council Chambers\, 280 Madison Avenue N.\, Bainbridge Island
-URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7949/overview
-END:VEVENT
-BEGIN:VEVENT
-UID:baa747fbfe6a@civicswa
-DTSTAMP:20261125T075936Z
-DTSTART:20261125T023000Z
-DTEND:20261125T033000Z
-SUMMARY:City Council Regular Meeting (City of Port Orchard)
-LOCATION:City Hall\, Council Chambers\, 216 Prospect Street\, Port Orchard
-URL:https://portorchardwa.portal.civicclerk.com/event/2522/overview
-END:VEVENT
-BEGIN:VEVENT
 UID:51ab29ed8ff0@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261126T010000Z
 DTEND:20261126T075900Z
 SUMMARY:CANCELLED: City Council Study Session (City of Bremerton)
@@ -58,7 +13,7 @@ URL:http://www.bremertonwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:fb7229d81345@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261201T013000Z
 DTEND:20261201T023000Z
 SUMMARY:Climate Change Advisory Committee (Rescheduled from 11/23) (City of Bainbridge Island)
@@ -67,7 +22,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7994/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:d88e3cf1929d@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261201T014500Z
 DTEND:20261201T024500Z
 SUMMARY:School Board Meeting (Bainbridge Island School District)
@@ -76,7 +31,7 @@ URL:https://www.bisd303.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:0cb63fb38125@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261201T213000Z
 DTEND:20261202T075900Z
 SUMMARY:Public Safety and Parks Committee Meeting (City of Bremerton)
@@ -85,7 +40,7 @@ URL:http://www.bremertonwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:850239b6ee90@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261202T020000Z
 DTEND:20261202T030000Z
 SUMMARY:City Council Study Session (City of Bainbridge Island)
@@ -94,7 +49,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7925/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:13c341c85ce4@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261202T020000Z
 DTEND:20261202T030000Z
 SUMMARY:Planning Commission Meeting (City of Port Orchard)
@@ -103,7 +58,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2614/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:585de46fe55d@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261203T000000Z
 DTEND:20261203T010000Z
 SUMMARY:Mobility Advisory Committee Meeting (City of Bainbridge Island)
@@ -112,7 +67,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7904/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7f84b74d3e1d@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261203T013000Z
 DTEND:20261203T075900Z
 SUMMARY:City Council Meeting (City of Bremerton)
@@ -121,7 +76,7 @@ URL:http://www.bremertonwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:0c2f9b67f36f@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261203T013000Z
 DTEND:20261203T023000Z
 SUMMARY:School Board Regular Meeting (South Kitsap School District)
@@ -130,7 +85,7 @@ URL:https://go.boarddocs.com/wa/sksdwa/Board.nsf/Public
 END:VEVENT
 BEGIN:VEVENT
 UID:5f7fca90c675@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261207T220000Z
 DTEND:20261207T230000Z
 SUMMARY:Design Review Board Regular Meeting (City of Bainbridge Island)
@@ -139,7 +94,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/1146/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:78a8c18f71f8@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261208T180000Z
 DTEND:20261209T075900Z
 SUMMARY:Commission Meeting - Regular Session (Port of Bremerton)
@@ -148,7 +103,7 @@ URL:https://www.portofbremerton.org/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:4cedc999be55@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261208T200000Z
 DTEND:20261209T075900Z
 SUMMARY:Audit Committee Meeting (City of Bremerton)
@@ -157,7 +112,7 @@ URL:http://www.bremertonwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:47cf969bb153@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261209T003000Z
 DTEND:20261209T013000Z
 SUMMARY:Utility Committee Meeting (City of Port Orchard)
@@ -166,7 +121,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2599/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8ae289d294ca@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261209T010000Z
 DTEND:20261209T075900Z
 SUMMARY:BKAT Advisory Committee Meeting (City of Bremerton)
@@ -175,7 +130,7 @@ URL:http://www.bremertonwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:1a664cea6811@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:City Council Business Meeting (City of Bainbridge Island)
@@ -184,7 +139,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7937/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:0b389acf227e@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261209T023000Z
 DTEND:20261209T033000Z
 SUMMARY:City Council Regular Meeting (City of Port Orchard)
@@ -193,7 +148,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2509/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7482f2b8d563@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261210T010000Z
 DTEND:20261210T075900Z
 SUMMARY:City Council Study Session (City of Bremerton)
@@ -202,7 +157,7 @@ URL:http://www.bremertonwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:ab5edfe2cb4f@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261210T013000Z
 DTEND:20261210T075900Z
 SUMMARY:Arts Commission Meeting (City of Bremerton)
@@ -211,7 +166,7 @@ URL:http://www.bremertonwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:6e02d5c5ada1@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261211T010000Z
 DTEND:20261211T020000Z
 SUMMARY:Regular Board Meeting (Bremerton School District)
@@ -219,17 +174,17 @@ LOCATION:Administration Building\, Board Room\, 134 Marion Ave. No.\, Bremerton\
 URL:https://bremertonschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=617
 END:VEVENT
 BEGIN:VEVENT
-UID:28131a3c9c6a@civicswa
-DTSTAMP:20261125T075936Z
+UID:c64ed8059a8d@civicswa
+DTSTAMP:20261125T080327Z
 DTSTART:20261211T013000Z
 DTEND:20261211T023000Z
 SUMMARY:Regular Board Meeting (North Kitsap School District)
 LOCATION:18360 Caldart Ave NE\, Poulsbo\, WA 98370\, USA
-URL:https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10000
+URL:https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10017
 END:VEVENT
 BEGIN:VEVENT
 UID:254f8aa85e05@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261211T014500Z
 DTEND:20261211T024500Z
 SUMMARY:School Board Meeting (Bainbridge Island School District)
@@ -238,7 +193,7 @@ URL:https://www.bisd303.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:e7b4241627fd@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261211T020000Z
 DTEND:20261211T030000Z
 SUMMARY:Planning Commission Regular Meeting - 2nd Thursday (City of Bainbridge Island)
@@ -247,7 +202,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/1170/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:51224a12ab6d@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261214T173000Z
 DTEND:20261214T183000Z
 SUMMARY:Economic Development/Tourism Committee Meeting (City of Port Orchard)
@@ -256,7 +211,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2548/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ac502f3000f5@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261214T230000Z
 DTEND:20261215T000000Z
 SUMMARY:Race Equity Advisory Committee Meeting (City of Bainbridge Island)
@@ -265,7 +220,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/4172/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:48321916fc32@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261215T010000Z
 DTEND:20261215T023000Z
 SUMMARY:District 6 Town Hall Meeting (City of Bremerton)
@@ -273,17 +228,17 @@ LOCATION:Subway Community Room - 3850 Kitsap Way Bremerton WA 98312
 URL:http://www.bremertonwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
-UID:a35a6c522f47@civicswa
-DTSTAMP:20261125T075936Z
+UID:d3a7e7bd83ef@civicswa
+DTSTAMP:20261125T080327Z
 DTSTART:20261215T165000Z
 DTEND:20261215T175000Z
 SUMMARY:School Connections - Vinland Elementary (North Kitsap School District)
 LOCATION:
-URL:https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10017
+URL:https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10010
 END:VEVENT
 BEGIN:VEVENT
 UID:76c91bc99c11@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261215T220000Z
 DTEND:20261216T075900Z
 SUMMARY:Public Works Committee Meeting (City of Bremerton)
@@ -292,7 +247,7 @@ URL:http://www.bremertonwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:48b13680fbb4@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261216T003000Z
 DTEND:20261216T013000Z
 SUMMARY:Finance Committee Meeting (City of Port Orchard)
@@ -301,7 +256,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2560/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:cdec8019e191@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261216T013000Z
 DTEND:20261216T023000Z
 SUMMARY:CANCELLED: Board of Trustees - Regular Board Meeting (Kitsap Regional Library)
@@ -310,7 +265,7 @@ URL:https://krl.community.diligentoneplatform.com/Portal/MeetingInformation.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:c98bcb254925@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:City Council Study Session (City of Bainbridge Island)
@@ -319,7 +274,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7924/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:cce6b030c426@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261216T023000Z
 DTEND:20261216T033000Z
 SUMMARY:City Council Regular Meeting (City of Port Orchard)
@@ -328,7 +283,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2535/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:7c09d8e216a9@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261217T004500Z
 DTEND:20261217T014500Z
 SUMMARY:CANCELLED: Land Use Committee Meeting (City of Port Orchard)
@@ -337,7 +292,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2573/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:4a381ac72225@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261217T010000Z
 DTEND:20261217T020000Z
 SUMMARY:Regular Session of the School Board (Central Kitsap School District)
@@ -346,7 +301,7 @@ URL:https://ckschools.community.diligentoneplatform.com/Portal/MeetingInformatio
 END:VEVENT
 BEGIN:VEVENT
 UID:9c2b4605b008@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261217T013000Z
 DTEND:20261217T075900Z
 SUMMARY:City Council Meeting (City of Bremerton)
@@ -355,7 +310,7 @@ URL:http://www.bremertonwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:db60e7a2479a@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261217T013000Z
 DTEND:20261217T023000Z
 SUMMARY:School Board Study Session (South Kitsap School District)
@@ -364,7 +319,7 @@ URL:https://go.boarddocs.com/wa/sksdwa/Board.nsf/Public
 END:VEVENT
 BEGIN:VEVENT
 UID:e2ed357ce949@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261217T023000Z
 DTEND:20261217T033000Z
 SUMMARY:Ethics Board Meeting (City of Bainbridge Island)
@@ -373,7 +328,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/1128/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:399ee06b056e@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261218T013000Z
 DTEND:20261218T023000Z
 SUMMARY:Utility Advisory Committee (City of Bainbridge Island)
@@ -382,7 +337,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/4119/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:b3239bf8da7a@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261221T220000Z
 DTEND:20261221T230000Z
 SUMMARY:Design Review Board Regular Meeting (City of Bainbridge Island)
@@ -391,7 +346,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/1158/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:1a28ff2c668a@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261222T180000Z
 DTEND:20261223T075900Z
 SUMMARY:Commission Meeting - Regular Session (Port of Bremerton)
@@ -400,7 +355,7 @@ URL:https://www.portofbremerton.org/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:3078ad59ac74@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261222T213000Z
 DTEND:20261223T075900Z
 SUMMARY:Finance\, Investment\, & Parking Committee Meeting (City of Bremerton)
@@ -409,7 +364,7 @@ URL:http://www.bremertonwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:a7e1543c94c9@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261223T003000Z
 DTEND:20261223T013000Z
 SUMMARY:Transportation Committee Meeting (City of Port Orchard)
@@ -418,7 +373,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2586/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:a3b3eb9ace6a@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:City Council Business Meeting (City of Bainbridge Island)
@@ -427,7 +382,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7950/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:748c245d44fd@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261224T000000Z
 DTEND:20261224T010000Z
 SUMMARY:Environmental Technical Advisory Committee (ETAC) (City of Bainbridge Island)
@@ -436,7 +391,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7758/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ef8787eb5ff9@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261229T013000Z
 DTEND:20261229T023000Z
 SUMMARY:Climate Change Advisory Committee Meeting (City of Bainbridge Island)
@@ -445,7 +400,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7982/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:fe40d3da5e41@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270101T014500Z
 DTEND:20270101T024500Z
 SUMMARY:School Board Meeting (Bainbridge Island School District)
@@ -454,7 +409,7 @@ URL:https://www.bisd303.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:0a5f38e58498@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270106T020000Z
 DTEND:20270106T030000Z
 SUMMARY:Planning Commission Meeting (City of Port Orchard)
@@ -463,7 +418,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2615/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:0910cccb5197@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270107T013000Z
 DTEND:20270107T023000Z
 SUMMARY:School Board Study Session (South Kitsap School District)
@@ -472,7 +427,7 @@ URL:https://go.boarddocs.com/wa/sksdwa/Board.nsf/Public
 END:VEVENT
 BEGIN:VEVENT
 UID:fcedc23fe5e2@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270111T173000Z
 DTEND:20270111T183000Z
 SUMMARY:Economic Development/Tourism Committee Meeting (City of Port Orchard)
@@ -481,7 +436,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2549/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:82b478704c14@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270112T013000Z
 DTEND:20270112T023000Z
 SUMMARY:Board of Commissioners Regular Meeting (Kitsap County Board of Commissioners)
@@ -489,17 +444,17 @@ LOCATION:Commissioners Chambers\, 619 Division St.\, Port Orchard\, and on Zoom
 URL:https://www.kitsap.gov/BOC_p
 END:VEVENT
 BEGIN:VEVENT
-UID:f662f54303e9@civicswa
-DTSTAMP:20261125T075936Z
+UID:ef148b3fb82d@civicswa
+DTSTAMP:20261125T080327Z
 DTSTART:20270112T153000Z
 DTEND:20270112T163000Z
 SUMMARY:School Connections - Kingston Middle School (North Kitsap School District)
 LOCATION:
-URL:https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10001
+URL:https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10006
 END:VEVENT
 BEGIN:VEVENT
 UID:9d227da3e1d7@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270112T180000Z
 DTEND:20270113T075900Z
 SUMMARY:Commission Meeting - Regular Session (Port of Bremerton)
@@ -508,7 +463,7 @@ URL:https://www.portofbremerton.org/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:4448147442c4@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270112T230000Z
 DTEND:20270113T000000Z
 SUMMARY:Sewer (SAC) (City of Port Orchard)
@@ -517,7 +472,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2643/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:93cf7b3b367c@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270112T230000Z
 DTEND:20270113T000000Z
 SUMMARY:Sewer Advisory Committee Meeting (City of Port Orchard)
@@ -526,7 +481,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2639/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8e14fc1b3f71@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270113T003000Z
 DTEND:20270113T013000Z
 SUMMARY:Utility Committee Meeting (City of Port Orchard)
@@ -535,7 +490,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2600/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:5063f58ba19d@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270113T020000Z
 DTEND:20270113T030000Z
 SUMMARY:City Council Business Meeting (City of Bainbridge Island)
@@ -544,7 +499,7 @@ URL:https://bainbridgeislandwa.portal.civicclerk.com/event/7995/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:40f3c750f7a8@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270113T023000Z
 DTEND:20270113T033000Z
 SUMMARY:City Council Regular Meeting (City of Port Orchard)
@@ -553,7 +508,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2666/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:555178ae782c@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270113T023000Z
 DTEND:20270113T033000Z
 SUMMARY:City Council Regular Meeting -2nd Tuesday (City of Port Orchard)
@@ -562,7 +517,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2510/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:5219e2f6f54f@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270114T010000Z
 DTEND:20270114T020000Z
 SUMMARY:Study Session (Central Kitsap School District)
@@ -571,7 +526,7 @@ URL:https://ckschools.community.diligentoneplatform.com/Portal/MeetingInformatio
 END:VEVENT
 BEGIN:VEVENT
 UID:416c498a7fee@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270115T010000Z
 DTEND:20270115T020000Z
 SUMMARY:Regular Board Meeting (Bremerton School District)
@@ -580,7 +535,7 @@ URL:https://bremertonschools.community.diligentoneplatform.com/Portal/MeetingInf
 END:VEVENT
 BEGIN:VEVENT
 UID:b44f63658f91@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270115T014500Z
 DTEND:20270115T024500Z
 SUMMARY:School Board Meeting (Bainbridge Island School District)
@@ -589,7 +544,7 @@ URL:https://www.bisd303.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:445ad2b57644@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270120T003000Z
 DTEND:20270120T013000Z
 SUMMARY:Finance Committee Meeting (City of Port Orchard)
@@ -598,7 +553,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2561/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8b1244e9adce@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270120T023000Z
 DTEND:20270120T033000Z
 SUMMARY:City Council Work Study Session (City of Port Orchard)
@@ -607,7 +562,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2536/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8ba656860300@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270121T004500Z
 DTEND:20270121T014500Z
 SUMMARY:Land Use Committee Meeting (City of Port Orchard)
@@ -616,7 +571,7 @@ URL:https://portorchardwa.portal.civicclerk.com/event/2574/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:dd461d730162@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270121T013000Z
 DTEND:20270121T023000Z
 SUMMARY:School Board Regular Meeting (South Kitsap School District)
@@ -625,7 +580,7 @@ URL:https://go.boarddocs.com/wa/sksdwa/Board.nsf/Public
 END:VEVENT
 BEGIN:VEVENT
 UID:0a59e7a93fcf@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270121T023000Z
 DTEND:20270121T033000Z
 SUMMARY:Ethics Board Meeting (City of Bainbridge Island)
@@ -633,12 +588,12 @@ LOCATION:280 Madison Avenue N\, Bainbridge Island
 URL:https://bainbridgeislandwa.portal.civicclerk.com/event/1129/overview
 END:VEVENT
 BEGIN:VEVENT
-UID:a17c9dd118a7@civicswa
-DTSTAMP:20261125T075936Z
+UID:bb3a9f02d70a@civicswa
+DTSTAMP:20261125T080327Z
 DTSTART:20270122T013000Z
 DTEND:20270122T023000Z
 SUMMARY:Regular Board Meeting (North Kitsap School District)
 LOCATION:18360 Caldart Ave NE\, Poulsbo\, WA 98370\, USA
-URL:https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10002
+URL:https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10009
 END:VEVENT
 END:VCALENDAR

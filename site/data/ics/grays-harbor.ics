@@ -3,53 +3,8 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Grays Harbor County
 BEGIN:VEVENT
-UID:e4aec1377ffb@civicswa
-DTSTAMP:20261125T075936Z
-DTSTART:20261124T180000Z
-DTEND:20261124T190000Z
-SUMMARY:Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
-LOCATION:100 W. Broadway\, Montesano\, and online
-URL:https://www.graysharbor.gov/government/commissioners/meetings-agendas/
-END:VEVENT
-BEGIN:VEVENT
-UID:65364aece286@civicswa
-DTSTAMP:20261125T075936Z
-DTSTART:20261124T183000Z
-DTEND:20261124T193000Z
-SUMMARY:Radio Board Meeting (City of Ocean Shores)
-LOCATION:Ocean Shores Library
-URL:https://oceanshores.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=12748
-END:VEVENT
-BEGIN:VEVENT
-UID:abcd29b825d7@civicswa
-DTSTAMP:20261125T075936Z
-DTSTART:20261125T003000Z
-DTEND:20261125T013000Z
-SUMMARY:City Council Study Session (City of Ocean Shores)
-LOCATION:Convention Center
-URL:https://oceanshores.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=12750
-END:VEVENT
-BEGIN:VEVENT
-UID:12edb9ecdc2d@civicswa
-DTSTAMP:20261125T075936Z
-DTSTART:20261125T020000Z
-DTEND:20261125T030000Z
-SUMMARY:Regular City Council Meeting (City of Ocean Shores)
-LOCATION:Convention Center
-URL:https://oceanshores.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=12738
-END:VEVENT
-BEGIN:VEVENT
-UID:dd6b6b5ea8a1@civicswa
-DTSTAMP:20261125T075936Z
-DTSTART:20261125T020000Z
-DTEND:20261125T030000Z
-SUMMARY:Board meeting (Cosmopolis School District)
-LOCATION:
-URL:https://www.cosmopolisschool.com/
-END:VEVENT
-BEGIN:VEVENT
 UID:f586bcb7fac3@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261201T180000Z
 DTEND:20261201T190000Z
 SUMMARY:Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
@@ -58,7 +13,7 @@ URL:https://www.graysharbor.gov/government/commissioners/meetings-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:3ef3bbec6c8d@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261202T020000Z
 DTEND:20261202T030000Z
 SUMMARY:School Board Meeting (Aberdeen School District)
@@ -67,7 +22,7 @@ URL:https://www.asd5.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:9a654d054f8f@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261208T180000Z
 DTEND:20261208T190000Z
 SUMMARY:Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
@@ -76,7 +31,7 @@ URL:https://www.graysharbor.gov/government/commissioners/meetings-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:d51f52fd1f01@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:Regular City Council Meeting (City of Ocean Shores)
@@ -85,7 +40,7 @@ URL:https://oceanshores.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=1
 END:VEVENT
 BEGIN:VEVENT
 UID:da51a99d734a@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261210T023000Z
 DTEND:20261210T043000Z
 SUMMARY:Aberdeen City Council Meeting (City of Aberdeen)
@@ -94,7 +49,7 @@ URL:https://www.aberdeenwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:d8c0268d589d@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261215T013000Z
 DTEND:20261215T030000Z
 SUMMARY:Hoquiam School Board Work Session (Hoquiam School District)
@@ -103,7 +58,7 @@ URL:http://www.hoquiam.net/
 END:VEVENT
 BEGIN:VEVENT
 UID:7d43ee1b3dbd@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261215T180000Z
 DTEND:20261215T190000Z
 SUMMARY:Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
@@ -112,7 +67,7 @@ URL:https://www.graysharbor.gov/government/commissioners/meetings-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:76da878c62fc@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:School Board Meeting (Aberdeen School District)
@@ -121,7 +76,7 @@ URL:https://www.asd5.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:9d44f4a09496@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:School Board Meeting (North Beach School District)
@@ -130,7 +85,7 @@ URL:https://www.northbeachschools.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d43a7e3a66a@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261217T013000Z
 DTEND:20261217T033000Z
 SUMMARY:School Board Meeting (Taholah School District)
@@ -139,7 +94,7 @@ URL:http://www.taholah.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:73f77e7bc99f@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261217T030000Z
 DTEND:20261217T040000Z
 SUMMARY:District School Board Meeting (Lake Quinault School District)
@@ -148,7 +103,7 @@ URL:https://www.lakequinaultschools.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:adc5e4a1d4f8@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261218T013000Z
 DTEND:20261218T030000Z
 SUMMARY:Hoquiam School Board Meeting (Hoquiam School District)
@@ -157,7 +112,7 @@ URL:http://www.hoquiam.net/
 END:VEVENT
 BEGIN:VEVENT
 UID:2e75c5c1f324@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261222T023000Z
 DTEND:20261222T033000Z
 SUMMARY:School Board Meeting (Satsop School District)
@@ -166,7 +121,7 @@ URL:http://www.satsopschool.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:4195fe8f7d7b@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261222T180000Z
 DTEND:20261222T190000Z
 SUMMARY:Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
@@ -175,7 +130,7 @@ URL:https://www.graysharbor.gov/government/commissioners/meetings-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:bf43f94362a0@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261222T183000Z
 DTEND:20261222T193000Z
 SUMMARY:Radio Board Meeting (City of Ocean Shores)
@@ -184,7 +139,7 @@ URL:https://oceanshores.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=1
 END:VEVENT
 BEGIN:VEVENT
 UID:37b84a84349f@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:CANCELLED: Regular City Council Meeting (City of Ocean Shores)
@@ -193,7 +148,7 @@ URL:https://oceanshores.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=1
 END:VEVENT
 BEGIN:VEVENT
 UID:eeb64adbbae8@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:Board meeting (Cosmopolis School District)
@@ -202,7 +157,7 @@ URL:https://www.cosmopolisschool.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:d7438939a8da@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261224T023000Z
 DTEND:20261224T043000Z
 SUMMARY:Aberdeen City Council Meeting (City of Aberdeen)
@@ -211,7 +166,7 @@ URL:https://www.aberdeenwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:115925bd0baf@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261225T010000Z
 DTEND:20261225T020000Z
 SUMMARY:School Board Regular Meeting (Wishkah Valley School District)
@@ -220,7 +175,7 @@ URL:https://go.boarddocs.com/wa/wishkah/Board.nsf/Public
 END:VEVENT
 BEGIN:VEVENT
 UID:48b1b6d3ee2a@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261230T030000Z
 DTEND:20261230T043000Z
 SUMMARY:Ocosta School Board Meeting (Ocosta School District)
@@ -229,7 +184,7 @@ URL:http://www.ocosta.k12.wa.us/
 END:VEVENT
 BEGIN:VEVENT
 UID:dd2f22919670@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20261231T023000Z
 DTEND:20261231T043000Z
 SUMMARY:Aberdeen City Council Meeting (City of Aberdeen)
@@ -238,7 +193,7 @@ URL:https://www.aberdeenwa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:4f28255f99f7@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270101T023000Z
 DTEND:20270101T033000Z
 SUMMARY:School Board Meeting (McCleary School District)
@@ -247,7 +202,7 @@ URL:https://mccleary.wednet.edu/
 END:VEVENT
 BEGIN:VEVENT
 UID:8f9b85f1f624@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270105T180000Z
 DTEND:20270105T190000Z
 SUMMARY:Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
@@ -256,7 +211,7 @@ URL:https://www.graysharbor.gov/government/commissioners/meetings-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:99a4ff22a985@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270106T020000Z
 DTEND:20270106T030000Z
 SUMMARY:School Board Meeting (Aberdeen School District)
@@ -265,7 +220,7 @@ URL:https://www.asd5.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:e28588f591b5@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270112T180000Z
 DTEND:20270112T190000Z
 SUMMARY:Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
@@ -274,7 +229,7 @@ URL:https://www.graysharbor.gov/government/commissioners/meetings-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:00195b32571e@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270119T180000Z
 DTEND:20270119T190000Z
 SUMMARY:Board of Commissioners Meeting (Grays Harbor County Board of Commissioners)
@@ -283,7 +238,7 @@ URL:https://www.graysharbor.gov/government/commissioners/meetings-agendas/
 END:VEVENT
 BEGIN:VEVENT
 UID:c3e56cd0023a@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270120T013000Z
 DTEND:20270120T030000Z
 SUMMARY:Hoquiam School Board Work Session (Hoquiam School District)
@@ -292,7 +247,7 @@ URL:http://www.hoquiam.net/
 END:VEVENT
 BEGIN:VEVENT
 UID:06bc8d4feed0@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270120T020000Z
 DTEND:20270120T030000Z
 SUMMARY:School Board Meeting (Aberdeen School District)
@@ -301,7 +256,7 @@ URL:https://www.asd5.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:80f974479643@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270120T020000Z
 DTEND:20270120T030000Z
 SUMMARY:School Board Meeting (North Beach School District)
@@ -310,7 +265,7 @@ URL:https://www.northbeachschools.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:bc5dff5676ad@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270120T023000Z
 DTEND:20270120T033000Z
 SUMMARY:School Board Meeting (Satsop School District)
@@ -319,7 +274,7 @@ URL:http://www.satsopschool.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:16cfe4f950a2@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270121T030000Z
 DTEND:20270121T040000Z
 SUMMARY:District School Board Meeting (Lake Quinault School District)
@@ -328,7 +283,7 @@ URL:https://www.lakequinaultschools.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:8be263c66d9f@civicswa
-DTSTAMP:20261125T075936Z
+DTSTAMP:20261125T080327Z
 DTSTART:20270122T013000Z
 DTEND:20270122T030000Z
 SUMMARY:Hoquiam School Board Meeting (Hoquiam School District)
