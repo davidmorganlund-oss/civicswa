@@ -236,6 +236,7 @@
     people(fed, congress.house[cd] ? [congress.house[cd]] : [], 'No representative listed.');
     fed.appendChild(el('h4', null, 'U.S. Senators'));
     people(fed, congress.senators, 'No senators listed.');
+    fed.appendChild(el('p', 'muted', 'Newly elected members of Congress take office on January 3 after the election. This list updates after they are sworn in.'));
     out.appendChild(fed);
   }
 
@@ -253,7 +254,7 @@
       var matches = data && data.result && data.result.addressMatches;
       if (!matches || !matches.length) {
         out.textContent = '';
-        out.appendChild(el('p', 'empty', 'We could not find that address. Check the spelling, include the city or ZIP code, and leave off apartment numbers.'));
+        out.appendChild(el('p', 'empty', 'We could not find that address. Check the street number, spelling and ZIP code, and leave off apartment numbers. If it still does not work, try a nearby street address. Some government buildings are not in the Census Bureau’s address list.'));
         return;
       }
       render(matches[0]);
