@@ -57,12 +57,6 @@
      "party": "Democrat",
      "phone": "(360) 786-7667",
      "email": "Emily.Alvarado@leg.wa.gov"
-    },
-    {
-     "name": "Joe Nguyen",
-     "party": "Democrat",
-     "phone": "(360) 786-7667",
-     "email": "joe.nguyen@leg.wa.gov"
     }
    ],
    "house": [
@@ -71,12 +65,6 @@
      "party": "Democrat",
      "phone": "(360) 786-7978",
      "email": "THOMAS_BR@leg.wa.gov"
-    },
-    {
-     "name": "Emily Alvarado",
-     "party": "Democrat",
-     "phone": "(360) 786-7978",
-     "email": "Emily.Alvarado@leg.wa.gov"
     },
     {
      "name": "Joe Fitzgibbon",
@@ -241,12 +229,6 @@
    ],
    "house": [
     {
-     "name": "Chris Kilduff",
-     "party": "Democrat",
-     "phone": "(360) 786-7174",
-     "email": "KILDUFF_CH@leg.wa.gov"
-    },
-    {
      "name": "Dan Bronoske",
      "party": "Democrat",
      "phone": "(360) 786-7958",
@@ -287,12 +269,6 @@
   "5": {
    "senate": [
     {
-     "name": "Bill Ramos",
-     "party": "Democrat",
-     "phone": "(360) 786-7608",
-     "email": "bill.ramos@leg.wa.gov"
-    },
-    {
      "name": "Victoria Hunt",
      "party": "Democrat",
      "phone": "(360) 786-7608",
@@ -305,12 +281,6 @@
      "party": "Democrat",
      "phone": "(360) 786-7876",
      "email": "Lisa.Callan@leg.wa.gov"
-    },
-    {
-     "name": "Victoria Hunt",
-     "party": "Democrat",
-     "phone": "(360) 786-7852",
-     "email": "Victoria.Hunt@leg.wa.gov"
     },
     {
      "name": "Zach Hall",
@@ -1157,12 +1127,6 @@
      "party": "Democrat",
      "phone": "(360) 786-7926",
      "email": "my-linh.thai@leg.wa.gov"
-    },
-    {
-     "name": "Tana Senn",
-     "party": "Democrat",
-     "phone": "(360) 786-7894",
-     "email": "tana.senn@leg.wa.gov"
     }
    ]
   },

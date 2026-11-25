@@ -162,6 +162,12 @@ def test_officials_parsers():
     from datetime import date as d
     assert officials.biennium_for(d(2026, 11, 11)) == "2025-26"
     assert officials.biennium_for(d(2027, 1, 12)) == "2027-28"
+    # New members are sworn in on the second Monday of January (Jan 11, 2027).
+    assert officials.biennium_for(d(2027, 1, 1)) == "2025-26"
+    assert officials.biennium_for(d(2027, 1, 10)) == "2025-26"
+    assert officials.biennium_for(d(2027, 1, 11)) == "2027-28"
+    assert officials.term_start(2029) == d(2029, 1, 8)
+    assert officials.previous_biennium("2027-28") == "2025-26"
     xml = """<ArrayOfMember xmlns="http://WSLWebServices.leg.wa.gov/">
       <Member><Id>1</Id><Name>Pat Example</Name><Agency>House</Agency><Party>R</Party><District>20</District>
         <Phone>(360) 555-0100</Phone><Email>pat@example.org</Email></Member>
@@ -171,6 +177,12 @@ def test_officials_parsers():
     assert leg["20"]["house"][0] == {"name": "Pat Example", "party": "Republican",
                                      "phone": "(360) 555-0100", "email": "pat@example.org"}
     assert leg["20"]["senate"][0]["party"] == "Democrat"
+    # Members who left the seat are dropped; the log flags any district still over its seats.
+    left = officials.parse_legislators(xml, {("senate", "20", "Sam Sample")})
+    assert left["20"]["senate"] == [] and left["20"]["house"][0]["name"] == "Pat Example"
+    crowded = {"5": {"senate": [{"name": "A"}, {"name": "B"}], "house": [{"name": "C"}, {"name": "D"}]}}
+    assert officials.extra_members(crowded) == ["LD 5 senate: A, B"]
+    assert not officials.extra_members(leg)
     rows = [{"name": {"official_full": "A Senator"}, "terms": [{"type": "sen", "state": "WA", "party": "Democrat"}]},
             {"name": {"first": "B", "last": "Rep"}, "terms": [{"type": "rep", "state": "WA", "district": 10}]},
             {"name": {"official_full": "Other"}, "terms": [{"type": "rep", "state": "OR", "district": 1}]}]
@@ -706,3 +718,38 @@ def test_quiet_sources_are_flagged_after_two_weeks():
         {"name": "E", "state": "quiet"}]}
     assert [s["name"] for s in alerts.quiet_sources(status, today)] == ["A"]
     assert "nothing listed since 2026-12-01" in alerts.body([], alerts.quiet_sources(status, today))
+
+
+def test_link_check_lists_and_judges():
+    import links
+    urls = links.site_links()
+    assert urls and all(u.startswith(("http://", "https://")) for u in urls)
+    from urllib.parse import urlparse
+    assert not any(urlparse(u).hostname in ("civicswa.org", "www.civicswa.org") for u in urls)
+    out = links.broken([("a", 404, ""), ("b", 403, ""), ("c", 0, "ConnectionError"), ("d", 0, "ReadTimeout"), ("e", -1, "robots")])
+    assert out == ["- Broken (404): a", "- Broken (ConnectionError): c"]
+
+
+def test_slim_events_round_trip():
+    full = [
+        {"id": "a", "title": "Council", "host": "City", "source": "city", "area": "X", "county": "King",
+         "category": "council", "start": "2026-12-01T00:00:00-08:00", "end": "2026-12-01T00:00:00-08:00",
+         "all_day": True, "location": "", "url": "https://example.org", "agenda_url": "", "note": "",
+         "cancelled": False},
+        {"id": "b", "title": "Hearing", "host": "Leg", "source": "leg", "area": "countywide", "county": "Statewide",
+         "category": "legislature", "start": "2026-12-02T10:00:00-08:00", "end": None, "all_day": False,
+         "location": "Room 1", "url": "", "agenda_url": "https://example.org/a", "note": "n", "cancelled": True,
+         "topics": ["x"]},
+    ]
+    slim = build.slim_events([dict(e) for e in full])
+    assert "source" not in slim[0] and "end" not in slim[0] and "note" not in slim[0]
+    assert slim[1]["end"] is None and slim[1]["cancelled"] is True and slim[1]["topics"] == ["x"]
+
+    # What app.js and hearings.js unpack() does, in Python.
+    def unpack(e):
+        for k, v in build.SLIM_DEFAULTS.items():
+            e.setdefault(k, v)
+        e.setdefault("end", e["start"])
+        return e
+    for before, after in zip(full, map(unpack, slim)):
+        assert after == {k: v for k, v in before.items() if k != "source"}

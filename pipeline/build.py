@@ -2,7 +2,8 @@
 and write the files the site reads.
 
 Outputs (in site/data/):
-  events.json   upcoming events, soonest first
+  events.json   upcoming events, soonest first (the full record; the next run reads it)
+  calendar.json the same events, trimmed for the calendar pages (see slim_events)
   status.json   per-source health, so a quiet or broken source is visible
   thurston.ics  a subscribable calendar of everything in events.json
 
@@ -1259,6 +1260,26 @@ def ics_escape(text: str) -> str:
     return (text or "").replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,").replace("\n", "\\n")
 
 
+# Fields the calendar pages fill back in when they are left out (app.js and
+# hearings.js, unpack()). Keep the two lists in step.
+SLIM_DEFAULTS = {"agenda_url": "", "note": "", "location": "", "url": "", "cancelled": False, "all_day": False}
+
+
+def slim_events(events: list[dict]) -> list[dict]:
+    """The events as the calendar pages need them, for site/data/calendar.json.
+    Drops `source` (only the pipeline reads it), fields at their default value,
+    and an `end` equal to `start`. The pages restore all of these on load, so
+    what visitors see is unchanged."""
+    out = []
+    for e in events:
+        slim = {k: v for k, v in e.items()
+                if k != "source" and not (k in SLIM_DEFAULTS and v == SLIM_DEFAULTS[k])}
+        if slim.get("end") is not None and slim.get("end") == slim.get("start"):
+            del slim["end"]
+        out.append(slim)
+    return out
+
+
 def write_ics(events, path: Path, stamp: datetime, name: str = "Washington"):
     utc = ZoneInfo("UTC")
     fmt = "%Y%m%dT%H%M%SZ"
@@ -1409,6 +1430,8 @@ def main() -> int:
     OUT.mkdir(parents=True, exist_ok=True)
     stamp = now.isoformat(timespec="seconds")
     (OUT / "events.json").write_text(json.dumps({"generated": stamp, "events": events}, indent=1))
+    (OUT / "calendar.json").write_text(json.dumps({"generated": stamp, "events": slim_events(events)},
+                                                  separators=(",", ":"), ensure_ascii=False))
     (OUT / "status.json").write_text(json.dumps({"generated": stamp, "sources": statuses}, indent=1))
     # One subscribable calendar per county, plus a statewide one. The original
     # data/thurston.ics address stays so existing subscriptions keep working.
