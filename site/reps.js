@@ -22,6 +22,28 @@
     }
   };
 
+  // Swearing-in days for the next new terms. Around each one (60 days before to
+  // 14 days after) the cards name the date; otherwise they show a general note.
+  // Update after each general election: the Legislature on the second Monday
+  // of January in odd years, Congress on January 3.
+  var NEW_TERM = { legislature: '2027-01-11', congress: '2027-01-03' };
+  var NEW_TERM_BEFORE = 60, NEW_TERM_AFTER = 14;
+
+  function newTermNote(key, today) {
+    var day = NEW_TERM[key];
+    if (!day) return '';
+    var now = today || new Date();
+    var at = new Date(day + 'T12:00:00');
+    // Whole calendar days from today to the swearing-in day.
+    var diff = Math.round((Date.UTC(at.getFullYear(), at.getMonth(), at.getDate()) -
+      Date.UTC(now.getFullYear(), now.getMonth(), now.getDate())) / 864e5);
+    if (diff > NEW_TERM_BEFORE || diff < -NEW_TERM_AFTER) return '';
+    var when = at.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+    return diff >= 0
+      ? 'New members take office on ' + when + '. This list updates after they are sworn in.'
+      : 'New members took office on ' + when + '. This list may take a few days to catch up.';
+  }
+
   var officials = null;
   var localData = null;
   var $ = function (id) { return document.getElementById(id); };
@@ -225,7 +247,7 @@
       leg.appendChild(el('p', 'muted', 'We could not load the member list.'));
     }
     var confirm = el('p', 'muted');
-    confirm.appendChild(document.createTextNode('Newly elected members take office in January. Confirm current members with the Legislature’s '));
+    confirm.appendChild(document.createTextNode((newTermNote('legislature') || 'Newly elected members take office in January.') + ' Confirm current members with the Legislature’s '));
     confirm.appendChild(link(LEG_FINDER, 'District Finder'));
     confirm.appendChild(document.createTextNode('.'));
     leg.appendChild(confirm);
@@ -237,7 +259,7 @@
     people(fed, congress.house[cd] ? [congress.house[cd]] : [], 'No representative listed.');
     fed.appendChild(el('h4', null, 'U.S. Senators'));
     people(fed, congress.senators, 'No senators listed.');
-    fed.appendChild(el('p', 'muted', 'Newly elected members of Congress take office on January 3 after the election. This list updates after they are sworn in.'));
+    fed.appendChild(el('p', 'muted', newTermNote('congress') || 'Newly elected members of Congress take office on January 3 after the election. This list updates after they are sworn in.'));
     out.appendChild(fed);
   }
 
