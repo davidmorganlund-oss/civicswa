@@ -4,7 +4,27 @@
   'use strict';
 
   var SESSION_START = '2027-01-11'; // second Monday in January
-  var TOPICS = {
+  // Pages under es/ set <html lang="es" data-base="../">: Spanish wording,
+  // dates in es-US, and data one folder up. Committee names, bill titles and
+  // agenda text come from the Legislature and stay in English.
+  var ES = (document.documentElement.lang || '').slice(0, 2) === 'es';
+  var BASE = document.documentElement.getAttribute('data-base') || '';
+  var LOCALE = ES ? 'es-US' : 'en-US';
+  var TOPICS = ES ? {
+    justice: 'Sistema penal y seguridad pública',
+    housing: 'Vivienda y personas sin hogar',
+    education: 'Escuelas y universidades',
+    health: 'Salud y salud mental',
+    elections: 'Elecciones y gobierno estatal',
+    environment: 'Medio ambiente, energía y tierras',
+    transportation: 'Transporte',
+    budget: 'Presupuesto e impuestos',
+    labor: 'Trabajadores y empleos',
+    families: 'Familias y servicios humanos',
+    tribes: 'Relaciones con las tribus',
+    business: 'Negocios, consumidores y tecnología',
+    local: 'Ciudades y condados'
+  } : {
     justice: 'Criminal legal & public safety',
     housing: 'Housing & homelessness',
     education: 'Schools & colleges',
@@ -20,6 +40,40 @@
     local: 'Cities & counties'
   };
   var CSI = 'https://app.leg.wa.gov/csi';
+  // Our own wording in Spanish. Plural forms are picked by count where used.
+  var S = ES ? {
+    today: 'Hoy', tomorrow: 'Mañana', hearingOpen: 'Audiencia pública: se aceptan testimonios',
+    possibleVote: 'Posible votación del comité', vote: 'Votación del comité', briefing: 'Sesión informativa',
+    oneBill: '1 proyecto de ley en la agenda', bills: function (n) { return n + ' proyectos de ley en la agenda'; },
+    otherBills: function (n) { return 'y ' + n + (n === 1 ? ' proyecto de ley más' : ' proyectos de ley más') + ' en esta agenda'; },
+    tba: 'Hora por confirmar', cancelled: 'Cancelada', publicHearing: 'Audiencia pública', committee: 'Reunión de comité', workSession: 'Sesión de trabajo',
+    onAgenda: 'En la agenda', more: function (n) { return 'y ' + n + ' más'; },
+    agenda: 'Agenda completa (en inglés)', testify: 'Testificar o registrarse (en inglés)', tvw: 'Ver en TVW (en inglés)', addCal: 'Agregar a mi calendario',
+    allUpcoming: 'Todas las próximas', meetings: function (n) { return n + (n === 1 ? ' reunión' : ' reuniones'); },
+    hearings: function (n) { return n + (n === 1 ? ' audiencia pública' : ' audiencias públicas'); },
+    noBills: 'Ninguna agenda de comité incluye proyectos de ley en este momento. Las audiencias de proyectos de ley aparecerán aquí cuando la Legislatura las programe, sobre todo durante la sesión que empieza cada enero.',
+    noMatch: 'Ninguna reunión de comité próxima coincide. Pruebe otra palabra u otro tema, o vuelva a revisar cuando los comités publiquen sus agendas.',
+    noneDay: function (today) { return 'No hay reuniones de comités programadas ' + (today ? 'hoy' : 'en este día') + '.'; },
+    between: ' Entre sesiones, los comités se reúnen solo unos pocos días al mes. La sesión de 2027 empieza el lunes 11 de enero, y la mayoría de los comités se reúnen todos los días hábiles después de esa fecha.',
+    topicAll: function (t) { return t + ': todas las próximas'; }, allMeetings: 'Todas las próximas reuniones de comités',
+    refreshed: 'Actualizado el ', failed: 'La lista de reuniones no se cargó. Actualice la página o consulte el calendario de comités de la Legislatura en leg.wa.gov (en inglés).'
+  } : {
+    today: 'Today', tomorrow: 'Tomorrow', hearingOpen: 'Public hearing: testimony welcome',
+    possibleVote: 'Possible committee vote', vote: 'Committee vote', briefing: 'Briefing',
+    oneBill: '1 bill on the agenda', bills: function (n) { return n + ' bills on the agenda'; },
+    otherBills: function (n) { return 'and ' + n + ' other ' + (n === 1 ? 'bill' : 'bills') + ' on this agenda'; },
+    tba: 'Time TBA', cancelled: 'Cancelled', publicHearing: 'Public hearing', committee: 'Committee meeting', workSession: 'Work session',
+    onAgenda: 'On the agenda', more: function (n) { return 'and ' + n + ' more'; },
+    agenda: 'Full agenda', testify: 'Testify or sign in', tvw: 'Watch on TVW', addCal: 'Add to my calendar',
+    allUpcoming: 'All upcoming', meetings: function (n) { return n + (n === 1 ? ' meeting' : ' meetings'); },
+    hearings: function (n) { return n + (n === 1 ? ' public hearing' : ' public hearings'); },
+    noBills: 'No committee agenda lists bills right now. Bill hearings show up here once the Legislature schedules them, mostly during the session that starts each January.',
+    noMatch: 'No upcoming committee meetings match. Try another word or topic, or check back as committees post their agendas.',
+    noneDay: function (today) { return 'No committee meetings are scheduled ' + (today ? 'today' : 'on this day') + '.'; },
+    between: ' Between sessions, committees meet only a few days a month. The 2027 session starts Monday, January 11, and most committees meet every weekday after that.',
+    topicAll: function (t) { return t + ': all upcoming'; }, allMeetings: 'All upcoming committee meetings',
+    refreshed: 'Last refreshed ', failed: 'The meeting list didn’t load. Refresh the page, or see the Legislature’s committee schedule at leg.wa.gov.'
+  };
 
   var state = { events: [], day: '', topic: '', q: '' };
   var $ = function (id) { return document.getElementById(id); };
@@ -36,7 +90,7 @@
   }
   function clock(p) {
     var h = p.h % 12 || 12;
-    return h + (p.mi ? ':' + String(p.mi).padStart(2, '0') : '') + (p.h < 12 ? ' AM' : ' PM');
+    return h + (p.mi ? ':' + String(p.mi).padStart(2, '0') : '') + (p.h < 12 ? (ES ? ' a. m.' : ' AM') : (ES ? ' p. m.' : ' PM'));
   }
   function todayKey() { return new Date().toLocaleDateString('en-CA', { timeZone: 'America/Los_Angeles' }).slice(0, 10); }
   function addDays(key, n) {
@@ -44,14 +98,15 @@
     d.setUTCDate(d.getUTCDate() + n);
     return d.toISOString().slice(0, 10);
   }
+  function cap(s) { return s.charAt(0).toUpperCase() + s.slice(1); }
   function longDay(key) {
-    return new Date(key + 'T12:00:00').toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric' });
+    return cap(new Date(key + 'T12:00:00').toLocaleDateString(LOCALE, { weekday: 'long', month: 'long', day: 'numeric' }));
   }
   function shortDay(key) {
     var t = todayKey();
-    if (key === t) return 'Today';
-    if (key === addDays(t, 1)) return 'Tomorrow';
-    return new Date(key + 'T12:00:00').toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
+    if (key === t) return S.today;
+    if (key === addDays(t, 1)) return S.tomorrow;
+    return cap(new Date(key + 'T12:00:00').toLocaleDateString(LOCALE, { weekday: 'short', month: 'short', day: 'numeric' }));
   }
 
   function isHearing(e) {
@@ -59,9 +114,9 @@
   }
   // What a bill's agenda line means for someone who wants to take part.
   function kindLabel(kind) {
-    if (/public hearing/i.test(kind)) return 'Public hearing: testimony welcome';
-    if (/executive/i.test(kind)) return /possible/i.test(kind) ? 'Possible committee vote' : 'Committee vote';
-    if (/work session/i.test(kind)) return 'Briefing';
+    if (/public hearing/i.test(kind)) return S.hearingOpen;
+    if (/executive/i.test(kind)) return /possible/i.test(kind) ? S.possibleVote : S.vote;
+    if (/work session/i.test(kind)) return S.briefing;
     return kind || '';
   }
   function billUrl(b, e) {
@@ -104,7 +159,7 @@
     // single bill matching; show the whole agenda then.
     if (filtering() && !shown.length) shown = bills;
     var box = el('div', 'agenda');
-    box.appendChild(el('p', 'agenda-label', bills.length === 1 ? '1 bill on the agenda' : bills.length + ' bills on the agenda'));
+    box.appendChild(el('p', 'agenda-label', bills.length === 1 ? S.oneBill : S.bills(bills.length)));
     var ul = el('ul', 'bill-list');
     shown.forEach(function (b) {
       var li = el('li');
@@ -114,24 +169,24 @@
       li.appendChild(a);
       if (b.about) li.appendChild(document.createTextNode(' ' + b.about));
       var k = kindLabel(b.kind || '');
-      if (k) li.appendChild(el('span', 'bill-kind' + (/testimony/.test(k) ? ' open' : ''), k));
+      if (k) li.appendChild(el('span', 'bill-kind' + (k === S.hearingOpen ? ' open' : ''), k));
       ul.appendChild(li);
     });
     box.appendChild(ul);
     var rest = bills.length - shown.length;
-    if (rest > 0) box.appendChild(el('p', 'more-items', 'and ' + rest + ' other ' + (rest === 1 ? 'bill' : 'bills') + ' on this agenda'));
+    if (rest > 0) box.appendChild(el('p', 'more-items', S.otherBills(rest)));
     return box;
   }
 
   function card(e) {
     var p = parts(e.start);
     var art = el('article', 'event' + (e.cancelled ? ' is-cancelled' : ''));
-    art.appendChild(el('div', 'when', e.all_day ? 'Time TBA' : clock(p)));
+    art.appendChild(el('div', 'when', e.all_day ? S.tba : clock(p)));
     var what = el('div', 'what');
     var tags = el('div', 'tag-row');
-    if (e.cancelled) tags.appendChild(el('span', 'tag cancelled', 'Cancelled'));
-    else if (isHearing(e)) tags.appendChild(el('span', 'tag open', 'Public hearing'));
-    else tags.appendChild(el('span', 'tag', (e.bills || []).length ? 'Committee meeting' : 'Work session'));
+    if (e.cancelled) tags.appendChild(el('span', 'tag cancelled', S.cancelled));
+    else if (isHearing(e)) tags.appendChild(el('span', 'tag open', S.publicHearing));
+    else tags.appendChild(el('span', 'tag', (e.bills || []).length ? S.committee : S.workSession));
     // A busy committee can touch many topics; two tags are enough to scan by,
     // with the topic being followed always shown first.
     var tops = (e.topics || []).filter(function (t) { return TOPICS[t]; });
@@ -143,27 +198,28 @@
     if ((e.bills || []).length) what.appendChild(billBlock(e));
     else if ((e.highlights || []).length) {
       var box = el('div', 'agenda');
-      box.appendChild(el('p', 'agenda-label', 'On the agenda'));
+      box.appendChild(el('p', 'agenda-label', S.onAgenda));
       var ul = el('ul');
       e.highlights.forEach(function (h) { ul.appendChild(el('li', null, h)); });
-      if (e.highlights_more) ul.appendChild(el('li', 'more-items', 'and ' + e.highlights_more + ' more'));
+      if (e.highlights_more) ul.appendChild(el('li', 'more-items', S.more(e.highlights_more)));
       box.appendChild(ul);
       what.appendChild(box);
     }
     art.appendChild(what);
 
     var actions = el('div', 'actions');
-    var link = function (href, text, download) {
+    var link = function (href, text, download, english) {
       var a = el('a', null, text);
+      if (english && ES) a.hreflang = 'en';
       a.href = href;
       a.setAttribute('aria-label', text + ': ' + e.title + ', ' + longDay(p.key));
       if (download) a.download = download; else a.rel = 'noopener';
       actions.appendChild(a);
     };
-    if (safeUrl(e.url)) link(e.url, 'Full agenda');
-    if (!e.cancelled && isHearing(e)) link(CSI, 'Testify or sign in');
-    if (!e.cancelled) link('https://tvw.org/', 'Watch on TVW');
-    if (!e.cancelled) link(icsLink(e), 'Add to my calendar', 'civicswa-hearing.ics');
+    if (safeUrl(e.url)) link(e.url, S.agenda, null, true);
+    if (!e.cancelled && isHearing(e)) link(CSI, S.testify, null, true);
+    if (!e.cancelled) link('https://tvw.org/', S.tvw, null, true);
+    if (!e.cancelled) link(icsLink(e), S.addCal, 'civicswa-hearing.ics');
     art.appendChild(actions);
     return art;
   }
@@ -180,7 +236,7 @@
     upcoming().forEach(function (e) { var k = e.start.slice(0, 10); counts[k] = (counts[k] || 0) + 1; });
     var keys = Object.keys(counts).sort().slice(0, 8);
     if (keys.indexOf(t) === -1) keys.unshift(t);
-    var all = el('button', 'chip', 'All upcoming');
+    var all = el('button', 'chip', S.allUpcoming);
     all.type = 'button';
     all.setAttribute('aria-pressed', String(state.day === 'all'));
     all.addEventListener('click', function () { state.day = 'all'; update(); });
@@ -188,7 +244,7 @@
       var b = el('button', 'chip', shortDay(k) + (counts[k] ? ' (' + counts[k] + ')' : ''));
       b.type = 'button';
       b.setAttribute('aria-pressed', String(state.day === k));
-      b.setAttribute('aria-label', longDay(k) + ': ' + (counts[k] || 0) + (counts[k] === 1 ? ' meeting' : ' meetings'));
+      b.setAttribute('aria-label', longDay(k) + ': ' + S.meetings(counts[k] || 0));
       b.addEventListener('click', function () { state.day = k; update(); });
       box.appendChild(b);
     });
@@ -220,11 +276,11 @@
     // Between sessions no agenda carries bills, so a bill number can't match.
     if (state.q && /^(?:[a-z]{0,3}[hs]b|[hs]j[rm]|[hs]cr)\s*\d{3,4}$/i.test(state.q) &&
         !state.events.some(function (e) { return e.bills && e.bills.length; })) {
-      return 'No committee agenda lists bills right now. Bill hearings show up here once the Legislature schedules them, mostly during the session that starts each January.';
+      return S.noBills;
     }
-    if (filtering()) return 'No upcoming committee meetings match. Try another word or topic, or check back as committees post their agendas.';
-    var msg = 'No committee meetings are scheduled ' + (state.day === t ? 'today' : 'on this day') + '.';
-    if (t < SESSION_START) msg += ' Between sessions, committees meet only a few days a month. The 2027 session starts Monday, January 11, and most committees meet every weekday after that.';
+    if (filtering()) return S.noMatch;
+    var msg = S.noneDay(state.day === t);
+    if (t < SESSION_START) msg += S.between;
     return msg;
   }
 
@@ -237,10 +293,9 @@
 
     var hearings = rows.filter(function (e) { return !e.cancelled && isHearing(e); }).length;
     $('day-heading').textContent = state.day === 'all'
-      ? (state.topic ? TOPICS[state.topic] + ': all upcoming' : 'All upcoming committee meetings')
+      ? (state.topic ? S.topicAll(TOPICS[state.topic]) : S.allMeetings)
       : longDay(state.day);
-    $('day-count').textContent = rows.length + (rows.length === 1 ? ' meeting' : ' meetings') +
-      (hearings ? ' · ' + hearings + (hearings === 1 ? ' public hearing' : ' public hearings') : '');
+    $('day-count').textContent = S.meetings(rows.length) + (hearings ? ' · ' + S.hearings(hearings) : '');
 
     if (!rows.length) { list.appendChild(el('p', 'empty', emptyMessage())); return; }
     var last = '';
@@ -279,10 +334,10 @@
       }, 200);
     });
 
-    loadEvents('').then(function (data) {
+    loadEvents(BASE).then(function (data) {
       state.events = data.events || [];
       if (data.generated) {
-        $('updated').textContent = 'Last refreshed ' + new Date(data.generated).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }) + '.';
+        $('updated').textContent = S.refreshed + new Date(data.generated).toLocaleDateString(LOCALE, { month: 'long', day: 'numeric', year: 'numeric' }) + '.';
       }
       if (!state.day) {
         // Open on today, or on the next day that has meetings.
@@ -293,7 +348,7 @@
       update();
     }).catch(function () {
       $('list').textContent = '';
-      $('list').appendChild(el('p', 'empty', 'The meeting list didn’t load. Refresh the page, or see the Legislature’s committee schedule at leg.wa.gov.'));
+      $('list').appendChild(el('p', 'empty', S.failed));
     });
   }
   // data/calendar.json leaves out fields at their default value, and an end

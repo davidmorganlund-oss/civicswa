@@ -9,6 +9,10 @@
 (function (root) {
   'use strict';
 
+  // Spanish pages (html lang="es") get Spanish labels and notes. Official
+  // district names stay in English, as the state publishes them.
+  var ES = !!(root.document && (root.document.documentElement.lang || '').slice(0, 2) === 'es');
+
   var DOR = 'https://webgis.dor.wa.gov/arcgis/rest/services/Programs/WADOR_PropertyTax/MapServer';
   var TRANSIT = 'https://services.arcgis.com/IYrj3otxNjPsrTRD/ArcGIS/rest/services/Public_Transit_Agency_Boundaries/FeatureServer/1/query';
 
@@ -86,6 +90,42 @@
     WAT: { label: 'Water', name: function (n, c) { return c + ' County Water District No. ' + n; },
       note: 'Elected commissioners run local water service, and often sewer too.' }
   };
+  // The same layers in Spanish. Names that are official titles stay in
+  // English; names we build as a plain description are in Spanish.
+  var TYPES_ES = {
+    FIR: { label: 'Bomberos', name: TYPES.FIR.name,
+      note: 'Bomberos y respuesta a emergencias. Lo dirigen comisionados de bomberos elegidos, o una junta de funcionarios locales elegidos en el caso de una autoridad regional de bomberos (regional fire authority).' },
+    EMS: { label: 'Servicios médicos de emergencia', name: function () { return 'Zona del impuesto para servicios médicos de emergencia (EMS levy area)'; },
+      note: 'Los votantes de esta zona aprobaron un impuesto a la propiedad para el servicio de ambulancias y paramédicos.' },
+    LIB: { label: 'Biblioteca', name: function (n, c) { return LIBRARIES[c] || 'Distrito de bibliotecas del condado de ' + c; },
+      note: 'Los distritos de bibliotecas rurales y regionales los dirigen miembros de la junta directiva (trustees) nombrados por los comisionados del condado.' },
+    CLB: { label: 'Edificios de bibliotecas', name: function () { return 'Zona de instalaciones para bibliotecas (library capital facility area)'; },
+      note: 'Los votantes de esta zona aprobaron un impuesto para construir o reparar edificios de bibliotecas.' },
+    HSP: { label: 'Hospital', name: TYPES.HSP.name,
+      note: 'Comisionados elegidos supervisan el hospital o las clínicas del distrito.' },
+    PRT: { label: 'Puerto', name: function (n, c) { return 'Distrito portuario No. ' + n + ' del condado de ' + c; },
+      note: 'Comisionados del puerto elegidos supervisan terminales marítimas, marinas, aeropuertos o el desarrollo económico.' },
+    PUD: { label: 'Servicios públicos', name: TYPES.PUD.name,
+      note: 'Comisionados elegidos dirigen este servicio público de electricidad, agua o internet de banda ancha.' },
+    PRK: { label: 'Parques', name: function (n, c) { return 'Distrito metropolitano de parques del condado de ' + c; },
+      note: 'Un distrito de parques con su propio impuesto. Su junta es elegida o está formada por miembros del concejo municipal.' },
+    PKR: { label: 'Parques y recreación', name: TYPES.PKR.name,
+      note: 'Comisionados elegidos dirigen los parques y los programas de recreación locales.' },
+    CEM: { label: 'Cementerio', name: TYPES.CEM.name,
+      note: 'Comisionados elegidos cuidan los cementerios locales.' },
+    AIR: { label: 'Aeropuerto', name: function (n, c) { return 'Distrito aeroportuario del condado de ' + c; },
+      note: 'Dirige un aeropuerto público local.' },
+    FLD: { label: 'Control de inundaciones', name: function (n, c) { return 'Distrito de control de inundaciones del condado de ' + c; },
+      note: 'Paga diques y obras de protección contra inundaciones.' },
+    FZN: { label: 'Control de inundaciones', name: function (n, c) { return 'Distrito de zona de control de inundaciones del condado de ' + c; },
+      note: 'Paga la protección contra inundaciones. La mayoría los gobierna el concejo o los comisionados del condado.' },
+    MSQ: { label: 'Control de mosquitos', name: function (n, c) { return 'Distrito de control de mosquitos del condado de ' + c; },
+      note: 'Lo dirige una junta nombrada por los gobiernos locales a los que sirve.' },
+    SEW: { label: 'Alcantarillado', name: function (n, c) { return 'Distrito de alcantarillado del condado de ' + c; },
+      note: 'Comisionados elegidos dirigen el servicio local de alcantarillado.' },
+    WAT: { label: 'Agua', name: TYPES.WAT.name,
+      note: 'Comisionados elegidos dirigen el servicio local de agua, y muchas veces también el de alcantarillado.' }
+  };
   var ORDER = ['FIR', 'EMS', 'HSP', 'LIB', 'CLB', 'PRT', 'PUD', 'WAT', 'SEW', 'PKR', 'PRK', 'CEM', 'AIR', 'FLD', 'FZN', 'MSQ'];
 
   function titleCase(s) {
@@ -129,17 +169,18 @@
       .filter(function (s) { return s && !/B$|GOB/.test(s); });
   }
 
-  function describe(type, code, county) {
-    var t = TYPES[type];
+  function describe(type, code, county, lang) {
+    var es = lang ? lang === 'es' : ES;
+    var t = (es ? TYPES_ES : TYPES)[type];
     var raw = String(code || '').trim();
     var n = /^\d+$/.test(raw) ? String(+raw) : '';
     var named = NAMED[type] && NAMED[type][raw];
     var name;
     if (named) name = named;
     else if (type === 'PRT' && !n && raw.length > 4) name = 'Port of ' + titleCase(raw);
-    else if (type === 'FIR' && /RFA$/.test(raw)) name = 'Regional fire authority (listed by the state as ' + raw + ')';
+    else if (type === 'FIR' && /RFA$/.test(raw)) name = es ? 'Autoridad regional de bomberos (regional fire authority; el estado la registra como ' + raw + ')' : 'Regional fire authority (listed by the state as ' + raw + ')';
     else if (n || type === 'EMS' || type === 'LIB' || type === 'CLB') name = t.name(n, county);
-    else name = t.name('', county) + ' (listed by the state as ' + raw + ')';
+    else name = t.name('', county) + (es ? ' (el estado lo registra como ' : ' (listed by the state as ') + raw + ')';
     // Templates that need a number read badly without one.
     if (!n) name = name.replace(/ No\. ?/, ' ');
     name = name.replace(/\s{2,}/g, ' ').trim();
@@ -174,11 +215,17 @@
     'County Public Transportation Authority': 'Run by the county.',
     'City Transit System': 'Run by the city.'
   };
+  var TRANSIT_NOTES_ES = {
+    'Public Transportation Benefit Area': 'Su junta está formada por funcionarios locales elegidos de la zona a la que sirve.',
+    'Regional Transit Authority': 'Su junta está formada por funcionarios locales elegidos de los condados de King, Pierce y Snohomish, más el secretario estatal de transporte.',
+    'County Public Transportation Authority': 'Lo dirige el condado.',
+    'City Transit System': 'Lo dirige la ciudad.'
+  };
 
   function fromTransit(response) {
     return ((response && response.features) || []).map(function (f) {
       var a = f.attributes || {};
-      return { type: 'TRANSIT', label: 'Transit', name: a.AgencyName, note: TRANSIT_NOTES[a.AgencyType] || '' };
+      return { type: 'TRANSIT', label: ES ? 'Transporte público' : 'Transit', name: a.AgencyName, note: (ES ? TRANSIT_NOTES_ES : TRANSIT_NOTES)[a.AgencyType] || '' };
     }).filter(function (d) { return d.name; });
   }
 
@@ -186,6 +233,10 @@
     var key = Object.keys(APPEALS).filter(function (k) { return APPEALS[k].indexOf(county) >= 0; })[0];
     if (!key) return null;
     var parts = key.split('-');
+    if (ES) {
+      return { type: 'COA', label: 'Corte de Apelaciones (Court of Appeals)', name: 'División ' + parts[0] + ', Distrito ' + parts[1],
+        note: 'Usted vota por los jueces de apelaciones que se eligen en este distrito. Cumplen períodos de seis años.' };
+    }
     return { type: 'COA', label: 'Court of Appeals', name: 'Division ' + parts[0] + ', District ' + parts[1],
       note: 'You vote for the appeals court judges elected from this district. They serve six-year terms.' };
   }
