@@ -7,18 +7,27 @@
 (function () {
   'use strict';
 
+  // Spanish pages (html lang="es", data-base="../") get Spanish text and load
+  // data from one folder up. Official names of offices and districts stay in
+  // English, with a Spanish label beside them.
+  var ES = (document.documentElement.lang || '').slice(0, 2) === 'es';
+  var BASE = document.documentElement.getAttribute('data-base') || '';
+  function L(en, es) { return ES ? es : en; }
+  // Links to outside sites, which are in English, say so on Spanish pages.
+  var EN = ES ? ' (en inglés)' : '';
+
   var GEOCODER = 'https://geocoding.geo.census.gov/geocoder/geographies/onelineaddress';
   var LEG_FINDER = 'https://app.leg.wa.gov/districtfinder/';
 
   // Local governments with a council or commission page we have checked.
   var LOCAL = {
     places: {
-      Olympia: { label: 'Olympia City Council', url: 'https://olympia.legistar.com/Calendar.aspx', note: 'Meetings, agendas and members' },
-      Lacey: { label: 'Lacey City Council', url: 'https://cityoflacey.org/government/lacey-city-council/', note: 'Members and meeting schedule' },
-      Spokane: { label: 'Spokane City Council', url: 'https://my.spokanecity.org/citycouncil/meetings', note: 'Meetings, agendas and how to take part' }
+      Olympia: { label: 'Olympia City Council', es: 'Concejo municipal de Olympia (Olympia City Council)', url: 'https://olympia.legistar.com/Calendar.aspx', note: 'Meetings, agendas and members', esNote: 'reuniones, agendas y miembros' },
+      Lacey: { label: 'Lacey City Council', es: 'Concejo municipal de Lacey (Lacey City Council)', url: 'https://cityoflacey.org/government/lacey-city-council/', note: 'Members and meeting schedule', esNote: 'miembros y calendario de reuniones' },
+      Spokane: { label: 'Spokane City Council', es: 'Concejo municipal de Spokane (Spokane City Council)', url: 'https://my.spokanecity.org/citycouncil/meetings', note: 'Meetings, agendas and how to take part', esNote: 'reuniones, agendas y cómo participar' }
     },
     counties: {
-      Thurston: { label: 'Thurston County Board of County Commissioners', url: 'https://www.thurstoncountywa.gov/departments/board-county-commissioners/meetings-public-hearings-and-work-session-agendas', note: 'Meetings and agendas' }
+      Thurston: { label: 'Thurston County Board of County Commissioners', es: 'Junta de comisionados del condado de Thurston (Thurston County Board of County Commissioners)', url: 'https://www.thurstoncountywa.gov/departments/board-county-commissioners/meetings-public-hearings-and-work-session-agendas', note: 'Meetings and agendas', esNote: 'reuniones y agendas' }
     }
   };
 
@@ -38,11 +47,18 @@
     var diff = Math.round((Date.UTC(at.getFullYear(), at.getMonth(), at.getDate()) -
       Date.UTC(now.getFullYear(), now.getMonth(), now.getDate())) / 864e5);
     if (diff > NEW_TERM_BEFORE || diff < -NEW_TERM_AFTER) return '';
-    var when = at.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+    var when = at.toLocaleDateString(ES ? 'es-US' : 'en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+    if (ES) {
+      return diff >= 0
+        ? 'Los nuevos miembros asumen el cargo el ' + when + '. Esta lista se actualiza después de que juren su cargo.'
+        : 'Los nuevos miembros asumieron el cargo el ' + when + '. Esta lista puede tardar unos días en ponerse al día.';
+    }
     return diff >= 0
       ? 'New members take office on ' + when + '. This list updates after they are sworn in.'
       : 'New members took office on ' + when + '. This list may take a few days to catch up.';
   }
+
+  var PARTIES = { Democrat: 'Partido Demócrata', Democratic: 'Partido Demócrata', Republican: 'Partido Republicano', Independent: 'Independiente' };
 
   var officials = null;
   var localData = null;
@@ -59,6 +75,12 @@
     var a = el('a', null, text);
     a.href = href;
     a.rel = 'noopener';
+    return a;
+  }
+  // A link to an outside website: on Spanish pages it says it's in English.
+  function outLink(href, text) {
+    var a = link(href, text + EN);
+    if (ES) a.hreflang = 'en';
     return a;
   }
 
@@ -107,29 +129,36 @@
   // Census lookup already named show right away; special districts and
   // transit come from two more map services, which get only the map point.
   function districtsCard(g, match, parts) {
-    var card = section('Your districts', 'Every district you live in');
+    var card = section(L('Your districts', 'Sus distritos'), L('Every district you live in', 'Todos los distritos donde usted vive'));
     var list = el('ul', 'districts');
     card.appendChild(list);
     var add = function (d) { districtItem(list, d); };
-    if (parts.cd) add({ label: 'U.S. House', name: 'Congressional District ' + parts.cd });
-    if (parts.ld) add({ label: 'State Legislature', name: 'Legislative District ' + parts.ld, note: 'You elect one state senator and two state representatives from this district.' });
-    if (parts.county) add({ label: 'County', name: parts.county + ' County' });
-    add({ label: 'City', name: parts.city ? 'City of ' + parts.city : 'Unincorporated (outside city limits)' });
+    if (ES) {
+      if (parts.cd) add({ label: 'Cámara de Representantes de EE. UU. (U.S. House)', name: 'Distrito Congresional ' + parts.cd + ' (Congressional District ' + parts.cd + ')' });
+      if (parts.ld) add({ label: 'Legislatura estatal', name: 'Distrito Legislativo ' + parts.ld + ' (Legislative District ' + parts.ld + ')', note: 'En este distrito usted elige a un senador estatal y a dos representantes estatales.' });
+      if (parts.county) add({ label: 'Condado', name: 'Condado de ' + parts.county + ' (' + parts.county + ' County)' });
+      add({ label: 'Ciudad', name: parts.city ? 'Ciudad de ' + parts.city : 'Zona no incorporada (fuera de los límites de una ciudad)' });
+    } else {
+      if (parts.cd) add({ label: 'U.S. House', name: 'Congressional District ' + parts.cd });
+      if (parts.ld) add({ label: 'State Legislature', name: 'Legislative District ' + parts.ld, note: 'You elect one state senator and two state representatives from this district.' });
+      if (parts.county) add({ label: 'County', name: parts.county + ' County' });
+      add({ label: 'City', name: parts.city ? 'City of ' + parts.city : 'Unincorporated (outside city limits)' });
+    }
     names(g, /School Districts/).forEach(function (n) {
-      add({ label: 'School district', name: n, note: 'Elected school board directors run your public schools.' });
+      add({ label: L('School district', 'Distrito escolar'), name: n, note: L('Elected school board directors run your public schools.', 'Los miembros de la junta escolar (school board directors), elegidos por los votantes, dirigen sus escuelas públicas.') });
     });
     var D = window.CivicsWADistricts;
     var coa = D && parts.county ? D.courtOfAppeals(parts.county) : null;
     if (coa) add(coa);
     names(g, /American Indian Reservations|Off-Reservation Trust Lands/).forEach(function (n) {
-      add({ label: 'Tribal land', name: n, note: 'This address is on tribal land. The tribe’s own government serves its members here.' });
+      add({ label: L('Tribal land', 'Tierras tribales'), name: n, note: L('This address is on tribal land. The tribe’s own government serves its members here.', 'Esta dirección está en tierras tribales. El propio gobierno de la tribu atiende aquí a sus miembros.') });
     });
 
-    var status = el('p', 'muted', 'Looking up fire, library, port, utility, transit and other special districts…');
+    var status = el('p', 'muted', L('Looking up fire, library, port, utility, transit and other special districts…', 'Buscando los distritos de bomberos, bibliotecas, puertos, servicios públicos, transporte público y otros distritos especiales…'));
     card.appendChild(status);
     var c = match.coordinates || {};
     if (!D || typeof c.x !== 'number' || typeof c.y !== 'number') {
-      status.textContent = 'We could not look up special districts for this address.';
+      status.textContent = L('We could not look up special districts for this address.', 'No pudimos buscar los distritos especiales para esta dirección.');
       return card;
     }
     D.lookup(c.x, c.y, parts.county).then(function (r) {
@@ -138,11 +167,17 @@
       (sp ? sp.districts : []).forEach(add);
       status.textContent = '';
       if (!sp || !r.transit) {
-        status.appendChild(document.createTextNode('Part of the special district lookup did not respond, so this list may be missing some districts. Try again in a few minutes.'));
+        status.appendChild(document.createTextNode(L('Part of the special district lookup did not respond, so this list may be missing some districts. Try again in a few minutes.',
+          'Una parte de la búsqueda de distritos especiales no respondió, así que puede que falten algunos distritos en esta lista. Inténtelo de nuevo en unos minutos.')));
+      } else if (ES) {
+        status.appendChild(document.createTextNode('Los distritos especiales vienen de los mapas de distritos tributarios de ' + sp.year + ' del Departamento de Ingresos de Washington (Washington Department of Revenue). ' +
+          (sp.taxCodeArea ? 'Su área de código tributario (tax code area) es la ' + sp.taxCodeArea + ', el número que aparece en el estado de cuenta del impuesto a la propiedad. ' : '') +
+          'Las agencias de transporte público vienen del Departamento de Transporte del estado (WSDOT).'));
       } else {
         status.appendChild(document.createTextNode('Special districts come from the Washington Department of Revenue’s ' + sp.year + ' taxing district maps' + (sp.taxCodeArea ? ' (tax code area ' + sp.taxCodeArea + ', the number on a property tax statement)' : '') + ' and transit agencies from WSDOT.'));
       }
-      card.appendChild(el('p', 'muted', 'Not listed here: county commissioner or council districts, city council districts, voting precincts and conservation districts. Your county elections office can tell you those.'));
+      card.appendChild(el('p', 'muted', L('Not listed here: county commissioner or council districts, city council districts, voting precincts and conservation districts. Your county elections office can tell you those.',
+        'No aparecen aquí: los distritos de los comisionados o del concejo del condado, los distritos del concejo municipal, los precintos electorales y los distritos de conservación. La oficina de elecciones de su condado puede decirle cuáles son los suyos.')));
     });
     return card;
   }
@@ -150,11 +185,11 @@
   function person(p) {
     var li = el('li', 'person');
     li.appendChild(el('strong', null, p.name));
-    if (p.party) li.appendChild(el('span', 'muted', ' · ' + p.party));
+    if (p.party) li.appendChild(el('span', 'muted', ' · ' + (ES && PARTIES[p.party] || p.party)));
     var contact = el('div', 'contact');
     if (p.phone) contact.appendChild(link('tel:' + p.phone.replace(/[^\d+]/g, ''), p.phone));
     if (p.email) contact.appendChild(link('mailto:' + p.email, p.email));
-    if (safeUrl(p.url)) contact.appendChild(link(p.url, 'Website'));
+    if (safeUrl(p.url)) contact.appendChild(outLink(p.url, L('Website', 'Sitio web')));
     if (contact.children.length) li.appendChild(contact);
     return li;
   }
@@ -181,9 +216,9 @@
   function extraLinks(card, place) {
     if (!place) return;
     var p = el('p');
-    p.appendChild(link(place.site, 'Official website'));
+    p.appendChild(outLink(place.site, L('Official website', 'Sitio web oficial')));
     p.appendChild(document.createTextNode(' · '));
-    p.appendChild(link(place.boards, place.appoints ? 'Commissioners (they appoint board members)' : 'Boards and commissions'));
+    p.appendChild(outLink(place.boards, place.appoints ? L('Commissioners (they appoint board members)', 'Comisionados (ellos nombran a los miembros de las juntas)') : L('Boards and commissions', 'Juntas y comisiones')));
     card.appendChild(p);
   }
 
@@ -192,8 +227,8 @@
     if (!entry && place) { extraLinks(card, place); return card; }
     if (entry) {
       var p = el('p');
-      p.appendChild(link(entry.url, entry.label));
-      p.appendChild(document.createTextNode(': ' + entry.note + '.'));
+      p.appendChild(outLink(entry.url, ES ? entry.es : entry.label));
+      p.appendChild(document.createTextNode(': ' + (ES ? entry.esNote : entry.note) + '.'));
       card.appendChild(p);
     } else {
       card.appendChild(el('p', 'muted', fallback));
@@ -209,7 +244,7 @@
 
     var state = layer(g, /^States$/);
     if (state && state !== 'Washington') {
-      out.appendChild(el('p', 'empty', 'That address is in ' + state + '. CivicsWA only covers Washington.'));
+      out.appendChild(el('p', 'empty', L('That address is in ' + state + '. CivicsWA only covers Washington.', 'Esa dirección está en ' + state + '. CivicsWA solo cubre el estado de Washington.')));
       return;
     }
 
@@ -218,7 +253,7 @@
     var ld = layer(g, /State Legislative Districts - Upper/);
     var cd = layer(g, /Congressional Districts/);
 
-    out.appendChild(el('p', 'muted', 'Showing results for ' + match.matchedAddress + '.'));
+    out.appendChild(el('p', 'muted', L('Showing results for ', 'Resultados para ') + match.matchedAddress + '.'));
     out.appendChild(districtsCard(g, match, { city: city, county: county, ld: ld, cd: cd }));
     if (window.CivicsWALocal && county) {
       // Remember only the county and city, so the Engage guides can show local links.
@@ -226,40 +261,46 @@
     }
 
     out.appendChild(city
-      ? localCard('City', 'City of ' + city, LOCAL.places[city], 'Your mayor and council members are listed on the city’s website. We have not added a direct link for this city yet.', localData && localData.cities[city])
-      : localCard('City', 'Outside city limits', null, 'This address is in an unincorporated area, so the county is your local government.'));
+      ? localCard(L('City', 'Ciudad'), L('City of ', 'Ciudad de ') + city, LOCAL.places[city], L('Your mayor and council members are listed on the city’s website. We have not added a direct link for this city yet.',
+        'Su alcalde y los miembros del concejo municipal aparecen en el sitio web de la ciudad. Todavía no hemos agregado un enlace directo para esta ciudad.'), localData && localData.cities[city])
+      : localCard(L('City', 'Ciudad'), L('Outside city limits', 'Fuera de los límites de una ciudad'), null, L('This address is in an unincorporated area, so the county is your local government.',
+        'Esta dirección está en una zona no incorporada, así que el condado es su gobierno local.')));
 
     if (county) {
-      out.appendChild(localCard('County', county + ' County', LOCAL.counties[county], 'Your county commissioners or council members are listed on the county’s website. We have not added a direct link for this county yet.', localData && localData.counties[county]));
+      out.appendChild(localCard(L('County', 'Condado'), L(county + ' County', 'Condado de ' + county), LOCAL.counties[county], L('Your county commissioners or council members are listed on the county’s website. We have not added a direct link for this county yet.',
+        'Los comisionados o los miembros del concejo de su condado aparecen en el sitio web del condado. Todavía no hemos agregado un enlace directo para este condado.'), localData && localData.counties[county]));
     }
 
     var seats = (officials && officials.legislators && officials.legislators[ld]) || null;
-    var leg = section('State Legislature', ld ? 'Legislative District ' + ld : 'Legislative district not found');
+    var leg = section(L('State Legislature', 'Legislatura estatal'), ld ? L('Legislative District ', 'Distrito Legislativo ') + ld : L('Legislative district not found', 'No se encontró el distrito legislativo'));
     if (seats) {
-      leg.appendChild(el('h4', null, 'State Senator'));
-      people(leg, seats.senate, 'No senator listed.');
-      leg.appendChild(el('h4', null, 'State Representatives'));
-      people(leg, seats.house, 'No representatives listed.');
+      leg.appendChild(el('h4', null, L('State Senator', 'Senador o senadora estatal')));
+      people(leg, seats.senate, L('No senator listed.', 'No aparece ningún senador.'));
+      leg.appendChild(el('h4', null, L('State Representatives', 'Representantes estatales')));
+      people(leg, seats.house, L('No representatives listed.', 'No aparece ningún representante.'));
       if (seats.senate.length > 1 || seats.house.length > 2) {
-        leg.appendChild(el('p', 'muted', 'This district changed members during the current term, so the list includes someone who has left the seat.'));
+        leg.appendChild(el('p', 'muted', L('This district changed members during the current term, so the list includes someone who has left the seat.',
+          'Este distrito cambió de miembros durante el período actual, así que la lista incluye a alguien que ya dejó el cargo.')));
       }
     } else {
-      leg.appendChild(el('p', 'muted', 'We could not load the member list.'));
+      leg.appendChild(el('p', 'muted', L('We could not load the member list.', 'No pudimos cargar la lista de miembros.')));
     }
     var confirm = el('p', 'muted');
-    confirm.appendChild(document.createTextNode((newTermNote('legislature') || 'Newly elected members take office in January.') + ' Confirm current members with the Legislature’s '));
-    confirm.appendChild(link(LEG_FINDER, 'District Finder'));
+    confirm.appendChild(document.createTextNode((newTermNote('legislature') || L('Newly elected members take office in January.', 'Los miembros recién elegidos asumen el cargo en enero.')) +
+      L(' Confirm current members with the Legislature’s ', ' Confirme quiénes son los miembros actuales con el buscador de distritos de la Legislatura, ')));
+    confirm.appendChild(outLink(LEG_FINDER, 'District Finder'));
     confirm.appendChild(document.createTextNode('.'));
     leg.appendChild(confirm);
     out.appendChild(leg);
 
     var congress = (officials && officials.congress) || { senators: [], house: {} };
-    var fed = section('Congress', cd ? 'Congressional District ' + cd : 'Congressional district not found');
-    fed.appendChild(el('h4', null, 'U.S. Representative'));
-    people(fed, congress.house[cd] ? [congress.house[cd]] : [], 'No representative listed.');
-    fed.appendChild(el('h4', null, 'U.S. Senators'));
-    people(fed, congress.senators, 'No senators listed.');
-    fed.appendChild(el('p', 'muted', newTermNote('congress') || 'Newly elected members of Congress take office on January 3 after the election. This list updates after they are sworn in.'));
+    var fed = section(L('Congress', 'Congreso'), cd ? L('Congressional District ', 'Distrito Congresional ') + cd : L('Congressional district not found', 'No se encontró el distrito congresional'));
+    fed.appendChild(el('h4', null, L('U.S. Representative', 'Representante en la Cámara de Representantes de EE. UU.')));
+    people(fed, congress.house[cd] ? [congress.house[cd]] : [], L('No representative listed.', 'No aparece ningún representante.'));
+    fed.appendChild(el('h4', null, L('U.S. Senators', 'Senadores de EE. UU.')));
+    people(fed, congress.senators, L('No senators listed.', 'No aparece ningún senador.'));
+    fed.appendChild(el('p', 'muted', newTermNote('congress') || L('Newly elected members of Congress take office on January 3 after the election. This list updates after they are sworn in.',
+      'Los miembros del Congreso recién elegidos asumen el cargo el 3 de enero después de la elección. Esta lista se actualiza después de que juren su cargo.')));
     out.appendChild(fed);
   }
 
@@ -269,28 +310,29 @@
     var out = $('results');
     out.textContent = '';
     if (address.length < 6) {
-      out.appendChild(el('p', 'empty', 'Enter a street address with a city or ZIP code, like 601 4th Ave E, Olympia.'));
+      out.appendChild(el('p', 'empty', L('Enter a street address with a city or ZIP code, like 601 4th Ave E, Olympia.', 'Escriba una dirección con la ciudad o el código postal, por ejemplo: 601 4th Ave E, Olympia.')));
       return;
     }
-    out.appendChild(el('p', 'empty', 'Looking up your districts…'));
+    out.appendChild(el('p', 'empty', L('Looking up your districts…', 'Buscando sus distritos…')));
     geocode(/\bwa\b|washington/i.test(address) ? address : address + ', WA').then(function (data) {
       var matches = data && data.result && data.result.addressMatches;
       if (!matches || !matches.length) {
         out.textContent = '';
-        out.appendChild(el('p', 'empty', 'We could not find that address. Check the street number, spelling and ZIP code, and leave off apartment numbers. If it still does not work, try a nearby street address. Some government buildings are not in the Census Bureau’s address list.'));
+        out.appendChild(el('p', 'empty', L('We could not find that address. Check the street number, spelling and ZIP code, and leave off apartment numbers. If it still does not work, try a nearby street address. Some government buildings are not in the Census Bureau’s address list.',
+          'No pudimos encontrar esa dirección. Revise el número, la ortografía y el código postal, y no incluya el número de apartamento. Si aun así no funciona, pruebe con una dirección cercana. Algunos edificios del gobierno no están en la lista de direcciones de la Oficina del Censo.')));
         return;
       }
       render(matches[0]);
     }).catch(function () {
       out.textContent = '';
       var p = el('p', 'empty');
-      p.appendChild(document.createTextNode('The address lookup is not responding right now. You can use the Legislature’s '));
-      p.appendChild(link(LEG_FINDER, 'District Finder'));
-      p.appendChild(document.createTextNode(' instead.'));
+      p.appendChild(document.createTextNode(L('The address lookup is not responding right now. You can use the Legislature’s ', 'La búsqueda de direcciones no responde en este momento. En su lugar, puede usar el buscador de distritos de la Legislatura, ')));
+      p.appendChild(outLink(LEG_FINDER, 'District Finder'));
+      p.appendChild(document.createTextNode(L(' instead.', '.')));
       out.appendChild(p);
     });
   });
 
-  fetch('data/local.json').then(function (r) { return r.json(); }).then(function (d) { localData = d; }).catch(function () {});
-  fetch('data/officials.json').then(function (r) { return r.json(); }).then(function (d) { officials = d; }).catch(function () {});
+  fetch(BASE + 'data/local.json').then(function (r) { return r.json(); }).then(function (d) { localData = d; }).catch(function () {});
+  fetch(BASE + 'data/officials.json').then(function (r) { return r.json(); }).then(function (d) { officials = d; }).catch(function () {});
 })();

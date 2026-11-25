@@ -13,7 +13,7 @@
     'State Legislature': 'Legislatura estatal', 'School boards': 'Juntas escolares', 'Libraries': 'Bibliotecas', 'Other': 'Otro',
     'Time not listed': 'Hora no indicada', 'Cancelled': 'Cancelada', 'Regular schedule: confirm first': 'Horario habitual: confirme antes',
     'On the agenda': 'En la agenda', 'Read the agenda': 'Ver la agenda', 'Details from the host': 'Detalles del organizador',
-    'Add to my calendar': 'Agregar a mi calendario', 'Testify or sign in': 'Testificar o registrar su opinión',
+    'Add to my calendar': 'Agregar a mi calendario', 'Testify or sign in': 'Testificar o registrar su opinión (en inglés)',
     'How to take part': 'Cómo participar', 'Copy link': 'Copiar enlace', 'Link copied': 'Enlace copiado',
     'Copy this link:': 'Copie este enlace:', 'Open link': 'Abrir enlace',
     'Subscribe to State Legislature committee meetings': 'Suscribirse a las reuniones de comités de la Legislatura',
@@ -29,11 +29,12 @@
     'The calendar could not be loaded. Please try again later.': 'No se pudo cargar el calendario. Inténtelo más tarde.',
     'No committee agenda lists bills right now. Bill hearings show up here once the Legislature schedules them, mostly during the session that starts each January.':
       'Ninguna agenda de comité incluye proyectos de ley en este momento. Las audiencias aparecerán aquí cuando la Legislatura las programe, sobre todo durante la sesión que comienza cada enero.',
-    'Look up any bill on the Legislature’s site': 'Busque cualquier proyecto de ley en el sitio de la Legislatura',
+    'Look up any bill on the Legislature’s site': 'Busque cualquier proyecto de ley en el sitio de la Legislatura (en inglés)',
     'bill': 'proyecto de ley', 'bills': 'proyectos de ley', 'on this agenda': 'en esta agenda'
   };
   function T(s) { return LANG === 'es' && ES[s] ? ES[s] : s; }
-  function guide(name) { return BASE + 'guides/' + name + '.html'; }
+  // Spanish pages link to the Spanish guides in es/guides/.
+  function guide(name) { return (LANG === 'es' ? '' : BASE) + 'guides/' + name + '.html'; }
 
   var CATEGORIES = [
     { id: 'all', label: 'All' },
@@ -418,7 +419,7 @@
       box.appendChild(a);
     }
     var cov = el('a', 'link', T('See what the calendar covers'));
-    cov.href = BASE + 'coverage.html';
+    cov.href = (LANG === 'es' ? '' : BASE) + 'coverage.html';
     box.appendChild(cov);
     return box;
   }
