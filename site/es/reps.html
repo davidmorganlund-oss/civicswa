@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="es" data-base="../">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CivicsWA: quién lo representa</title>
+<meta property="og:title" content="CivicsWA: quién lo representa">
+<meta property="og:description" content="Escriba una dirección de Washington para ver todos los distritos donde usted vive, desde el Congreso hasta los distritos de bomberos, bibliotecas y puertos, y cómo comunicarse con quienes lo representan.">
+<meta property="og:url" content="https://civicswa.org/es/reps.html">
+<meta property="og:image" content="https://civicswa.org/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="CivicsWA: Entérese de lo que su comunidad decide esta semana.">
+<meta property="og:locale" content="es_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:site_name" content="CivicsWA">
+<link rel="canonical" href="https://civicswa.org/es/reps.html">
+<link rel="alternate" hreflang="en" href="https://civicswa.org/reps.html">
+<link rel="alternate" hreflang="es" href="https://civicswa.org/es/reps.html">
+<link rel="alternate" hreflang="x-default" href="https://civicswa.org/reps.html">
+<meta name="description" content="Escriba una dirección de Washington para ver todos los distritos donde usted vive, desde el Congreso hasta los distritos de bomberos, bibliotecas y puertos, y cómo comunicarse con quienes lo representan.">
+<link rel="stylesheet" href="../styles.css">
+<link rel="manifest" href="/manifest.webmanifest">
+<meta name="theme-color" content="#1D5A3B">
+<link rel="icon" type="image/png" href="/icons/favicon-48.png">
+<link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="CivicsWA">
+</head>
+<body>
+<a class="skip" href="#results">Ir a los resultados</a>
+<div class="notice">Un proyecto de BarNone, una organización sin fines de lucro. No está afiliado a ninguna agencia del gobierno. <a href="../reps.html" lang="en" hreflang="en">English</a></div>
+
+<header class="top"><div class="wrap">
+  <a class="brand" href="index.html">Civics<span>WA</span></a>
+  <nav aria-label="Principal">
+    <a href="index.html">Calendario comunitario</a>
+    <a href="hearings.html">Legislatura</a>
+    <a href="engage.html">Participe</a>
+    <a href="reps.html" aria-current="page">Mis representantes</a>
+  </nav>
+</div></header>
+
+<section class="hero"><div class="wrap">
+  <h1>Encuentre a todas las personas que lo representan.</h1>
+  <p class="lede">Escriba una dirección de Washington para ver todos los distritos donde usted vive, desde el Congreso hasta sus distritos de bomberos, bibliotecas y puertos, y cómo comunicarse con quienes lo representan.</p>
+  <form class="search" id="lookup">
+    <div class="field wide">
+      <label for="address">Dirección</label>
+      <input id="address" name="address" type="text" autocomplete="street-address" placeholder="601 4th Ave E, Olympia">
+    </div>
+    <button class="btn" type="submit">Buscar</button>
+  </form>
+  <p class="small">Su navegador envía su dirección al servicio de búsqueda de direcciones de la Oficina del Censo de EE. UU. (U.S. Census Bureau) para encontrar sus distritos. Solo el punto en el mapa que ese servicio devuelve, no su dirección, se envía a los mapas del Departamento de Ingresos del estado (Department of Revenue) y del Departamento de Transporte (WSDOT) para encontrar los distritos especiales. CivicsWA nunca recibe ni guarda su dirección. Su navegador recuerda solo su condado y su ciudad, para que las guías de la sección Participe puedan mostrarle enlaces locales.</p>
+</div></section>
+
+<main class="wrap narrow" style="padding-block: 40px 64px">
+  <div class="list" id="results" aria-live="polite">
+    <p class="empty">Aquí aparecerán quienes lo representan.</p>
+  </div>
+  <p class="muted" style="margin-top: 24px">¿No sabe qué decir una vez que tenga un nombre? Lea <a href="guides/contact-your-representatives.html">cómo comunicarse con quienes lo representan</a>.</p>
+  <p class="muted">Los nombres oficiales de los distritos y de las oficinas aparecen en inglés, tal como los publica el estado. Los sitios web de los funcionarios y de las agencias están en inglés.</p>
+</main>
+
+<footer><div class="wrap">
+  <p>Los legisladores estatales vienen de la lista pública de miembros de la Legislatura del Estado de Washington, y los miembros del Congreso vienen de una lista pública. Ambas se actualizan cada noche. Los enlaces de los condados cubren los 39 condados, y los enlaces de las ciudades cubren 163 ciudades y pueblos.</p>
+  <p class="by-barnone"><a href="https://barnoneinc.org"><img src="../barnone-phoenix.png" alt="" width="28" height="28"><span>Un servicio de <strong>BarNone, Inc.</strong></span></a> Una organización independiente sin fines de lucro. CivicsWA no es un sitio web del gobierno, no está afiliado a ninguna agencia del gobierno y no habla en nombre de ninguna oficina pública.</p>
+  <p class="site-links"><a href="acerca.html">Acerca de CivicsWA</a> <a href="coverage.html">Cobertura</a> <a href="acerca.html#privacidad">Privacidad</a> <a href="acerca.html#accesibilidad">Accesibilidad</a> <a href="mailto:admin@barnoneinc.org?subject=CivicsWA%20correcci%C3%B3n">Reportar un error</a></p>
+</div></footer>
+
+<script src="../local.js"></script>
+<script src="../districts.js"></script>
+<script src="../reps.js"></script>
+<script src="/pwa.js" defer></script>
+</body>
+</html>

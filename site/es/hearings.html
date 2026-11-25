@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="es" data-base="../">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Esta semana en Olympia | CivicsWA</title>
+<meta name="description" content="Cada reunión de los comités de la Legislatura de Washington, día por día: qué proyectos de ley se tratan, qué audiencias reciben testimonio del público y dónde registrarse.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="CivicsWA">
+<meta property="og:title" content="Esta semana en Olympia | CivicsWA">
+<meta property="og:description" content="Cada reunión de los comités de la Legislatura de Washington, día por día: qué proyectos de ley se tratan, qué audiencias reciben testimonio del público y dónde registrarse.">
+<meta property="og:url" content="https://civicswa.org/es/hearings.html">
+<meta property="og:image" content="https://civicswa.org/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="CivicsWA: Entérese de lo que su comunidad decide esta semana.">
+<meta property="og:locale" content="es_US">
+<link rel="canonical" href="https://civicswa.org/es/hearings.html">
+<link rel="alternate" hreflang="en" href="https://civicswa.org/hearings.html">
+<link rel="alternate" hreflang="es" href="https://civicswa.org/es/hearings.html">
+<link rel="alternate" hreflang="x-default" href="https://civicswa.org/hearings.html">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="stylesheet" href="../styles.css">
+<link rel="manifest" href="/manifest.webmanifest">
+<meta name="theme-color" content="#1D5A3B">
+<link rel="icon" type="image/png" href="/icons/favicon-48.png">
+<link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="CivicsWA">
+<noscript><style>.js-only { display: none; }</style></noscript>
+</head>
+<body>
+<a class="skip" href="#hearings">Ir a las reuniones</a>
+<div class="notice">Un proyecto de BarNone, una organización sin fines de lucro. No está afiliado a ninguna agencia del gobierno. <a href="../hearings.html" lang="en" hreflang="en">English</a></div>
+
+<header class="top"><div class="wrap">
+  <a class="brand" href="index.html">Civics<span>WA</span></a>
+  <nav aria-label="Principal">
+    <a href="index.html">Calendario comunitario</a>
+    <a href="hearings.html" aria-current="page">Legislatura</a>
+    <a href="engage.html">Participe</a>
+    <a href="reps.html">Mis representantes</a>
+  </nav>
+</div></header>
+
+<section class="hero"><div class="wrap">
+  <p class="eyebrow light">Legislatura estatal</p>
+  <h1>Esta semana en Olympia.</h1>
+  <p class="lede">Cada reunión de los comités de la Legislatura, día por día. Vea qué proyectos de ley se tratan, qué audiencias reciben testimonio del público y dónde registrarse antes de que se cierre el registro.</p>
+</div></section>
+
+<div class="wrap layout">
+  <main class="main" id="hearings">
+    <div class="heading">
+      <h2 id="day-heading">Reuniones de comités</h2>
+      <span id="day-count"></span>
+    </div>
+    <div class="chips days scroll" role="group" aria-label="Elija un día" id="days"></div>
+    <div class="find">
+      <label for="bill">Busque un proyecto de ley o una palabra</label>
+      <input id="bill" type="search" placeholder="Un número o una palabra en inglés: HB 1001, sentencing, rent" autocomplete="off">
+    </div>
+    <div class="topics-wrap" id="topics-wrap" hidden>
+      <p class="topics-label" id="topics-label">Siga un tema</p>
+      <div class="chips scroll" role="group" aria-labelledby="topics-label" id="topics"></div>
+    </div>
+    <p class="small muted">Los nombres de los comités, los títulos de los proyectos de ley y las agendas vienen de la Legislatura y están en inglés.</p>
+    <div class="list" id="list" aria-live="polite"><p class="empty js-only">Cargando las reuniones de comités…</p></div>
+    <noscript><p class="empty">Esta lista necesita JavaScript, que está desactivado en su navegador. La Legislatura publica cada reunión de comité en <a href="https://app.leg.wa.gov/committeeschedules/" hreflang="en">app.leg.wa.gov/committeeschedules</a> (en inglés).</p></noscript>
+  </main>
+
+  <aside class="side">
+    <div class="card" id="install" hidden>
+      <h2>Tenga CivicsWA en su teléfono</h2>
+      <p id="install-text"></p>
+      <button class="btn" id="install-btn" type="button" hidden>Instalar la aplicación</button>
+    </div>
+    <div class="card">
+      <h2>Qué significan las palabras de la agenda</h2>
+      <p><strong>Audiencia pública (public hearing).</strong> El comité recibe testimonio del público sobre el proyecto de ley. Es su oportunidad de hablar, enviar comentarios por escrito o registrar su postura a favor o en contra.</p>
+      <p><strong>Sesión ejecutiva (executive session).</strong> El comité vota si el proyecto de ley sigue adelante. No hay testimonio del público, pero usted puede observar.</p>
+      <p><strong>Sesión de trabajo (work session).</strong> Una sesión informativa para el comité, por lo general de agencias o de expertos. No hay votaciones y por lo general no hay testimonio del público.</p>
+    </div>
+    <div class="card">
+      <h2>¿Listo para opinar?</h2>
+      <p>Use la página de registro de comités de la Legislatura (Committee Sign-In) para registrar su postura, enviar testimonio por escrito o inscribirse para testificar en persona o a distancia. El registro se cierra antes de que empiece la reunión, así que no espere hasta el último minuto.</p>
+      <a class="link" href="https://app.leg.wa.gov/csi" hreflang="en">Committee Sign-In (en inglés)</a>
+      <a class="link" href="guides/weigh-in-on-a-state-bill.html">Cómo opinar sobre un proyecto de ley</a>
+      <a class="link" href="reps.html">Encuentre a sus legisladores</a>
+    </div>
+    <div class="card">
+      <h2>Véalo en vivo</h2>
+      <p>TVW, la red de asuntos públicos de Washington, transmite en vivo la mayoría de las reuniones de los comités y guarda las grabaciones.</p>
+      <a class="link" href="https://tvw.org/" hreflang="en">Ver en TVW (en inglés)</a>
+    </div>
+    <div class="card">
+      <h2>Téngalo en su teléfono</h2>
+      <p>Suscríbase una vez y cada reunión de comité aparecerá en la aplicación de calendario que ya usa.</p>
+      <a class="link" href="../data/ics/statewide.ics">Suscribirse a las reuniones de comités de la Legislatura</a>
+    </div>
+  </aside>
+</div>
+
+<footer><div class="wrap">
+  <p>Las reuniones de los comités vienen del propio calendario de comités de la Legislatura y se actualizan cada noche. <span id="updated"></span> Los temas se asignan por palabras clave del nombre del comité y de la descripción de cada proyecto de ley, así que son una guía, no una categoría oficial. Las agendas cambian, así que revise la página de la Legislatura antes de ir.</p>
+  <p class="by-barnone"><a href="https://barnoneinc.org"><img src="../barnone-phoenix.png" alt="" width="28" height="28"><span>Un servicio de <strong>BarNone, Inc.</strong></span></a> Una organización independiente sin fines de lucro. CivicsWA no es un sitio web del gobierno, no está afiliado a ninguna agencia del gobierno y no habla en nombre de ninguna oficina pública.</p>
+  <p class="site-links"><a href="acerca.html">Acerca de CivicsWA</a> <a href="coverage.html">Cobertura</a> <a href="acerca.html#privacidad">Privacidad</a> <a href="acerca.html#accesibilidad">Accesibilidad</a> <a href="mailto:admin@barnoneinc.org?subject=CivicsWA%20correcci%C3%B3n">Reportar un error</a></p>
+</div></footer>
+
+<script src="../hearings.js"></script>
+<script src="/pwa.js" defer></script>
+</body>
+</html>
