@@ -724,7 +724,8 @@ def test_link_check_lists_and_judges():
     import links
     urls = links.site_links()
     assert urls and all(u.startswith(("http://", "https://")) for u in urls)
-    assert not any("civicswa.org/" in u.split("//", 1)[1][:15] for u in urls)
+    from urllib.parse import urlparse
+    assert not any(urlparse(u).hostname in ("civicswa.org", "www.civicswa.org") for u in urls)
     out = links.broken([("a", 404, ""), ("b", 403, ""), ("c", 0, "ConnectionError"), ("d", 0, "ReadTimeout"), ("e", -1, "robots")])
     assert out == ["- Broken (404): a", "- Broken (ConnectionError): c"]
 
