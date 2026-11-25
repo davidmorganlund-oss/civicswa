@@ -335,6 +335,10 @@
     document.head.appendChild(tag);
   }
 
+  // The search box filters as you type, so pressing Enter shouldn't reload the page.
+  var searchForm = $('search');
+  if (searchForm) searchForm.addEventListener('submit', function (ev) { ev.preventDefault(); });
+
   function setup() {
     var q = $('q'), timer;
     q.addEventListener('input', function () {
