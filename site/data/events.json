@@ -1,23 +1,6 @@
 {
- "generated": "2026-11-25T00:03:27-08:00",
+ "generated": "2026-11-25T04:11:11-08:00",
  "events": [
-  {
-   "id": "622eb08c332d",
-   "title": "City Council",
-   "host": "City of Lynnwood",
-   "source": "lynnwood",
-   "area": "Lynnwood",
-   "county": "Snohomish",
-   "category": "council",
-   "start": "2026-11-25T00:00:00-08:00",
-   "end": null,
-   "all_day": true,
-   "location": "",
-   "url": "https://lynnwoodwa.granicus.com/AgendaViewer.php?view_id=1&clip_id=1151",
-   "agenda_url": "",
-   "note": "",
-   "cancelled": false
-  },
   {
    "id": "622eb08c332d",
    "title": "City Council",
@@ -12257,7 +12240,7 @@
    "cancelled": false
   },
   {
-   "id": "c64ed8059a8d",
+   "id": "28131a3c9c6a",
    "title": "Regular Board Meeting",
    "host": "North Kitsap School District",
    "source": "north-kitsap-schools",
@@ -12268,7 +12251,7 @@
    "end": null,
    "all_day": false,
    "location": "18360 Caldart Ave NE, Poulsbo, WA 98370, USA",
-   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10017",
+   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10000",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -15140,7 +15123,7 @@
    "cancelled": false
   },
   {
-   "id": "d3a7e7bd83ef",
+   "id": "b23a7f77a74b",
    "title": "School Connections - Vinland Elementary",
    "host": "North Kitsap School District",
    "source": "north-kitsap-schools",
@@ -15151,7 +15134,7 @@
    "end": null,
    "all_day": false,
    "location": "",
-   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10010",
+   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10001",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -23987,7 +23970,7 @@
    "cancelled": false
   },
   {
-   "id": "128864a248dd",
+   "id": "cac5cb08d6da",
    "title": "Board Regular Session Meeting",
    "host": "Naches Valley School District",
    "source": "naches-valley-schools",
@@ -28696,7 +28679,7 @@
    "cancelled": false
   },
   {
-   "id": "ef148b3fb82d",
+   "id": "29f505d87238",
    "title": "School Connections - Kingston Middle School",
    "host": "North Kitsap School District",
    "source": "north-kitsap-schools",
@@ -28707,7 +28690,7 @@
    "end": null,
    "all_day": false,
    "location": "",
-   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10006",
+   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10009",
    "agenda_url": "",
    "note": "",
    "cancelled": false
@@ -35360,7 +35343,7 @@
    "cancelled": false
   },
   {
-   "id": "bb3a9f02d70a",
+   "id": "25f1bd95239c",
    "title": "Regular Board Meeting",
    "host": "North Kitsap School District",
    "source": "north-kitsap-schools",
@@ -35371,7 +35354,7 @@
    "end": null,
    "all_day": false,
    "location": "18360 Caldart Ave NE, Poulsbo, WA 98370, USA",
-   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10009",
+   "url": "https://nkschools.community.diligentoneplatform.com/Portal/MeetingInformation.aspx?Org=Cal&Id=10008",
    "agenda_url": "",
    "note": "",
    "cancelled": false
