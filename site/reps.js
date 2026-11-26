@@ -62,6 +62,81 @@
 
   var officials = null;
   var localData = null;
+  var mayors = null;
+  var countyOfficials = null;
+
+  // County officers elected in November 2026 take office January 1, 2027
+  // (RCW 29A.60.280). Update after each county election.
+  var COUNTY_TERM = '2027-01-01', COUNTY_NOTE_UNTIL = '2027-03-01';
+
+  // The Census writes "Mount Vernon"; some lists write "Mt." or "St.".
+  function byCity(map, city) {
+    if (!map || !city) return null;
+    return map[city] || map[city.replace(/^Mount /, 'Mt. ')] || map[city.replace(/^Saint /, 'St. ')] || null;
+  }
+
+  function longDate(day) {
+    return new Date(day + 'T12:00:00').toLocaleDateString(ES ? 'es-US' : 'en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+  }
+
+  function sourceLine(card, url, text, checked) {
+    if (!safeUrl(url)) return;
+    var p = el('p', 'muted');
+    p.appendChild(document.createTextNode(L('Source: ', 'Fuente: ')));
+    p.appendChild(outLink(url, text));
+    p.appendChild(document.createTextNode(checked ? L(', checked ', ', consultado el ') + longDate(checked) + '.' : '.'));
+    card.appendChild(p);
+  }
+
+  // The mayor as the MRSC Officials Directory lists them (data/mayors.json,
+  // refreshed by the pipeline).
+  function addMayor(card, city) {
+    var m = byCity(mayors && mayors.mayors, city);
+    if (!m || !m.name) return;
+    card.appendChild(el('h4', null, L('Mayor', 'Alcalde o alcaldesa')));
+    people(card, [{ name: m.name }], '');
+    sourceLine(card, m.source || mayors.source_url, L('MRSC Officials Directory', 'directorio de funcionarios de MRSC'), mayors.as_of);
+    return true;
+  }
+
+  var ROLES = { Chair: ['Chair', 'Presidencia'], 'Vice Chair': ['Vice Chair', 'Vicepresidencia'] };
+
+  // County commissioners or council members, as each county's own website
+  // listed them (data/county_officials.json).
+  function addCountyBoard(card, county) {
+    var c = countyOfficials && countyOfficials.counties && countyOfficials.counties[county];
+    if (!c || !c.members || !c.members.length) return;
+    var council = c.kind === 'council';
+    if (c.executive && c.executive.name) {
+      card.appendChild(el('h4', null, L('County Executive', 'Ejecutivo del condado')));
+      people(card, [{ name: c.executive.name }], '');
+    }
+    card.appendChild(el('h4', null, ES ? (council ? 'Concejo del condado' : 'Junta de Comisionados del Condado') : c.body));
+    card.appendChild(el('p', 'muted', council
+      ? L('Your county is governed by an elected county council.', 'Su condado está gobernado por un concejo del condado elegido.')
+      : L('Your county is governed by an elected board of county commissioners.', 'Su condado está gobernado por una junta de comisionados del condado elegida.')));
+    var list = c.members.map(function (m) {
+      var bits = [];
+      if (m.district) bits.push(/^\d+$/.test(m.district) ? L('District ', 'Distrito ') + m.district
+        : m.district.replace(/^At-Large Position/, L('At-large, Position', 'General, Posición')));
+      if (m.role && ROLES[m.role]) bits.push(L(ROLES[m.role][0], ROLES[m.role][1]));
+      return { name: m.name, note: bits.join(' · ') };
+    });
+    (c.vacant || []).forEach(function (d) {
+      list.push({ name: L('Vacant', 'Vacante'), note: L('District ', 'Distrito ') + d });
+    });
+    people(card, list, '');
+    var today = new Date().toISOString().slice(0, 10);
+    if (today < COUNTY_NOTE_UNTIL) {
+      card.appendChild(el('p', 'muted', today < COUNTY_TERM
+        ? L('County officers elected in November take office on ' + longDate(COUNTY_TERM) + ', so this list may still show members whose terms are ending.',
+          'Los funcionarios del condado elegidos en noviembre asumen el cargo el ' + longDate(COUNTY_TERM) + ', así que esta lista puede mostrar todavía a miembros cuyo período está por terminar.')
+        : L('County officers elected in November took office on ' + longDate(COUNTY_TERM) + '. This list may take a few weeks to catch up.',
+          'Los funcionarios del condado elegidos en noviembre asumieron el cargo el ' + longDate(COUNTY_TERM) + '. Esta lista puede tardar unas semanas en ponerse al día.')));
+    }
+    sourceLine(card, c.source_url, L(county + ' County website', 'sitio web del Condado de ' + county), countyOfficials.as_of);
+    return true;
+  }
   var $ = function (id) { return document.getElementById(id); };
 
   function el(tag, cls, text) {
@@ -186,6 +261,7 @@
     var li = el('li', 'person');
     li.appendChild(el('strong', null, p.name));
     if (p.party) li.appendChild(el('span', 'muted', ' · ' + (ES && PARTIES[p.party] || p.party)));
+    if (p.note) li.appendChild(el('span', 'muted', ' · ' + p.note));
     var contact = el('div', 'contact');
     if (p.phone) contact.appendChild(link('tel:' + p.phone.replace(/[^\d+]/g, ''), p.phone));
     if (p.email) contact.appendChild(link('mailto:' + p.email, p.email));
@@ -222,15 +298,16 @@
     card.appendChild(p);
   }
 
-  function localCard(title, name, entry, fallback, place) {
+  function localCard(title, name, entry, fallback, place, addOfficials) {
     var card = section(title, name);
+    var listed = addOfficials ? addOfficials(card) : false;
     if (!entry && place) { extraLinks(card, place); return card; }
     if (entry) {
       var p = el('p');
       p.appendChild(outLink(entry.url, ES ? entry.es : entry.label));
       p.appendChild(document.createTextNode(': ' + (ES ? entry.esNote : entry.note) + '.'));
       card.appendChild(p);
-    } else {
+    } else if (!listed) {
       card.appendChild(el('p', 'muted', fallback));
     }
     extraLinks(card, place);
@@ -262,13 +339,15 @@
 
     out.appendChild(city
       ? localCard(L('City', 'Ciudad'), L('City of ', 'Ciudad de ') + city, LOCAL.places[city], L('Your mayor and council members are listed on the city’s website. We have not added a direct link for this city yet.',
-        'Su alcalde y los miembros del concejo municipal aparecen en el sitio web de la ciudad. Todavía no hemos agregado un enlace directo para esta ciudad.'), localData && localData.cities[city])
+        'Su alcalde y los miembros del concejo municipal aparecen en el sitio web de la ciudad. Todavía no hemos agregado un enlace directo para esta ciudad.'), localData && localData.cities[city],
+        function (card) { return addMayor(card, city); })
       : localCard(L('City', 'Ciudad'), L('Outside city limits', 'Fuera de los límites de una ciudad'), null, L('This address is in an unincorporated area, so the county is your local government.',
         'Esta dirección está en una zona no incorporada, así que el condado es su gobierno local.')));
 
     if (county) {
       out.appendChild(localCard(L('County', 'Condado'), L(county + ' County', 'Condado de ' + county), LOCAL.counties[county], L('Your county commissioners or council members are listed on the county’s website. We have not added a direct link for this county yet.',
-        'Los comisionados o los miembros del concejo de su condado aparecen en el sitio web del condado. Todavía no hemos agregado un enlace directo para este condado.'), localData && localData.counties[county]));
+        'Los comisionados o los miembros del concejo de su condado aparecen en el sitio web del condado. Todavía no hemos agregado un enlace directo para este condado.'), localData && localData.counties[county],
+        function (card) { return addCountyBoard(card, county); }));
     }
 
     var seats = (officials && officials.legislators && officials.legislators[ld]) || null;
@@ -335,4 +414,6 @@
 
   fetch(BASE + 'data/local.json').then(function (r) { return r.json(); }).then(function (d) { localData = d; }).catch(function () {});
   fetch(BASE + 'data/officials.json').then(function (r) { return r.json(); }).then(function (d) { officials = d; }).catch(function () {});
+  fetch(BASE + 'data/mayors.json').then(function (r) { return r.json(); }).then(function (d) { mayors = d; }).catch(function () {});
+  fetch(BASE + 'data/county_officials.json').then(function (r) { return r.json(); }).then(function (d) { countyOfficials = d; }).catch(function () {});
 })();

@@ -48,6 +48,14 @@ jobs:
         run: python pipeline/build.py | tee "$GITHUB_STEP_SUMMARY"
       - name: Build the representatives roster
         run: python pipeline/officials.py | tee -a "$GITHUB_STEP_SUMMARY"
+      - name: Refresh local officials
+        # Mayors from the MRSC Officials Directory. These change rarely, so this runs on Mondays,
+        # or whenever the file is missing. A failure keeps the last good file.
+        continue-on-error: true
+        run: |
+          if [ "$(date -u +%u)" = "1" ] || [ ! -s site/data/mayors.json ]; then
+            python pipeline/mayors.py | tee -a "$GITHUB_STEP_SUMMARY"
+          fi
       - name: Flag calendars that keep failing
         if: always()
         continue-on-error: true

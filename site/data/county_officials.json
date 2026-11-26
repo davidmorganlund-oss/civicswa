@@ -1,0 +1,845 @@
+{
+ "_note": "County commissioners and council members as each county's own website listed them on the as_of date. Counties whose page could not be read or listed only part of the board are left out, so the lookup shows the county's website instead. Check again after new members take office on January 1, 2027.",
+ "as_of": "2026-11-26",
+ "review_by": "2027-01-15",
+ "counties": {
+  "Adams": {
+   "body": "Board of Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Dan Blankenship",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Jay R. Weise",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "Mike Garza",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://www.co.adams.wa.gov/264/Board-of-Commissioners"
+  },
+  "Asotin": {
+   "body": "Board of Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Brian Shinn",
+     "district": "1",
+     "role": "Vice Chair"
+    },
+    {
+     "name": "Chris Seubert",
+     "district": "2",
+     "role": "Chair"
+    },
+    {
+     "name": "Chuck Whitman",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://www.asotincountywa.gov/164/Commissioners"
+  },
+  "Benton": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Jerome Delvin",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Michael Alvarez",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "Will McKay",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://www.bentoncountywa.gov/government/elected_officials/commissioners/index.php"
+  },
+  "Chelan": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Kevin Overbay",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Shon Smith",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "Brad Hawkins",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://co.chelan.wa.us/board-of-commissioners/contacts"
+  },
+  "Clallam": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Mark Ozias",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Randy Johnson",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "Mike French",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://clallamcountywa.gov/1356/Commissioners"
+  },
+  "Clark": {
+   "body": "County Council",
+   "kind": "council",
+   "members": [
+    {
+     "name": "Glen Yung",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Michelle Belkot",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "Wil Fuentes",
+     "district": "3",
+     "role": null
+    },
+    {
+     "name": "Matt Little",
+     "district": "4",
+     "role": null
+    },
+    {
+     "name": "Sue Marshall",
+     "district": "5",
+     "role": "Chair"
+    }
+   ],
+   "source_url": "https://clark.wa.gov/councilors"
+  },
+  "Columbia": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Ryan R. Rundell",
+     "district": "1",
+     "role": "Chair"
+    },
+    {
+     "name": "Marty J. Hall",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "Jack G. Miller",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://www.columbiaco.com/205/Board-of-County-Commissioners"
+  },
+  "Cowlitz": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Steve Rader",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Steven L. Ferrell",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "Richard Dahl",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://www.co.cowlitz.wa.us/2493/Meet-the-Commissioners"
+  },
+  "Douglas": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Dan Sutton",
+     "district": "1",
+     "role": "Chair"
+    },
+    {
+     "name": "Randy Agnew",
+     "district": "2",
+     "role": "Vice Chair"
+    },
+    {
+     "name": "Marc Straub",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://www.douglascountywa.gov/275/Board-of-County-Commissioners"
+  },
+  "Ferry": {
+   "body": "Board of Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Teresa Jenkins",
+     "district": "1",
+     "role": "Chair"
+    },
+    {
+     "name": "Robert (Bob) P. Dean",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "Zack Trudell",
+     "district": "3",
+     "role": "Vice Chair"
+    }
+   ],
+   "source_url": "https://www.ferrycounty.gov/government/board_of_commissioners/index.php"
+  },
+  "Franklin": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Stephen Bauman",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Rocky Mullen",
+     "district": "2",
+     "role": "Chair"
+    },
+    {
+     "name": "Clint Didier",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://franklincountywa.gov/commissioners"
+  },
+  "Grant": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Kevin R. Burgess",
+     "district": "1",
+     "role": "Chair"
+    },
+    {
+     "name": "Rob Jones",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "Cindy Carter",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://www.grantcountywa.gov/317/County-Commissioners"
+  },
+  "Grays Harbor": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Georgia Miller",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Rick Hole",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "JR Streifel",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://www.graysharbor.gov/government/commissioners/"
+  },
+  "Island": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Melanie Bacon",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Jill Johnson",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "Janet St. Clair",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://islandcountywa.gov/Directory.aspx?DID=52"
+  },
+  "Jefferson": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Heather Dudley-Nollette",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Heidi Eisenhour",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "Greg Brotherton",
+     "district": "3",
+     "role": "Chair"
+    }
+   ],
+   "source_url": "https://www.co.jefferson.wa.us/529/Board-of-County-Commissioners"
+  },
+  "King": {
+   "body": "Metropolitan King County Council",
+   "kind": "council",
+   "members": [
+    {
+     "name": "Rod Dembowski",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Rhonda Lewis",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "Sarah Perry",
+     "district": "3",
+     "role": null
+    },
+    {
+     "name": "Jorge L. Barón",
+     "district": "4",
+     "role": null
+    },
+    {
+     "name": "Steffanie Fain",
+     "district": "5",
+     "role": null
+    },
+    {
+     "name": "Claudia Balducci",
+     "district": "6",
+     "role": null
+    },
+    {
+     "name": "Pete von Reichbauer",
+     "district": "7",
+     "role": null
+    },
+    {
+     "name": "Teresa Mosqueda",
+     "district": "8",
+     "role": null
+    },
+    {
+     "name": "Reagan Dunn",
+     "district": "9",
+     "role": null
+    }
+   ],
+   "source_url": "https://cd.kingcounty.gov/en/dept/council/governance-leadership/county-council/councilmembers-districts",
+   "executive": {
+    "name": "Girmay Zahilay",
+    "source_url": "https://kingcounty.gov/en/dept/executive"
+   }
+  },
+  "Kitsap": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Christine Rolfes",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Oran Root",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "Katie Walters",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://www.kitsap.gov/BOC_p/Pages/default.aspx"
+  },
+  "Kittitas": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Jeff Leichleiter",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Laura Osiadacz",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "Brett Wachsmith",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://www.co.kittitas.wa.us/boc/"
+  },
+  "Klickitat": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Todd Andrews",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Lori Zoller",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "Ron Ihrig",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://klickitatcounty.gov/Directory.aspx?DID=39"
+  },
+  "Lewis": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Sean D. Swope",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Lindsey R. Pollock, DVM",
+     "district": "2",
+     "role": "Chair"
+    },
+    {
+     "name": "Scott J. Brummer",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://lewiscountywa.gov/offices/commissioners/about-the-bocc/"
+  },
+  "Lincoln": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Jo M Gilchrist",
+     "district": "1",
+     "role": "Vice Chair"
+    },
+    {
+     "name": "Scott M Hutsell",
+     "district": "2",
+     "role": "Chair"
+    },
+    {
+     "name": "Rob Coffman",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://www.lincolncountywa.com/347/Commissioners"
+  },
+  "Mason": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Randy Neatherlin",
+     "district": "1",
+     "role": "Vice Chair"
+    },
+    {
+     "name": "Pat Tarzwell",
+     "district": "2",
+     "role": "Chair"
+    }
+   ],
+   "source_url": "https://www.masoncountywa.gov/government/county_commissioners/index.php",
+   "vacant": [
+    "3"
+   ]
+  },
+  "Okanogan": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Nick Timm",
+     "district": null,
+     "role": null
+    },
+    {
+     "name": "Andy Hover",
+     "district": null,
+     "role": "Chair"
+    },
+    {
+     "name": "Jon Neal",
+     "district": null,
+     "role": "Vice Chair"
+    }
+   ],
+   "source_url": "https://www.okanogancounty.gov/175/County-Commissioners"
+  },
+  "Pend Oreille": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "John Gentle",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Robert Rosencrantz",
+     "district": "2",
+     "role": "Vice Chair"
+    },
+    {
+     "name": "Brian Smiley",
+     "district": "3",
+     "role": "Chair"
+    }
+   ],
+   "source_url": "https://www.pendoreille.gov/board-county-commissioners"
+  },
+  "San Juan": {
+   "body": "County Council",
+   "kind": "council",
+   "members": [
+    {
+     "name": "Kari McVeigh",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Justin Paulsen",
+     "district": "2",
+     "role": "Chair"
+    },
+    {
+     "name": "Jane Fuller",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://www.sanjuancountywa.gov/341/County-Council"
+  },
+  "Skagit": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Ron Wesen",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Peter Browning",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "Joe Burns",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://www.skagitcountywa.gov/government/board-of-county-commissioners/"
+  },
+  "Skamania": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Brian Nichols",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Rob Farris",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "Asa Leckie",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://www.skamaniacounty.gov/departments-offices/commissioners/meet-your-commissioners"
+  },
+  "Snohomish": {
+   "body": "County Council",
+   "kind": "council",
+   "members": [
+    {
+     "name": "Nate Nehring",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Megan Dunn",
+     "district": "2",
+     "role": "Chair"
+    },
+    {
+     "name": "Strom Peterson",
+     "district": "3",
+     "role": null
+    },
+    {
+     "name": "Jared Mead",
+     "district": "4",
+     "role": null
+    },
+    {
+     "name": "Sam Low",
+     "district": "5",
+     "role": "Vice Chair"
+    }
+   ],
+   "source_url": "https://snohomishcountywa.gov/Directory.aspx?DID=101",
+   "executive": {
+    "name": "Dave Somers",
+    "source_url": "https://snohomishcountywa.gov/Directory.aspx?DID=92"
+   }
+  },
+  "Thurston": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Carolina Mejia",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Rachel Grant",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "Tye Menser",
+     "district": "3",
+     "role": null
+    },
+    {
+     "name": "Wayne Fournier",
+     "district": "4",
+     "role": null
+    },
+    {
+     "name": "Emily Clouse",
+     "district": "5",
+     "role": null
+    }
+   ],
+   "source_url": "https://www.thurstoncountywa.gov/departments/board-county-commissioners"
+  },
+  "Wahkiakum": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Lee Tischer",
+     "district": "1",
+     "role": "Vice Chair"
+    },
+    {
+     "name": "Daniel L. Cothren",
+     "district": "2",
+     "role": "Chair"
+    },
+    {
+     "name": "Mark Letham",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://www.co.wahkiakum.wa.us/257/Board-of-County-Commissioners"
+  },
+  "Walla Walla": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Bertha J. Clayton",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Todd L. Kimball",
+     "district": "2",
+     "role": "Chair"
+    },
+    {
+     "name": "Gunner Fulmer",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://www.wwcowa.gov/government/commissioners/index.php"
+  },
+  "Whatcom": {
+   "body": "County Council",
+   "kind": "council",
+   "members": [
+    {
+     "name": "Kaylee Galloway",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Elizabeth Boyle",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "Jessica Rienstra",
+     "district": "3",
+     "role": null
+    },
+    {
+     "name": "Mark Stremler",
+     "district": "4",
+     "role": null
+    },
+    {
+     "name": "Ben Elenbaas",
+     "district": "5",
+     "role": null
+    },
+    {
+     "name": "Barry Buchanan",
+     "district": "At-Large Position A",
+     "role": null
+    },
+    {
+     "name": "Jon Scanlon",
+     "district": "At-Large Position B",
+     "role": null
+    }
+   ],
+   "source_url": "https://www.whatcomcounty.us/1510/Councilmembers",
+   "executive": {
+    "name": "Satpal Sidhu",
+    "source_url": "https://www.whatcomcounty.us/"
+   }
+  },
+  "Whitman": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Art Swannack",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Tom Handy",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "Chad Whetzel",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://www.whitmancounty.gov/367/Commissioners"
+  },
+  "Yakima": {
+   "body": "Board of County Commissioners",
+   "kind": "commission",
+   "members": [
+    {
+     "name": "Amanda McKinney",
+     "district": "1",
+     "role": null
+    },
+    {
+     "name": "Kyle Curtis",
+     "district": "2",
+     "role": null
+    },
+    {
+     "name": "LaDon Linde",
+     "district": "3",
+     "role": null
+    }
+   ],
+   "source_url": "https://yakimacounty.us/766/Commissioners"
+  }
+ }
+}
