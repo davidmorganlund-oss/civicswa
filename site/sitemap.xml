@@ -1,63 +1,423 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://civicswa.org/about.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/coverage.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/engage.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/boards-and-commissions.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/constitution.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/contact-your-representatives.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/courts.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/federal-agencies.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/federal-budget.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/federal-offices.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/legislature.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/local-ballot-measures.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/local-government.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/media-literacy.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/problem-to-policy.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/public-disclosure-commission.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/read-a-bill-or-agenda.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/running-for-office.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/speak-at-a-public-meeting.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/state-agencies.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/state-budgets.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/state-initiatives.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/two-minute-pitch.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/volunteer-and-public-service.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/weigh-in-on-a-state-bill.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/your-neighborhood.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/guides/your-school-board.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/reps.html</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://civicswa.org/es/</loc></url>
-  <url><loc>https://civicswa.org/es/acerca.html</loc></url>
-  <url><loc>https://civicswa.org/es/engage.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/coverage.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/hearings.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/reps.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/boards-and-commissions.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/constitution.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/contact-your-representatives.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/courts.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/federal-agencies.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/federal-budget.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/federal-offices.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/legislature.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/local-ballot-measures.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/local-government.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/media-literacy.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/problem-to-policy.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/public-disclosure-commission.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/read-a-bill-or-agenda.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/running-for-office.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/speak-at-a-public-meeting.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/state-agencies.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/state-budgets.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/state-initiatives.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/two-minute-pitch.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/volunteer-and-public-service.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/weigh-in-on-a-state-bill.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/your-neighborhood.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/es/guides/your-school-board.html</loc><lastmod>2026-11-25</lastmod></url>
-  <url><loc>https://civicswa.org/hearings.html</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://civicswa.org/</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/about.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/about.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/acerca.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/about.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/coverage.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/coverage.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/coverage.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/coverage.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/engage.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/engage.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/engage.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/engage.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/acerca.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/about.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/acerca.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/about.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/coverage.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/coverage.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/coverage.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/coverage.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/engage.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/engage.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/engage.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/engage.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/boards-and-commissions.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/boards-and-commissions.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/boards-and-commissions.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/boards-and-commissions.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/constitution.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/constitution.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/constitution.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/constitution.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/contact-your-representatives.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/contact-your-representatives.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/contact-your-representatives.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/contact-your-representatives.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/courts.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/courts.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/courts.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/courts.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/federal-agencies.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/federal-agencies.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/federal-agencies.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/federal-agencies.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/federal-budget.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/federal-budget.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/federal-budget.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/federal-budget.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/federal-offices.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/federal-offices.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/federal-offices.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/federal-offices.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/legislature.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/legislature.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/legislature.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/legislature.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/local-ballot-measures.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/local-ballot-measures.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/local-ballot-measures.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/local-ballot-measures.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/local-government.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/local-government.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/local-government.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/local-government.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/media-literacy.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/media-literacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/media-literacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/media-literacy.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/problem-to-policy.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/problem-to-policy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/problem-to-policy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/problem-to-policy.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/public-disclosure-commission.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/public-disclosure-commission.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/public-disclosure-commission.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/public-disclosure-commission.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/read-a-bill-or-agenda.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/read-a-bill-or-agenda.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/read-a-bill-or-agenda.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/read-a-bill-or-agenda.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/running-for-office.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/running-for-office.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/running-for-office.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/running-for-office.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/speak-at-a-public-meeting.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/speak-at-a-public-meeting.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/speak-at-a-public-meeting.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/speak-at-a-public-meeting.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/state-agencies.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/state-agencies.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/state-agencies.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/state-agencies.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/state-budgets.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/state-budgets.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/state-budgets.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/state-budgets.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/state-initiatives.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/state-initiatives.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/state-initiatives.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/state-initiatives.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/two-minute-pitch.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/two-minute-pitch.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/two-minute-pitch.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/two-minute-pitch.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/volunteer-and-public-service.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/volunteer-and-public-service.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/volunteer-and-public-service.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/volunteer-and-public-service.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/weigh-in-on-a-state-bill.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/weigh-in-on-a-state-bill.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/weigh-in-on-a-state-bill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/weigh-in-on-a-state-bill.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/your-neighborhood.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/your-neighborhood.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/your-neighborhood.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/your-neighborhood.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/guides/your-school-board.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/your-school-board.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/your-school-board.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/your-school-board.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/hearings.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/hearings.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/hearings.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/hearings.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/es/reps.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/reps.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/reps.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/reps.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/boards-and-commissions.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/boards-and-commissions.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/boards-and-commissions.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/boards-and-commissions.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/constitution.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/constitution.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/constitution.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/constitution.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/contact-your-representatives.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/contact-your-representatives.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/contact-your-representatives.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/contact-your-representatives.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/courts.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/courts.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/courts.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/courts.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/federal-agencies.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/federal-agencies.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/federal-agencies.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/federal-agencies.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/federal-budget.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/federal-budget.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/federal-budget.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/federal-budget.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/federal-offices.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/federal-offices.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/federal-offices.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/federal-offices.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/legislature.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/legislature.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/legislature.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/legislature.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/local-ballot-measures.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/local-ballot-measures.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/local-ballot-measures.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/local-ballot-measures.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/local-government.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/local-government.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/local-government.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/local-government.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/media-literacy.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/media-literacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/media-literacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/media-literacy.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/problem-to-policy.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/problem-to-policy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/problem-to-policy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/problem-to-policy.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/public-disclosure-commission.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/public-disclosure-commission.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/public-disclosure-commission.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/public-disclosure-commission.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/read-a-bill-or-agenda.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/read-a-bill-or-agenda.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/read-a-bill-or-agenda.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/read-a-bill-or-agenda.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/running-for-office.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/running-for-office.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/running-for-office.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/running-for-office.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/speak-at-a-public-meeting.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/speak-at-a-public-meeting.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/speak-at-a-public-meeting.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/speak-at-a-public-meeting.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/state-agencies.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/state-agencies.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/state-agencies.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/state-agencies.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/state-budgets.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/state-budgets.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/state-budgets.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/state-budgets.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/state-initiatives.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/state-initiatives.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/state-initiatives.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/state-initiatives.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/two-minute-pitch.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/two-minute-pitch.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/two-minute-pitch.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/two-minute-pitch.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/volunteer-and-public-service.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/volunteer-and-public-service.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/volunteer-and-public-service.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/volunteer-and-public-service.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/weigh-in-on-a-state-bill.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/weigh-in-on-a-state-bill.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/weigh-in-on-a-state-bill.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/weigh-in-on-a-state-bill.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/your-neighborhood.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/your-neighborhood.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/your-neighborhood.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/your-neighborhood.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/guides/your-school-board.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/guides/your-school-board.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/guides/your-school-board.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/guides/your-school-board.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/hearings.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/hearings.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/hearings.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/hearings.html"/>
+  </url>
+  <url>
+    <loc>https://civicswa.org/reps.html</loc>
+    <lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://civicswa.org/reps.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://civicswa.org/es/reps.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://civicswa.org/reps.html"/>
+  </url>
 </urlset>
