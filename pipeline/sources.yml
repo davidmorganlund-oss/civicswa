@@ -1382,7 +1382,7 @@ sources:
 
   - {id: sunnyside, name: City of Sunnyside, county: Yakima, area: Sunnyside, type: primegov, tenant: sunnyside, homepage: 'https://sunnyside.primegov.com/public/portal'}
 
-  - {id: yakima, name: City of Yakima, county: Yakima, area: Yakima, type: ics, url: 'https://www.yakimawa.gov/media/calendar/?ical=1', include: council|commission|board|committee|hearing|meeting|session|workshop, homepage: 'https://www.yakimawa.gov/media/calendar/'}
+  - {id: yakima, name: City of Yakima, county: Yakima, area: Yakima, type: ics, url: 'https://www.yakimawa.gov/media/?post_type=tribe_events&ical=1&eventDisplay=list', include: council|commission|board|committee|hearing|meeting|session|workshop, homepage: 'https://www.yakimawa.gov/media/calendar/'}
 
   - {id: naches, name: Town of Naches, county: Yakima, area: Naches, type: ics, url: 'https://townofnaches.com/events/?ical=1', include: council|commission|board|committee|hearing|meeting|session|workshop, homepage: 'https://townofnaches.com/events/'}
 
