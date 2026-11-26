@@ -1,0 +1,1352 @@
+{
+ "source": "MRSC Officials Directory",
+ "source_url": "https://mrsc.org/mrsctools/officials-directory/",
+ "as_of": "2026-11-26",
+ "mayors": {
+  "Aberdeen": {
+   "name": "Douglass Orr",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=o",
+   "letter": "o"
+  },
+  "Airway Heights": {
+   "name": "Larry Bowman",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "Albion": {
+   "name": "Carolyn Emerson-Farr",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=e",
+   "letter": "e"
+  },
+  "Almira": {
+   "name": "Jason Evers",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=e",
+   "letter": "e"
+  },
+  "Anacortes": {
+   "name": "Ryan Walters",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=w",
+   "letter": "w"
+  },
+  "Arlington": {
+   "name": "Don Vanney",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=v",
+   "letter": "v"
+  },
+  "Asotin": {
+   "name": "Dwayne Paris",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=p",
+   "letter": "p"
+  },
+  "Auburn": {
+   "name": "Nancy Backus",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "Battle Ground": {
+   "name": "Eric Overholser",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=o",
+   "letter": "o"
+  },
+  "Beaux Arts Village": {
+   "name": "Aletha Howes",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Bellevue": {
+   "name": "Mo Malakoutian",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "Bellingham": {
+   "name": "Kim Lund",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=l",
+   "letter": "l"
+  },
+  "Benton City": {
+   "name": "Len Burton",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "Bingen": {
+   "name": "Catherine Kiewit",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=k",
+   "letter": "k"
+  },
+  "Black Diamond": {
+   "name": "John Adler",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=a",
+   "letter": "a"
+  },
+  "Blaine": {
+   "name": "Mary Lou Steward",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Bonney Lake": {
+   "name": "Terry Carter",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=c",
+   "letter": "c"
+  },
+  "Bothell": {
+   "name": "Mason Thompson",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=t",
+   "letter": "t"
+  },
+  "Bremerton": {
+   "name": "Greg Wheeler",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=w",
+   "letter": "w"
+  },
+  "Brewster": {
+   "name": "Art Smyth",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Bridgeport": {
+   "name": "Sergio Orozco",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=o",
+   "letter": "o"
+  },
+  "Brier": {
+   "name": "Dale Kaemingk",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=k",
+   "letter": "k"
+  },
+  "Buckley": {
+   "name": "Carolyn Robertson Harding",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "Bucoda": {
+   "name": "Callie Carpenter",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=c",
+   "letter": "c"
+  },
+  "Burien": {
+   "name": "Kevin Schilling",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Burlington": {
+   "name": "Bill Aslett",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=a",
+   "letter": "a"
+  },
+  "Camas": {
+   "name": "Steven Hogan",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Carbonado": {
+   "name": "Kevin Vesey",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=v",
+   "letter": "v"
+  },
+  "Carnation": {
+   "name": "Jim Ribail",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "Cashmere": {
+   "name": "James Fletcher",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=f",
+   "letter": "f"
+  },
+  "Castle Rock": {
+   "name": "Paul Helenberg",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Cathlamet": {
+   "name": "Nicholas Sevald",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Centralia": {
+   "name": "Chris Brewer",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "Chehalis": {
+   "name": "Anthony Ketchum, Sr.",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=k",
+   "letter": "k"
+  },
+  "Chelan": {
+   "name": "Erin McCardle",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "Cheney": {
+   "name": "Elsa Martin",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "Chewelah": {
+   "name": "Lindsey Baxter",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "Clarkston": {
+   "name": "Monika Lawrence",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=l",
+   "letter": "l"
+  },
+  "Cle Elum": {
+   "name": "Matthew Lundh",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=l",
+   "letter": "l"
+  },
+  "Clyde Hill": {
+   "name": "Dean Hachamovitch",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Colfax": {
+   "name": "James Retzer",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "College Place": {
+   "name": "Norma Hernandez",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Colton": {
+   "name": "Jerry Weber",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=w",
+   "letter": "w"
+  },
+  "Colville": {
+   "name": "Jack Smith",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Conconully": {
+   "name": "Sam Martin",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "Concrete": {
+   "name": "Jeremy Akers",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=a",
+   "letter": "a"
+  },
+  "Connell": {
+   "name": "Shelly Harper",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Cosmopolis": {
+   "name": "Linda Springer",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Coulee City": {
+   "name": "Don Rushton",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "Coulee Dam": {
+   "name": "Bob Poch",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=p",
+   "letter": "p"
+  },
+  "Coupeville": {
+   "name": "Molly Hughes",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Covington": {
+   "name": "Sean Smith",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Creston": {
+   "name": "Jackie Browder",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "Cusick": {
+   "name": "Robert Reinhardt",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "Darrington": {
+   "name": "Dan Rankin",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "Davenport": {
+   "name": "Brad Sweet",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Dayton": {
+   "name": "Mike Smith",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Deer Park": {
+   "name": "Billy Costello",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=c",
+   "letter": "c"
+  },
+  "Des Moines": {
+   "name": "Yoshiko Grace Matsui",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=g",
+   "letter": "g"
+  },
+  "DuPont": {
+   "name": "Ron Frederick",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=f",
+   "letter": "f"
+  },
+  "Duvall": {
+   "name": "Amy McHenry",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "East Wenatchee": {
+   "name": "Jerrilea Crawford",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=c",
+   "letter": "c"
+  },
+  "Eatonville": {
+   "name": "Emily McFadden",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "Edgewood": {
+   "name": "David Olson",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=o",
+   "letter": "o"
+  },
+  "Edmonds": {
+   "name": "Mike Rosen",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "Electric City": {
+   "name": "Diane Kohout",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=k",
+   "letter": "k"
+  },
+  "Ellensburg": {
+   "name": "Rich Elliott",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=e",
+   "letter": "e"
+  },
+  "Elma": {
+   "name": "Josh Collette",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=c",
+   "letter": "c"
+  },
+  "Elmer City": {
+   "name": "Jesse Tillman",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=t",
+   "letter": "t"
+  },
+  "Endicott": {
+   "name": "Dean Marty",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "Entiat": {
+   "name": "Renee Swearingen",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Enumclaw": {
+   "name": "Anthony Wright",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=w",
+   "letter": "w"
+  },
+  "Ephrata": {
+   "name": "Steve Oliver",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=o",
+   "letter": "o"
+  },
+  "Everett": {
+   "name": "Cassie Franklin",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=f",
+   "letter": "f"
+  },
+  "Everson": {
+   "name": "John Perry",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=p",
+   "letter": "p"
+  },
+  "Fairfield": {
+   "name": "David Rafferty",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "Farmington": {
+   "name": "Josh Gamez",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=g",
+   "letter": "g"
+  },
+  "Federal Way": {
+   "name": "Jim Ferrell",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=f",
+   "letter": "f"
+  },
+  "Ferndale": {
+   "name": "Greg Hansen",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Fife": {
+   "name": "Kim Roscoe",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "Fircrest": {
+   "name": "Shannon Reynolds",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "Forks": {
+   "name": "Tim Fletcher",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=f",
+   "letter": "f"
+  },
+  "Friday Harbor": {
+   "name": "Evan Perrollaz",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=p",
+   "letter": "p"
+  },
+  "Garfield": {
+   "name": "Cody Lord",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=l",
+   "letter": "l"
+  },
+  "George": {
+   "name": "Juan Villalpando",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=v",
+   "letter": "v"
+  },
+  "Gig Harbor": {
+   "name": "Mary Barber",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "Gold Bar": {
+   "name": "Steve Yarbrough",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=y",
+   "letter": "y"
+  },
+  "Goldendale": {
+   "name": "Dave Jones",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=j",
+   "letter": "j"
+  },
+  "Grand Coulee": {
+   "name": "Ruth Dalton",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=d",
+   "letter": "d"
+  },
+  "Grandview": {
+   "name": "Ashley Lara",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=l",
+   "letter": "l"
+  },
+  "Hamilton": {
+   "name": "Mandy Bates",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "Harrah": {
+   "name": "Patricia Krueger",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=k",
+   "letter": "k"
+  },
+  "Harrington": {
+   "name": "Joseph Armand",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=a",
+   "letter": "a"
+  },
+  "Hartline": {
+   "name": "Andrew Allsbrook",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=a",
+   "letter": "a"
+  },
+  "Hatton": {
+   "name": "Ignacio Mendoza",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "Hoquiam": {
+   "name": "Ben Winkelman",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=w",
+   "letter": "w"
+  },
+  "Hunts Point": {
+   "name": "Joe Sabey",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Ilwaco": {
+   "name": "Eddie Hillard",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Index": {
+   "name": "Norman Johnson",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=j",
+   "letter": "j"
+  },
+  "Ione": {
+   "name": "Dan Nutt",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=n",
+   "letter": "n"
+  },
+  "Issaquah": {
+   "name": "Mark Mullet",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "Kahlotus": {
+   "name": "Michael Robitaille",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "Kalama": {
+   "name": "Jon Stanfill",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Kelso": {
+   "name": "Veryl Anderson",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=a",
+   "letter": "a"
+  },
+  "Kennewick": {
+   "name": "Jason McShane",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "Kent": {
+   "name": "Dana Ralph",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "Kettle Falls": {
+   "name": "Jesse Garrett",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=g",
+   "letter": "g"
+  },
+  "Kirkland": {
+   "name": "Kelli Curtis",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=c",
+   "letter": "c"
+  },
+  "Kittitas": {
+   "name": "Richard Hink",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Krupp": {
+   "name": "Tracy Lesser",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=l",
+   "letter": "l"
+  },
+  "La Center": {
+   "name": "Thomas Strobehn",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "La Conner": {
+   "name": "Marna Hanneman",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "LaCrosse": {
+   "name": "Randy Camp",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=c",
+   "letter": "c"
+  },
+  "Lacey": {
+   "name": "Andy Ryder",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "Lake Forest Park": {
+   "name": "Thomas French",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=f",
+   "letter": "f"
+  },
+  "Lake Stevens": {
+   "name": "Kurt Hilt",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Lakewood": {
+   "name": "Paul Bocchi",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "Lamont": {
+   "name": "Ron Dixon",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=d",
+   "letter": "d"
+  },
+  "Langley": {
+   "name": "Kennedy Horstman",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Latah": {
+   "name": "Corinna Rittgarn",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "Leavenworth": {
+   "name": "Carl Florea",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=f",
+   "letter": "f"
+  },
+  "Liberty Lake": {
+   "name": "Cristella Kaminskas",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=k",
+   "letter": "k"
+  },
+  "Lind": {
+   "name": "Glenn Aby",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=a",
+   "letter": "a"
+  },
+  "Long Beach": {
+   "name": "Sue Svendsen",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Lyman": {
+   "name": "Edward Hills",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Lynden": {
+   "name": "Scott Korthuis",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=k",
+   "letter": "k"
+  },
+  "Lynnwood": {
+   "name": "George Hurst",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Mabton": {
+   "name": "Martha Gonzalez",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=g",
+   "letter": "g"
+  },
+  "Malden": {
+   "name": "Diana Totten",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=t",
+   "letter": "t"
+  },
+  "Mansfield": {
+   "name": "Clint Wall",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=w",
+   "letter": "w"
+  },
+  "Maple Valley": {
+   "name": "Sean P. Kelly",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=k",
+   "letter": "k"
+  },
+  "Marcus": {
+   "name": "Christopher Fox",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=f",
+   "letter": "f"
+  },
+  "Marysville": {
+   "name": "Jon Nehring",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=n",
+   "letter": "n"
+  },
+  "Mattawa": {
+   "name": "Maria Celaya",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=c",
+   "letter": "c"
+  },
+  "McCleary": {
+   "name": "Andrea Dahl",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=d",
+   "letter": "d"
+  },
+  "Medical Lake": {
+   "name": "Terri Cooper",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=c",
+   "letter": "c"
+  },
+  "Medina": {
+   "name": "Jessica Rossman",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "Mesa": {
+   "name": "Wyatt Harrington",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Metaline": {
+   "name": "Janet Sullivan",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Metaline Falls": {
+   "name": "Sherice McAnerin",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "Mill Creek": {
+   "name": "Stephanie Vignal",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=v",
+   "letter": "v"
+  },
+  "Millwood": {
+   "name": "Kevin Freeman",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=f",
+   "letter": "f"
+  },
+  "Milton": {
+   "name": "Bruce White",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=w",
+   "letter": "w"
+  },
+  "Monroe": {
+   "name": "Patsy Cudaback",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=c",
+   "letter": "c"
+  },
+  "Montesano": {
+   "name": "Tyler Trimble",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=t",
+   "letter": "t"
+  },
+  "Morton": {
+   "name": "Ricky Mead",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "Moses Lake": {
+   "name": "Dustin Swartz",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Mossyrock": {
+   "name": "Randall Sasser",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Mount Vernon": {
+   "name": "Peter Donovan",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=d",
+   "letter": "d"
+  },
+  "Moxee": {
+   "name": "Le Roy Lenseigne",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=l",
+   "letter": "l"
+  },
+  "Mukilteo": {
+   "name": "Joe Marine",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "Naches": {
+   "name": "Bill Davis",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=d",
+   "letter": "d"
+  },
+  "Napavine": {
+   "name": "Shawn O'Neill",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=o",
+   "letter": "o"
+  },
+  "Nespelem": {
+   "name": "Dennis Montes",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "Newcastle": {
+   "name": "Ariana Sherlock",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Newport": {
+   "name": "Keith Campbell",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=c",
+   "letter": "c"
+  },
+  "Nooksack": {
+   "name": "Kevin Hester",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Normandy Park": {
+   "name": "Eric Zimmerman",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=z",
+   "letter": "z"
+  },
+  "North Bend": {
+   "name": "Mary Miller",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "North Bonneville": {
+   "name": "JB Tennison",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=t",
+   "letter": "t"
+  },
+  "Northport": {
+   "name": "Karene Balcom",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "Oak Harbor": {
+   "name": "Ronnie Wright",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=w",
+   "letter": "w"
+  },
+  "Oakesdale": {
+   "name": "Dennis Palmer",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=p",
+   "letter": "p"
+  },
+  "Oakville": {
+   "name": "Bill Breedlove",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "Ocean Shores": {
+   "name": "Frank Elduen",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=e",
+   "letter": "e"
+  },
+  "Odessa": {
+   "name": "William F. Crossley",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=c",
+   "letter": "c"
+  },
+  "Okanogan": {
+   "name": "Wayne Turner",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=t",
+   "letter": "t"
+  },
+  "Olympia": {
+   "name": "Dontae Payne",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=p",
+   "letter": "p"
+  },
+  "Omak": {
+   "name": "Cindy Gagné",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=g",
+   "letter": "g"
+  },
+  "Oroville": {
+   "name": "Edward Naillon",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=n",
+   "letter": "n"
+  },
+  "Orting": {
+   "name": "Scott Drennen",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=d",
+   "letter": "d"
+  },
+  "Othello": {
+   "name": "Ken Johnson",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=j",
+   "letter": "j"
+  },
+  "Pacific": {
+   "name": "Vic Kave",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=k",
+   "letter": "k"
+  },
+  "Palouse": {
+   "name": "Tim Sievers",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Pasco": {
+   "name": "Charles Grimm",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=g",
+   "letter": "g"
+  },
+  "Pateros": {
+   "name": "Kelly Hook",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Pe Ell": {
+   "name": "Lonnie Willey",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=w",
+   "letter": "w"
+  },
+  "Pomeroy": {
+   "name": "Jack Peasley",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=p",
+   "letter": "p"
+  },
+  "Port Angeles": {
+   "name": "Kate Dexter",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=d",
+   "letter": "d"
+  },
+  "Port Orchard": {
+   "name": "Robert Putaansuu",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=p",
+   "letter": "p"
+  },
+  "Port Townsend": {
+   "name": "Amy Howard",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Poulsbo": {
+   "name": "Ed Stern",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Prescott": {
+   "name": "Karen Gleason",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=g",
+   "letter": "g"
+  },
+  "Prosser": {
+   "name": "Gary Vegar",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=v",
+   "letter": "v"
+  },
+  "Pullman": {
+   "name": "Francis Benjamin",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "Puyallup": {
+   "name": "Ned Witting",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=w",
+   "letter": "w"
+  },
+  "Quincy": {
+   "name": "Paul Worley",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=w",
+   "letter": "w"
+  },
+  "Rainier": {
+   "name": "Robert Shaw",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Raymond": {
+   "name": "Dee Roberts",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "Reardan": {
+   "name": "Kathy L Eastman",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=e",
+   "letter": "e"
+  },
+  "Redmond": {
+   "name": "Angela Birney",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "Renton": {
+   "name": "Armondo Pavone",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=p",
+   "letter": "p"
+  },
+  "Republic": {
+   "name": "Gabriel Becklin",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "Richland": {
+   "name": "Theresa Richardson",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "Ridgefield": {
+   "name": "Matt Cole",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=c",
+   "letter": "c"
+  },
+  "Ritzville": {
+   "name": "Scott Yaeger",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=y",
+   "letter": "y"
+  },
+  "Rock Island": {
+   "name": "Niko Gabaldo",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=g",
+   "letter": "g"
+  },
+  "Rockford": {
+   "name": "Carrie Roecks",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "Rosalia": {
+   "name": "Lee Root",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "Roslyn": {
+   "name": "Jeff Adams",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=a",
+   "letter": "a"
+  },
+  "Roy": {
+   "name": "Ryan Muller",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "Royal City": {
+   "name": "Ryan Piercy",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=p",
+   "letter": "p"
+  },
+  "Ruston": {
+   "name": "Bruce Hopkins",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Sammamish": {
+   "name": "Josh Amato",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=a",
+   "letter": "a"
+  },
+  "SeaTac": {
+   "name": "Mohamed Egal",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=e",
+   "letter": "e"
+  },
+  "Seattle": {
+   "name": "Katie Wilson",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=w",
+   "letter": "w"
+  },
+  "Sedro-Woolley": {
+   "name": "JoEllen Kesti",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=k",
+   "letter": "k"
+  },
+  "Selah": {
+   "name": "Roger Bell",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "Sequim": {
+   "name": "Rachel Anderson",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=a",
+   "letter": "a"
+  },
+  "Shelton": {
+   "name": "Sharon Schirman",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Skykomish": {
+   "name": "Henry Sladek",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Snohomish": {
+   "name": "Aaron Hoffman",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Snoqualmie": {
+   "name": "Jim Mayhew",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "Soap Lake": {
+   "name": "Peter Sharp",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "South Bend": {
+   "name": "Bethany Barnard",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "South Cle Elum": {
+   "name": "James DeVere",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=d",
+   "letter": "d"
+  },
+  "South Prairie": {
+   "name": "Carolyn Norris",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=n",
+   "letter": "n"
+  },
+  "Spangle": {
+   "name": "Melissa Holling",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Spokane": {
+   "name": "Lisa Brown",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "Spokane Valley": {
+   "name": "Laura Padden",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=p",
+   "letter": "p"
+  },
+  "Sprague": {
+   "name": "Lucas Becker",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "Springdale": {
+   "name": "Stefany Smith",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "St. John": {
+   "name": "Mike Webb",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=w",
+   "letter": "w"
+  },
+  "Stanwood": {
+   "name": "Sid Roberts",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "Steilacoom": {
+   "name": "Elizabeth Grasher",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=g",
+   "letter": "g"
+  },
+  "Stevenson": {
+   "name": "Scott Anderson",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=a",
+   "letter": "a"
+  },
+  "Sultan": {
+   "name": "Russell Wiita",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=w",
+   "letter": "w"
+  },
+  "Sumas": {
+   "name": "Bruce Bosch",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "Sumner": {
+   "name": "Carla Bowman",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "Sunnyside": {
+   "name": "Virginia (Vicky) Frausto",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=f",
+   "letter": "f"
+  },
+  "Tacoma": {
+   "name": "Anders Ibsen",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=i",
+   "letter": "i"
+  },
+  "Tekoa": {
+   "name": "Roy Schulz",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Tenino": {
+   "name": "David Watterson",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=w",
+   "letter": "w"
+  },
+  "Tieton": {
+   "name": "Rob Adams",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=a",
+   "letter": "a"
+  },
+  "Toledo": {
+   "name": "Cherie Devore",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=d",
+   "letter": "d"
+  },
+  "Tonasket": {
+   "name": "Alisa Weddle",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=w",
+   "letter": "w"
+  },
+  "Toppenish": {
+   "name": "Elpidia Saavedra",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Tukwila": {
+   "name": "Thomas McLeod",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "Tumwater": {
+   "name": "Leatta Dahlhoff",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=d",
+   "letter": "d"
+  },
+  "Twisp": {
+   "name": "Hans Smith",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Union Gap": {
+   "name": "John P. Hodkinson",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Uniontown": {
+   "name": "Mike Shore",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "University Place": {
+   "name": "Stan Flemming",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=f",
+   "letter": "f"
+  },
+  "Vader": {
+   "name": "Joe Schey",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Vancouver": {
+   "name": "Anne McEnerny-Ogle",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "Waitsburg": {
+   "name": "Martin Dunn",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=d",
+   "letter": "d"
+  },
+  "Walla Walla": {
+   "name": "Gustavo Reyna",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=r",
+   "letter": "r"
+  },
+  "Wapato": {
+   "name": "Margaret Estrada",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=e",
+   "letter": "e"
+  },
+  "Warden": {
+   "name": "Rosaelia Martinez",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "Washougal": {
+   "name": "David Stuebe",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Washtucna": {
+   "name": "Brett Guske",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=g",
+   "letter": "g"
+  },
+  "Waterville": {
+   "name": "Loyd Smith",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Waverly": {
+   "name": "Paul Curtis",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=c",
+   "letter": "c"
+  },
+  "Wenatchee": {
+   "name": "Mike Poirier",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=p",
+   "letter": "p"
+  },
+  "West Richland": {
+   "name": "Brent Gerry",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=g",
+   "letter": "g"
+  },
+  "Westport": {
+   "name": "Ed Welter",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=w",
+   "letter": "w"
+  },
+  "White Salmon": {
+   "name": "Marla Keethler",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=k",
+   "letter": "k"
+  },
+  "Wilbur": {
+   "name": "Erica Hearrean",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Wilkeson": {
+   "name": "Travis Waldher",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=w",
+   "letter": "w"
+  },
+  "Winlock": {
+   "name": "Victoria Marincin",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=m",
+   "letter": "m"
+  },
+  "Winthrop": {
+   "name": "Robert W. Grim",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=g",
+   "letter": "g"
+  },
+  "Woodinville": {
+   "name": "Sarah Arndt",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=a",
+   "letter": "a"
+  },
+  "Woodland": {
+   "name": "Todd Dinehart",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=d",
+   "letter": "d"
+  },
+  "Woodway": {
+   "name": "Mike Quinn",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=q",
+   "letter": "q"
+  },
+  "Yacolt": {
+   "name": "Ian Shealy",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=s",
+   "letter": "s"
+  },
+  "Yakima": {
+   "name": "Matt Brown",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=b",
+   "letter": "b"
+  },
+  "Yarrow Point": {
+   "name": "Katy K Harris",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=h",
+   "letter": "h"
+  },
+  "Yelm": {
+   "name": "Joe DePinto",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=d",
+   "letter": "d"
+  },
+  "Zillah": {
+   "name": "Scott Carmack",
+   "source": "https://mrsc.org/mrsctools/officials-directory/officials.aspx?of=c",
+   "letter": "c"
+  }
+ }
+}
