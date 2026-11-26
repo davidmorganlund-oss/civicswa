@@ -89,7 +89,7 @@
         if (county) item(ul, county.site, L(place.county + ' County', 'Condado de ' + place.county), L('Official website: commissioners or council, departments and services.', 'Sitio web oficial: comisionados o concejo, departamentos y servicios.'));
       }
       if (kind === 'schools') {
-        if (place.county) item(ul, page('index.html?cat=school'), L('School board meetings in ' + place.county + ' County', 'Reuniones de juntas escolares en el condado de ' + place.county),
+        if (place.county) item(ul, page('./?cat=school'), L('School board meetings in ' + place.county + ' County', 'Reuniones de juntas escolares en el condado de ' + place.county),
           L('The CivicsWA calendar, filtered to school boards. If your district isn’t there yet, use its website.', 'El calendario de CivicsWA, filtrado por juntas escolares. Si su distrito todavía no aparece, use su sitio web.'));
         ((county && county.schools) || []).forEach(function (d) {
           item(ul, d.site, d.name, L('District website: school board meetings, agendas and elections.', 'Sitio web del distrito: reuniones de la junta escolar, agendas y elecciones.'));
@@ -103,7 +103,7 @@
         list.forEach(function (d) { item(ul, d.site, d.name, notes[d.kind] || notes.other); });
       }
       if (kind === 'meetings') {
-        if (place.county) item(ul, page('index.html'), L('Public meetings in ' + place.county + ' County', 'Reuniones públicas en el condado de ' + place.county), L('The CivicsWA calendar, set to your county.', 'El calendario de CivicsWA, con su condado seleccionado.'));
+        if (place.county) item(ul, page('./'), L('Public meetings in ' + place.county + ' County', 'Reuniones públicas en el condado de ' + place.county), L('The CivicsWA calendar, set to your county.', 'El calendario de CivicsWA, con su condado seleccionado.'));
         if (city) item(ul, city.site, L('City of ' + place.city + ' meetings', 'Reuniones de la ciudad de ' + place.city), L('Council agendas are on the city’s website.', 'Las agendas del concejo están en el sitio web de la ciudad.'));
         if (county) item(ul, county.site, L(place.county + ' County meetings', 'Reuniones del condado de ' + place.county), L('Commission or council agendas are on the county’s website.', 'Las agendas de la comisión o del concejo están en el sitio web del condado.'));
       }
