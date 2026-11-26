@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Spokane County
 BEGIN:VEVENT
 UID:e95bd80f65e1@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261130T163000Z
 DTEND:20261130T173000Z
 SUMMARY:BoCC Working Session Meeting (Spokane County)
@@ -13,7 +13,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2381/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:916002ee4574@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261201T020000Z
 DTEND:20261201T040000Z
 SUMMARY:FSD Board Meeting (Freeman School District)
@@ -22,7 +22,7 @@ URL:https://www.freemansd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:537b18fcf30f@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261201T170000Z
 DTEND:20261201T180000Z
 SUMMARY:BoCC Board Briefing Meeting (Spokane County)
@@ -31,7 +31,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2334/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:d1203cbae1c3@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261201T190000Z
 DTEND:20261201T200000Z
 SUMMARY:City Council Agenda Review Meeting (City of Spokane)
@@ -40,7 +40,7 @@ URL:https://my.spokanecity.org/citycouncil/meetings/2026/12/01/agenda-review-mee
 END:VEVENT
 BEGIN:VEVENT
 UID:06bcec84e93c@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261201T220000Z
 DTEND:20261201T230000Z
 SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
@@ -49,7 +49,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2180/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:b429697be484@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261202T010000Z
 DTEND:20261202T075900Z
 SUMMARY:Special City Council Meeting (City of Spokane Valley)
@@ -58,7 +58,7 @@ URL:https://www.spokanevalleywa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:20c1444d30ee@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261202T020000Z
 DTEND:20261202T050000Z
 SUMMARY:City Council meeting (City of Liberty Lake)
@@ -67,7 +67,7 @@ URL:https://www.libertylakewa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:eff33ad7d8c7@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261202T020000Z
 DTEND:20261202T033000Z
 SUMMARY:Chase Youth Commission (City of Spokane boards and commissions)
@@ -76,7 +76,7 @@ URL:https://my.spokanecity.org/bcc/commissions/chase-youth-commission/
 END:VEVENT
 BEGIN:VEVENT
 UID:60cef5920873@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261202T210000Z
 DTEND:20261202T220000Z
 SUMMARY:City Employees' Retirement Board (City of Spokane boards and commissions)
@@ -85,7 +85,7 @@ URL:https://my.spokanecity.org/bcc/boards/city-employees-retirement-board/
 END:VEVENT
 BEGIN:VEVENT
 UID:ee347ac9827a@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261203T000000Z
 DTEND:20261203T020000Z
 SUMMARY:Community\, Housing and Human Services Board (City of Spokane boards and commissions)
@@ -94,7 +94,7 @@ URL:https://my.spokanecity.org/bcc/boards/community-housing-and-human-services-b
 END:VEVENT
 BEGIN:VEVENT
 UID:e30b13221b22@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261203T020000Z
 DTEND:20261203T030000Z
 SUMMARY:City Council Legislative Meeting (City of Spokane)
@@ -103,7 +103,7 @@ URL:https://my.spokanecity.org/citycouncil/meetings/2026/12/02/legislative-meeti
 END:VEVENT
 BEGIN:VEVENT
 UID:0e2aae019731@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261203T020000Z
 DTEND:20261203T030000Z
 SUMMARY:School Board Regular Meeting (Spokane Public Schools)
@@ -112,7 +112,7 @@ URL:https://www.spokaneschools.org/page/school-board-meetings
 END:VEVENT
 BEGIN:VEVENT
 UID:e3de68465b57@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261203T170000Z
 DTEND:20261203T200000Z
 SUMMARY:Hearing Examiner Meeting - SCRAPS Case 91525 (City of Spokane Valley)
@@ -121,7 +121,7 @@ URL:https://www.spokanevalleywa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:712dec92c072@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261203T183000Z
 DTEND:20261203T193000Z
 SUMMARY:Urban Native Advisory Council (City of Spokane boards and commissions)
@@ -130,7 +130,7 @@ URL:https://my.spokanecity.org/bcc/councils/spokane-urban-native-advisory-counci
 END:VEVENT
 BEGIN:VEVENT
 UID:72e2688c44b9@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261204T013000Z
 DTEND:20261204T023000Z
 SUMMARY:Historic Preservation Commission Meeting (City of Cheney)
@@ -139,7 +139,7 @@ URL:https://www.cityofcheney.org/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:8f05d58c1158@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261204T013000Z
 DTEND:20261204T023000Z
 SUMMARY:Human Rights Commission (City of Spokane boards and commissions)
@@ -148,7 +148,7 @@ URL:https://my.spokanecity.org/bcc/commissions/spokane-human-rights-commission/
 END:VEVENT
 BEGIN:VEVENT
 UID:f44ed3f0a3a8@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261207T170000Z
 DTEND:20261207T180000Z
 SUMMARY:2027 Budget Hearing Agenda (Spokane County)
@@ -157,7 +157,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2382/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:5b67d8b5e57c@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261207T171500Z
 DTEND:20261207T181500Z
 SUMMARY:BoCC Strategic Planning Meeting (Spokane County)
@@ -166,7 +166,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2365/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:a59fcd3526a9@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261208T000000Z
 DTEND:20261208T020000Z
 SUMMARY:Parks and Arts Commission meeting (City of Liberty Lake)
@@ -175,7 +175,7 @@ URL:https://www.libertylakewa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:feb0e490e470@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261208T170000Z
 DTEND:20261208T180000Z
 SUMMARY:BoCC Board Briefing Meeting (Spokane County)
@@ -184,7 +184,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2234/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2dd1a47e0b2e@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261208T220000Z
 DTEND:20261208T230000Z
 SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
@@ -193,7 +193,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2181/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:99e7d0281764@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261209T020000Z
 DTEND:20261209T033000Z
 SUMMARY:City Council Meeting (City of Cheney)
@@ -202,7 +202,7 @@ URL:https://www.cityofcheney.org/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:05569ce9f9a4@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261209T020000Z
 DTEND:20261209T050000Z
 SUMMARY:City Council -Special Meeting (City of Liberty Lake)
@@ -211,7 +211,7 @@ URL:https://www.libertylakewa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:c86ac1fa65cb@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261209T020000Z
 DTEND:20261209T075900Z
 SUMMARY:City Council Meeting (City of Spokane Valley)
@@ -220,7 +220,7 @@ URL:https://www.spokanevalleywa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:74e3c762b15c@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261209T020000Z
 DTEND:20261209T040000Z
 SUMMARY:Board Meeting (East Valley (Spokane) School District)
@@ -229,7 +229,7 @@ URL:http://www.evsd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:868375fec11b@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261209T210000Z
 DTEND:20261209T220000Z
 SUMMARY:Library Board of Trustees meeting (City of Liberty Lake)
@@ -238,7 +238,7 @@ URL:https://www.libertylakewa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:1674b83506a1@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261209T220000Z
 DTEND:20261209T230000Z
 SUMMARY:Plan Commission (City of Spokane boards and commissions)
@@ -247,7 +247,7 @@ URL:https://my.spokanecity.org/bcc/commissions/plan-commission/
 END:VEVENT
 BEGIN:VEVENT
 UID:99e1269b8e61@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261210T000000Z
 DTEND:20261210T020000Z
 SUMMARY:City Planning Commission meeting (City of Liberty Lake)
@@ -256,7 +256,7 @@ URL:https://www.libertylakewa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:ea9b0e240f48@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261210T010000Z
 DTEND:20261210T020000Z
 SUMMARY:School Improvement Plan (Cheney School District)
@@ -265,7 +265,7 @@ URL:https://cheneysd.community.diligentoneplatform.com/Portal/MeetingInformation
 END:VEVENT
 BEGIN:VEVENT
 UID:7c1dc5d6ff0a@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261210T020000Z
 DTEND:20261210T030000Z
 SUMMARY:Regular Meeting (Cheney School District)
@@ -274,7 +274,7 @@ URL:https://cheneysd.community.diligentoneplatform.com/Portal/MeetingInformation
 END:VEVENT
 BEGIN:VEVENT
 UID:564856b82daa@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261210T210000Z
 DTEND:20261210T220000Z
 SUMMARY:Spokane Regional Transportation Council Board (Spokane regional boards)
@@ -283,7 +283,7 @@ URL:https://my.spokanecity.org/bcc/councils/spokane-regional-transportation-coun
 END:VEVENT
 BEGIN:VEVENT
 UID:26830ade0be9@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261210T220000Z
 DTEND:20261210T230000Z
 SUMMARY:Climate Resilience and Sustainability Board (City of Spokane boards and commissions)
@@ -292,7 +292,7 @@ URL:https://my.spokanecity.org/bcc/boards/climate-resilience-and-sustainability-
 END:VEVENT
 BEGIN:VEVENT
 UID:0d6afd1c8e5d@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261210T233000Z
 DTEND:20261211T003000Z
 SUMMARY:Park Board (City of Spokane boards and commissions)
@@ -301,7 +301,7 @@ URL:https://my.spokanecity.org/bcc/boards/spokane-park-board/
 END:VEVENT
 BEGIN:VEVENT
 UID:9149912694b9@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261211T000000Z
 DTEND:20261211T010000Z
 SUMMARY:Civil Service Commission meeting (City of Liberty Lake)
@@ -310,7 +310,7 @@ URL:https://www.libertylakewa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:5d8726c18873@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261211T020000Z
 DTEND:20261211T075900Z
 SUMMARY:CANCELLED: Planning Commission Meeting (City of Spokane Valley)
@@ -319,7 +319,7 @@ URL:https://www.spokanevalleywa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:4fcfd8d95363@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261214T170000Z
 DTEND:20261214T180000Z
 SUMMARY:BoCC Working Session Meeting (Spokane County)
@@ -328,7 +328,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2383/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8dc31058fefb@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261214T180000Z
 DTEND:20261214T190000Z
 SUMMARY:Civil Service Commission Meeting (City of Cheney)
@@ -337,7 +337,7 @@ URL:https://www.cityofcheney.org/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:04096360b268@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261214T220000Z
 DTEND:20261215T000000Z
 SUMMARY:FSD Advance Work Session (Freeman School District)
@@ -346,7 +346,7 @@ URL:https://www.freemansd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:1d215d7078d8@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261215T020000Z
 DTEND:20261215T030000Z
 SUMMARY:School Board Meeting (Central Valley School District)
@@ -355,7 +355,7 @@ URL:https://www.cvsd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:b568b3aa7da7@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261215T020000Z
 DTEND:20261215T033000Z
 SUMMARY:Planning Commission Meeting (City of Cheney)
@@ -364,7 +364,7 @@ URL:https://www.cityofcheney.org/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:b75ad299ea7b@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261215T020000Z
 DTEND:20261215T030000Z
 SUMMARY:School Board Regular Meeting (Mead School District)
@@ -373,7 +373,7 @@ URL:https://www.mead354.org/about-us/board-of-directors
 END:VEVENT
 BEGIN:VEVENT
 UID:d8e070376aa3@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261215T170000Z
 DTEND:20261215T180000Z
 SUMMARY:BoCC Board Briefing Meeting (Spokane County)
@@ -382,7 +382,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2235/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:c14361b591cd@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261215T173000Z
 DTEND:20261215T183000Z
 SUMMARY:Civil Service Commission (City of Spokane boards and commissions)
@@ -391,7 +391,7 @@ URL:https://my.spokanecity.org/bcc/commissions/civil-service-commission/
 END:VEVENT
 BEGIN:VEVENT
 UID:66597c5a86d7@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261215T220000Z
 DTEND:20261215T230000Z
 SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
@@ -400,7 +400,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2289/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:153d994a03a7@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261216T000000Z
 DTEND:20261216T010000Z
 SUMMARY:Board of Trustees Meeting (Spokane County Library District)
@@ -409,7 +409,7 @@ URL:https://scld.org/about/board-of-trustees
 END:VEVENT
 BEGIN:VEVENT
 UID:ce06fd4e990d@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261216T003000Z
 DTEND:20261216T013000Z
 SUMMARY:Public Library Board of Trustees (City of Spokane boards and commissions)
@@ -418,7 +418,7 @@ URL:https://my.spokanecity.org/bcc/boards/spokane-public-library-board-of-truste
 END:VEVENT
 BEGIN:VEVENT
 UID:2aaf150c2c12@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261216T003000Z
 DTEND:20261216T013000Z
 SUMMARY:Library Board of Trustees (Spokane Public Library)
@@ -427,7 +427,7 @@ URL:https://www.spokanelibrary.org/leadership
 END:VEVENT
 BEGIN:VEVENT
 UID:322561e9c5a3@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261216T013000Z
 DTEND:20261216T023000Z
 SUMMARY:Ombuds Commission (City of Spokane boards and commissions)
@@ -436,7 +436,7 @@ URL:https://my.spokanecity.org/bcc/commissions/ombuds-commission/
 END:VEVENT
 BEGIN:VEVENT
 UID:69ba4ebe705d@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261216T020000Z
 DTEND:20261216T060000Z
 SUMMARY:City Council meeting (City of Liberty Lake)
@@ -445,7 +445,7 @@ URL:https://www.libertylakewa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:6ee1449109b0@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261216T020000Z
 DTEND:20261216T075900Z
 SUMMARY:City Council Meeting (City of Spokane Valley)
@@ -454,7 +454,7 @@ URL:https://www.spokanevalleywa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:506d7e61ec66@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:Bicycle Advisory Board (City of Spokane boards and commissions)
@@ -463,7 +463,7 @@ URL:https://my.spokanecity.org/bcc/boards/bicycle-advisory-board/
 END:VEVENT
 BEGIN:VEVENT
 UID:f97ecc89aa4a@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261216T020000Z
 DTEND:20261216T033000Z
 SUMMARY:Chase Youth Commission (City of Spokane boards and commissions)
@@ -472,7 +472,7 @@ URL:https://my.spokanecity.org/bcc/commissions/chase-youth-commission/
 END:VEVENT
 BEGIN:VEVENT
 UID:a47e7238ee9a@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261216T200000Z
 DTEND:20261216T213000Z
 SUMMARY:East Sprague Business Improvement District Board (City of Spokane boards and commissions)
@@ -481,7 +481,7 @@ URL:https://my.spokanecity.org/bcc/boards/east-sprague-business-improvement-dist
 END:VEVENT
 BEGIN:VEVENT
 UID:a1da5d1588a9@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261217T020000Z
 DTEND:20261217T030000Z
 SUMMARY:CANCELLED: Community Engagement Commission meeting (City of Liberty Lake)
@@ -490,7 +490,7 @@ URL:https://www.libertylakewa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:2a63cceae942@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261217T020000Z
 DTEND:20261217T030000Z
 SUMMARY:Board Meeting (Deer Park School District)
@@ -499,7 +499,7 @@ URL:http://www.dpsd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:3d887a348961@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261217T020000Z
 DTEND:20261217T030000Z
 SUMMARY:School Board Regular Meeting (Spokane Public Schools)
@@ -508,7 +508,7 @@ URL:https://www.spokaneschools.org/page/school-board-meetings
 END:VEVENT
 BEGIN:VEVENT
 UID:8b02e25177c2@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261217T170000Z
 DTEND:20261217T180000Z
 SUMMARY:Spokane Airport Board (Spokane regional boards)
@@ -517,7 +517,7 @@ URL:https://my.spokanecity.org/bcc/boards/spokane-airport-board/
 END:VEVENT
 BEGIN:VEVENT
 UID:cb848c46491d@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261217T180000Z
 DTEND:20261218T075900Z
 SUMMARY:Tourism Promotion Area (TPA) Commission Meeting (City of Spokane Valley)
@@ -526,7 +526,7 @@ URL:https://www.spokanevalleywa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:f4028b35c1db@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261217T213000Z
 DTEND:20261217T233000Z
 SUMMARY:Spokane Transit Authority Board (Spokane regional boards)
@@ -535,7 +535,7 @@ URL:https://my.spokanecity.org/bcc/boards/spokane-transit-authority/
 END:VEVENT
 BEGIN:VEVENT
 UID:adb1f0694642@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261218T000000Z
 DTEND:20261218T010000Z
 SUMMARY:Transportation Commission (City of Spokane boards and commissions)
@@ -544,7 +544,7 @@ URL:https://my.spokanecity.org/bcc/commissions/transportation-commission/
 END:VEVENT
 BEGIN:VEVENT
 UID:6eacc93dddae@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261221T170000Z
 DTEND:20261221T180000Z
 SUMMARY:There will be no BoCC Strategic Planning Meeting (Spokane County)
@@ -553,7 +553,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2300/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:151ab47c1236@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261222T020000Z
 DTEND:20261222T030000Z
 SUMMARY:School Board Meeting (Orchard Prairie School District)
@@ -562,7 +562,7 @@ URL:https://www.orchardprairieschool.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:09a4396de006@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261222T170000Z
 DTEND:20261222T180000Z
 SUMMARY:There will be no BoCC Board Briefing Meeting (Spokane County)
@@ -571,7 +571,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2337/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8d7d3fd4b820@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261222T220000Z
 DTEND:20261222T230000Z
 SUMMARY:There will be no BoCC Regular Legislative Session Meeting (Spokane County)
@@ -580,7 +580,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2290/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:c3725ec02b8f@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261223T020000Z
 DTEND:20261223T033000Z
 SUMMARY:City Council Meeting (City of Cheney)
@@ -589,7 +589,7 @@ URL:https://www.cityofcheney.org/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:a0893460e62d@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261223T020000Z
 DTEND:20261223T075900Z
 SUMMARY:City Council Meeting (City of Spokane Valley)
@@ -598,7 +598,7 @@ URL:https://www.spokanevalleywa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:6c8d53b54637@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:School Board Meeting (Nine Mile Falls School District)
@@ -607,7 +607,7 @@ URL:http://www.9mile.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:87a7394a13c3@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261223T220000Z
 DTEND:20261223T230000Z
 SUMMARY:Plan Commission (City of Spokane boards and commissions)
@@ -616,7 +616,7 @@ URL:https://my.spokanecity.org/bcc/commissions/plan-commission/
 END:VEVENT
 BEGIN:VEVENT
 UID:e74fc0932a7c@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261228T233000Z
 DTEND:20261229T003000Z
 SUMMARY:Spokane Housing Authority Board (Spokane regional boards)
@@ -625,7 +625,7 @@ URL:https://my.spokanecity.org/bcc/boards/spokane-housing-authority-board/
 END:VEVENT
 BEGIN:VEVENT
 UID:1a8f7d905810@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261229T020000Z
 DTEND:20261229T030000Z
 SUMMARY:School Board Meeting (Central Valley School District)
@@ -634,7 +634,7 @@ URL:https://www.cvsd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:35bde01d1dfc@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261229T170000Z
 DTEND:20261229T180000Z
 SUMMARY:There will be no BoCC Board Briefing Meeting (Spokane County)
@@ -643,7 +643,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2237/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:5b65627a4507@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261229T220000Z
 DTEND:20261229T230000Z
 SUMMARY:There will be no BoCC Regular Legislative Session Meeting (Spokane County)
@@ -652,7 +652,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2184/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:734f54b2f42e@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20261230T020000Z
 DTEND:20261230T075900Z
 SUMMARY:City Council Meeting (City of Spokane Valley)
@@ -661,7 +661,7 @@ URL:https://www.spokanevalleywa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:35a10b383495@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270104T170000Z
 DTEND:20270104T180000Z
 SUMMARY:BoCC Strategic Planning Meeting - 1st Monday (Spokane County)
@@ -670,7 +670,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2366/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:80877862dd0f@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270105T170000Z
 DTEND:20270105T180000Z
 SUMMARY:BoCC Board Briefing Meeting (Spokane County)
@@ -679,7 +679,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2238/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:8ab013ab69ca@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270105T220000Z
 DTEND:20270105T230000Z
 SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
@@ -688,7 +688,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2292/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:787c5799e618@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270106T020000Z
 DTEND:20270106T033000Z
 SUMMARY:Chase Youth Commission (City of Spokane boards and commissions)
@@ -697,7 +697,7 @@ URL:https://my.spokanecity.org/bcc/commissions/chase-youth-commission/
 END:VEVENT
 BEGIN:VEVENT
 UID:5f932ccfa774@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270106T210000Z
 DTEND:20270106T220000Z
 SUMMARY:City Employees' Retirement Board (City of Spokane boards and commissions)
@@ -706,7 +706,7 @@ URL:https://my.spokanecity.org/bcc/boards/city-employees-retirement-board/
 END:VEVENT
 BEGIN:VEVENT
 UID:1617a7258f6b@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270107T000000Z
 DTEND:20270107T020000Z
 SUMMARY:Community\, Housing and Human Services Board (City of Spokane boards and commissions)
@@ -715,7 +715,7 @@ URL:https://my.spokanecity.org/bcc/boards/community-housing-and-human-services-b
 END:VEVENT
 BEGIN:VEVENT
 UID:5e02c6b4530e@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270107T020000Z
 DTEND:20270107T030000Z
 SUMMARY:Board Meeting - Work Session | Review board protocols/Board education (Deer Park School District)
@@ -724,7 +724,7 @@ URL:http://www.dpsd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:8c7949bc45e6@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270107T183000Z
 DTEND:20270107T193000Z
 SUMMARY:Urban Native Advisory Council (City of Spokane boards and commissions)
@@ -733,7 +733,7 @@ URL:https://my.spokanecity.org/bcc/councils/spokane-urban-native-advisory-counci
 END:VEVENT
 BEGIN:VEVENT
 UID:e36f8fc53f0b@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270108T013000Z
 DTEND:20270108T023000Z
 SUMMARY:Historic Preservation Commission Meeting (City of Cheney)
@@ -742,7 +742,7 @@ URL:https://www.cityofcheney.org/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:8942ab870968@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270108T013000Z
 DTEND:20270108T023000Z
 SUMMARY:Human Rights Commission (City of Spokane boards and commissions)
@@ -751,7 +751,7 @@ URL:https://my.spokanecity.org/bcc/commissions/spokane-human-rights-commission/
 END:VEVENT
 BEGIN:VEVENT
 UID:1fdf56abf321@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270111T180000Z
 DTEND:20270111T190000Z
 SUMMARY:Civil Service Commission Meeting (City of Cheney)
@@ -760,7 +760,7 @@ URL:https://www.cityofcheney.org/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:17204d2c9450@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270112T020000Z
 DTEND:20270112T030000Z
 SUMMARY:School Board Meeting (Central Valley School District)
@@ -769,7 +769,7 @@ URL:https://www.cvsd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:0ebad5672f50@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270112T020000Z
 DTEND:20270112T030000Z
 SUMMARY:Planning Commission Meeting (City of Cheney)
@@ -778,7 +778,7 @@ URL:https://www.cityofcheney.org/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:31a24cd8caad@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270112T020000Z
 DTEND:20270112T030000Z
 SUMMARY:School Board Work Session (Mead School District)
@@ -787,7 +787,7 @@ URL:https://www.mead354.org/about-us/board-of-directors
 END:VEVENT
 BEGIN:VEVENT
 UID:cdb38c3d8f5b@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270112T170000Z
 DTEND:20270112T180000Z
 SUMMARY:BoCC Board Briefing Meeting (Spokane County)
@@ -796,7 +796,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2340/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:ef6146563e90@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270112T220000Z
 DTEND:20270112T230000Z
 SUMMARY:BoCC Regular Legislative Session Meeting (Spokane County)
@@ -805,7 +805,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2186/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:6f690033f8e9@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270113T020000Z
 DTEND:20270113T033000Z
 SUMMARY:City Council Meeting (City of Cheney)
@@ -814,7 +814,7 @@ URL:https://www.cityofcheney.org/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:b33f7f2d5434@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270113T020000Z
 DTEND:20270113T040000Z
 SUMMARY:Board Meeting (East Valley (Spokane) School District)
@@ -823,7 +823,7 @@ URL:http://www.evsd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:788d75dd0338@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270113T220000Z
 DTEND:20270113T230000Z
 SUMMARY:Plan Commission (City of Spokane boards and commissions)
@@ -832,7 +832,7 @@ URL:https://my.spokanecity.org/bcc/commissions/plan-commission/
 END:VEVENT
 BEGIN:VEVENT
 UID:0136ac8d5f8f@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270114T010000Z
 DTEND:20270114T020000Z
 SUMMARY:School Improvement Plan (Cheney School District)
@@ -841,7 +841,7 @@ URL:https://cheneysd.community.diligentoneplatform.com/Portal/MeetingInformation
 END:VEVENT
 BEGIN:VEVENT
 UID:25be59bfcbc1@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270114T020000Z
 DTEND:20270114T030000Z
 SUMMARY:Regular Meeting (Cheney School District)
@@ -850,7 +850,7 @@ URL:https://cheneysd.community.diligentoneplatform.com/Portal/MeetingInformation
 END:VEVENT
 BEGIN:VEVENT
 UID:9a32f220128f@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270114T020000Z
 DTEND:20270114T030000Z
 SUMMARY:School Board Regular Meeting (Spokane Public Schools)
@@ -859,7 +859,7 @@ URL:https://www.spokaneschools.org/page/school-board-meetings
 END:VEVENT
 BEGIN:VEVENT
 UID:7689363dfad4@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270114T210000Z
 DTEND:20270114T220000Z
 SUMMARY:Spokane Regional Transportation Council Board (Spokane regional boards)
@@ -868,7 +868,7 @@ URL:https://my.spokanecity.org/bcc/councils/spokane-regional-transportation-coun
 END:VEVENT
 BEGIN:VEVENT
 UID:4af4d6c22340@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270114T220000Z
 DTEND:20270114T230000Z
 SUMMARY:Climate Resilience and Sustainability Board (City of Spokane boards and commissions)
@@ -877,7 +877,7 @@ URL:https://my.spokanecity.org/bcc/boards/climate-resilience-and-sustainability-
 END:VEVENT
 BEGIN:VEVENT
 UID:34eea144456c@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270114T233000Z
 DTEND:20270115T003000Z
 SUMMARY:Park Board (City of Spokane boards and commissions)
@@ -886,7 +886,7 @@ URL:https://my.spokanecity.org/bcc/boards/spokane-park-board/
 END:VEVENT
 BEGIN:VEVENT
 UID:21b7830a91cd@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270115T000000Z
 DTEND:20270115T010000Z
 SUMMARY:Civil Service Commission meeting (City of Liberty Lake)
@@ -895,7 +895,7 @@ URL:https://www.libertylakewa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:b7dcabf38c70@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270115T020000Z
 DTEND:20270115T075900Z
 SUMMARY:Planning Commission Meeting (City of Spokane Valley)
@@ -904,7 +904,7 @@ URL:https://www.spokanevalleywa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:b82026e08fa2@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270118T170000Z
 DTEND:20270118T180000Z
 SUMMARY:BoCC Strategic Planning Meeting - 3rd Monday (Spokane County)
@@ -913,7 +913,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2301/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:3072e6238af6@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270119T170000Z
 DTEND:20270119T180000Z
 SUMMARY:BoCC Board Briefing Meeting (Spokane County)
@@ -922,7 +922,7 @@ URL:https://spokanecowa.portal.civicclerk.com/event/2341/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:b587ea43263c@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270119T173000Z
 DTEND:20270119T183000Z
 SUMMARY:Civil Service Commission (City of Spokane boards and commissions)
@@ -931,7 +931,7 @@ URL:https://my.spokanecity.org/bcc/commissions/civil-service-commission/
 END:VEVENT
 BEGIN:VEVENT
 UID:cbf4abaf6421@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270120T000000Z
 DTEND:20270120T010000Z
 SUMMARY:Board of Trustees Meeting (Spokane County Library District)
@@ -940,7 +940,7 @@ URL:https://scld.org/about/board-of-trustees
 END:VEVENT
 BEGIN:VEVENT
 UID:a1b49ff0a4f2@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270120T003000Z
 DTEND:20270120T013000Z
 SUMMARY:Public Library Board of Trustees (City of Spokane boards and commissions)
@@ -949,7 +949,7 @@ URL:https://my.spokanecity.org/bcc/boards/spokane-public-library-board-of-truste
 END:VEVENT
 BEGIN:VEVENT
 UID:83d6aeb0eb0b@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270120T003000Z
 DTEND:20270120T013000Z
 SUMMARY:Library Board of Trustees (Spokane Public Library)
@@ -958,7 +958,7 @@ URL:https://www.spokanelibrary.org/leadership
 END:VEVENT
 BEGIN:VEVENT
 UID:3dcb4e74dcf6@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270120T013000Z
 DTEND:20270120T023000Z
 SUMMARY:Ombuds Commission (City of Spokane boards and commissions)
@@ -967,7 +967,7 @@ URL:https://my.spokanecity.org/bcc/commissions/ombuds-commission/
 END:VEVENT
 BEGIN:VEVENT
 UID:c7fbcee8ba82@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270120T020000Z
 DTEND:20270120T030000Z
 SUMMARY:Bicycle Advisory Board (City of Spokane boards and commissions)
@@ -976,7 +976,7 @@ URL:https://my.spokanecity.org/bcc/boards/bicycle-advisory-board/
 END:VEVENT
 BEGIN:VEVENT
 UID:a6c99e3ee80a@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270120T020000Z
 DTEND:20270120T033000Z
 SUMMARY:Chase Youth Commission (City of Spokane boards and commissions)
@@ -985,7 +985,7 @@ URL:https://my.spokanecity.org/bcc/commissions/chase-youth-commission/
 END:VEVENT
 BEGIN:VEVENT
 UID:7205b927a6f7@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270120T020000Z
 DTEND:20270120T030000Z
 SUMMARY:School Board Meeting (Orchard Prairie School District)
@@ -994,7 +994,7 @@ URL:https://www.orchardprairieschool.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:ed917d7d501b@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270120T200000Z
 DTEND:20270120T213000Z
 SUMMARY:East Sprague Business Improvement District Board (City of Spokane boards and commissions)
@@ -1003,7 +1003,7 @@ URL:https://my.spokanecity.org/bcc/boards/east-sprague-business-improvement-dist
 END:VEVENT
 BEGIN:VEVENT
 UID:2a0a4df946d1@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270121T020000Z
 DTEND:20270121T030000Z
 SUMMARY:Board Meeting Report: Arcadia (Deer Park School District)
@@ -1012,7 +1012,7 @@ URL:http://www.dpsd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:d0020b648a9a@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270121T170000Z
 DTEND:20270121T180000Z
 SUMMARY:Spokane Airport Board (Spokane regional boards)
@@ -1021,7 +1021,7 @@ URL:https://my.spokanecity.org/bcc/boards/spokane-airport-board/
 END:VEVENT
 BEGIN:VEVENT
 UID:2e331ab8ef90@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270121T180000Z
 DTEND:20270122T075900Z
 SUMMARY:Tourism Promotion Area (TPA) Commission Meeting (City of Spokane Valley)
@@ -1030,7 +1030,7 @@ URL:https://www.spokanevalleywa.gov/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:ecd048dba35f@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270121T213000Z
 DTEND:20270121T233000Z
 SUMMARY:Spokane Transit Authority Board (Spokane regional boards)
@@ -1039,7 +1039,7 @@ URL:https://my.spokanecity.org/bcc/boards/spokane-transit-authority/
 END:VEVENT
 BEGIN:VEVENT
 UID:e0736d8122a2@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270122T000000Z
 DTEND:20270122T010000Z
 SUMMARY:Transportation Commission (City of Spokane boards and commissions)
@@ -1048,7 +1048,7 @@ URL:https://my.spokanecity.org/bcc/commissions/transportation-commission/
 END:VEVENT
 BEGIN:VEVENT
 UID:129b77ebd2f4@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270125T233000Z
 DTEND:20270126T003000Z
 SUMMARY:Spokane Housing Authority Board (Spokane regional boards)
@@ -1057,7 +1057,7 @@ URL:https://my.spokanecity.org/bcc/boards/spokane-housing-authority-board/
 END:VEVENT
 BEGIN:VEVENT
 UID:cbb6d55f7174@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270126T020000Z
 DTEND:20270126T030000Z
 SUMMARY:School Board Meeting (Central Valley School District)
@@ -1066,7 +1066,7 @@ URL:https://www.cvsd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:e15cf2e325d4@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270126T020000Z
 DTEND:20270126T040000Z
 SUMMARY:FSD Board Meeting (Freeman School District)
@@ -1075,7 +1075,7 @@ URL:https://www.freemansd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:c2054de064a0@civicswa
-DTSTAMP:20261126T171828Z
+DTSTAMP:20261126T180949Z
 DTSTART:20270126T020000Z
 DTEND:20270126T030000Z
 SUMMARY:School Board Regular Meeting (Mead School District)
