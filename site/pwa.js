@@ -42,6 +42,17 @@
     return;
   }
   var deferred = null;
+  // Android browsers that never offer their own install prompt (Firefox,
+  // Samsung Internet) still have it in their menu; point there after a moment.
+  if (/android/i.test(navigator.userAgent)) {
+    setTimeout(function () {
+      if (deferred || !box.hidden) return;
+      text.textContent = es
+        ? 'En el menú de su navegador, toque “Instalar aplicación” o “Agregar a pantalla de inicio”. CivicsWA aparecerá con sus otras aplicaciones.'
+        : 'In your browser’s menu, tap “Install app” or “Add to Home screen.” CivicsWA shows up with your other apps.';
+      box.hidden = false;
+    }, 4000);
+  }
   window.addEventListener('beforeinstallprompt', function (e) {
     e.preventDefault();
     deferred = e;

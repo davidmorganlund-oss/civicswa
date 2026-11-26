@@ -64,6 +64,14 @@ jobs:
           # Someone may have pushed while this ran; data files are ours, so rebase onto theirs.
           git pull --rebase -X theirs origin main || git pull --rebase origin main
           git push
+      - name: Stamp the app version
+        # Fingerprint every site file except the nightly data, so a change to the
+        # site installs a fresh app shell on phones and a data-only night doesn't.
+        # The service worker always fetches data from the network anyway.
+        run: |
+          v=$(cd site && find . -type f ! -path './data/*' ! -name sw.js -print0 | sort -z | xargs -0 sha1sum | sha1sum | cut -c1-12)
+          sed -i "s/__BUILD__/$v/" site/sw.js
+          grep -q "'$v'" site/sw.js
       - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
         with:
           path: site
