@@ -3,26 +3,8 @@ VERSION:2.0
 PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Jefferson County
 BEGIN:VEVENT
-UID:353974afd914@civicswa
-DTSTAMP:20261125T121111Z
-DTSTART:20261125T220000Z
-DTEND:20261126T003000Z
-SUMMARY:CANCELLED: Housing Fund Board (Jefferson County)
-LOCATION:Port Townsend WA 98368
-URL:https://www.co.jefferson.wa.us/Calendar.aspx
-END:VEVENT
-BEGIN:VEVENT
-UID:b5be3e6c2c57@civicswa
-DTSTAMP:20261125T121111Z
-DTSTART:20261126T013000Z
-DTEND:20261126T033000Z
-SUMMARY:CANCELLED: Jefferson County Planning Commission (Jefferson County)
-LOCATION:
-URL:https://www.co.jefferson.wa.us/Calendar.aspx
-END:VEVENT
-BEGIN:VEVENT
 UID:10f7f3611f91@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261130T170000Z
 DTEND:20261201T003000Z
 SUMMARY:Jefferson County Board of County Commissioners Meeting (Jefferson County)
@@ -31,7 +13,7 @@ URL:https://www.co.jefferson.wa.us/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:3b179d621aac@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261201T220000Z
 DTEND:20261201T230000Z
 SUMMARY:SPECIAL MEETING: Solid Waste Advisory Committee (Jefferson County)
@@ -39,8 +21,17 @@ LOCATION:Quilcene Drop Box 295312 Highway 101 Quilcene\, WA 98376 - 295312 Highw
 URL:https://www.co.jefferson.wa.us/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
+UID:c17e9544a9c2@civicswa
+DTSTAMP:20261126T120914Z
+DTSTART:20261201T220000Z
+DTEND:20261202T000000Z
+SUMMARY:CANCELLED: Tourism Coordinating Council (Jefferson County)
+LOCATION:Port Townsend WA 98368
+URL:https://www.co.jefferson.wa.us/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
 UID:14dad575d001@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261202T200000Z
 DTEND:20261202T223000Z
 SUMMARY:Special Port Commission Meeting (Port of Port Townsend)
@@ -49,7 +40,7 @@ URL:https://portofpt.com/event/special-port-commission-meeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:3fff27cd07b6@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261204T013000Z
 DTEND:20261204T033000Z
 SUMMARY:School Board Meeting (Port Townsend School District)
@@ -58,7 +49,7 @@ URL:http://www.ptschools.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:7b874d0050e9@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261207T170000Z
 DTEND:20261208T003000Z
 SUMMARY:Jefferson County Board of County Commissioners Meeting (Jefferson County)
@@ -67,7 +58,7 @@ URL:https://www.co.jefferson.wa.us/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:87d82f9f0759@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261208T223000Z
 DTEND:20261209T003000Z
 SUMMARY:Behavioral Health Advisory Committee (BHAC) (Jefferson County)
@@ -75,8 +66,17 @@ LOCATION:In-person and virtually on Zoom - 615 Sheridan St Port Townsend WA 9836
 URL:https://www.co.jefferson.wa.us/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
+UID:351dd9dbe180@civicswa
+DTSTAMP:20261126T120914Z
+DTSTART:20261209T220000Z
+DTEND:20261210T000000Z
+SUMMARY:SPECIAL MEETING of the Lodging Tax Advisory Committee (Jefferson County)
+LOCATION:Port Townsend WA 98368
+URL:https://www.co.jefferson.wa.us/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
 UID:a979966a6fc8@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261210T013000Z
 DTEND:20261210T033000Z
 SUMMARY:CANCELLED: Jefferson County Planning Commission (Jefferson County)
@@ -85,7 +85,7 @@ URL:https://www.co.jefferson.wa.us/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:792d9ba60fcd@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261214T170000Z
 DTEND:20261215T003000Z
 SUMMARY:Jefferson County Board of County Commissioners Meeting (Jefferson County)
@@ -94,7 +94,7 @@ URL:https://www.co.jefferson.wa.us/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:f3b1ffd9a735@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261215T213000Z
 DTEND:20261216T075900Z
 SUMMARY:JTA Board Meeting (Jefferson Transit)
@@ -103,7 +103,7 @@ URL:https://jeffersontransit.com/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:85fd5e73bbd7@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:School Board Meeting (Brinnon School District)
@@ -112,7 +112,7 @@ URL:https://www.bsd46.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:cab23feb6bb2@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261216T163000Z
 DTEND:20261216T163000Z
 SUMMARY:Port Commission Workshop (Port of Port Townsend)
@@ -121,7 +121,7 @@ URL:https://portofpt.com/event/port-commission-workshop-32/
 END:VEVENT
 BEGIN:VEVENT
 UID:db6ff6278749@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261217T000000Z
 DTEND:20261217T000000Z
 SUMMARY:Port Commission Special Business Meeting and Intergovernmental Collaborative Group (ICG) Special Meeting & Social Hour/Reception (Port of Port Townsend)
@@ -130,7 +130,7 @@ URL:https://portofpt.com/event/port-commission-business-meeting-32/
 END:VEVENT
 BEGIN:VEVENT
 UID:268cab54edb0@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261217T010000Z
 DTEND:20261217T030000Z
 SUMMARY:JOINT SPECIAL MEETING of the Board of County Commissioners and Intergovernmental Collaborative Group (Jefferson County)
@@ -139,7 +139,7 @@ URL:https://www.co.jefferson.wa.us/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:e704a8cef887@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261217T013000Z
 DTEND:20261217T033000Z
 SUMMARY:Special Meeting - Jefferson County Planning Commission (Jefferson County)
@@ -148,7 +148,7 @@ URL:https://www.co.jefferson.wa.us/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:383c45db119c@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261217T223000Z
 DTEND:20261218T003000Z
 SUMMARY:Jefferson County Board of Health Monthly Meeting (Jefferson County)
@@ -157,7 +157,7 @@ URL:https://www.co.jefferson.wa.us/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:8953e0b4beec@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261218T000000Z
 DTEND:20261218T000000Z
 SUMMARY:Intergovernmental Collaborative Group (ICG) Regular Meetinging & Social (Port of Port Townsend)
@@ -166,7 +166,7 @@ URL:https://portofpt.com/event/intergovernmental-collaborative-group-icg-regular
 END:VEVENT
 BEGIN:VEVENT
 UID:1c8197e5e275@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261218T163000Z
 DTEND:20261218T180000Z
 SUMMARY:JOINT SPECIAL MEETING with the Jefferson County Board of County Commissioners and the Budget Committee (Jefferson County)
@@ -175,7 +175,7 @@ URL:https://www.co.jefferson.wa.us/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:34ce1d5aa1c7@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261221T170000Z
 DTEND:20261222T003000Z
 SUMMARY:Jefferson County Board of County Commissioners Meeting (Jefferson County)
@@ -184,7 +184,7 @@ URL:https://www.co.jefferson.wa.us/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:8ce190f13949@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261222T220000Z
 DTEND:20261223T000000Z
 SUMMARY:Civil Service Commission Meeting (Jefferson County)
@@ -193,7 +193,7 @@ URL:https://www.co.jefferson.wa.us/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:f57696ab96b3@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261223T220000Z
 DTEND:20261224T003000Z
 SUMMARY:Housing Fund Board (Jefferson County)
@@ -202,7 +202,7 @@ URL:https://www.co.jefferson.wa.us/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:bc58df61ee8d@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261224T013000Z
 DTEND:20261224T033000Z
 SUMMARY:CANCELLED: Jefferson County Planning Commission (Jefferson County)
@@ -211,7 +211,7 @@ URL:https://www.co.jefferson.wa.us/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:d16dcc16cbd6@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261228T170000Z
 DTEND:20261229T003000Z
 SUMMARY:Jefferson County Board of County Commissioners Meeting (Jefferson County)
@@ -220,7 +220,7 @@ URL:https://www.co.jefferson.wa.us/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:ef1a7ce6ede2@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20270104T170000Z
 DTEND:20270105T003000Z
 SUMMARY:Jefferson County Board of County Commissioners Meeting (Jefferson County)
@@ -228,8 +228,17 @@ LOCATION:HYBRID 1820 Jefferson St\, BoCC Port Townsend WA 98368
 URL:https://www.co.jefferson.wa.us/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
+UID:76323008704f@civicswa
+DTSTAMP:20261126T120914Z
+DTSTART:20270105T220000Z
+DTEND:20270106T000000Z
+SUMMARY:Tourism Coordinating Council (Jefferson County)
+LOCATION:Port Townsend WA 98368
+URL:https://www.co.jefferson.wa.us/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
 UID:160086815120@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20270107T000000Z
 DTEND:20270107T020000Z
 SUMMARY:TAG Meeting (Jefferson Transit)
@@ -238,7 +247,7 @@ URL:https://jeffersontransit.com/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:04620ebb1b7c@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20270108T003000Z
 DTEND:20270108T013000Z
 SUMMARY:Special Board Meeting-Executive Session (Port Townsend School District)
@@ -247,7 +256,7 @@ URL:http://www.ptschools.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:ed7ab345631a@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20270108T013000Z
 DTEND:20270108T033000Z
 SUMMARY:School Board Meeting (Port Townsend School District)
@@ -256,7 +265,7 @@ URL:http://www.ptschools.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:08234d564eb8@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20270111T170000Z
 DTEND:20270112T003000Z
 SUMMARY:Jefferson County Board of County Commissioners Meeting (Jefferson County)
@@ -264,8 +273,17 @@ LOCATION:HYBRID 1820 Jefferson St\, BoCC Port Townsend WA 98368
 URL:https://www.co.jefferson.wa.us/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
+UID:f09a8f18cab3@civicswa
+DTSTAMP:20261126T120914Z
+DTSTART:20270115T163000Z
+DTEND:20270115T213000Z
+SUMMARY:Hearing Examiner - Anderson - Notice of Violation (Jefferson County)
+LOCATION:Port Townsend WA 98368
+URL:https://www.co.jefferson.wa.us/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
 UID:d454a8704f0d@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20270118T170000Z
 DTEND:20270119T003000Z
 SUMMARY:Jefferson County Board of County Commissioners Meeting (Jefferson County)
@@ -274,11 +292,29 @@ URL:https://www.co.jefferson.wa.us/Calendar.aspx
 END:VEVENT
 BEGIN:VEVENT
 UID:eafd045f3cf7@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20270121T223000Z
 DTEND:20270122T003000Z
 SUMMARY:Jefferson County Board of Health Monthly Meeting (Jefferson County)
 LOCATION:Port Townsend WA 98368
+URL:https://www.co.jefferson.wa.us/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
+UID:e2e649dd4849@civicswa
+DTSTAMP:20261126T120914Z
+DTSTART:20270122T163000Z
+DTEND:20270122T213000Z
+SUMMARY:Hearing Examiner - Anderson - Notice of Violation (Jefferson County)
+LOCATION:Port Townsend WA 98368
+URL:https://www.co.jefferson.wa.us/Calendar.aspx
+END:VEVENT
+BEGIN:VEVENT
+UID:0a37d9bb0419@civicswa
+DTSTAMP:20261126T120914Z
+DTSTART:20270125T170000Z
+DTEND:20270126T003000Z
+SUMMARY:Jefferson County Board of County Commissioners Meeting (Jefferson County)
+LOCATION:HYBRID 1820 Jefferson St\, BoCC Port Townsend WA 98368
 URL:https://www.co.jefferson.wa.us/Calendar.aspx
 END:VEVENT
 END:VCALENDAR

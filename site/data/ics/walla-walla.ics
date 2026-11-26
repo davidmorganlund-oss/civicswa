@@ -4,7 +4,7 @@ PRODID:-//CivicsWA//Public meetings//EN
 X-WR-CALNAME:CivicsWA Walla Walla County
 BEGIN:VEVENT
 UID:5863c52fc250@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261130T170000Z
 DTEND:20261130T180000Z
 SUMMARY:Board of County Commissioners (Walla Walla County)
@@ -13,7 +13,7 @@ URL:https://www.wwcowa.gov/government/commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
 UID:3281dd13e2a6@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261201T000000Z
 DTEND:20261201T010000Z
 SUMMARY:City Council Work Session (City of Walla Walla)
@@ -22,7 +22,7 @@ URL:https://www.wallawallawa.gov/government/city-council
 END:VEVENT
 BEGIN:VEVENT
 UID:28770dbff055@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261202T013000Z
 DTEND:20261202T023000Z
 SUMMARY:City Council Workshop Meeting (City of College Place)
@@ -31,7 +31,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/72/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e3c4a2dd440d@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261203T023000Z
 DTEND:20261203T033000Z
 SUMMARY:City Council Regular Meeting (City of Walla Walla)
@@ -40,7 +40,7 @@ URL:https://www.wallawallawa.gov/government/city-council
 END:VEVENT
 BEGIN:VEVENT
 UID:d63bc48765d5@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261207T170000Z
 DTEND:20261207T180000Z
 SUMMARY:Board of County Commissioners (Walla Walla County)
@@ -49,7 +49,7 @@ URL:https://www.wwcowa.gov/government/commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
 UID:4747e3294002@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:City Council Meeting (City of College Place)
@@ -58,7 +58,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/116/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:a4442e8c61aa@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261210T200000Z
 DTEND:20261210T210000Z
 SUMMARY:Civil Service Commission (City of College Place)
@@ -67,7 +67,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/103/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:57d47a12f8ad@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261214T170000Z
 DTEND:20261214T180000Z
 SUMMARY:Board of County Commissioners (Walla Walla County)
@@ -76,7 +76,7 @@ URL:https://www.wwcowa.gov/government/commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
 UID:c083d416b614@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261215T000000Z
 DTEND:20261215T010000Z
 SUMMARY:City Council Work Session (City of Walla Walla)
@@ -85,7 +85,7 @@ URL:https://www.wallawallawa.gov/government/city-council
 END:VEVENT
 BEGIN:VEVENT
 UID:889705c5ee99@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261215T020000Z
 DTEND:20261215T030000Z
 SUMMARY:Board of Directors Meeting (Dixie School District)
@@ -94,7 +94,7 @@ URL:https://dixiesd.org/event/board-of-directors-meeting-9/
 END:VEVENT
 BEGIN:VEVENT
 UID:740b121b8822@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261216T013000Z
 DTEND:20261216T033000Z
 SUMMARY:School Board Business Meeting (Walla Walla Public Schools)
@@ -103,7 +103,7 @@ URL:https://www.wwps.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:a8eeedcd3433@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:CANCELLED: Planning Commission (City of College Place)
@@ -112,7 +112,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/190/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:e5535c8c4a9b@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261217T023000Z
 DTEND:20261217T033000Z
 SUMMARY:City Council Regular Meeting (City of Walla Walla)
@@ -121,7 +121,7 @@ URL:https://www.wallawallawa.gov/government/city-council
 END:VEVENT
 BEGIN:VEVENT
 UID:17f5188b3cb1@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261218T020000Z
 DTEND:20261218T030000Z
 SUMMARY:Board Meeting (Touchet School District)
@@ -130,7 +130,7 @@ URL:http://www.touchet.k12.wa.us/
 END:VEVENT
 BEGIN:VEVENT
 UID:b66b7d83d178@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261218T020000Z
 DTEND:20261218T030000Z
 SUMMARY:School Board Meeting (Waitsburg School District)
@@ -139,7 +139,7 @@ URL:https://www.waitsburgsd.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:d698f1ca9e98@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261221T170000Z
 DTEND:20261221T180000Z
 SUMMARY:Board of County Commissioners (Walla Walla County)
@@ -148,7 +148,7 @@ URL:https://www.wwcowa.gov/government/commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
 UID:cbe08b46bf38@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:City Council Meeting (City of College Place)
@@ -157,7 +157,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/129/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:92b959b42154@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:School Board Meeting (College Place School District)
@@ -166,7 +166,7 @@ URL:https://www.cpps.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:eaf9d03bc43d@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261225T020000Z
 DTEND:20261225T030000Z
 SUMMARY:School Board Meeting (Prescott School District)
@@ -175,7 +175,7 @@ URL:https://www.prescott.k12.wa.us/
 END:VEVENT
 BEGIN:VEVENT
 UID:a786638001ec@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20261228T170000Z
 DTEND:20261228T180000Z
 SUMMARY:Board of County Commissioners (Walla Walla County)
@@ -184,7 +184,7 @@ URL:https://www.wwcowa.gov/government/commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
 UID:f273b0753aad@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20270104T170000Z
 DTEND:20270104T180000Z
 SUMMARY:Board of County Commissioners (Walla Walla County)
@@ -193,7 +193,7 @@ URL:https://www.wwcowa.gov/government/commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
 UID:2db612885a7b@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20270106T013000Z
 DTEND:20270106T023000Z
 SUMMARY:City Council Workshop Meeting (City of College Place)
@@ -202,7 +202,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/73/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:27363bf53051@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20270111T170000Z
 DTEND:20270111T180000Z
 SUMMARY:Board of County Commissioners (Walla Walla County)
@@ -211,7 +211,7 @@ URL:https://www.wwcowa.gov/government/commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
 UID:29ae6d629a72@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20270112T000000Z
 DTEND:20270112T010000Z
 SUMMARY:City Council Work Session (City of Walla Walla)
@@ -220,7 +220,7 @@ URL:https://www.wallawallawa.gov/government/city-council
 END:VEVENT
 BEGIN:VEVENT
 UID:57977fd04bee@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20270113T020000Z
 DTEND:20270113T030000Z
 SUMMARY:City Council Meeting (City of College Place)
@@ -229,7 +229,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/117/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:b856fc7a7712@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20270114T023000Z
 DTEND:20270114T033000Z
 SUMMARY:City Council Regular Meeting (City of Walla Walla)
@@ -238,7 +238,7 @@ URL:https://www.wallawallawa.gov/government/city-council
 END:VEVENT
 BEGIN:VEVENT
 UID:d279caf35736@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20270114T200000Z
 DTEND:20270114T210000Z
 SUMMARY:Civil Service Commission (City of College Place)
@@ -247,7 +247,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/104/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:2036bee03565@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20270119T170000Z
 DTEND:20270119T180000Z
 SUMMARY:Board of County Commissioners (Walla Walla County)
@@ -256,7 +256,7 @@ URL:https://www.wwcowa.gov/government/commissioners/index.php
 END:VEVENT
 BEGIN:VEVENT
 UID:ab3f9e0fca2d@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20270120T013000Z
 DTEND:20270120T033000Z
 SUMMARY:School Board Business Meeting (Walla Walla Public Schools)
@@ -265,7 +265,7 @@ URL:https://www.wwps.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:2219f5c1b989@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20270120T020000Z
 DTEND:20270120T030000Z
 SUMMARY:Planning Commission (City of College Place)
@@ -274,7 +274,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/1368/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:987fc5f2bc82@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20270120T190000Z
 DTEND:20270120T200000Z
 SUMMARY:Youth Advisory Commission (City of College Place)
@@ -283,7 +283,7 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/1401/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:bc43735f1020@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20270122T000000Z
 DTEND:20270122T010000Z
 SUMMARY:Historic Preservation Commission (City of College Place)
@@ -292,11 +292,29 @@ URL:https://collegeplacewa.portal.civicclerk.com/event/95/overview
 END:VEVENT
 BEGIN:VEVENT
 UID:d161f30ba2e6@civicswa
-DTSTAMP:20261125T121111Z
+DTSTAMP:20261126T120914Z
 DTSTART:20270122T020000Z
 DTEND:20270122T030000Z
 SUMMARY:School Board Meeting (Waitsburg School District)
 LOCATION:Waitsburg Elementary School Library\, 184 Academy St.\, Waitsburg
 URL:https://www.waitsburgsd.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:d0d8943d5b19@civicswa
+DTSTAMP:20261126T120914Z
+DTSTART:20270125T170000Z
+DTEND:20270125T180000Z
+SUMMARY:Board of County Commissioners (Walla Walla County)
+LOCATION:County Public Health and Legislative Building\, 314 W. Main St.\, Walla Walla
+URL:https://www.wwcowa.gov/government/commissioners/index.php
+END:VEVENT
+BEGIN:VEVENT
+UID:068b971249cd@civicswa
+DTSTAMP:20261126T120914Z
+DTSTART:20270126T020000Z
+DTEND:20270126T030000Z
+SUMMARY:Board of Directors Meeting (Dixie School District)
+LOCATION:
+URL:https://dixiesd.org/event/board-of-directors-meeting-10/
 END:VEVENT
 END:VCALENDAR
